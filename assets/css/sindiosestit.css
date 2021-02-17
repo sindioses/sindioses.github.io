@@ -1,0 +1,188 @@
+@import url("sindioses.css");
+
+body {
+    margin: 2%;
+    margin-top: 0;
+    color: #000066;
+}
+
+.section H1, .sec {
+	font-size: 160%;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.section H2 {
+	font-size: 140%;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.section ul.simple {
+    padding: 0px;
+}
+
+.sdtitulo {
+	text-align: center;
+	background-color: Black;
+	color: white;
+	padding: 0;
+	font-weight: bold;
+}
+
+#externo {
+    text-align:left;
+    width:99.9%;
+    margin:auto;
+}
+
+#hdr {
+    height:auto;
+    background-color: black;
+    color: white;
+    --padding: 5px;
+}
+
+#frase, .frase {
+    height: auto;
+    float: left;
+    width: 99.9%;
+	font-style: italic;
+	font-size: 110%;
+	font-weight: bolder;
+	padding: 0px;
+}
+
+div #frase blockquote {
+    padding: 0;
+    margin: 0;
+}
+
+#frase strong {
+    /* font-style: normal; */
+}
+
+.attribution {
+    font-style: normal;
+	font-weight: normal;
+	font-size: 100%;
+	text-align: right;
+    font-variant: small-caps;
+}
+
+#cuerpo {
+    /* position: relative; */
+    /* width:750px; */
+    width: 100%;
+    margin-left: 1em;
+    padding:0;
+}
+
+.col {
+    float:left;
+    text-align: left;
+    width:32.99%;
+}
+
+.col p{
+	margin: 0px;
+}
+
+.col h1 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.col ul {
+	list-style: disc;
+}
+
+.colfb {
+    float:left;
+    text-align: left;
+}
+
+
+
+#busquedas, .busquedas {
+    float: left;
+    clear: both;
+	text-align: left;
+	width: 99.9%;
+	margin: auto;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+div.busquedas {
+    border-top-style: ridge;
+    border-bottom-style: ridge;
+}
+
+.bus {
+	width: 49.5%;
+	float: left;
+	color: darkblue;
+	font-weight: bold;
+}
+
+
+#pie {
+	font-size: 80%;
+	height: auto;
+	color: black;
+	text-align: center;
+	margin: 0%;
+}
+
+#pie1 {
+    width: 66%;
+    float: left;
+    color: darkblue;
+    margin: 0px;
+}
+
+#pie1 p {
+}
+
+#pie2 {
+    width: 25%;
+    float: right;
+}
+
+.logopie {
+    width: 14.28%;
+    float: left;
+}
+
+div.header, div.header p {
+    width: 100%;
+    font-size: 100%;
+    text-align: center;
+    color: white;
+    background: black;
+}
+
+.titimagenes {
+    width: 99.9%;
+    text-align: center;
+    margin-left: 12.5%;
+    margin-top: 10%;
+}
+
+.titimagen {
+	width: 24.9%;
+	float: left;
+	border: 2px solid #8B0000;
+	height: 250px;
+}
+
+.pieindice {
+	float: center;
+	clear: both;
+	text-align: center;
+}
+
+.titulojpg {
+    --margin-top: 35%;
+}
