@@ -1,0 +1,46 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2004-3-10
+.. type: afirmacrea
+.. title: CC120: Se encontró un dedo humano fosilizado del Cretácico
+.. description: Respuesta a la afirmación creacionista «Se encontró un dedo humano fosilizado del Cretácico»
+.. slug: CC120
+.. link: http://www.talkorigins.org/indexcc/CC/CC120.html
+
+**Fuente:**
+
+Lines, David, 1995. The fossilized human finger. http://www.creationevidence.org/museum_tour/finger/finger.html
+
+Respuesta
+=========
+
+1. El dedo luce similar en forma y tamaño a los rellenos sedimentarios cilíndricos de madrigueras de camarones *Opiomorpha* o *Thalassinoides* comúnmente encontrados en rocas cretácicas. También podría ser una formación erosionada. Aunque su forma general asemeja un dedo, no tiene ninguna estructura fina que uno esperaría de un dedo.
+
+2. El fósil no fue hallado *in situ*, de modo que no puede asociárselo de forma concluyente con las formaciones del Cretácico ([Kuban_1996]_). Incluso si fuera un verdadero dedo fósil, no tendría valor como evidencia contraria a la evolución.
+   
+
+Enlaces
+=======
+
+Kuban, Glen J., 2012. An Alleged Cretaceous Finger. http://paleo.cc/paluxy/finger.htm
+
+Kuban, Glen J. 1996. A review of NBC's "The Mysterious Origins of Man". http://www.talkorigins.org/faqs/paluxy/nbc.html 
+
+Referencias
+===========
+
+.. [Kuban_1996] Kuban, G. J. 1996. (ver arriba) 
+
+		
+/////
+
+Anterior: :doc:`CC112` | Siguiente: :doc:`CC130`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

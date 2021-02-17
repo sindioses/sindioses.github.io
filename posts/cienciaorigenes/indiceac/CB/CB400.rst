@@ -1,0 +1,44 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB400
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB400
+.. link: http://www.talkorigins.org/indexcc/CB/CB400.html
+.. date: 2003-6-25
+.. title: CB400: La evolución no puede explicar la conciencia o el libre albedrío
+.. description: Respuesta a la afirmación creacionista «La evolución no puede explicar la conciencia o el libre albedrío»
+.. type: afirmacrea
+
+**Fuente:**
+
+Johnson, Phillip, 1990. Evolution as dogma: The establishment of naturalism. *First Things*, Oct. 1990, 15-22. http://www.arn.org/docs/johnson/pjdogma1.htm
+
+Respuesta
+===========
+
+1. Esta es una :doc:`falacia de la incredulidad personal <CA100>`. No tener una explicación no significa que una explicación es imposible. Y dado que apenas estamos comenzando a comprender lo que es la conciencia, no es sorprendente que aún no hayamos descubierto su origen.
+
+   De hecho, se han propuesto explicaciones preliminares para el origen de la conciencia, aunque son demasiado complicadas para intentar resumirlas aquí (véase [Dennett_1991]_ y [Minsky_1985]_). Se necesita mucha más experimentación y mucho más refinamiento antes de que tengamos una teoría completa sobre el origen de la conciencia, pero tenemos más que suficiente para saber que tal teoría es posible.
+
+2. Un factor que probablemente contribuye a la afirmación de que la conciencia es inexplicable es el hecho de que mucha gente no quiere una explicación naturalista de la conciencia, dado que una conciencia natural no se concilia bien con un alma divina. Esto amenaza el deseo que siente la gente por un origen divino y la inmortalidad (pero véase [Dennett_1991]_, 430 para saber más sobre la inmortalidad de una conciencia natural). Un examen exclusivamente sobre este tema podría llenar un libro. Sin embargo, baste decir:
+
+   a. Actualmente hay muchas pruebas —en la predisposición genética de la conducta y la personalidad, en los estudios de los daños cerebrales, en las imágenes del cerebro de personas sanas— que la conciencia es natural. Un origen natural no importaría mucho, más allá de eso.
+
+   b. Lo que deseamos no tiene relación con lo que realmente es.
+
+Referencias
+===============
+
+.. [Dennett_1991]    Dennett, Daniel C., 1991. Consciousness Explained. Boston: Little, Brown and Company.
+.. [Minsky_1985]    Minsky, M., 1985. The Society of Mind. New York: Simon & Schuster.
+
+
+/////
+
+Anterior: :doc:`CB381` | Siguiente: :strong:`CB400_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

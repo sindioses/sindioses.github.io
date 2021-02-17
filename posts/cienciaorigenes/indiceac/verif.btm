@@ -1,0 +1,13 @@
+@echo off
+REM :::mode=batch:encoding=CP1252:
+REM :: color bri yel on bla
+REM :: echo Pendientes de enlazar en artículos:
+REM :: echo ===================================
+REM :: color whi on bla
+REM :: sfk find -pat :strong: -dir . -file .txt
+REM :: echo.
+color bri yel on bla
+echo Errores surgidos en la generación:
+echo ==================================
+color whi on bla
+py -3 pendientes.py -v

@@ -1,0 +1,39 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB025
+.. link: http://www.talkorigins.org/indexcc/CB/CB025.html
+.. date: 2004-04-26 02:00:00+00:00
+.. title: CB025: No todos los aminoácidos necesarios para la vida se han formado experimentalmente
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «No todos los aminoácidos necesarios para la vida se han formado experimentalmente»
+
+El experimento original de abiogénesis de Stanley Miller produjo sólo cuatro de los veinte aminoácidos a partir de los cuales se construyen las proteínas, y experimentos posteriores aún no han producido los veinte aminoácidos en condiciones plausibles.
+
+**Fuente:**
+
+Watchtower Bible and Tract Society. 1985. *Life--How Did It Get Here?* Brooklyn, NY, pg. 40.
+
+Respuesta
+===========
+
+1. El experimento de Miller produjo trece de los veinte aminoácidos utilizados en la vida ([Henahan_1996]_). Otros pueden haberse formados mediante otros mecanismos. Por ejemplo, pueden haberse formado en el espacio y haber sido transportados en meteoros ([Pizzarello_y_Weber_2004]_).
+
+2. No se sabe cuáles aminoácidos se necesitan para la vida más primitiva. Puede ser que los aminoácidos que se forman fácilmente fueran suficientes, y que la vida evolucionó más tarde para producir otros y depender de ellos.
+
+Referencias
+===============
+
+.. [Henahan_1996]    Henahan, Sean. 1996. From primordial soup to the prebiotic beach: An interview with exobiology pioneer, Dr. Stanley L. Miller. http://www.accessexcellence.org/WN/NM/miller.html
+.. [Pizzarello_y_Weber_2004]    Pizzarello, S. and A. L. Weber. 2004. Prebiotic amino acids as asymmetric catalysts. Science 303: 1151.
+
+/////
+
+Anterior: :doc:`CB020` | Siguiente: :doc:`CB026`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

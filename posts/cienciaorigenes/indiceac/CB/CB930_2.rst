@@ -1,0 +1,41 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CB930.2: Un buque pesquero japonés encontró un plesiosaurio
+.. description: Respuesta a la afirmación creacionista «Un buque pesquero japonés encontró un plesiosaurio»
+.. slug: CB930_2
+.. link: http://www.talkorigins.org/indexcc/CB/CB930_2.html
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2001-02-17
+
+
+En 1977, un pesquero japonés atrapó en sus redes el cadáver de un plesiosaurio.
+
+Fuente
+======
+
+* Swanson, R., 1978. A (recently) living plesiosaur found? *Creation Research Society Quarterly* 15(1): 8.
+* Morris, John D., 1999. *Dinosaurs, The Lost World, and You*, Master Books, p. 38
+
+Respuesta
+=========
+
+1. El cadáver era de un tiburón peregrino parcialmente descompuesto, de acuerdo con las muestras de tejido y las descripciones y bosquejos de los testigos. Los informes de que era un plesiosaurio se basaban en un parecido superficial causado por la forma en que se descomponen los tiburones, y los medios noticiosos difundieron la noticia exagerándola ([Kuban_1997]_).
+2. Aunque el cadáver hubiera sido de un plesiosaurio, ese hallazgo no hubiera sido una contradicción de la evolución. La teoría de la evolución no exige que una especie se extinga luego de cierto plazo.
+
+Referencia (y lectura recomendada)
+==================================
+
+.. [Kuban_1997] Kuban, Glen J., 1997. Sea monster or shark? An analysis of a supposed plesiosaur carcass netted in 1977. *Reports of the National Center for Science Education* 17(3): 16-28. http://paleo.cc/paluxy/plesios.htm
+
+
+/////
+
+Anterior: :doc:`CB930_1` | Siguiente: :doc:`CB930_3`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,34 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA200
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA221
+.. link: http://talkorigins.org/indexcc/CA/CA221.html
+.. date: 2004-05-10 02:00:00+00:00
+.. title: CA221: ¿Estuviste ahí?
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «¿Estuviste ahí?»
+
+**Fuente:**
+
+Ham, Ken. 1989. Were you there? *Back To Genesis* 10a (Oct.), http://www.icr.org/index.php?module=articles&action=view&ID=670
+
+Respuesta
+=============
+
+1. Sí, porque "ahí" es aquí. Los eventos del pasado dejan huellas que duran hasta el presente, y podemos examinar esas pruebas hoy, y lo hacemos.
+
+2. Si esta respuesta fuera un cuestionamiento válido para la evolución, también invalidaría el creacionnismo y el cristianismo, ya que ambos están basados en eventos que nadie que esté vivo hoy ha presenciado.
+
+3. Una pregunta más útil y más general es "¿Cómo lo sabes?". Si la persona que hace una afirmación no puede responder la pregunta, uno puede considerar que la afirmación carece de base (provisionalmente, dado que alguien más podría ser capaz de responder). Si la respuesta es subjetiva (por ejemplo, si se basa en las convicciones religiosas de la persona), uno sabe que la afirmación no se aplica necesariamente a alguien más que esa persona. Si no se entiende la respuesta, probablemente se tenga que estudiar un poco. Si se recibe una buena respuesta, se sabe que se puede tomar la afirmación en serio.
+
+
+/////
+
+Anterior: :doc:`CA220` | Siguiente: :doc:`CA230`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,45 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA100
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA100
+.. link: http://www.talkorigins.org/indexcc/CA/CA100.html
+.. date: 2003-09-02 02:00:00+00:00
+.. title: CA100: Falacia de la incredulidad personal
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Falacia de la incredulidad personal»
+
+Es inconcebible que **X** pueda haberse originado de forma natural. Por lo tanto, debe haber sido creado.
+
+Este argumento, también conocido como argumento *ad ignorantiam* o "dios de los huecos", está implícito en muchos distintos argumentos creacionistas. En particular, está detrás de todos los argumentos sobre abiogénesis y todas las afirmaciones de diseño inteligente.
+
+Respuesta
+=============
+
+1. En realidad, la afirmación es "*Yo* no puedo concebir **X**". Quizá otros sean capaces de hallar una explicación natural; en muchos casos, ya lo han hecho. Nadie lo sabe todo, de modo que no es razonable sacar la conclusión de que algo es imposible sólo porque uno no lo sabe. Incluso un renombrado antievolucionista reconoce este punto: "El peligro de los argumentos negativos es que pueden afirmarse en nuestra falta de conocimiento, en lugar de en resultados positivos" ([Behe_2003]_).
+
+2. La falacia de la incredulidad personal crea un dios de los huecos. Los dioses eran responsables de los relámpagos hasta que establecimos las causas naturales de relámpago; lo eran de las enfermedades infecciosas hasta que encontramos las bacterias y los virus; lo eran de la enfermedad mental hasta que encontramos sus causas bioquímicas. Dios se limita sólo a esas partes del universo que no conocemos, y esas partes se reducen cada vez más.
+
+Referencias
+=============
+
+.. [Behe_2003] Behe, Michael. 2003. A functional pseudogene?: An open letter to Nature. http://www.arn.org/docs2/news/behepseudogene052003.htm
+
+Otras lecturas
+=================
+
+Drummond, Henry. 1904. *The Lowell Lectures on the Ascent of Man,* Glasgow: Robert Maclehose and Co. Ltd., ch. 10. http://www.ccel.org/d/drummond/ascent/ascent14.htm
+
+Van Till, Howard J. 2002. Is the Creation a 'right stuff' universe? *Perspectives on Science and Christian Faith* 54(4): 232.
+
+/////
+
+Anterior: :doc:`CA045` | Siguiente: :doc:`CA100_1`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

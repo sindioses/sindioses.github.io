@@ -1,0 +1,76 @@
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC200
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. link: http://www.talkorigins.org/indexcc/CC/CC201.html
+.. date: 2003-05-24
+.. modified: 2004-03-17
+.. title: CC201: Deberíamos ver un cambio gradual a lo largo del registro fósil, no huecos
+.. description: Respuesta a la afirmación creacionista «Deberíamos ver un cambio gradual a lo largo del registro fósil, no huecos»
+.. type: afirmacrea
+.. slug: CC201
+
+Si la evolución procede por medio de la acumulación de pasos pequeños, deberíamos ver un continuo gradual de criaturas extendiéndose por el registro fósil. En lugar de ello, vemos largos períodos en los que las especies no cambian, y hay huecos entre los cambios.
+
+**Fuente:**
+
+* Morris, Henry M. 1974. *Scientific Creationism*. Green Forest, AR: Master Books, p. 78.
+* Johnson, Phillip E., 1990. Evolution as dogma: The establishment of naturalism. *First Things* no. 6, pp. 15-22, http://www.arn.org/docs/johnson/pjdogma1.htm
+
+Respuesta
+============
+
+1. La idea de que en toda la extensión del registro fósil debería haber cambio gradual se llama *gradualismo filético*. Se basa en las siguientes suposiciones:
+
+   a. Las especies nuevas surgen por la transformación de una población ancestral en sus descendientes modificados.
+   b. La transformación es pareja y lenta.
+   c. La transformación involucra a la mayoría de la población ancestral.
+   d. La transformación ocurre sobre la casi totalidad de la extensión geográfica de la especie ancestral.
+
+
+   Sin embargo, salvo la primera, el resto de la suposiciones son falsas más veces de lo que son verdaderas. Los estudios de poblaciones modernas y especies incipientes muestran que las especies nueva surgen en su mayoria de la división de una parte pequeña de la especie original en una nueva área geográfica. La genética de poblaciones en poblaciones pequeñas permite que esta especie nueva evolucione de forma relativamente rápida. Su evolución puede permitirle extenderse a nuevas áreas geográficas. Dado que las transiciones reales ocurren relativamente rápido y en un área relativamente pequeña, las transiciones no aparecen con frecuencia en el registro fósil. La aparición súbita en el registro fósil simplemente refleja que una especie existente se movió a una región nueva.
+
+   Una vez las especies están bien adaptadas a un entorno, las presiones selectivas tienden a mantenerlas adaptadas. Un cambio en el entorno que altere la presión selectiva, por lo tanto, terminaría con la "estasis" (o llevaría a la extinción).
+
+   Debe notarse que ni siquiera Darwin esperaba que la tasa de cambio evolutivo fuera constante.
+
+     *[L]a selección natural obrará, en general, con mucha lentitud, y sólo con largos intervalos y sólo sobre algunos de los habitantes de la misma región. Creo además que estos lentos e intermitentes resultados concuerdan bien con lo que la Geología nos dice acerca de la velocidad y manera como han cambiado los seres que habitan la tierra.*
+
+     —\ [Darwin_1872]_, 140-141, cap. 4
+
+     *Pero he de hacer observar aquí que no supongo yo que el proceso continúe siempre tan regularmente como está representado en el cuadro -aunque éste es ya algo irregular-, ni que se desarrolle sin interrupción; es mucho más probable que cada forma permanezca inalterable durante largos períodos y experimente después otra vez modificación.*
+
+     —\ [Darwin_1872]_, 152
+
+     *Es una consideración más importante [...] que el período durante el cual una especie experimentó modificaciones, aunque largo, si se mide por años, fue probablemente corto en comparación con el período durante el cual permaneció sin experimentar cambio alguno.*
+
+     —\ [Darwin_1872]_, 428, cap. 10
+
+     *debió ser preciso un tiempo enorme para adaptar un organismo a algún modo nuevo y peculiar de vida -por ejemplo, a volar por el aire- y, por consiguiente, que las formas de transición con frecuencia quedarían durante mucho tiempo limitadas a una región; pero que, una vez que esta adaptación se efectuó y algunas especies hubieron adquirido así una gran ventaja sobre otros organismos, sería necesario un espacio de tiempo relativamente corto para producir muchas formas divergentes, que se dispersarían rápidamente por todo el mundo.*
+
+     —\ [Darwin_1872]_, 433
+
+2. La imperfección del registro fósil (debido a la erosión y a períodos desfavorables a la preservación de los fósiles) también causa huecos, aunque probablemente no los explique todos.
+
+3. Existen algunas :doc:`secuencias transicionales <CC200>`, que muestran un continuo gradual de formas, aunque se produzca una tasa desigual de cambio.
+
+4. Aún así el registro fósil muestra un cambio importante a lo largo del tiempo. Los creacionistas que notan los muchos huecos casi nunca admiten la conclusión lógica: si se deben a la creación, debería haber habido cientos, quizá incluso millones, de eventos de creación separados desperdigados a lo largo del tiempo.
+
+Enlaces
+=======
+
+Elsberry, Wesley R. 1996. Punctuated equilibria. http://www.talkorigins.org/faqs/punc-eq.html
+
+Referencias
+===========
+
+.. [Darwin_1872] Darwin, C. 1872. The Origin of Species, 6th ed. London: Senate, http://www.talkorigins.org/faqs/origin/chapter6.html o http://www.literature.org/authors/darwin-charles/the-origin-of-species/chapter-06.html. Nuestra traducción se basa en la traducción del original realizada por Antonio de Zulueta.
+
+/////
+
+Anterior: :doc:`CC200_1` | Siguiente: :doc:`CC201_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,96 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. author: James Randi (traducción: Glenys Álvarez)
+.. title: Cinturones de seguridad con fallas, ¿un antiguo doblador de cucharas?, otra vez el toque terapéutico y ¡por fin han exonerado a las brujas!
+.. type: randi
+.. category: Traducciones de James Randi
+.. date: 2002-01-25
+
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:
+
+.. |tit| replace:: Cinturones de seguridad con fallas, ¿un antiguo doblador de cucharas?, otra vez el toque terapéutico y ¡por fin han exonerado a las brujas!
+.. |autor| replace:: **Glenys Álvarez**
+
+.. class:: primera
+
+Moti Ben-Ari nos ha enviado una traducción de un artículo que apareció en una edición reciente del periódico “Yediot Aharonot”:
+
+ .. figure:: 012502-SeatBelt.jpg
+   :alt:
+   :figwidth: 204
+
+   ¡Caramba, oficial! ¡Mis poderes de sanación tomaron el control!
+
+ Oren Zerif fue detenido en la autopista de Tel-Aviv-Jerusalem por un policía de tránsito quien lo envió a una convocatoria por no usar su cinturón de seguridad. En el juicio, su abogado reclamó que Zerif tenía poderes sobrenaturales y que éstos habían causado que el seguro en el cinturón se doblara. Por lo tanto, el cinturón se había zafado solo y ahora era imposible cerrarlo de nuevo. El fiscal personalmente investigó y recomendó que los cargos fueran retirados porque: “Observé (bajo condiciones favorables) la habilidad del señor Oren Zerif de cambiar la forma de los objetos metálicos. De acuerdo con mi mejor juicio y entendimiento, yo afirmo que el fenómeno es real, sin la sospecha de magia o ilusión”.
+
+Caramba. Si alguna vez cometo una infracción de tránsito en Israel intentaré conseguir ese fiscal y ese juez para mi caso. Son verdaderamente perceptivos ¿no? ¡Qué verguenza para el sistema judicial israelí! Pero, un momento. ¿Somos menos tontos aquí en Estados Unidos? No lo creo. Hemos tenido jueces que usan la astrología en sus tribunales y, en un caso en el que fui llamado como testigo experto, el juez declaró ante todo el tribunal, al comienzo de la vista, que él sabía que la Percepción ExtraSensorial y los poderes psíquicos de sanación habían sido “probados” por la ciencia y, que él, por lo tanto, no tendría la menor duda acerca de estos asuntos durante el proceso. (La “psíquica” que abrió el caso perdió y fue multada con una cantidad bastante alta además de los gastos por el juicio, debido a su extraño comportamiento. Ésa sí que no la vio venir...)
+
+__________________________________________
+
+
+.. image:: 012502-commiespoonbender.jpg
+   :alt:
+   :align: right
+
+Este es un interesante artículo, a pesar de la mala ortografía y gramática (corregidas aquí), la no existencia del lugar reclamado por el autor del mensaje electrónico y, el hecho de que ninguna de las fuentes que ha dado han sido encontradas. Todo esto nos dice que puede que haya algo misterioso aquí. Le pedí a mis lectores que miraran e investigaran por mí...
+
+En Rusia, en la primavera de 1953, existe información acerca de un “psíquico” desconocido llamado Dimitri Polovov, quien comenzara una serie de conferencias y demostraciones públicas sobre percepción extrasensorial en Berlín Este. Utilizando la versión de siempre de que todo el mundo posee estas habilidades pero en forma latente, Polovov había conseguido un éxito moderado, aunque - ¡misteriosamente!- parece no haber nada escrito sobre él en los medios de comunicación del período. Además, siguiendo la misma línea conocida por todos, él le decía a su audiencia que si aprendían las técnicas diseñadas por él, ellos también podrían dominar estos estupendos poderes. Su hazaña más efectiva y original era su habilidad para doblar una cuchara de metal al tomarla entre su pulgar e índice y ¡concentrarse en ésta! Para estas fechas Uri Geller tenía siete años...
+
+
+Lo que aparece aquí es la “única foto conocida” de Polovov - lo que me pone aún más sospechoso ya que estas personas son difícilmente tímidas. Pronto, nos dicen, el mago tenía estudiantes luchando por una oportunidad para aprender sus técnicas y, un año más tarde, atrajo la atención del gobierno local quienes de repente prohibieron todas sus futuras apariciones y tomaron al artista bajo custodia.
+
+Se dice que nadie supo más de Polovov hasta 1954 cuando su nombre fue publicado en una lista de “investigadores oficiales” en la “Academia de Ciencia Físicas de Kiev”, una organización que tampoco he podido localizar. Mis conexiones en esa parte del mundo tampoco han escuchado sobre ella. Ahora bien, es cierto que en esa época los soviéticos estaban envueltos seriamente en proyectos donde se investigaban si los efectos paranormales podían ser usados como armas. No se rían: el gobierno estadounidense estaba tan profundamente envuelto en estos proyectos como los rusos, en caso de que fuese verdad aquello de las haditas que viven en el jardín. El grupo soviético, aparentemente, fue disuelto en 1955 y de Polovov nunca se volvió a saber.
+
+Las fuentes citadas para este extraño artículo son: “Spoon Bending” un capítulo dentro del libro “Strange Facts of the Unknown World” publicado en 1978 por Register Press. Tampoco he podido localizar a Register Press y la forma como luce esta foto me pone altamente sospechoso. Pero esperaré para escuchar más de mis lectores...
+
+__________________________________________
+
+De un artículo titulado “Unruffling the Mystique of Therapeutic Touch” por Linda Pearson, editora en jefe de “The Nurse Practitioner” edición de noviembre 2001, hemos extraído estos párrafos:
+
+  Una lectora me llamó este verano para discutir su preocupación por una enfermera de práctica avanzada (APN) a quien había visto usar la técnica del toque terapéutico (TT) en una paciente con un serio y agudo caso de infección de la piel. La lectora le preguntó a la APN porqué usaba el TT en su paciente y la APN respondió que recetar antibióticos tomados y “desarreglar el campo energético”era una alternativa aceptada a la hospitalización con terapia de antibióticos a través de una intravenosa. Este mes, nuestro departamento de Comunicaciones Cortas presenta una crítica científica del TT por Kevin Courcey. La investigación preliminar del autor indica que, a pesar de la historia de 25 años del TT, estudios bien diseñados documentan que la habilidad de un practicante de TT para detectar campos de energía humana (HEF), sencillamente no existe.
+
+  ...La controversia con respecto al TT hizo que la Fundación Educacional de James Randi (http://www.randi.org/research/index.html), crítico del TT, ofreciera un millón de dólares a cualquier practicante de TT que pudiera validar esta terapia utilizando estrictos principios y metodología científica. Aunque más de 50,000 practicantes estadounidenses de TT proclaman poseer la habilidad para detectar HEF, sólo una persona ha intentado cobrar el premio y ella fracasó. Desde entonces, ningún otro practicante se ha atrevido a demostrar su habilidad de detectar estos campos. Y, hasta una petición directa a Dolores Kriegel, fundadora de la terapia TT, fue completamente ignorada.
+
+La señora Pearson también sugirió a sus lectores que consulten la página web sin fines de lucro Quackwatch en: http://www.quackwatch.com si desean más información sobre el tema de TT.
+
+_________________________________________
+
+
+.. figure:: 012502-cotton.jpg
+   :alt:
+   :figwidth: 204
+
+   Cotton Mathers ¿estaba equivocado?
+
+Entre junio 10 y septiembre 22 de 1692, el municipio de Salem, Massachusetts, acusó, juzgó, encontró culpable y ahorcó o mató “a presión”, a 20 hombres y mujeres - ¡y dos perros!- por el crimen de brujería. Fue una gran victoria para el fanatismo, la superstición y el terror en el Nuevo Mundo, mayormente dirigida por Cotton Mather, quien con mucho entusiasmo envió a estos criminales a sus apropiados castigos.
+
+Diecinueve años pasaron y, en 1711 la Asamblea General de Massachusetts llevada a cabo en Boston, promulgó un “Reversal of Attainder” que concernía a los procedimientos anteriores. Todos, menos seis de los ejecutados, fueron perdonados- aunque ninguno de los perros. Esto fue resultado directo de una directiva organizada por la Reina Mary. No, no la sangrienta Mary (Bloody Mary) a quien le encantaba ahorcar, planchar, hervir, freír a cualquiera que le molestara. Ésta es la que reinó más tarde. La directiva fue promulgada en 1693 e instruía a que:
+
+   ...en todos los procedimientos contra personas acusadas de brujería o de estar poseídas por el demonio, la mayor Moderación y toda la Circunspección posible sea utilizada, en tanta medida como ésta no vaya a interferir o a impedir el curso Ordinario de la justicia.
+
+A un observador inexperto como yo ésto le suena como si Mary II le estuviera declarando al mundo un ¡ups! Real. La compensación sustancial fue otorgada a los herederos de aquellos tratados de forma tan errónea y hasta fue proclamado que, tal vez, aquellos que realizaron las acusaciones en contra de sus conciudadanos eran para nada confiables:
+
+  Además, se ha descubierto que algunos de los principales Acusadores y Testigos en aquellos oscuros y severos juicios, eran personas libertinas y de conversaciones depravadas.
+
+Si, yo diría que ahora sí que comenzamos a describir la situación. En 1957, el Tribunal General de Massachusetts, tomó otro intrépido salto hacia la jurisprudencia moderna al perdonar formalmente a otro de los ahorcados en 1692, mientras evitaba, cuidadosamente, mencionar el mandato de 1711. La declaración de 1957 dice que los herederos de los perdonados no pueden buscar ni obtener ningún tipo de compensación como resultado del error previo.
+
+Adelantándonos hacia el 2001 E.C. ... El día de Hallowe'en, la legislatura estatal del Colectivo de Massachusetts solemnemente limpió los nombres de los últimos cinco “brujos” ejecutados. Sólo nos toma 300 años, más o menos, para pensar sobre estos asuntos y concluir que pudimos haber estado equivocados. Eso es progreso.
+
+__________________________________________
+
+He recibido muchos mensajes donde me preguntan porqué usé el término “peso” en vez del término “masa” cuando describía el extraño experimento con los gusanos la semana pasada. Como el investigador no se encontraba en un elevador ni se movía lejos del centro de la Tierra, pienso que la terminología es aplicable. Un “peso” de un kilogramo expresa la atracción gravitatoria de la Tierra, en la superficie, de una masa de un kilogramo. Creo que todos entendemos eso....
+
+¡Quisquillosos, quisquillosos, quisquillosos! Pero, tenían razón, en una forma un poco confusa.....
+
+(Suspiro)
+
+|firmarandi|
+
+**Nota de la traductora:** En estas dos primeras versiones del comentario de Randi excluí un ensayo escrito por dos paleontólogos amigos del famoso mago. El ensayo, demasiado largo y técnico para el tiempo que le puedo dedicar ahora a estas traducciones, lo pueden encontrar en la página de Randi y se refiere a las propiedades físicas de los supuestos fantasmas.
+
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+  :author: Traducido por Glenys Álvarez
+  :description: Cinturones de seguridad con fallas, ¿un antiguo doblador de cucharas?, otra vez el toque terapéutico y ¡por fin han exonerado a las brujas!

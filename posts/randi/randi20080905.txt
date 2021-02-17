@@ -1,0 +1,176 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. author: James Randi, traducción de Ángel Arnal Artigas
+.. title: Absurdo. El evento de Shermer. Algunos comentarios de peso. Alarmante aceptación del curanderismo. Un enorme paso atrás. Respuestas estúpidas. Un poco de esperanza. Para terminar...
+.. date: 2008-09-05 00:00:00
+.. type: randi
+.. category: Traducciones de James Randi
+
+
+Absurdo
+.......
+
+.. figure:: http://www.randi.org/images/commentary/200809/vf.jpg
+   :alt:
+   :figwidth: 126
+
+   Arriero de dinosaurios...
+
+
+Un tal Vince Fenech, pastor evangelista y director de la "Accelerated Christian Academy Creationist Institution" (Institución Creacionista de la Academia Cristiana Acelerada) de Malta, con todos los permisos y licencias estatales, ha alcanzado un nuevo nivel de fantasía que rivaliza con la mayoría de los que encontramos en estos días, incluso en la escena política de los EE.UU. Dice este estudiante de ciencia mitológica que los dinosaurios ayudaron a construir las pirámides de Egipto. Este es un aspecto poco conocido de la arqueología, incluso tal y como se enseña en Egipto o a los cienciólogos.
+
+.. image:: http://www.randi.org/images/commentary/200809/dino.jpg
+   :alt:
+   :align: right
+
+Mientras que algunos de nosotros tenemos la pintoresca idea de que los dinosaurios (hablamos de los GRANDES) se extinguieron hace unos 65 millones de años, Fenech nos revela que en realidad coexistieron con los primeros humanos, e incluso ayudaron en la construcción de las pirámides. Nos dice que esas bestias de mencionan en el Libro de Job, pero advierte de que su observación sobre su uso para la construcción de pirámides sólo es "su creencia personal". El curriculum de la Academia no está exactamente libre de esas caprichosas reinvenciones de la historia. Insisten en que el dogma evangelista básico de que todo el universo se creó en el año 4004 antes de nuestra era es cierto, y Fenech nos aporta "pruebas" de esta idea:
+
+	Cuando el hombre aterrizó en la luna [1969], esperaban que el módulo de aterrizaje se hundiera en una profunda capa de polvo. Pero la capa sólo tenía unas pocas pulgadas de profundidad. ¡Esto demuestra que el universo todavía es joven!
+
+Hey, ¿cómo podemos negar esta prueba?
+
+Como reveló un artículo del Malta Times en el que comentaban esta bobada de la Accelerated Christian Academy Creationist Institution, se notificó a la directora de Educación de Malta, la Dra. Cecilia M. Borg, acerca de las tonterías descaradamente anticientíficas que evidentemente se enseñaban allí. El Times le consultó sobre la resolución nº1580, aprobada por la asamblea parlamentaria del Consejo de Europa el 4 de octubre de 2007 titulada "Los peligros del creacionismo en la educación". Esta resolución observa que
+
+	...la guerra contra la teoría de la evolución y contra sus proponentes se origina a menudo en forma de extremismo religioso que cierra filas con movimientos políticos de extrema derecha.
+
+Y se pide a los miembros de la UE que
+
+	...se opongan firmemente a la enseñanza del creacionismo como disciplina científica en pie de igualdad con la teoría de la evolución y en general se resistan a la presentación de ideas creacionistas en cualquier disciplina distinta a la religión.
+
+Llegó esta repuesta de la Dra. Borg:
+
+	Estoy segura de que a partir de correspondencia anterior podrá deducir claramente que la posición de la División de Educación está perfectamente alineada con la Resolución 1580 del Consejo de Europa desde el momento en que se dejó meridianamente claro que todas las escuelas están obligadas por ley a seguir el Curriculum Mínimo Nacional en todas las materias curriculares, mientras que la instrucción en cuestiones religiosas, morales y éticas se imparte según la libertad de creencias garantizada por la Constitución y a la luz del "derecho de los padres de un menor a tomar su decisión con respecto a cualquier materia relativa a la educación que vaya a recibir el menor", como se afirma en el artículo 6 de la Ley de Educación.
+
+Dra. Borg, creo que no ha logrado diferenciar entre asuntos de valor estrictamente educativo y factual (como la ciencia) y los de importancia generalmente filosófica. La asamblea parlamentaria del Consejo de Europa colocó claramente las ideas como las de Vince Fenech en la categoría de la religión. En mi opinión personal, las cuestiones de mitología, religión y fantasía pueden y deben quedar al margen de asignaturas "duras" como las matemáticas, ciencia, geografía, etc. La religión es parte de la historia, y pertenece a esa categoría como un estudio específico de cómo solíamos pensar sobre la realidad.
+
+Estas son mis opiniones personales.
+
+El evento de Shermer
+....................
+
+.. image:: http://www.randi.org/images/commentary/200809/shermerlogo.jpg
+   :alt:
+   :align: right
+
+
+Tenemos el placer de anunciar la Conferencia de la Sociedad Escéptica de 2008 que se celebrará los días 3 y 4 de octubre - viernes y sábado - en el Auditorio Beckman del Instituto de Tecnología de California (Caltech), teniendo como anfitriones al Dr. Michael Shermer y al Dr. Philip Clayton. Tratarán "La Gran Pregunta" - que Michael describe así:
+
+	Hoy en día se podría decir que no hay ningún asunto más candente en la cultura que la ciencia y la religión, y gran parte del debate gira alrededor de la "Gran Pregunta" que abarca los "orígenes": el origen del universo, el origen de las leyes de la naturaleza "finamente ajustadas", el origen del tiempo y la flecha del tiempo, el origen de la vida y de la vida compleja y el origen del cerebro, la mente y la consciencia. Desde los teólogos y filósofos apologetas hasta los teóricos del creacionismo y el diseño inteligente, el núcleo central de casi todos sus argumentos se centra en en llenar esos huecos del "origen" con Dios. Pero ahora la ciencia está tomando una ventaja de salida significativa al proporcionar explicaciones naturales para estas preguntas definitivas, lo que nos deja con la mayor pregunta de todas: "¿Deja la ciencia obsoleta a la creencia en Dios?"
+
+Con el copatrocinio de la Fundación Templeton - que trabajó con el Director Ejecutivo de la Sociedad Escéptica, Dr. Michael Shermer, en su serie de ensayos sobre la Gran Pregunta - hemos reunido algunas de las mejores mentes del mundo para discutir algunas de las mayores preguntas del mundo.
+
+Los Drs. Leonard Susskind, Paul Davies, Sean Carroll, Donald Prothero, Christof Koch, Stuart Kauffman, Kenneth Miller, Hugh Ross, Victor Stenger y Nancey Murphy serán parte de esta fascinante discusión, seguida por una memorable nueva atracción del foro escéptico, el equipo del "Sr. Deidad". Sobre este entretenimiento, Shermer dice:
+
+    .. figure:: http://www.randi.org/images/commentary/200809/deity.jpg
+       :alt:
+       :figwidth: 193
+       :align: right
+
+       El Sr. Deidad
+
+    ..
+
+	El Sr. Deidad ofrece una mirada humorística (y ligeramente irreverente) sobre el manejo cotidiano del universo y el Gran Hombre que está al mando. Es una mirada entre bambalinas a cómo el Sr. Deidad y su muy sufrido ayudante, Larry, bregan con las complicaciones de su nueva Creación. "¿Qué tipo de maldad se permitirá en este nuevo universo?" "¿Cómo te va en la búsqueda de un 'Salvador'?" "¿Por qué no funcionan esas condenadas luces?" y "¿Cómo te relacionas con tu novia cuando es (literalmente) el diablo?" son sólo algunas de las provocativas preguntas que plantea el espectáculo. El Sr. Deidad (Brian Keith Dalton), Larry (Jimbo Marshall), Jesús/Jesse (Sean Douglas) y Lucy/Lucifer (Amy Rohren) nos entretendrán con fragmentos e historias entre bambalinas, junto con las cuestiones teológicas más serias planteadas en los episodios individuales.
+
+Por muchas razones, lamento no estar allí, particularmente para oír hablar a mi amigo el Dr. Vic Stenger. Hace tanto tiempo desde que nos vimos por última vez. Es profesor emérito de física y astronomía en la Universidad de Hawaii y profesor adjunto de filosofía en la Universidad de Colorado, autor de una buena cantidad de libros de divulgación científica también bien recibidos por científicos profesionales, entre ellos *¿Ha encontrado la ciencia a Dios?, El cosmos comprensible, Realidad intemporal, El cuanto inconsciente, No por diseño,* y el bestseller del *New York Times Dios: la hipótesis fallida*. Vic ha debatido con muchos de los teólogos punteros de nuestro tiempo, y debería proporcionar entretenimiento y verdades profundas a los asistentes a la conferencia.
+
+Puedes hacer reservas para la conferencia en el Westin Pasadena, un hotel de 4 estrellas, llamando al 866/837-4181. Conseguirás una tarifa especial para la conferencia de $165. La inscripción es de $175 para los miembros de la Sociedad Escéptica y de $195 para los no miembros. Si decides registrarte como miembro, conseguirás además un año de membresía de la Sociedad Escéptica y una suscripción anual a Skeptic. La inscripción incluye todas las comidas: cena del viernes y desayuno, almuerzo y cena del sábado. Te animamos a apoyar la conferencia de Michael, y te aseguramos que estará a la altura de sus ya habituales altos estándares.
+
+Me gustaría poder estar allí...
+
+Algunos comentarios de peso
+...........................
+
+El lector Derek Hudson nos escribe desde el R.U.:
+
+	Después de 30-40 años ¡por fin me pongo en contacto contigo! Primero quiero darte las gracias por el buen y necesario trabajo que sigues haciendo para luchar por un rincón para el racionalismo, y contra la basura intelectual. En segundo lugar para sacarme un par de cosas del pecho...
+
+	Acabo de oír a un idiota en la radio promocionando su último libro acerca de cómo el mundo se está desintegrando, moralmente, y lo HORRIBLE que es todo. El entrevistador se limitaba a aceptar la afirmación de que "el mal se incrementa exponencialmente por todas partes, que el mundo es un lugar peor que nunca, etc., etc..." Ese ha sido el mensaje habitual de los religiosos durante SIGLOS, y es una tontería manifiesta.
+
+	Cuando los cruzados cristianos despedazaban a todo hombre, mujer y niño de Jerusalén, sin duda inspirados por las acciones del Rey David en muchas ocasiones, ¡eso es lo que yo llamo MALDAD! Cuando mujeres inocentes por toda Europa eran torturadas y asesinadas por brujas, en el nombre de dios, ¡ese es el verdadero mal! Cuando se quemaba en la hoguera a miles de personas por no creer en cierto punto oscuro de un antiguo mito, ¡esa es la prueba al 100% del mal! Cuando ahorcábamos a niños de 7 años en este país por robar, eso era malo.
+
+	La gran mayoría de personas en el R.U. (y en todas partes, estoy seguro) NO violan, asesinan, torturan ni cometen otros crímenes atroces, sino que muestran su preocupación por los animales, los niños y el clima, y donan, anualmente, millones de libras a causas caritativas. ¿Qué diablos es esa estupidez del "mal creciente"? Fin de la diatriba 1.
+
+	La segunda diatriba trata, con perdón, del papel de la religión en la sociedad de los EE.UU. ¿De verdad tenemos un posible presidente de los EE.UU. (a tan sólo un suspiro...) que cree, y está dispuesto a declarar, que el mundo se creó tal como está hace unos 6000 años, que los dinosaurios y los humanos coexistieron, y que en las escuelas debería dedicarse a la evolución el mismo tiempo que al "diseño inteligente"? Esta gente siempre se presenta a sí misma como individuos realistas, poco dados a la tontería y con sentido común, con un aire de desprecio y odio hacia el racionalismo y la ciencia. No deseo nada malo a esta señora, va contra mi religión, pero si contrae una enfermedad grave, estoy seguro de que recurrirá a la oración y la fe antes que a la CIENCIA médica. Esta es mi respuesta al gambito de "en las trincheras no hay ateos"; no, cuando las cosas se ponen desesperadas puede ser reconfortante apelar al gran papi del cielo para que te saque del apuro, pero eso no impidió que se masacrase a millones en las guerras mundiales, ¡aunque rezasen fervientemente! ¿Llegaría un ateo a ser elegido para un puesto oficial en los EE.UU.? Fin de la diatriba 2.
+
+	Como maestro, usaba fragmentos del programa de TV que hiciste hace muchos años [GRANADA TV], para mostrar el método científico en acción. Me gusta pensar que animé a muchos chicos a pensar por sí mismos, y a poner en cuestión todo lo que les decían. NO a rechazar, sino a cuestionar, y a llegar a una opinión basada en las pruebas, la verosimilitud, etc. Me inspiraste mucho, por lo que te doy las gracias.
+
+Gracias a ti, Derek. Aunque comparto muchas de tus preocupaciones, pienso que los votantes de los EE.UU. basarán sus decisiones en sus necesidades, y enviarán a la Casa Blanca a un candidato que esté de acuerdo en solucionar esos problemas. Somos, cuando se dejan a un lado nuestras apariencias externas, gente práctica.
+
+Pero ya veremos en noviembre...
+
+Alarmante aceptación del curanderismo
+.....................................
+
+Aunque no espero necesariamente brillantez intelectual por parte de las fuerzas armadas de los Estados Unidos de América, estoy ansioso de que se informasen mejor en lo que respecta a la realidad. Nos acaban de comunicar que el ejército de los EE.UU., cada vez más preocupado por el alto número de tropas que vuelven de Iraq y Afganistán con diagnóstico de estrés postraumático y lesiones cerebrales, está gastando 4 millones de dólares de nuestros impuestos en becas para realizar "estudios clínicos" en todo tipo de cosas desde el yoga, al reiki, o la meditación trascendental. El Departamento de Defensa dice que
+
+	...apoya el uso de terapias alternativas si se demuestran eficaces.
+
+O sea, eso debería significar que el DoD llevará a cabo pruebas meticulosas de estas ideas de curandero, y luego informará de sus descubrimientos al mundo. Por qué esto tiene que costar cuatro millones está más allá de mi comprensión, pero sería dinero bien gastado si se usara para ejecutar exámenes adecuados de estas ideas "alternativas". Dudo que eso llegue a suceder. Convocarán a "expertos" que abracen estos asuntos, verán montañas de ofrecimientos anecdóticos y se equivocarán a favor de la "corrección política" para no ofender la sensibilidad religiosa o étnica de nadie.
+
+¿Por qué tengo expectativas tan negativas? *¡Porque eso es lo que siempre ha sucedido!* Las agencias del Gobierno tienen empleados timoratos que rodean de puntillas los hechos desnudos en estas cuestiones. Pasan por alto las pruebas obvias, tan apenas rascan la superficie y emiten informes que recomiendan a los curanderos y - como efecto - validan sus afirmaciones...
+
+Siempre ha sido así, como vemos con una de las primeras inscripciones. Lola Scarborough, proprietaria de Yoga Lola Studio en League City, Texas, opta a una beca de investigación de $300.000 para "documentar los beneficios del yoga Kundalini en los veteranos". ¿"Documentar"? ¡Eso significa preguntar a los veteranos si - desde sus posiciones de expertos - atribuyen los efectos curativos al yoga! Lola seleccionará y examinará las pruebas, de modo que estamos seguros de que serán definitivas y auténticas, por supuesto... Lee lo que propone sobre el asunto:
+
+	El yoga Kundalini despierta una reserva sin explotar dentro de cada uno de nosotros, percibida como una serpiente durmiente en la base de la espina dorsal, cuyo poder puede ayudar a los veteranos a tratar la ira, los recuerdos, la depresión y la ansiedad, síntomas asociados a menudo con el síndrome postraumático... La gente que vuelve de la guerra tiene un gran problema. Son capaces de sobrevivir a las heridas físicas con la armadura corporal, pero están reventando sus cerebros.
+
+Sí, fijo, me gastaría $300.000 en eso...
+
+Matthew Friedman, director ejecutivo del Centro Nacional para el Síndrome Postraumático de la Asociación de Veteranos, dice que el deseo del gobierno de encontrar pruebas científicas de que el yoga y las terapias holísticas benefician a los afectados por el SPT es un movimiento positivo. Sí, seguro que estoy de acuerdo. Donde encuentro dificultades es en los métodos que se van a usar para comprobar las afirmaciones. Sólo los investigadores que usen el doble ciego, objetivos e independientes deberían involucrarse en un proyecto tan importante. El que los practicantes afirmen que sus prácticas son eficaces no debería tener nada que ver con el procedimiento de prueba. Sólo se debería aceptar pruebas sólidas.
+
+Puede que me lleve una sorpresa, pero no espero que se inviertan correctamente los cuatro millones, sabiendo cuánto se ha despilfarrado en el pasado en proyectos así...
+
+Un enorme paso atrás
+....................
+
+A través del lector Mark G. Meredith nos enteramos de que se ha invertido un paso positivo, y St. Johnsbury, Vermont, se ha rendido a la facción magufa; han levantado la prohibición sobre la adivinación. Los echadores de la fortuna, clarividentes, lectores de cartas del tarot y conversadores con fantasmas en este rincón de Nueva Inglaterra vuelven a ser libres de estafar a los ciudadanos. Allá por 1966 se aprobó una ley contra estas payasadas, prohibiendo a sus practicantes echar la fortuna o intentar
+
+	...revelar sucesos futuros en la vida de otros por medio de poderes, facultades o fuerzas ocultas o psíquicas, clarividencia, psicometría, intermediación con espíritus, profecía, astrología, quiromancia, necromancia, cartas, talismanes, encantos, pociones, magnetismo o artículos o sustancias magnetizados, misterios orientales o magia de cualquier tipo o naturaleza; comprometerse a o pretender encontrar o reponer dinero o propiedades perdidas o robadas, oro o plata u otros minerales o metales o productos naturales; o comprometerse a o pretender unir, o reunir, o encontrar amantes, maridos, esposas, familiares o amigos perdidos.
+
+Otras comunidades también tenían leyes similares. En Philadelphia, los inspectores municipales cerraron más de una docena de locales de videntes, astrólogos y lectores del tarot tras descubrir una antiquísima ley estatal, la que todavía prohíbe lucrarse echando la fortuna. Livingston Parish, en Luisiana, hizo ilegal la adivinación, echar la fortuna, la quiromancia y mirar a la bola de cristal. En Nebraska, Tennessee, Florida, Carolina del Norte y Oklahoma tienen leyes similares. Ya en 1998 el tribunal federal de apelaciones tumbó una prohibición así en Lincoln, Nebraska, por ser inconstitucional.
+
+El problema es que St. Johnsbury nunca había aplicado su prohibición. Sólo podemos preguntarnos por qué...
+
+Respuestas estúpidas
+....................
+
+El lector Lawrence W. Lee Jr. nos escribe:
+
+    El periódico local de mi ciudad presenta una columna semanal de consejos, de naturaleza religiosa. Quizás te gustaría comentar en una próxima columna algo de lo que se entiende como "consejo". Las siguientes dos preguntas aparecieron en el periódico de hoy:
+
+    | P: ¿De verdad funciona la oración?
+    | R: A su debido tiempo, la oración siempre "funciona". Ninguna oración cae en saco roto. Después de todo, estás trabajando con Dios.
+    | P: ¿La soledad es una debilidad?
+    | R: No. Simplemente señala a que el corazón humano está hecho para Dios y no descansará hasta que lo haga en él.
+
+Increíble mamarrachada...
+
+Un poco de esperanza
+....................
+
+El lector Nils Geylen, de Amberes, Bélgica, escribe:
+
+	Una breve nota de un compañero escéptico que podría interesar a la Fundación. Un programa de la TV pública holandesa sobre consumo llamado "TROS Radar" ha puesto en evidencia como fraudes a los "consejeros paranormales" de una cadena de TV privada - obviamente - llevando a la cancelación de esos programas. En los shows, esos consultores paranormales "ayudaban" a la gente que llamaba con sus problemas en horario diurno en directo. Está muy bien que hayan tenido que cancelar estos programas, fuertemente patrocinados y anunciados.
+
+	¡Una victoria para los escépticos!
+
+Tomamos esto de un informe de noticias en "Broadband TV News" sobre el asunto:
+
+	RTL Nederland comunicó que cancela toda la así llamada "Astro programación" de su parrilla con efecto inmediato. La cadena dijo que está investigando el modo en que la productora selecciona y contrata a su "consultores". RTL introdujo la programación astrológica para sustituir a los controvertidos programas de "Llame a la TV" a finales del año pasado. La nueva programación ya ha disparado las críticas de políticos y organizaciones de consumidores.
+
+	La cancelación de las emisiones en directo, en las que la gente puede llamar para recibir consejo de los astrólogos, se produce por la emisión por parte del magazine de consumo de TROS TV, Radar, en la que un reportero no tuvo problemas para que le contrataran como "consultor". Una nota interesante sobre esta historia: cuando el gobierno de los EE.UU. comenzó a regular las emisoras de radio privadas en los años 20, una de las primeras leyes fue para prohibir cualquier emisión por parte de astrólogos, cartomantes, curanderos y otros echadores de la fortuna en las ondas americanas. Tras la medida, esas emisiones se trasladaron a emisoras al otro lado de la frontera, en México, que usaban transmisores AM de alta potencia para llegar a la audiencia nocturna en todos los Estados.
+
+Noticias: los televangelistas americanos todavía usan transmisores de radio y TV situados justo al otro lado de la frontera mexicana para llegar a sus audiencias. Estas emisoras tienen una potencia mucho mayor que las de los transmisores de los EE.UU., y llegan hasta la frontera canadiense. Recuerdo que cuando hacía mi programa de radio en WOR desde medianoche hasta las cinco de la mañana, nuestra señal en AM - "modulación en amplitud" - era de 100.000 watios, enviados desde una antena enorme en Carteret, Nueva Jersey, y algunas noches llegábamos a oyentes en Alaska y California. Eso implicaba el fenómeno de capas de Kennelly-Heaviside, que es demasiado complicado para meternos en él aquí...
+
+Para terminar...
+................
+
+Cuando aún me tambaleaba de la gira por las Islas Galápagos, asistí a la Dragon*Con, una asamblea de más de 37.000 juerguistas que invadieron Atlanta. Hablé allí, fui bien recibido, y me vi totalmente sorprendido y complacido por la calidad y carácter de los tipos extraños que asistían. Puedes escuchar mis observaciones sobre este encuentro en http://www.itricks.com/randishow.
+
+|firmarandi|
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: Traducido por Ángel Arnal Artigas
+    :description: Absurdo — El evento de Shermer — Algunos comentarios de peso — Alarmante aceptación del curanderismo — Un enorme paso atrás — Respuestas estúpidas — Un poco de esperanza

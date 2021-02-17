@@ -1,0 +1,44 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CF011.1: El resultado del programa WEASEL de Dawkin estaba previamente especificado
+.. description: Respuesta a la afirmación creacionista «El resultado del programa WEASEL de Dawkin estaba previamente especificado»
+.. slug: CF011_1
+.. link: http://www.talkorigins.org/indexcc/CF/CF011_1.html
+.. tags: CF, CF000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-7-6
+
+Dawkins ([Dawkins_1986]_) demostró un programa que empieza con una cadena aleatoria de letras y, por medio de errores aleatorios de copia, la hace evolucionar en la frase "Methinks it is like a weasel" [*]_ en unas pocas generaciones, lo que demostraba la potencia de la selección natural sin ayuda de la inteligencia. Pero hubo inteligencia involucrada en la predeterminación de la frase objetivo.
+
+**Fuente:**
+
+Gitt, Werner, and Carl Wieland, 1998. Weasel words. *Creation Ex Nihilo* 20(4) (Sep/Nov): 20-21. http://www.answersingenesis.org/docs/3746.asp
+
+Respuesta
+=========
+1. En el libro de Dawkins se afirmó claramente que su simulación demostraba la selección, no la evolución. Su intención era mostrar la diferencia entre selección acumulativa y selección en un simple paso. Intentar aplicar la simulación de Dawkins a la evolución como un todo es una mala interpretación de su libro.
+2. Otras simulaciones de la evolución sí demuestran todas las características destacadas de la evolución ([Lenski_et_al_2003]_). Incluyen una :doc:`función de aptitud <CF011>`, pero simular la aptitud es una parte de la simulación de la evolución.
+   
+Referencias
+===========
+.. [Dawkins_1986]    Dawkins, Richard, 1986. *The Blind Watchmaker*. New York: Norton.
+.. [Lenski_et_al_2003]    Lenski, R. E., C. Ofria, R. T. Pennock y C. Adami, 2003. The evolutionary origin of complex features. *Nature* 423: 139-144. http://myxo.css.msu.edu/papers/nature2003/ Cfr. National Science Foundation, 2003. Artificial Life Experiments Show How Complex Functions Can Evolve. http://www.sciencedaily.com/releases/2003/05/030508075843.htm 
+
+/////
+
+**Notas de Sin Dioses**
+
+.. [*] "Creo que es como una comadreja" [N. del T.]
+
+		
+/////
+
+Anterior: :doc:`CF011` | Siguiente: :doc:`CF011_2`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

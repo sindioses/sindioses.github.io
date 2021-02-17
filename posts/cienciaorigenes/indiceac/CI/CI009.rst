@@ -1,0 +1,40 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CI009: La evidencia de diseño refuta los mecanismos evolutivos
+.. description: Respuesta a la afirmación creacionista «La evidencia de diseño refuta los mecanismos evolutivos»
+.. slug: CI009
+.. link: http://www.talkorigins.org/indexcc/CI/CI009.html
+.. tags: CI, CI000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2001-03-31
+
+«El mecanismo darwiniano afirma tener la capacidad de transformar un único organismo [...] en la diversidad total de la vida que vemos tanto en torno a nosotros como en el registro fósil. Si el diseño inteligente es correcto, entonces el mecanismo darwiniano de la selección natural y la variación aleatoria carece de esa capacidad.» ([Dembski_2001]_)
+
+
+Fuente
+======
+
+* Dembski, William A., 2001. Teaching intelligent design -- What happened when? A response to Eugenie Scott. http://www.arn.org/docs/dembski/wd_teachingid0201.htm
+
+Respuesta
+=========
+
+1. Esta afirmación es un *non sequitur*. El diseño inteligente no dice nada en absoluto acerca del mecanismo darwiniano de la evolución. Si la evolución carece de la capacidad debe decidirse examinando la evolución. Si el diseño inteligente es correcto, proporciona una explicación alternativa, pero no vuelve falsas automáticamente todas las otras alternativas.
+2. El mecanismo darwiniano de la selección natural es parte del proceso normal de diseño. Si los diseñadores no pudieran abandonar diseños antiguos en favor de versiones modificadas y mejores del mismo diseño, el diseño inteligente carecería el mismo de capacidad.
+
+Referencias
+===========
+
+.. [Dembski_2001] Dembski, William A., 2001. (v. sup.)
+
+
+
+/////
+
+Anterior: :doc:`CI002` | Siguiente: :doc:`CI010`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

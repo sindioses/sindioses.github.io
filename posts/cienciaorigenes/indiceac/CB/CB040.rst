@@ -1,0 +1,65 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2004-11-16
+.. type: afirmacrea
+.. title: CB040: La vida sólo usa aminoácidos levógiros
+.. description: Respuesta a la afirmación creacionista «La vida sólo usa aminoácidos levógiros»
+.. slug: CB040
+.. link: http://www.talkorigins.org/indexcc/CB/CB040.html
+
+Los veinte aminoácidos usados por la vida son de una variedad levógira. Es muy improbable que esto haya ocurrido por azar.
+
+**Fuente:**
+
+Watchtower Bible and Tract Society. 1985. *Life--How Did It Get Here?* Brooklyn, NY, pg. 43 
+
+Respuesta
+=========
+
+1. Los aminoácidos que emplea la vida, como la mayoría de los demás aspectos de las cosas vivas, muy probablemente no son el producto del azar; en lugar de ello, probablemente resultaron de un proceso de selección. Un simple replicador de péptidos puede amplificar la proporción de una orientación en una mezcla inicialmente aleratoria de fragmentos levógiros y dextrógiros ([Saghatelian_et_al_2001]_; [TSRI_2001]_). Las distribuciones automáticas en superficies bidimencionales también pueden amplificar una única orientación ([Zepic_et_al_2002]_). La serina forma grupos estables de una única orientación que pueden seleccionar a otros aminoácidos de orientación sustituyéndolos por serina; esos grupos también incorporan otras moléculas biológicamente importantes como gliceraldehído, glucosa y ácido fosfórico ([Takats_et_al_2003]_.) Un exceso de una orientación en un tipo de aminoácido cataliza la orientación de otros productos orgánicos, como la treosa, que puede haber participado de forma prominente en la protovida ([Pizzarello_y_Weber_2004]_).
+   
+2. Los aminoácidos hallados en meteoritos del espacio, que deben haberse formado abióticamente, también muestran una proporción significativamente mayor de levógiros, quizá debido a la luz UV polarizada en forma circular en el sistema solar temprano ([Engel_y_Macko_1997]_; [Cronin_y_Pizzarello_1999]_). La fuerza nuclear débil, responsable por la descomposición beta, produce sólo electrones con spin levógiro, y es mucho más probable que los químicos expuestos a dichos electrones formen cristales levógiros ([Service_1999]_). Tales mecanismos también pueden haber sido responsable por la prevalencia de los aminoácidos levógiros´en la Tierra.
+   
+3. El primer autorreplicador puede haber tenido ocho o menos tipos de aminoácidos ([Cavalier-Smith_2001]_). No es para nada improbable que la misma orientación pueda producirse tan pocas veces por azar, especialmente si uno de los aminoácidos es la glicina, que no tiene orientación.
+   
+4. Algunas bacterias también usan aminoácidos dextrógiros ([McCarthy_et_al_1998]_).
+   
+Enlaces
+=======
+
+Jacoby, Mitch. 2003. Serine flavors the primordial soup. C*hemical and Engineering News* 81(32): 5. http://pubs.acs.org/cen/topstory/8132/8132notw1.html
+
+Referencias
+===========
+
+.. [Cavalier-Smith_2001]    Cavalier-Smith T. 2001. Obcells as proto-organisms: membrane heredity, lithophosphorylation, and the origins of the genetic code, the first cells, and photosynthesis. *Journal of Molecular Evolution* 53: 555-595.
+.. [Cronin_y_Pizzarello_1999]    Cronin, J. R. and S. Pizzarello. 1999. Amino acid enantiomer excesses in meteorites: Origin and significance. *Advances in Space Research* 23(2): 293-299.
+.. [Engel_y_Macko_1997]    Engel, M. H. and S. A. Macko. 1997. Isotopic evidence for extraterrestrial non-racemic amino acids in the Murchison meteorite. *Nature* 389: 265-268. Cfr. Chyba, C. R., 1997. A left-handed Solar System? *Nature* 389: 234-235.
+.. [McCarthy_et_al_1998]    McCarthy, Matthew D., John I. Hedges and Ronald Benner. 1998. Major bacterial contribution to marine dissolved organic nitrogen. *Science* 281: 231-234.
+.. [Pizzarello_y_Weber_2004]    Pizzarello, S. and A. L. Weber. 2004. Prebiotic amino acids as asymmetric catalysts. *Science* 303: 1151.
+.. [Saghatelian_et_al_2001]    Saghatelian, A., Y. Yokobayashi, K. Soltani and M. R. Ghadiri. 2001. A chiroselective peptide replicator. *Nature* 409: 797-801.
+.. [Service_1999]    Service, R. F. 1999. Does life's handedness come from within? *Science* 286: 1282-1283.
+.. [Takats_et_al_2003]    Takats, Zoltan, Sergio C. Nanita and R. Graham Cooks. 2003. Serine octamer reactions: indicators of prebiotic relevance. A*ngewandte Chemie International Edition* 42: 3521-3523.
+.. [TSRI_2001]    TSRI. 2001 (15 Feb.). New study by scientists at the Scripps Research Institute suggests an answer for one of the oldest questions in biology. http://www.scripps.edu/news/press/021401.html
+.. [Zepic_et_al_2002]    Zepik, H. et al. 2002. Chiral amplification of oligopeptides in two-dimensional crystalline self-assemblies on water. *Science* 295: 1266-1269. 
+
+Otras lecturas
+==============
+
+Clark, Stuart. 1999. Polarized starlight and the handedness of life. *American Scientist* 87(4) (Jul/Ago): 336-343.
+
+Guterman, Lila. 1998. Why life on Earth leans to the left. *New Scientist*, 160(2164): 16. 
+
+		
+/////
+
+Anterior: :doc:`CB035_3` | Siguiente: :doc:`CB050`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,31 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB020
+.. link: http://www.talkorigins.org/indexcc/CB/CB020.html
+.. date: 2001-02-17 02:00:00+00:00
+.. title: CB020: ¿Por qué no sigue generándose nueva vida hoy?
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «¿Por qué no sigue generándose nueva vida hoy?»
+
+La abiogénesis asume que la vida se creó por medio de procesos que todavía operan, de modo que hoy debería seguir apareciendo nueva vida.
+
+**Fuente:**
+
+Morris, Henry M. 1985. *Scientific Creationism*. Green Forest, AR: Master Books, pg. 46.
+
+Respuesta
+============
+
+1. Las condiciones de hoy son distintas de las condiciones en el pasado en dos formas importantes. Primero, había poco o ningún oxígeno molecular en la atmósfera o en los océanos cuando surgió la vida por primera vez. El oxígeno libre es reactivo y probablemente hubiera interferido con la formación de moléculas orgánicas complejas. Más importante, no había vida alrededor antes de que apareciera la vida. La vida que existe hoy buscaría y consumiría cualquier molécula compleja antes de que pudiera convertirse en cualquier cosa parecida a una nueva vida.
+
+/////
+
+Anterior: :doc:`CB015` | Siguiente: :doc:`CB025`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

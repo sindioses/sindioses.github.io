@@ -1,0 +1,52 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB350
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB350
+.. link: http://www.talkorigins.org/indexcc/CB/CB350.html
+.. date: 2003-5-29
+.. title: CB350: El sexo no puede haber evolucionado
+.. description: Respuesta a la afirmación creacionista «El sexo no puede haber evolucionado»
+.. type: afirmacrea
+
+El sexo es demasiado complejo para que la evolución explique su origen. Los machos y las hembras hubieran debido evolucionar independientemente, y cualquier incompatibilidad en cualquiera de los componentes físicos, químicos o de conducta hubieran provocado la extinción. Además, la teoría evolutiva predice que la reproducción asexual sería favorecida porque las especies asexuales pueden reproducirse más rápido.
+
+**Fuente:**
+
+Brown, Walt, 1995. *In the Beginning: Compelling evidence for creation and the Flood*. Phoenix, AZ: Center for Scientific Creation, pp. 14-15.
+
+Respuesta
+============
+
+1. La variedad de ciclos de vida es muy grande. No es una simple cuestión de ser sexuado o asexuado. Hay muchas etapas intermedias. Un origen gradual, con cada paso favorecido por la selección natural, es posible ([Kondrashov_1997]_). Los pasos más tempranos involucran a organismos unicelulares intercambiando información genética; no necesitan ser sexos separados. Machos y hembras decididamente no evolucionarían de forma independiente. El sexo, por definición, depende de que tanto macho como hembra actúen independientemente. A medida que el sexo evolucionó, surgieron incompatibilidades que causaban esterilidad (como las hay hoy), pero afectaron a individuos, no a poblaciones enteras, y los genes que causaban tales incompatibilidades serían excluidos rápidamente por la selección natural.
+
+2. Se han propuesto muchas hipótesis en favor de la ventaja evolutiva del sexo ([Barton_y_Charlesworth_1998]_). Hay buen apoyo experimental para algunas de ellas, incluyendo la resistencia a la carga mutacional dañina ([Davies_et_al_1999]_; [Paland_y_Lynch_2006]_) y la adaptación más rápida en un entorno rápidamente cambiante, especialmente para adquirir resistencia a los parásitos ([Sa_Martins_2000]_).
+
+Referencias
+============
+
+.. [Barton_y_Charlesworth_1998]    Barton, N. H. and B. Charlesworth, 1998. Why sex and recombination? *Science* 281: 1986-1990.
+.. [Davies_et_al_1999]    Davies, E. K., A. D. Peters and P. D. Keightley, 1999. High frequency of cryptic deleterious mutations in *Caenorhabditis elegans*. *Science* 285: 1748-1751.
+.. [Kondrashov_1997]    Kondrashov, Alexey S., 1997. Evolutionary genetics of life cycles. *Annual Review of Ecology and Systematics* 28: 391-435.
+.. [Paland_y_Lynch_2006]    Paland, Susanne and Michael Lynch. 2006. Transitions to asexuality result in excess amino acid substitutions. *Science* 311: 990-992. V. también: Nielsen, Rasmus. 2006. Why sex? *Science* 311: 960-961.
+.. [Sa_Martins_2000]    Sá Martins, J. S., 2000. Simulated coevolution in a mutating ecology. *Physical Review E* 61(3): R2212-R2215.
+
+Otras lecturas
+=================
+
+Judson, Olivia, 2002. *Dr. Tatiana's Sex Advice to All Creation*, New York: Metropolitan Books.
+
+Margulis, Lynn and Dorion Sagan, 1990. *Origins of sex: three billion years of genetic recombination*, New Haven: Yale University Press.
+
+Wuethrich, Bernice, 1998. Why sex? Putting theory to the test. *Science* 281: 1980-1982. Véanse también varios artículos relacionados sobre el mismo tema.
+
+
+/////
+
+Anterior: :doc:`CB341` | Siguiente: :doc:`CB360`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

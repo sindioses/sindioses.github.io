@@ -1,0 +1,61 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA600
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA602
+.. link: http://www.talkorigins.org/indexcc/CA/CA602.html
+.. date: 2005-11-24 02:00:00+00:00
+.. title: CA602: La evolución es atea
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La evolución es atea»
+
+Fuente
+=========
+
+Morris, Henry M. 1985. *Scientific Creationism*. Green Forest, AR: Master Books, p. 215.
+
+Respuesta
+============
+
+1. Para ser una afirmación tan obviamente falsa, se la repite con sorprendente frecuencia. La evolución no requiere un Dios, pero tampoco lo excluye. En ese sentido no difiere de la mayoría de las otras áreas de interés. La evolución no es más atea que la bioquímica, la agricultura, la ingeniería, la plomería, las artes, el derecho, etc.
+
+2. Muchos, si no la mayoría de los evolucionistas no son ateos. Si uno toma en serio la afirmación, debería afirmar que las siguientes personas son ateas, para dar sólo algunos ejemplos:
+
+   * **Sir Ronald Fisher**, el biólogo teórico más premiado en la historia del pensamiento evolutivo. También era cristiano (miembro de la Iglesia de Inglaterra) y conservador; sus puntos de vista sociales se hallaban un poco a la derecha de Luis XIV.
+
+   * El **papa Juan Pablo II**, un conservador social.
+
+   * **Pierre Teilhard de Chardin**, un paleontólogo y sacerdote que enseñaba que Dios guió la evolución.
+
+   * El **ex-presidente estadounidense Jimmy Carter**, un devoto y activo bautista del sur.
+
+   Más de 10.000 clérigos firmaron una declaración que expresa, en parte: "Nosotros, los abajo firmantes, clérigos cristianos de muchas tradiciones diferentes, creemos que las verdades eternas de la Biblia y los descubrimientos de la ciencia moderna pueden coexistir cómodamente. Creemos que la teoría de la evolución es una verdad científica fundamental, que ha resistido el escrutinio riguroso y en la cual descansan buena parte del conocimiento científico y de los logros de la humanidad" ([Clergy_2005]_)
+
+3. Cualquiera que se preocupe por el ateísmo debería preocuparse más por el creacionismo. El creacionismo puede llevar a una crisis de fe cuando la gente descubre que sus afirmaciones son falsas y sus tácticas habitualmente son deshonestas. Esto ha llevado a que algunas personas abandonen totalmente la religión ([Greene_n_d]_). Ha llevado a otros a adquirir una comprensión totalmente diferente de la cristiandad ([Morton_2000]_).
+
+4. Al afirmar que sólo una interpretación religiosa es correcta y universal, el creacionismo típicamente rechaza todas las demás interpretaciones religiosas. Por ejemplo, los creacionistas de la tierra joven rechazan la interpretación religiosa en la que el universo tiene más de 10.000 años de antigüedad ([Sarfati_2004]_), y los teoristas del diseño rechazan la idea de que Dios ha guiado la evolución ([Dembski_1996]_). Para las personas cuyas creencias sobre Dios difieren de las de un creacionista, ese creacionismo bien podría ser ateo.
+
+Enlaces
+=======
+
+NCSE. n.d. Voices for evolution: Statements from religious organizations. http://www.ncseweb.org/resources/articles/5025_statements_from_religious_orga_12_19_2002.asp
+
+Referencias
+==============
+
+.. [Clergy_2005] Clergy Letter Project. 2005. An open letter concerning religion and science. http://www.uwosh.edu/colleges/cols/religion_science_collaboration.htm
+.. [Dembski_1996] Dembski, William A. 1996. What every theolologian should know about creation, evolution and design. http://www.arn.org/docs/dembski/wd_theologn.htm
+.. [Greene_n_d] Greene, Todd S. n.d. My motivation. http://www.geocities.com/Athens/Thebes/7755/motivation.html
+.. [Sarfati_2004] Sarfati, Jonathan. 2004. *Refuting Compromise*. Green Forest, AR: Master Books.
+.. [Morton_2000] Morton, Glenn R. 2000. The transformation of a Young-earth Creationist. *Perspectives on Science and Christian Faith* 52(2): 81-83. http://home.entouch.net/dmd/transform.htm
+
+/////
+
+Anterior: :doc:`CA601_1` | Siguiente: :doc:`CA602_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

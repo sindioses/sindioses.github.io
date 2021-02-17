@@ -1,0 +1,73 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB010_2
+.. link: http://www.talkorigins.org/indexcc/CB/CB010_2.html
+.. date: 2003-04-01 02:00:00+00:00
+.. title: CB010.2: Las primeras células no pudieron unirse por azar
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Las primeras células no pudieron unirse por azar»
+
+Las células más primitivas son demasiado complejas para haberse unido por azar. (Véase también :doc:`CB010`.)
+
+**Fuente:**
+
+Watchtower Bible and Tract Society. 1985. *Life--How Did It Get Here?* Brooklyn, NY, pg. 44.
+
+Morris, Henry M. 1985. *Scientific Creationism.* Green Forest, AR: Master Books, pp. 59-69.
+
+Respuesta
+===========
+
+1. La bioquímica no es azar. Inevitablemente produce productos complejos. Se sabe que aminoácidos y otras moléculas complejas se han formado en el espacio.
+
+2. Nadie sabe cómo eran las células más primitivas. Todas las células existentes hoy son el producto de miles de millones de años de evolución. El autorreplicador más temprano fue probablemente mucho más simple que todo lo que hoy vive; las moléculas autorreplicantes no necesitan ser demasiado complejas ([Lee_et_al_1996]_), y los sistemas de construcción de proteínas también pueden ser simples ([Ball_2001]_; [Tamura_Schimmel_2001]_).
+
+3. Esta afirmación es un ejemplo de la :doc:`falacia de la incredulidad personal <CA100>`. Nadie niega que el origen de la vida es un problema increíblemente difícil. Que no haya sido resuelto, sin embargo, no significa que es imposible. De hecho, ha habido mucho trabajo en esta área, llevando a varios posibles orígenes para la vida en la Tierra:
+
+   * Panspermia, que afirma que la vida vino de otro lugar fuera de la Tierra. Esta teoría, sin embargo, sigue sin explicar cómo surgió la primera vida.
+
+   * Microesferas proteinoides ([Fox_1960]_, [Fox_1984]_; [Fox_Dose_1977]_; [Fox_et_al_1995]_; [Pappelis_Fox_1995]_): esta teoría presenta un relato plausible de cómo algunas estructuras replicantes, que bien podrían llamarse vivas, podrían haber surgido. Su principal dificultad es explicar cómo surgieron las células modernas a partir de las microesferas.
+
+   * Cristales en arcilla ([Cairn-Smith_1985]_): Propone que los primeros replicadores fueron cristales en arcilla. Aunque no tienen metabolismo ni responden al entorno, esos cristales contienen información y se reproducen. Aquí, no hay mecanismo conocido que transfiera datos de la arcilla al ADN.
+
+   * Hiperciclos emergentes. Esto propone un origen gradual de la primera vida, a grandes rasgos en las siguientes etapas: (1) una sopa primordial de compuestos orgánicos simples (esto parece ser casi inevitable); (2) nucleoproteínas, similares al ARNt moderno ([de_Duve_1995a]_) o ácidos nucleicos peptídicos ([Nelson_et_al_2000]_), y semicatalíticos; (3) hiperciclos, o agrupamientos de rutas bioquímicas primitivas que incluyan alguna aproximación a la autorreplicación; (4) hiperciclos celulares, en los cuales hiperciclos más complejos están encerrados en una membrana primitiva; (5) la primera célula simple. La teoría de la complejidad sugiere que esta autoorganización no es improbable. Este enfoque sobre la abiogénesis es el candidato más favorecido.
+
+   * El mundo ferrosulfúrico ([Russell_Hall_1997]_; [Wächtershäuser_2000]_): se ha descubierto que todos los pasos para la conversión de monóxido de carbono en péptidos pueden ocurrir a alta temperatura y presion, catalizado por sulfuros de hierro y níquel. Tales condiciones existen an torno a los respiraderos hidrotérmicos submarinos. Precipitados de sulfuro de hierro podrían haber servido como precursores de las paredes de las células y como catalizadores ([Martin_Russell_2003]_). Un ciclo de ida y vuelta entre péptidos y aminoácidos es un prerrequisito para el metabolismo, y dicho ciclo podría haber surgido en el mundo ferrosulfúrico ([Huber_et_al_2003]_).
+
+   * Polimerización de superficies organofílicas protegidas ([Smith_et_al_1999]_): las primeras moléculas autorreplicantes podrían haberse formado dentro de pequeños salientes en superficies ricas en silicio, de modo que la roca circundante fuera la primera membrana celular.
+
+   * Otra cosa que todavía no se le ocurrió a nadie.
+
+Referencias
+==============
+
+.. [Ball_2001]    Ball, Philip. 2001. Missing links made simple. Nature Science Update (15 Mar.). http://www.nature.com/nsu/010308/010308-5.html
+.. [Cairn-Smith_1985]    Cairn-Smith, A. G. 1985. Seven Clues to the Origin of Life, Cambridge University Press.
+.. [de_Duve_1995a]    de Duve, Christian. 1995a. The beginnings of life on earth. American Scientist 83: 428-437. http://www.americanscientist.org/template/AssetDetail/assetid/21438?fulltext=true
+.. [Fox_1960]    Fox, S. W. 1960. How did life begin? Science 132: 200-208.
+.. [Fox_1984]    Fox, S. W. 1984. Creationism and evolutionary protobiogenesis. In: Science and Creationism, ed. A. Montagu, Oxford University Press, pp. 194-239.
+.. [Fox_Dose_1977]    Fox, S. W. and K. Dose. 1977. Molecular Evolution and the Origin of Life, Revised ed. New York: Marcel Dekker.
+.. [Fox_et_al_1995]    Fox, S. W. et al. 1995. Experimental retracement of the origins of a protocell: It was also a protoneuron. In Ponnamperuma, C. and J. Chela-Flores, [Ponnamperuma_ChemaFlores_1995]_ pp. 17-36.
+.. [Huber_et_al_2003]    Huber, Claudia, Wolfgang Eisenreich, Stefan Hecht and Günter Wächtershäuser. 2003. A possible primordial peptide cycle. Science 301: 938-940.
+.. [Lee_et_al_1996]    Lee, D. H. et al. 1996. A self-replicating peptide. Nature 382: 525-528.
+.. [Martin_Russell_2003]    Martin, W. and M. J. Russell. 2003. (Ver abajo)
+.. [Nelson_et_al_2000]    Nelson, Kevin E., M. Levy and S. L. Miller. 2000. Peptide nucleic acids rather than RNA may have been the first genetic molecule. Proceedings of the National Academy of Science USA 97: 3868-3871.
+.. [Ponnamperuma_ChemaFlores_1995]    Ponnamperuma, C. and J. Chela-Flores (eds.). 1995. Chemical Evolution: Structure and Model of the First Cell. Dordrecht: Kluwer Academic Publishers.
+.. [Pappelis_Fox_1995] Pappelis, A. and S. W. Fox. 1995. Domain protolife: Protocells and metaprotocells within thermal protein matrices. In Ponnamperuma, C. and Chela-Flores, pp. 129-132.
+.. [Russell_Hall_1997]    Russell, M. J. and A. J. Hall. 1997. The emergence of life from iron monosulphide bubbles at a submarine hydrothermal redox and pH front. Journal of the Geological Society of London 154: 377-402. http://www.gla.ac.uk/Project/originoflife/html/2001/pdf_articles.htm
+.. [Smith_et_al_1999]    Smith, J. V., F. P. Arnold Jr., I. Parsons, and M. R. Lee. 1999. Biochemical evolution III: Polymerization on organophilic silica-rich surfaces, crystal-chemical modeling, formation of first cells, and geological clues. Proceedings of the National Academy of Science USA 96(7): 3479-3485. http://www.pnas.org/cgi/content/full/96/7/3479
+.. [Tamura_Schimmel_2001]    Tamura, K. and P. Schimmel. 2001. Oligonucleotide-directed peptide synthesis in a ribosome- and ribozyme-free system. Proceedings of the National Academy of Science USA 98: 1393-1397.
+.. [Wächtershäuser_2000]    Wächtershäuser, Günter. 2000. Life as we don't know it. Science 289: 1307-1308.
+
+
+/////
+
+Anterior: :doc:`CB010_1` | Siguiente: :doc:`CB015`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

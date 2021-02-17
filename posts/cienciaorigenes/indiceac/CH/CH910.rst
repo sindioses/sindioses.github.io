@@ -1,0 +1,46 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CH910: La relatividad muestra que el geocentrismo es verdad
+.. description: Respuesta a la afirmación creacionista «La relatividad muestra que el geocentrismo es verdad»
+.. slug: CH910
+.. link: http://www.talkorigins.org/indexcc/CH/CH910.html
+.. tags: CH, CH900
+.. author: Mark Isaak, traducción de Marcelo Huerta
+.. date: 2003-06-11
+
+La relatividad afirma que no hay marco de referencia preferido, de modo que un marco de referencia geocéntrico es igual de bueno que uno heliocéntrico.
+
+  Sabemos que diferencia entre una teoría heliocéntrica y una teoría geocéntrica sólo se refiere al movimiento relativo, y tal diferencia no tiene significado físico ([Hoyle_1975]_, citado en [Willis_2000]_, p. 2)
+
+Fuente
+======
+
+.. [Willis_2000] Willis, Tom, 2000. "The Laws of Cause and Effect, and the 1st and 2nd Laws of Thermodynamics have been invalidated by modern science", Parte 2. *CSA News* 17(2) (Mar/Apr): pp. 1-2.
+
+Respuesta
+=========
+
+1. El hecho de que diferentes marcos de referencia funcionen no significa que un marco tiene el mismo sentido que el otro en cualquier contexto. Para moverse por las calles de una ciudad, tiene sentido un marco de referencia geocéntrico; no queremos recalcular constantemente nuestra posición en relación con el sol. Para considerar el sistema solar como un todo, en cambio, tiene sentido un marco de referencia heliocéntrico. Determinar los cálculos de los giros y sacudidas del resto del universo en torno a la tierra sería posible en teoría, pero prohibitivo en la práctica.
+
+   Otro marco de referencia con sus correspondientes transformaciones matemáticas ubica al universo dentro de una tierra hueca. Ese modelo es matemáticamente equivalente a la cosmología convencional ([S_Morris_2003]_). Si el único criterio es su importancia en física, es tan bueno como el modelo heliocéntrico.
+
+2. La afirmación funciona en ambos sentidos. También dice que el heliocentrismo es igual de bueno que el geocentrismo, al igual que el marco de referencia relativo a cualquier otro planeta que gira en torno a cualquier otra estrella. Dice que el geocentrismo sólo es correcto si se elige interpretarlo así. Algunas personas pueden querer interpretarlo así, pero no pueden afirmar luego que los otros están mal. La tierra se mueve igualmente.
+
+Referencias
+===========
+
+.. [Hoyle_1975]    Hoyle, F., 1975. *Astronomy and Cosmology - A Modern Course*. San Francisco: W.H. Freeman & Co.
+.. [S_Morris_2003]    Morris, Scot, 1983. The hollow earth: a maddening theory that can't be disproved. *Omni* 5(11) (Aug.): 128-129.
+
+
+
+/////
+
+Anterior: :doc:`CH901` | Siguiente: :doc:`CI001`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

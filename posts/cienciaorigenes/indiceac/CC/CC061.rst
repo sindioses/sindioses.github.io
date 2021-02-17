@@ -1,0 +1,49 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CC061: Científicos franceses llamaron al Hombre de Pekín "similar a un mono"
+.. description: Respuesta a la afirmación creacionista «Científicos franceses llamaron al Hombre de Pekín "similar a un mono"»
+.. slug: CC061
+.. link: http://www.talkorigins.org/indexcc/CC/CC061.html
+.. tags: CC, CC050
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-09-24
+
+El antropólogo francés Marcellin Boule dijo que los cráneos del hombre de Pekín (*Sinanthropus*, ahora clasificado con *Homo erectus*) eran "similares a monos". Otros han señalado que esto se basa en una mala traducción, pero la cita del mono no es una tergiversación del texto de Boule.
+
+
+**Fuente:**
+
+.. [Gish_1979] Gish, Duane T., 1979. *Evolution: The Fossils Say No!* 3rd ed. San Diego: Creation-Life Publishers, pp. 139-140.
+.. [Gish_1997] Gish, Duane T., 1997. Gish responds to critique. *The Skeptic* 5(2): 37-41. http://mypage.direct.ca/w/writer/gish-response.html
+
+Respuesta
+=========
+
+1. Sin duda, llamar a los cráneos "similares a monos" es una tergiversación seria de Boule. En las páginas inmediatamente siguientes a la cita en cuestión, Boule enfatizó que no estaba restando importancia al Hombre de Pekín considerándolo un mono.
+
+   Algunos creacionistas han racionalizado que la palabra francesa *singe* usada por Boule puede significar tanto "mono" como "simio", pero es claro por el contexto que el significado correcto era "simio".
+
+2. Los sucesos en torno al uso de esta cita revelan el mal comportamiento de varios creacionistas:
+
+   * O'Connell ([OConnell_1969]_) tergiversó las ideas de Boule, aparentemente con toda intención, traduciéndolo mal.
+   * Gish ([Gish_1979]_) no mencionó a O'Donnell cuando repitió su mala traducción.
+   * Gish y otros se condujeron de forma tremendamente impropia de estudiosos serios al considerar que llamar al Hombre de Pekín "similar a un mono" es un punto de vista científico remotamente viable.
+   * Cuando se los corrigió sobre la mala traducción, Gish y Answers in Genesis atacaron a sus correctores y se negaron a corregir en su totalidad los errores ([Foley_2003]_).
+
+Referencias
+===========
+
+.. [Foley_2003] Foley, Jim, 2003. Creationist arguments: The monkey quote. http://www.talkorigins.org/faqs/homs/monkeyquote.html
+.. [OConnell_1969] O'Connell P. 1969. *Science of Today and the Problems of Genesis*, 2nd ed. Hawthorne, CA: Christian Book Club of America. Cited by Foley 2003.
+
+
+/////
+
+Anterior: :doc:`CC054` | Siguiente: :doc:`CC080`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

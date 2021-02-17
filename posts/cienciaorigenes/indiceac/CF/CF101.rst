@@ -1,0 +1,42 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CF, CF100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2004-04-27
+.. type: afirmacrea
+.. title: CF101: La energía del universo no puede venir de la nada
+.. description: Respuesta a la afirmación creacionista «La energía del universo no puede venir de la nada»
+.. slug: CF101
+.. link: http://www.talkorigins.org/indexcc/CF/CF101.html
+
+La primera ley de la termodinámica dice que la materia/energía no puede venir de la nada. Por lo tanto, el universo mismo no puede haberse formado naturalmente. (Véase también :doc:`CE440`)
+
+**Fuente:**
+
+Brown, Walt, 1995. *In the beginning: Compelling evidence for creation and the Flood*. Phoenix, AZ: Center for Scientific Creation, p. 21. 
+
+Respuesta
+=========
+1. La formación del universo a partir de la nada no necesita violar la conservación de la energía. La energía potencial gravitatoria de un campo gravitacional es una energía negativa. Cuando toda la energía potencial gravitatoria se suma a toda la otra energía del universo, la suma podría dar cero. ([Guth_1997]_, 9-12, 271-276; [Tryon_1973]_)
+   
+
+Referencias
+===========
+.. [Guth_1997]    Guth, Alan H., 1997. (v. abajo)
+.. [Tryon_1973]    Tryon, Edward P., 1973. Is the universe a vacuum fluctuation? *Nature* 246: 396-397. 
+
+Otras lecturas
+==============
+Guth, Alan H., 1997. *The Inflationary Universe*. Reading, MA: Addison-Wesley. 
+
+		
+/////
+
+Anterior: :doc:`CF011_2` | Siguiente: :doc:`CF201`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

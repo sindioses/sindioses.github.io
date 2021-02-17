@@ -1,0 +1,315 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. type: randi
+.. title: ¿Una falla en la comunicación?. Noticias de Browne. Gran secreto. Anuncio gratuito. Más porquería de zoológico. Tratemos todos de crecer... ¿quieren?. Más escándalo de Columbia. El museo de juegos de mente. Y estas noticias alentadoras. Sasquatch revelado. Justa advertencia. Un comentario. ¡Locos de la conspiración escuchad!. Es el colmo. Ingenuidad terminal. En el cierre...
+.. category: Traducciones de James Randi
+.. author: James Randi, traducción de Graciela Lorenzo Tillard y Jonathan James Reed
+.. date: 2007-02-16 00:00:00
+
+.. role:: tachado
+
+.. contents:: Contenido
+   :class: sidebar
+   :local:
+
+¿Una falla en la comunicación?
+..............................
+
+.. figure:: http://www.randi.org/images/commentary/200702/26sniffex.jpg
+   :alt:
+   :figwidth: 239
+
+   Varilla "Sniffex" :tachado:`de rabdomancia`
+
+Marketmac, una agencia de "noticias" de mercadotecnia que revende acciones y es pagada por aquellos que necesitan inflarlas, nos ha traído aún más noticias acerca del maravilloso aparato "Sniffex" -una varilla de zahorí a la que nos referimos en `la columna del 12 de agosto de 2005 <randi20050812.html#otra-tonta-varilla-de-rabdomancia>` y otros lugares. Note que este nuevo e impresionante anuncio viene seguido -como lo requiere la ley- por un "Safe Harbor Act Disclaimer", que incluye:
+
+    Estas afirmaciones están sujetas a ciertos riesgos e incertidumbres, y los verdaderos resultados pueden diferir de los expuestos. Este material es sólo para información y no una oferta ni una solicitud para comprar o vender los valores.
+
+Un potencial inversionista sería muy inteligente al leer atentamente ese aviso. Aquí están las "noticias" de Marketmac:
+
+    Homeland Safety Intl. anuncia la primera compra de un dispositivo detector de bombas por parte de las Fuerzas Armadas de los EE.UU
+
+    IRVING, TX --(MARKET WIRE)-- 6 de febrero de 2007 -- La Homeland Safety International, Inc. [...] anunció hoy la recepción de la primera orden de compra por parte de la Marina de la USA para emplear el Sniffex, el dispositivo detector de explosivos de la compañía. La Homeland Safety informó que ésta era la primera orden, aparte de lo destinado para pruebas, que recibía de parte de las fuerzas armadas estadounidenses. Previamente, la Compañía ha vendido sus productos a otros países y señaló que éste era un gran paso en la dirección de expandir sus ventas en los Estados Unidos de América.
+
+    La Compañía detalló además que harían pública una información más específica en una fecha posterior, porque su aprobación dependería de la Marina, sobre discutir detalles de la orden y cómo será utilizado el Sniffex.
+
+    "Estamos emocionados por iniciar el proceso de entrenamiento del personal militar norteamericano en el uso del Sniffex", dijo Paul Johnson, presidente de la Homeland Safety International, Inc. "Sniffex ha sido vendido en muchos países alrededor del mundo, y hemos recibido gran interés de muchos departamentos del gobierno y de las fuerzas armadas estadounidenses. Esperamos que esta primera compra nacional sea un factor positivo e importante en nuestra capacidad para vender el producto en otras partes del mundo.
+
+¡Es increíble -si es cierto- que alguna agencia militar estadounidense pueda realmente invertir en un aparato como ése! ¿Por qué? Porque la US Naval EOD Technology Division (la división tecnológica de la Marina para la eliminación de explosivos) condujo un extenso y definitivo grupo de pruebas sobre el Sniffex el 8-9 de agosto de 2005 en el Yuma Proving Ground's Joint Experimental Research Complex [complejo de investigaciones experimentales conjuntas del campo de pruebas de Yuma], Arizona. El informe oficial, fechado el 2 de septiembre de 2005, fue titulado "Informe de pruebas: Capacidad de Detección del Dispositivo Manual Detector de Explosivos SNIFFEX". Aquí hay algunos extractos del informe:
+
+    Los objetivos de las pruebas fueron evaluar las afirmaciones del vendedor con respecto a la capacidad del dispositivo para detectar explosivos. Las pruebas fueron ejecutadas de manera consecuente con las especificaciones de SNIFFEX, y sólo fueron diseñadas para evaluar los principios de operación del dispositivo, no para probar sus límites. Por lo tanto, los pesos de los explosivos fueron considerablemente mayores que los mínimo detectables (20 libras o más contra 0,1), mientras que las distancias se mantuvieron dentro del alcance máximo de detección (10-25 pies contra 300), y se le dio al vendedor la oportunidad de hacer múltiples intentos antes de una determinación, contra los 2-3 establecidos en su información escrita. Como se muestra en la tabla 1, el dispositivo manual detector de explosivos SNIFFEX no se desempeñó mejor que el simple azar durante el transcurso de las pruebas...
+
+    El SNIFFEX no detectó explosivos. Se muestra un resumen de los resultados en la tabla 2. Se hicieron todos los esfuerzos necesarios tendientes a satisfacer las necesidades del vendedor para operar el dispositivo en condiciones ideales...
+
+    El vendedor nunca sugirió que los SNIFFEX estuvieran funcionando mal durante las pruebas a pesar del hecho de que los dispositivos no estaban identificando correctamente la ubicación de los explosivos...
+
+    En una ocasión, el vendedor se preguntó si el edificio estaba infliyendo sobre la precisión del dispositivo, aún cuando se pretendía que su dispositivo detectara explosivos a través de la mayoría de las barreras. En respuesta, el operador procedió a caminar alrededor del perímetro del edificio cuando había 20 libras de TNT en su interior. Mientras caminaba, el SNIFFEX indicó que había explosivos en el edificio como se evidenció por una clara deflexión de la antena [Randi comenta: el operador / vendedor ya sabía que había explosivos almacenados en algún lugar dentro del edificio] Sin embargo, mientras señalaba la identificación positiva de explosivos dentro de la estructura, dos camiones cargados con un total de 1.000 libras de explosivos circularon detrás suyo a una distancia de 20 pies. El SNIFFEX no pudo mostrar ninguna indicación de esta mucho mayor cantidad de explosivos...
+
+    Sobre la base de los resultados de la prueba observada, el SNIFFEX manual para detectar explosivos no es capaz de detectar explosivos, sin importar la distancia entre el dispositivo y los explosivos...
+
+    La antena [del SNIFFEX] es propensa a desviarse ante brisas liberas, infuencias magnéticas, y manipulación inapropiada. Más aún, el dispositivo es extremadamente susceptible a un bien documentado fenómeno conocido como *efecto ideomotor*...
+
+En resumen, el Departamento de la Marina USA desperdició dos días de su valioso tiempo -¡y de nuestros impuestos!- investigando la posible validez de lo que resulta ser una simple varilla de zahorí, aunque más cara y atractiva. Adrede -y con justicia- les dieron a los solicitantes todas las ventajas posibles: usaron 200 veces la cantidad de explosivo que afirmaban era el mínimo necesario para la detección, y en un caso, ¡5.000 veces la cantidad! En la instancia citada arriba, ¡una camioneta cargada con *10.000 veces la cantidad mínima* no pudo provocar una reacción del Sniffex! El Departamento de la Marina también les dio a los solicitantes la ventaja de operar a un doceavo de la distancia a la que afirman que el dispositivo funcionaría, y les permitieron hacer *la cantidad de intentos que quisieron*, y a pesar de todo el dispositivo, como ellos dicen claramente, "fue incapaz de detectar explosivos".
+
+Surge la cuestión de la competencia. ¿Eran los operadores del Sniffex capaces de operar el dispositivo? ¿Eran experimentados? ¿Estaban familiarizados con esta cosa maravillosa? ¿Creían que realmente iba funcionaría -teniendo en mente que con frecuencia se invoca la falta de "confianza" y "fe" para explicar estas fallas? Para estas cuatro preguntas la respuesta es indudablemente "¡Sí!". ¡Miren, *estas pruebas fueron ejecutadas por el mismo Paul Johnson*, el presidente de Sniffex, Inc.! ¡Es EL ÚNICO que debería tener suma confianza y ser más capaz de operar su varilla de zahorí, por haber tenido más experiencia que ninguna otra persona!
+
+La próxima semana les traeré la última diatriba de Johnson, una que les hará descoserse de risa...
+
+
+Noticias de Browne
+..................
+
+El lector Bob Prentice nos recuerda la reciente crítica de Anderson Cooper, de la CNN, a Linda Rossi, la confundida agente de negocios de Sylvia Browne, que negó en el programa de Cooper que Browne fuera primero una "psíquica" y después una "maestra espiritual," aunque de acuerdo con su propio sitio web, así es como ella se describió a sí misma. Aquí, la gente de Browne ha mostrado otro ejemplo más de qué tan frenéticamente están pedaleando en el agua. Bob escribe:
+
+    Vea el sitio web de $ylvia -recientemente invirtió su slogan de "Psíquica y Maestra Espiritual" a "Maestra Espiritual y Psíquica"- sin duda gracias a la aparición de Randi en CNN. ¡Algunas veces son las pequeñas cosas las que hacen una gran diferencia!
+
+Y note, por favor, que Montel Williams persiste en presentar a Sylvia, ¡exactamente como si fuera la real cosa...! ¿Por qué continúa este hombre promoviendo tamaño engaño? ¡Confunde la mente!
+
+El lector Ted Collins le advierte a Sylvia:
+
+    Aquí hay una parte seleccionada de la Biblia especialmente para Sylvia (tomada de la Biblia Anotada por Escépticos, libro del Deuteronomio):
+
+        18:20 Pero el profeta, que se atreva a pronunciar una palabra en mi Nombre, que yo no le he ordenado decir, o que hable en nombre de otros dioses, incluso ese profeta morirá.
+
+        18:21 Y si dices en tu corazón, "¿Cómo sabremos que tal palabra no la ha pronunciado el Señor?"
+
+        18:22 Cuando un profeta hable en nombre del Señor, si la cosa no sucede, no llega a pasar, ésa es la cosa que el Señor no ha dicho, sino que el profeta ha hablado temerariamente: tú no le temerás.
+
+    Sylvia debería de ser realmente cuidadosa al invocar la Biblia después del incidente de Shawn Hornbeck.
+
+
+Gran secreto
+............
+
+.. image:: http://www.randi.org/images/commentary/200702/26secret.jpg
+   :alt:
+   :align: right
+
+El lector Scott Marshall, un orgulloso miembro de la |JREF|, nos cuenta acerca de otra película más que presenta bobadas como hechos:
+
+    Un amigo del trabajo me dió la película en DVD "The Secret" [El Secreto], una película australiana de 90 minutos que promete revelar la respuesta a todos nuestros sueños y esperanzas. Me dijo que recientemente había sido presentada en Oprah. Y si Oprah lo presenta, debe de ser real, ¿correcto?
+
+    En los primeros minutos de la película fui atraído un poquito por la familair promesa de que cambiaría mi vida, aunque estaba escéptico, puesto que esto ha sido prometido por tantos otros trabajos, tantas veces anteriores. La película dedica una buena parte de su inicio retratando de manera dramática y rebuscada a los antiguos egipcios, codiciando y escondiendo el Secreto de las Eras, y otras igualmente exitantes dramatizaciones históricas. Nos trae al presente con una reunión de ejecutivos utilizando su conocimiento de "El Secreto" para expandir su poder y riqueza. Hace una lista de figuras históricas que supuestamente habían recibido este secreto -Platón, Newton, Carnegie, Beethoven, Edison, Shakespeare, Einstein- aunque no presenta ninguna evidencia que lo respalde. La implicación es que yo podría alcanzar similares alturas de fama y logros si sigo el siguiente consejo contenido en ese mismo disco. Los expertos en pantalla me preocuparon, por ejemplo, un ministro de la New Age, y un físico cuántico.
+
+    Entonces revelaron "El Secreto".
+
+    Llamada "La Ley de la Atracción," básicamente significa que al pensar en cosas hace que las cosas sucedan por "efectos cuánticos". Y lo expresan visualmente como una onda de choque emanando de la cabeza que, cuando pasa cerca de algo, hace que el mundo siga la línea de nuestras expectativas: uno "atrae" lo que uno espera. El video no se contenta, sin embargo, con sugerir que una buena o mala actitud hace que uno vea al mundo de una mejor o peor manera y conduce a obtener indirectamente estas cosas en las que uno piensa. No se contenta con sugerir que estas ondas emanadas desde el cerebro son metafóricas. Realmente sugiere que, por ejemplo, si uno se preocupa por quedar atrapado en un embotellamiento de tráfico, las ondas cuánticas del cerebro causarán el embotellamiento y que llegue tarde. Y respaldan su promesa mágica con los delirios irrelevantes de su físico cuántico, y una dramatización al estilo del Genio de Aladino -un fisicoculturista negro de 20 pies de altura- concediendo todos nuestros deseos.
+
+    Eso fue suficiente para mí. Le he enviado a usted este disco puesto que parece ser un disparo de cañón bastante ruidoso. Los defensores de lo racional necesitan conocer acerca de este misil proveniente de los seguidores de la New Age.
+
+Gracias, Scott. Le echaré un vistazo y pondré mis comentarios a la brevedad.
+
+
+Anuncio gratuito
+................
+
+El lector Richard Hubbard -sin relación, estoy seguro, con L. Ron- escribe:
+
+    Randi, acabo de ver la página principal de http://www.xenu.net/, y noté que esos buenos muchachos están difundiendo la palabra de randi.org. Específicamente, han invitado a cualquier cienciologista del más alto nivel a demontrar sus habilidades a su organización, y ganar el $1.000.000.
+
+    No estoy conteniendo la respiración.
+
+Ni nosotros, Richard...
+
+
+Más porquería de zoológico
+..........................
+
+El lector Paul Compton, de Lexington, Kentucky, fue uno de los muchos que me alertaron sobre este último desperdicio del dinero de los contribuyentes, esta vez en el zoológico de Los Angeles. Me envió un artículo:
+
+    No pude resistirme a enviarle este artículo de Los Angeles Daily News acerca del zoológico y sus bobadas feng-shui. Mire el párrafo 4, que dice que "Es muy experimental" (¿en serio?) y "tenemos que asumir que Darwin tiene razón... y que lo que es bueno para los humanos es bueno para los monos". Creo que la evolución puede haberse quedado atrás con algunos miembros del personal del zoológico de Los Angeles.
+
+.. figure:: http://www.randi.org/images/commentary/200702/26monkeys.jpg
+   :alt:
+   :figwidth: 208
+
+   "Fuerza vital fuerte"
+
+La historia cuenta que el zoológico ha pagado $4.500 por honorarios a una "experta" en el "antiguo arte chino del feng shui", para hacer la vida más segura, feliz y rica a tres raros monos dorados en peligro de extinción, en préstamo desde China... al precio de $1.000.000 por 10 años. Este viejo engaño asiático, ellos creen, asegurará que los monos "tengan una fuerte fuerza vital" y se "enfocará en el equilibrio del diseño para promover salud y felicidad".
+
+Esto fue parte del costo de $7.4 millones para un recinto para los monos dorados que debutarán en el zoológico a fines de este año. Lo fantástico de los directores del Zoológico de Los Angeles, quienes siguiendo el consejo de su principal arquitecto Charles Mays, convocaron a la curandera -en este caso la "experta" en Feng Shui Simona Mainini, con base en Beverly Hills- es que están convencidos de que esto es real porque está "en demanda entre arquitectos y diseñadores de interiores de alto nivel", y están ansiosos por mostrar su ignorancia apurándose a ser los primeros en aplicarlo al diseño de un recinto para animales. ¡Qué original y emocionante!
+
+Mainini dijo:
+
+    No tenemos ningún libro de Feng Shui para monos. Simplemente tenemos que suponer que Darwin tiene razón y que que hay una conexión y que lo que es bueno para los humanos es bueno para los monos.
+
+Vaya con el conocimiento de esta "experta" sobre Darwin, biología y el mundo real...
+
+
+Tratemos todos de crecer... ¿quieren?
+.....................................
+
+.. image:: http://www.randi.org/images/commentary/200702/26paine.jpg
+   :alt:
+   :align: right
+
+Un reciente proyecto para declarar al 29 de enero como Día de Thomas Paine en Arkansas fue descartado después de que el Representante Sid Rosenbaum, miembro de la Cámara de Representantes estatal, protestara por la claramente establecida preferencia de Paine por la razón sobre la religión. El proyecto intentaba ser un reconocimiento oficial de la contribución de Paine a la independencia estadunidense de Gran Bretaña, y no para establecer un día feriado oficial en el estado.
+
+Rosenbaum está alarmado por la franca opinión de Paine, expresada en "La Era de la Razón," publicado en 1795. Rosenbaum etiqueta a ese libro como "anticristiano y antijudío", aunque admite que el autor realmente "hizo buenas cosas por la nación". ¡Qué perceptivo es el Representante Sid! No es de extrañar que haya sido elegido para esa eminente posición por los ciudadanos de Arkansas.
+
+
+.. _flamm:
+
+Más escándalo de Columbia
+.........................
+
+El lector Bruce Flamm, M.D. -vea http://www.randi.org/jr/2006-01/010606netherlands.html#i10 para una de muchas menciones- escribe:
+
+    Esto podría ser demasiado increíble, pero el escándalo que rodeó al "Estudio del Milagro de Columbia", también conocido como el estudio "Rece por un Embarazo", tiene todavía otro nuevo giro asombroso. Recuerde que el estudio tenía tres autores. Sin embargo, el Dr. Lobo en Columbia ahora dice que no tuvo nada que ver con la investigación y su nombre fue quitado del trabajo. Daniel Wirth fue condenado por el fraude y reside en una prisión federal.
+
+    Eso sólo deja al Dr. Cha, un especialista en infertilidad internacionalmente famoso, y todavía afirma que el estudio sobrenatural es legítimo. Porque Cha se niega a admitir que la investigación es imperfecta o fraudulenta, el Dr. Devoe en el Journal for Reproductive Medicine [revista para la medicina reproductiva] se niega categóricamente a retractarse de la absurda publicación.
+
+    He aquí las noticias: Acabo de ser informado que el Dr. Cha ahora tiene problemas muy importantes con otra publicación en una revista médica diferente. No puedo comentar sobre los detalles pero este escándalo será probablemente informado en los medios de comunicación nacionales en los próximos días.
+
+Si usted no está familiarizado con esta farsa científica y con la absoluta negativa de la Columbia University y el JRM a reconocer el escándalo, haga una búsqueda y entérese. Es la supresión de la verdad científica y la realidad promovida por la burocracia "basada en la fe".
+
+
+El museo de juegos de mente
+...........................
+
+[foto de Cainer]
+El lector y corresponsal Profesor Richard Wiseman -entre muchos otros- nos informaron de una interesante noticia. En 2003 se abrió el Museo Psíquico, el primero y único en el mundo, en Stonegate, York, creación del astrólogo Jonathan Cainer del Reino Unido y del "psíquico" Uri Geller. En ese momento, Cainer -vea http://www.randi.org/jr/2006-01/010606netherlands.html#i11 - declaró:
+
+    Siempre había estado interesado en hacer algo en esta línea, y pensé que un museo dedicado a la telepatía y a la telekinesis no había sido hecho antes, y entonces esta cosa muy extraña me ocurrió. Me senté y estaba pescando en la piscina psíquica. Creo que cuando uno está siendo creativo es como si pudiera pescar algo de arriba de la cabeza, de modo que estoy pescando en la poza creativa, buscando una idea, y es la primera vez que tengo una idea pescada en la poza creativa y veo escrito en la parte inferior "propiedad de Uri Geller".
+
+    Fue la cosa más extraña, he visto que las personas toman las ideas y tratan de registrar los derechos, pero nunca había visto a alguien tener una idea y dejarla, pero con el nombre estampado, y en el momento en que tuve esta idea de un museo psíquico pensé: "Debo telefonear a Uri." Me sentía como hipnotizado.
+
+No me pregunten qué significa esto, amigos. Es el lenguaje de los charlatanes, que yo no hablo. Sugiero, sin embargo, que Cainer debería tomar unas lecciones de pesca...
+
+La "máquina del aura" en el museo era un dispositivo al estilo Kirlian que mostraba a los ingenuos su "campo energético", y tenían una "Rueda Egely", un pequeño disco metálico -creado por un chiflado húngaro- que los desinformados creen que se puede mover usando el "poder de la mente". Pero todo ha terminado, ahora. El museo cerró debido a la falta de visitantes que paguen. Ya no será un museo, sino que adquirirá nueva vida como un recurso de Internet, reabriendo para la temporada de turismo 2007 bajo los auspicios de "Noches de Terror", que arrendará las instalaciones y las usará para alojar sus "Experiencias de Noches de Fantasmas".
+
+Debemos preguntarnos, con dos talentos psíquicos tan prodigiosos como Jonathan Cainer y Uri Geller poniendo su dinero en este museo, ¿cómo es posible que pueda haber fallado?
+
+
+Y estas noticias alentadoras
+............................
+
+[foto de Jahn y otra]
+Del lector Jeff Tucker, que se describe como, "un antiguo alumno avergonzado pero aliviado", escuchamos noticias de su alma mater, la Princeton University. PEAR, el Princeton Engineering Anomalies Laboratory [laboratorio de anomalías de ingeniería], descrito por los medios de comunicación como...
+
+    ... un colosal desperdicio de dinero durante casi tres décadas, es definitivamente cerrado, habiendo descubierto precisamente nada.
+
+Habían dirigido estudios sobre ESP [percepción extrasensorial] y PK [psicoquinesis] desde el sótano del edificio de ingeniería de la universidad desde 1979. El fundador del laboratorio, Robert G. Jahn, 76 años, ex-decano de la facultad de ingeniería de Princeton y profesor emérito, no estuvo de acuerdo con el comentario de no haber "descubierto precisamente nada":
+
+    Durante 28 años, hemos hecho lo que queríamos hacer, y no hay razón para quedarnos y generar más datos de lo mismo. Si las personas no nos creen después de todos los resultados que hemos producido, entonces nunca lo harán.
+
+¿De veras? Bien, el Senador Claiborne Pell, un firme creyente en los poderes de Uri Geller y otras tonterías al estilo, exigió hace 20 años que el National Research Council [consejo nacional de investigaciones] -parte de la National Academy of Sciences- dirigiera una investigación de ciertas declaraciones marginales como ésas hechas por los laboratorios PEAR. La conclusión del comité bien calificado, del que Ray Hyman era miembro, fue que no había nada en las declaraciones hechas por los laboratorios PEAR. Además, hubo sólo dos intentos serios de reproducir científicamente el trabajo de PEAR, en la York University de Canadá, y en laboratorios elegidos en Europa, principalmente en Alemania. Todos los intentos de reproducción fracasaron, seguidos por supuesto por desesperadas objeciones hechas por Decano Jahn y sus colegas.
+
+Encontrarán toda clase de referencias a PEAR en los archivos SWIFT, como en http://www.randi.org/jr/2006-03/033106mccrea.html#i4. Uno de los principales proyectos en PEAR era averiguar si los humanos podían interferir mentalmente en la operación de las máquinas, incluyendo dispositivos electrónicos -una idea favorita de Jahn. Analizando los datos de sus experimentos a lo largo de esta línea, el equipo PEAR llegó a la conclusión de que las personas podían hacerlo "sólo muy ligeramente", cambiando unas 2 ó 3 [voltereta de moneda virtual] de 10.000. Si la mente humana pudiera modificar el comportamiento de esa máquina, dijeron, entonces el "pensamiento" podía provocar cambios en muchas otras áreas de la vida -ayudando a curar enfermedades, por ejemplo, en uno mismo y en otros.
+
+Curiosamente, no hubo comentarios oficiales por parte de la Princeton University sobre este cierre. El laboratorio pudo recaudar unos $10 millones durante su existencia, que uno pensaría que podría interesarle a Princeton, ya que ese dinero era, después de todo, su financiación...
+
+
+Sasquatch revelado
+..................
+
+El lector Dean Malandris nos dirige a un sitio web interesante, http://www.joanocean.com/sasquatch.html, donde descubrimos que El Abominable Hombre de las Nieves, el yeti, Piesgrandes -como desee llamarlo- tiene muchas más habilidades que las que podríamos esperar. ¿Sabía que el Sasquatch puede leer, escribir, cambiar de forma, proyectar la voz, crear infrasonido que afecta el ambiente, des-materializarse a voluntad -¡o causar que usted tenga una experiencia de "tiempo perdido" de modo que piense que se desmaterializó!- recorrer 300 millas por día a pie, y que vive en instalaciones subterráneas bien iluminadas, se contacta y vive con personas de las estrellas, nos cuenta sobre nuestro pasado y nuestro futuro, ha vivido aquí más tiempo que la raza humana? Son cristianos, y usan rocas como unidades de moneda.
+
+¡Guau, nunca supe eso! ¡Muestra que una abundancia de información está disponible para usted en la Internet!
+
+
+Justa advertencia
+.................
+
+Algunos lectores estaban alarmados por mi accidental ingesta de un diminuto imán de neodimio -como describí la semana pasada en http://www.randi.org/jr/2007-02/020209morebrowne.html#i8- y me advirtieron que unos niños que tragaron más de un imán sufrieron serios efectos. Dos de ellos juntos puede pellizcar partes esenciales del tracto intestinal, como se describe en tinyurl.com/2gwv9e. Les aseguré a esos lectores que había tenido gran cuidado de tragar sólo un imán a la vez...
+
+Como autoridad en el tema de ingesta de imanes, acepto al lector y veterinario Michael J Dark, D.V.M., que corrigió mis comentarios sobre "imanes de vacas". Él escribe:
+
+    Estaba leyendo el último comentario, y sólo quería corregir una información. Se supone que los imanes administrados al ganado vacuno permanezcan (y en general lo hacen) en el rumen, el tanque de fermentación principal del tracto digestivo de la vaca. Atraen objetos metálicos e impiden que perforen el tracto gastrointestinal, causando reticuloperitonitis traumática. En general, es porque los imanes son lo bastante grandes para quedarse en el rumen (sobre la base del diseño del rumen), más que pasar de largo como harían en animales monogástricos (como los humanos). Cuando hacemos la necropsia del ganado, con regularidad encontramos imanes que han estado en el rumen por meses y años.
+
+Yendo a mis libros de referencia, descubrí mucho más sobre el sistema digestivo bovino que lo que realmente necesitaba saber. Ese ingenioso dispositivo rumen, ¿fue probablemente diseñado con inteligencia para almacenar imanes juntadores de cachivaches, supongo...?
+
+
+Un comentario
+.............
+
+[foto de Cavett]
+En el New York Times, encontramos un comentario de Dick Cavett, anfitrión y comediante de la TV:
+
+    No soy un ateo exactamente, sino que permanezco en lo que usted podría llamar "sugestionable". ¿Hay una categoría para casi ateo? ¿Una persona que no tiene el valor de sus no-convicciones? Supongo que Woody Allen, como tan a menudo, ha tenido la palabra cómica final sobre el tema. "Usted no puede demostrar la no-existencia de Dios; sólo tiene que aceptarla por la fe".
+
+    Me pueden gustar, con un pequeño esfuerzo, las personas que apoyan creencias y cultos excéntricos, siempre y cuando no involucren sangre. Confieso que tengo que recordarme a mí mismo, diariamente, que en esta Tierra hay personas capaces de leer, escribir, comer y vestirse, y que creen que sus vidas son controladas desde miles de millones de millas de distancia, por las estrellas -y, por supuesto, por los planetas. No desprecio (exactamente) a tales personas; debe ser muy agradable pensar que los errores y desengaños de la vida no son completamente por tonta culpa propia sino, parcialmente al menos, de las actividades de esos grandes clinkers voluminosos, muy arriba en el cielo, que de alguna manera se interesan personalmente en sus actividades. Puedo ser tolerante.
+
+Más de lo que puedo controlar, Dick...
+
+
+¡Locos de la conspiración escuchad!
+...................................
+
+He aquí algo del lector Jim Oberg que les emocionará a los que están seguros de que la NASA falsificó las misiones a la Luna. Dice Jim:
+
+    No lo estoy inventando. Léalo y ríase: http://www.darkhorizons.com/news07/070209t.php
+
+
+Es el colmo
+...........
+
+¡Seguramente, aquí hay una compañía que puede quedarse con el premio de la JREF de un millón de dólares sin ningún problema! "Aquamantra" es una de las ilusiones más locas que alguna vez hayamos encontrado, y ustedes lectores tienen que saber que éste es un disparate oficialmente registrado; no es exactamente algún niño con un teclado y un problema de fantasía. Resulta que esto nació con un Dr. Masaru Emoto, (vea http://www.randi.org/jr/052303.html y busque "Emoto") quien ostenta un certificado de la Open International University of Alternative Medicine [universidad abierta international de medicina alternativa], esa confiable y altamente respetada fuente de charlatanería. He lidiado con sus ideas hilarantes antes, a fondo.
+
+Tiene que ver este sitio hilarante para creerlo. Vaya a http://www.aquamantra.com/index.php, pero sentado y preparado para caerse de risa. Usted podría captar la frase más fugaz, "Experimente el sabor del pensamiento 100% puro", que debería hacerle revolcar de la risa, pero no pase por alto la introducción, si se siente tentado...
+
+Ya se está preguntando, "¿Qué podría ser Aquamantra?". Sólo lea lo que nos dicen:
+
+    Aquamantra: es Agua De Manantial Natural Mejorada Con Energía que resuena con la energía y la frecuencia del bienestar. La calidad de sus pensamientos condiciona la calidad de su vida y AHORA del agua, porque usted es lo que PIENSA y lo que BEBE. Le enviamos poderosos mensajes a través de los mantras, SOY SANO\ |trade|, SOY AMADO\ |trade|, o SOY SUERTUDO\ |trade|.
+
+    Los pensamientos inherentes en esas palabras impregnan el líquido, influyendo en el sabor y las propiedades beneficiosas del agua. Si está bebiendo "Soy Sano" por ejemplo, resonará con la energía para ser *sano. Soy Amado le permitirá sentirse amado, ¡y Soy Suertudo le hará sentirse próspero y SUERTUDO!*
+
+    Aquamantra fue inspirada por una película de 2004, *"¿Y tú qué sabes?"*. Esta película hablaba de la mecánica cuántica subyacente de nuestro mundo. Mostraba cómo es cambiada la realidad con cada pensamiento. El Dr. Masaru Emoto, que era protagonista en la película, escribió un libro titulado "Mensajes Escondidos En El Agua", nos mostró los principios básicos de la teoría cuántica, por la cual la estructura molecular del agua era cambiada por el pensamiento de un monje budista Zen. Sobre la base de esta premisa, Aquamantra usa el diseño sobre sus etiquetas para afectar la estructura molecular del agua natural de manantial de California para hacerla más refrescante y sana para beber.
+
+    Cada botella incorpora una ilustración inspirada de artistas locales del Condado de Orange, y una parte de los ingresos de cada mantra es reservada para una variedad de sociedades benéficas. Infundida de energías positivas y poderosos mantras, Aquamantra puede verdaderamente **estimular su alma**.
+
+    Aprenda más sobre cada una de nuestras magníficas aguas abajo, haciendo clic en la botella de su elección.
+
+Como precaución, sigue una nota:
+
+    Todos los mantras están registrados. Todos los derechos reservados.
+
+¡De modo que es eso! Ahora, una simple prueba conducida con devotos creyentes en esta charlatanería, resultaría o en la rendición del premio de la |JREF| de un millón de dólares, o en el fracaso de los creyentes para decir si han consumido agua de grifo corriente o el producto Aquamantra. Esperaré a que suene mi timbre, en cualquier minuto desde ahora.
+
+O tal vez no...
+
+
+Ingenuidad terminal
+...................
+
+Esto va casi sin comentarios:
+
+    Bradenton, Florida - Un hombre que le dio $32.000 a una psíquica para que lo bendijera, regresó al día siguiente para descubrir que ella y el dinero habían desaparecido, informa la oficina del sheriff del Condado de Manatee.
+
+    El extraño caso comenzó cuando Manuel Lanaverde, 29 años, de Arcadia, escuchó anuncios que la psíquica publicó en dos emisoras de radio locales, prometiendo que podía cambiar la suerte. Le telefoneó, entonces se reunió con ella en su residencia, al 3200 de la 51ª Avenida, Este, diciéndole que su empresa de construcción no estaba haciendo dinero.
+
+    "La psíquica le informó que si le traía una gran cantidad de dinero podría bendecirlo y haría prosperar su empresa", dijo la oficina del sheriff. "La víctima trajo entonces sus $32.000 en efectivo a la residencia y le pidió que bendijera el dinero".
+
+    Ella le dijo a la víctima que volviera al día siguiente para recoger el dinero porque le llevaría un día entero bendecir el dinero.
+
+    Al día siguiente la víctima fue a la residencia de la psíquica y ella no estaba ahí.
+
+    Los ayudantes del sheriff dicen que luego se puso en contacto con la administradora del departamento y le pidió que examinara la residencia por él. La residencia fue revisada y todo allí había desaparecido.
+
+    La víctima también declaró que había otras personas en la residencia de la psíquica y afirmaron que ella también tomó su dinero.
+
+Bueno, nos puede parecer que este hombre fue excepcionalmente estúpido. No es necesariamente así. Mucho dependería de su educación, comunidad, entorno familiar, y/o sus creencias religiosas. Algunos grupos étnicos tienen creencias culturales bien arraigadas que les llevan a dar por sentado que ciertos individuos poseen poderes sobrenaturales, que esas personas pueden ayudarlos con sus problemas, y que lo harán -como un abogado o un médico-, y se vuelven hacia estos recursos cuando los necesitan. Esta habilidad de "quitar la maldición" es a menudo aceptada por esta gente, y es solicitada por los que sienten que pueden beneficiarse. Es básicamente un timo al estilo "gitano" -un "bajour" [*]_ con el que comúnmente tropiezan los que investigan los casos de ventas fraudulentas.
+
+.. [*] Esta palabra, pronunciada, "bazur", es usada en el comercio gitano para significar una estafa cuidadosamente planificada. Podría ser una modificación de la palabra en francés antiguo, "bajoire", que quiere decir, "moneda de dos caras". [Nota de Randi.]
+
+
+En el cierre...
+...............
+
+Y para aquellos de ustedes que disfrutaron de las citas que se escuchaban durante las pausas en TAM 5, están ahora disponibles `aquí <http://www.randi.org/media/TAM5slides.ppt>`__ en formato Powerpoint.
+
+¡Hay, hasta esta fecha, 2.049 libros en la biblioteca principal de la JREF!
+
+
+|firmarandi|
+
+**Notas**
+
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+.. include:: <isonum.txt>
+
+.. meta::
+    :author: traducido por **Jonathan James Reed** y **Graciela Lorenzo Tillard**
+    :description: Description
+

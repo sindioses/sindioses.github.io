@@ -1,0 +1,38 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC360
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CC361
+.. link: http://www.talkorigins.org/indexcc/CC/CC361.html
+.. date: 2003-08-22
+.. title: CC361: Los fósiles pueden formarse rápidamente
+.. description: Respuesta a la afirmación creacionista «Los fósiles pueden formarse rápidamente»
+.. type: afirmacrea
+
+Los fósiles pueden formarse rápidamente, de modo que los fósiles no generan un problema para una tierra joven.
+
+Respuesta
+=============
+
+1. La mayoría de los fósiles, en sí mismos, no son un problema para una tierra joven. Los problemas provienen del contexto geológico, incluyendo lo siguiente:
+
+   * Datación independiente de sedimentos por medio de varias técnicas.
+   * Múltiples niveles de fósiles. A veces cada fósil preserva un ecosistema entero, lo que habría llevado décadas para establecerse.
+   * Gran número de fósiles, más allá de los que la Tierra podría sostener a la vez, lo que muestra que fueron necesarias varias generaciones.
+   * Fósiles marinos locales ubicados en montañas, mostrando que la montaña tiene que haber ascendido desde que se depositó el fósil.
+   * Fósiles desgastados, lo que muestra que una montaña debe haber ascendido y sufrido erosión desde que se depositó el fósil.
+
+2. Muchos fósiles aparecen en ámbar, y la formación de ámbar no puede ocurrir rápidamente. Primero, la resina de las plantas se polimeriza para producir copal_, lo que demora miles de años. Luego los aceites volátiles deben evaporarse, lo que puede demorar millones de años más.
+
+.. _copal: https://es.wikipedia.org/wiki/Copal
+
+
+/////
+
+Anterior: :doc:`CC360` | Siguiente: :doc:`CC361_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

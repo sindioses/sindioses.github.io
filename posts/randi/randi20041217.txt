@@ -1,0 +1,324 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. type: randi
+.. category: Traducciones de James Randi
+.. title: No hay sexto sentido. El escándalo de la Universidad de Columbia. De vuelta con Ilchi Lee. Char Margolis en su mejor momento. Otro médium bien cocido. Uri pone otro huevo. En conclusión...
+.. date: 2004-12-24 00:00:00
+.. author: James Randi, traducción de Marcelo Huerta San Martín
+
+
+.. |tit| replace:: No hay sexto sentido. El escándalo de la Universidad de Columbia. De vuelta con Ilchi Lee. Char Margolis en su mejor momento. Otro médium bien cocido. Uri pone otro huevo. En conclusión...
+.. |autor| replace:: **Marcelo Huerta San Martín**
+
+.. .. include:: randi20041217.links
+
+No hay sexto sentido
+....................
+
+.. image:: 121704-BRAIN.jpg
+   :alt:
+   :align: right
+
+Los lectores me envían con frecuencia noticias de artículos interesantes, como estoy seguro de que todos ustedes saben. Cuando hace poco se anunció en las noticias una afirmación de que científicos en el Reino Unido habían encontrado un "sexto sentido", eso ciertamente atrajo mi absorta atención. Pero, como con la mayoría de estos "descubrimientos", la afirmación se desvaneció rápidamente al examinarla más de cerca. He aquí el proceso:
+
+Como mago, conozco muy bien la diferencia entre "ver" algo y "percibirlo". Mis espectadores con frecuencia "ven" el secreto de un truco, pero no son conscientes de él; no procesan lo que entra por sus ojos, sino que lo ignoran. Intenten este experimento: miren hacia su derecha, y concéntrense en un objeto allí. Luego, miren hacia su derecha (al menos 90 grados hacia la derecha) y concéntrense en otro objeto allí. ¿Está bien? Ahora respondan esta pregunta: ¿Vieron algo entre los dos objetos en los que se concentraron? Sí, vieron la información en el medio, porque la imagen cruzó su retina cuando cambiaban de un objetivo a otro, pero en verdad no *percibieron* esa información. (La diferencia aqui es que "percibir" significa ser consciente de algo o identificarlo, mientras que "ver" algo es sólo que la imagen impacte en la retina, aunque uno no necesariamente la identifica o analiza los datos que recibe.) Este pequeño epxerimento demuestra el proceso por el que un espectador puede "ver" la operatoria, pero no ser consciente de ella porque parece información de fondo o ambiental natural, y no se procesa. Todo ello me lleva al siguiente artículo:
+
+Recibí varias noticias sobre un informe de los medios que cuentan sobre un hombre británico de 52 años con una condición peculiar. Sufrió dos ataques que dañaron las áreas de su cerebro que normalmente procesarían su entrada visual, dejándolo "ciego". Sin embargo, sus ojos y nervios ópticos aún están intactos, y lo que realmente lo sorprende a uno es que aunque los investigadores de la Universidad de Gales descubrieron que no puede reconocer imágenes básicas y simples de formas como círculos o cuadrados, e igualmente fracasa al determinar el sexo de rostros masculinos o femeninos sin emociones, *puede* identificar y analizar imágenes de rostros humanos que muestran emociones fuertes como ira, felicidad o temor... con un grado significativo de exactitud.
+
+Los investigadores realizaron exámenes del cerebro en el sujeto que indicaron que cuando se le mostraban imágenes de rostros que expresaban emoción, activaba la parte del cerebro llamada amígdala derecha, que se sabe reconoce y responde a señales emocionales no verbales.
+
+Ahora bien, esta afirmación no me resulta en absoluto difícil de aceptar como posible. Sin embargo, el informe publicado en el sitio web Aljazeera (http://english.aljazeera.net/NR/exeres/FBEEE8FB-DAEC-48A8-A0F4-1624F408A063.htm) empieza con la afirmación muy equivocada y presuntuosa:
+
+  Un hombre británico completamente ciego ha mostrado poseer un aparente sexto sentido que le permite reconocer emociones en los rostros de la gente, dijeron científicos británicos.
+
+Eso no es en lo absoluto lo que dijeron. La definición del término "ciego" es fundamental aquí, especialmente cuando se la modifica, como en "*completamente* ciego". Consideren esto: el proceso de "ver" empieza con la información en forma de luz que entra al ojo, se convierte en una imagen enfocada, e impacta la retina. Luego, esos datos se envían al cerebro para ser proceasdos. Si este informe sobre el inglés es cierto, aquí es donde se ha interrumpido la interpretación, permitiendo sólo que la función de "expresiones faciales humanas severas" acepte y procese los datos.
+
+Esto no es una idea muy improbable, para nada. Conocemos ejemplos bien verificados (pocos, pero los bastantes) de personas que han perdido su capacidad de reconocer a una persona al ver su cara, una capacidad que me han dicho reside en el "*giro fusiforme* derecho", ubicado en el lóbulo temporal del cerebro. Estas personas funcionan con bastante normalidad en otros aspectos, pero ni siquiera pueden identificar a sus parientes cercanos por sus rasgos faciales... aunque a veces pueden identificarlos por medio de vestimentas específicas, patrones de voz, ¡o incluso olores individuales!
+
+Además, las personas que han sido ciegas de nacimiento pueden obtener de vez en cuando su sentido de la vista más tarde en la vida, y por supuesto tienen problemas con la visión estereoscópica (ya que no han aprendido a hacer converger imágenes con los dos ojos) y también descubren que tienen que aprender la diferencia entre, por ejemplo, las imágenes de una naranja y una banana tocando realmente cada objeto; no pueden relacionar las imágenes visuales de las formas o los tamaños con los objetos reales. Las porciones de sus cerebros que podrían procesar esos datos aún no han aprendido a hacerlo.
+
+Considerando estos hallazgos, y asumiendo que esas pruebas fueron vien hechas, no dudo que el inglés descrito aquí simplemente muestra las limitaciones de la conexión entre el cerebro y la retina. Fascinante, pero ciertamente no muy bien descrito con el término "sexto sentido". Una descripción mejor podría ser que este hombre tiene "capacidad parcial en su quinto sentido".
+
+En cuando al premio de la |JREF|, no tuvo suerte.
+
+
+El escándalo de la Universidad de Columbia
+..........................................
+
+.. image:: 121704-Lobo.jpg
+   :alt:
+   :align: right
+
+Un destacado informe científico que se pregunta "¿Influye la plegaria en el éxito de la transferencia del embrión en la fertilización in vitro? Informe de un ensayo enmascarado y aleatorizado", se publicó en la *Journal of Reproductive Medicine* (Revista de Medicina Reproductiva) en 2001. Lo escribieron el doctor Kwang Cha, quien fuera director del centro de fertilidad de la Universidad de Columbia, el doctor Rogerio Lobo, profesor y director del departamento de obstetricia y ginecología en Columbia, y un abogado, Daniel Wirth, quien no tiene credenciales médicas, pero sí un doctorado en parapsicología... algo que tendría que haber disparado todas las alarmas entre los académicos.
+
+El informe concluía que las mujeres en un hospital sudcoreano que habían recibido fertilización in vitro tenían el doble de probabilidades de concebir si habían rezado por ellas cristianos que se encontraban a miles de millas de distancia, sin que las mujeres lo supieran. Se dijo que éste iba a ser un experimento doblemente ciego, por cuanto los sujetos no sabrían que se habían realizado esas "plegarias intercesoras". Para hacer las pruebas aún más ciegas, escribieron los autores, ¡los que dijeran las plegarias sólo tendrían fotografías no identificadas de las mujeres por las que estaban rezando!
+
+Esto, por lo que se ve, debería haber atraído mucha más atención simplemente por el efecto devastador que tal descubrimiento (si fuera cierto) tendría en el fundamento básico de la ciencia. Las plegarias, consideradas como una señal transmitida de alguna extraña naturaleza, ya sea que intermediara una deidad o afectara driectamente los sistemas reproductivos de las sujetos, debería obedecer la ley de los cuadrados inversos, una de las leyes más fundamentales de la naturaleza que nunca ha sido "desobedecida" en la historia de nuestra especie. La atenuación esperada, a través de las distancias recorridas, tendrían un paralelo en un turista parado en la Gran Muralla China, gritándole a su esposa en Nueva Jersey, y esperando que ella no sólo lo oyera, sino que entendiera su mensaje. Además, nunca se cuestiónó cómo puede elegirse a un sujeto entre miles de millones de humanos sólo por medio de una simple fotografía bidimensional. Esto es sólo pensamiento mágico. Además, desde el punto de visto biológico, el pensar cómo pueden haber sido afectados los sujetos por pedidos o deseos para que fueran más receptivos a la inseminación artificial lo deja a uno atónito. Este es un escenario que sería rechazado incluso por un productor del SciFi Channel de televisión.
+
+Surge también la pregunta: ¿cómo se originó tal experimento, a menos que fuera motivado por el deseo de probar una afirmación religiosa? ¿Y de dónde vino la financiación?
+
+Por supuesto, si el lector del informe "científico" publicado en la JRM fuera un creyente en lo sobrenatural, consideraciones tan básicas sobre el mundo real serían insignificantes e ignoradas. Sin embargo, nosotros esperaríamos que una universidad tan destacada como Columbia, al presentar un informe por medio de una publicación científica confiable y leída internacioanlmente, podría alarmarse ante conclusiones tan absurdas obtenidas aparentemene por medio de la investigación científica correcta.
+
+Es necesario que consideremos, entonces, la autenticidad de los autores de este informe. El doctor Rogerio Lobo es una autoridad en su campo, y ha publicado profusamente. Cuando las personas interesadas empezaron a hacer preguntas sobre su participación en la investigación, reveló la sorprendente ntoicia de que aunque originalmente se lo había descrito en el informe como el "autor principal" del estudio, él sólo "revisó y editó" el material, ya que lo llamaron luego de los hechos, cuando la investigación ya se había hecho y evaluado. En cuanto al doctro Kwang Cha, se retiró rápidamente a la seguridad de la torre de marfil más cercana y no pudo ser contactado por los inquisidores. Mientras tanto, el abogado Daniel Wirth (el tercero de los autores citados), quien había publicado otrso artículos afirmando sanación milagrosa y sobrenatural, ha llamado seriamente la atención de las autoridades federales. Tiene un registro de veinte años de fraude, algo que debería haber estado disponible para quienes subsidiaron este extenso estudio, ¡y aún así él fue quien realmente estableció y manejó los grupos de plegaria en las pruebas discutidas!
+
+.. image:: 121704-Flamm.jpg
+   :alt:
+   :align: right
+
+A lo largo de tres años, la Universidad de Columbia y la JRM se rehusaron firmemente a responder a las críticas realizadas por otros investigadores calificados de la disciplina. Docenas de cartas y llamado stelefónicos sin responder a Columbia y a la JRM realizadas por el doctor Bruce Flamm, un profesor de ginecología y obstetricia de la Univesidad de California que revisó el estudió y dio la alarma prontamente, resultó en que finalmente Columbia retiró el nombre del doctor Lobo como científico principal del proyecto. Flamm encontró inconsistencias y metodología dudosa en el informe científico, y planteó serias dudas sobre su autenticidad. La publicación del informe ocurrió el 25 de septiembre de 2001, y en algún momento entre entonces y abril de 2004 simplemente desapareció del sitio web de archivo de noticias de Columbia. Luego reapareció, y apareció y desapareció alternativamente por meses, mientras que sus auspiciantes no se avenían ni a disculparse por el asunto ni a afirmar su validez.
+
+Este escándalo del estudio de Columbia sobre "el milagro de la plegaria" produjo mucho entusiasmo entre los fieles de todo el mundo, y celebraron esta supuesta evidencia de aquello en lo que siempre habían creído firmemente, que la plegaria puede provocar maravillasi nexplicadas. El caso fue presentado en la revista TIME (la versión *online*), el New York Times, el Los Angeles Times, la revista Nature, el Cronista de la Educación Superior, y otras revistas y publicaciones de noticias.
+
+Con el correr del tiempo, sin grandes anuncios, tanto la universidad como la revista retiraron el estudio de sus sitios web, y la JRM, sin reconocer en lo absoluto los esfuerzos del doctor Flamm o su éxito, reveló finalmente que estaba "investigando" el estudio. Lo que hicieron en realidad fue publicar una defensa del estudio a cargo del doctor Cha, sin publicar nada de la correspondiencia criticando el estudio que otros doctres habían enviado a lo largo de los años... ¡el material al que Cha se suponía que estaba respondiendo! ¡Esto es lo mismo que permitir que un acusado en un caso en la corte presente las dos posturas de su caso! Y ahora la revista ha devuelto el estudio a su sitio web, sin el nombre de Lobo... ¡como si no hubiera habido verdaderos problemas, y como si su muy mínima respuesta a la crítica generalizada hubiera remediado la situación!
+
+El tercer coautor del estudio sobre la plegaria intercesora, Daniel Wirth, acaba de ser sentenciado a cinco años en una prisión federal por incorrecciones financieras no relacionadas con el estudio de Columbia (13 cargos de fraude postal y 12 cargos de transporte interestatal de dinero robado) haciendo que la reacciones oficiales ante este escándalo quizá más comprensibles; los responsables por permitir la entrada a Wirth están avergonzados, y obviamente deberían haber tenido mejor juicio.
+
+Como sea, los increíbles resultados de este absurdo estudio permanecerán en el sitio web de la JRM, sirviendo como supuesta evidencia científica a favor del poder sanador sobrenatural de la plegaria. Es increíble que esto haya sido tratado seriamente antes de que se hiciera una investigación adecuada. Considere esto: este estudio "científico" de gran difusión afirmaba demostrar una mejora increíble en la tasa de éxito en inseminación artificial debido al uso de fuerzas sobrenaturales o paranormales. En palabras del doctor Bruce Flamm, "el estudio entero parece ser completamente absurdo". El investigador Dr. Andrew Skolnick, Director Ejecutivo de la Comisión para la Medicina Científica y la Salud Mental (CSMMH por sus iniciales en inglés), de Amherst, Nueva York, señala que en las transmutaciones del artículo que apareció en los sitios oficiales, fue "corregido" con el correr del tiempo:
+
+  Con "corregirlo", se referían a cambiar al doctor Rogerio Lobo de "autor principal" del estudio sobre la plegaria milagrosa a "autor importante". ¿Pensaron que los científicos, los periodistas de ciencia, los éticos y el público encontraría más aceptable llamar a un médico (que *nunca había sabido del estudio* hasta mucho después de que se había terminado) autor "importante" en lugar de su "autor principal"?
+
+Esta es la clase de demoras y negaciones que ha convertido este asunto en una *cause célèbre* no sólo para los hambrientos medios de comunicación, sino para los sobrenaturalistas, a quienes les encanta afirmar que los malvados escépticos han tratado de eliminar esta prueba del poder de la plegaria. El doctor Skolnick resume:
+
+  Así que aquí estamos. El autor principal/importante del estudio sobre la plegaria de Columbia ahora afirma que no era un autor. Uno de los dos autores restantes, Daniel Wirth, está tras las rejas, cumpliendo una sentencia de 5 años por fraude. Josef Horvath, el compañero en el crimen de Wirth y en ocasiones coautor, con quien cometió una multitud de fraudes a lo largo de las últimas dos décadas, se colgó en prisión hace varios meses. El editor de la revista que publicó el estudio aún se rehúsa a publicar crítica alguna sobre el estudio. Durante tres años, el editor de *Journal of Reproductive Medicine* se negó a imprimir una sola carta que contuviera alguna crítica del estudio. El editor ni siquiera responde cuál es la política de la publicación en relación con los requisitos de autoría. He intentado obtener una respuesta a esta pregunta desde abril, con llamadas telefónicas, emails e incluso una visita en persona a la oficina editorial en mayo.
+
+  Ahora debo terminar de reunir documentos en respuesta a un pedido de ese director de un instituto de ética universitario. Espero que él pueda echar alguna luz sobre cómo y por qué ocurrió este escándalo, para que en el futuro las inconductas científicas no permanezcan sin corregir por un tiempo tan largo.
+
+El doctor Bruce Flamm también le escribió al doctor Lawrence D. Devoe, escritor en jefe del *Journal of Reproductive Medicine*:
+
+  Adjunto una copia de una carta que le envié a usted hace una semana. No he vuelto a saber de usted. Como recordará, mi carta trataba asuntos planteados por el doctor Cha en el número de noviembre de JRM. Mi carta no lo critica a usted ni a JRM. Contiene información importante sobre la que sus lectores merecen saber. ¿Podría por favor hacerme saber si planea publicar mi carta?
+
+Recibió esta breve respuesta preestablecida:
+
+  Hemos recibido su carta y la estamos revisando para su posible publicación en un próximo número.
+
+Para mí, este es un rechazo clásico. El doctor Devoe ahora está ocupado construyendo pisos en la Torre de Marfil, me parece.
+
+Amigos, le debemos al doctor Bruce Flamm una gran felicitación por su persistencia y valor. Este triste episodio de cháchara científica quedará como un ejemplo rutilante de la negación de la realidad que algunos científicos pueden invocar en su intento por alejar el mundo real...
+
+De vuelta con Ilchi Lee
+.......................
+
+Sheldon W. Helms, del Departamento de Psicología en el Colegio Ohlone de Fremont, California, hizo una pregunta sobre una de las afirmaciones realizadas por el artista de la estafa Ilchi Lee sobre el apoyo académico del Colegio Médico Weill Cornell (vea http://www.sindioses.org/randi/randi20041119.html#un-nuevo-moon) y recibió esta respuesta de Sean Kelliher, del departamento de Asuntos Públicos del colegio:
+
+  Gracias por llamarnos la atención sobre este tema. La "Respiración Cerebral" no está asociada con el Colegio Médico Weill Cornell. Luego de que dimos una intimación verbal a que interrumpieran la publicación, retiraron la referencia a WC de su sitio web. De nuevo, gracias por su ayuda.
+
+Siguiendo con la verificación de las afirmaciones de Lee, pudimos ponernos en contacto con el doctor Joseph Ingelfinger (quien también fue citado por Lee) para averiguar si, en efecto, había investigado la Respiración Cerebral (RC) y hallado efectos paranormales, tal como Lee afirmaba con orgullo en su sitio web. Aunque el doctor Ingelfiger le ha dicho a otros que *no ha investigado RC, ni ha visto en lo personal ninguna evidencia investigativa de efectos paranormales derivados de la RC*, cuando le pedí que confirmara que esta era una afirmación cierta, me informó que ahora preferiría que no se publicara ninguna afirmación suya. Tiene que haber una razón para esto que no sea la timidez. ¿Cuántas otras afirmaciones de certeza de Lee se descubrirán espurias, y qué control tiene él sobre esta gente?
+
+Char Margolis en su mejor momento
+.................................
+
+.. compound::
+
+   .. image:: 121704-Margolis.jpg
+       :alt:
+       :align: right
+
+   Gregg Easterbrook es un editor *senior* de The New Republic, un editor colaborador de The Atlantic Monthly y un colega visitante en la Brookings Institution. Escribe una columna en NFL.com (*Tuesday Morning Quarterback* - TMQ [El zaguero de los martes por la mañana]) cada semana durante la temporada de la NFL. Este hombre, sin embargo, tiene opiniones muy definidas sobre temas ajenos al fútbol americano, como veremos cuando examinemos sólo un fragmento muy pequeño de su artículo y transcripción de una sesión de Char Margolis en el programa de Larry King, en "Espere... ¡veo llamadas a mi número 900!". Verán ustedes los comentarios de Gregg insertados aquí, junto con los míos. De ese artículo, parte de una "lectura" donde "T" es el televidente que llama por teléfono y "M" es la "psíquica":
+
+       | LARRY KING: Chesapeake, Ohio. Hola.
+       | M: Hola. ¿Tiene a alguien que es una "R" o una "B"?
+       | T: Sí.
+
+    **Randi:** ¿"Tiene a alguien"? ¿Qué significa eso? ¿En la familia, la escuela, el barrio, en su mente, en la habitación? ¡"Alguien" puede ser *cualquiera*! Piensen en ello: un pariente (hijo, padre, abuelo, hermano, primo, tío), un amigo (cercano, de la infancia, de la escuela, profesional, asociado), cualquier conocido (casual, de negocios, personal, de trabajo, vecino), compañeros de trabajo (colegas, jefe, cualquiera en la oficina, otros empleados relacionados en el negocio) o un artista (cantante, actor, escritor, maestro, entrenador favoritos). ¡Y esto incluye *tanto a vivos como a muertos*, recuerden! O la profesión o pasatiempo de la persona puede empezar con cualquiera de esas letras "R" o "B": recadero o retirado, baladista o barbero... todos funcionarán. Es un espectro *muy* amplio. A medida que avanzamos, pregúntense si responderían que sí a la mayoría de estas adivinanzas. De vuelta al juego de adivinar:
+
+      | M: ¿Qué letra?
+      | T: Ambas.
+      | M: ¿Es un "R" masculino?
+      | T: No.
+      | M: ¿O un "R" femenino?
+      | T: Femenino.
+
+    **Randi:** Díganme, por favor, *¿qué otra posibilidad hay... salvo un eunuco?* ¡Una suposición brillante de la médium!
+
+      | M: ¿Se escribe R-O?
+      | T: No.
+      | M: ¿O R-E como en "René"?
+      | T: Rebeca.
+
+    **Randi:** Se equivoca en una de cinco posibles suposiciones aquí, y luego acierta en la segunda... ¡y luego *la víctima le dice el nombre exacto*, como se espera que haga! ¿Es una estafa sencilla, o no?
+
+      | M: No dé nombres. ¿Es familiar suya?
+      | T: Sí.
+
+    **Randi:** Ahora observen a Margolis errar seis veces seguidas...
+
+      | M: ¿Es su hija, o su nieta? ¿Quién es?
+      | T: Mi hermana.
+      | M: Ah, su hermana. Bueno, no estoy segura... ¿se supone que la vea pronto?
+      | T: La veo todo el tiempo.
+      | M: ¿Vive cerca de usted?
+      | T: Sí.
+
+    **Randi:** ¡Obvio! No, vive muy lejos, ¡por eso la veo todo el tiempo!
+
+      | M: Bueno, ¿cuál de ustedes... usted está preocupada por ella o por la salud de usted?
+      | T: No.
+      | M: ¿O es alguien más?
+
+    **Randi:** De nuevo, he aquí un espectro muy amplio. Vea mis comentarios sobre el popular truco de "alguien", más arriba.
+
+      | T: No que yo sepa.
+      | M: Estoy confundida sobre esto. Lo siento tanto. ¿Quién tiene problemas en la pierna o cojea? ¿Problema en una pierna o un pie? ¿Es usted o ella?
+      | T: No.
+      | M: Bueno.
+
+    **Randi:** ¿"Confundida sobre esto"? ¿Qué tal *completamente errada*? Y nótese la pregunta "¿Quién tiene problemas...?". No sólo cubre otro amplio espectro de posibilidades (¡incluyendo a todas las mascotas!) sino muchas piernas y pies, ya que cualquier pierna o pie sirve, ¡incluyendo criaturas de cuatro piernas y ciempiés mascotas! Pero King, viendo que este juego de adivinanzas se está yendo a los caños, trata de reasignar las adivinanzas de Margolis a la otra mitad del conjunto "una 'R' o una 'B'" que abrió al principio. ¡Larry parece estar aprendiendo esta estafa!
+
+      | LARRY KING: Quizá es la "B".
+      | M: Ah, sí, quizá es la "B". ¿La "B" es un hombre?
+      | T: Sí.
+      | M: ¿Es "B" con "R", o "Bill" o "Bob"?
+      | T: Bill.
+
+    **Randi:** Una pregunta seria aquí: ¿Hay algún lector [anglohablante] que no pueda identificar a un "Bill" o a un "Bob"? ¿O un William o un Robert? ¿Y dónde está la 'R' que estábamos pescando, Char? Ah, lo olvidaba: "Bob" es "Robert", que es otra razón por la que es una revelación divina común que reciben los psíquicos.
+
+      | M: Bill. ¿Tiene un problema en una pierna o pie?
+      | T: No.
+      | M: Bueno. No sé lo que estoy recibiendo. Lindo psíquico eres, no me estás ayudando.
+      | LARRY KING: Probablemente la próxima llamada tendrá un problema en un pie.
+
+    **Randi:** En este punto, hasta Margolis sabe que ha fracasado estruendosamente. Arroja la toalla.
+
+      | M: Muy bien. ¿Puedo decir algo, sin embargo? A veces pasan cosas como estas, y pasa que, dos semanas más tarde hay un problema con la pierna. O Bill está en el teléfono con ella y dice: "Tengo un problema en la pierna o el pie".
+
+    George Easterbrooks observa:
+
+      Así que aunque la increíble psíquica estaba totalmente equivocada sobre este televidente, quizá en algún momento en el futuro tendrá razón. ¡Intente probar que Bill no tendrá algún día un problema con su pierna o su pie!
+
+    Otro llamado:
+
+      | LARRY KING: Birmingham, Alabama. Hola.
+      | M: ¿Hay alguien conectado con usted con una "K" o una "C"?
+      | T: No.
+      | M: ¿O una "S" o una "C"?
+      | T: No.
+      | M: Bueno, piense de gente viva o muerta. ¿No?
+      | T: Estoy pensando en una persona en particular.
+
+    **Randi:** Acaba de equivocarse en cuatro intentos, y ahora abre el alcance asegurándole que gente viva o muerta servirá. Pero cuando la víctima afima que está buscando a una persona en particular, ¡Margolis no quiere esa situación, amigos! ¡Quiere que la víctima tenga una gama de posibilidades tan amplia como sea posible, para mantener alto el promedio de aciertos! Ahora tiene una posibilidad de regañar a la víctima, señalando cuán limitada está resultando ser la imaginación de la víctima.
+
+      | M: No, tiene usted que tener la mente abierta a *cualquiera*. Está esforzándose demasiado; va a hacer que me confunda. Va a parecer que no sé lo que hago.
+      | T: Bueno, una "K", o una "C"...
+      | M: Pasemos a otra persona, porque tu mente no está en ello.
+
+    **Randi:** Sí, Char, es hora de cambiar, ciertamente. Y tu víctima incluso olvidó la "S" que se suponía que tenía que buscar en su memoria, así que estás yendo a mal puerto por leña.
+
+    Gregg Easterbrook comenta sobre toda esta serie de intentos de adivinar:
+
+      "Va a parecer que no sé lo que hago". Y nótese que nuevamente el televidente tiene que decirle a la psíquica la letra que está intentando adivinar. En el curso de un programa de una hora de duración y de conversaciones con 27 televidentes que llamaron, en 17 intentos Margolis no pudo adivinar ningún nombre luego de lanzar repetidamente letras comunes, y en diez intentos adivinó un nombre. Cada uno de los diez que adivinó eran James, John, Joseph, Tom o Mary: los nombres más comunes. Inténtelo como juego de salón: lance dos o tres letras comunes, y vea lueogo si hay alguien en la reunión que *no* conozca a alguien con una de sus letras en el nombre. Luego, declárese usted mismo un psíquico.
+
+      El instante favorito de TMQ sobre el programa fue que Margolis no pudo siquiera empezar a adivinar los problemas de otra persona que llamó. Margolis le dijo a King: "Soy mucho mejor con los muertos que con los vivos". ¡Pero los muertos no han llamado!
+
+      Vea el propio sitio de Margolis en http://www.char.net/Pages/MyMission.html, donde declara: "Cuando niña podía ver espíritus, leer pensamientos y prever sucesos". Debe haber perdido el don, o hubiera previsto con cuanta frecuencia estaría equivocada en *Larry King Live*! Vaya allí para contratar una conversación personal telefónica de 45 minutos con Char Margolies por sólo US$ 500. En 45 minutos, seguramente adivinará el nombre de usted, especialmente si usted se lo da. A TMQ le encantaría hablar con usted por teléfono y adivinar su nombre por US$ 400 durante 45 minutos: un enorme descuento en relación con la psíquica profesional. ¡Quizá yo debería iniciar una guerra de precios con ella! *Un momento, veo algo... ¿usted mira fútbol, verdad? Sí, mira fútbol en televisión. ¿Estoy en lo cierto? Lo mira con alguien con un nombre que empieza con J o L o M o B o T o N o G o D, ¿tengo razón? Cuando lo mira, bebe... es... bebe cerveza, ¿verdad? Alguien cercano a usted se queja cuando pasa todo el día mirando fútbol y bebiendo cerveza. Puede ser... ¿su esposa?*
+
+Señor Easterbrook, estuvo muy bien descubriendo los métodos de Margolis. Pero recuerde, no importa cuántos errores haya, aquellos para los que realiza este espectáculo están complacidos y felices (¡y satisfechos!) de pagar US$ 500 por 45 minutos, ¡cuando Sylvia gana US$ 750 por sólo 25 minutos! Char gana US$ 11 por minuto, Sylvia gana US$ 30, ¡y es igual de acertada! ¡Qué negocio!
+
+Puede leerse la transcripción completa de esta lectura, para que vean que no elegí segmentos especialmente malos para compartirlos con ustedes, yendo a http://edition.cnn.com/TRANSCRIPTS/0407/09/lkl.00.html.
+
+Ahora, querido lector, sólo como un ejercicio en analizar estos asuntos, y sin volver a este fragmento reducido de la transcripción, intente adivinar cuántas preguntas le hizo Char Margolis a estas dos víctimas. Pronunció 270 palabras, pero (a) ¿cuántas preguntas hizo?, (b) ¿cuántas de esa obtuvieron "no" como respuesta? y (c) ¿cuántos hechos reales enunció a las dos víctimas?
+
+Responderé a esas tres cuestiones al final de la página de esta semana... No vale ir a mirar al final.
+
+Otro médium bien cocido [#medium]_
+..................................
+
+Se dice que la muy publicitada nueva serie televisiva estadounidense, "Medium", fue inspirada por las capacidades mágicas de una tal Allison Dubois, una "médium" de la que nunca había oído hablar antes... pero llevar la cuenta de los médiums "verdaderos" es bastante difícil, como sabrán. Uno de sus lectores le envió a Dubois un mensaje por email comentándole sobre el premio del millón de dólares de la |jref| (¡como si no hubiera oído hablar de él!) y ella devolvió esta inspirada respuesta:
+
+  Él nunca le dará a nadie el dinero y nunca ha mostrado pruebas de que exista. Se le ha pedido que lo haga. Sé la verdad y eso me alcanza.
+
+Respondí a un lector que me lo preguntó:
+
+  Primero, la afirmación de Dubois "Nunca le dará el dinero a nadie" probablemente es correcta, ¡porque la gente como Dubois nunca se presentará a responder al desafío!
+
+  Segundo, que nunca he "mostrado pruebas de que exista" es una flagrante mentira, y ella lo sabe. He mostrado la prueba en televisión nacional, y la evidencia está disponible a través de nuestro sitio web por medio de una afirmación certificada ante notario; vea http://www.randi.org/research/challenge.html, regla 8. Varias cadenas de televisión (CNN, ABC-TV y RAI-TV, entre otras) han obtenido fácilmente la documentación sobre ese asunto. ¡De hecho, Dubois puede obtener el premio del millón de dólares *simplemente mostrando que o bien (a) su afirmación de que nunca he mostrado la prueba, o (b) el dinero no existe* es verdadera! Pero ignorará la oferta, por supuesto... porque debe hacerlo. Si esta "revelación" que ha hecho se obtuvo usando sus fantásticos poderes, no indica que tenga algunos. ¡Pero estamos dispuestos a que nos lo muestren! Tenemos académicos de MIT, Yale, Harvard, Cambridge y otros centros de aprendizaje de países en todo el mundo, esperando que les pidamos diseñar y dirigir pruebas.
+
+  La afirmación de Dubois: "Sé la verdad y eso me alcanza" puede alcanzarle a ella, pero a nadie más. Esa no es "la verdad", es una mentira completa y a sabiendas...
+
+  Debemos entender que Allison Dubois teme con razón el desafío de la |jref|. A sus productores de TV no les importa un ápice si eralmente tiene poderes o si aceptará el desafío de la JREF; están ganando dinero gracias a ella, sus auspiciantes venderán sus productos a los televidentes fascinados con su programa, y eso es todo lo que les importa. No pueden darse el lujo de la verdad. Aunque la gente le preguntará por qué no acepta, la única respuesta de ella tiene que ser un montón de mentiras y oscurecimientos: es todo lo que tiene.
+
+.. # image:: 121704-SchwartzDubois.jpg
+
+.. image:: http://www.randi.org/images/121704-removePhoto2.gif
+   :alt:
+   :align: right
+   :target: http://www.allisondubois.com/friends.html
+
+¿Se acuerdan de Gary Schwartz, el académico de la Universidad de Arizona? Por supuesto él ha aceptado a Char Margolis (vean más arriba) y, lo que seguramente no los sorprenderá, Dubois también ha pasado todas sus pruebas, y le ha advertido a ella que se aleje de mí. Schwartz escribe sobre mí:
+
+  Más allá de su maldad y patología, me preocupa este hombre [...]. Tengo la teoría de que detrás de su enfermedad reside una verdadera preocupación por la verdad [...].
+
+Me conmueve este diagnóstico profesional y la compasión del doctor Schwartz. Agrega a esto esta notable afirmación:
+
+  Casi todos los científicos creíbles se apartan del señor Randi [...].
+
+Gary, debo decir que eso me sorprende bastante. He hablado con más de cien grupos científicos en los últimos 50 años, internacionalmente, desde la Sociedad Estadounidense de Física a la Universidad de Oxford, y no he recibido otra cosa que agradecimientos y felicitaciones de literalmente miles de científicos (científicos *reales*) en todo el mundo. Varios premios Nobel prepararon esas conferencias, y han sido, y son, amigos míos. ¿Y ninguno de ellos son científicos "creíbles", doctor Schwartz? ¿Quizá quiso decir "crédulos"?
+
+Ah, pero Dubois misma hizo los comentarios más fuertes. Esta es la clase de persona que Schwartz encuentra aceptable. Escribe (con algunas correcciones ortográficas para que se entienda):
+
+  Debe usted estar volviéndose senil en su vejez.
+
+Hum, Allison, con frecuencia esa es la edad en la que se produce la senilidad, creo. ¡Buena suposición! ¡Y se revela ese meloso discurso tuyo! ¡Sutil! Pero, a continuación, escribe:
+
+  No tengo que hacer nada para usted. Yo comparto mis capacidades reales cada día y he tenido un impacto positivo en miles de personas.
+
+Oh, no dudo eso en lo absoluto. Creo que ese "impacto" consiste en engañar y confundir a miles sobre la naturaleza de la realidad y el sentido común. Y por supuesto tienes razón sobre no tener que hacer nada por mí; ¡no recuerdo siquiera haber insinuado que tenías que hacerlo ni que debieras hacerlo! Pero, caray, Allison, por un millón de dólares, ¿no te tomarías el trabajo sólo para acercarte y llevarte el cheque...? Supongo que no. Continúa:
+
+  Sólo porque usted no tenga talento o capacidad alguna no significa que todos los demás funcionen a su bajo nivel. Usted no puede decir si es verdad o no que yo hablo con los muertos o no [sic] nunca nos hemos encontrado.
+
+Allison, ¡\ *dame* el gusto de conocerte y probar tus prodigiosos talentos psíquicos! ¡Hay miles de miembros del Gran Público No Dotado aquí en el mundo real que entrarían en éxtasis si tú (o Sylvia, o Uri, o Dennis, o John, o cualquiera de la vasta multitud de milagreros) se presentaran por nuestro premio! ¿Cómo puedes negarnos ese placer? No sé si será tan fácil como el protocolo de Gary, en el que los "psíquicos" siempre pueden hacer las cosas a su manera, pero inténtalo; ¡podrías tener suerte! En cuanto a mis propios "talentos o capacidades" que tanto impugnas, puedo hacer una omelette realmente excelente, hago un par de trucos de cartas espectaculares, ¡y mi cálculo de raíces cuadradas emociona a muchos hasta las lágrimas! Pero te interrumpí:
+
+  Pruebe su teoría, yo no tengo nada que probarle.
+
+Hum, otra vez no entiendo, Allison. No tengo "teoría" alguna que probar, y nunca he tenido una teoría que probar. ¿Quizá aquí tus cables psíquicos sensibles, omniscientes e intuitivos se cruzaron? Deberías examinar ese problema, creo. Estoy de acuerdo, sin embargo, con que no tienes "nada que probarme". Me sorprende que lo admitas.
+
+  No hay nada "asombroso" con respecto a usted o sus asociados. Su ira es un reflejo de su inseguridad, o lo que yo hago no le importaría. A mí ciertamente no me importa lo que hace usted.
+
+Eso no es ira, Allison; es consternación y preocupación ante el hecho de que la gente como tú pueda atraer la atención del público, ser aceptados como verdaderos (con la ayuda de los medios y los científicos descuidados) y obtener fortunas cuando la gente normal tiene que trabajar para vivir. No tengo mucha "inseguridad" sobre ti, sabiendo como sé que (como era de esperarse) te has unido a los otros "psíquicos, intuitivos y doblacucharas auténticos" que andan por ahí y que están ocupados escondiéndose del desafío de la JREF. Me importa lo que haces porque me preocupa la gente que debe ser informada sobre las insensateces. Pero el ser una depredadora te impide entenderlo.
+
+  Cuidado con su ira podría darle problemas. Definitivamente sabrá la verdad cuando muera. Nosotros siempre ganamos.
+
+Supongo entonces que tendré que esperar. ¿Notaron que las estafas realmente exitosas dependen del hecho de que la prueba de sus afirmaciones tiene que esperar que los que preguntan mueran? ¡Cuán conveniente!
+
+Uri pone otro huevo
+...................
+
+.. image:: 121704-TheEggs.jpg
+   :alt:
+   :align: right
+
+Parece que el "psíquico" Uri Geller no ha aprendido mucho sobre trucos bonitos en las más de tres décadas desde que apareció por primera vez en TV. Su acto todavía consiste en doblar un tenedor, una cuchara o una llave, reproducir un dibujo hecho tras bambalinas mientras él se tapa los ojos y promete no espiar (!) y contar historias de sus aventuras con las celebridades. Y, obviamente, se le terminó el material para salir en los diarios, así que tiene que repetirse.
+
+Examinen el artículo en http://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2004/12/08/ftgeller08.xml y lean el relato increíble que presenta sobre sus servicios al difunto beatle John Lennon... y cómo Lennon le dio un objeto que dijo que le dejó un equipo de hombrecitos insecto de un |ovni| que vino y llamó a la puerta de su departamento una noche. Geller cita a Lennon, usando su memoria fotográfica, obviamente:
+
+  Algo pasó. No me preguntes qué fue. O lo olvidé, lo bloqueé, o no me dejan recordar. Pero luego de un tiempo ya no estaban allí y yo yacía en la cama, al lado de Yoko, sólo que yo estaba encima del cubrecamas. Y ella despertó y me miró y me preguntó qué pasaba. No pude contárselo al principio. Pero tenía esta cosa en las manos. Me la dieron ellos.
+
+Esos insectos deben haber parado a visitar la tienda de regalos del MIT durante el tiempo en que la tienda ofrecía para la venta los "Superhuevos" de latón de 3 cm de largo. Técnicamente esto es una "superelipsoide" y el artículo que publiqué sobre el objeto allá por mayo de 2002 puede verse en http://www.randi.org/jr/051002.html [en inglés]. Alguien me dio uno de esos objetos (un ciudadano común, no un marciano) hace algunos años, ¡y milagrosamente parece ser idéntico al que vino del OVNI! Aunque Geller está totalmente desconcertado y confundido sobre el origen de esos "huevos", creo que yo lo resolví. ¡Y ni siquiera soy psíquico!
+
+En conclusión...
+................
+
+En el extracto de la lectura de Margolis (a) Margolis hizo 32 preguntas, (b) obtuvo 22 "noes" (menos de uno de cada tres aciertos) y 7 "síes", incluyendo los "síes" obvios e inevitables señalados más arriba, y (c) el número de hechos establecidos por ella fue (¿está listo?) cero. Nada. Nulo. Huevo. Vacío. *¡No les dijo nada a las víctimas!* Reléalo, y véalo usted mismo.
+
+.. image:: 121704-Hitchens.jpg
+   :alt:
+   :align: right
+
+La registración para TAM3 ha superado los 420, ¡y esperamos llegar a 450! ¿Es USTED uno de esos registrados? Si no, esto podría convencerlo: hemos agregado a un orador muy especial a The Amaz!ng Meeting 3, un escritor, personaje de televisión y renombrado escéptico con un marcado carisma que disfrutará. Christopher Hitchens ha escrito para Vanity Fair, The Nation, Harper's, The New Yorker, Slate y The Atlantic Monthly, sobre una amplia variedad de temas que requieren crítica seria. Se volvió amargo hacia el Islam cuando atacaron a su amigo Salman Rushdie, y en los años que siguieron se preocupó más por los peligros de los islámicos radicales que apoyaban la *fatwa* en contra de Rushdie.
+
+En junio de 2004 Hitchens escribió un ataque incendiario hacia Michael Moore en una reseña de su última película, "Fahrenheit 9/11". Ha escrito un libro criticando fuertemente a la Madre Teresa (*The Missionary Possition*, "La posición misionera") y podemos esperar de él que convierta a varias de nuestras vacas sagradas en una carne bien cocida. ¡No puedo esperar para ver juntos a Richard Dawkins y a Hitchens!
+
+La próxima semana, finalmente, discutiremos las lecturas de US$ 750 de Sylvia Browne. La cinta ha llegado, y esto NO va a gustarle a la señora Browne, pero a ustedes les producirá algunas risas. ¡Y habrá algunas personas tristes que ya pagaron!
+
+¡Y les diremos cómo obtener su propio "huevo extraterrestre", como el que John Lennon le dio a Uri Geller!
+
+|firmarandi|
+
+**Notas**
+
+.. [#medium] *Medium* también es una forma de referirse a una cocción a término medio. [N. del T.]
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: Traducido por Marcelo Huerta San Martín
+    :description: No hay sexto sentido. El escándalo de la Universidad de Columbia. De vuelta con Ilchi Lee. Char Margolis en su mejor momento. Otro médium bien cocido. Uri pone otro huevo. En conclusión...

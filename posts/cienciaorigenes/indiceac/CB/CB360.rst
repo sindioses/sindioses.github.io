@@ -1,0 +1,46 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB360
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB360
+.. link: http://www.talkorigins.org/indexcc/CB/CB360.html
+.. date: 2003-5-29
+.. title: CB360: Los órganos vestigiales pueden tener funciones
+.. description: Respuesta a la afirmación creacionista «Los órganos vestigiales pueden tener funciones»
+.. type: afirmacrea
+
+**Fuente:**
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, pp. 75-76.
+
+Respuesta
+============
+
+1. "Vestigial" no significa que un órgano es inútil. Un vestigio es "un rastro o señal visible dejado por algo que se ha perdido o ha desaparecido" ([G_y_C_Merriam_1974]_, 769). Los ejemplos de biología incluyen los huesos de las piernas en las serpientes, restos de ojo en peces ciegos de las cavernas ([Yamamoto_y_Jeffery_2000]_), huesos extra de los dedos en los caballos, muñones de ala en aves e insectos que no vuelan y molares en vampiros. Si esos órganos tienen o no función es irrelevante. Obviamente no tienen la función que esperamos de dichas partes en otros animales, para la cual los creacionistas dicen que las partes fueron "diseñadas".
+
+   Los órganos vestigiales son evidencia en favor de la evolución porque esperamos que los cambios evolutivos sean imperfectos dado que las criaturas evolucionan para adoptar nuevos nichos. El creacionismo no puede explicar los órganos vestigiales. Son evidencia en contra del creacionismo si el creador sigue un criterio básico del diseño: que la forma se sigue de la función, como el mismo H. M. Morris espera ([Morris_1974]_, 70). Son compatibles con la creación sólo si todas y cada una de las cosas son compatibles con la creación, volviendo la creación inútil y anticientífica.
+
+2. Se puede determinar que algunos órganos vestigiales son inútiles si los experimentos muestran que los organismos que los tienen no sobreviven mejor que los organismos que no los tienen.
+
+Enlaces
+=========
+
+Theobald, Douglas, 2004. 29+ Evidences for macroevolution: Prediction 2.1: Anatomical vestiges. http://www.talkorigins.org/faqs/comdesc/section2.html#morphological_vestiges
+
+Referencias
+==============
+
+.. [G_y_C_Merriam_1974]    G. & C. Merriam. 1974. The Merriam-Webster Dictionary. New York: Simon & Schuster.
+.. [Morris_1974]    Morris, H., 1974. (Véase arriba).
+.. [Yamamoto_y_Jeffery_2000]    Yamamoto, Y. and W. R. Jeffery., 2000. Central role for the lens in cave fish eye degeneration. Science 289: 631-633.
+
+
+/////
+
+Anterior: :doc:`CB350` | Siguiente: :doc:`CB360_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,53 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. title: CA001: La evolución es la base de una visión inmoral del mundo
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA000
+.. slug: CA001
+.. author: Mark Isaak
+.. nocomments: True
+.. link: http://www.talkorigins.org/indexcc/CA/CA001.html
+.. date: 2006-12-08 02:00:00+00:00
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La evolución es la base de una visión inmoral del mundo»
+
+Fuente:
+========
+
+Moon, Rev. Sun Myung. 1990 (27 Mar.). Parents day and I. http://www.unification.net/1990/900327.html
+
+Respuesta:
+==========
+
+1. La evolución es descriptiva. Sólo puede ser inmoral si intentar describir la naturaleza con exactitud es inmoral.
+
+2. Cualquier moralidad derivada de la evolución tendría que reconocer el hecho de que los seres humanos han evolucionado para ser animales sociales. En un ambiente social, la cooperación e incluso el altruísmo llevaron a mejor aptitud [para la supervivencia] [Wedekind_y_Milinsky_2000]_. El proceso de la evolución lleva naturalmente a que los animales sociales, como los humanos, desarrollen principios éticos como la `Regla de Oro <http://es.wikipedia.org/wiki/Regla_de_oro_%28%C3%A9tica%29>`_.
+
+3. Alguna moralidad inapropiada, como la :doc:`eugenesia <CA006>` y el :doc:`darwinismo social <CA006>`, se basan en mala comprensión de la evolución. Por lo tanto, es importante que se enseñe evolución para eliminar esos errores de comprensión.
+
+4. :doc:`Pese a afirmaciones en contrario <CH010>`, el creacionismo tiene sus propios problemas. Para empezar, se basa en prejuicios de origen religioso, de modo que la base del creacionismo, para la mayoría de las normas vigentes, es inmoral.
+
+5. Probablemente el arma más efectiva contra la moralidad incorrecta es exponerla públicamente. La evolución (y la ciencia en general) se basa en una cultura de poner la información a disposición del público.
+
+6. Los científicos son sus propios críticos más duros. Han desarrollado códigos de conducta ética para diversas circunstancias y han empezado a hablar de una ética general [Rotblat_1999]_. Los creacionistas no tienen nada similar.
+
+7. Alguna gente se siente mejor consigo mismos al demonizar a otros. Las personas que estan verdaderamente interesadas en la moralidad empiezan buscando la inmoralidad en sí mismos, no en otros.
+
+Referencias:
+============
+
+.. [Rotblat_1999] Rotblat, Joseph. 1999. A Hippocratic Oath for scientists. Science 286: 1475.
+.. [Wedekind_y_Milinsky_2000] Wedekind, C. y M. Milinski. 2000. Cooperation through image scoring in humans. Science 288: 850-852. Véase también Nowak, M. A. and K. Sigmund, 2000. Shrewd investments. Science 288: 819-820.
+
+Otras lecturas:
+===============
+
+Huxley, T. H. H. 1894. Evolution and ethics. http://aleph0.clarku.edu/huxley/CE9/index.html
+
+/////
+
+Siguiente: :doc:`CA001_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

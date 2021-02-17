@@ -1,0 +1,38 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC210
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CC220
+.. link: http://www.talkorigins.org/indexcc/CC/CC220.html
+.. date: 2003-06-23
+.. title: CC220: Los artrópodos surgieron de repente
+.. description: Respuesta a la afirmación creacionista «Los artrópodos surgieron de repente»
+.. type: afirmacrea
+
+Los artrópodos surgieron repentinamente en el registro fósil. No hay fósiles transicionales que conduzcan a ellos.
+
+Respuesta
+===========
+
+1. *Anomalocaris*, del Cámbrico y el Precámbrico, tiene un par de apéndices segmentados, lo que indica afinidad con los artrópodos, pero también parece tener piernas de lobópodo. La especie relacionada *Opabinia* también aparentemente tiene piernas de lobópodo. Otros fósiles raros cámbricos y precámbricos muestran alguna promesa de arrojar más luz sobre relaciones. Por ejemplo, *Spriggina*, otro animal precámbrico, tiene un escudo en la cabeza similar al de los trilobites ([Conway_Morris_1998]_, 184-185).
+
+Enlaces
+=======
+
+Morton, Glenn R. 2000. Phylum level evolution. http://home.entouch.net/dmd/cambevol.htm
+
+Referencias
+=================
+
+.. [Conway_Morris_1998] Conway Morris, Simon. 1998. *The Crucible of Creation*, Oxford University Press.
+
+
+/////
+
+Anterior: :doc:`CC216_2` | Siguiente: :strong:`CC220_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,43 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CI, CI400
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CI410
+.. link: http://www.talkorigins.org/indexcc/CI/CI410.html
+.. date: 2005-03-29
+.. title: CI410: El diseño requiere un diseñador
+.. description: Respuesta a la afirmación creacionista «El diseño requiere un diseñador»
+.. type: afirmacrea
+
+La creación requiere un creador; un ardid requiere un organizador.
+
+**Fuente:**
+
+Paley, William, 1802. *Natural Theology: or, Evidences of the Existence and Attributes of the Deity*. London: J. Faulder, p. 11.
+
+Respuesta
+===========
+
+1. El diseño no requiere un diseñador antropomórfico. Aparece diseño en las nubes, por ejemplo, que no tienen otro diseñador que el calentamiento desparejo, la evaporación y otras causas naturales.
+
+   Incluso un diseñador antropomórfico no necesitaría ser una deidad. La religión atea del raelianismo, por ejemplo, propone que los seres humanos fueron creados por extraterrestres ([Movimiento_Raeliano_nd]_).
+
+2. La evolución es un diseñador. Por medio de la variación y la selección, sirve para favorecer la reproducción y dar forma a las cosas de acuerdo con las condiciones ambientales.
+
+3. Si el diseñador no necesitó un diseñador que lo creara, ¿por qué lo necesitan otras cosas?
+
+Referencias
+=============
+
+.. [Movimiento_Raeliano_nd] Movimiento Raeliano, n.d., The Raelian Revolution. http://www.rael.org/english/index.html
+
+
+/////
+
+Anterior: :doc:`CI402` | Siguiente: :doc:`CJ001`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

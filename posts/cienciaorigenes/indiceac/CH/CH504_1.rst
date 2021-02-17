@@ -1,0 +1,45 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH500
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH504_1
+.. link: http://talkorigins.org/indexcc/CH/CH504_1.html
+.. date: 2003-5-7 02:00:00+00:00
+.. title: CH504.1: James Bryce encontró una madera de 1,20m en lo alto del Ararat
+.. descripción: Respuesta a la afirmación creacionista: «James Bryce encontró una madera de 1,20m en lo alto del Ararat»
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «James Bryce encontró una madera de 1,20m en lo alto del Ararat»
+
+En 1876, el explorador inglés James Bryce encontró un trozo de madera de 1,20m trabajado a mano en el Ararat a los 4.000 metros.
+
+**Fuente:**
+
+LaHaye, Tim y John Morris, 1976. *The Ark on Ararat*, Nashville: Thomas Nelson Inc. and Creation Life Publishers, pp. 51-55.
+
+Respuesta
+============
+
+1. La madera que encontró Bryce bien podría ser de un origen distinto del Arca. Se ha llevado madera al Ararat repetidamente en tiempos históricos ([Bailey_1989]_, 105).
+
+   * En 1829, Friedrich Parrot subió dos pesadas cruces, de 1,50m y 3m, las que erigió en la cima y a los 4800m respectivamente.
+   * En 1845, Hermann von Abich ubicó una cruz de 2,10m en lo alto de la pendiente occidental.
+   * En 1859, el coronel ruso J. Khodzko erigió una cruz de 2,10m en la cima.
+   * También se construyeron en la montaña varias estructuras importantes y diversas cabañas.
+
+   El propio Bryce escribió: "Sin embargo, me veo obligado a admitir que otra explicación de este pedazo de madera [...] se me ocurrió. Pero como ningún hombre está obligado a desacreditar su propia reliquia [...], no alteraré la mente de mis lectores o ceder a las tendencias racionalizantes de la época al sugerirlo" (citado en [Bailey_1989]_, 84).
+
+Referencias
+============
+.. [Bailey_1989] Bailey, Lloyd, 1989. *Noah: The Person and the Story in History and Tradition*. Columbia, SC: University of South Carolina Press.
+
+
+/////
+
+Anterior: :doc:`CH503_2` | Siguiente: :doc:`CH504_2`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

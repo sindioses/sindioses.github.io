@@ -1,0 +1,41 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA600
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA612
+.. link: http://www.talkorigins.org/indexcc/CA/CA612.html
+.. date: 2001-02-18 02:00:00+00:00
+.. title: CA612: La evolución requiere tanta fe como el creacionismo
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La evolución requiere tanta fe como el creacionismo»
+
+Dado que la evolución nunca ha sido observada, la teoría de la evolución requiere tanta fe como el creacionismo.
+
+**Fuente:**
+
+Morris, Henry M. 1985. *Scientific Creationism*. Green Forest, AR: Master Books, p. 4.
+
+Respuesta
+===========
+
+1. La teoría de la evolución se basa en pruebas que han sido observadas. Hay gran cantidad de esas :doc:`pruebas <CA202>`. Cuando se encuentran pruebas que contradicen conclusiones previas, esas conclusiones se abandonan, y nuevas creencias basadas en las nuevas pruebas ocupan su lugar. Esta base de "ver para creer" para la teoría es exactamente lo opuesto del tipo de fe que implica la afirmación.
+
+2. La afirmación iguala implícitamente la fe con creer cosas sin bases para la creencia. Esa fe se conoce mejor como credulidad. Igualar este tipo de creencia con la fe ubica a Dios al mismo nivel que la creencia en los OVNIs, Pie Grande y los avistamientos modernos de Elvis.
+
+   Una fe realmente significativa no es sólo sobre creer. Sólo creer no significa nada. Una fe verdadera implica aceptación y confianza; es sentir que si pasa algo, las cosas estáran bien de algún modo. Una fe así es incompatible con la mayoría de los creacionismos. El creacionismo habitualmente exige que Dios actúe de acuerdo con las creencias fijas de la gente, y todo lo demás simplemente está equivocado (p. ej. [ICR_2000]_). No puede aceptar que lo que Dios haya hecho está bien.
+
+Referencias
+=============
+
+.. [ICR_2000] ICR. 2000. ICR tenets of creationism. http://www.icr.org/index.php?module=research&action=index&page=research_tenets
+
+
+/////
+
+Anterior: :doc:`CA611` | Siguiente: :doc:`CA620`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,42 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CC054: KP 274 (un húmero fósil) era humano
+.. description: Respuesta a la afirmación creacionista «KP 274 (un húmero fósil) era humano»
+.. slug: CC054
+.. link: http://www.talkorigins.org/indexcc/CC/CC054.html
+.. tags: CC, CC050
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2005-5-13
+
+El húmero fósil KP 271 es un fósil aparentemente humano de hace cuatro millones de años lo cual, de acuerdo con el model evolucionista normal, es muy anterior a la aparición de humanos modernos.
+
+**Fuente**:
+
+Lubenow, Marvin L. 1992. *Bones of Contention: A creationist assessment of the human fossils*. Grand Rapids, MI: Baker Books, pp. 54-58.
+
+Respuesta
+=========
+
+1. Incluso un húmero de un chimpancé parece similar a un húmero humano; no debería ser sorprendente que el húmero de un familiar más cercano se pareciera incluso más. Sin embargo, la evidencia anatómica indica fuertemente que el especimen no es humano y es una buena coincidencia con *Australopitecus anamensis* ([Lague_y_Jungers_1996]_).
+
+Enlaces
+=======
+
+Foley, Jim. 2004. Creationist arguments: Anomalous fossils. http://www.talkorigins.org/faqs/homs/a_anomaly.html#kp271
+
+Referencias
+===========
+
+.. [Lague_y_Jungers_1996] Lague, M. R. y W. L. Jungers, 1996. Morphometric variation in Plio-Pleistocene hominid distal humeri. *American Journal of Physical Anthropology* 101: 401-427.
+
+/////
+
+Anterior: :doc:`CC052` | Siguiente: :doc:`CC061`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

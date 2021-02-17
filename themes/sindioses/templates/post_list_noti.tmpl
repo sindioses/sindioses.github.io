@@ -1,0 +1,22 @@
+## -*- coding: utf-8 -*-
+##<!-- :wrap=soft:collapseFolds=0:maxLineLen=120:mode=html:tabSize=4:indentSize=4:deepIndent=false:folding=none: -->
+<%block name="content" filter="trim">
+<!-- Begin post-list ${post_list_id} -->
+<div id="${post_list_id}" class="post-list">
+    %if posts:
+    <ul class="post-list">
+        % for post in posts:
+            <li class="post-list-item">
+            <a href="${post.permalink(lang)}">${post.title(lang)}</a>
+            %if post.meta('author'):
+                por <strong>${post.meta('author')}</strong>
+            %endif
+            &nbsp;
+            (${post.formatted_date('dd-MMM-YYYY')}) &mdash; ${post.meta('tags')}
+            </li>
+        % endfor
+    </ul>
+    %endif
+</div>
+<!-- End post-list ${post_list_id} -->
+</%block>

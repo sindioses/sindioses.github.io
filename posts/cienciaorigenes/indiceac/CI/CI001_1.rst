@@ -1,0 +1,92 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CI, CI000
+.. author: Mark Isaac, traducción de Paulina Madariaga
+.. nocomments: True
+.. date: 2005-10-14
+.. type: afirmacrea
+.. title: CI001.1: La teoría del diseño inteligente no es religiosa
+.. description: Respuesta a la afirmación creacionista «La teoría del diseño inteligente no es religiosa»
+.. slug: CI001_1
+.. link: http://www.talkorigins.org/indexcc/CI/CI001_1.html
+
+El diseño inteligente (DI) es científico, no religioso.
+
+Respuesta
+===========
+
+1. El movimiento del DI está motivado por y es inseparable de un estrecho punto de vista religioso. En las palabras de sus fundadores y líderes.
+
+    Hay una diferencia de opinión sobre cuán importante es este debate [promover el diseño inteligente]. Lo que siempre digo es que no es solo una teoría científica. La pregunta se entiende mejor así: ¿Dios es real o imaginario? (Phillip Johnson, "The Search for Intelligent Design in the Universe", *Silicon Valley Magazine*, 9 de enero, 2000.)
+
+    "Estamos tomando una intuición que la mayoría de la gente tiene [la creencia en Dios] y transformándola en una iniciativa científica y académica. Estamos eliminando el obstáculo cultural más importante para aceptar el rol de Dios como creador". (Phillip Johnson, "Enlisting Science to Find the Fingerprints of a Creator", *LA Times*, 25 Marzo, 2001.)
+
+    Nuestra estrategia ha sido cambiar un poco el tema, de modo que podamos llevar el tema del diseño inteligente, que realmente significa la realidad de Dios, ante el mundo académico y dentro de las escuelas ([P_Johnson_2003]_).
+
+    "Las palabras del Padre, mis estudios y mis oraciones me han convencido de que debería dedicar mi vida a destruir al Darwinismo, tal como muchos de mis compañeros Unificacionistas ya han dedicado sus vidas a destruir al Marxismo. Cuando mi Padre me eligió (como a cerca de una docena de otros graduados del seminario) para entrar a un programa de Ph.D en 1978, abracé la oportunidad para prepararme para esta batalla" ([J_Wells_n_d]_).
+
+    Si tomamos en serio la palabra hecha carne de la Cristología de Celcedonia (por ejemplo, la doctrina de que Cristo es plenamente humano y plenamente divino) y vemos a Cristo como el telos [fin] hacia el cual Dios está llevando toda la creación, entonces cualquier visión de las ciencias que deje a Cristo fuera de la discusión debe verse como fundamentalmente deficiente. (William Dembski, *Intelligent Design: The Bridge Between Science & Theology*, Downers Grove, InterVarsity Press, 1999.)
+
+    "El diseño inteligente es solo el Logos teológico del Evangelio de Juan que descansa en el idioma de la teoría de la información" ([Dembski_1999]_, p. 84).
+
+   Johnson dijo que él y muchos otros en el movimiento del diseño inteligente creen que el diseñador es el Dios de la Biblia ([Maynard_2001]_).
+
+   Revisa Poindexter ([Poindexter]_, 2003) para más citas similares.
+
+2. El diseño inteligente es explícitamente religioso como motivo para el cambio legislativo de los estándares educativos. La legislación que se introdujo en Michigan intentó añadir "el diseño inteligente del Creador" a los currículos de ciencia en primaria y secundaria. ([Michigan_House_Bill_4946]_).
+
+3. Varios libros sobre diseño inteligente fueron publicados por InterVarsity Press, quien afirma sobre sí misma:
+
+    ¿Quién es Intervarsity Press? Somos editores de libros Cristianos y estudios Bíblicos.
+
+	 Como una extención de la Compañía Cristiana Intervarsity/EEUU, InterVarsity Press sirve a aquellos en la universidad, la iglesia y el mundo publicando material que equipará y motivará a la gente a seguir a Jesús como Salvador y Señor de toda la vida.([IVP_n_d]_).
+
+   El video "Descifrando el Misterio de la Vida" supuestamente "cuenta la historia de científicos contemporáneos que están haciendo avanzar una poderosa pero controversial idea: la teoría del diseño inteligente". Pero fue producido y publicitado casi exclusivamente por organizaciones cristianas fundamentalistas. ([Evans_2003]_).
+
+4. El movimiento del DI intenta esconder su base religiosa en orden a dar una apariencia de objetividad secular ([Branch_2002]_). Sus intentos son propaganda deshonesta. La tendencia entre muchos grupos cristianos en la actualidad es camuflar su creaciionismo como "Diseño Inteligente" o "Creacionismo Progresivo" ([Morris_1999]_). Y a pesar de sus afirmaciones, el movimiento no tiene :doc:`nada de científico <CI001>`;
+
+5. El diseño inteligente es descaradamente anti-religioso si se trata de una religión con la que no están de acuerdo. Por ejemplo, Phillip Johnson hace equivalentes la evolución teísta (lo que incluiría a la mayoría de la Cristiandad) y el ateísmo, debido a su aceptación de la evolución.
+
+Enlaces
+============
+
+Poindexter, Brian. 2003. The horse's mouth. http://home.roadrunner.com/~bnpndxtr/download/HorsesMouth-BP007.pdf
+
+
+Referencias
+============
+
+.. [Branch_2002] Branch, G. 2002. Evolving banners at the Discovery Institute. *Reports of the National Center for Science Education* 22(5): 12. http://www.ncseweb.org/resources/articles/4116_evolving_banners_at_the_discov_8_29_2002.asp
+
+.. [Dembski_1999] Dembski, William. 1999. Signs of intelligence: A primer on the discernment of intelligent design. *Touchstone* 12(4) (Jul/Aug): 76-84.
+
+.. [Evans_2003] Evans, Skip. 2003. Who promotes *Unlocking the Mystery of Life*? http://www.ncseweb.org/resources/articles/6304_who_promotes_iunlocking_the__7_3_2003.asp
+
+.. [IVP_n_d] IVP Online. n.d. About us. http://www.gospelcom.net/ivpress/info/aboutus/
+
+.. [P_Johnson_2003] Johnson, Phillip. 2003. American Family Radio, Jan. 10, 2003.
+
+.. [Maynard_2001] Maynard, Steve. 2001. Life's intelligent design. *Tacoma News Tribune*, May 7, 2001. http://www.arn.org/docs/news/lifesintelligentdesign050701.htm
+
+.. [Michigan_House_Bill_4946] Michigan House Bill 4946. July 2, 2003, House introduced bill. http://www.michiganlegislature.org/mileg.asp?page=getObject&objName=2003-HB-4946
+
+.. [Morris_1999] Morris, John D., 1999. Open letter included with mailing of April 1999 Acts and Facts.
+
+.. [Poindexter] Poindexter, B. 2003. (Ver arriba)
+
+.. [J_Wells_n_d] Wells, Jonathan. n.d. Darwinism: Why I went for a second Ph.D., Unification Church. http://www.tparents.org/library/unification/talks/wells/DARWIN.htm
+
+
+Lecturas recomendadas
+=========================
+
+Brauer, Matthew J., Barbara Forrest and Steven G. Gey. 2005. Is it science yet?: Intelligent design creationism and the Constitution. *Washington University Law Quaterly* 83(1): 1-149. http://law.wustl.edu/WULQ/83-1/p%201%20Brauer%20Forrest%20Gey%20book%20pages.pdf
+
+/////
+
+Anterior: :doc:`CI001` | Siguiente: :doc:`CI001_2`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

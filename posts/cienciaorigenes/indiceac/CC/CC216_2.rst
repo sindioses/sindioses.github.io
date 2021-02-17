@@ -1,0 +1,55 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CC216.2: Los fósiles de caballo no muestran evolución
+.. description: Respuesta a la afirmación creacionista «Los fósiles de caballo no muestran evolución»
+.. slug: CC216_2
+.. link: http://www.talkorigins.org/indexcc/CC/CC216_2.html
+.. tags: CC, CC210
+.. date: 2004-05-17
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+
+El registro fósil no muestra un desarrollo gradual de un animal pequeño al caballo grande moderno. El árbol familiar del caballo no es simple y directo; algunos científicos dicen que *Eohippus* no era un ancestro del caballo moderno, y los diferentes tipos de fósiles muestran estabilidad, no cambio gradual.
+
+**Fuente:**
+
+Watchtower Bible and Tract Society, 1985. *Life--How Did It Get Here?*
+Brooklyn, NY, pp. 66-67.
+
+Respuesta
+---------
+
+#. El registro fósil no muestra una progresión gradual y lineal desde *Hyracotherium* (*Eohippus*) a *Equus*. Ni hay ninguna razón para pensar que debería mostrarla. El registro fósil de los équidos muestra que varios linajes se dividen en varias ramas. La evolución no fue suave y gradual; las características evolucionaron a distintas velocidades y de vez en cuando se revirtieron. Algunas especies surgieron gradualmente, otras de pronto. Todo esto está de acuerdo con el desorden que esperamos de la evolución y de la biología en general.
+
+#. Algunos creacionistas consideran que todas las especies de la familia del caballo son del mismo "tipo". Aceptan "microevolución" de *Hyracotherium* al momento del Diluvio, a los caballos modernos y los asnos cuyo primer registro es de menos de cuatrocientos años más tarde ([Wood_y_Cavanaugh_2003]_). Esta tasa de cambio es mucho mayor de la aceptada por los biólogos.
+
+Enlaces
+-------
+
+* FLMNH, n.d. Fossil horses in hyperspace.
+  http://www.flmnh.ufl.edu/natsci/vertpaleo/fhc/fhc.htm
+* Hunt, Kathleen, 1995. Horse evolution.
+  `http://www.talkorigins.org/faqs/horses/horse\_evol.html </faqs/horses/horse_evol.html>`__
+
+Referencias
+-----------
+
+.. [Wood_y_Cavanaugh_2003] Wood, T. C. y D. P. Cavanaugh, 2003. An evaluation of lineages and trajectories as baraminological membership criteria. *Occas. Papers of the BSG* 2: 1-6. http://www.bryancore.org/bsg/opbsg/002.html
+
+Otras lecturas
+----------------
+
+Gould, Stephen J., 1991. Life's little joke. In: *Bully for
+Brontosaurus*, New York: W.W. Norton, pp. 168-181.
+
+      
+/////
+
+Anterior: :doc:`CC216_1` | Siguiente: :doc:`CC220`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,46 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB110
+.. link: http://talkorigins.org/indexcc/CB/CB110.html
+.. date: 2001-2-17
+.. title: CB110: La microevolución sólo selecciona la variación existente
+.. description: Respuesta a la afirmación creacionista «La microevolución sólo selecciona la variación existente»
+.. type: afirmacrea
+
+La microevolución (por ejemplo, el desarrollo de resistencia a insecticidas) simplemente selecciona la variación preexistente. No demuestra que las mutaciones crean nuevas variaciones.
+
+**Fuente:**
+
+Wallace, Timothy, 2002. Five major *evolutionist* misconceptions about evolution. http://www.trueorigins.org/isakrbtl.asp
+
+Respuesta
+============
+
+1. En experimentos con bacterias, surge variación (incluyendo mutaciones benéficas) en poblaciones que crecen a partir de un único individuo ([Lederberg_y_Lederberg_1952]_). Dado que la población se inició con sólo un cromosoma, no hubo variación en la población original; toda la variación debe haber venido de mutaciones.
+
+   Además, organismos enfermos y pestes de insectos han desarrollado resistencia a una variedad de antibióticos y pesticidas, muchos de ellos artificiales y distintos de todo lo que existe en la naturaleza. Es altamente improbable que todos los insectos fueran creados con resistencia a todos los pesticidas.
+
+2. La mutación es el único proceso natural que añade variación a las poblaciones. La selección y la deriva genética remueven la variación. Si las mutaciones no crearan nueva variación, habría poca o ninguna variación de la cual seleccionar. En particulaar, reducir poblaciones a un único par de individuos, como lo requiere el Diluvio de Noé, hubiera eliminado prácticamente toda variación de la vida salvaje del mundo de un plumazo.
+
+3. Es cierto que buena parte de la microevolución selecciona a partir de variaciones preexistentes. En animales, este tipo de microevolución ocurre mucho más rápido que por la simple espera de que ocurran ciertas mutaciones, de modo que con frecuencia vemos programas de selección artificial que se atascan cuando han seleccionado entre toda las variaciones existentes desde el comienzo. Sin embargo, si se mantiene la selección, el cambio debería continuar, aunque a una tasa mucho menor.
+
+Referencias
+===============
+.. [Lederberg_y_Lederberg_1952] Lederberg, J. and E. M. Lederberg, 1952. Replica plating and indirect selection of bacterial mutants. *Journal of Bacteriology* 63: 399-406.
+
+Otras lecturas
+=================
+
+True, Heather L. and Susan L. Lindquist, 2000. A yeast prion provides a mechanism for genetic variation and phenotypic diversity. *Nature* 407: 477-483. (Técnico)
+
+/////
+
+Anterior: :doc:`CB102_1` | Siguiente: :doc:`CB120`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

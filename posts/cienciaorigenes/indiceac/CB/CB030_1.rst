@@ -1,0 +1,47 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB030_1
+.. link: http://www.talkorigins.org/indexcc/CB/CB030_1.html
+.. date: 2004-6-12
+.. title: CB030.1: Las moléculas tempranas hubieran sido destruidas por la luz ultravioleta
+.. description: Respuesta a la afirmación creacionista «Las moléculas tempranas hubieran sido destruidas por la luz ultravioleta»
+.. type: afirmacrea
+
+Dado que la atmósfera temprana no tenía capa de ozono, la luz ultravioleta (UV) hubiera irradiado a las moléculas orgánicas que se formaran en la atmósfera, destruyendo las moléculas complejas.
+
+**Fuente:**
+
+Watchtower Bible and Tract Society. 1985. *Life--How Did It Get Here?* Brooklyn, NY, p. 41.
+
+Respuesta
+============
+
+1. Cuando las moléculas orgánicas simples se juntan en un área bastante concentrada, como al pegarse a un grano de polvo o de hielo, la luz UV en realidad mejora la formación de moléculas más complejas al dividir algunos enlaces y permitiendo que las moléculas se recombinen ([Bernstein_et_al_1999]_; [Cooper_et_al_2001]_). En ADN y el ARN son relativamente resistentes a la luz UV, porque algunas partes de las moléculas protegen a otras y el daño a las bases puede proporciona los materiales necesarios para reparar la "columna vertebral". La luz UV da a los ácidos nucleicos una ventaja selectiva y de hecho pueden haber sido un ingrediente esencial de la abiogénesis ([Mulkidjanian_et_al_2003]_; [Mullen_2003]_).
+
+2. Las moléculas no necesariamente permanecieron mucho tiempo expuestas a la luz UV. Algunas se hubieran disuelto en océanos y lagos. En un escenario propuesto, las moléculas orgánicas complejas se forman en el océano profundo en torno a los respiraderos geotérmicos, bien lejos de la luz ultravioleta.
+
+Referencias
+==============
+
+.. [Bernstein_et_al_1999]    Bernstein, M. P., S. A. Sandford, L. J. Allamandola, J. S. Gillette, S. J. Clemett y R. N. Zare. 1999. UV irradiation of polycyclic aromatic hydrocarbons in ices: Production of alcohols, quinones, and ethers. *Science* 283: 1135-1138. Cfr. Ehrenfreund, P., 1999. Molecules on a space odyssey. *Science* 283: 1123-1124.
+.. [Cooper_et_al_2001]    Cooper, G. et al. 2001. Carbonaceous meteorites as a source of sugar-related organic compounds for the early Earth. Nature 414: 879-883. See also: Sephton, M. A., 2001. Life's sweet beginnings? *Nature* 414: 857-858.
+.. [Mulkidjanian_et_al_2003]    Mulkidjanian, A. Y., D. A. Cherepanov y M. Y. Galperin. 2003. Survival of the fittest before the beginning of life: selection of the first oligonucleotide-like polymers by UV light. BMC *Evolutionary Biology* 3:12. http://www.biomedcentral.com/1471-2148/3/12/abstract
+.. [Mullen_2003]    Mullen, Leslie. 2003. Shining light on life's origin. *Astrobiology Magazine*, http://www.astrobio.net/news/article492.html
+
+Otras lecturas
+===============
+
+Bernstein, M. P., S. A. Sandford y L. J. Allamandola. 1999. Life's far-flung raw materials. Scientific American 281(1) (July): 42-49.
+
+
+/////
+
+Anterior: :doc:`CB030` | Siguiente: :doc:`CB035`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

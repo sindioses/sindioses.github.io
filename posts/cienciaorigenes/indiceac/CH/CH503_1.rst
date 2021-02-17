@@ -1,0 +1,46 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH500
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH503_1
+.. link: http://talkorigins.org/indexcc/CH/CH503_1.html
+.. date: 2004-6-2
+.. title: CH503.1: Se encontraron las piedras del ancla del Arca de Noé
+.. description: Respuesta a la afirmación creacionista «Se encontraron las piedras del ancla del Arca de Noé»
+.. type: afirmacrea
+
+Las gigantescas piedras de ancla halladas en el área de Durupinar del Medio Oriente son demasiado largas y están muy alejadas del agua para haber sido transportadas por medios normales. Son pruebas del Arca de Noé.
+
+**Fuente:**
+
+Wyatt, Ron, 1989. *Discovered: Noah's Ark*. Nashville, Tennessee: World Bible Society, pp. 21-22,24.
+
+Fasold, David, 1988. The Ark of Noah, New York: Knightsbridge Publishing.
+
+Respuesta
+===========
+
+1. Las piedras de "ancla" probablemente no tengan nada que ver con la cristiandad o el arca. Se sabe que los paganos han tallado piedras de ese tipo para sus rituales de adoración desde antes de que la cristiandad llegara a Armenia. Los "hoyos para soga" eran nichos para lámparas. Cuando la cristiandad llegó a la región, las rocas fueron cristianizadas agregándoles símbolos cristianos ([Merling_n_d]_).
+
+2. La roca de la cual se fabricaron las piedras de ancla es roca volcánica hallada alrededor del Monte Ararat donde se hallaron las piedras de ancla, pero no se encuentran en Mesopotamia (Irak), desde donde se supone que partió Noé ([Collins_y_Fasold_1996]_). Si las piedras fueron talladas por Noé, hubieran venido de la región de la que Noé partió, no del lugar donde atracó.
+
+Enlaces
+===========
+
+Merling, David, n.d., Has Noah's Ark been found? http://www.tentmaker.org/WAR/HasNoahsArkBeenFound1.html
+
+Referencias
+=============
+
+.. [Merling_n_d]    Merling, David, n.d., Has Noah's Ark been found? http://www.tentmaker.org/WAR/HasNoahsArkBeenFound1.html
+.. [Collins_y_Fasold_1996]    Collins, L. G. and D. F. Fasold, 1996. Bogus "Noah's Ark" from Turkey exposed as a common geologic structure. *Journal of Geoscience Education* 44(4): 439-444. http://www.csun.edu/~vcgeo005/bogus.html
+
+/////
+
+Anterior: :doc:`CH503` | Siguiente: :doc:`CH503_2`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

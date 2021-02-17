@@ -1,0 +1,85 @@
+﻿.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB200
+.. author: Mark Isaak. traducción de Samuel Martínez de la Iglesia
+.. nocomments: True
+.. slug: CB200
+.. link: http://www.talkorigins.org/indexcc/CB/CB200.html
+.. date: 2007-07-19
+.. title: CB200: Algunos sistemas son irreduciblemente complejos
+.. description: Respuesta a la afirmación creacionista «Algunos sistemas son irreduciblemente complejos»
+.. type: afirmacrea
+
+
+
+Algunos sistemas bioquímicos son irreduciblemente complejos, lo que significa que la eliminación de alguna de las partes del sistema destruiría la función del sistema. La complejidad irreducible elimina la posiblidad de que un sistema haya evolucionado, por lo que tiene que haber sido diseñado.
+
+**Fuente:**
+
+Behe, Michael J. 1996. Darwin's Black Box, New York: The Free Press.
+
+Respuesta
+============
+
+1. Los sistemas irreduciblemente complejos pueden evolucionar. Son definidos como sistemas que pierden su función si alguna de sus partes es eliminada. Ésto lo único que indica es que el sistema no evolucionó por la adición de partes simples sin ningún cambio en su función, siendo aún posibles varios mecanismos evolutivos como los siguientes:
+
+   - Eliminación de alguna de sus partes.
+   - Adición de múltiples partes; por ejemplo, la duplicación de la mayoría del sistema. ([Pennisi_2001]_)
+   - Cambio de función.
+   - Adición de una segunda función a una de las partes del sistema. ([Aharoni_et_al_2004]_)
+   - Modificación gradual de las partes.
+
+   Todos estos mecanismos han sido observados como resultado de mutaciones genéticas. En particular, las deleciones y las duplicaciones génicas son muy comunes ([Dujon_et_al_2004]_; [Hooper_and_Berg_2003]_; [Lynch_and_Connery_2000]_), y conjuntamente hacen que la complejidad irreducible no solo sea posible sino esperable. De hecho, esto fue predicho por el genetista y ganador del premio Nobel, Hermann Muller hace casi cien años ([Muller_1918]_, 463-464). Muller se refería a ello como *complejidad vinculada* (*interlocking complexity*), ([Muller_1939]_).
+
+   Los orígenes evolutivos de algunos sistemas irreduciblemente complejos han sido descritos con detalle. Por ejemplo, la evolución del Ciclo de Krebs o Ciclo del ácido cítrico ([Melendez_Hevia_et_al_1996]_) o la de un sistema "irreducible" como el del sistema hormona-receptor ([Bridgham_et_al_2006]_). La irreducibilidad no es un obstáculo para su formación.
+
+2. Incluso si la irreducibilidad prohibiese la evolución darwiniana, la :doc:`conclusión de diseño <CI102>` no se deriva de ello. Otros procesos pueden haberla producido. La complejidad irreducible es un ejemplo de la *falacia divina* o :doc:`argumento de incredulidad personal <CA100>`.
+
+3. La complejidad irreducible no está bien definida. Está definida en términos de *partes*, pero no es nada obvio a que se refiere con *parte*. De forma lógica, las partes deberían ser átomos individuales, porque representan el nivel de organización básica (*que no se subdivide más*) en bioquímica y es el nivel más pequeño que los bioquímicos consideran en sus análisis. Behe, sin embargo, considera conjuntos de moléculas como partes individuales, y no indica como hace sus determinaciones.
+
+4. Algunos sistemas que se han considerado irreduciblemente complejos, en realidad pueden no serlo. Por ejemplo:
+
+   - La ratonera que Behe usó como ejemplo de complejidad irreducible puede ser simplificada doblando la varilla y eliminando el cerrojo.
+   - El :doc:`flagelo <CB200_1>` bacteriano no es irreduciblemente complejo porque puede perder varias partes y seguir funcionando, bien como un flagelo más simple o como un complejo de secrección. Muchas proteínas del flagelo eucariota (también llamado cilio, o undulipodio) se sabe que no son indispensables, porque se conocen flagelos funcionales más simples que no tienen estas proteínas.
+   - El :doc:`transporte de proteínas <CB200_3>`: a pesar de ser un ejemplo de complejidad irreducible de Behe, hay otras proteínas que no requieren transporte (ver [Ussery_1999]_).
+   - Otro ejemplo que incluyó Behe en su libro: :doc:`el sistema inmune <CB200_4>`. No es irreduciblemente complejo porque los anticuerpos que marcan las células invasoras para su posterior destrucción pueden, por ellas mismas obstaculizar la función de las células invasoras, permitiendo al sistema inmune funcionar (aunque no tan bien) sin las moléculas que las destruyen.
+
+Enlaces
+===========
+
+Archivo TalkOrigins. Irreducible complexity and Michael Behe. http://www.talkorigins.org/faqs/behe.html
+
+Referencias
+==============
+
+.. [Aharoni_et_al_2004]    Aharoni, A., L. Gaidukov, O. Khersonsky, S. McQ. Gould, C. Roodveldt and D. S. Tawfik. 2004. The `evolvability` of promiscuous protein functions. *Nature Genetics*
+.. [Bridgham_et_al_2006]    Bridgham, Jamie T., Sean M. Carroll and Joseph W. Thornton. 2006. Evolution of hormone-receptor complexity by molecular exploitation. *Science* 312: 97-101. Ver también Adami, Christopher. 2006. Reducible complexity. *Science* 312: 61-63.
+.. [Dujon_et_al_2004]    Dujon, B. et al. 2004. Genome evolution in yeasts. *Nature* 430: 35-44
+.. [Hooper_and_Berg_2003]    Hooper, S. D. and O. G. Berg. 2003. On the nature of gene innovation: Duplication patterns in micobial genomes. *Molecular Biology and Evolution* 20(6): 945-954.
+.. [Lynch_and_Connery_2000]    Lync, M. and J. S. Conery. 2000. The evolutionary fate and consequences of duplicate genes. *Science* 290: 1151-1155. Ver también Pennisi, E. 2000. Twinned genes live life in the fast lane. *Science* 290: 1065-1066.
+.. [Melendez_Hevia_et_al_1996]    Meléndez-Hevia, Enrique, Thomas G. Waddell and Marta Cascante. 1996. The puzzle of the Krebs citric acid cycle: Assembling the pieces of chemically feasible reactions, and opportunism in the design of metabolic pathways during evolution. *Journal of Molecular Evolution* 43(3): 293-303.
+.. [Muller_1918]    Muller, Hermann J. 1918. Genetic variability, twin hybrids and constant hybrids, in a case of balanced lethal factors. *Genetics* 3: 422-499  http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1200446/
+.. [Muller_1939]    Muller, H. J. 1939. Reversibility in evolution considered from the standpoint of genetics. *Biological Reviews of the Cambridge Philosophical Society* 14: 261-280.
+.. [Pennisi_2001]    Pennisi, Elizabeth. Genome duplications: The stuff of evolution? *Science* 294: 2458-2460.
+.. [Ussery_1999]    Ussery, David. 1999. A biochemist`s response to ``The biochemical challenge to evolution``. *Bios* 70: 40-45. http://www.indiana.edu/~ensiweb/behe.rev.html
+
+Otras lecturas
+================
+
+Gray, Terry M. 1999. Complexity--yes! Irreducible--maybe! Unexplainable--no! A creacionist criticism of irreducible complexity. http://www.asa3.org/evolution/irred_compl.html
+
+Lindsay, Don. 1996. Review:``Darwin`s black box, the biochemical challenge to evolutio`` by Michael Behe. http://www.don-lindsay-archive.org/creation/behe.html.
+
+Miller, K. 1999. *Finding Darwin`s God*. Harper-Collins, chap. 5.
+
+Shanks, N. and K. H. Joplin. 1999. Redundant complexity: A analysis of intelligent design in biochemistry. *Philosophy of Science* 66: 268-298.
+
+/////
+
+Anterior: :strong:`CB180` | Siguiente: :doc:`CB200_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

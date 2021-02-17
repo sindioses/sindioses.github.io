@@ -1,0 +1,78 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. tags: moral, valores, universalidad, laicismo
+.. date: 2010-09-11 00:00:00
+.. category: Sociedad y religión
+.. type: socre
+.. description: Doce preguntas relacionadas con el libro de próxima aparición "The Moral Landscape" (El paisaje moral), con las respuestas de su autor, Sam Harris.
+.. title: El paisaje moral: pensar sobre los valores humanos en términos universales
+.. author: Sam Harris (traducido por Anahí Seri)
+
+
+  Doce preguntas relacionadas con el libro de próxima aparición “The Moral Landscape” (El paisaje moral), con las respuestas de su autor, Sam Harris.
+
+.. class:: primera
+
+**1. Las preguntas morales, ¿tienen respuestas correctas e incorrectas?**
+
+La moralidad se debe relacionar, a algún nivel, con el bienestar de los seres conscientes. Si hay maneras más o menos eficaces de buscar la felicidad y evitar la infelicidad en este mundo, y está claro que las hay, entonces las preguntas morales tienen respuestas correctas y falsas.
+
+**2. ¿Está usted diciendo que la ciencia puede responder a estas preguntas?**
+
+Sí, en principio sí. El bienestar humano no es un fenómeno aleatorio. Depende de muchos factores, desde la genética y la neurobiología a la sociología y la economía. Pero está claro que hay verdades científicas que hay que conocer sobre cómo prosperar en este mundo. En todas las situaciones en las que podemos influir en el bienestar de los demás se aplican cuestiones morales.
+
+**3. Pero ¿no pueden entrar en conflicto las aspiraciones morales? ¿No hay, acaso, muchas situaciones en las que la felicidad de una persona supone el sufrimiento de otra?**
+
+Hay algunas circunstancias en las que eso ocurre, y las llamamos “de suma cero”. Sin embargo, hablando en general, las cuestiones morales más importantes no son de este tipo. Si pudiéramos eliminar la guerra, la proliferación nuclear, la malaria, el hambre crónica, los abusos de niños, etc., estos cambios en conjunto serían buenos para todos. Sin duda existen razones neurobiológicas, psicológicas y sociológicas por lo cual es así, lo cual significa que la ciencia, en principio, puede decirnos exactamente por qué un fenómeno como los abusos de niños disminuye el bienestar humano.
+
+Pero no necesitamos esperar a que la ciencia haga esto. Ya tenemos muy buenas razones para creer que maltratar a niños es malo para todos. Creo que es importante que admitamos que no se trata de un afirmación de nuestras preferencias personales, ni de algo que nuestra cultura simplemente nos haya condicionado para creer. Es una afirmación acerca de la arquitectura de nuestras mentes y la arquitectura social de nuestro mundo. Las verdades morales de este tipo deben hallar su sitio en cualquier comprensión científica de la experiencia humana.
+
+**4. ¿Y qué ocurre si algunas personas simplemente tienen ideas diferentes sobre lo que es importante en la vida? ¿Podría la ciencia decirnos que las acciones de los talibanes son de hecho inmorales cuando los talibanes piensan que ellos se comportan de forma moral?**
+
+Como explico en mi libro, hay muchas maneras en que la gente puede prosperar, pero claramente hay muchas más maneras de no prosperar. Los talibanes son el ejemplo perfecto de un grupo de personas que están esforzándose por construir una sociedad que es obviamente menos buena que muchas de las otras sociedades entre las que elegir. Las mujeres afganas tienen una tase de alfabetización del 12% y una expectativa de vida de 44 años. Afganistán está entre los países con mayores tasas de mortalidad maternales e infantiles del mundo. También tiene una de las tasas de natalidad más elevadas. Consecuentemente, es uno de los mejores lugares de la Tierra donde ver como mueren mujeres y niños. Y el PNB de Afganistán está actualmente por debajo de la media mundial en el año 1820. Se puede afirmar sin ninguna duda que la respuesta óptima a esta triste situación (es decir, la respuesta más moral) no es lanzar ácido de baterías a las caras de las niñas por el delito de querer aprender a leer. Parecería de sentido común para nosotros, y lo es, pero lo que estoy diciendo es que también es, en el fondo, una afirmación en el terreno de la biología, la psicología, la sociología, la economía. Por tanto, no es contrario a la ciencia afirmar que los talibanes se equivocan en cuestiones de moralidad. De hecho, debemos decirlo, desde el momento en que admitimos que sabemos algo sobre el bienestar humano.
+
+**5. ¿Pero qué pasa si los talibanes simplemente tienen otros objetivos en la vida?**
+
+Pues, para ser breve, no los tienen. Es obvio que buscan la felicidad en esta vida, y lo que es más importante, se imaginan que se están asegurando la felicidad en una vida futura. Creen que disfrutarán de una eternidad de felicidad después de la muerte si siguen la interpretación más estricta de la ley islámica que existe en la Tierra. Y también esto es una afirmación sobre la cual la ciencia debería opinar, pues es prácticamente seguro que es incorrecta. De lo que no cabe duda, sin embargo, es que los talibanes buscan el bienestar, en cierto sentido; sólo que tienen unas ideas muy extrañas de cómo alcanzarlo.
+
+En mi libro, intento explicar por qué los desacuerdos sobre cuestiones  morales no ponen el peligro la idea de la verdad moral. En la esfera moral, como en todas las demás, hay gente que no sabe lo que se está perdiendo. De hecho, sospecho que la mayoría de nosotros no sabemos lo que nos estamos perdiendo: tiene que ser posible modificar la experiencia humana de modos que darían lugar a un  florecimiento humano que la mayoría de nosotros no es capaz de imaginar. En todas las áreas de auténtico descubrimiento, hay horizontes más allá de los cuales no podemos ver.
+
+**6. ¿A qué se refiere usted cuando habla de “paisaje moral”?**
+
+Es una frase que uso para describir el espacio de todas las posibles experiencias, donde los picos se corresponden con las cumbres del bienestar y los valles representan los peores sufrimientos. Todos estamos en algún lugar de este paisaje, nos encontramos ante la perspectiva de ascender o descender. Dado que nuestra experiencia está totalmente restringida por las leyes del universo, debe haber respuestas científicas a la pregunta de cuál es la mejor manera de ascender hacia una mayor felicidad.
+
+Esto no significa que solamente haya una manera correcta en la que puedan vivir los humanos. Puede haber muchas cumbres en este paisaje, pero está claro que hay muchas maneras de no estar en la cumbre.
+
+**7. ¿Cómo puede la ciencia guiarnos en este paisaje moral?**
+
+En la medida en que seamos capaces de comprender el bienestar humano, comprenderemos las condiciones que mejor sirven para asegurarlo. Algunas, por supuesto, son obvias. Las emociones sociales positivas como la compasión y la empatía son en general buenas para nosotros, y queremos fomentarlas. Pero, ¿sabemos cuál es la forma más fiable de educar a los niños para que se preocupen por el sufrimiento de las demás personas? No estoy seguro de ello. ¿Hay genes que hacen que determinadas personas sean más compasivas que otras? ¿Qué sistemas sociales e instituciones podrían maximizar nuestro sentimiento de conexión con el resto de la humanidad? Estas preguntas tienen respuesta, y sólo una ciencia de la moralidad puede proporcionarlas.
+
+**8. ¿Por qué se considera tabú que un científico intente responder a cuestiones morales?**
+
+Creo que hay dos razones principales por las cuales los científicos dudan en hacerlo. La primera, la más defendible, surge de su apreciación de lo difícil que es comprender los sistemas complejos. Nuestra investigación de la mente humana está en su infancia, aunque llevemos ya dos siglos estudiando el cerebro. Por eso, los científicos temen que sea muy difícil encontrar respuestas a preguntas específicas sobre el bienestar humano, y desde luego que en muchos aspectos la confianza es prematura. Eso es cierto. Pero, como argumento en mi libro, se comete un grave error confundiendo el “no hay respuestas en la práctica” con “no hay respuestas en principio”.
+
+La segunda razón es que a muchos científicos les ha llevado a engaño una combinación de mala filosofía y corrección política, que les induce a pensar que la única postura intelectualmente defendible que se puede adoptar ante un desacuerdo moral es mantener que todas las opiniones son igualmente válidas o igualmente absurdas. A un determinado nivel, esto es una sobre corrección comprensible e incluso noble en vista de nuestra historia de racismo, etnocentrismo e imperialismo. Pero no deja de ser una sobre corrección. Como intento mostrar en mi libro, no estamos siendo intolerantes si advertimos que algunas culturas y subculturas fallan estrepitosamente en el intento de producir vidas humanas que merezcan ser vividas.
+
+**9. ¿Qué diferencia hay entre “no hay respuestas en la práctica” y “no hay respuestas en principio”, y por qué es importante esta distinción a la hora de comprender la relación entre el conocimiento humano y los valores humanos?**
+
+Hay un número infinito de preguntas a las que jamás podremos responder, pero que claramente tienen un respuesta. ¿Cuántos peces hay en los océanos del mundo en este momento? Nunca lo sabremos. Y sin embargo sabemos que esta pregunta, y un número infinito de preguntas semejantes, poseen una respuesta correcta. Simplemente, no podemos acceder a los datos en la práctica.
+
+Hay muchas preguntas relacionadas con la subjetividad humana, y con la experiencia de los seres conscientes en general, que tienen la misma estructura. ¿Qué causa mayor sufrimiento humano, robar o mentir? Las preguntas de este tipo no son absurdas, en el sentido de que tienen que tener una respuesta, pero no llegaríamos a ninguna parte si las intentáramos contestar con precisión. Y sin embargo, una vez admitido que cualquier debate sobre valores humanos debe tener en cuenta una realidad más amplia en la cual hay respuestas reales, podemos rechazar muchas respuestas en cuanto que obviamente falsas. Si, respondiendo a la pregunta sobre los peces del mundo, alguien dijera “hay exactamente mil peces en el mar”, sabríamos que esa persona no merece que la escuchemos. Y muchas personas tienen firmes opiniones sobre cuestiones morales que no tienen mayor credibilidad que esa afirmación. Alguien que diga que el matrimonio gay es el mayor problema del siglo XXI, o que se debe obligar a las mujeres a llevar burka, no merece que le escuchemos cuando habla sobre cuestiones de moralidad.
+
+**10. ¿Qué opina usted del papel que juega la religión a la hora de determinar la moralidad humana?**
+
+Creo que en general su papel no es positivo. Las ideas religiosas sobre el bien  y el mal tienden a centrarse en cómo lograr el bienestar en la vida futura, y eso hace que constituyan una guía nefasta para asegurar el bienestar en esta vida. Por supuesto que hay unas pocos gemas que se hallan en todas las tradiciones religiosas, pero en la medida en que estos preceptos son sabios y útiles no son, en principio, religiosos. No hace falta creer en que la Biblia fue dictada por el Creador del Universo, o que Jesucristo fue su hijo, para ver la sabiduría y la utilidad de seguir la regla de oro (trata a los demás como quieres que te traten a ti).
+
+El problema de la moralidad religiosa es que frecuentemente lleva a que la gente se preocupe de cosas equivocadas, obligándola a tomar decisiones que perpetúan, sin necesidad, el sufrimiento humano. Véase el caso de la Iglesia católica: es una institución que excomulga a las mujeres que quieren ser sacerdotes, pero no excomulga a los sacerdotes varones que violan niños. La Iglesia está más preocupada por detener la contracepción que por detener el genocidio. Le preocupa más el matrimonio de los homosexuales que la proliferación nuclear. Cuando nos damos cuenta que la moralidad trata de cuestiones de bienestar humano y animal, vemos que la Iglesia católica tiene tanta confusión sobre temas morales como sobre cuestiones de cosmología. No ofrece un marco moral alternativo; ofrece un marco falso.
+
+**11. Entonces, ¿la gente no necesita la religión para llevar una vida ética?**
+
+No. Y queda demostrado echando un vistazo a las vidas de la mayoría de los ateos, y a las sociedades más ateas de la Tierra: Dinamarca, Suecia, etc. Ni siquiera los creyentes obtienen, en realidad, sus principios morales más profundos de la religión; la Biblia y el Corán están repletos de preceptos bárbaros que todas las personas cuerdas y decentes deben ahora o reinterpretar o ignorar. ¿Cómo es que la mayoría de los judíos, cristianos y musulmanes se oponen a la esclavitud? Esa visión moral no procede de las escrituras, porque el Dios de Abraham espera de nosotros que tengamos esclavos. Consecuentemente, incluso los fundamentalistas religiosos extraen muchas de sus posturas morales de una conversación más amplia sobre valores humanos que no es, en principio, religiosa. Somos los garantes de la sabiduría que encontramos en las escrituras, tal como están. Y somos los que debemos ignorar a Dios cuando nos dice que matemos a personas por trabajar el sabbat.
+
+**12. Admitir que hay respuestas correctas y respuestas falsas a las cuestiones de la prosperidad humana y animal, ¿cómo transformará la forma en la que pensamos y hablamos de moralidad?**
+
+Lo que he intentado hacer con mi libro es ofrecer un marco dentro del cual podamos pensar sobre los valores humanos en términos universales. Actualmente, las cuestiones más importantes de la vida humana (cuestiones sobre qué constituye una vida buena, en qué guerras debemos luchar y en cuáles no, de que enfermedades debemos ocuparnos prioritariamente, etc.) se considera que quedan fuera del ámbito de la ciencia, en principio. Por tanto, hemos segregado las preguntas más importantes de la vida humana del contexto en el cual se lleva a cabo nuestro pensamiento más riguroso y más honesto intelectualmente.
+
+La verdad moral depende totalmente de los cambios reales y potenciales en el bienestar de los seres conscientes. En este sentido, hay cosas que se han de descubrir al respecto mediante observación atenta y razonamiento honesto. Me parece que la única forma en la que llegaremos a construir una civilización global basada en valores compartidos, que nos permita converger en los mismos objetivos políticos, económicos y ambientales, es admitir que las preguntas sobre lo que es correcto y lo que no, sobre el bien y el mal, tienen respuestas, del mismo modo que lo tienen las preguntas sobre salud humana.
+
+.. include:: ../biografias/sam_harris.inc
+.. include:: includes/socre_pie.inc

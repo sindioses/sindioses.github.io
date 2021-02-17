@@ -1,0 +1,37 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC360
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2003-4-28
+.. type: afirmacrea
+.. title: CC361.3: Las posiciones contorsionadas de los animales fósiles indican que fueron rápidamente enterrados vivos
+.. description: Respuesta a la afirmación creacionista «Las posiciones contorsionadas de los animales fósiles indican que fueron rápidamente enterrados vivos»
+.. slug: CC361_3
+.. link: http://www.talkorigins.org/indexcc/CC/CC361_3.html
+
+**Fuente:**
+
+Brown, Walt, 1995. *In the Beginning: Compelling evidence for creation and the flood*, 6th ed. Phoenix, AZ: Center for Scientific Creation, p. 9. http://www.creationscience.com/onlinebook/LifeSciences25.html
+
+Respuesta
+=========
+
+1. A medida que los cadáveres se secan, los ligamentos se contraen y distorsionan el cuerpo ([Weber_1980]_). Además, los animales muertos con frecuencia son alterados por carroñeros y/o corrientes de agua antes de que sus restos queden enterrados. Esto puede explicar las posiciones contorsionadas.
+   
+2. Algunos fósiles sí se forman por enterramiento rápido, pero estos indican sólo catástrofes locales, como deslizamientos de tierra de la ribera de un río.
+   
+Referencias
+===========
+.. [Weber_1980]  Weber, Christopher Gregory, 1980. Common creationist attacks on geology. *Creation/Evolution* issue 2, pp. 10-25. 
+
+		
+/////
+
+Anterior: :doc:`CC361_2` | Siguiente: :doc:`CC362`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

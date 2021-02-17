@@ -1,0 +1,40 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CB925: No vemos criaturas en varios estados de completitud
+.. description: Respuesta a la afirmación creacionista «No vemos criaturas en varios estados de completitud»
+.. slug: CB925
+.. link: http://www.talkorigins.org/indexcc/CB/CB925.html
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-09-03
+
+No vemos criaturas en estados diversos de completitud. En el pasado, de acuerdo con la teoría evolutiva, había medio-pájaros, medio-perros, etc. No vemos nada similar en la actualidad.
+
+Respuesta
+=========
+
+1. La evolución no predice criaturas incompletas. Si alguna vemos algo similar, refutaría la evolución. Para sobrevivir, todas las criaturas deben estar suficientemente adaptadas a su ambiente; por lo tanto, deben estar completas en algún sentido.
+
+   La suposición falsa básica en esta afirmación es doble. Primero, se asume que todas las formas intermedias son necesariamente incompletas; segundo, se supone que una vez se permite la variación más allá del "tipo", se permite cualquier variación (esto último es pensamiento tipológico o esencialista.)
+
+2. Vemos muchas criaturas en etapas transicionales. Éstas pueden considerarse incompletas en el sentido de que no tienen todas las características y capacidades de criaturas similares o relacionadas:
+
+   * Varios animales que planean, como la ardilla voladora, podrían estar en camino de volverse más parecidos a los murciélagos.
+   * La euglena, que está a medio camino de ser planta.
+   * Las serpientes acuáticas.
+   * Los reptiles con un "tercer ojo" que sólo percibe la luz infrarroja.
+   * Varios peces que pueden vivir fuera del agua por largos períodos, usar sus aletas como piernas, y respirar aire.
+   * Los varios huesos de la mandíbula de *Probainognathus* que estaban en proceso de :doc:`migrar hacia el oído medio <CC215>`.
+   *  Varias ballenas del Eoceno, que tenían miembros delanteros y traseros con pezuñas.
+
+/////
+
+Anterior: :doc:`CB922` | Siguiente: :doc:`CB926`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

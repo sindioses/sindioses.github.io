@@ -1,0 +1,33 @@
+.. title: CB940.1: El mero azar no puede crear estructuras nuevas
+.. slug: CB940_1
+.. date: 2003-11-2
+.. tags: CB, CB900
+.. category: Afirmaciones de los creacionistas
+.. link: http://talkorigins.org/indexcc/CB/CB940_1.html
+.. description: Respuesta a la afirmación creacionista «El mero azar no puede crear estructuras nuevas»
+.. type: afirmacrea
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. has_math: yes
+.. nocomments: True
+
+La producción exitosa de un organismo funcionante de 200 componentes requiere al menos 200 mutaciones benéficas. Las probabilidades de recibir ese número de mutaciones benéficas sucesivas es :math:`r^200`, donde *r* es la tasa de mutaciones benéficas. Incluso si *r* es 0,5 (y en realidad es mucho menor), eso hace que las probabilidades sean mucho menores que 1 en :math:`10^60`, lo cual es imposiblemente pequeño.
+
+**Fuente:**
+
+* Morris, Henry M., 1972. The mathematical impossibility of evolution. *Acts & Facts* 2.
+* Morris, Henry M., 2003. The mathematical impossibility of evolution. *Back to Genesis* 179, pp. b-c. http://www.icr.org/index.php?module=articles&action=view&ID=493
+
+Respuesta
+===============
+
+1. Los cálculos de Morris asumen que todas las mutaciones benéficas deben ocurrir consecutivamente sin que ocurran otras mutaciones mientras tanto. Cuando uno permite mutaciones dañinas que son eliminadas por la selección, 200 mutaciones benéficas se acumularían bastante rápido; en :math:`200/r` usando las suposiciones del modelo de Morris. (El mundo real es mucho más complicado aún. En particular, poblaciones grandes y recombinación genética por medio del sexo puede permitir que las mutaciones favorables se acumulen aún más rápido.)
+
+
+/////
+
+Anterior: :doc:`CB940` | Siguiente: :doc:`CB941`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

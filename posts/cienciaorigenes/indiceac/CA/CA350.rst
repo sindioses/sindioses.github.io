@@ -1,0 +1,60 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA300
+.. author: Mark Isaak, traducción de Paulina Madariaga
+.. nocomments: True
+.. slug: CA350
+.. link: http://talkorigins.org/indexcc/CA/CA350.html
+.. date: 2004-8-28 02:00:00+00:00
+.. title: CA350: No se han publicado modelos graduales evolutivos sobre bioquímica
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «No se han publicado modelos graduales evolutivos sobre bioquímica»
+
+La literatura profesional ha guardado silencio respecto del tema de la evolución de los sistemas bioquímicos.
+
+**Fuente**
+===========
+
+Behe, Michael J. 1996. *Darwin's Black Box*, New York: The Free Press, 68, 72, 97, 114, 115-116, 138, 185-186.
+
+Respuesta
+===========
+
+1. Esta afirmación es llanamente falsa. Existen docenas de artículos sobre el asunto respecto del cual Behe afirma que no hay suficiente literatura. David Ussery, por ejemplo, encontró 107 artículos sobre la evolución del cilio, 125 sobre la evolución del flagelo, 27 sobre la evolución de todo el sistema de ecoagulación, 130 sobre la evolución del transporte vesicular  y 84 sobre "la evolución molecular del sistema inmune". ([Ussery_1999]_).
+
+2. Behe hace que su afirmación parezca más dramática al exagerar nuestro entendimiento sobre el funcionamiento molecular de las células.  Por ejemplo, afirma: "En las últimas cuatro décadas, la bioquímica moderna ha descubierto los secretos de la célula" (1996, p. 232). Pero nuestro entendimiento solo recién comienza. Desde los años en que Behe escribió este libro, las revistas se han llenado con cientos de artículos de investigación que han descubierto información nueva, pero mucho sigue por descubrir. Cuando el genoma completo de *Escherichia coli* se secuenció en 1998, se desconocían las funciones de un tercio de los genes y *E. coli* es mucho más simple que las células humanas.
+
+3. El trabajo de Behe sobre diseño inteligente no ha resultado en publicaciones de literatura científica. De hecho, no ha habido ninguna publicación científica sobre el diseño inteligente de parte de ninguno de sus defensores ([Gilchrist_1997]_).
+
+Enlaces
+========
+
+Catalano, John (ed.). 1998. Publish or perish: Some published works on biochemical evolution. http://www.talkorigins.org/faqs/behe/publish.html
+
+Revísalo por ti mismo
+=======================
+
+Puedes buscar investigaciones médicas y biológicas por ti mismo en PubMed http://www.ncbi.nlm.nih.gov/PubMed ). Intenta las palabras "flagella" y "evolution" (En inglés).
+
+Referencias
+==============
+
+.. [Ussery_1999] Ussery, David. 1999. A biochemist's response to "The biochemical challenge to evolution". *Bios* 70: 40-45. http://www.cbs.dtu.dk/staff/dave/Behe.html
+
+.. [Gilchrist_1997] Gilchrist, George W. 1997. The elusive scientific basis of intelligent design theory. *Reports of the National Center for Science Education* 17(3): 14-15. http://www.ncseweb.org/resources/articles/2083_the_elusive_scientific_basis_o_3_16_2001.asp
+
+Lecturas recomendadas
+=========================
+
+Cavalier-Smith, Tom. 1997. The blind biochemist. *Trends in Ecology and Evolution* 12(4): 162-163.
+
+Li, Wen-Hsiung. 1997. *Molecular Evolution*. Sinauer Associates, Inc., Sunderland, MA.
+
+/////
+
+Anterior: :doc:`CA343` | Siguiente: :doc:`CA500`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

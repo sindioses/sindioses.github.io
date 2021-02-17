@@ -1,0 +1,66 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH120
+.. link: http://talkorigins.org/indexcc/CH/CH120.html
+.. date: 2004-4-8
+.. type: afirmacrea
+.. title: CH120: La Biblia debe ser exacta, ya que la arqueología la respalda
+.. description: Respuesta a la afirmación creacionista «La Biblia debe ser exacta, ya que la arqueología la respalda»
+
+La arqueología respalda la exactitud de la Biblia. El relato bíblico histórico ha sido respaldado muchas veces por nueva información arqueológica.
+
+**Fuente:**
+
+Watchtower Bible and Tract Society. 1985. *Life--How Did It Get Here?* Brooklyn, NY, pp. 207-214.
+
+Respuesta
+============
+
+1. La arqueología respalda como mucho la información general de la Biblia y algunos detalles relativamente recientes. No respalda todas las afirmaciones bíblicas. En especial, la arqueología no respalda nada relativo a la creación, el Diluvio ni la conquista de Tierra Santa.
+
+   Si unas pocas instancias de exactitud histórica son tan imoprtantes, una afirmación idéntica de exactitud puede hacerse para la *Ilíada* y para *Lo que el viento se llevó*.
+
+2. La arqueología contradice partes significativas de la Biblia:
+
+   * La Biblia contiene anacronismos. Los detalles atribuidos a una era en realidad se aplican a una era muy posterior. Por ejemplo los camellos, mencionados en {{% biblia "Genesis 24:10" DHH %}}, no se usaron en forma generalizada hasta después del año 1000 AEC ([Finkelstein_y_Silberman_2001]_).
+
+   * El Éxodo, que debería haber sido un evento significativo, no aparece en los registros egipcios. No hay rastros en el Sinaí que uno esperaría hallar debidos a cuarenta años de más de medio millón de personas deambulando. Y otra evidencia arqueológica lo contradice, y muestra en cambio que los hebreos eran un pueblo nativo ([Finkelstein_y_Silberman_2001]_; [Lazare_2002]_).
+
+   * No hay pruebas de que los reinos de David y Salomón fueran tan poderosos como lo indica la Biblia; puede que ni siquiera hayan existido ([Finkelstein_y_Silberman_2001]_; [Lazare_2002]_).
+
+   Muchas afirmaciones de que la arqueología respalda a la Biblia, especialmente las más tempranas, se basaban en que los científicos intentaban forzar las pruebas en sus propios preconceptos.
+
+Enlaces
+===========
+
+Lazare, Daniel, 2002. False testament: archaeology refutes the Bible's claim to history. Harper's 304(1822) (Mar.): 39-47. http://www.findarticles.com/cf_0/m1111/1822_304/83553507/p1/article.jhtml?term=bible++!2Barchaeology
+
+Referencias
+=============
+
+.. [Finkelstein_y_Silberman_2001]    Finkelstein, Israel and Neil A. Silberman, 2001. The Bible Unearthed, New York: Free Press.
+.. [Lazare_2002]    Lazare, 2002. (see above)
+
+Otras lecturas
+=================
+
+Bimson, J. J. and D. Livingstone, 1987. Redating the Exodus. BAR 13(5): 40-53.
+
+Finkelstein, Israel and Neil A. Silberman, 2001. *The Bible Unearthed*, New York: Free Press.
+
+Miller, Laura, 2001 (7 Feb.). King David was a nebbish. Salon.com, http://dir.salon.com/books/feature/2001/02/07/solomon/index.html
+
+Moorey, P. R. S., 1991. *A Century of Biblical Archaeology*. Westminster/John Knox Press.
+
+
+/////
+
+Anterior: :strong:`CH110` | Siguiente: :doc:`CH130`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,100 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH101
+.. link: http://talkorigins.org/indexcc/CH/CH101.html
+.. date: 2005-2-15
+.. title: CH101: La Biblia es inerrante
+.. description: Respuesta a la afirmación creacionista «La Biblia es inerrante»
+.. type: afirmacrea
+
+La Biblia, palabra revelada de Dios, carece de errores ni fallas en todo lo que enseña, incluyendo lo que dice sobre la creación, los eventos históricos y su propio origen. El estudio científico de la tierra no puede usarse para anular relatos de la escritura sobre la creación y el diluvio.
+
+**Fuente:**
+
+International Council on Biblical Inerrancy, 1978. The Chicago statement on Biblical inerrancy. http://www.jpusa.org/jpusa/documents/biblical.htm
+
+Respuesta
+===========
+
+1. La inerrancia no es confiable. Sólo se puede corregir errores si previamente se los reconoce y admite. La inerrancia vuelve esto imposible. Por lo tanto, los errores en una interpretación inerrante de la Biblia nunca pueden corregirse.
+
+2. La inerrancia es un concepto que genera odio. Los inerrantistas consideran una certeza divina que las opiniones religiosas de otras personas son inferiores a las propias. Se cosecha lo que se siembra, de modo que cuando los inerrantistas muestran su desprecio, se les devuelve desprecio por sus propias opiniones religiosas. La historia está ensangrentada por las consecuencias. Judíos, musulmanes, infieles y otros cristianos fueron subyugados, torturados y masacrados en el nombre del dios "verdadero". Jacob Bronowski ([Bronowski_1973]_, 374), hablando de Auschwitz, escribió:
+
+    En este lago se vertieron las cenizas de unos cuatro millones de personas. Y eso no lo hizo el gas. Lo hizo el dogma. Lo hizo la arrogancia. Cuando la gente cree que tiene conocimiento absoluto, sin verificar en la realidad, se comporta así. Esto es lo que hacen los hombres cuando aspiran al conocimiento de los dioses.
+
+   El desprecio también se muestra como intolerancia: contra los roles de las mujeres, en las actitudes sobre el sexo, y en numerosos otros puntos de vista diferentes. Incluso quienes no cometen atrocidades, cuando exhiben tal intolerancia, son culpables de fomentar la atmósfera que hace posibles las atrocidades.
+
+3. La inerrancia rechaza mucho del estudio bíblico (no es infrecuente que llegue al punto de perseguir a quien la estudia). La persona que acepta la inerrancia generalmente:
+
+   * ignora la crítica textual. La mayoría de los inerrantistas anglohablantes aceptan como autoridad la versión del Rey Jacobo (King James version), pero el análisis de los manuscritos bíblicos más tempranos muestrra que la versión del Rey Jacobo incluye numerosos errores. Por ejemplo, la historia de Jesús amonestando a los que querían apedrear a una adúltera ({{% biblia "Juan 8:1-11" DHH %}}) no aparece hasta 300 años después de que se escribió el Evangelio de Juan.
+   * ignora crítica de las fuentes. Muchas historias de la Biblia se repiten, pero con diferente énfasis, diferentes detalles y en diferente lenguaje. Estas diferencias muestran que la Biblia fue escrita por diferentes personas en diferentes tiempos para diferentes propósitos, y sus relatos fueron editados por gente que tenía propósitos que a su vez eran distintos ([Friedman_1987]_).
+   * ignora la realidad del sincretismo, el proceso por el cual los rituales, conceptos, etc., de una religión son adaptados por otra. Muchas historias bíblicas muestran influencia sumeria y cananea, por ejemplo.
+   * ignora los valores de los autores de la Biblia, que probablemente no privilegiaban el literalismo ni lo consideraban importante. La biblia no fue escrita para reflejar historias exaactas, sino para presentar ideas religiosas y convencer de ellas. Estas ideas pueden ni siquiera ser las mismas para distintas personas.
+
+   Es irónico que la gente que afirma respetar tanto la Biblia rechace el estudio serio y objetivo de la misma.
+
+4. Jesús mismo dijo que las leyes religiosas no son absolutas. En {{% biblia "Mateo 5:38-39" DHH %}}, rechaza la ley "ojo por ojo" ({{% biblia "Éxodo 21:23-25" DHH %}}, {{% biblia "Levítico 24:19-20" DHH %}}, {{% biblia "Deuteronomio 19:21" DHH %}}). Jesús rechazó todas las leyes dietarias ({{% biblia "Marcos 7:18-19" DHH %}}; cf. {{% biblia "Levítico 11" DHH %}}). Rechazó el mandamiento sobre el trabajo del sábado ({{% biblia "Marcos 2:27" DHH %}}). Si jesús consideró que ni siquiera las leyes de Moisés eran inerrantes, ¿por qué deberíamos considerar inerrante cualquier parte de la Biblia?
+
+5. En última instancia, no hay autoridad sobre la inerrancia salvo uno mismo:
+
+   * Dios no puede ser la autoridad porque Dios no ha dicho nada sobre el tema directamente. Precisamente se postula la inerrancia para atribuir la autoridad de Dios a un vehículo indirecto.
+   * La biblia no puede ser una autoridad sobre si ella es autoridad sobre sí misma; eso sería razonamiento circular.
+   * La iglesia no puede ser una autoridad sobre la inerrancia porque no hay una única iglesia. Hay más de 10.000 demonimaciones cristianas distintas, todas con distintas ideas sobre la Biblia. De hecho, hay al menos tres biblias significativamente diferentes (las versiones católica, protestante y ortodoxia de Etiopía).
+   * Por la misma razón, la tradición histórica no puede ser la autoridad sobre la inerrancia. Las opiniones sobre la Biblia han cambiado a lo largo de la historia.
+
+6. Afirmar la inerrancia de la Biblia no sirve de nada a menos que uno también afirme la inerrancia de la propia interpretación de la misma. Alguna gente cree que la tierra es plana y está cubierta por una semiesfera sólida porque la Biblia lo dice y la Biblia es inerrante ([Schadewald_1987]_). La mayoría de la gente, incluyendo a la mayoría de los inerrantistas bíblicos, dirían que los primeros están equivocados. Afirmar que el relato del Diluvio es un relato auténtico y literal es un error si fue escrito como una alegoría; afirmar que es una auténtica alegoría es un error si fue un relato literal. Afirmar que una interpretación particular de la Biblia es inerrante es afirmar que uno mismo es inerrante.
+
+7. Hay varios aspectos de la Biblia que muestran que no es inerrante. Estos incluyen errores de hecho:
+
+   * {{% biblia "Levítico 11:6" DHH %}} afirma que los conejos son rumiantes.
+   * {{% biblia "Levítico 11:20-23" RVR1960 %}} habla de insectos de cuatro alas, incluyendo los saltamontes.
+   * {{% biblia "1 Crónicas 16:30" DHH %}} y {{% biblia "Salmos 93:1" DHH %}} afirman que la tierra está inmóvil; sin embargo no sólo gira y orbita el sol sino que la afecta el tirón gravitatorio de otros cuerpos celestes.
+
+   y contradicciones:
+
+   * En {{% biblia "Génesis 1" DHH %}}, Adán fue creado después de los otros animales; en {{% biblia "Génesis 2" DHH %}}, aparece antes de los animales.
+   * {{% biblia "Mateo 1:12-16" DHH %}} y {{% biblia "Lucas 3:23-38" DHH %}} difieren en el linaje de Jesús.
+   * {{% biblia "Marcos 14:72" DHH %}} difiere de {{% biblia "Mateo 26:74-75" DHH %}}, {{% biblia "Lucas 22:60-61" DHH %}} y {{% biblia "Juan 18:27" DHH %}} acerca de cuántas veces cantó el gallo.
+   * {{% biblia "2 Samuel 24:1" DHH %}} y {{% biblia "1 Crónicas 21:1" DHH %}} difieren sobre quién incitó a David a realizar un censo.
+   * {{% biblia "1 Samuel 17:23,50" DHH %}} y {{% biblia "2 Samuel 21:19" DHH %}} difieren sobre quién mató a Goliat.
+   * {{% biblia "1 Samuel 31:4-5" DHH %}} y {{% biblia "2 Samuel 1:1-10" DHH %}} difieren en la muerte de Saúl.
+   * Los cuatro evangelios difieren en muchos detalles sobre la muerte y resurrección de Cristo ([Barker_1990]_). Por ejemplo, {{% biblia "Mateo 27:37" DHH %}}, {{% biblia "Marcos 15:26" DHH %}}, {{% biblia "Lucas 23:38" DHH %}} y {{% biblia "Juan 19:19" DHH %}} tienen distintas inscripciones en la cruz.
+   * {{% biblia "Mateo 27:5-8" DHH %}} difiere de {{% biblia "Hechos 1:18-19" DHH %}} sobre la muerte de Judas.
+   * {{% biblia "Génesis 9:3" DHH %}} y {{% biblia "Levítico 11:4" DHH %}} difieren en qué es apropiado para comer.
+   * {{% biblia "Romanos 3:20-28" DHH %}} y {{% biblia "Santiago 2:24" DHH %}} difieren en fe versus obras.
+   * {{% biblia "Éxodo 20:5" DHH %}}, {{% biblia "Números 14:18" DHH %}} y {{% biblia "Deuteronomio 5:9" DHH %}} están en desacuerdo con {{% biblia "Ezequiel 18:4,19-20" DHH %}} y {{% biblia "Juan 9:3" DHH %}} respecto a si los pecados se heredan.
+
+   Los inerrantistas conocen estos aspectos y encuentran racionalizaciones para estos y otros errores y contradicciones, pero no son convincentes. Las racionalizaciones sólo resaltan que lo que la Biblia parece decir no es lo que quiere decir, lo cual frustra el concepto mismo de inerrancia de las escrituras.
+
+Enlaces
+============
+McKinsey, Dennis. 1983-1998. Biblical errancy. http://members.aol.com/ckbloomfld/index.html
+
+Referencias
+============
+
+.. [Barker_1990]    Barker, Dan. 1990. Leave no stone unturned. *Freethought Today* (Mar.), http://www.ffrf.org/lfif/stone.html
+.. [Bronowski_1973]    Bronowski, Jacob. 1973. *The Ascent of Man*. Boston: Little Brown and Co.
+.. [Friedman_1987]    Friedman, Richard Elliott. 1987. *Who Wrote the Bible?* New York: Summit Books.
+.. [Schadewald_1987]    Schadewald, Robert J. 1987. The Flat-Earth Bible. *The Bulletin of the Tychonian Society* 44 (July 1987). http://www.lhup.edu/~dsimanek/febible.htm
+
+Otras lecturas
+===============
+Bringas, Ernie. 1996. *Going by the Book*, Charlottesville, VA: Hampton Roads Publishing.
+
+Hildeman, Eric J. 2004. *Creationism: The Bible Says No!* Bloomington, IN: Author House.
+
+The Straight Dope. 2002. Who wrote the Bible? (Part 5). http://www.straightdope.com/mailbag/mbible5.html
+
+
+/////
+
+Anterior: :doc:`CH100_1` | Siguiente: :strong:`CH101_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

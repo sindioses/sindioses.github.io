@@ -1,0 +1,36 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB361
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB361
+.. link: http://www.talkorigins.org/indexcc/CB/CB361.html
+.. date: 2003-6-9
+.. title: CB361: Los órganos vestigiales son prueba de decadencia, no de evolución
+.. description: Respuesta a la afirmación creacionista «Los órganos vestigiales son prueba de decadencia, no de evolución»
+.. type: afirmacrea
+
+Los órganos vestigiales (:doc:`si es que existen <CB360>`) no son evidencia de evolución. Sólo muestran decadencia consistente con la segunda ley de la termodinámica.
+
+**Fuente:**
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, pp. 75-76.
+
+Respuesta
+============
+
+1. Los órganos vestigiales incluyen más que órganos atrofiados. Los huesos del oído medio, por ejemplo, son vestigios de huesos mandibulares de tetrápodos ancestrales.
+
+2. La pérdida de órganos a veces es una vengaja. Por ejemplo, en las ballenas perder las piernas es una adaptación. Por lo tanto, las pérdidas de órganos con frecuencia son evolución impulsada por la selección natural. Son pruebas de la evolución cuando sus formas vestigiales muestran similaridades con formas no vestigiales más tempranas.
+
+3. La :doc:`segunda ley de la termodinámica <CF001>` permite otras cosas además de la decadencia.
+
+
+/////
+
+Anterior: :doc:`CB360_1` | Siguiente: :doc:`CB361_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

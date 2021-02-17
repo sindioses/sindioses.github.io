@@ -1,0 +1,35 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB361
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB361_1
+.. link: http://www.talkorigins.org/indexcc/CB/CB361_1.html
+.. date: 2005-2-15
+.. title: CB361.1: Los órganos vestigiales hoy inútiles alguna vez tuvieron función
+.. description: Respuesta a la afirmación creacionista «Los órganos vestigiales hoy inútiles alguna vez tuvieron función»
+.. type: afirmacrea
+
+Incluso si un órgano vestigial no tiene uso hoy, podemos estar seguros de que en el pasado tuvo una función. Dios no crea basura, sino que las cosas se deterioraron luego de que el pecado entró en el mundo. Llamar inútil a un órgano refleja pensamiento evolucionista.
+
+**Fuente:**
+
+Morris, John D. 2005. Does the gallbladder have a necessary function? *Back to Genesis* 194d (Feb.).
+
+1. Esta afirmación es dogmática. Se basa exclusivamente en creencias religiosas personales; no puede ser verificada con pruebas. Es científicamente inútil.
+
+2. La idea de que la muerte y la descomposición ingresaron al mundo sólo luego de la creación original implica que muchos órganos actualmente funcionales originalmente eran inútiles. Por ejemplo, las defensas no hubieran tenido función si no había amenazas contra las cuales defenderse.
+
+3. Llamar inútil a un órgano refleja que no tiene uso detectable, nada más. La visión de Morris sobre el deterioro de la vida también es pensamiento evolutivo, sólo que con un mecanismo de evolución muy diferente.
+
+4. :doc:`Vestigial no significa inútil <CB360>`.
+
+
+/////
+
+Anterior: :doc:`CB361` | Siguiente: :doc:`CB365`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,48 @@
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC200
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. link: http://www.talkorigins.org/indexcc/CC/CC201_1.html
+.. date: 2003-05-24
+.. modified: 2003-06-22
+.. title: CC201.1: El equilibrio puntuado se inventó para justificar los huecos
+.. description: Respuesta a la afirmación creacionista «El equilibrio puntuado se inventó para justificar los huecos»
+.. type: afirmacrea
+.. slug: CC201_1
+
+La teoría del equilibrio puntuado se propuso *ad hoc* para explicar los vergonzosos huecos en el registro fósil.
+
+**Fuente:**
+
+* Yahya, Harun, 2003. *Darwinism Refuted*, The invalidity of punctuated equilibrium. http://www.darwinismrefuted.com/equilibrium.html
+
+Respuesta
+============
+
+1. La teoría del equilibrio puntuado está basada en evidencia sólida, incluyendo estudios extensos de grupos de especies vivas y extintas ([Eldredge_Gould_1972]_).
+2. La idea del gradualismo filético, que se invoca para justificar la falta de huecos, :doc:`no se ajusta a la evidencia <CC201>` de la biología de poblaciones.
+3. No hay nada de malo en proponer teorías que se ajusten a los datos.
+
+Enlaces
+=======
+
+Elsberry, Wesley R. 1996. Punctuated equilibria. http://www.talkorigins.org/faqs/punc-eq.html
+
+Referencias
+===========
+
+.. [Eldredge_Gould_1972] Eldredge, N. y S. J. Gould, 1972. Punctuated equilibria: An alternative to phyletic gradualism. En: *Models In Paleobiology* (T. J. M. Schopf, ed.), San Francisco: Freeman, Cooper & Co., 82-115.
+
+Otras lecturas
+==============
+
+* :doc:`evolucion`
+
+/////
+
+Anterior: :doc:`CC201` | Siguiente: :strong:`CC202`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

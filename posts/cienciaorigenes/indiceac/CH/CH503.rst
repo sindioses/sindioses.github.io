@@ -1,0 +1,72 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH500
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH503
+.. link: http://talkorigins.org/indexcc/CH/CH503.html
+.. date: 2004-11-13
+.. title: CH503: El arca de Noé fue hallada cerca Dogubayazit, Turquía
+.. description: Respuesta a la afirmación creacionista «El arca de Noé fue hallada cerca Dogubayazit, Turquía»
+.. type: afirmacrea
+
+El arca de Noé fue hallada en el sitio de Durupinar cerca de Dogubayazit, Turquía. Una estructura de piedra cercana, simétrica e hidrodinámica, tiene las dimensiones apropiadas, y la estructura interior y los restos de metal ubicados simétricamente son consistentes con el arca. Además, se han encontrado :doc:`piedras de anclaje <CH503_1>` en las inmediaciones.
+
+**Fuente:**
+
+Fasold, David, 1988. *The Ark of Noah*, New York: Knightsbridge Publishing.
+
+Wyatt, R. E., 1989. *Discovered - Noah's Ark*. Nashville, TN: World Bible Society. V. también, Wyatt, R. E., 1994. "Discovered - Noah's Ark: Video documentary of research and field work". Wyatt Archaeological Research, 713 Lambert Drive, Nashville, TN, 37220.
+
+.. _goethita: https://es.wikipedia.org/wiki/Goethita
+
+Respuesta
+============
+
+1. Los restos de metal que se interpretaron como ménsulas de hierro en realidad eran de goethita_, un hidróxido de hierro. Este mineral estaba completamente mezclado con partículas de arcilla, calcita, cuarzo y antofilita, y mostraba una gran cantidad de variabilidad química a lo largo de la muestra. Ninguna de estas propiedades aparecería en hierro fundido.
+
+   Las presuntas paredes del arca son concentraciones de limonita. Su forma similar a la de un barco es consistente con una sinclinal erosionada con caída doble. Las fuerzas en tales pliegues normalmente producen fracturas que atraviesan los niveles. El agua que pasara a través de esas fracturas hubiera producido las concentraciones de limonita que se interpretaron como paredes divisorias.
+
+   En resumen, la estructura es consistente con la siguiente historia geológica:
+
+   a. Se formaron rocas cuando se erosionaron y compactaron los sedimentos de rocas volcánicas cercanas.
+   b. Esas capas de plegaron en una sinclinal con caída doble.
+   c. El mar erosionó un canal dentro de las rocas y depositó limonita fosilífera.
+   d. La tierra se levantó, y la erosión removió la mayor parte de la limonita y expuso el pliegue.
+   e. Un derrumbe arrastró bloques de roca y barro en torno a la estructura sinclinal.
+
+   Esta interpretación es consistente con la estructura misma y con la geología circundante ([Collins_y_Fasold_1996]_).
+
+2. No se encontraron maderas o restos de madera, junco o carbón elemental que pudieran asociarse con la estructura ([Collins_y_Fasold_1996]_).
+
+3. El sitio de Durupinar es incompatible con el relato bíblico. {{% biblia "Génesis 8:4-6" DHH %}} dice que las aguas del diluvio se retiraron durante dos meses y medio luego de que el arca antes de que se vieran las cimas de otras montañas. El sitio de Durupinar está unos 3000 metros por debajo de la cima cercana del Agri Dagh, el que hubiera sido visible por encima de las aguas incluso antes de que el arca atracara ([Standish_y_Standish_1999]_, 236).
+
+   La Biblia describe un arca rectangular. el arca de Wyatt tiene forma de barco y es un 50 por ciento más ancha que las dimensiones dadas en la Biblia ([Standish_y_Standish_1999]_, 106, 230_121)
+
+Enlaces
+===========
+
+Collins, L. G. and D. F. Fasold, 1996. Bogus "Noah's Ark" from Turkey exposed as a common geologic structure. *Journal of Geoscience Education* 44(4): 439-444. http://www.csun.edu/~vcgeo005/bogus.html
+
+Referencias
+=============
+
+.. [Collins_y_Fasold_1996] Collins y Fasold, 1996 (ver arriba)
+.. [Standish_y_Standish_1999] Standish y Standish, 1999 (ver abajo)
+
+Otras lecturas
+================
+
+Bailey, Lloyd, 1989. *Noah: The Person and the Story in History and Tradition*. Columbia, SC: University of South Carolina Press.
+
+Standish, Russell R. and Colin D. Standish, 1999. Holy Relics or Revelation. Rapidan, VA: Hartland Publications, pp. 226-251
+
+
+/////
+
+Anterior: :doc:`CH502_2` | Siguiente: :doc:`CH503_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,246 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. title: Cosas calientes. Juego de palabras. Más viejas ideas chaladas. Colecciones. Promesas no mantenidas. Estupidez concentrada. Por qué lo hacemos. Débil carcajada. En conclusión
+.. date: 2007-04-20 00:00:00
+.. category: Traducciones de James Randi
+.. author: James Randi, traducción de Graciela Lorenzo Tillard
+.. type: randi
+
+.. contents:: Contenido
+   :class: sidebar
+   :local:
+
+Cosas calientes
+...............
+
+.. image:: http://www.randi.org/images/commentary/200704/20jo.jpg
+   :alt:
+   :width: 300
+   :align: right
+
+
+En http://www.youtube.com/watch?v=T6UTGkC73GE verá a otro hacedor de milagros asiático cuando engaña a un equipo de cámaras de documentales demasiado confiado y que no entienden nada. Puede ver otra proeza en http://www.youtube.com/watch?v=Aos0hnwiHt8, donde uno de los miles de timadores como ése, John Chang, muestra otros trucos estándares del negocio. Note, por favor, que la "curación" del hermano del narrador, Loren (?), no es seguida, ni se hace mención respecto a si algo parecido a una "cura" resultó. Conociendo a estos tipos, ¡habrían esgrimido cualquier recuperación causada por la charlatanería...! Como el lector David Smith comenta sobre el primer video:
+
+    Este tipo calienta una toalla hasta casi hervir con sus manos. Mencioné que la toalla no fue revisada con anterioridad, y mencioné que la cámara no fue probada para ver si estaba funcionando apropiadamente, tampoco.
+
+No hay problema con la cámara, David. Remito a los lectores a http://www.randi.org/jr/2006-05/052606action.html#i9, donde se provee de una formulación para este truco, aunque hay muchas otras combinaciones que causarán el mismo efecto exotérmico. En este caso, un californiano, el Dr. Michael Upsher, es producido como un "experto" para expresar su asombro ante la maravilla que le han mostrado. Exactamente qué requisitos debería tener el Dr. Upsher para poder detectar el engaño, no es mencionado: es un anestesiólogo jubilado, ¡y no puedo comprender cómo podría observar muy bien mientras está boca abajo en una mesa y la acción no sólo es llevada a cabo a sus espaldas sino también sobre su espalda! ¡Cómo me gustaría poder llevar a cabo mis trucos bajo esas condiciones!
+
+
+ (He estado tratando de contactarme con el Dr. Upsher para informarle cómo fue engañado. Si algún lector puede encontrar a esta persona...)
+
+
+Juego de palabras
+.................
+
+Tomado del Style Invitational del Washington Post, que pidió a los lectores que tomen cualquier palabra del diccionario, la modifiquen añadiendo, quitando, o cambiando una letra, y que proporcionen una nueva definición. He aquí algunos de los ganadores que nos resultaron atractivos:
+
+    Reintarnación: volver a la vida como un paleto.
+
+    Bozono [#bozo]_ (s.): sustancia que rodea a las personas estúpidas y que evita que penetren ideas brillantes. La capa de bozono, desafortunadamente, no muestra ni aun pequeñas señales de quebrarse en un futuro próximo.
+
+    Sarchasmo: el abismo entre un autor de ingenio sarcástico y la persona que no lo entiende.
+
+    Karmagedón: cuando todo el mundo está enviando todas estas muy malas vibraciones, y luego la Tierra estalla y es una seria decepción.
+
+    Glíbido [#glibido]_\ : todo charla y nada de acción.
+
+    Beelzebug [#belcebu]_ (s.): Satanás en la forma de un mosquito, que se mete en su dormitorio a las tres de la mañana y no puede ser expulsado.
+
+
+    .. [#bozo] En EE.UU. *bozo* significa idiota, estúpido. Problemente deriva del nombre de `Bozo el payaso <http://en.wikipedia.org/wiki/Bozo_the_Clown>`__ [N. del E.]
+    .. [#glibido] *Glib* significa *persona con mucha labia* [N. del E.]
+    .. [#belcebu] juego entre Belcebú y bug = insecto [N. de la T.]
+
+
+Más viejas ideas chaladas
+.........................
+
+El lector Charles Shopsin, que escribe el Modern Mechanix Blog que mencionamos la semana pasada, sugiere estos artículos en los que ustedes también estarían interesados:
+
+Una Máquina de Movimiento Perpetuo, en http://tinyurl.com/287k78; el Desafío de $5.000 por probar que el mundo es un globo, en http://tinyurl.com/2drng3; La Invisibilidad Al Alcance Del Hombre, en http://tinyurl.com/ytzjnq; y Tenga Cuidado Con Los Estafadores Que Se Vuelven "Científicos": http://tinyurl.com/2cqokw. Completa con: Las Metidas De Pata Más Costosas Del Mundo, en http://tinyurl.com/252eef.
+
+
+Colecciones
+...........
+
+He aquí lo mejor de los "sustantivos colectivos" adicionales que pedí la semana pasada. Ofrecieron centenares...
+
+| Abducciones alienígenas: una ilusión de, una conspiración de
+| Acupunturistas / digitopuntores: un dolor de, un alfiletero de, un codazo de
+| Aromaterapistas: una niebla de, un olorcillo de
+| Buscadores / zahoríes: un profano de, un charco de, una ilusión de, un fracaso de, un temblor de, un embaucador de, una sequía de, una cascada de, un torrente de, un palo de, un seco de, un desierto de,
+| Científicos creacionistas: una noción de, una fantasía de
+| Cientólogos: una demanda judicial de, un contrato de
+| Cirujanos videntes: un graznido de, una operación de
+| Cortar circlers: un efecto de
+| Creyentes en abducciones de OVNIs: una invasión de, un platillo de
+| Criptozoologistas: un cacharro de, un aullido de
+| Curanderos: una frecuencia de, un ofrecimiento de
+| Dobladores de cucharas: un cajón de
+| Entusiastas de imanes / sanadores magnéticos: un placebo de, una atracción de
+| Escépticos: una duda de, un reparo de, una inversión de
+| Fotógrafos videntes: una exposición de
+| Habladores-con-los-muertos: una confusión de, un Schwartz de
+| Homeópatas: una dilución de, un graznido de
+| Iriólogos: un parpadeo de, un borrón de
+| Kinesiólogos aplicados: una debilidad de
+| Lectores de cartas del tarot: una baraja de, un barajeo de
+| Lectores de runas de piedra: una pila de
+| Médiums: un fraude de, un raro de
+| Numerólogos: un resto de
+| Parapsicólogos: una quimera de, una confusión de
+| Partidarios del diseño inteligente: un IDiota de
+| Personas que encuentran a Jesús, a María o a Elvis en una pared, refrigerador o tortilla: una cruda conmoción (¿lo entienden?)
+| Profetas: una pérdida de
+| Quiroprácticos: una quebradura de, un nudo de, una manipulación de, un graznido de
+| Reflexologistas: un pie de
+| Solicitantes del premio JREF: una vacante de, una falta de
+| Telépatas: una noción de
+| Videntes: una conjetura de
+
+
+Algunos de ésos podrían haber aparecido por usted. Léalos otra vez...
+
+
+Promesas no mantenidas
+......................
+
+El lector Jim Boskus envió una airada carta al editor del Poughkeepsie Journal:
+
+    Estoy escribiendo porque usted publicó algo en el diario del domingo (8 de abril) que no es apto para una respetada revista de noticias. Me estoy refiriendo al anuncio de la página 2E "Centro planifica taller de médiums". De acuerdo con el artículo, por "sólo" $45 (o $55 en la puerta) uno puede asistir a un taller que "enseñará las técnicas para ayudar a los participantes a conectarse con ángeles, guías y seres queridos del otro lado".
+
+    No puedo creer que el Poughkeepsie Journal esté efectivamente facilitando que esquilen a personas crédulas y perturbadas. ¿Cree realmente que las personas que dirigen este timo pueden enseñarle cómo comunicarse con ángeles y parientes muertos? Debo preguntar, si fuera dirigir un taller donde yo afirmo poder enseñarle a los participantes cómo comunicarse con hadas y duendes, ¿suministraría publicidad gratuita en el periódico? Si no es así, ¿por qué no? No sería más indignante que lo que los tipos que ponen este "taller de médiums" dicen que pueden hacer.
+
+    Por favor, pregúntese a usted mismo: si estas personas pueden realmente comunicarse con los muertos, ¿por qué no se contactan con las víctimas de homicidio y ayudan poner a los asesinos ante la justicia? ¿Por qué no se contactan con genios como Edison, Einstein o Franklin? Indudablemente la humanidad podía beneficiarse con su sabiduría, especialmente desde la perspectiva del "otro lado". No, en lugar de usar este increíble poder para el bien, estos tipos le "enseñarán" por unos míseros $45. Estos tipos están desperdiciando una asombrosa habilidad o son unos charlatanes. ¿Qué piensa sería lo más probable?
+
+    Finalmente, si estas personas pueden realmente comunicarse con los muertos, deberían dirigirse a la James Randi Educational Foundation y reclamar el premio de un millón dólares por cualquier capacidad paranormal demostrable (detalles en http://www.randi.org/). ¿Cuántos talleres cree que tendrán que organizar estas personas para ganar un millón dólares?
+
+    Los perpetradores de este "taller" deberían ser enjuiciados por fraude, no darles espacio de publicidad gratuito en el periódico. Al incluir esta basura en él, al lado de sucesos legítimos, le presta credibilidad a supuestos "médiums" que no la merecen.
+
+    Qué vergüenza para el Journal.
+
+El Sr. Boskus recibió una respuesta que casi responde a su pregunta:
+
+    Buenos días, Sr. Boskus, y gracias por su correo electrónico. Me alegra abordar su pregunta...
+
+    He revisado la noticia a que usted se refiere. Mientras comprendo lo que está diciendo, el objetivo de la sección Vida Saludable es presentar información sobre una variedad de puntos de vista, terapias y actividades que abordan la salud total: cuerpo, mente y espíritu.
+
+    Para algunos, eso podría ser la medicina y las creencias occidentales tradicionales; para otros, abarca creencias y prácticas menos tradicionales, o alternativas. El Valle del Hudson se ha convertido en una región donde muchas terapias diferentes son analizadas y están disponibles. Por ejemplo, algunas personas creen que el reiki funciona -un sistema de curación basado más sobre una fe espiritual-, mientras que otras lo rechazan. O algunas personas visitan a un quiropráctico con regularidad para todas sus necesidades de salud física y rechazan los medicamentos, mientras que otras ponen su confianza en un Doctor en Medicina únicamente. Otras personas hacen una combinación de ambas.
+
+    Dicho esto, su opinión tiene sentido. He revisado nuestra política con los editores involucrados y lo tendremos en mente en el futuro. Gracias por tomarse un momento para contactarse conmigo. Se aprecia. Y gracias por leer el Journal.
+
+    Tenga un buen fin de semana.
+
+    Stuart Shinske
+    Editor ejecutivo / director de contenido y desarrollo de audiencia
+    Poughkeepsie Journal y Poughkeepsie Journal.com
+
+Jim Boskus añade sus comentarios:
+
+    No estoy seguro de por qué pone las prácticas médicas alternativas en la discusión. Me estaba quejando sobre un taller donde supuestamente a uno le enseñarían a comunicarse con los ángeles y las personas muertas. De todos modos, estoy deseando que mi queja haga que lo piensen dos veces antes de publicar tonterías otra vez.
+
+    Una cosa más rápida... Estaba recientemente en nuestro Barnes & Noble local y me angustió ver que Sylvia Browne tenía toda una unidad de estantes dedicada a sus libros. Ugh. ¡Sería mucho más feliz de ver una caja llena de sus libros en exhibición y la basura de Sylvia relegada al recipiente de las gangas!
+
+    Antes de terminar debo agradecerle su consideración y por tomarse el tiempo de responder.
+
+Esto ilustra la situación en la que los editores de medios de información proveen una respuesta que sólo parece ocuparse de la queja. El editor Shinske está trabajando bajo la carga de tener que respetar cada una y todas las opiniones, creencias, e ideas, sin importar qué tan improbables o infantiles sean -especialmente los engaños religiosos como la superviviencia después de la muerte. Podría encontrarse buscando otro empleo si realmente tuviera que abordar la pregunta de Jim Boskus...
+
+Eso se llama superviviencia.
+
+
+Estupidez concentrada
+.....................
+
+.. image:: http://www.randi.org/images/commentary/200704/20lt.gif
+   :alt:
+   :align: right
+
+El lector Paul Tyrrell nos envía al País de la Charlatanería en http://www.lifetechnology.org/, donde encontramos la más reciente versión de esta bastante superior colección de ambigüedades, que incluye el "Imán del Dinero" y el viejo "Escudo de Tesla" -vea `nuestra traducción del 3 de junio de 2005 <randi20050603.html#m-s-malditas-c-psulas-para-perro>`__  y http://www.randi.org/jr/030405a.html#10 para referencias previas a esta maravilla. Parece que "L.T." ha tropezado con viejas existencias de estos identificadores púrpura y los está ofreciendo otra vez a los imbéciles.
+
+.. figure:: http://www.randi.org/images/commentary/200704/20ts.jpg
+   :alt:
+   :figwidth: 150
+
+   **El escudo Tesla** |trade| **. ¡También es bueno para perros!**
+
+El texto rimbombante -sólo le daré 137 palabras de él aquí, para ahorrarle la indigestión- es típico:
+
+    Avance Cuerpo Mente y Alma a Través de Tecnología de Vida\ |trade|.
+
+    Tecnología de Vida\ |trade| es el investigador líder en el mundo en los campos de la Salud Alternativa, Medicina Alternativa, Terapias Alternativas, Abundancia, Radiónica, Psicotrónica, Psiónica, Homeopatía, Alquimia, Terapias de Energía Sutil, Metafísica, Cábala, Magia, Temas de New Age, Autoayuda, Hipnosis, Programación Neurolingüística, Tecnologías Espirituales, Ormus, Mesmerismo, Orgonomía, Energía Libre y las áreas relacionadas de Ciencia Alternativa.
+
+    Tecnología de Vida\ |trade| fue establecida en 1993 como una práctica de terapias holísticas con el objetivo de dirigir la investigación en algunos campos relacionados de la medicina de energía sutil. Nuestro objetivo es evaluar los nuevos métodos de tratamiento en medicina de energía de vibratoria y desarrollar estas tecnologías de curación más lejos. Nuestra visión es aumentar la calidad de la vida humana a través de la adopción de terapias holísticas seguras, naturales y eficaces. Nuestra misión es mejorar la salud humana a través de la aplicación de innovadoras tecnologías de energía sutil.
+
+¿Quién escribe estas cosas? ¿Escritores políticos sin empleo, o piratas informáticos evangélicos que preparan algunos adjetivos para ganancias adicionales? La verdad es que esto es estupidez bien hecha; no ocurre por error, y tiene que ser hecha cuidadosamente -dándole vueltas a las "vibraciones" y palabras de moda tales que atraigan al populacho ingenuo y vulnerable. Admiro esta habilidad de la misma manera que admiro a los que diseñan sillas eléctricas o mejores horcas...
+
+
+Por qué lo hacemos
+..................
+
+Esta breve nota del lector Ruben D. Hoyos ayudará a proporcionar una razón:
+
+    Tengo una pequeña historia triste. Mi amigo Gustav cayó enfermo con los síntomas de una neumonía. En lugar de ir a un médico, fue a ver a un vendedor de hierbas (herbolario). Tomó los remedios "naturales" recetados. Su condición empeoró hasta tal punto que tuvo que ser llevado a la sala de emergencia una semana después. Los verdaderos médicos trataron de ayudarlo pero era demasiado tarde. Le dijeron que se despidiera de su esposa e hijos ya que no pasaría. A la edad de 46 años, su vida fue acortada debido a su propia ignorancia y a la conducta inecruspulosa de un doctor de imitación. Supongo que en este caso podemos decir tristemente que murió de "causas naturales".
+
+La ignorancia puede ser mortal, o fatal. Y combatimos la ignorancia todos los días. Eso, más la ingenua y honesta aceptación del fraude deshonesto. Apenas la semana pasada un corresponsal me recordó algo que escribí en el Epílogo de "Flim-Flam" [fraude], mi segundo libro:
+
+    En cuanto a mis lectores, cualesquiera sean sus opiniones, mis escritos en este libro fueron dictados por el sentimiento de que *tenía* que decir lo que aquí es revelado. Creo que cada palabra de él es verdad y usted ha leído lo que creo es una prueba suficiente. La parapsicología es una farsa y un engaño, junto con otras declaraciones de maravillas y poderes que nos asaltan todos los días de nuestra vida. El saber qué hago, y tener las opiniones que tengo, no han hecho a este mundo para nada menos excitante, maravilloso y estimulante para mí, ni tampoco para usted. Al contrario, saber que uno no es un individuo puesto aquí por alguna razón misteriosa por algún medio sobrenatural, y que uno no está protegido por poderes ni seres desconocidos; saber que uno es un producto de millones de experimentos en el proceso evolutivo y no el resultado de unas semillas arrojadas en este planeta por extraterrestres... eso, para mí, es muy excitante. ¡Soy un miembro responsable de una raza que llegó al espacio y caminó sobre la Luna, muchachos! De una pequeña manera, yo también caminé allí, y también *ustedes*. ¡Y estoy emocionado por eso!
+
+    Deseche la baraja de tarot e ignore la columna de astrología. Son productos ofrecidos a usted por charlatanes que piensan que no es el ser independiente, maravilloso y capaz que es.
+
+    El disparate ha reinado demasiado tiempo como Emperador de la Mente. Échele un buen vistazo. ¡El Emperador no tiene ropa!
+
+El corresponsal que me recordó esta declaración, que escribí hace aproximadamente 26 años, me aseguró que mi influencia lo puso en camino hacia un modo de vida más racional y satisfactorio -una declaración que siempre reneuva mis esfuerzos y fortifica mi búsqueda de la razón.
+
+Pero el lector Hoyos añadió una línea a su nota:
+
+    Adoro su trabajo y extraño sus charlas en los cast de Escépticos.
+
+Eso merece una línea o dos de comentario. Recientemente he sido forzado a reducir algunas actividades adicionales, una de las cuales es mi contribución semanal a los podcasts del Dr. Steven Novella. Eso será remediado. Vaya a http://www.theskepticsguide.org/skepticsguide/podcastinfo.asp?pid=47 y verá que todavía estoy en la lista allí, y quiero regresar haciendo esta simple tarea semanal. Lo prometo...
+
+
+Débil carcajada
+...............
+
+La lectora Ruth Page escribe:
+
+    Anoche, mientras me divertía con los videos tramposos de Geller en su sitio, recordé su aparición en un show de comedias de la BBC hace algunos años.  Me hizo sonreír, de modo que pensé en compartirlo: el show era en BBC2 y se llamaba Liga de Fútbol de Fantasía. Era un popular show de entrevistas que se concentraba en el fútbol y era presentado por dos cómicos, Frank Skinner y David Baddiel. Geller estaba allí porque estaba dirigiendo una tonta campaña publicitaria para alentarnos a los británicos a "poner nuestras manos sobre la pantalla de TV [en un momento determinado] ¡y el poder psíquico de Uri hará que Inglaterra gane el Campeonato Europeo de Fútbol!" Huelga decir que no ganamos.
+
+    Geller empezó a repetir cómo, en cierto momento, estuvo "haciendo algún trabajo secreto para el gobierno británico." Dijo: "Me habían escondido en el campo, en una granja de cerdos". Sin perder un segundo, David Baddiel dijo: "¿Una granja de cerdos? ¿El que hacer los rabos a los cerdos es usted, entonces?" Geller hizo que su risa casi sonara sincera. Casi.
+
+Ruth, esa visita a la "granja de cerdos" es parte del eterno viaje de fantasía de Geller. Afirma que el gobierno del Reino Unido en realidad lo comisionó para que tratara de matar a los cerdos con sus ondas mentales. El propósito implícito era que los humanos son muy similares a los cerdos... Debe haberlos aburrido a muerte sólo con mirarlos, pero de otra manera podrían esperar un folleto... Oh, y todos los cerdos maduraron hasta el estado de tocino, sin ningún efecto dañino por la gimnasia de Geller...
+
+
+En conclusión
+.............
+
+Primero, un anuncio importante. Estamos iniciando oficialmente nuestro renovado programa de becas. Otorgaremos hasta $10.000 en becas académicas este otoño. Las becas, en cantidades de $5.000, $2.500, $1.500, y $1.000, pueden ser otorgadas a estudiantes que las merezcan en cualquier campo de estudio, a nivel de graduado o de estudiante. Un comité compuesto por un físico, un científico social, un médico, y un miembro superior del personal de la revista Scientific American seleccionará a los ganadores, siendo los premios anunciados el 1 de agosto de 2007. Para más información, por favor visite http://www.randi.org/scholarships/.
+
+También, el lector John Simpson nos ha suministrado un archivo en formato pdf mostrando que los estafadores han estado por aquí durante mucho tiempo. Lea este artículo de los 30 y comprenda que los mismos timos todavía llegan al buzón de la JREF diariamente. ¿Aprenderemos alguna vez? Verifique la biblioteca de la JREF en http://www.randi.org/library/.
+
+Terminaré esta semana con una oración, inspirada por el reciente llamamiento del presidente George Bush a "un dios cariñoso" al que pidió que "confortara a los que están sufriendo hoy", en respuesta a la masacre de 32 personas en el campus del Virginia Tech. Mi oración:
+
+    Al Dios el Padre Todopoderoso, Creador de Cielo y Tierra, Dios de Abraham, Jehovah, quien sea o lo que sea:
+
+    Dios, Tú en Tu omnisciencia -Tú conoces todo, pasado presente y futuro- y también en Tu omnipotencia -Tú puedes hacer cualquier cosa que quieras hacer- ¿por qué, hace 23 años, creas a este iluso hombre Seung-Hui Cho, luego permites que compre las armas de fuego, vaya al campus del Virginia Tech, y masacre a todos esos estudiantes y profesores? Eso necesitó de Tu planificación a largo plazo, intención determinada, y cuidadosa alimentación de las falsas ilusiones y odio de Cho. Dios, ¿qué hay de "cariñoso" en eso? Nuestro presidente podría sufrir la ilusión de que tal acto muestra de algún modo Tu "cariñosa" naturaleza, pero en mi confesa ignorancia, no puedo verlo. Ayúdame a comprender.
+
+    ¿O fue éste -perdona mi sugerencia, Dios- otro fracaso de Tu Diseño Inteligente, junto con el tabaco, el cáncer, la espina bífida, y el Mal de Crohn?
+
+    Un mejor plan, Dios -en mi humilde opinion- habría sido prevenir esa horrenda masacre sin sentido, y luego Tú no habrías tenido ninguna razón para tener que "confortar" a esos padres, amigos, compañeros y tantos otros que ahora tendrán que prescindir del placer de conocer a estas hermosas personas. Mira, Dios, ¡Tú podrías haber salvado la vida -y el futuro- no sólo de esas 32 personas, sino también la del Sr. Cho! Este trastornado joven, enfadado y desesperado, reaccionó ante una sociedad que él sentía estaba en su contra. Asesinó a 32 personas porque sentía que tenía que hacerlo, en respuesta a los impulsos que no podía controlar. Pero Tú, Dios Todopoderoso, Creador de Cielo y Tierra, etcétera, etcétera, podrías haber intervenido... "omnipotente", ¿recuerdas? Y habría mucha menos pena en nuestra nación hoy.
+
+    ¿Por qué nos hiciste esto? Las cifras nos muestran que la mayoría de nosotros creemos en Ti, que creemos en Tu cariñosa naturaleza, y apelamos a Ti por Tu consuelo incluso después de que Tú decidiste permitir que tragedias como ésta ocurran; ¿eso no cuenta? Personalmente, no creo en Ti, pero ¿los números no cuentan?
+
+    Dios, estoy seguro de que el Dr. Richard Roberts, presidente de la Oral Roberts University, habla en Tu nombre cuando dice, "... no hay duda de que este acto era satánico desde el origen". Llama los escritos de Cho recientemente revelados, "sólo palabras", las cuales dice son "una de las herramientas de Satanás para provocar la destrucción del hombre". Ahora, esto encaja con la idea cristiana de la posesión demoníaca, que dice que la existencia humana se basa sobre el relato de la Caída del Hombre de la Gracia en el Jadín del Edén, y que dondequiera haya bien, Satanás está tratando de destruirlo.
+
+    Por favor, Dios, trata de montar Tu acto, o puede haber menos personas ahí afuera queriendo apaciguar a una deidad cruel, celosa, insensible, vengativa y obviamente insegura como Tú mismo. ¿Y qué harías Tú entonces?
+
+    Sólo Dios lo sabe...
+
+
+|firmarandi|
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+.. include:: <isonum.txt>
+
+.. meta::
+    :author: Traducido por Graciela Lorenzo Tillard
+    :description: Cosas calientes — Juego de palabras — Más viejas ideas chaladas — Colecciones — Promesas no mantenidas — Estupidez concentrada — Por qué lo hacemos — Débil carcajada — En conclusión

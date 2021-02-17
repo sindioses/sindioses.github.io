@@ -1,0 +1,43 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CF, CE000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2005-2-12
+.. type: afirmacrea
+.. title: CE020: Una tierra antigua estaría cubierta por 55 metros de polvo meteórico
+.. description: Respuesta a la afirmación creacionista «Una tierra antigua estaría cubierta por 55 metros de polvo meteórico»
+.. slug: CE020
+.. link: http://www.talkorigins.org/indexcc/CE/CE020.html
+
+La tasa observada de afluencia de polvo cósmico debería haber producido una capa de 55 metros de espesor sobre la superficie completa de la tierra si la tierra tuviera 5 mil millones de antigüedad. El contenido distintivo de hierro y níquel en el polvo debería hacerlo fácil de detectar.
+
+**Fuente:**
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, pp. 151-152. 
+
+Respuesta
+=========
+
+1. Las tasas observadas usadas en los cálculos de Morris se basan en el polvo recolectado en la atmósfera; esta medición estaba contaminada por polvo de la tierra. Mediciones más recientes de la afluencia de polvo cósmico medido desde satélites arrojan una tasa de influjo de un 1% de lo indicado, lo que corresponde a una capa de 66 cm de grosor como máximo a lo largo de 4500 millones de años ([Kyte_y_Wasson_1986]_). Un estudio aún más reciente de platino e iridio en un campo de núcleos de hielo en Groenlandia arroja una estimación de aproximadamente sólo 14 kilotoneladas por año de polvo meteórico durante el Holoceno, comparado con la cifra de 14 millones de toneladas por año que usó Morris ([Gabrielli_et_al_2004]_).
+   
+Enlaces
+=======
+
+Thompson, Tim, 1996. Meteorite dust and the age of the earth. http://www.talkorigins.org/faqs/moon-dust.html
+
+Referencias
+===========
+.. [Gabrielli_et_al_2004]    Gabrielli, P. et al. 2004. Meteoric smoke fallout over the Holocene epoch revealed by iridium and platinum in Greenland ice. *Nature* 432: 1011-1014.
+.. [Kyte_y_Wasson_1986]    Kyte, F. T. and J. T. Wasson. 1986. Accretion rate of extraterrestrial matter: Iridium deposited 33 to 67 million years ago. *Science* 232: 1225-1229. 
+
+		
+/////
+
+Anterior: :strong:`CE011_1` | Siguiente: :doc:`CE101`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

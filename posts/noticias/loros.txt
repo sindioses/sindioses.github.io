@@ -1,0 +1,60 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. date: 2011-06-19 23:49:52
+.. type: nocie
+.. category: Noticias de la ciencia
+.. title: Los eficaces loros y córvidos
+.. tags: zoología
+.. description: Con una caja de acceso múltiple y varias aves, los investigadores idearon un estudio para observar y medir la capacidad para resolver problemas de estos animales
+.. author: Glenys Álvarez
+
+.. figure:: loros.jpg
+   :alt:
+   :figwidth: image
+   :figclass: align-right
+
+   En la imagen, un loro kea usando la canica en la caja.
+
+..
+
+    **Zoología.** Con una caja de acceso múltiple y varias aves, los investigadores idearon un estudio para observar y medir la capacidad para resolver problemas de estos animales
+
+.. class:: primera
+
+Todo el que ha tenido aves o ha leído sobre ellas lo sabe. Muchos de estos animales tienen una capacidad de cognición impresionante con habilidades múltiples; y a los investigadores les encantan. De hecho, la vida cotidiana de estas aves refleja a veces la nuestra con actividades que sólo pensábamos ver en mamíferos. Pero los genes evolucionan para todos y hace miles de millones de años que andan en la práctica; desde aquel primer organismo en el planeta.
+
+En esta nueva noticia, los loros y los córvidos, las especies de aves más inteligentes que conocemos, son los protagonistas. Un kea de Nueva Zelanda y un cuervo de Nueva Caledonia resolvieron problemas para científicos de la Universidad de Viena que investigaban la capacidad de resolución de problemas y las capacidades innovadoras de estas aves. El cuervo es conocido a nivel científico como Corvus monduloides y el kea como Nestor notabilis, junto a miembros del grupo de conducta ecológica en Oxford, los expertos se prepararon para quedar asombrados.
+
+“La meta del estudio era comparar la eficiencia y la flexibilidad de ambas especies. Para ello, preparamos un cubo de acrílico transparente al que llamamos Caja de Acceso Múltiple. Cada lado de la caja representa otra posible solución al problema de alcanzar la misma recompensa de alimento que es presentada en una plataforma en el centro de la caja”, explica Alice Auersperg, quien condujo el estudio. “Los animales pueden elegir entre halar una cuerda que está amarrada alrededor de la recompensa, halar una palanca que luce como un anzuelo para abrir una ventana, introducir una canica dentro de un camino curvado que empujará la recompensa hacia fuera o insertar un palo parecido a un lápiz en una apertura para empujar al alimento fuera de la caja”.
+
+Es decir, los animales tenían distintas formas de extraer la recompensa, el asunto era aprenderlo y elegir. Pero vamos a conocer un poco sobre estas aves primero. Los investigadores usaron seis animalitos kea, que son loros considerados altamente inteligentes, endémicos de las regiones montañosas de la Isla Sur en Nueva Zelanda y son muy curiosos, les encanta examinar y desajustar los objetos nuevos que encuentran. Los loros usados medían unos 45 centímetros, los cuervos unos 40. Estos últimos, de hecho, son de tamaño mediano en comparación con otras aves córvidas, que no sólo suelen ser carroñeras sino que son también bastante grandecitas.
+
+“Los córvidos muestran habilidades innovadoras cuando se trata de problemas técnicos con el uso de alguna herramienta”, dice Ludwig Huber, del departamento de cognición biológica en Viena.
+
+|tit2|
+......
+
+.. |tit2| replace:: Soluciones difíciles de acuerdo al medio
+
+La idea era ver si el grupo de aves solucionaba todos los dilemas presentados en la caja. Los investigadores observaban a las aves y veían que, por ejemplo, al solucionar un truco, como el del hilo, continuaban yendo a ese mismo hasta perfeccionarlo bien, entonces ese lado era cerrado para que tuviesen que aprender a resolver otro. Mientras tanto, los científicos medían las veces que les tomaba perfeccionarlos. Sólo un animal de cada especie obtuvo la solución para los cuatro problemas en la caja.
+
+“La solución más difícil para el Kea fue el uso del palito parecido a un lápiz como herramienta. No es sorprendente ya que sabemos que el kea no es un animal que use herramientas. Adicionalmente, manejar una herramienta larga a través de su curvado pico es una tarea motora bastante compleja. Por ello fue tan asombroso ver al animal llamado Kermit, tener éxito en esta empresa. La estrategia que usó da una fuerte impresión de que actuó de manera dirigida a la meta”, establece Huber.
+
+Para el oscuro cuervo el dilema más difícil fue otro. A estas aves les costaba abrir la ventana a través de la palanca que parecía un anzuelo.
+
+“Sabemos bien que los cuervos de Nueva Caledonia utilizan sus herramientas de forma háptica para así explorar los objetos que les dan miedo desde una distancia segura, es decir, que no están acostumbrados a manipular objetos con sus cuerpos”, dijo Auersperg.
+
+|tit3|
+......
+
+.. |tit3| replace:: Kermit le enseña a los demás
+
+El cuervo llamado Uek, el único en abrir la ventana, no usó la cabeza como el loro para tomar la comida dentro de la caja sino que prefirió tomar el palo con el pico y empujar el alimento para que saliera de su plataforma y así comérsela. Es decir, a las avecitas les tomó mucho más tiempo aprender el truco que menos utilizan en su ambiente, pero ambas eran tan inteligentes, mucho más que los otros animalitos de su misma especie, que lo consiguieron. De hecho, los investigadores quedaron tan gratamente sorprendidos con los resultados que realizaron un estudio de seguimiento donde tres keas más aprendieron a usar el palito a través del hueco para alcanzar la comida y ¿saben cómo lo consiguieron? Pues mirando a Kermit hacerlo varias veces.
+
+“De hecho, conseguimos que reconocieran entre dos cubos de acrílico, el que tuviera comida y el que no, y así usar el palo. Algo realmente impresionante ya que es un truco completamente distinto a sus medios pues estas aves no tienen una predisposición ecológica para manejar objetos alongados”, explica Huber.
+
+.. include:: includes/nocie_pie.inc
+.. meta::
+   :author: Glenys Álvarez
+   :keywords: zoología
+   :description: Con una caja de acceso múltiple y varias aves, los investigadores idearon un estudio para observar y medir la capacidad para resolver problemas de estos animales
+   :title: Los eficaces loros y córvidos

@@ -1,0 +1,49 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. type: afirmacrea
+.. title: CH100: La Biblia lo dice, yo lo creo, eso lo decide
+.. description: Respuesta a la afirmación creacionista «La Biblia lo dice, yo lo creo, eso lo decide»
+.. slug: CH100
+.. link: http://www.talkorigins.org/indexcc/CH/CH100.html
+.. date: 2005-2-15
+
+La palabra de Dios, la Biblia, debe ser nuestra máxima autoridad. La Biblia lo dice, yo lo creo, eso lo decide.
+
+**Fuente:**
+
+Sarfati, Jonathan, 2004. *Refuting Compromise*. Green Forest, AR: Master Books, p. 17.
+
+Respuesta
+=========
+1. Esta afirmación es dogmatismo. No sugiere razón alguna para llegar a esa conclusión. Las opiniones de otros sobre si la Biblia es o no la palabra de Dios o una autoridad máxima tienen la misma validez.
+2. La Biblia dice disintas cosas para diferentes personas. Las creencias que los creacionistas consideran inapelables hoy, como la fijeza de los "tipos" y la imposibilidad de la vida a partir de la no vida, les hubieran parecido absurdas a los creacionistas de siglos atrás, y esos creacionistas pasados hubieran citado la Biblia para apoyar sus puntos de vista (como el bastón de Moisés convirtiéndose en una serpiente y las plagas de Egipto surgiendo de la nada), al igual que los creacionistas de hoy citan la Biblia para apoyar sus propios puntos de vista ([Brewster_1927]_).
+3. En la práctica, esta afirmación realmente significa "Mi punto de vista sobre la Biblia es la autoridad máxima". (Dado que hay tantas diversas interpretaciones de la Biblia, sin mencionar otras religiones, la afirmación carecería de sentido de otro modo.) En la práctica, entonces, esta afirmación contiene una gran dosis de arrogancia, presunción y cerrazón mental. Dice que la última palabra sobre cómo opera el universo depende de la propia decisión personal de en qué creer.
+4. Esta creencia, cuando se aplica como norma para otros, es intolerancia religiosa en su forma más pura. Muestra desprecio por otros que creen que la influencia de Dios puede verse en otros lugares que en la Biblia y los pocos elegidos que se define como capaces de interpretarla correctamente. Esta afirmación ha iniciado guerras.
+5. La Biblia dice varias cosas que probablemente Ud. no cree:
+
+   * La esclavitud es aceptable. ([SAB_nd]_)
+   * Debería matar a su hijo si él le pega ({{% biblia "Éxodo 21:15" DHH %}})
+   * Si uno trabaja en el Sabbath, debe ser muerto ({{% biblia "Éxodo 35:2-3" DHH %}})
+   * Si uno maldice, debe ser apedreado hasta morir ({{% biblia "Levítico 24:14-15" DHH %}})
+   * La felicidad es aplastar niños contra las rocas ({{% biblia "Salmos 137:9" DHH %}})
+   * Las mujeres deben ser sometidas por sus esposos ({{% biblia "1 Pedro 3:1-7" DHH %}})
+
+Referencias
+===========
+
+.. [Brewster_1927]    Brewster, Edwin Tenney. 1927. *Creation: A history of non-evolutionary theories*. Indianapolis: Bobbs-Merrill Company.
+.. [SAB_nd]    Skeptic's Annotated Bible. n.d. Slavery. http://www.skepticsannotatedbible.com/topics/slavery.html
+
+
+/////
+
+Anterior: :doc:`CH055` | Siguiente: :doc:`CH100_1`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

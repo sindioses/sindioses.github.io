@@ -1,0 +1,39 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH500
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH502_2
+.. link: http://talkorigins.org/indexcc/CH/CH502_2.html
+.. date: 2003-10-4 02:00:00+00:00
+.. title: CH502.2: El satélite ERTS fotografió el arca de Noé en 1973
+.. descripción: Respuesta a la afirmación creacionista: "El satélite ERTS fotografió el arca de Noé en 1973"
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «El satélite ERTS fotografió el arca de Noé en 1973»
+
+El satélite ERTS (*Earth Resources Technology Satellite* [Satélite de Tecnología de Recursos de la Tierra]) fotografió el arca de Noé en 1973.
+
+**Fuente:**
+
+LaHaye, Tim y John Morris, 1976. *The Ark on Ararat*, Nashville: Thomas Nelson Inc. and Creation Life Publishers, pp. 203-206.
+
+Respuesta
+============
+
+1. ERTS no tiene suficiente resolución para fotografiar el arca. Un objeto del tamaño esperado (aprox. 135m x 25m) ocuparía un píxel de la imagen. El objeto en la fotografía que se afirma es el arca es mucho más grande ([Bailey_1989]_; [LaHaye_y_Morris_1976]_).
+
+Referencias
+==============
+
+.. [Bailey_1989] Bailey, Lloyd R., 1989. *Noah: The Person and the Story in History and Tradition*, Columbia: University of South Carolina Press.
+.. [Lahaye_y_Morris_1976]    LaHaye and Morris, 1976. (ver arriba)
+
+
+/////
+
+Anterior: :doc:`CH502_1` | Siguiente: :doc:`CH503`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

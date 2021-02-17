@@ -1,0 +1,47 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA300
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA321
+.. link: http://talkorigins.org/indexcc/CA/CA321.html
+.. date: 2001-02-17 02:00:00+00:00
+.. title: CA321: Los científicos están motivados para apoyar el naturalismo y rechazar ideas no naturalistas como el creacionismo
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Los científicos están motivados para apoyar el naturalismo y rechazar ideas no naturalistas como el creacionismo»
+
+Respuesta
+============
+
+1. Esta afirmación la refuta fácilmente el hecho de que muchos científicos son fuertemente religiosos, y han adoptado ideas no naturalistas en sus vidas privadas.
+
+2. Aunque los motivos dentro de cualquier grupo numeros van a ser distintos para cada persona, el motivo más común que hace que las personas se vuelvan científicos es la curiosidad. No tiene nada que ver con apoyar el naturalismo.
+
+3. Dentro de la práctica de la ciencia, no hay nada que sugiera el naturalismo como meta. Los motivos principales son la curiosidad, el orgullo profesional y las recompensas materiales. El orgullo aparece porque los científicos deben hacer que su trabajo esté disponible para que todos lo vean, así que quieren que luzca bien, y están motivados en particular para que su trabajo soporte las objeciones. Las recompensas materiales existen principalmente en forma de presentaciones para obtener fondos, lo que significa satisfacer los requisitos de los organismos que aportan los fondos, lo que por lo general significa que la investigación debe ser prometedora en relación con algún valor práctico.
+
+4. Aunque el naturalismo no es un motivo para la mayoría de los científicos, rechazarla es un motivo explícito para la mayoría de la ciencia realizada por los antievolucionistas. Por ejemplo, los profesores y graduados de la Escuela de Graduados del Instituto para la Investigación sobre la Creación (*Institute for Creation Research*, ICR) suscriben a una declaración de fe en la inerrancia bíblica y la antievolución ([ICR_2000]_). Jonathan Wells obtuvo un doctorado en biología para desacreditar la evolución ([Wells_n_d]_). También lo hizo a pedido del Reverendo Moon, a quien Wells considera la segunda venida de Cristo ([Wells_1991]_). William Dembski también considera que los motivos religiosos son fundamentables ([Dembski_y_Richards_2001]_). "Derrocar el materialismo" es la base motivadora de la "estrategia de la cuña", el principio operativo del movimiento del diseño inteligente ([CRSC_1998]_).
+
+   Quizá cuando los creacionistas afirman que los científicos tienen intenciones ocultas, simplemente están proyectando cómo operan ellos mismos.
+
+Enlaces
+========
+
+Isaak, Mark, 2002. A philosophical premise of 'naturalism'? http://www.talkdesign.org/faqs/naturalism.html
+
+Referencias
+============
+.. [CRSC_1998]    CRSC. 1998. The Wedge Strategy. http://www.infidels.org/org/aha/skeptical/wedge.html
+.. [Dembski_y_Richards_2001]    Dembski, William A. and Jay Wesley Richards. 2001. Unapologetic Apologetics, Downers Grove, IL: Intervarsity Press, http://www.gospelcom.net/ivpress/title/exc/1563-1.pdf , http://www.gospelcom.net/cgi-ivpress/book.pl/code=1563
+.. [ICR_2000]    ICR. 2000. ICR tenets of creationism. http://www.icr.org/index.php?module=research&action=index&page=research_tenets
+.. [Wells_n_d]    Wells, Jonathan. n.d. Darwinism: Why I went for a second Ph.D. http://www.tparents.org/library/unification/talks/wells/darwin.htm Véase también: Anónimo. n.d. Dr. Jonathan Wells returns to UTS. http://www.tparents.org/library/unification/publications/cornerst/cs970506/cst%5Fdr%2Djonathan.html
+.. [Wells_1991]    Wells, Jonathan. 1991. Marriage and the family: the Unification blessing. http://www.tparents.org/Library/Unification/Talks/Wells/MARRGE3.htm
+
+
+/////
+
+Anterior: :doc:`CA320_3` | Siguiente: :doc:`CA321_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

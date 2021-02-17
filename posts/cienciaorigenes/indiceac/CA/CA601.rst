@@ -1,0 +1,54 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA600
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA601
+.. link: http://www.talkorigins.org/indexcc/CA/CA601.html
+.. date: 2004-01-01 02:00:00+00:00
+.. title: CA601: La evolución requiere el naturalismo
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La evolución requiere el naturalismo»
+
+La evolución es materialista; requiere naturalismo metodológico. Excluye irracionalmente la posibilidad de cualquier influencia exterior divina.
+
+**Fuente:**
+
+Johnson, Phillip E. 1990. Evolution as dogma: The establishment of naturalism. *First Things* (Oct.), http://www.arn.org/docs/johnson/pjdogma1.htm
+
+Dembski, William A. 1996. What every theologian should know about creation, evolution and design. http://www.arn.org/docs/dembski/wd_theologn.htm
+
+Respuesta
+===========
+
+1. :doc:`El naturalismo que adopta la ciencia <CA301>` es naturalismo metodológico. No asume que la naturaleza es todo lo que existe; simplemente señala que la naturaleza es el único estándar objetivo que tenemos. Lo sobrenatural no se excluye *a priori*; se excluye porque nunca ha sido observado de forma fiable. Hay muchos científicos que usan el naturalismo pero creen que hay más que la naturaleza.
+
+2. La evolución no excluye en modo alguno la posibilidad de influencias externas, incluso influencias divinas. Cuando se han observado pruebas de influencia externa, se ha incluido.
+
+   La ciencia no incluye nada que no deje pruebas que puedan verificarse. Las hipótesis que se pueden plantear pero no respaldar no son parte de la ciencia. Sin embargo, esos fenómenos inverificables sólo se excluyen de la consideración científica; no son excluidos completamente de la vida. La gente tiene la libertad de aceptarlos o rechazarlos según les plazca, y la ciencia no tiene absolutamente nada que decir al respecto. La ciencia no sólo excluye la aceptación de la influencia divina; también excluye el rechazo de la influencia divina.
+
+3. La evolución no está sola en su naturalismo. Toda la ciencia, toda la ingeniería, toda la fabricación de bienes, y la mayoría de los emprendimientos humanos, son igualmente naturalistas. Si debemos descartar la evolución debido a esta filosofía, entonces también debemos descartar la navegación, la agricultura, la arquitectura, la impresión, el derecho y prácticamente todos los otros temas por la misma razón.
+
+4. El diseño inteligente implica naturalismo filosófico. Como se señala más arriba, toda la ciencia, toda la ingeniería, toda la fabricación de bienes, etcétera, se basan en la naturaleza. Eso no impide que los evolucionistas, los ingenieros, los fabricantes y los agricultores busquen más allá del materialismo y hallen espiritualidad en sus vidas.
+
+   Los partidarios del diseño inteligente, por otra parte, parecen incapaces de dar ese paso. Parecen necesitar pruebas objetivas y materiales para respaldar su espiritualidad. Pero eso, por supuesto, vuelve naturalista a su espiritualidad. Pese a todas sus quejas sobre materialismo, gente como Dembski y Johnson están tratando de expandir el materialismo para incorporarlo a la religión.
+
+Enlaces
+=========
+
+Isaak, Mark. 2002. A philosophical premise of 'naturalism'? http://www.talkdesign.org/faqs/naturalism.html
+
+Otras lecturas
+===============
+
+Padgett, Alan G. 2000 (Jul./Aug.). Creation by design. *Books and Culture* 6(4): 30. http://www.christianitytoday.com/bc/2000/004/13.30.html
+
+
+/////
+
+Anterior: :doc:`CA520` | Siguiente: :doc:`CA601_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

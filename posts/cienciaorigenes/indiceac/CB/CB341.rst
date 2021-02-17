@@ -1,0 +1,33 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB300
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB341
+.. link: http://www.talkorigins.org/indexcc/CB/CB341.html
+.. date: 2003-07-17
+.. title: CB341: El veneno de serpiente y los colmillos huecos no pueden haber evolucionado simultáneamente
+.. description: Respuesta a la afirmación creacionista «El veneno de serpiente y los colmillos huecos no pueden haber evolucionado simultáneamente»
+.. type: afirmacrea
+
+Las serpientes venenosas tienen colmillos huecos y glándulas de veneno. La evolución hubiera tenido que producir ambas innovaciones juntas, dado que ninguna tendría sentido sin la otra.
+
+Respuesta
+============
+
+1. El veneno no carece de sentido sin colmillos huecos. Otras serpientes venenosas tienen colmillos con surcos. Éstos muestran formas intermedias plausibles hasta llegar a las serpientes venenosas con colmillos huecos:
+
+   a. La serpiente no venenosa ya tiene dientes que pueden romper la piel de su víctima.
+   b. La saliva venenosa se vuelve ventajosa para ciertas serpientes porque pueden entrar en la víctima y matarla más rápido.
+   c. Los colmillos con surcos permiten que el veneno se concentre en la presa.
+   d. Los surcos gradualmente se cierran, resultando en colmillos huecos.
+
+
+/////
+
+Anterior: :doc:`CB340` | Siguiente: :doc:`CB350`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

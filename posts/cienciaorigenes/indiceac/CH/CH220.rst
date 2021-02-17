@@ -1,0 +1,43 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH200
+.. author: Mark Isaak, traducción de Paulina Madariaga
+.. nocomments: True
+.. type: afirmacrea
+.. title: CH220: El universo fue creado con edad aparente
+.. description: Respuesta a la afirmación creacionista «El universo fue creado con edad aparente»
+.. slug: CH220
+.. link: http://www.talkorigins.org/indexcc/CH/CH220.html
+.. date: 2000-04-23
+.. modified: 2004-05-25
+
+El universo fue creado maduro, con edad aparente. La luz del sol y las estrellas cayó sobre la tierra desde su principio. Esto a veces se llama "argumento Omphalos", por el nombre de un libro temprano que lo presentaba ([Gosse_1857]_).
+
+**Fuente:**
+
+Gosse, Philip H. 1857. *Omphalos*. Reprint, Woodbridge, CT: Ox Bow Press, 1999.
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, pp. 209-210.
+
+Respuesta
+=========
+
+1. La edad aparente es indistinguible de la edad real. ¿Por qué no olvidar la diferencia y llamarla edad?
+
+2. El universo tiene una apariencia de historia, además de la aperiencia de edad. Se ven estrellas de todas las edades, incluyendo las supernovas de estrellas moribundas. La evidencia geológica muestra que la tierra temprana tuvo millones de años de :doc:`poco oxígeno en la atmósfera <CB035_1>`. Podrían agregarse muchos otros ejemplos. La apariencia de edad nos pide aceptar que la luz de las supernovas vino de estrellas que nunca existieron realmente y que la evidencia de bajo oxígeno también fue inventada. Esto convierte a Dios en un farsant, dado que creó una apariencia distinta de la realidad. {{% biblia "Romanos 1:20" DHH %}} dice que se puede entender a Dios "si se reflexiona en lo que él ha hecho". La afirmación de la edad aparente dice que no podemos confiar en lo que se ha creado.
+
+Referencias
+===========
+
+.. [Gosse_1857] Gosse, Philip H. (v. supra)
+
+
+/////
+
+Anterior: :doc:`CH210` | Siguiente: :doc:`CH301`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,38 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA600
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA640
+.. link: http://www.talkorigins.org/indexcc/CA/CA640.html
+.. date: 2003-12-31 02:00:00+00:00
+.. title: CA640: ¿Quieres descender de un mono?
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «¿Quieres descender de un mono?»
+
+La evolución dice que descendiste de un mono. ¿Quieres descender de un mono?
+
+**Fuente:**
+
+Moon, Rev. Sun Myung. 1976 (7 Mar.). The central figure and the transitional period. http://www.unification.net/1976/760307.html
+
+Respuesta
+============
+
+1. Lo que queremos no determina lo que es. Creer que la realidad se pliega a nuestros deseos es una forma de soberbia.
+
+2. ¿Qué hay de malo en estar relacionado con un mono? En la tradición yoruba, se cree que los mellizos descienden directamente de los monos, y los mellizos se consideran buena fortuna ([Courtlander_1996]_, 233-238). Estar relacionado con un mono no lo convierte a uno en mono. No lo hace muy distinto de lo que uno ya es.
+
+Referencias
+==============
+.. [Courtlander_1996]    Courlander, Harold. 1996. *A Treasury of African Folklore*, New York: Marlowe & Co.
+
+
+/////
+
+Anterior: :doc:`CA630` | Siguiente: :doc:`CA650`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

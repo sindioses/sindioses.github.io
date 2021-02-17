@@ -1,0 +1,61 @@
+﻿.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB300
+.. author: Mark Isaac, traducción de Paulina Madariaga
+.. nocomments: True
+.. slug: CB310_1
+.. link: http://talkorigins.org/indexcc/CB/CB310_1.html
+.. date: 2004-2-19
+.. title: CB310.1: Los químicos del escarabajo bombardero explotarían si se mezclaran sin un inhibidor
+.. description: Respuesta a la afirmación creacionista «Los químicos del escarabajo bombardero explotarían si se mezclaran sin un inhibidor»
+.. type: afirmacrea
+
+El escarabajo bombardero explotaría si el peróxido de hidrógeno y la hidroquinona que producen su ejección se mezclaran sin un inhibidor químico. Tal combinación de químicos no puede haber evolucionado.
+
+**Fuente:**
+
+* Gish, Duane T., 1977. *Dinosaurs: Those Terrible Lizards*. El Cajon, CA: Master Book, pp. 51-52.
+* Hitching, Francis, 1982. *The Neck of the Giraffe*, New York: Meridian, p. 68.
+* AIG, 1990. The amazing bombardier beetle. *Creation Ex Nihilo* 12(1): 29.
+
+Respuesta
+=============
+
+1. La descripción de la fisiología del escarabajo bombardero es inexacta. Se basa en una traducción chapucera de un artículo alemán de 1961 de Schildknecht y Holoubek ([Kofahl_1981]_). El peróxido de hidrógeno y la hidroquinona no explotan cuando se mezclan ([Dawkins_1986]_, 86-87). Lo que realmente ocurre es esto: las células secretoras producen una mezcla de hidroquinonas y peróxido de hidrógeno (y quizá otros químicos), los que se almacenan en un reservorio. Para producir la explosión, el escarabajo libera algo de esta mezcla en una cámara de reacción, donde las catalasas y las peroxidasas causan que la mezcla se oxide en reacciones químicas que causan que la mezcla calentada se expulse explosivamente desde el abdomen del escarabajo ([Aneshansley_y_Eisner_1969]_; [Aneshansley_et_al_1983]_; [Eisner_et_al_1989]_).
+
+2. No hay razón para considerar implausible la evolución de los escarabajos bombarderos. Véase el artículo sobre :doc:`la evolución del escarabajo bombardero <CB310>`.
+
+3. El escarabajo bombardero con frecuencia se usa como ejemplo de la prueba existente en favor del diseño. ¿Cómo pueden tomarse en serio tales argumentos cuando la gente que los usa ni siquiera sabe cómo funciona su ejemplo?
+
+Enlaces
+===========
+
+Isaak, Mark, 1997. Bombardier beetles and the argument of design. http://www.talkorigins.org/faqs/bombardier.html
+
+Referencias
+==============
+
+.. [Aneshansley_y_Eisner_1969]    Aneshansley, D. J. and T. Eisner, 1969. Biochemistry at 100C: explosive secretory discharge of bombardier beetles (Brachinus). *Science* 165: 61-63.
+.. [Aneshansley_et_al_1983]    Aneshansley, D. J., T. H. Jones, D. Alsop, J. Meinwald, and T. Eisner, 1983. Thermal concomitants and biochemistry of the explosive discharge mechanism of some little known bombardier beetles. *Experientia* 39: 366-368.
+.. [Dawkins_1986]    Dawkins, Richard, 1986. *The Blind Watchmaker*. New York: Norton.
+.. [Eisner_et_al_1989]    Eisner, T. et al., 1989. Chemical defense of an Ozaenine bombardier beetle from New Guinea. *Psyche* 96: 153-160.
+.. [Kofahl_1981]    Kofahl, Robert E., 1981. The bombardier beetle shoots back. *Creation/Evolution* 2(3): 12-14.
+
+Otras lecturas
+===============
+Weber, C. G., 1981. The bombardier beetle myth exploded. *Creation/Evolution* 2(1): 1-5.
+
+Véalo usted mismo
+==================
+
+La hidroquinona está disponible en tiendas de fotografía y el peróxido de hidrógeno en supermercados y droguerías. Puede mezclarlos Ud. mismo y ver que no explotan.
+
+
+/////
+
+Anterior: :doc:`CB310` | Siguiente: :doc:`CB311`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

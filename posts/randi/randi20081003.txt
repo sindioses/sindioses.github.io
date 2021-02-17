@@ -1,0 +1,250 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. author: James Randi, traducción de José Luis Laviña
+.. title: La prueba de Derek Olgivie. Fomentando las creencias. Hoyo en uno quiropráctico - Michael Horn expuesto - Un día en la vida - Cambio climático global: una opinión - ¿TAM abierto a la muerte? - La ciencia salva (más) vidas - Una prueba simple de los horóscopos - Para terminar
+.. date: 2008-10-03 00:00:00
+.. type: randi
+.. category: Traducciones de James Randi
+
+.. contents:: Contenido
+   :class: sidebar
+   :local:
+
+
+La prueba de Derek Olgivie, por James Randi
+...........................................
+
+.. image:: http://www.randi.org/images/commentary/200810/randiogilvie.jpg
+   :alt: Randi y Ogilvie
+   :width: 220
+   :height: 176
+   :align: right
+
+Desde el Reino Unido el lector Troy Donockley nos hace llegar este comentario:
+
+    La pasada noche, el canal 5 del Reino Unido emitió un documental sobre el "Lector de la Mente de Bebés" Derek Ogilvy, y me senté a ver este previsto "golpe a la razón" con emoción. ¡Un psíquico estaba tomando el Desafío del Millón de Dólares! ¡Estupendo! ¡Me hizo querer dar una fiesta en la calle! No fui el único.
+
+    Sin embargo, estaba ligeramente preocupado, ya que esto era parte de una serie llamada "Gente Extraordinaria" - una especie de moderno fenómemo-espectáculo-mirón-clasificaciones-atractor detallando las vidas de personas con deformidad extrema, autismo, enfermedades raras, etc, pero todas, sin embargo, genuinas condiciones con auténticos médicos, explicaciones científicas. ¿Dónde el crédulo y obviamente trastornado lector imparcial encajaba en esta serie, cuya conclusión era que Derek es "único", "extraordinario", y sufre por una condición física?
+
+    Sencillo. El completamente crédulo productor/director CREE que hay ciencia sensata demostrando que HAY una fuente física en la habilidad psíquica de Derek... Después de más de tres cuartas partes del programa realmente mostraron un espléndido sentido común, revelando al público las técnicas utilizadas para engañar a los inconscientes, parecía muy bien "preestablecido" y hubo mucho júbilo.
+
+    Entonces en los últimos 10 minutos o así, todo fue reventado en pedazos y fuimos sumidos en la oscuridad: sacaron un "científico" cuidadosamente seleccionado quien con sutileza verbal realmente se confirmó a sí mismo como un creyente en los fenómenos psíquicos - probablemente lo encontraron en seminario OVNI. Llevó a cabo un escáner cerebral del pobre Derek, que había estado llorando mucho delante de la cámara después de haber sido expuesto, y necesitaba alguna buena noticia.
+
+    Y ciertamente la tuvo. Este científico reveló que los patrones del cerebro de Derek mostraron un comportamiento extraño y extraordinario cuando se encontraba en el país de las hadas con los bebés. Eso también implicaba que sus poderes fenomenales podían ser entrenados para llegar a ser aún más fuertes. Por lo tanto, se confirmó que sus poderes son REALES. ¡No te tomo el pelo! ¡ESA fue la conclusión con la que nos dejaron! ¡Así es como terminó el espectáculo! No se explicó que esa actividad cerebral es también común en personas con esquizofrenia, epilepsia u otros episodios psicóticos. No, no, no... tan espléndida fuerza para la esperanza y la utilidad que es la JREF debió ser dejada al margen de tal porquería partidista, y luego trágicamente puesta de patitas en la calle, fue bastante horrible e incluso fascinante de ver. El Canal 5 es una gran emisora. Semejante manipulación. Increíble. De todos modos, como se mostró al final, la cotización de Derek Ogilvie está en alza y este programa sin duda le llevará al próximo nivel de "superestrella". ¡Ay de nosotros! Tenemos un largo camino por recorrer...
+
+    Continuad con el magnífico trabajo.
+
+Gracias, Troy. Tomo nota de que el Canal 5 - a través de sus mascotas científicas en Florida - hacen la suposición de que realmente había algunos "poderes extraordinarios" exhibidos por Ogilvie, facultades que "podrían ser entrenadas para ser aún más fuertes", ¡cuando no se ha visto ninguna indicación de que haya presente ningún poder! Hasta este momento, cuando el Dr. Chris French del Instituto Goldsmith, Universidad de Londres, y yo, llevamos a cabo estos exámenes, Ogilvie nunca había sufrido ningún ensayo doble ciego de sus extrañas afirmaciones. Todas sus demostraciones se han llevado a cabo informalmente, con padres con los ojos muy abiertos ofreciendo a sus hijos para extrañas sesiones "psíquicas" - ¡ninguno de las cuales puede ser verificada porque los niños no pueden ser interrogados!
+
+Y no, el médico que descubrió los hechos sobre los procesos mentales de Derek no fué "encontrado en un seminario OVNI", como Troy supone. Parece que mientras los productores de TV estaban en Florida, un estado que es famoso por las pseudociencias y la "medicina alternativa", buscaban a alguien - cualquiera - que pudiera asociar alguna anomalía con Derek, y encontraron al Dr. Gerald Gluck. El Canal 5 lo presentó como "uno de los más importantes expertos de EE.UU." en estas cuestiones, una cita para la que no ofrecen respaldo. Consiguieron a esta autoridad del Centro de Orientación Familiar y Biorretroalimentación en Coral Springs, Florida, que suena como si inventara el concepto bajo el cual actúa Derek Ogilvie. Entre las credenciales y especialidades del Dr. Gluck, se menciona que es graduado de la Escuela Brennan de Sanación, es un Profesional de la Ciencia de la Sanación, y un "Curandero por Energía". Un candidato ideal para la búsqueda de pruebas donde no las hay, diría yo.
+
+Como era de esperar, a pesar de que él había aprobado el protocolo en todos los sentidos, el personal, el entorno, y las actitudes de todos los afectados, y se había tomado días para seleccionar sus sujetos de un grupo de diez puestos a su disposición, Derek Ogilvie - una vez de vuelta en el Reino Unido, y tratando de ayudar al Canal 5 a encontrar una coartada para su flagrante fracaso, anunció:
+
+    ¡Estos ensayos fueron diseñados para que fallara!
+
+Eso, por supuesto, me preparó para la decepción de la que tantos lectores de SWIFT me advirtieron. No, Derek, tú aprobaste el protocolo, el 100%, por adelantado. Fue diseñado y llevado a cabo cuidadosamente, y sólo podías fallar si no tenías los poderes que afirmabas. Cierto, el tamaño de la muestra fue pequeño, pero estamos dispuestos a volver a probar tus afirmaciones, tantas veces como desees. Mira la declaración que cierra esta entrada de SWIFT...
+
+Pero, sinceramente, tenemos que entender la posición del Canal 5 en este asunto. Ellos invirtieron en un proyecto caro. Derek Ogilvie era una figura destacada en la televisión del Reino Unido, y sujeto apropiado para su programa, "Gente Extraordinaria", puesto que - tanto como ellos podían decir - él realmente tenía una habilidad para establecer contacto telepático con los niños, y ya tenía considerables seguidores entre los padres que habían aceptado afirmaciones pseudocientíficas de esta naturaleza. Por lo tanto, era un perfecto candidato para el premio de la JREF, y debería ser apto para que sus afirmaciones fueran examinadas correcta, científicamente, con imparcialidad, por mí y por una adecuada autoridad académica como el Dr. Chris French. Y la última suposición era perfectamente cierta; la JREF aceptó de inmediato, tan pronto como la solicitud de Derek fue recibida. Luego, después de haber fracasado espectacularmente tanto en los ensayos del Instituto Goldsmith como en los de la JREF, obteniendo exactamente en ambos los resultados atribuíbles al azar, el Canal 5 se enfrentó a tratar de racionalizar y explicar su costoso viaje a los EE.UU.; necesitaban desesperadamente algún salvavidas cuando se encontraron a si mismos a la deriva. Lo encontraron con el Dr. Gluck, quien tal vez - por todo lo que sabemos - ya había sido contactado por el propio Ogilvie.
+
+Después de preparar un surtido de lecturas de EEG (electroencefalogramas) obtenidas a partir de su examen del "psíquico", y alargándolas con una variedad de frases técnicas, el Dr. Gluck parece incluso haber confundido al propio Ogilvie, quien le preguntó, "¿Significa eso que soy telépata?". El Dr. Gluck respondió:
+
+    Eso no es un protocolo científico. Significa que estás utilizando la percepción sensorial que es como el trance, que es emocionalmente dominante, eres receptivo, y estás recibiendo información de algún tipo.
+
+Podemos entender la confusión de Ogilvie... No, eso es un "protocolo científico", y cómo este "destacado experto" pudo detectar que lo que el sujeto estaba "recibiendo" era como un trance, no puedo comprender...
+
+Además de encontrar y citar a este adulador académico, el Canal 5 afirmó que Ogilvie fue
+
+    ...el primer profesional psíquico, jamás, en tomar el desafío del millón de dolares de James Randi.
+
+y se refirieron a mí como
+
+    James Randi... el hombre al que todos los psíquicos han evitado hasta el momento.
+
+También dicen, del dinero del premio, que estaba poniendo
+
+    ...un millón de [mi] propio dinero en juego.
+
+Estas tres afirmaciones no son ciertas, por supuesto. Cientos de personas han sido probadas por mí, tanto para el millón de dólares, como para el anterior premio de 10.000 dólares que ofrecí personalmente durante años, y el Canal 5 era plenamente consciente de la serie de TV que hice para Granada Television, en el que una veintena de "psíquicos" - todos ellos - cayeron derrotados más bien de manera espectacular en el Reino Unido. También está muy claro, en nuestra web, donde se originó el premio.
+
+Sin embargo, Ogilvie ha indicado su deseo de ser probado de nuevo, y la JREF - y, estoy seguro, el Dr. French - están esperando con el corazón en un puño, resultar crueles y desagradables, una vez más...
+
+
+Fomentando las creencias, por Jeff Wagg
+.......................................
+
+.. image:: http://www.randi.org/images/commentary/200810/churchsign.jpg
+   :alt: Cartel de la Iglesia
+   :width: 220
+   :height: 220
+   :align: right
+
+Recientemente he asistido a una popular conferencia paranormal. Una de las cosas que llamó mi atención fue la constante afirmación de que los diversos fenómenos que se discutían eran absolutamente reales. Cuando alguien presentaba una experiencia, el grupo asentía y comentaban cómo sabían que era verdad. "Yo te creo, ahora tú me crees". En varias horas de conversación, nunca escuché a nadie cuestionar lo que los demás decían, al menos, en su presencia.
+
+Esto me recordó muchas iglesias a las que he asistido, donde el predicador, sacerdote o laico alentaría a los reunidos a creer en lo que estaba diciendo. "Tened fe.. la fe os salvará, no dejéis que la duda entre arrastrándose..". Compara esto con TAM o cualquier otra conferencia escéptica. Nosotros tratamos de seguir el viejo consejo de "mostrar, no decir". Brindar las pruebas y dejar que hablen por sí mismas.
+
+¿Podría ser que esta afirmación constante de las creencias es como un dique conteniendo las siempre-invasivas aguas de la duda inherente a nuestra especie? Sólo como alimento para la reflexión: si te están diciendo que creas algo, pregunta por qué la evidencia no es suficiente para fomentar su propia creencia. Tendría curiosidad por saber cuál era la respuesta.
+
+
+Hoyo en uno quiropráctico, por la doctora Harriet Hall
+......................................................
+
+El quiropráctico Ryan Alter de Delray Beach, Florida, fue presentado en televisión como un trabajador especializado en casos difíciles que cura las migrañas y otros problemas de salud con "una técnica de vanguardia" ofrecida sólamente por 250 profesionales de todo el mundo: Atlas ortogonal. Puedes ver los videoclips en http://www.alterchiropractic.com
+
+Su máquina parece una perforadora. Sostiene una pequeña varilla en una ubicación precisa con un ángulo preciso, y produce un diminuto golpecito rápido al lado del cuello. Los pacientes comentan, "incluso apenas toca mi cuello" y "no sientes absolutamente nada". Eso debería ser una pista.
+
+Toma radiografías antes y después. Dibuja líneas y calcula con precisión dónde aplicar el golpecito con el fin de ajustar el hueso superior de la columna vertebral, el Atlas, por alrededor de medio grado. Posteriormente, dibuja líneas con el fin de que la radiografía se vea mejor. Eso no es difícil de hacer.
+
+Esto no es precisamente un procedimiento "de vanguardia". Fue inventado por un quiropráctico llamado Roy Sweat hace varias décadas. No hay pruebas publicadas para demostrar que este procedimiento realmente mueve la vértebra Atlas o que hace cualquiera de las otras cosas que dicen.
+
+Atlas ortogonal, NUCCA, y otras técnicas de la quiropráctica cervical superior son reencarnaciones de la deshechada técnica "hoyo-en-uno" de Palmer. Él creía que si se fija la vértebra superior, el resto de la columna vertebral se alinearía por arte de magia, permitiendo curar todas la enfermedades.
+
+¡Ni siquiera los quiroprácticos se creen eso! Es por eso que hay tan pocos profesionales de la cervical superior. Encontré estas opiniones en un foro web de quiroprácticos:
+
+    "NUCCA es biomecánicamente extremadamente defectuoso y no puede ser tomado en serio."
+
+    "La terapia Atlas ortogonal se formó como producto de la imaginación de Roy Sweat, basado en NADA, ¿me escuchaste?, NADA."
+
+Te escuché.
+
+Si piensas que esto es una tontería, lee sobre la "Quiropráctico Sin-Toque" en http://www.sciencebasedmedicine.org/?p=3
+
+
+Michael Horn expuesto, por Jeff Wagg
+....................................
+
+.. image:: http://www.randi.org/images/commentary/200810/ufakeo.jpg
+   :alt: Estela
+   :width: 300
+   :height: 200
+   :align: right
+
+Michael Horn es el portavoz de Billy Meier, un hombre que afirma haber sido visitado frecuentemente por alienígenas de las Pléyades. La página web de Horn es http://www.theyfly.com, y aunque me resisto a dirigir tráfico allí, la web habla por sí misma. He tenido algunos encuentros sin invitación con Horn, y ha usado mis palabras fuera de contexto para atacar el trabajo de otros escépticos, especialmente el de Derek Bartholomaus del Grupo de Investigaciones Independiente (http://www.iigwest.org). Dicho esto, él respetó mi deseo y paró de contactar conmigo, por lo cual estoy agradecido.
+
+Derek ha sido crítico con Horn y Meier, y ha realizado investigaciones en las fotos de "nave alienígena" de la web, incluyendo alguna que parece una tarta de boda volando. Recientemente, Horn acusó a Derek de dar información falsa acerca de un testimonio científico, e incluyó estas palabras: "Voy a revelar y ensartar su incompetencia". El problema con el argumento de Horn es que los datos vinieron de su propia web. Cuando se enfrentó con esto, Horn admitió que su web tenía información falsa.
+
+Os invito a todos a echar un vistazo a http://www.iigwest.org/investigations/meier, y ver hasta dónde puede llegar gente como Horn para retorcer las palabras para sustituir la realidad con un tapiz de su propia elección. Derek y los demás han hecho un trabajo increíble en la investigación del fenómeno Billy Meier, y sólo por eso vale tu tiempo explorarlo. La foto, por cierto, es una de las reproducciones del IIG. Os desafío a que la distingáis del "genuino" artículo encontrado en la web de Horn.
+
+
+Un día en la vida, por Sean McCabe
+..................................
+
+Mucha gente que me ve ayudar a Randi quiere saber cómo es trabajar con El Asombroso sobre una base diaria. Así que después de mucha reflexión solemne, aquí está, el detalle definitivo de un día en la vida de Sean McCabe: Asistente Personal.
+
+    9:00 am: En el trabajo alegre y temprano, le traigo a Randi su café matutino y escucho atentamente cómo explica los milagros de la ciencia reveleados por el edulcorante Splenda.
+
+    9:15 am: Me escabullo al almacén, donde mido mi altura disimuladamente para asegurarse de que sigo siendo ligeramente más bajo que Randi. Entonces, como corresponde, limo unos pocos milímetros de la parte inferior de mis zapatos.
+
+    11:00 am: Tomo la llamada de un señor indio muy confundido que está tratando de encontrar algunos remedios homeopáticos y cree que la JREF es el lugar para comprarlos. Le pongo al corriente sobre algunos conceptos básicos de la homeopatía y decide que tal vez no quiere remedios homeopáticos tan malos después de todo.
+
+    12:00 pm: Randi me lleva a comer al Denny's a la vuelta de la esquina. ¡Les encanta tenerlo allí! Ese debe ser el personal de servicio más escéptico de cualquier Denny's en América del Norte.
+
+    2:00 pm: Ayudo a Randi cuando desmonta un chisme que parece un extraño control remoto, con una gran antena. Su creador afirma que se puede utilizar para encontrar oro y todo tipo de otras cosas. Randi quita hábilmente el panel "no quitar el cliente" en la parte posterior y me muestra los tornillos y alambres sueltos de la chismería-charlatana.
+
+    3:45 pm: Un par de escépticos de a pie se encuentran en la puerta. Randi toma una generosa porción de su tiempo, como hace siempre, para hablar de escepticismo y deslumbrarles con su experta prestidigitación.
+
+    4:30 pm: Al teléfono con los productores de el Show Matutino de la Fox, que quieren tener a Randi para dar la perspectiva escéptica sobre la última histeria fantasma de la "polilla en la lente".
+
+    4:55 pm: Justo cuando estoy a punto de terminar el día, Randi decide que vamos a hacer un vídeo fantasma para utilizarlo como ejemplo en el Show Matutino del día siguiente. Me dice que vaya a buscar una percha de alambre, y entonces me envía fuera para rociarla con pintura negra. Rich (nuestro especialista en medios de comunicación) alborota alrededor con la iluminación y el enfoque mientras Randi gira una polilla de toalla de papel delante de la cámara.
+
+    5:30 pm: Cuando abandono la JREF reflexiono sobre lo afortunado que soy de tener este trabajo. Todo está una vez más en orden con el mundo, pero sé que el mañana trae un nuevo reto; y aunque la credulidad y la charlatanería acechan justo tras cada esquina, no tenemos nada que temer mientras haya alrededor gente como Randi con asistentes personales siempre vigilantes a su lado.
+
+
+Cambio climático global: una opinión, por Jeff Wagg
+...................................................
+
+Recientemente en esta columna, cité a Tim Farley, quien se refirió a aquellos que no creen que los seres humanos son un factor significativo en el cambio climático global como "Negadores del Calentamiento Global" (`<randi20080919.html#esc-ptico-revisado>`__). Estas fueron las palabras de Tim, y fallé al no dejar claro que no expresaban mi opinión en el asunto. Ellas SÍ expresan un punto de vista ampliamente arraigado entre la comunidad escéptica de que nadie niega que la evidencia del calentamiento global está equivocada. Igualmente hay una ruidosa opinión minoritaria de que esto es sólo una manifestación del movimiento ecologista frecuentemente-hiperbólico.
+
+El calentamiento global o cambio climático global, como es más conocido, es uno de esos temas que los escépticos ponen en boca de los demás. Es una cuestión compleja, y una en la que tengo la sensación de que hay espacio para mucho debate. ¿Por qué son entonces las personas tan inflexibles en su posición? Sinceramente, no lo sé.
+
+Yo no soy climatólogo, y no pretendo entender la caótica ciencia que hay detrás de los patrones climáticos. Puedo leer, sin embargo, y creo que está claro que el actual consenso científico es que el cambio climático global parece estar ocurriendo a un ritmo creciente. Ese aumento parece deberse a la actividad humana. ¿Eso es todo? No. La gente asomaría de los agujeros con esta interpretación de los datos. Es nuestro trabajo cuestionar estas conclusiones, especialmente con algo tan complejo en que los datos que estamos recogiendo pueden ser insuficientes para darnos una imagen exacta. Un consenso es simplemente eso: un acuerdo general y con un poco de suerte no coaccionado entre personas que estudian un determinado tema. Tiene que ser respetado, pero no tomado como "una verdad como un templo".
+
+Y esa es mi opinión. No tengo nada más sólido que decir sobre ello, y no tengo ningún interés en ello. Pero creo que es importante añadir: el clima de la Tierra ha cambiado drásticamente con el tiempo. Estoy bastante seguro de que volverá a suceder, tarde o temprano. Sugiero que sigamos estudiando el clima, y si los datos muestran que es probable que los niveles del mar se eleven o que es probable que las temperaturas se incrementen enormemente, dejemos de discutir sobre quién o qué tiene la culpa y nos preparemos para ello. Y eso no significa cambiar de un Land Rover (como el mío) a un Prius, significa construir malecones, significa preparar planes de evacuación, e incrementar nuestra buena disposición y flexibilidad. Y todos haríamos mejor en quitar un poco de sentimiento al debate, y en lugar de eso centrarnos en la búsqueda de la verdad en lugar de reafirmar nuestras opiniones.
+
+
+¿TAM abierto a la muerte?, por Jeff Wagg
+........................................
+
+.. figure:: http://www.randi.org/images/commentary/200810/bierce.jpg
+   :alt: Bierce
+   :width: 180
+   :height: 242
+   :align: left
+   :figwidth: 184
+
+   ¿Nuestro próximo orador en TAM?
+
+El Encuentro Amaz!ng 7 no es hasta el próximo verano, pero en la JREF estamos inmersos en el modo de planificación. Estamos contactando con oradores, y aunque tenemos una muy buena lista de gente entre la que elegir, siempre podríamos utilizar una más grande. ¿Cómo ampliar la lista? Bueno, podríamos dejar de discriminar a aquellos de nosotros que han dejado atrás este despojo mortal. Si pudiéramos abrir el espacio de charlas de TAM a los muertos, lo que... alguno nos quiere hacer creer que es posible, unos pocos nombres evidentes saltan a la palestra: Sagan, Asimov, Clarke, Allen, Andrus.... Y podría continuar por un rato. Pero examinando mi modesta biblioteca recientemente, me encontré con un pequeño volumen cuyo autor habría sido muy bienvenido en nuestro escenario: *El Diccionario del Diablo* de Ambrose Bierce. Para aquellos no familiarizados con Bierce (cuya foto está a la derecha), era un escritor de finales del siglo 20, comparado a menudo con Mark Twain por su ingenio y sensibilidad. Nuestro propio fundador le ha citado en *Swift* a menudo. Su fecundo trabajo, *El Diccionario del Diablo*, es un compendio de palabras comunes y sus verdaderos significados. Por ejemplo, tenemos:
+
+    **Profecía**, *n*. El arte y la práctica de vender la credibilidad de uno para su futura entrega.
+
+Y también
+
+    **Homeópata**, *n*. El humorista de la profesión médica.
+
+Por último
+
+    **Material**, *adj*. Tener una existencia real, a diferencia de una imaginaria. Importante.
+
+Aunque estas palabras tienen más de 100 años, todavía son un soplo de aire fresco.
+
+Ahora, nunca he visto ninguna evidencia convincente de una habilidad para hablar con los muertos, mucho menos ha aparecido en TAM. Sin embargo, disponemos de una tecnología bien conocida por la ciencia que permitirá a Bierce unirse a nosotros más allá de las restricciones del tiempo y el espacio. Tenemos... la Internet. Un solo clic a http://www.alcyone.com/max/lit/devils/ nos traerá todo el contenido del glosario de Bierce para examinarlo en nuestro tiempo libre.
+
+En cuanto a TAM, Sr. Bierce, su presencia es requerida. ¿Podemos contar con usted?
+
+
+La ciencia salva (más) vidas, por Jeff Wagg
+...........................................
+
+En http://www.sciencedaily.com pueden encontrarse algunas noticias alegres de la Universidad de Virginia. El científico John H. Bushweller, Doctor en Física, y su equipo han hallado un nuevo conocimiento de cómo una proteína particular trabaja en las membranas celulares. Esto tal vez permita una clase totalmente nueva de antibióticos que pueda ayudar a ganar la guerra contra las cepas resistentes a las drogas que están llegando a ser cada vez más problemáticas en los hospitales de todo el mundo.
+
+Aunque el contenido es bastante técnico, representa algo que tenemos que celebrar más: el hecho de que la ciencia realmente funciona. Los científicos van a trabajar cada día y mejoran la existencia humana. Historias como esta pueden provocar que muchas personas pongan los ojos en blanco, pero las noticias que representan puede que un día los mantenga vivos. Sería bueno que los medios de comunicación prestaran más atención a ese hecho.
+
+
+Una prueba simple de los horóscopos, por Jeff Wagg
+..................................................
+
+Una prueba simple: repasa los resultados de cinco populares webs de horóscopos, y observa cómo se comparan. Después de todo, todas están examinando los mismos "datos", por lo que las conclusiones deberían ser similares. Las lecturas son para Sagitario, el 2 de octubre de 2008. Tú eres el juez:
+
+De astrology.com:
+
+    Este no es el mejor momento para tener éxito en el ámbito de las fiestas o conocer a un montón de gente nueva. Tu bastante pletórica personalidad de costumbre, está algo apagada por ahora gracias a alguna mala interferencia de energía exterior.
+
+De horoscopes.com:
+
+    Relación subiendo en ascensor. Hoy querrás pasar más tiempo con alguien que encuentras especial. Esto se debe a que hoy el escenario está montado para que tus relaciones mejoren y maduren. Si es posible, intenat planear algo único con ese alguien especial. Y no dejes que las influencias externas interrumpan vuestro tiempo juntos.
+
+De dailyhoroscope.com:
+
+    Aunque tus amigos puedan pensar que les estás dando todo, sabes hacerlo mejor. Consigue poder hoy manteniendo algo de tu energía en reserva. En lugar de intentar sacar todo al aire libre, hazlo lentamente. Guardar de partes de tu biografía para más adelante puede intensificar tu entrega y hacer tu historia aún más convincente ..
+
+De msnbc.msn.com:
+
+    Hoy no deberías ser tímido reclamando mérito por algo que hiciste. Si estás preocupado de que algún otro tenga celos de ti, no lo estés. Cómo reaccionen a tu adulación es su problema, y no es nada en lo que debas tener responsabilidad. Nunca debes rechazar la alabanza a menos que sea inmerecida -- y el elogio que obtendrás hoy es indudablemente bien merecido. Si alguien tiene un problema con eso, necesita plantearlo con la gente que amontona todos los galardones en tu camino -- no contigo.
+
+De nypost.com:
+
+    No importa cuánto puedas querer aferrarte a algo que pertenece al pasado, sabes que no es un buen paso, así que se valiente y relégalo al cubo de la historia. Al final lo antiguo siempre se pone en el camino de lo nuevo, así que estate al día.
+
+Esos fueron los cinco primeros que me encontré. Sólo veo un patrón: los consejos dados en cada lectura podrían aplicarse independientemente de la persona o el día. Si mi fecha de nacimiento está influyendo en estas cosas de alguna manera, el patrón se me escapa.
+
+
+Para terminar, por Jeff Wagg
+............................
+
+A partir del 10 de octubre, esta columna cambiará drásticamente de formato. Usaremos una presentación más al estilo de un blog, con actualizaciones más frecuentes y más oradores invitados. Randi aún estará por aquí para ilustrarnos con su sabiduría, pero se sumará a otros dirigentes del escepticismo y la ciencia. Mantente sintonizado al nuevo *Swift*... pensamos que te gustará. [#swift]_
+
+Randi está viajando de nuevo, primero a California y luego el 10 de octubre a Nueva York donde los Escépticos de la Ciudad de Nueva York serán sus anfitriones en una conferencia libre en la Universidad Rockefeller. Hay más información disponible en http://www.nycskeptics.org. Los Escépticos de la Ciudad de Nueva York son un grupo bastante nuevo, y ya están de cazapandillas. Si estás pensando en comenzar una organización local, son un magnífico ejemplo de cómo hacerlo bien.
+
+He mencionado en el artículo sobre los antibióticos cómo necesitamos celebrar la ciencia, así como señalar la pseudociencia. En ese sentido, me gustaría pegar un grito a Science Daily (Ciencia a Diario). Si alguna vez sientes que estamos perdiendo la batalla, una visita a http://www.sciencedaily.com puede alegrarte un poco el día. Es una crónica del progreso que la ciencia está haciendo cada día, y muestra que a pesar de lo que los medios de comunicación dominantes puedan describir, hay un montón de gente con talento y dedicación trabajando para ampliar el conocimiento humano. Simplemente no prestes demasiada atención a los anuncios de Google; el contraste que ofrecen proyecta una luz más brillante sobre por qué la ciencia es importante.
+
+|firmarandi|
+
+**Notas**
+
+.. [#swift] Esto significa que esta será nuestra última traducción de las columnas semanales de James Randi. Probablemente Sin Dioses incluya nuevo material en castellano que no se halla disponible en otros ámbitos. Aprovechamos para agradecer a nuestros colaboradores, que nos han ayudado a hacer llegar este interesante material a los lectores de habla hispana. [N. del E.]
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: Traducido por José Luis Laviña
+    :description: La prueba de Derek Olgivie — Fomentando las creencias — Hoyo en uno quiropráctico - Michael Horn expuesto - Un día en la vida - Cambio climático global: una opinión - ¿TAM abierto a la muerte? - La ciencia salva (más) vidas - Una prueba simple de los horóscopos - Para terminar

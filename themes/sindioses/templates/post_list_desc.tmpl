@@ -1,0 +1,21 @@
+## -*- coding: utf-8 -*-
+<%block name="content">
+<!-- Begin post-list ${post_list_id} -->
+<div id="${post_list_id}" class="post-list">
+    %if posts:
+    <ul class="post-list espacio">
+        % for post in posts:
+            <li class="post-list-item">
+                <div class="first line-block">
+                    <div class="line"><strong><a class="reference external" href="${post.permalink(lang)}">${post.title(lang)}</a></strong>, <strong>${post.meta('author')|h}</strong></div>
+                    <div class="line"><em>${post.meta('tags')|h}</em></div>
+                    <div class="line">publicado el ${post.formatted_date('dd/MM/YYYY')}</div>
+                </div>
+                <p>${post.meta('description')|h}</p>
+            </li>
+        % endfor
+    </ul>
+    %endif
+</div>
+<!-- End post-list ${post_list_id} -->
+</%block>

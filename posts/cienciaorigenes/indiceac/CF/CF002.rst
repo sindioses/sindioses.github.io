@@ -1,0 +1,38 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CF, CF000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CF002
+.. link: http://talkorigins.org/indexcc/CF/CF002.html
+.. date: 2003-6-4
+.. type: afirmacrea
+.. title: CF002: La complejidad no se origina a partir de la simplicidad
+.. description: Respuesta a la afirmación creacionista «La complejidad no se origina a partir de la simplicidad»
+
+Respuesta
+==========
+
+1. La complejidad surge de la simplicidad todo el tiempo. El conjunto de Mandelbrot es  un ejemplo ([Dewey_1996]_). Ejemplos de la vida real incluyen los siguientes: una sartén con agua calentada uniformemente en su parte baja desarrollará corrientes de convección que son más complejas que el agua quieta; huracanes complejos surgen a partir de principios similares; sistemas complejos de anillos planetarios surgen de las simples leyes de gravitación; nidos de hormigas complejos surgen de conductas simples, organismos complejos surgen de semillas y embriones más simples.
+
+2. De la evolución debería esperarse complejidad. En simulaciones computadorizadas, los organismos complejos eran más robustos que los simples ([Lensky_et_al_1999]_), y la selección natural forzó un incremento en la complejidad ([Adami_et_al_2000]_). Teóricamente, la complejidad es esperada porque los procesos generadores de complejidad disipan la entropía a partir de influjos de energía del sol, en concordancia con la segunda ley de la termodinámica ([Wicken_1979]_). Ilya Prigogine ganó el Premio Nóbel "por sus contribuciones a la ternodinámica del no equilibrio, en particular la teoría de estructuras disipadoras" ([Fundacion_Nobel_1977]_). De acuerdo con Prigogine, "se ha visto que el no equilibrio puede convertirse en una fuente de orden y que los procesos irreversibles pueden conducir a un nuevo tipo de estados dinámicos de la materia llamadas 'estructuras disipadoras'" ([Prigogine_1977]_, 22).
+
+Referencias
+=============
+
+.. [Adami_et_al_2000]    Adami, C., C. Ofria y T. C. Collier, 2000. Evolution of biological complexity. *Proceedings of the National Academy of Science USA* 97(9): 4463-4468. http://www.pnas.org/cgi/content/full/97/9/4463
+.. [Dewey_1996]    Dewey, David, 1996. Introduction to the Mandelbrot set. http://www.ddewey.net/mandelbrot/
+.. [Lensky_et_al_1999]    Lenski, R. E., C. Ofria, T. C. Collier y C. Adami, 1999. Genome complexity, robustness and genetic interactions in digital organisms. *Nature* 400: 661-664.
+.. [Fundacion_Nobel_1977]    Nobel Foundation 1977. The Nobel Prize in chemistry 1977. http://nobelprize.org/chemistry/laureates/1977
+.. [Prigogine_1977]    Prigogine, Ilya, 1977. Time, structure, and fluctuations, http://www.nobel.se/chemistry/laureates/1977/prigogine-lecture.pdf
+.. [Wicken_1979]    Wicken, Jeffrey S., 1979. The generation of complexity in evolution: A thermodynamic and information-theoretical discussion. *Journal of Theoretical Biology* 77: 349-365.
+
+
+/////
+
+Anterior: :doc:`CF001_5` | Siguiente: :doc:`CF002_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

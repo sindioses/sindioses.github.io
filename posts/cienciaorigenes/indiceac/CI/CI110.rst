@@ -1,0 +1,66 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CI, CI100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CI110
+.. link: http://www.talkorigins.org/indexcc/CI/CI110.html
+.. date: 2003-11-08
+.. title: CI110: La información compleja especificada indica diseño
+.. description: Respuesta a la afirmación creacionista «La información compleja especificada indica diseño»
+.. type: afirmacrea
+
+El diseño puede reconocerse por medio del siguiente :doc:`filtro <CI111>`:
+
+1. Si un evento E tiene alta probabilidad, aceptar como explicación la regularidad, de lo contrario ir al siguiente paso.
+2. Si la hipótesis del azar asigna a E una probabilidad alta o E no está especificado, aceptar como explicación el azar, de lo contrario ir al siguiente paso.
+3. Habiendo eliminado la regularidad y el azar, aceptar como explicación el diseño.
+
+Este filtro es equivalente a detectar información compleja especificada.
+
+**Fuente:**
+
+.. [Dembski_1998] Dembski, William A., 1998. *The Design Inference: Eliminating chance through small probabilities.* Cambridge University Press.
+
+Respuesta
+============
+
+1. El filtro es inútil en la práctica porque las probabilidades que pide nunca pueden conocerse. El paso 1, en particular, no nos pide aceptar o rechazar sólo una hipótesis de regularidad, sino todas las hipótesis regulatorias, incluso aquellas que todavía no se le han ocurrido a nadie. Del mismo modo, rechazar el azar requiere una lista completa de todos los procesos aleatorios que pudieran aplicarse al evento.
+
+2. El filtro se basa en la premisa de que las categorías de regularidad, azar y diseño son "mutuamente excluyentes y exhaustivas" ([Dembski_1998]_, 36). Pero no son mutuamente excluyentes. R. A. Fischer, por ejemplo, incluyó las mutaciones en las tres categorías. Individualmente, se debían al azar, pero colectivamente estaban gobernadas por leyes, y todo esto estaba planeado por Dios ([Ruse_2001]_, 121).
+
+3. Aunque el filtro afirma detectar el diseño, en realidad no dice nada sobre el diseño. El filtro define diseño como la eliminación de la regularidad y el azar, no, como la mayoría de la gente define diseño, como una distribución con propósito. Las dos definiciones no son equivalentes. Dembski mismo notó que algún diseño inteligente sería eliminado en los primeros dos pasos. Y lo que el filtro detecta en realidad es copia, no :doc:`voluntad inteligente <CI111_2>`.
+
+4. Dado que el filtro no dice nada sobre el diseño, no hay hipótesis de diseño inteligente que pueda usarse científicamente o para cualquier propósito práctico.
+
+5. Los términos clave del filtro, especialmente "hipótesis del azar" y "especificado", están mal definidos.
+
+6. Dembski no considera que el diseño es un proceso. El proceso que produce diseño no es en sí mismo regularidad (o el diseño resultante tendría alta probabilidad) ni azar (o probablemente no se produciría diseño), de modo que el filtro dice que el proceso debe ser diseñado él mismo. Por lo tanto, el proceso de diseño debe tener otro proceso de diseño que lo produzca, el cual requiere él mismo un proceso de diseño, ad infinitum, o en alguna parte debe haber algo que no sea en absoluto un proceso y el diseño debe surgir de inguna parte. En realidad, el diseño típicamente se produce como un proceso iterativo que involucra muchos ensayos y errores. La regularidad y el azar son ambos partes del proceso, al igual que la selección. La evolución utiliza los mismos procesos.
+
+Enlaces
+=========
+Elsberry, Wesley, and Jeffrey Shallit, 2003. Information theory, evolutionary computation, and Dembski's "complex specified information". http://www.talkreason.org/articles/eandsdembski.pdf
+
+Wilkins, John S. and Wesley R. Elsberry, 2001. The advantages of theft over toil: the design inference and arguing from ignorance. *Biology and Philosophy* 16: 711-724. http://www.users.bigpond.com/thewilkins/papers/dembski/ o http://www.talkdesign.org/faqs/theftovertoil/theftovertoil.html
+
+Referencias
+============
+
+.. [Ruse_2001] Ruse, Michael, 2001. *Can a Darwinian Be a Christian?*, Cambridge University Press.
+
+Otras lecturas
+=================
+
+Fitelson, Brandon, Christopher Stephens and Elliott Sober, 1999. How not to detect design. *Philosophy of Science* 66: 472-488. http://philosophy.wisc.edu/sober/dembski.pdf
+
+Pennock, Robert T., 1999. *Tower of Babel*. Cambridge, MA: MIT Press.
+
+
+/////
+
+Anterior: :doc:`CI102` | Siguiente: :doc:`CI111`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

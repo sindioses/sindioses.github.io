@@ -1,0 +1,62 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC360
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2004-6-15
+.. type: afirmacrea
+.. title: CC361.2: Se encontraron mamuts congelados rápidamente
+.. description: Respuesta a la afirmación creacionista «Se encontraron mamuts congelados rápidamente»
+.. slug: CC361_2
+.. link: http://www.talkorigins.org/indexcc/CC/CC361_2.html
+
+Se han encontrado cuerpos de mamuts que aparentemente se congelaron súbitamente. Su carne estaba bien preservada y aún tenían comida en la boca.Esto muestra que fueron congelados rápidamente en algún tipo de catástrofe.
+
+**Fuente:**
+
+Watchtower Bible and Tract Society, 1985. *Life--How Did It Get Here?* Brooklyn, NY, p. 203. 
+
+Respuesta
+=========
+
+1. Los informes de mamuts congelados con la carne bien preservada han sido en gran medida exagerados. Se han preservado bien partes de cadáveres, pero en todos los casos los órganos internos estaban podridos o el cuerpo había sido consumido en parte por carroñeros, o ambas cosas, antes de que el animal se congelara. El mamut de Berezovka, quizá el ejemplo más famoso, mostraba evidencia de una descomposición muy lenta y estaba putrefacto hasta el munto de que los excavadores consideraron insoportable su hediondez ([Weber_1980]_). El mamut mejor preservado, Dima, era un infante; su tamaño pequeño y condición hambreada permitió un congelamiento más rápido, e incluso este caso tenía un poco de descomposición ([Guthrie_1990]_, 7).
+   
+   Hay probablemente varias causas diferentes de la muerte de mamuts y otros animales congelados, incluyendo las siguientes:
+
+   * Hundimiento en cieno barroso ([Guthrie_1990]_, 7-24).
+   * Ahogamiento o enterramiento en inundaciones rápidas que arrastraban una pesada carga de cieno.
+   * Depredación, seguida de congelamiento invernal, seguido de enterramiento en cieno arrastrado por deshielo ([Guthrie_1990]_, 81-113)
+   * Caída en un deslizamiento de tierras, como una ribera descongelada que cede bajo el peso del animal. El derrumbe y subsiguiente deslizamiento del cieno puede enterrar y preservar el animal ([Kurtén_1986]_, cap. 9)
+     
+   La comida hallada con los mamuts eran especies árticas. Algunas muertes de los mamuts pueden haber sido súbitas, pero no hay evidencia de cambio climático súbito.
+
+2. Los mamuts congelados no son comunes. Hasta 1961, sólo se habían encontrado treinta y nueve que tuvieran preservada parte de su carne, y sólo cuatro de ellos estaban más o menos intactos ([Farrand_1961]_).
+   
+Referencias
+===========
+
+.. [Farrand_1961]    Farrand, William R., 1961. Frozen mammoths and modern geology. *Science* 133: 729-735.
+.. [Guthrie_1990]    Guthrie, R. D., 1990. (v. abajo)
+.. [Kurtén_1986]    Kurtén, B., 1986. (v. abajo)
+.. [Weber_1980]    Weber, C. G., 1980. (v. abajo) 
+
+
+Otras lecturas
+===============
+
+Guthrie, R. Dale, 1990. *Frozen Fauna of the Mammoth Steppe*. Chicago: University of Chicago Press.
+
+Kurtén, Björn, 1986. *How to Deep-Freeze a Mammoth*. New York: Columbia University Press.
+
+Weber, Christopher Gregory, 1980. Common creationist attacks on geology. *Creation/Evolution* 2: 10-25. 
+
+		
+/////
+
+Anterior: :doc:`CC361_1` | Siguiente: :doc:`CC361_3`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

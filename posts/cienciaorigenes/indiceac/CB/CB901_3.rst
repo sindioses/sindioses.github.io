@@ -1,0 +1,50 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB901_3
+.. link: http://talkorigins.org/indexcc/CB/CB901_3.html
+.. date: 2004-09-15
+.. title: CB901.3: Los pinzones de Darwin sólo muestran microevolución
+.. description: Respuesta a la afirmación creacionista «Los pinzones de Darwin sólo muestran microevolución»
+.. type: afirmacrea
+
+Los pinzones de Darwin sólo muestran microevolución. En un estudio a largo plazo, los cambios fueron pequeños y oscilaban en uno y otro sentido. No muestran evidencia de macroevolución.
+
+**Fuente:**
+
+Yahya, Harun, 2003. *Darwinism Refuted*, The true origin of species. http://www.darwinismrefuted.com/origin_of_species_02.html
+
+Respuesta
+============
+
+1. El extenso trabajo realizado en los pinziones de Darwon por los Grant muestra en algún detalle cómo funciona la microevolución, incluyendo detalles de transmutación y el poder de la selección natural ([Weiner_1994]_). En los años en que los Grant han estado estudiando a los pinzones, uno no esperaría ver macroevolución.
+
+2. Los pinzones de Darwin mustran un patrón de diferencias morfológicas que indican que todos derivaban de un ancestro común. La diferencia entre el pinzón carpintero y el pinzón grande de tierra son tan grandes como cualquiera de las que existen en la familia completa de pinzones. Los pinzones de Darwin no muestran que ocurra macroevolución, pero son pruebas de que ha ocurrido.
+
+Referencias
+===============
+
+.. [Weiner_1994] Weiner, J., 1994 (V. abajo)
+
+Otras lecturas
+================
+
+Weiner, Jonathan, 1994. *The Beak of the Finch*: A story of evolution in our time. New York: Knopf.
+
+Grant, B. Rosemary and Peter R. Grant, 2003. What Darwin's finches can teach us about the evolutionary origin and regulation of biodiversity. *BioScience* 53(10): 965-975.
+
+Grant, Peter R., 2002. Selected abstracts. http://www.eeb.princeton.edu/FACULTY/Grant_P/PRG_Abstracts.pdf
+
+Kimball, John W., 2003. Speciation. http://users.rcn.com/jkimball.ma.ultranet/BiologyPages/S/Speciation.html
+
+
+/////
+
+Anterior: :doc:`CB901_2` | Siguiente: :doc:`CB902`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,39 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH500
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH505_6
+.. link: http://talkorigins.org/indexcc/CH/CH505_6.html
+.. date: 2003-5-7 02:00:00+00:00
+.. title: CH505.6: Resit, un granjero kurdo, encontró el arca en 1948
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Resit, un granjero kurdo, encontró el arca en 1948»
+
+En 1948, un granjero kurdo llamado Resit informó haber hallado la proa del arca de Noé a unos dos tercios del camino a la cima del Ararat, surgiendo del hielo. La madera era negra y demasiado dura para que él pudiera cortar un trozo. Basado en este relato, A. J. Smith organizó una expedición, esperando usar a Resit como guía. Sin embargo, no pudieron ubicar a Resit ni al arca.
+
+**Fuente:**
+
+LaHaye, Tim y John Morris, 1976. *The Ark on Ararat*, Nashville: Thomas Nelson Inc.
+
+Respuesta
+===========
+
+1. Según se cuenta, Resit le contó a otras personas del lugar, y varias de ellas también escalaron para ver la embarcación. A. J. Smith, sin embargo, no sólo fracasó en ubicar a Resit; no pudo ubicar a nadie que hubiera visto la embarcación o que hubiera escuchado la historia. Esto pese a una búsqueda empeñosa y el ofrecimiento de una recompensa ([Bailey_1989[_, 88). LaHaye y Morris ([LaHaye_y_Morris_1976]_) dicen que esto se debe a que Resit era musulmán, pero esto se desconoce. Una explicación más probable es que la historia original era ficción.
+
+
+Referencias
+===============
+
+.. [Bailey_1989] Bailey, Lloyd, 1989. *Noah: The Person and the Story in History and Tradition*. Columbia, SC: University of South Carolina Press.
+
+.. [LaHaye_y_Morris_1976] (ver arriba)
+
+/////
+
+Anterior: :doc:`CH505_5` | Siguiente: :doc:`CH505_7`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

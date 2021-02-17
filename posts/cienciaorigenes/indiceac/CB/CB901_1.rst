@@ -1,0 +1,42 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB901_1
+.. link: http://talkorigins.org/indexcc/CB/CB901_1.html
+.. date: 2003-09-03 02:00:00+00:00
+.. title: CB901.1: El rango de variación está limitado a producirse dentro de los tipos
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «El rango de variación está limitado a producirse dentro de los tipos»
+
+Las especies pueden sufrir cambios menores, pero el rango de variación está limitado a variación dentro de cada tipo.
+
+**Fuente:**
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, pp. 51-52, 87-88.
+
+Watchtower Bible and Tract Society, 1985. *Life--How Did It Get Here?* Brooklyn, NY, 109.
+
+Respuesta
+===========
+
+1. ¿Qué es un "tipo"? Los creacionistas han identificado "tipos" con cualquier cosa, desde especies a reinos enteros. Siguiendo las definiciones más estrechas, han ocurrido variaciones hacia nuevos tipos. De acuerdo con las definiciones más amplias, no esperaríamos ver variaciones en tiempo histórico.
+
+2. *Helacyton gartleri* muestra un ejemplo de cambio que sería difícil llamar otra cosa que un cambio en tipo. Es una forma de vida similar a una ameba que provino de un ser humano ([Van_Valen_y_Maoirana_1991]_; evolucionó de un carcinoma, se multiplica apoderándose de otros cultivos celulares de laboratorio).
+
+3. Los creacionistas nunca han sugerido, mucho menos mostrado, ningún mecanismo que limite la variación. Sin un mecanismo así, esperaríamos ver que los tipos varían con el tiempo, diferenciándose más yh más de lo que fueron en un momentod ado en el pasado.
+
+Referencias
+============
+
+.. [Van_Valen_y_Maoirana_1991] Van Valen, Leigh M. and Virginia C. Maiorana, 1991. HeLa, a new microbial species. *Evolutionary Theory* 10: 71-74.
+
+/////
+
+Anterior: :doc:`CB901` | Siguiente: :doc:`CB901_2`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

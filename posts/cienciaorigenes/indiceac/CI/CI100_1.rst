@@ -1,0 +1,53 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CI, CI100
+.. author: Mark Isaac, traducción de Paulina Madariaga
+.. nocomments: True
+.. slug: CI100_1
+.. link: http://talkorigins.org/indexcc/CI/CI100_1.html
+.. date: 2006-8-22 02:00:00+00:00
+.. title: CI100.1: Mira, ¿acaso el diseño no es evidente?
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Mira, ¿acaso el diseño no es evidente?»
+
+El diseño es evidente por sí mismo. Solo necesitas abrir los ojos y verlo.
+
+**Fuente**
+===========
+
+Wells, Jonathan, 2006. *The Politically Incorrect Guide to Darwinism and Intelligent Design*. Washington DC: Regnery, 83.
+
+Anon, Jan. 2003. Feedback. http://www.talkorigins.org/origins/feedback/jan03.html (2nd from end)
+
+Respuesta
+===========
+
+1. Esta afirmación carece de todo contenido. No es nada más que una aseveración subjetiva. Que el diseño esté lejos de ser evidente por sí mismo se demuestra por las dificultades que la gente tiene al tratar de describir la evidencia objetiva para ello.
+
+2. Hay buenas razones por la que la gente ve diseño donde no lo hay:
+
+   - Los humanos antropomorfizan cosas. Solemos asociar atributos humanos a toda clase de cosas. Dado que el diseño es algo que los humanos hacemos, lo vemos por todas partes.
+
+   - La evolución y algunos diseños humanos involucran sistemas complejos que lidian con las mismas limitaciones físicas ([Csete_y_Doyle_2002]_).
+
+   - La evolución tiene muchas cosas en común con el proceso del diseño. Genera modificaciones por ensayo y error de las formas existentes y descarta las versiones inferiores.
+
+Referencias
+==============
+
+.. [Csete_y_Doyle_2002] Csete, Marie E. and John C. Doyle, 2002. Reverse engineering of biological complexity. *Science* 295: 1664-1669.
+
+
+Lecturas recomendadas
+=========================
+
+Isaak, Mark, 2003. What design looks like. *Reports of the National Center for Science Education* 23(5-6): 25-26,31-35.
+
+/////
+
+Anterior: :doc:`CI100` | Siguiente: :doc:`CI101`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

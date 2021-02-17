@@ -1,0 +1,58 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA510
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA510
+.. link: http://www.talkorigins.org/indexcc/CA/CA510.html
+.. date: 2003-05-30 02:00:00+00:00
+.. title: CA510: Creacionismo y evolución son los únicos dos modelos de los orígenes
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Creacionismo y evolución son los únicos dos modelos de los orígenes»
+
+**Fuente:**
+
+Morris, Henry M. 1985. *Scientific Creationism*. Green Forest, AR: Master Books, pp. 3, 8-10.
+
+Respuesta
+==============
+
+1. Hay muchos modelos mutuamente excluyentes de creación. Sólo el creacionismo bíblico incluye geocentrismo, creacionismo de la tierra joven, creacionismo día-era, creacionismo progresivo, creacionismo de diseño inteligente, y más. Y luego están los cientos de variedades muy distintas de creación de otras religiones y culturas. Algunas de las críticas más duras de los modelos creacionistas vienen de creacionistas que creen en otros modelos.
+
+2. Muchas alternativas no creacionistas a la evolución darwiniana o a partes significativas de ella son posibles, y han recibido atención seria en el pasado. Incluyen, entre otras:
+
+   * ortogénesis
+   * neolamarckianismo
+   * estructuralismo de proceso
+   * saltacionismo
+
+   (Vea [Wilkins_1998]_ para más detalles.)
+
+3. La creación y la evolución no son mutuamente excluyentes. En modelos como la evolución teísta, ambas coexisten.
+
+Enlaces
+=========
+
+Isaak, Mark. 2000. What is creationism? http://www.talkorigins.org/faqs/wic.html
+
+Wilkins, John. 1998. So you want to be an anti-Darwinian: Varieties of opposition to Darwinism. http://www.talkorigins.org/faqs/anti-darwin.html
+
+Referencias
+=============
+
+.. [Wilkins_1998] Wilkins, John. 1998 (véase más arriba)
+
+Otras lecturas
+=================
+
+Kossy, Donna. 2001. *Strange Creations: Aberrant Ideas of Human Origins from Ancient Astronauts to Aquatic Apes*. Los Angeles: Feral House.
+
+
+/////
+
+Anterior: :doc:`CA500` | Siguiente: :doc:`CA510_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

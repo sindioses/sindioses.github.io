@@ -1,0 +1,47 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2005-9-16
+.. type: afirmacrea
+.. title: CB035.3: Los aminoácidos no se generan a partir de sólo CO2, nitrógeno y agua
+.. description: Respuesta a la afirmación creacionista «Los aminoácidos no se generan a partir de sólo CO2, nitrógeno y agua»
+.. slug: CB035_3
+.. link: http://www.talkorigins.org/indexcc/CB/CB035_3.html
+
+Cuando se realiza el experimento Miller-Urey con una atmósfera que sólo consista de dióxido de carbono, nitrógeno y vapor de agua, no se producen aminoácidos.
+
+**Fuente:**
+
+Discovery Institute. 2003. A preliminary analysis of the treatment of evolution in biology textbooks currently being considered for adoption by the Texas State Board of Education. http://www.discovery.org/articleFiles/PDFs/TexasPrelim.pdf, p. 5.
+
+Respuesta
+=========
+
+1. La afirmación es falsa. Esa atmósfera sí da origen a aminoácidos ([Schlesinger_y_Miller_1983]_).
+   
+Enlaces
+=======
+
+Gishlick, Alan D. n.d. Icons of evolution? Miller-Urey experiment. http://www.ncseweb.org/icons/icon1millerurey.html
+
+Referencias
+===========
+.. [Schlesinger_y_Miller_1983] Schlesinger, G. and S. L. Miller. 1983. Prebiotic synthesis in atmospheres containing CH\ :sub:`4`, CO, and CO\ :sub:`2`. I. Amino acids. *Journal of Molecular Evolution* 19(5): 376-382. 
+
+Otras lecturas
+==============
+
+Ellington, Andrew D. and Matthew Levy. 2003. Gas, discharge, and the Discovery Institute. *Reports of the National Center for Science Education* 23(3-4): 39-40. 
+
+		
+/////
+
+Anterior: :doc:`CB035_2` | Siguiente: :doc:`CB040`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

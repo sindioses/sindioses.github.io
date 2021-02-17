@@ -1,0 +1,47 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB500
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB510
+.. link: http://www.talkorigins.org/indexcc/CB/CB510.html
+.. date: 2003-4-21
+.. title: CB510: La evolución no puede explicar el origen de la fotosíntesis
+.. description: Respuesta a la afirmación creacionista «La evolución no puede explicar el origen de la fotosíntesis»
+.. type: afirmacrea
+
+**Fuente:**
+
+Nelson, Chuck, 2001. Purposelessness personified. http://www.creationequation.com/archives/MotherNatureMasquerade.htm
+
+Respuesta
+=============
+
+1. Este es otra :doc:`falacia de incredulidad personal <CA100>`. No saber cómo evoluciona algo es un límite en nosotros, no en la evolución.
+
+   No esperaríamos que la evolución de la fotosíntesis fuera fácil de desentrañar. La fotosíntesis ha estado evolucionando por más de tres mil millones de años, ya que se originó incluso antes de los eucariotas ([Awramik_1992]_). Su historia temprana incluía transferencia de genes entre varios filos de bacterias, lo que hace que el rastro sea más difícil de seguir genéticamente ([Raymond_et_al_2003]_). Diferentes componentes de la fotosíntesis tienen rutas evolutivas independientes. Sin embargo, se ha hecho mucho progreso en determinar cómo evolucionó la fotosíntesis ([Baymann_et_al_2001]_, [Blankenship_1992]_; [Blankenship_y_Hartman_1998]_; [Xiong_y_Bauer_2002]_).
+
+Referencias
+==============
+
+.. [Awramik_1992]    Awramik, S. M., 1992. The oldest records of photosynthesis. *Photosynthesis Research* 33: 75-89.
+.. [Baymann_et_al_2001]    Baymann, F., M. Brugna, U. Muhlenhoff and W. Nitschke., 2001. Daddy, where did (PS)I come from? *Biochimica et Biophysica Acta* 1507(1-3): 291-310.
+.. [Blankenship_1992]    Blankenship, R. E., 1992. Origin and early evolution of photosynthesis. *Photosynth Res.* 33: 91-111.
+.. [Blankenship_y_Hartman_1998]    Blankenship, R. E. and H. Hartman, 1998. The origin and evolution of oxygenic photosynthesis. *Trends in Biochemical Sciences* 23(3): 94-97.
+.. [Raymond_et_al_2003]    Raymond, J., O. Zhaxybayeva, J. P. Gogarten and R. E. Blankenship, 2003. Evolution of photosynthetic prokaryotes: a maximum-likelihood mapping approach. *Philosophical Transactions, Biological Sciences* 358(1429): 223-230.
+.. [Xiong_y_Bauer_2002]    Xiong, J. and C. E. Bauer, 2002. (V. abajo)
+
+Otras lecturas
+===============
+
+Xiong, J. and C. E. Bauer, 2002. Complex evolution of photosynthesis. *Annual Review of Plant Biology* 53: 503-521. (Técnico)
+
+
+/////
+
+Anterior: :doc:`CB501` | Siguiente: :strong:`CB601`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,39 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA600
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA630
+.. link: http://www.talkorigins.org/indexcc/CA/CA630.html
+.. date: 2007-03-23 02:00:00+00:00
+.. title: CA630: Los animales no son morales, estéticos, idealistas ni religiosos
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Los animales no son morales, estéticos, idealistas ni religiosos»
+
+La evolución dice que los humanos somos animales, pero los humanos somos morales, estéticos, idealistas y religiosos y los animales no.
+
+**Fuente:**
+
+Morris, Henry M. 1985. *Scientific Creationism*. Green Forest, AR: Master Books, p. 196.
+
+Respuesta
+============
+
+1. No sólo la evolución dice que los humanos somos animales. Cualquier biología básica lo dice.
+
+2. ¿Quién dice que los animales no son morales, estéticos, idealistas o religiosos? Muchos animales muestran conducta altruista. Otros muestran respeto por sus muertos. Algunos escritores han afirmado, no enteramente en broma, que los animales son más morales que los humanos.
+
+Enlaces
+=========
+
+Wade, Nicholas. 2007. Scientist finds the beginnings of morality in primate behavior. *New York Times*, Science section, 3/20/2007. http://www.nytimes.com/2007/03/20/science/20moral.html
+
+
+/////
+
+Anterior: :doc:`CA622` | Siguiente: :doc:`CA640`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

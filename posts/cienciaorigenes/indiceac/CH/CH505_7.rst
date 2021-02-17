@@ -1,0 +1,46 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH500
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH505_7
+.. link: http://talkorigins.org/indexcc/CH/CH505_7.html
+.. date: 2004-1-5
+.. title: CH505.7: Los kurdos locales llevaron a Ed Davis al arca en 1943
+.. description: Respuesta a la afirmación creacionista «Los kurdos locales llevaron a Ed Davis al arca en 1943»
+.. type: afirmacrea
+
+El el verano de 1943, mientras un sargento del Ejército de los EE. UU. se encontraba en Hamadan, Irán, Ed Davis se hizo amigo de algunos miembros de una tribu local kurda (o "lurda", en el relato original de Davis), quienes le contaron sobre el arca de Noé en el monte Ararat. El arca y artículos provenientes de ella se consideraban reliquias sagradas, que se mantenían ocultas de los extranjeros, pero la amistad del matriarca con David lo convirtió en una excepción. Le mostraron artículos del arca, incluyendo la puerta de una jaula, cerrojos y bastones de pastor. Se describió a todos los artículos de madera como petrificados. El líder tribal Abas-Abas y siete de sus hijos llevaron a Davis hasta el lado noreste del Ararat, pero el mal tiempo les impidió acercarse a menos de 800 metros del arca. Pero Davis la vio; estaba dividida en tres o cuatro partes, de las cuales Davis vio dos; la más cercana tenía al menos tres pisos. Abas-Abas proporcionó otros detalles. El espacio habitacional para la gente estaba en la parte superior; el arca tenía una puerta con bisagras en la parte superior; se la construyó con clavijas de madera.
+
+**Fuente:**
+
+Shockey, Don, 1986. *Agri-Dagh, Mount Ararat: The Painful Mountain*, Fresno, CA: Pioneer Publishing.
+
+NoahsArkSearch.com, n.d. Ed Davis drawings from 1985-1986. http://www.noahsarksearch.com/DavisEd.htm
+
+Respuesta
+============
+
+1. Davis dijo que vio el Monte Ararat (Agri Dagh) desde Hamadan, y que viajaron hasta él en menos de un día. Pero el Ararat está a 400 millas de Hamadan. Davis originalmente describió a sus amigos como lurdos, que no viven cerca de la base del Ararat. (Davis luego cambió su historia para llamarlos kurdos, que viven en torno al Ararat.) Davis describió arroyos y cavernas en la montaña, que son raros en el Ararat. Davis probablemente visitó Kuh e Alvand, una montaña a sesenta millas al oeste de Hamadan, el cual creen los habitantes que es el lugar donde atracó el arca ([Crouse_1993]_).
+
+2. A partir de la descripción de Davis, el arca no era inalcanzable y mucha gente sabía su ubicación. Aunque su carácter sagrado hubiera impedido que se la mostraran a otros occidentales, noticias de su ubicación exacta deberían haberse extendido hasta los musulmanes. El arca no hubiera podido mantenerse en secreto con tanta facilidad.
+
+3. Partes de la historia de Ed Davis no son creíbles. Por ejemplo, habla de comida comestible conservada luego de 8.000 años, y aún así toda la madera está petrificada. No tiene corroboración: no hay testigos, fotografías ni artefactos. Pasó una prueba poligráfica, pero una que consistía sólo de seis preguntas, y mostró tensión inusual en la pregunta "¿Está mintiendo al afirmar que nadie le habló del arca salvo Abas y la Biblia?" ([Crouse_1993]_). La historia de Davis es consistente que vio unos bloques envueltos en niebla y le dijeron que eran el arca.
+
+Enlaces
+=========
+Lippard, Jim, 1993. Sun goes down in flames -- The Jammal Ark hoax. *Skeptic* 2(3), http://www.talkorigins.org/faqs/ark-hoax/jammal.html o http://www.skeptictank.org/hs/sunhoax.htm
+
+Referencias
+==============
+.. [Crouse_1993] Crouse, Bill, 1993. *Ararat Report* #32, Christian Information Ministries, International, 2050 N. Collins Blvd., Suite 100, Richardson, TX 75080. http://surge.ods.org/idle/religion/hoax1.htm
+
+/////
+
+Anterior: :doc:`CH505_6` | Siguiente: :doc:`CH505_8`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

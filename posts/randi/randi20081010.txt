@@ -1,0 +1,293 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. author: James Randi, traducción de Lucía Sierra
+.. title: ABC vuelve a perder la verguenza, por James Randi. La fe y la pizza, por Alison Smith. Crucero por el Atlántico Norte cancelado, por Phil Plait. "OVNIs" avistados en un encuentro escéptico en Nueva Zelanda, por Jeff Wagg. ¡Vosotros tambien podéis!, por Jeff Wagg. Prometedoras noticias desde África, por Jeff Wagg. Poniéndole un bonito lazo al escepticismo, por Brian Dunning. Un recurso escéptico olvidado, por Jeff Wagg. ¿Que será lo siguiente?, por James Randi. Crítica de Religulous, por Scott Hurst. Conclusión final, por Jeff Wagg
+.. date: 2008-10-10 00:00:00
+.. type: randi
+.. category: Traducciones de James Randi
+
+
+.. |tit| replace:: ABC vuelve a perder la verguenza, por James Randi — La fe y la pizza, por Alison Smith — Crucero por el Atlántico Norte cancelado, por Phil Plait — "OVNIs" avistados en un encuentro escéptico en Nueva Zelanda, por Jeff Wagg — ¡Vosotros tambien podéis!, por Jeff Wagg — Prometedoras noticias desde África, por Jeff Wagg — Poniéndole un bonito lazo al escepticismo, por Brian Dunning — Un recurso escéptico olvidado, por Jeff Wagg — ¿Que será lo siguiente?, por James Randi — Crítica de Religulous, por Scott Hurst — Conclusión final, por Jeff Wagg
+
+.. |autor| replace:: **Lucía Sierra**
+
+ABC vuelve a perder la verguenza, por James Randi
+.................................................
+
+La cadena de televisión ABC - USA - se encuentra entre las más populares cadenas televisivas. Los espectadores esperarían que esta compañía supiera presentar noticias y documentales con rigor y desde una perspectiva equilibrada. Tal vez sí sepan hacerlo, pero sus periodistas y editores utilizan generosamente sus poderes para tergiversar y destruir la integridad de la información que procesan, satisfaciendo así el voraz gusto del público por las presentaciones falaces, agradables y glamurosas que les mantienen engañados y desinformados.
+
+.. figure:: http://www.randi.org/images/commentary/200810/ncas.jpg
+   :alt:
+   :figwidth: 204
+
+El actual calendario mensual "Shadow of a Doubt" ["Sombra de duda"] de los National Capital Area Skeptics [NCAS] contiene un editorial que quiero compartir con nuestros lectores. Lo reproduzco aquí tal como lo he recibido.
+
+ Reciclando Basura En... Basura. El 16 de Septiembre, el programa de noticias Primetime, de la Cadena ABC, emitió "UFOs: Seeing is Believing" ["OVNIs: Ver para Creer"], presentado por David Muir. Si el título os suena vagamente, estáis en lo cierto: básicamente el mismo programa fue emitido por la misma cadena en Febrero del 2005, con Peter Jennings como presentador. Esta vez se han añadido cerca de 20 minutos de material nuevo (centrado en loa avistamientos de OVNIs de Enero del 2008 en Stephenville, Texas, así como en la Sonda de Marte Phoenix de la NASA). También se ha acortado el programa, de 2 horas a 90 minutos.
+
+ La conclusión principal, sin embargo, fue la misma: que la ciencia dominante ha ignorado los OVNIs, y que ya es hora de que se haga un verdadero estudio científico del tema.
+
+ Ninguna de las versiones del programa informó a sus muchos espectadores (más de 11 millones en 2005, y alrededor de la mitad esta vez, aunque suficiente para llevarlo al número 40 entre los programas de máxima audiencia de la semana) de que sí se habían llevado a cabo estudios científicos acerca de los OVNIs. El más completo de ellos fue el de la Universidad de Colorado, por encargo de las Fuerzas Aéreas Estadounidenses, entre 1966 y 1968. El informe final del estudio, titulado "The Scientific Study of Unidentified Flying Objects" ["El Estudio Científico de los Objetos Volantes No Identificados"] (también conocido como "The Condon Report" ["El Informe Condon"], en honor a su director científico, el conocido físico Edward U. Condon), está alojado exclusivamente en la NCAS, en http://www.ncas.org/condon, bajo permiso de los Regentes de la Universidad de Colorado.
+
+ No se trata de un oscuro estudio que Primetime pueda haber pasado por alto. De hecho, el informe final jugó un papel fundamental en la decisión de las Fuerzas Aéreas de terminar el Project Blue Book [Projecto Libro Azul], su largo estudio de los informes sobre OVNIs. En el programa aparece el comunicado de noticias de 1969 sobre dicha terminación, y en primer plano, de modo que la referencia a "El estudio científico de Objetos Volantes No Identificados" es evidente para cualquier espectador que tenga buena vista y utilice una grabadora de video digital.
+
+Además, el Informe Condon fue revisado en su momento por una comisión de la National Academy of Sciences [Academia Nacional de las Ciencias], que coincidió con sus conclusiones, incluyendo:
+
+  Un exhaustivo análisis del documento, tal y como se nos ha presentado, nos lleva a concluir que no es probable que la continuidad de los estudios sobre OVNIs, de cara a un avance de la ciencia en ese sentido, pueda justificarse.
+
+ ¿Omitieron los productores de Primetime toda mención al Informe Condon porque contradecía el principal argumento de su programa? Ya sea por omisión intencionada, o por insuficiente investigación, ABC News ha hecho un flaco servicio a su audiencia, haciéndoles creer que los científicos han escondido la cabeza debajo del ala en lo que a OVNIs se refiere. Y, por desgracia, el daño continúa: el canal National Geographic sigue emitiendo periódicamente el programa original, con Jennings.
+
+Efectivamente. Y es posible que National Geographic crea que esta presentación de medias verdades y farsa descarada representa la verdad sobre este tema. No señor. Es una creación demagógica de ABC News para engañar y entretener a los magufos. Deberían tener más juicio. Incluso los periodistas y editores de ABC-TV tuvieron a su alcance toda la evidencia. Y decideron ignorarla.
+
+Debo admitir que fui muy tolerante con este programa cuando se emitió en su primera edición - ver randi.org/jr/030405a.html#1 - pero, al ver que ABC ha decidido recuperar el mismo material sni corregir errores que perfectamente conocen, no puedo excusar su comportamiento. Por otra parte, no me sorprende en absoluto. Muchos de vosotros recordaréis un encuentro que tuve con Primetime - ver sindioses.org/randi/randi20050218.html -. Estoy muy familiarizado con sus engaños.
+
+.. image:: http://www.randi.org/images/commentary/200810/logo.jpg
+   :alt:
+   :align: right
+
+Para aquellos de nuestros lectores que estén en el área de D.C. el 11 de Octubre, a la 1:30 pm, los NCAS tendrán como invitada a Karen North, que hablará sobre "Defining Sex: Sex and Gender Misconception" ["La definición de los sexos: malentendidos sobre género y sexo"], en la Biblioteca de Bethesda. El provocativo logo, incluido a continuación, habla por sí mismo. Podéis encontrar más detalles en ncas.org.
+
+
+La fe y la pizza, por Alison Smith
+..................................
+
+.. figure:: http://www.randi.org/images/commentary/200810/pizza.jpg
+   :alt:
+   :figwidth: 224
+
+   Y Dios dijo: “Que haya pizza”, y vio que era buena.
+
+A menudo, cuando doy una charla o hablo con individuos que yo clasificaría como "creyentes en lo paranormal", se me pregunta si alguna vez he tenido una experiencia que pudiera clasificar como paranormal, o si ha sucedido alguna cosa que me haya hecho dudar de mis creencias.
+
+Se trata de una expresión extraña para mí, y no sólo porque el prefijo 'para-' tenga tantas definiciones (http://www.medterms.com/script/main/art.asp?articlekey=7885) [http://buscon.rae.es/draeI/SrvltConsulta?TIPO_BUS=3&LEMA=para-], incluyendo, a un tiempo, "más allá de" y "anormal", (lo cual supongo que convertiría a una experiencia paranormal en una experiencia normal anormal, y haría que me explotase la cabeza).
+
+Siempre me apoyo en las definiciones cuando escribo estos artículos, y juro que no es por atacar a nadie con la lápida de Noah Webster. Es sólo que, incluso si tuviese una experiencia paranormal, ¿con qué creencia acabaría? El escepticismo no es una creencia. Como ya mucha gente ha dicho, es un método. Sin embargo, en este punto, mi interlocutor me mira con cara de "estás eludiendo la pregunta", con lo que yo menciono la pizza, lo cual también suena como si estuviese eludiendo la pregunta, pero, en realidad, es una historia de total relevancia que paso a compartir con vosotros.
+
+Cierto día estaba yo discutiendo con un buen amigo sobre religión. Debería señalar en este momento que no soy atea, y que mi filosofía es muy difícil de explicar en unas cuantas palabras, con lo que lo dejaré estar por el momento y permitiré que penséis que rindo culto a Andhrimnir (figura mitológica escandinava que sacrifica un jabalí cósmico a diario).
+
+En aquel argumento, yo era la creyente. Antes de poneros nerviosos, considerad que no sabéis si creo que el único Dios verdadero es Andhrímnir, Jesus, o una tostada. (Me inclino por la tostada).
+
+Finalmente, el argumento se iba apagando, y ya sólo decíamos tonterías. My amigo proclamó que sólo creería en algún tipo de Dios si una pizza aterrizase ante su puerta. Evidentemente, no existía ningún servicio de reparto a domicilio que llegase al culo del mundo, donde mi amigo vivía. Así que decidí que ésta era la perfecta oportunidad para convertir a alguien a la Tostada, y llamé a otra amiga que vivía cerca (y a quien llamaremos "Shirley").
+
+Shirley accedió a traer la pizza a casa de mi otro amigo sin saber por qué lo hacía (lo cual indica, supongo, lo buena amiga que es. ¡Ya te llamaré si alguna vez necesito enterrar un cadáver, Shirley!)
+
+Por el camino, se detuvo a comprar una tarjeta de felicitación - insisto, sin ningún tipo de instrucciones por mi parte, y sin idea de la conversación que la estaba llevando con la pizza de uno a otro estado.
+
+La tarjeta era una fotografía de "La Creación de Adán" (ver imagen adjunta), sólo que en ésta, en lugar de intentar alcanzarse el uno al otro, Dios sostenía una pizza y Adán tenía dinero en su mano. Al abrirla, la tarjeta decía, "Y dijo Dios, 'Hágase la pizza' y estuvo todo muy bueno".
+
+Puede que ésta sea la coincidencia más curiosa de todos los tiempos. Que yo tuviera una amiga que vivía más o menos cerca, que ésta estuviera dispuesta a traer pizza (sin motivo aparente) a casa de mi otro amigo, que parase a comprar una tarjeta, y que en la tarjeta hubiese una imagen de Dios. Definitivamente, se trata de una experiencia normal anormal.
+
+Cuando cuento esta historia siempre me callo una parte fundamental, porque la arruinaría por completo.
+
+My amigo había dicho, específicamente, "si una pizza aterriza ante mi puerta".
+
+Shirley trajo tan sólo trozos de una pizza.
+
+Supongo que ahora mi amigo puede creer en trozos de Dios. O trozos de Tostada, lo cual, de hecho, tiene sentido.
+
+¿Que por qué cambio la historia? Porque es más interesante así. Aparte de que, como escéptica, creo que mucha gente que tiene experiencias parecidas a ésta también las embellece de alguna manera para que suenen mejor. Cuando alguien afirma haber visto un fantasma, por ejemplo, y se le presentan explicaciones, u objeciones, siempre tienen algún argumento para rebatirlas. ¿Será porque realmente es así como ocurrió, o porque es más interesante de esa manera? No tengo ni idea, pero la tentación de contar historias fascinantes es muy fuerte.
+
+Esto no quiere decir que yo no me crea lo que la gente me cuenta cuando comparten sus experiencias conmigo - Yo no estaba presente, y no puedo saberlo. Lo que si sé es esto: una historia de fantasmas para la que no me he preocupado de buscar una explicación más allá de "persona muerta" no es interesante, mientras que una para la que sí lo hice y aún así nadie consiguió explicarla, sí lo es.
+
+
+Crucero por el Atlántico Norte cancelado, por Phil Plait
+........................................................
+
+Sentimos anunciar que el crucero desde Inglaterra a los Estados Unidos, que estaba planeado para Septiembre del 2009, ha sido cancelado. Primero se retiró uno de los ponentes y luego la naviera tuvo que hacer un drástico cambio de itinerario, cancelando una escala en uno de los puertos canadienses, lo cual significaba que el barco estaría en alta mar durante cinco días seguidos. Aunque teníamos un buen programa de actos escénicos planeado, el estar tanto tiempo a bordo nos obligaba a buscar a un ponente más, lo cual era imposible, dada la falta de tiempo para prepararlo. Así que decidimos que sería mejor cancelar la participación de la JREF en el crucero.
+
+El crucero en sí sigue adelante, pero sin las actividades de la JREF, así que aún podéis ir si queréis. Si habéis hecho una reserva, por favor contactad con la agencia de viajes Absolutely Cruising, en el teléfono 800-794-7447.
+
+Tenéis tres opciones:
+
+ 1. Podéis cancelar vuestra reserva para el crucero, con lo que se hará un reembolso a la tarjeta de crédito que usasteis para el depósito. Dichos reembolsos se pagarán en siete días.
+
+ 2. Podéis cancelar la reserva para el crucero por el Atlántico Norte y utilizar el depósito para la Amazing Adventure 4 en la Riviera Mexicana (ver detalles abajo).
+
+ 3. Si aún os interesa el crucero, se os puede enviar un nuevo recibo. El coste será menor, dado que las actividades de la JREF, y el anticipo de las propinas NO estarán incluidos en el total.
+
+Recordad que el crucero por México de la Amazing Adventure 4 sigue organizado entre el 8 y el 15 de Marzo del 2009 [randi.org/joom/cruise-4-chasing-el-chupacabra.html]. Uníos a nosotros en esta aventura por cálidas aguas, pero recordad que la oferta de precio reducido sólo es válida hasta el 15 de Octubre. ¡Reservad vuestro camarote cuanto antes!
+
+
+"OVNIs" avistados en un encuentro escéptico en Nueva Zelanda, por Jeff Wagg
+...........................................................................
+
+.. image:: http://www.randi.org/images/commentary/200810/ufo.jpg
+   :alt:
+   :align: right
+
+El lector Nathan Granger nos ha alertado de un fenómeno un tanto alarmante que tuvo lugar durante una reunión escéptica en Hamilton, Nueva Zelanda. Parece ser que durante la conferencia que tuvo lugar allí a finales de Septiembre se pudieron ver, ¡e incluso fotografiar! una extrañas luces.
+
+¿Que serían? Lo que PUEDE que fuesen (y de hecho eran) es una demostración de lo fácil que es crear luces extrañas en el cielo. Empleando globos y luces LED, estos OVNIs por encargo se extendieron por el cielo sobre la comunidad agrícola de Hamilton. A la gente se le explicó lo que eran, y se les invitó a que pensaran críticamente sobre fenómenos parecidos que pudieran observar.
+
+El Walkato Times informó sobre el suceso (http://stuff.co.nz/4707186a6579.html). Un periodista le preguntó a la escéptica Vicki Hyde:
+
+ ¿Por qué (deberíamos) creer lo que los escépticos nos cuentan este fin de semana?
+
+La respuesta de Vicki fue muy clara:
+
+ No deberían. Deberían pensar de forma crítica, de la misma manera que piensan sobre las historias de los vendedores de coches usados, o la gente que afirma poder hablar con sus difuntos seres queridos.
+
+Nunca se dijo mayor verdad.
+
+
+¡Vosotros tambien podéis!, por Jeff Wagg
+........................................
+
+.. figure:: http://www.randi.org/images/commentary/200810/spoon.gif
+   :alt:
+   :figwidth: 260
+
+   Una cuchara doblada por la presentadora Nicole Whitney
+
+Randi escribió sobre esto por primera vez en el 2006, en `<randi20061201.html#oferta-sensacional>`__. Sí, volvemos a doblar cucharas. Pero esta vez tenemos un video.
+
+Según la empresaria Nicole Whitney:
+
+ Si pudieras de verdad doblar metal con tu mente, ¿qué más serías capaz de hacer?
+
+ ¿De qué no serías capaz?
+
+ Descubre ahora la respuesta a esta pregunta. Estás a sólo unos momentos de conocer la respuesta que podría cambiar tu vida.
+
+¿Descubrir la respuesta a la pregunta de de qué no sería capaz? Ya conozco un montón de respuestas. Según Natalie, en su programa, disponible ahora en el ingenioso dominio spoondbendingkit.com, existe un nivel II que nos permitirá doblar cucharas... mejor, imagino.
+
+Pero, a ver, ¿de qué estamos hablando?. ¿La cuchara se dobla mientras está encima de una mesa, o sobre su mano inmóvil? Pues no. Hablamos de una mujer que dobla una cuchara con las manos, a la vista de todos, y afirma que se trata del poder de su mente.
+
+¿No me creéis? Pues mirad esto: http://www.youtube.com/watch?v=et5NuqTCXgU. Efectivamente, amigos: vosotros podríais hacer lo mismo... como cualquiera que pueda hacer uso de sus muñecas y antebrazos.
+
+¡Ah! Que no se me olvide: muchos de vosotros YA HABEIS hecho esto, pero de una manera mucho más extraordinaria. He aquí... el mayor espectáculo de doblamiento de cucharas en la historia de la humanidad, presentado por el Profesor Richard Wiseman durante el Amaz!ng Meeting 6: http://www.youtube.com/watch?v=qTE9e2mZyqs.
+
+Corre el rumor de que el próximo video de Natalie será sobre cómo adivinar el palo de una carta puesta boca arriba por un voluntario.
+
+
+Prometedoras noticias desde África, por Jeff Wagg
+.................................................
+
+.. image:: http://www.randi.org/images/commentary/200810/Hogan.jpg
+   :alt:
+   :align: right
+
+Como tratamos, por última vez, `en esta columna, en agosto del 2007 <randi20070817.html#m-s-fantas-as-sudafricanas>`__, Sudáfrica cuenta con una triste historia de rechazo de tratamientos médicos razonables. Pero hay esperanza. La BBC informa (http://news.bbc.co.uk/2/hi/africa/7650983.stm) de que el Dr. Tshabalala-Msimang ha sido sustituído por La Sra. Barbara Hogan, quien afirma:
+
+ Apoyaría totalmente la distribución de antiretrovirales y cualquier manera en que podamos agilizarla.
+
+Teniendo en cuenta que la respuesta del Dr. Tshabalala-Msimang a la epidemia de SIDA era ajo y remolacha, parece que por fin podemos esperar que la medicina moderna empiece a tener algo que decir sobre tan serio y trágico problema.
+
+
+Poniéndole un bonito lazo al escepticismo, por Brian Dunning
+............................................................
+
+Me gustaría echar un trago con el maestro proveedor de peligrosa pseudociencia, el autor y especialista en marketing directo Kevin Trudeau.
+
+Por mucho que nos riamos de él por lo bajo por ser un cabronazo y vender aceite de serpiente, nos lleva ventaja en el mercado de la atención pública. Se está haciendo millonario con la venta de productos inútiles, mientras que la comunidad escéptica no saca prácticamente nada ofreciendo únicamente hechos científicos. En consecuencia, Kevin Trudeau tiene más dinero para marketing y propaga su mensaje mucho más lejos de lo que nosotros jamás podríamos hacerlo, consiguiendo que llegue a muchísima más gente.
+
+Por favor, no malinterpretéis esto como una defensa de Kevin Trudeau o gente semejante. Por dañinos que sean sus productos y sus mensajes, es interesante comprender también cómo y por qué es capaz de generar con ellos tanta atracción. Será lo que queráis, pero, por otra parte, es un vendedor excelente.
+
+Miro a mi alrededor en el Amazing Meeting y veo a un montón de pensadores críticos y científicos ingeniosos, pero también pienso lo importante que sería contar con alguna gente con el talento vendedor de Kevin Trudeau. En el escepticismo no se trata de hacer dinero, sino de ayudar a la gente. Sin embargo, como en el caso de un hospital o una revista, hacer dinero es necesario para sobrevivir. No es posible propagar un mensaje si no existe un presupuesto para ello.
+
+Por otra parte, el mensaje que ofrece el pensamiento crítico es el único "producto" que verdaderamente tiene valor. Nuestro mensaje protege a la gente contra el fraude, la empuja hacia la medicina basada en la evidencia, la preserva de un montón de paranoias y xenofobias. Ayudamos a la gente a tomar decisiones vitales acertadas basándose en la realidad.
+
+Y, sin embargo, nuestro mensaje está también en el extremo opuesto de las cosas fáciles de vender. No prometemos respuestas rápidas y sencillas, no aseguramos que nadie vaya a tener un control total sobre lo que sucede dentro de su cuerpo, no garantizamos súbitas riquezas, no le doblamos a nadie el kilometraje. Lo que aseguramos, en su lugar, es que tales metas son difíciles de alcanzar, y requieren un duro esfuerzo.
+
+¿Condena esta paradoja a la comunidad científica a la oscuridad e irrelevancia? ¿O es posible empaquetar el mensaje central del escepticismo de modo que resulte atractivo para sus destinatarios, el público en general?
+
+Yo creo que sí se puede. Es posible enseñar a cualquiera a ser escéptico. Más aún, obtendrán grandes beneficios de serlo, al contrario que los clientes de Kevin Trudeau. ¿Tenemos un mensaje que Oprah pueda querer promover? Es posible, si lo empaquetamos adecuadamente. A los escépticos nos gusta felicitarnos por ser los iluminados en un mundo de oscuridad, y eso está muy bien, pero no es tan útil como orientar esa luz hacia afuera. Estoy seguro de que la energía está ahí; sólo necesitamos más megavatios. Volvamos nuestra atención hacia esa fuerza y encontremos una manera de hacer que el escepticismo sea comercialmente viable.
+
+
+Un recurso escéptico olvidado, por Jeff Wagg
+............................................
+
+Estaba pensando en todas las organizaciones escépticas que hay por ahí... la JREF, la Skeptic Society (http://www.skeptic.com), CSI (http://www.cscicop.org), y me he dado cuenta de que nunca se menciona como recurso escéptico a una revista que yo llevo leyendo más de 30 años.
+
+Se trata de Consumer Reports (http://www.consumerreports.org), publicada por la Unión de Consumidores. Para aquellos que no estén familiarizados con la organización, es una asociación sin ánimo de lucro, que lucha para ofrecer a los consumidores información factual, basada en exámenes propios, sobre productos y servicios. Lo califican prácticamente todo, desde autos a barnices de madera, e informan sobre publicidad y empaquetado engañosos, así como productos retirados del mercado.
+
+Yo no estoy de acuerdo con todas sus conclusiones, y creo que frecuentemente meten la pata en cuestiones de equipo informático, pero, en general, su metodología es buena y recomendable para cualquier consumidor.
+
+Mis padres me regalaron una suscripción cuando era niño, y todavía hoy la leo. Nunca he comprado nada sin aplicar lo que allí había aprendido. De momento, no han tratado la física, pero tened en cuenta esta recomendación del número de Abril del 2008:
+
+ Comprueben si, en su etiqueta, los productos sin receta so clasificados como homeopáticos. Si es así, pensamos que deberían volverlos al estante.
+
+¿Os suena?
+
+
+¿Que será lo siguiente?, por James Randi
+........................................
+
+El lector Vincenzo informa:
+
+ He encontrado un artículo en un tabloide suizo según el cual Uri Geller tiene un nuevo programa en la televisión alemana en el que trata de establacer contacto con extraterrestres en directo... Uno de sus moderadores invitados es Erich von Däniken.
+
+Von Däniken es el autor de "Chariots of the Gods" ["Carros de los Dioses"], una ñoña visión de algunas maravillas naturales y otras observaciones que el autor entreteje para probar su idea de que todo tipo de especies alienígenas interplanetarias han visitado ya la Tierra y han dejado su rastro. En el describía impresionantes aventuras y revelaciones que había tenido en Perú mientras descubría estas maravillas, para al final admitir ante el público que jamás había estado allí.
+
+Vincenzo fue tan amable de mandarnos traducciones de los comentarios de los espectadores, omitiendo aquellos que se repetían.
+
+ Lo trágico de este asunto es que existen de verdad tontos que creen en estos charlatanes. Es triste.
+
+ Todo el mundo se pregunta por qué nuestra juventud se está yendo al garete... y ahí está la respuesta. En la estupidez colectiva. Muy triste.
+
+ Ciertamente existen poderes sobrenaturales, y seres extraterrestres. Geller es sólo uno de tantos que intentan hacer dinero con ello. Mirad en http://www.youtube.com, y encontraréis muchos videos que prueban que lo suyo es una estafa.
+
+ Una absoluta idiotez. Resulta trágico que se pueda engañar a la gente tan fácilmente. El peor es sin duda el mismo Uri (¿será un extraterrestre?), pero von Däniken (el soñador de parques misteriosos) no se queda atrás. ¡Ridículo!
+
+ ¿Cuatro charlatanes en un solo show? Esperemos que los extraterrestres no vean esto. De lo contrario, podrían pensar que estamos todos así de locos...
+
+ ¿Tendrá Pro7 contratos más allá de nuestra galaxia? Es otra manera de engañar a la gente, o intimidar a una buena parte, o hacer que sean presa del pánico. ¡Algo así no debería emitirse por televisión! Las señoras y los señores de Pro7 han caído muy bajo. ¡Fuera!
+
+ ¿Y los extraterrestres entenderán mejor el alemán o el hebreo? Quizás lo intente en Klingon la próxima vez.
+
+ Erich von Daniken está haciendo el ridículo apareciendo en un programa de televisión con esta gente.
+
+ La calidad de la televisión es alarmante. Y más alarmante aún es que estos falsos profetas tengan tantos espectadores. Señores, ¿a dónde va esto a llevarnos?
+
+ Aparentemente, alguien necesita dinero...
+
+ Von Daniken; por desgracia, los OVNIs no le ayudaron en Interlaken. [El lector se refiere al Mystery-Park de Daniken que acabó quebrando] ¿Fuerzas sobrenaturales? ¿Abramos los ojos?
+
+ Los que crean esta mierda son idiotas. Mirad en Youtube, donde se revelan todos los trucos del programa The Next Uri Geller [El Próximo Uri Geller].
+
+ Saludad a E.T. de mi parte.
+
+ Geller es el mayor charlatán de la tierra. ¡Mandadlo a Marte de una patada! Y que se lleve de paso este tonto programa.
+
+ Aburrido. Seguiré viendo DVDs.
+
+Además de los inevitables locos:
+
+ Menos mal que hay gente que cree en algo, y cuya imaginación va más allá del horizonte. Sin ellos la cosa sería aburrida y terrible, y seguiríamos viviendo en las cavernas. Por ese lado, le deseo mucho éxito al programa. Es mucho mejor que la mierda que emiten normalmente.
+
+ ¡Estoy deseando ver el programa! Däniken ha sido mi autor favorito desde la infancia, y espero que pueda demostrar en vida la veracidad de sus teorías. Quién sabe, a lo mejor hasta lo hace en directo en televisión.
+
+ ¡¡¡¡ Genial!!!! ¡¡Me encanta Uri Geller!!
+
+La sed de absurdo continúa.
+
+
+Crítica de Religulous, por Scott Hurst
+......................................
+
+.. image:: http://www.randi.org/images/commentary/200810/religuous.jpg
+   :alt:
+   :align: right
+
+El sábado por la tarde mi esposa y yo fuimos al centro a ver `Religulous <http://es.wikipedia.org/wiki/Religulous>`__. Yo tenía esperanzas, pero, desde luego, también algunas reservas, sobre lo que iba a ver. Si pasáis frecuentemente por aquí por randi.org, probablemente estaréis enterados de que Bill Maher es conocido por tener algún que otro punto débil en temas de pensamiento crítico (la medicina alternativa y PETA serían dos ejemplos). Así que, como primera buena noticia, diré que ninguno de esos puntos débiles aparecieron por ninguna parte, y que la película le salió redonda.
+
+La vi en Dallas, Texas. La primera sorpresa fue que había un lleno casi absoluto. La siguiente, que la sala entera se pasó toda la película riendo a carcajadas. La gente sentada a nuestro lado estuvo casi todo el rato literalmente doblada de la risa. Religulous es una película verdaderamente graciosa.
+
+Religulous está clasificada como documental, pero, habiéndola visto, esta claro que la intención era la de hacer una comedia. En su mayor parte nos ofrece, uno tras otro, fragmentos de dogma religioso que el siempre agudo ingenio de Maher despedaza. En general, el formato es de unos minutos de entrevista con el representante del punto de vista religioso, seguidos de un minuto o dos de Bill y su equipo charlando de camino a la siguiente localización. Aproximadamente la primera mitad de la película está dedicada a dogmas y creencias cristianas, mientras que la segunda se reparte entre Cienciología, Mormonismo, Islam y Judaísmo. Considerando el público destinatario, el público de los Estados Unidos, esta mezcla no es nada sorprendente.
+
+Bill viaja al Vaticano, el templo mormón de Salt Lake City, Temple Mount [el Monte de Templo], Answers in Genesis creation Museum [el Museo de las Respuestas sobre La Creación del Génesis], en Kentucky (donde entrevista a Ken Ham), y Holy Land [Tierra Santa], en Orlando, Florida, entre otros muchos lugares. La cantidad de locuras que pueden encontrarse en el Museo de la Creación y Tierra Santa no debería sorprender a nadie. A este crítico le resultó bastante perturbador ver a los visitantes de Tierra Santa asistiendo a una representación de la pasión. Material de video disponible previamente es utilizado para convertir en blanco fácil a gente como Robert Tilton, Ted Haggard, Jim Baker, y Jerry Falwell.
+
+Desde luego, esta película no es para todo el mundo. Los verdaderos creyentes la encontrarán terriblemente ofensiva. Los no creyentes le sacarán una carcajada por minuto. A los indecisos, esperemos, les dará qué pensar. Lo cual me lleva al por qué de que esta película pueda ser una película importante. Aparte de que probablemente convenza a muchos indecisos (sobre todo a los jóvenes), en ella se menciona que, con un 16% de la población, los no creyentes constituyen una de las más amplias minorías en América, y son mucho más numerosos que otras minorías que ya han encontrado su sitio. Maher se convierte en otra voz que nos ruega que nos hagamos oír. En sus últimos minutos, la película adquiere un tono serio, recordándonos sin tapujos los peligros de dejar que el país y el mundo estén gobernados por gente que cree en una interpretación literal de un texto sagrado, y que espera que el fin de los tiempos llegue cualquier día.
+
+
+Conclusión final, por Jeff Wagg
+...............................
+
+Este es el último Swift en este formato. A partir de ahora veréis artículos publicados individualmente, esperemos que a diario, en randi.org. ¡Se acabó esperar hasta el Viernes para enteraros de las últimas noticias en el mundo escéptico! Tendréis algo nuevo que leer cada día. Se nos unirán unos cuantos magníficos escritores invitados; a algunos ya los conocéis... y a otros os encantará conocerlos. Estad atentos. Este es el primero de muchos cambios que esperamos hacer.
+
+|firmarandi|
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: Traducido por Lucía Sierra
+    :description: ABC vuelve a perder la verguenza, por James Randi — La fe y la pizza, por Alison Smith — Crucero por el Atlántico Norte cancelado, por Phil Plait — "OVNIs" avistados en un encuentro escéptico en Nueva Zelanda, por Jeff Wagg — ¡Vosotros tambien podéis!, por Jeff Wagg — Prometedoras noticias desde África, por Jeff Wagg — Poniéndole un bonito lazo al escepticismo, por Brian Dunning — Un recurso escéptico olvidado, por Jeff Wagg — ¿Que será lo siguiente?, por James Randi — Crítica de Religulous, por Scott Hurst — Conclusión final, por Jeff Wagg

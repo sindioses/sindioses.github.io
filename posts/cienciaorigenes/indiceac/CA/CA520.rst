@@ -1,0 +1,49 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA520
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA520
+.. link: http://www.talkorigins.org/indexcc/CA/CA520.html
+.. date: 2004-09-01 02:00:00+00:00
+.. title: CA520: "El origen de las especies" no se refiere a la especiación
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «"El origen de las especies" no se refiere a la especiación»
+
+*El origen de las especies* no cumple la promesa de su título; no se refiere a la especiación.
+
+**Fuente:**
+
+Menton, David N. 1997. Species, speciation and the Genesis kind. http://www.gennet.org/facts/metro16.html
+
+Respuesta
+============
+
+1. No mucho, al menos. Sin embargo, la biología no se detuvo con Darwin. Desde entonces hemos aprendido mucho sobre el tema.
+
+2. Darwin explicó en detalle cómo una especie puede cambiar su forma gradualmente pero, a lo largo de extensos períodos, drásticamente. Incluso si las especies nuevas no se hubieran bifurcado de tal linaje, mucha gente aún consideraría ese proceso el origen de nuevas especies.
+
+3. Darwin propuso que la selección natural tenía un rol fundamental en la especiación, pero no entró mucho en detalles sobre el mecanismo. Ahora se cree que muchos surgimientos de especies no se producen debido a la selección natural, sino debido al aislamiento geográfico y la deriva genética (especiación alopátrica). Sin embargo, aún se considera que la selección natura juega un papel en otras especiaciones, como por ejemplo en la especiación debida a la especialización en distintos anfitriones ([Filchak_et_al_2000]_), y la selección natural impulsa a las especies incipientes hacia una mayor diversidad ([Presgraves_et_al_2003]_).
+
+4. Darwin escribió sobre especiación, incluyendo el rol del aislamiento geográfico, en otras obras ([Kottler_1978]_).
+
+Referencias
+=============
+
+.. [Filchak_et_al_2000]    Filchak, Kenneth E., Joseph B. Roethele and Jeffrey L. Feder. 2000. Natural selection and sympatric divergence in the apple maggot *Rhagoletis pomonella*. *Nature* 407: 739-742.
+.. [Kottler_1978]    Kottler, Malcolm J. 1978. Charles Darwin's biological species concept and theory of geographic speciation: the Transmutation Notebooks. *Annals of Science* 35: 275-297.
+.. [Presgraves_et_al_2003]    Presgraves, D. C., L. Balagopalan, S. M. Abmayr and H. A. Orr. 2003. Adaptive evolution drives divergence of a hybrid inviability gene between two species of Drosophila. *Nature* 423: 715-719. Véase también Holding, C., 2003. Driving Drosophila diversity. *The Scientist*, http://www.biomedcentral.com/news/20030612/02/
+
+Otras lecturas
+==================
+
+Otte, D. and J. A. Endler. 1989. *Speciation and Its Consequences*. Sunderland, MA: Sinauer Assoc.
+
+/////
+
+Anterior: :doc:`CA510_1` | Siguiente: :doc:`CA601`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

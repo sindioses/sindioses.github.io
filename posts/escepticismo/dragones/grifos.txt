@@ -1,0 +1,45 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. title: Grifos y buscadores de oro
+.. category: Escepticismo
+.. type: escepticismo
+.. author: Juan Carlos Cisneros
+.. date: 2004-05-29
+
+.. figure:: grifo.jpg
+   :alt:
+   :figwidth: 300
+   :figclass: align-right
+
+   Grifo, escultura griega en bronce
+
+.. class:: primera
+
+Los grifos han inspirado las artes en el medio oriente y en occidente durante siglos. Feroces guardianes del oro, se han incorporado a escudos y a estandartes de guerra de varias naciones.
+
+Al igual que el dragón oriental, el mito del gripho o grifo puede también tener su origen en el desierto de Gobi, una de las localidades fosilíferas más ricas del mundo. Más exactamente en antiguas observaciones de restos de dinosaurios ceratópsidos tales como **Protoceratops, Psittacosaurus, Leptoceratops** y otros, frecuentemente encontrados ahí por los paleontólogos de la actualidad. La semejanza entre estos dinosaurios que vivieron en el período Cretácico (entre 144 y 64 millones de años atrás) y la descripciones del grifo son muy llamativas. Los ceratópsidos primitivos eran dinosaurios herbívoros de tamaño mediano dotados de un característico pico, algunos eran bípedos, pero la mayoría eran cuadrúpedos.
+
+La descripción antigua del grifo como un animal con cuerpo de león y cabeza de águila (posteriormente se le añadirían alas) se ajusta sin necesidad de mucha imaginación a estos dinosaurios. Herodoto, Esquilo y Plinio el Viejo ubican a los grifos en montañas de las tierras de los escitas, en donde custodian ferozmente el oro.
+
+Adrienne Mayor, folclorista de la universidad de Princetown, sugiere que el mito del grifo halla sido llevado a occidente por los escitas, quienes prospectaban oro en el desierto de Gobi y en otras áreas desérticas del Asia Central, y más tarde lo comerciaban con los griegos y otras culturas de la antigüedad. Durante sus actividades de extracción del oro los escitas deben haber observado atentamente los restos fósiles de dinosaurios ceratópsidos como los antes mencionados, frecuentes en esas regiones. Sus interpretaciones de éstos fósiles se habrían diseminado en el mundo antiguo en forma de relatos de extraordinarios animales con cuerpo de león y cabeza de águila, grifos, quienes están siempre cerca del oro.
+
+.. figure:: protoceratops.jpg
+   :alt:
+   :figwidth: 460
+   :align: center
+
+.. figure:: psittacosaurus.jpg
+   :alt:
+   :figwidth: 460
+   :align: center
+
+   Arriba: **Protoceratops**, abajo: **Psittacosaurus**; dinosaurios ceratópsidos cuyos restos son comúnmente encontrados en el desierto de Gobi.
+
+
+-----
+
+Volver a `Dragones y dinosaurios`__
+
+__ dragonesydinos.html
+
+
+.. include:: includes/escep_medalt_pie.inc

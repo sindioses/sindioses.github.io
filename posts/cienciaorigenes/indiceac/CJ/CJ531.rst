@@ -1,0 +1,48 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CJ531
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CJ531
+.. link: http://talkorigins.org/indexcc/CJ/CJ531.html
+.. date: 2003-12-01
+.. title: CJ531: El Corán habla de un universo en expansión
+.. description: Respuesta a la afirmación creacionista «El Corán habla de un universo en expansión»
+.. type: afirmacrea
+
+Dice (51:47): "Y somos Nosotros quienes construimos el cielo con poder, y en verdad quienes lo expandimos continuamente". Esto indica el origen divino del Corán y por lo tanto su exactitud.
+
+**Fuente:**
+
+Yahya, Harun, n.d. *Miracles of the Qur'an,* http://www.harunyahya.com/miracles_of_the_quran_01.php
+
+Respuesta
+=============
+
+1. La traducción de más arriba está errada o en el mejor de los casos es forzada. Mejores traducciones de la última cláusula son "somos los que lo enriquecen" ([Pangloss_2003]_) o "somos quien creó la vasta extensión" ([Pickthall_n_d]_).
+
+2. El siguiente verso (51:48) dice: "Y la tierra Hemos extendido". Las suras 51:47-48 parece ser una traducción tosca de {{% biblia "Isaías 42:5" DHH %}}: "Dios, el Señor, que creó el cielo y lo extendió, que formó la tierra y lo que crece en ella, que da vida y aliento a los hombres que la habitan [...]". Si se asigna origen divino de acuerdo con estos versos, el crédito debería atribuirse a la Biblia, no al Corán.
+
+3. La interpretación de la expansión no fue descubierta hasta que se hizo bien conocida la expansión del universo por medio de observaciones científicas. Si Alá tenía la intención de que el Corán señalara un universo en expansión, los versos indican que Él no era competente para comunicarse con claridad.
+
+Enlaces
+========
+
+Pangloss, Abdul-Kalaam, 2003. The Qur'an and the Big Bang. http://www.geocities.com/freethoughtmecca/bigbang.html
+
+Referencias
+===============
+
+.. [Pangloss_2003]    Pangloss, 2003. (Véase arriba)
+.. [Pickthall_n_d]    Pickthall, Marmaduke, n.d. The Meaning of the Glorious Koran, New York: Dorset Press.
+
+
+/////
+
+Anterior: :doc:`CJ530` | Siguiente: :doc:`CJ533`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

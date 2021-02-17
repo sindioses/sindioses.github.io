@@ -1,0 +1,32 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CB928: ¿Por qué las características positivas no evolucionan con más frecuencia?
+.. description: Respuesta a la pregunta creacionista «¿Por qué las características positivas no evolucionan con más frecuencia?»
+.. slug: CB928
+.. link: http://www.talkorigins.org/indexcc/CB/CB928.html
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-07-01
+
+Si las alas eran beneficiosas para los protopájaros, ¿por qué no evolucionaron en las gacelas y los simios?
+
+Respuesta
+=========
+
+1. Diferentes organismos sobreviven de diferentes maneras, de modo que una característica beneficiosa para un organismo puede no serlo para otro. Por ejemplo, si la capacidad de comer cierto tipo de semilla dura es beneficiosa para un pájaro, puede no ser beneficiosa para otra por la simple razón de que el primer pájaro ya tiene un monopolio sobre esas semillas.
+
+   Las caracteristicas beneficiosas también tienen desventajas. Normalmente cuesta energía adicional hacerlas crecer y usarlas, y a menudo tienen otros costos. Si las ventajas una característica no superan a sus desventajas, no evolucionará. La existencia de un organismo que ya tiene la característica con frecuencia significa que no vale la pena que la desarrolle otro organismo.
+
+2. La evolución puede funcionar exclusivamente (o casi, puede haber raras excepciones) haciendo ligeras modificaciones en características existentes. La mayoría de las modificaciones deben tener valor adaptativo. Si la materia prima para una característica no existe, esa característica no evolucionará aunque sea beneficiosa.
+
+
+/////
+
+Anterior: :doc:`CB926` | Siguiente: :doc:`CB928_1`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

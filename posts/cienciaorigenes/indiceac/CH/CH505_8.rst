@@ -1,0 +1,42 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH500
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH505_8
+.. link: http://talkorigins.org/indexcc/CH/CH505_8.html
+.. date: 2004-1-6
+.. title: CH505.8: Ed Behling fue conducido al arca en 1973
+.. description: Respuesta a la afirmación creacionista «Ed Behling fue conducido al arca en 1973»
+.. type: afirmacrea
+
+Ed Behling, un psicólogo clínico que trabajaba para el gobierno de los EE.UU. en Turquía, fue conducido al arca de Noé en el Ararat en 1973 por un pastor turco muy viejo. Lo vio sobre un acantilado a unos 30 metros sobre él en condiciones neblinosas. El frente estaba roto; su sección cruzada era básicamente cuadrada. Vio entre 50 y 70 metros del mismo, antes de que fuera ocultado por la nieve.
+
+**Fuente:**
+
+Shockey, Don, 1986. *Agri-Dagh, Mount Ararat: The Painful Mountain*, Fresno, CA: Pioneer Publishing, pp. 35-36.
+
+Respuesta
+============
+
+1. La historia de Behling es probablemente un fraude. Se ha negado a hablar sobre sus afirmaciones desde mediados de la década de 1980, luego de que investigadores del arca lo interrogaran sobre muchas inconsistencias en la historia. Por ejemplo, mencionó haber hecho una fogata a 4.000 pero se negó a decir cómo lo consiguió. Sus amigos describen a Behling como un cristiano sincero pero que tendía a exagerar para crear efecto ([Crouse_1993]_).
+
+2. Si fuera cierta, la historia de Behling plantea la cuestión de por qué Behling nunca procuró continuar uno de los más notables descubrimientos de todos los tiempos. También la hace parecer implausible el hecho de que el arca haya seguido oculta. Behling dice de su guía: "se veía como si hubiera estado muerto por cinco días y no cayera porque no se había enterado", así que el viaje al arca no podría ser demasiado difícil.
+
+Enlaces
+=========
+Lippard, Jim, 1993. Sun goes down in flames -- The Jammal Ark hoax. *Skeptic* 2(3), http://www.talkorigins.org/faqs/ark-hoax/jammal.html o http://www.skeptictank.org/hs/sunhoax.htm
+
+Referencias
+=============
+
+.. [Crouse_1993]    Crouse, Bill, 1993. *Ararat Report* #32, Christian Information Ministries, International, 2050 N. Collins Blvd., Suite 100, Richardson, TX 75080. http://surge.ods.org/idle/religion/hoax1.htm
+
+/////
+
+Anterior: :doc:`CH505_7` | Siguiente: :doc:`CH508`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

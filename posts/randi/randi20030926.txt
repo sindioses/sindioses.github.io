@@ -1,0 +1,337 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Traducciones de James Randi
+.. author: James Randi, traducción de Marcelo Huerta San Martín
+.. date: 2003-09-26 00:00:00
+.. type: randi
+.. title: ¿Geller un burlador?, pollos resucitados, y un análisis de una "lectura" lamentable.
+
+.. |tit| replace:: ¿Geller un burlador?, pollos resucitados, y un análisis de una "lectura" lamentable
+.. |autor| replace:: **Marcelo Huerta San Martín**
+
+.. image:: http://www.randi.org/images/092603-GellerSpoonA.jpg
+   :alt: [¿Burlador / Ilusionista?]
+   :align: right
+   :width: 200
+   :height: 367
+
+.. class:: primera
+
+De un comentario de CBS-TV News, sobre el descortés recibimiento a la hazaña de David Blaine en Londres, extraemos:
+
+    Y no le ha gustado a su buen amigo y compañero ilusionista/burlador Uri Geller.
+
+¡Epa! ¿Es un juicio en puerta lo que presiento? Seguramente el cuñado de Geller (quien se considera un águila para los litigios) exigirá legalmente una "corrección" y una "disculpa" por parte de CBS, probablemente diciéndoles que quieren una retractación a página completa en el New York Times como compensación. Geller ya está haciéndole juicio a John Stossel de ABC-TV, y ahora seguro que tendrá que atacar también a CBS. Sabemos cuán sensible es Uri, y con cuánta determinación lanza abogados hacia aquellos que lo molestan u ofenden (sin éxito alguno que sepamos), pero ciertamente eso le da el perfil que busca... y necesita.
+
+
+.. class:: trans
+
+-----
+
+El lector Tony Perkins en Australia nos ha hecho notar un truco que se sabe utilizan ciertos evangelistas y sanadores por la fe (más allá del auricular en el oído y el truco del alargamiento de la pierna). La famosa Jan Crouch, quien recientemente prefirió una cirugía normal en lugar de confiar en Jesús (como hubiera alentado a hacer a sus seguidores) ahora ha estado publicitando su recuperación "milagrosa". ¡Pero se sabe que Jan ha vuelto a la vida pollos por medio de la plegaria! El televangelista de gran popularidad Benny Hinn incluso afirma que fue la presentación de Jan de este milagro lo que lo impulsó al ministerio. Explica Tony:
+
+		.. image:: http://www.randi.org/images/092603-jan.jpg
+		   :alt: [Jan Crouch]
+		   :align: right
+		   :width: 300
+		   :height: 196
+
+    Cualquiera que haya vivido en un ambiente de granja, como lo hizo Jan, se habrá encontrado con el truco de salón de "revivir al pollo". La clave es "matar" primero a la desafortunada ave, sin que la audiencia lo vea (por supuesto) acariciándolo de manera lenta y rítmica en la espalda, desde el cuello hacia la cola. Cuando se trae el ave "muerta" (normalmente "acabada de atropellar por un auto" o algo así) a la habitación, envuelta en mucho histrionismo, tiene lugar la resurrección. Luego de un minuto o dos, durante los cuales se ofrecen plegarias al Doctor Jesús, y se hace la versión de Oral Roberts de la imposición de la mano derecha mágica, el pollo "revive" y se escapa. Impresionante cuando se lo ve la primera vez. Normalmente se llama a los chicos granjeros para que hagan el truco para entretener a los invitados y amigos; los que saben cómo funciona simulan haber sido sorprendidos, tal como estoy seguro que lo estuvo en esta etapa formativa de su carrera el no muy perceptivo Benny Hinn.
+
+La señora Crouch podría esconder otro pollo vivo en ese pelo, y aún tendría lugar para uno o dos patos...
+
+
+.. class:: trans
+
+-----
+
+El asunto del "Bambú Amarillo" que mencioné la semana pasada parece estar *lleno* de material interesante. Estoy esperando la llegada del registro completo en video de ete evento, más las respuestas a las preguntas básicas que hice sobre el participante en el demo. Por supuesto, el grupo del BA estuvo en todas partes en Internet celebrando este hecho, y con ruidosas exigencias de que yo aparezca inmediatamente en Bali para ver el milagro en persona. Bien, no precisament eun milagro. Hay bastantes pistas en lo que ya he visto, y un video clip muy corto --doce segundos-- del "momento de la verdad" que celebran. Lo pondré aquí para que los lectores puedan comentar sobre él, y ver si también llegan a la conclusión tentativa que yo tengo. Sólo recuerden que mi protocolo exigía que el señor Joko Tri simplemente caminara y tocara a su "superhombre" Nyoman Serengen en una pierna con una caña de bambú *pequeña*, lo cual no se cumplió, por una razón u otra. Más cosas fascinantes en el futuro...
+
+`Haga clic aquí para ver el video de "Bambú Amarillo" (está en el sitio de James Randi) <http://www.randi.org/jr/yellowbamboo.mpg>`__
+
+
+.. class:: trans
+
+-----
+
+.. image:: http://www.randi.org/images/092603-Peter-H.jpg
+   :alt: [Peter H]
+   :align: right
+   :width: 55
+   :height: 94
+
+.. |JJ| replace:: *Jeugdjournaal*
+
+El lector Peter Hoogerbrugge, de Rotterdam, Países Bajos, escribe:
+
+    La televisión pública de los Países Bajos transmite un programa de noticias dirigido a los niños, llamado "|JJ|" (literalmente: noticias para jóvenes). Por lo general es un programa agradable en el que los realizadores se ocupan de las noticias diarias de forma que los niños entre 6 y 12 años puedan abarcar con facilidad.
+
+    La semana pasada decidieron mostrar un segmento sobre un veterinario que practicaba acupuntura en un dragón de Komodo. La voz en segundo plano les decía a los jóvenes televidentes que ninguno de los tratamientos normales había funcionado, pero que (gracias a la acupuntura) el dragón ya estaba mucho mejor. El veterinario afirmaba haber curado a muchos animales usando esta técnica. Además de todo eso, los realizadores de la nota mostraron una secuencia animada en la cual le enseñaron a los niños el marco teórico de la acupuntura. Todo el tema de la acupuntura fue exhibido como un hecho indiscutible. No hubo ni una pizca de escepticismo.
+
+    Me indigné, porque mi hija de doce años mira el |JJ| con regularidad y sé que muchos de sus amigos lo hacen. Escribí una carta furiosa a los editores del |JJ|. Señalé el error de su enfoque y la responsabilidad que le debían a su joven audiencia.
+
+    Recibí una pronta respuesta. El editor en jefe me escribió que era consciente de las opiniones contrarias a la acupuntura y aceptó que la nota podría haber sido más equilibrada. Sin embargo, la vida sigue, y supuestamente no se puede esperar que el |JJ| repare el daño que han causado. Es su trabajo informar y entretener, pero aparentemente no es su trabajo hacerlo de manera responsable.
+
+    ¿La moraleja de esta historia? Miles de escépticos pueden trabajar durante años educando al público, pero sólo se necesita un segmento de dos minutos en televisión para envenenar con nociones pseudocientíficas a toda una generación de niños impresionables. Un triste pensamiento.
+
+Entretenimiento y anunciantes son las *únicas* cosas en las que están interesados, Peter. Me he encontrado esta falta de responsabilidad muchas veces.
+
+.. class:: trans
+
+-----
+
+La semana pasada dije que presentaría la disección de una lectura fría "auténtica". El siguiente extracto de una videocinta de tal lectura realizada en el programa del Reino Unido del que hemos estado hablando, dura 7 minutos y 10 segundos. Mis comentarios aparecerán en negritas. Interrumpiré el diálogo para indicar las reacciones del sujeto de este juego de adivinanzas. "KC" es el "médium psíquico" Keith Charles, un nombre artístico adoptado por el ex oficial de policía Keith Charles. La "Conductora" es Kate Galloway. Debo agradecerle a Kelli, nuestra interna aquí en la JREF, por sus útiles comentarios, y a Tony Youens por sus valiosas sugerencias. Y si los lectores tienen otras observaiones, me encantará recibirlas. El señor Charles, luego de saludar a su audiencia, comienza:
+
+.. image:: http://www.randi.org/images/092603-KeithCharles.jpg
+   :alt: [Keith Charles]
+   :align: right
+   :width: 200
+   :height: 226
+
+KC: Lo que me gustaría pedirles que hicieran, a cualquiera que esté aquí esta noche, ya sean escépticos o creyentes, quiero que sean honestos, ¿de acuerdo? Con suerte, y Kate lo ha escuchado, dije que "contactaría a los muertos". Pero ellos *no están* muertos. *Están* vivos y esperamos que haya alguien que quiera venir y hablar con nosotros esta noche.
+
+**Caray, ¡estaría sorprendido si "alguien" no estuviera preparado para aparecer y hacer un poco de refutación profesional! Y note el tema de toda esta cháchara: los muertos en verdad no están muertos. No se les podría ofrecer mejores noticias a los dolientes, y estas son las personas de las que se alimentan estos "médiums".**
+
+KC: Bueno. Eh, tengo a un señor que, eh, intenta comunicarse conmigo en este momento. Me, eh... me hace sentir... hay una señora, tiene la mano así *(hace el gesto)*. Perdone que le apunte *(la señala)*, viste de azul, y tiene la mano delante de la cara, señora. Bueno, ¿le importaría decirme su nombre, por favor?
+
+Sujeto: Tracy. *(Sonríe.)*
+
+**Un momento. Si este "señor" espíritu está tratando de comunicarse con Tracy, ¿no le daría a Charles su nombre de inmediato? ¿Entonces por qué Charles tuvo que preguntar?** *Porque no lo sabía.* **La persona que ha elegido está un poco desaliñada, se ve aturdida y nerviosa, y parece haber llorado mucho.**
+
+KC: Tracy. Hola, Tracy. Voy a describir a un caballero que está aquí comunicándose conmigo. Se siente como una figura paterna hacia tí. Es un caballero que falleció debido a un ataque cardíaco. No sé quién es Michael en la familia...
+
+Sujeto: *(Se tapa la boca con la mano.)*
+
+**Como señala Tony Youens, Charles usa los nombres "John", "Michael" y las relaciones: "figura paterna", "madre", pero nunca combina las dos cosas; eso podría comprometerlo con una conexión que podría estar equivocada. Tony también notó que Charles nunca "describe al caballero" en lo absoluto. Sólo menciona su corazón. Eso no es una "descripción" en lo absoluto. Si lo hubiera descrito, por supuesto habría mayor posibilidad de error.**
+
+**Y en relación con la treta de la "figura paterna": si no adivina con el "padre", puede convertirse en un abuelo, hermano mayor, amigo de la familia, tío o incluso su empleador. Es una frase flexible utilizada con frecuencia por los "lectores en frío". Pero Charles se apura sin obtener verificación ni permitirle corregir la suposición si está equivocada. De hecho, muchas suposiciones aquí quedan sin verificar, y Charles las pasa por alto rápidamente, como veremos más adelante. Nótese también el uso del truco del "no sé"; este es un método (que Charles usa dos veces en esta lectura) para alentar a la víctima a proporcionar la respuesta que Charles no "sabe".**
+
+KC: ... pero se está refiriendo a Michael en la familia. ¿Usted comprende esto?
+
+**De nuevo comenta Tony Youens: "Esto es lo mismo que preguntarle directamente: '¿Hay alguien en su familia que se llame Michael?' ¿Y en qué sentido el espíritu está 'refiriéndose a Michael'?".**
+
+**Este es un método probado de obtener cabeceos de asentimiento, o un "sí", en respuesta a una pregunta simple: preguntarle si** *"entiende" lo que se le acaba de decir* **, en modo alguno significa que ella está de acuerdo con la observación, pero el asentimiento o el "sí" puede ser tomado por los observadores como una verificación. Charles usa este truco cinco veces en esta breve lectura.**
+
+Sujeto: *(Asiente.)*
+
+KC: También me dice, y sé que suena raro (pero tengo que trabajar con lo que él me da) que hay también una mascota que han perdido hace poco...
+
+Sujeto: (Sonríe, mira a su amiga, pone su mano sobre toda su cara, y niega incrédulamente con la cabeza.)
+
+**Tony observa que "perdido" puede significar que se escapó o que ha muerto. La palabra sirve para ambas posibilidades. Lo de la mascota es una apuesta segura, especialmente en el Reino Unido, donde los animales son muy populares, y una proporción muy grande de los hogares tiene uno. Nótese que esta mascota podría ser un perro, un gato, un canario, un loro, un pony, un ratón, un hámster, un conejo o una docena de otros. No se especula sobre ello. También, Charles está preparándola para culpar al "espíritu" en caso de que él (Charles) haga una suposición equivocada. La reacción de este sujeto es suficiente para que él asuma que se aceptó su especulación de que había una amscota, y la sigue inmediatamente de la frase habitual, sabiendo que será aceptada. Adjudica una frase al "espíritu", como algo que se le ocurre a última hora, diciendo:**
+
+KC: ... porque él habla de que tiene una mascota.
+
+**Ahora Charles empieza una serie rápida de suposiciones, sin detenerse hasta que vea algún signo del sujeto de que obtuvo un "acierto".**
+
+KC: Y, o bien enterró esta mascota en el jardín y cree que fue un error, o lo que hizo con esta mascota es extraño. Perdón por decirlo, pero así me lo está diciendo él.
+
+Sujeto: *(Se ve confundida)*
+
+KC: Ahora también está hablando sobre Michael. Se refiere a Michael y hay un John. No sé si es Michael, si es John... si es Michael John, o Michael *y* John. Pero está ubicando juntos a Michael y John. ¿Entiende esto?
+
+Sujeto: *(Asiente)*
+
+**La suposición sobre el entierro de la mascota no funciona, pero tanto "Michael" como "John" le provocan una reacción. También le hace optar por continuar con Michael o con John. Piénselo: si le hubieran ofrecido** *a usted* **a Miguel o Juan como presunciones, ¿se identificaría con uno de ellos, o con ambos? Recuerde, no se dijo nada acerca de quiénes son o eran estas personas; pueden estar vivos o muertos, y aún así considerarse "aciertos". En este punto se puede elegir a hijos, hermanos, todos los familiares masculinos de cualquier rama de la familia, vecinos, amigos (incluyendo compañeros de colegio olvidados hace mucho tiempo), compañeros de trabajo.** *¡Con esos nombres no se puede perder!*
+
+KC: Me hace sentir que agosto... sé que vamos... vamos al mes de agosto, ahora estamos en el mes de agosto. Pero me muestra un aniversario o cumpleaños cerca del 21 o 22 de agosto que se relaciona con usted.
+
+Sujeto: *(Sus ojos giran a un lado y a otro; está intentando hallar una relación, pero no encuentra ninguna.)*
+
+**Charles usa un modificador, "Me hace sentir...", que sirve como atenuante si comete un error; tiene una "sensación" que puede estar equivocada, pero quizá no "escuchó" correctamente al espíritu. Y "cerca del 21 o 22 de agosto" puede ser unos pocos días antes o después, incluso puede que se lo acepte por "agosto" solamente. A este período puede asignársele** *cualquier* **evento: cumpleaños de cualquiera, aniversarios de casamiento, nacimientos, o muertes, o la fundación de una empresa. El campo es enorme, y Charles espera que ella encuentre una conexión y le diga a qué atribuirle esta adivinación. Pero fracasa.**
+
+KC: Y... me hace sentir que cuando fue al cielo... (pausa) bueno, con esta condición cardíaca no fue el primer ataque al corazón, el primer problema al corazón que él tuvo. Había visitado dos hospitales...
+
+Sujeto: *(Mira a la derecha, buscando una conexión.)*
+
+**Recuerde, una gran parte de las muertes masculinas son por problemas cardíacos, en el Reino Unido son alrededor de uno de cada cuatro, y hay varias tipos de "problemas". En esta "lectura", Charles eligió esta ruta para seguir. Luego, al no obtener confirmación de su suposición de los "dos hospitales", le da una posibilidad alternativa. No sabemos, ni descubrimos, si acierta con ella, porque él opta por salir de ella con el "entendimiento".**
+
+KC: ... o habría estado en un hospital dos veces por su problema al corazón, dígame, ¿usted entiende esto?
+
+Sujeto: *(Asiente con la cabeza.)*
+
+KC: Porque me está diciendo que hay (tengo que decirle esto) hay algo acerca de que usted se siente culpable por no estar allí en una ocasión. Lo... lo siento mucho, sólo voy a decirle lo que él me dice sobre usted. ¿Está bien? Si me lo permite. Él sabe de cierto problema que tuvo con su pie izquierdo, por esa zona, tendría que haber una cicatriz, o algún problema por la zona, porque él me dice que usted tuvo una caída, ¿está bien?
+
+Sujeto: *(Se ve confundida.)*
+
+**Caray. Este es otro de los trucos comunes usados en las lecturas frías. Involucrar la culpa es un juego seguro; ¿cuántos de nosotros hemos perdido a un ser querido y no hemos sentido "si hubiera sabido que iba a morir, hubiera..."? Charles volverá con esto, más adelante. No recibe confirmación de esta primera conjetura, así que sin detenerse en lo absoluto, agrega apurado lo de "la cicatriz o problema" y "la caída", ninguno de los cuales funciona tampoco.**
+
+KC: Pero me habla sobre usted. Muy bien. Está muy contento de estar aquí...
+
+Sujeto: *(Sonríe, se seca los ojos.)*
+
+**¡Un minuto! ¿Quién se supone que es este "señor"? No se da nombre ni relación, pero Tracy lo acepta. Tenga en cuenta que "está muy contento de estar aquí" es una de esas frases reconfortantes a las que los lectores en frío son tan aficionados, una forma de salir de una secuencia cuando etán en problemas. No quiere decir nada, pero si se cree lo que está sucediendo, es lindo que lo digan. ¿De verdad cree que un "espíritu" informará al sujeto que** *detesta* **estar allí, en contacto con un ser querido? Esto es relleno, un comentario necio, pero es útil cuando uno se queda trabado.**
+
+KC: ... está tan contento, y, me está diciendo ahora que usted, usted no esperaba comunicarse con él esta noche. Pero esperaba comunicarse con él en alguna otra oportunidad.
+
+Sujeto: *(Asiente.)*
+
+KC: Se está sacando un anillo y se lo está dando a usted, ¿está bien? ¿Tiene usted un anillo que pertenece a su *mamá*, no a él, sino a su mamá, y lo está usando?
+
+Sujeto: *(Niega con la cabeza.)*
+
+**Este es, de nuevo, un truco común y habitualmente exitoso: la joya. Con frecuencia, como sabemos, una hija hereda el anillo de su madre. Pero este muy probable "éxito" resulta ser un fracaso, que Charles decide desafiar, ¡como si él (o el espíritu) supieran del asunto más que la persona misma! Pero ha errado tanto en esta lectura que tiene que luchar para conseguir un éxito.**
+
+KC: ¿Está segura?
+
+Sujeto: *(Asiente.)*
+
+**"¿Está segura?". Charles usa esto tres veces en esta lectura. Es una confrontación que funciona muy bien cuando el sujeto, analizando las posibilidades como se le pide hacer, recuerda algo que "encaja" en una conjetura previamente negada; la animada respuesta "¡ya me parecía!" siempre obtiene murmullos de aprecio en la audiencia.**
+
+KC: ¿Podemos averiguar? ¿Está bien? Usted dice que no, él dice que sí. ¿Podemos conversar de esto usted y yo?
+
+Sujeto: Ajá.
+
+KC: No quiero discutir, me gustaría conversar de esto con usted. Si yo fuera a su habitación... ¿está bien?... imagine que está en su habitación.
+
+Sujeto: *(Asiente.)*
+
+KC: Hay una cajonera, abajo a la derecha de la cama.
+
+Sujeto: *(Luce confundida, mira alrededor.)*
+
+KC: Así llegó allí... parece que lo pusieron allí durante el fin de semana, el último fin de semana. Usted movió algunos muebles en su habitación.
+
+Sujeto: No. *(Niega con la cabeza, se ve confundida.)*
+
+**Aquí, Charles, cambia de una "cajonera" específica a simples "muebles" y amplía el campo desde "abajo a la derecha" a la "habitación", más general, tal como señala Tony. Espera encontrar cualquier alteracion que pueda haber cambiado de lugar un anillo. Si acierta con esto, la conjetura errónea sobre la joya será olvidada; pero falla, y discute con ella.**
+
+KC: Muy bien, usted dice que no, yo, aquí *(señala su mano)* digo que sí.
+
+Sujeto: *(Sonríe, negando fuertemente con la cabeza)*
+
+KC: El mueble en el que está...
+
+Sujeto: *(Lo interrumpe)* No he movido los muebles.
+
+KC: ¿Está segura?
+
+Sujeto: *(Asiente.)*
+
+KC: Entonces me equivoco... No me gustaría, pero me equivoco. Pero él me dice que está hablando de la joya, ¿está bien?
+
+Sujeto: *(Asiente.)*
+
+
+**En este punto, Tracy no puede discutir demasiado con lo que el espíritu está intentando expresar. Simplemente acepta. Tony Youens señala: "Este espíritu no está 'hablando de la joya', sino de los muebles... antes una cajonera. ¿De qué manera se está refiriendo a la joya? Lo último que oímos de la joya fue el anillo de la mamá de ella. Note también el cambio de anillo a joya. ¿De qué modo se relaciona una cosa con la otra?"**
+
+KC: Y él quiere confirmarle que, sí, usted lo ha visto desde que cruzó. Parece que usted mencionó esto.
+
+Sujeto: *(Niega con la cabeza.)*
+
+KC: ¿Esto tiene sentido para usted?
+
+Sujeto: *(Se ve confundida, niega con la cabeza.)*
+
+**El creyente verdadero, de hecho, *cualquiera* que ha perdido a un ser querido, siente con frecuencia que ha visto al fallecido, en alguna parte. Y un sueño vívido en el que aparece el fallecido también es "evidencia", para algunos. Pero, otra vez, Charles se equivoca.**
+
+KC: ¿Está segura? Me está mostrando algo así como... dónde guarda usted sus... no quiero ser descortés... artículos de joyería. Así lo describe él. Y hay un anillo allí que está fracturado o roto, que no le pertenece a usted, sino a otra señora, y él está hablando de la mamá de usted. *(Pausa)*
+
+Sujeto: *(Asiente.)*
+
+**Ahora está entrando en pánico. Aquí está ampliando el campo de lo aceptable para incluir objetos rotos, pero aún así no acierta. El asentimiento de Tracy a todo esto es para aceptar su última frase, "él está hablando de la mamá de usted", y no tiene nada que ver con la conjetura sobre la joya. Está aceptando simplemente la afirmación de que el espíritu está hablando con Charles sobre la madre de ella. Asimismo, Charles le permite la opción de "otra señora" que puede haber sido la dueña del anillo inexistente. Pero eso no funciona.**
+
+KC: ¿Comprende eso?
+
+Sujeto: Sí. *(Asiente.)*
+
+**Charles abandona este rumbo improductivo del interrogatorio y cambia de tema.**
+
+KC: Ahora bien. ¿Puedo dirigirme al pie de sus escaleras? Él habla sobre que usted redecoró o hizo algo al pie de las escaleras.
+
+**Se ofrecen muchas posibilidades, como de costumbre. Tracy puede haber hecho cualquier cosa referida a "redecorar" en cualquier lugar de la casa, o al pie de sus escaleras.**
+
+Sujeto: *(Expresión en blanco)*
+
+KC: ... como pintar, o... haber hecho algo allí.
+
+**¿"Haber hecho"**  *algo*  **allí"? Caerse, limpiar la alfombra o el piso, este es un ampilo universo del cual Tracy puede elegir hallar "algo" para satisfacer a Charles.**
+
+KC: ... y él estaba mirándola a usted y usted lo vio allí.
+
+Sujeto: *(Se ve confundida.)*
+
+**Charles está intentando de nuevo que Tracy haya "visto" a este espíritu. También fracasa esta vez, y busca una posibilidad menos tenebrosa y más segura.**
+
+KC: Porque hay una fotografía. ¿Vio, al pie de las escaleras? Hay una fotografía...
+
+Sujeto: *(Se seca un ojo con la mano.)*
+
+**¡Lotería! He visitado muchos hogares en el Reino Unido, y recuerdo que un gran porcentaje de ellos tiene fotografías en la pared a lo largo de las escaleras, tal como se ve también en Estados Unidos. Una fotografía en una mesa al pie de las escaleras también sería aquí un acierto.**
+
+KC: .. muy cerca de... de él, ¿no es así?
+
+Sujeto: *(Asiente.)*
+
+KC: Veamos, usted me dijo "no". No importa, yo acepto los "no". ¿No acaba de decorar o pintar en el lugar donde está esa fotoggrafía?
+
+Sujeto: Hace poco. No "acabo" de hacerlo...
+
+KC: *(La interrumpe con rapidez.)* Ok, "acaba" de hacerlo para *él*, ¿de acuerdo? Si fue hace diez años, hace dos años, no quiero saberlo. Así me lo está diciendo él.
+
+**Ey, ¡esto abre un período posible de diez años en los cuales Tracy podría haber pintado o redecorado! Si hubiera querido, podría haberlo dicho así en ese momento y comprobado esto como un fantástico "acierto" de Charles.**
+
+KC: Mire, es el mensaje de él, es la información de él para usted. ¿De acuerdo? Así se manifiesta él. Y él realmente esperaba comunicarse con usted, esta noche. Eh, por eso, obviamente para decirle que la quiere, eso no hace falta decirlo. Pero está diciendo esto, y no quiero faltarle el respeto, él la paredona. Hubo un asunto por el que usted quería que él la perdonara, y él dice que no hay nada que perdonar, así que está perdonada.
+
+Sujeto: *(Se ve confundida.)*
+
+**Charles está molesto por las reacciones negativas que la sujeto ha venido dándole a sus conjeturas, y en vano intenta sumar algunos puntos, pero cuando ve que no se las va a dar, la corta rápidamente; no puede permitirse que ella se extienda en su respuesta. Después la salpica con comentarios rápidos y vuelve al enfoque "estás perdonada".**
+
+KC: Esto es importante para usted, por su fallecimiento. Él no entrará en mucho detalle, porque él no... es... dividió a la familia de alguna manera o hubo alguna separación en la familia. ¿Comprende esto?
+
+Sujeto: *(Asiente.)*
+
+**No, Charles no "entrará en mucho detalle" en esto porque no sabe nada sobre ello, y este tema no lo va a ayudar en nada. Ella es atípica al respecto; un sujeto ideal proporcionaría una explicación completa de la "separación": precisamente lo que quiere un lector en frío.**
+
+KC: Y él dice que no va a entrar en ello porque no le preocupa. ¿De acuerdo? Y él está bien. Espera que usted esté bien. Dice "Que Dios la bendiga"...
+
+Sujeto: Gracias. *(Sonríe.)*
+
+KC: ...muy bien, gracias a usted.
+
+*(La audiencia aplaude.)*
+
+Conductora: [distorsionada] Quisiera tener una breve charla con Tracy. Se ve muy emotiva con todo esto. ¿Cuánto... cuánto de todo esto se sintió en verdad como si sonara verdadero?
+
+Sujeto: Todo.
+
+**¿Qué? ¿Esta es la misma persona? ¡Fue una lectura**  *lamentable*  **, y la mayor parte de ella estaba equivocada! Pero vea ahora cómo cambia este "todo" general. Tony observa: "¿Sería exacto decir que Kate ha asumido que 'Michael' es el abuelo de Tracy? Tracy nunca dio el nombre de su abuelo".**
+
+Conductora: Así que usted *tiene* un padre llamado...
+
+Sujeto: *(Interrumpe, niega con la cabeza.)* Abuelo.
+
+Conductora: Un abuelo llamado Michael.
+
+Sujeto: No. *(Pausa.)* Pero mi primo, que vivía con él, se llamaba Michael, y mi padre y mi hermano se llamaban John. Y había una separación en la familia, entre... John y la madre de Michael.
+
+**Esto es lo que los "médiums psíquicos" esperan. El sujeto creará excusas para los errores del lector, y tratará de ajustarlos a la readlidad. Tracy primero aplica a Michael a su abuelo, después lo piensa mejor y lo aplica a su primo. Nunca nos enteramos del nombre del abuelo de Tracy...**  *¡porque Keith Charles no lo sabía!*  **Y nunca lo sabremos. Tracy se las arregla para encontrar esa "separación" en la familia que Charles había intentado pescar. Lector, ¿hay alguna "división" en su familia? Esto no es infrecuente, en *ninguna* familia.**
+
+Conductora: ¿Antes, usted creía?
+
+Sujeto: No. *(Niega con la cabeza.)* Bueno... estaba indecisa. Y también tuvimos que sacrificar a una mascota, ponerlo a dormir. Era un perro...
+
+Conductora: *(Interrumpe.)* ¿En serio? ¿Así que hubo tres cuestiones clave para usted que eran completamente ciertas?
+
+Sujeto: Sí. *(Asiente.)*
+
+**Un momento.**  *¿Cuáles tres cosas?*  **La conductora está haciendo aquí exactamente lo que los artistas de la estafa esperan que haga: ¡buscando los "aciertos" e ignorando los fallos! Fíjese: La conjetura sobre "Michael" estaba mal, el hombre que murió de un ataque cardíaco no fue identificado ni especificado. Visitar dos hospitales estaba mal, el problema con el pie izquierdo o la cicatriz no existía, nunca sufrió ninguna caída, la conjetura del anillo falló, la cajonera no existe, y los muebles no se movieron. Ella no "vio" al muerto, las "joyas" no estaban allí, el "perdón" no funcionó, ¡y no hubo redecoración!. Sólo la "division familiar", la pérdida de una mascota, la fotografía, el hecho de que quienquiera-que-sea todavía "quiere" a Tracy y el "John" que podría ser dos personas... éstas, y sólo éstas cosas podrían considerarse "aciertos". ¿Pero cuán probable es que esas conjeturas correctas fueran ciertas? Creo que MUCHO.**
+
+Conductora: ¿Supongo que ahora usted cree?
+
+Sujeto: Sí. *(Asiente.)*
+
+Conductora: Muchas gracias. *(La audiencia aplaude.)*
+
+**El escéptico Tony Youens pregunta: "¿Por qué es tan superficial la comunicación con el mundo espiritual? ¿Sólo de eso queria hablar en verdad el abuelo? ¿Podría haber dicho 'envíale mi amor a tu madre', padre, o quien fuera? ¿Y no es bastante malvado que apareciera el abuelo y que Charles no le diera a Tracy la oportunidad de preguntarle nada? ¿Y por qué, tal como [Randi] menciona, Charles nunca identificó con quién estaba hablando?" Tony agrega: "Mi impresión en ese momento, y después, es que Charles estaba operando bajo la suposición errónea de que era el padre muerto de Tracy. La conductora Kate también pensó lo mismo, obviamente."**
+
+**Y aquí lo tienen. Esta lectura, para citar la opinión de Montague Keen (de quien hablamos la semana pasada) es "impresionante". Al señor Keen, como podríamos esperar, se lo impresiona muy fácilmente. Este es exactamente el tipo de evidencia en el cual se funda su ingenua creencia en los asuntos sobrenaturales. Cualquier lector puede examinar el contenido citado más arriba y llegar a la conclusión de que Keith Charles es sólo otro "lector en frío" promedio, de los que infestan nuestra sociedad. No es mejor ni peor que el promedio, y usa un amplio espectro de trucos comunes en el oficio, directamente sacados del libro, para impresionar a sus clientes. Me sorprendió descubrir cuán ordinario fue su desempeño, especialmente después de que un experto como Montague Keen lo declaró "genuino" e "impresionante". Como diría John Stossel: ¡déjeme de embromar!**
+
+
+|firmarandi|
+
+.. include:: includes/randi_pie.inc
+
+.. include:: includes/randi.inc
+.. meta::
+    :author: Traducido por Marcelo Huerta
+    :description: ¿Geller un burlador?, pollos resucitados, y un análisis de una "lectura" lamentable

@@ -1,0 +1,44 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA200
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA211
+.. link: http://www.talkorigins.org/indexcc/CA/CA211.html
+.. date: 2004-03-03 02:00:00+00:00
+.. title: CA211: La evolución no puede ser falsada
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La evolución no puede ser falsada»
+
+Cualquier hecho puede ser adaptado a la teoría de la evolución. Por lo tanto, la evolución no es falsable y no es una teoría científica apropiada.
+
+**Fuente:**
+
+Morris, Henry M. 1985. Scientific *Creationism*. Green Forest, AR: Master Books, pp. 6-7.
+
+Respuesta
+===========
+
+1. Hay muchas líneas de evidencia concebibles que podrían falsar la evolución. Por ejemplo:
+
+   * Un registro fósil estático.
+   * Auténticas quimeras, es decir, organismos que combinaran partes de distintos y diversos linajes (como sirenas y centauros) y que no se explican por transferencia genética lateral, la cual transfiere cantidades relativamente pequeñas de ADN entre líneas, ni por simbiosis, donde dos organismos completos se unen.
+   * Un mecanismo que impidiera que las mutaciones se acumularan.
+   * Observaciones de organismos que fueran creados.
+
+2. Esta afirmación, viniendo de creacionistas, es absurda, ya que casi todo el creacionismo no es más que afirmaciones (sin base) de que la evolución :doc:`ha sido falsada <CA110>`.
+
+Otras lecturas
+==================
+
+Bowler, Peter J. 1983. *The Eclipse of Darwinism: Anti-Darwinian evolution theories in the decades around 1900*. Baltimore: Johns Hopkins Univ. Press.
+
+
+/////
+
+Anterior: :doc:`CA210` | Siguiente: :doc:`CA211_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

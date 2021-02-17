@@ -1,0 +1,51 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CD, CD200
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CD241
+.. link: http://talkorigins.org/indexcc/CD/CD241.html
+.. date: 2004-9-12
+.. type: afirmacrea
+.. title: CD241: Las varvas pueden formarse en menos de un año
+.. description: Respuesta a la afirmación creacionista «Las varvas pueden formarse en menos de un año»
+
+Las varvas (capas de limo que muestran diferencias estacionales) no necesariamente se forman en un año. Las varvas individuales pueden formarse en menos de un año. Por lo tanto, las afirmaciones de que 10000 niveles de varvas representan 10000 años no están justificadas.
+
+**Fuentes:**
+
+Garner, Paul, 1997. Green River blues. *Creation* 19(3) (June-Aug.): 18-19.
+
+Respuesta
+============
+
+1. La naturaleza estacional de las varvas a veces queda indicada por la variación sistemática del polen de plantas estacionales ([Morton_2002]_, citando [Flint_1971]_, 400).
+
+2. Hay al menos una formación que contiene veinte millones de varvas. Eso representa más de 50.000 años incluso si uno asume que las varvas se formaron a razón de una por día. Y lo fino del limo impiode la posibilidad de que se hubiera formado tan rápidamente.
+
+3. El registro de varvas de 45.000 años en Lago Suigetsu es consistente con otras técnicas de fechado, como el carbono-14 y el registro de anillos de los árboles ([Kitagawa_y_van_der_Plicht_1998]_).
+
+4. Los niveles de grano fino no anuales se distinguen claramente de las barbas. Los niveles que se forman rápidamente tienden a ser mucho más irregulares, reflejando los cambios en las condiciones climáticas que las causan ([Morton_1998]_). Las varvas anuales se observan en formación en la actualidad. Producen niveles uniformes que también se encuentran en el registro geológico.
+
+Links
+======
+
+Morton, G. R., 1998. Young-earth arguments: A second look. http://home.entouch.net/dmd/age.htm
+
+Referencias
+============
+
+.. [Flint_1971]    Flint, Richard Foster, 1971. *Glacial and Quaternary Geology*. New York: John Wiley and Sons.
+.. [Kitagawa_y_van_der_Plicht_1998]    Kitagawa, H. and van der Plicht, J., 1998. Atmospheric radiocarbon calibration to 45,000 yr B.P.: Late glacial fluctuations and cosmogenic isotope production. *Science* 279: 1187-1190. Cfr. Kitagawa, H. and van der Plicht, J., 2000. PE-04. A 45.000 year varve chronology from Japan. http://www.cio.phys.rug.nl/HTML-docs/Verslag/97/PE-04.htm
+.. [Morton_1998]    Morton, Glenn R., 1998. (ver arriba)
+.. [Morton_2002]    Morton, Glenn R., 2002. Pollen order presents problems for the flood. http://home.entouch.net/dmd/pollen.htm
+
+
+/////
+
+Anterior: :strong:`CD240` | Siguiente: :strong:`CD250`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,133 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. date: 2006-03-24 00:00:00
+.. author: Hal Bidlack y Rebecca Watson, traducción de Graciela Lorenzo Tillard
+.. category: Traducciones de James Randi
+.. title: El faro — Hal presenta a Rebecca Watson — Cómo me volví creyente (por un momento) — Abrigados — Al cierre...
+.. type: randi
+
+.. contents:: Contenido
+   :class: sidebar
+   :local:
+
+Como James Randi continúa su recuperación después de la cirugía cardíaca, le pidió a Hal Bidlack que organizara algunos escritores invitados para Swift.
+Esta semana, Swift fue escrito por Hal Bidlack y Rebecca Watson.
+
+El faro
+.......
+
+.. figure:: http://www.randi.org/images/commentary/200603/24beacon.jpg
+   :alt:
+   :figwidth: 175
+
+   **El faro**
+
+Otra vez, bienvenidos a la columna del 24 de marzo de 2006. Me complace empezar mencionando que el Sr. Randi me telefoneó hace algunos días. Lo hizo por dos razones, según informó: la primera, expresar sus mejores deseos en el aniversario de mi nacimiento, hace aproximadamente 48 años. La segunda, anunciar su gran placer al tomar su primer baño verdadero desde que enfermó. Sospecho que uno nunca aprecia realmente el simple placer de bañarse uno mismo hasta que fuerzas más allá de nuestro control nos niegan esa dicha. De modo que, soy un año más viejo, y el Sr. Randi está limpio. Buen día para todos.
+
+Pensé que esta semana ofrecería algunos comentarios para suministrar un marco para las ideas y pensamientos de otras personas. Como he dicho a menudo, entre los muchos placeres disfrutados al involucrarme con la |jref| están las extraordinarias personas con las que pude interactuar. Me desplazo a lo largo de mi libreta de direcciones de outlook, y recuerdo cuántas personas realmente cálidas son atraídas a las cosas Randiescas. Medito sobre los cuatro Amaz!ng Meetings hasta ahora, y recuerdo el placer de llegar a conocer a gente renombrada y nueva, famosa y corriente, todos los cuales aportan valor a la organización.
+
+Pienso en el Sr. Randi, por supuesto, pero más allá de él pienso en personas como la santa Linda. Sospecho que muy pocos aprecian el rol que cumple: sin Linda no hay ningún TAM. Pienso en personas como Jeff Wagg, corazón y alma de la presencia en Internet de la |jref|, a quien puedo casi sentir, incluso mientras escribo estas palabras, tratando de averiguar si "nueva" es realmente una palabra aplicable a gente. **[Jeff Wagg anota: no, de acuerdo con el Darat's Oxford Dictionary]**. Recuerdo a Kramer, que puede mencionar al pasar que tocó la guitarra enfrente de 160.000 personas. Mi mayor audiencia han sido mis niños, y estaban obligados a escuchar. Y pienso en otros que han trabajado con la |jref|, en Andrew Harter y en Jeff Kostick. Buena gente todos....
+
+Pienso en Scott Romanowski, a quien le pedí hace algunos años que dirigiera el programa de voluntarios para TAM. Todos los años recibo todo el crédito, y él hace todo el trabajo; es una situación excelente. Admito que lanzo un fogonazo de vez en cuando. Jamy Ian Swiss es un tipo tan amable como talentoso en la magia. Y es muy talentoso, efectivamente. Pienso en Penn y en Teller, que son tan buenos, tan amables, tan apasionados como nadie, y en sus equipos, y siempre con respeto y cariño. Y lo bello de la |jref| es que uno puede ser un "Amigo de Randi" también. Efectivamente, simplemente con leer esta columna uno se convierte en parte de la familia de la |jref|. ¡Bienvenidos!
+
+Lo más importante de todo, sin embargo, cuando pienso en la |jref|, es que recuerdo a la gente corriente, maravillosa a su propia manera y no famosa por los medios de comunicación nacionales, a quienes el Sr. Randi ha tocado. He decidido que el Sr. Randi es un *reflector*. Se coloca a horcajadas sobre montañas de imbecilidad e indiferencia, y su luz barre el horizonte, buscando la quimera y el carácter. Pero como un reflector, es también un *faro*. Aquellos de nosotros que podemos sentirnos atrapados por las tonterías que caen a raudales desde los medios de comunicación, desde los desconocidos, desde los amigos, desde la familia, podemos sentirnos atrapados en la oscuridad. Y, a menudo, muy solos en la oscuridad. Pero si levantamos la mirada, podemos ver esta luz. Parece débil, pero sólo porque está perforando tanta oscuridad. Y cuando nos dirigimos hacia ella, el mundo se vuelve un poco más brillante. Y, cuando nos acercamos, encontramos a otros en el mismo sendero. Juntos, encontramos fuerza, placer, compañía, y un sentido de pertenencia. También, logramos aprender algunos buenos trucos de magia.
+
+Ustedes ya son parte de la familia de la |jref|. Si todavía no han estado en un TAM, si no han puesto un mensaje en el foro de debates, si no han lanzado un conejo en un molino de madera (cuando vuelvan a Las Vegas, ¡asegúrense de ver el show de P&T!), *no importa*. El único criterio para ser parte de la familia de la |jref| es que les importe. Si les importa, ya son nuestros amigos. Aguardamos felices conocerles.
+
+Como dije, hay algunos senderos a nuestros puntos en común. Y, felizmente, hay muchas fuentes de información. Si son lectores regulares de Swift, han visto recientemente las ideas del Dr. Michael Shermer (http://www.skeptic.com/), y han considerado la información en su sitio web. De forma similar, el talentoso Dr. Phil Plait ofrece ayuda y buen juicio en http://www.badastronomy.com/. El excelente sitio del Dr. BobCarroll, http://www.skepdic.com/ debería estar en los favoritos de todos. Si hacen google con la palabra "escéptico" obtendrán aproximadamente 12.000.000 enlaces. Los primeros dos, sin embargo, son los de Shermer y Carroll. Si lo hacen con "astronomía" obtendrán 289.000.000 enlaces, ¡y Plait es el sexto!
+
+Más allá de buscar sitios web, ¿cómo puede encontrar compañeros un proto-escéptico? Bien, hay muchos recursos. Uno muy importante vive aquí mismo, en el sitio web de la |jref|. Muchos lectores ya están familiarizados con el foro de debates de la |jref|. Si no lo han visitado (forums.randi.org), les insto a que lo hagan. Piensen en el foro de debates como una serie de conversaciones sobre una gran variedad de temas. Los temas están agrupados en cosas como ciencia, política, y otras, además de un foro de debate comunitario diseñado para gente que habla, bien, de casi cualquier cosa. El gran valor del foro de debate es doble, creo.
+
+Primero, es un excelente recurso para las personas que buscan información. Una persona que acaba de comenzar su educación escéptica puede hacer preguntas, pedir información, o proponer un argumento para el debate. De modo que es un gran lugar para conseguir información particular. Recientemente, por ejemplo, una persona dijo por qué pensaba que el foro de debates tenía valor:
+
+    Diría que consigo gran respaldo con mi trabajo de OVNI. No podría responder preguntas sobre OVNI si no fuera por la experta ayuda que consigo aquí. Recientemente necesitaba la respuesta para algunas preguntas de electricidad. En unas horas tuve respuestas grandiosas que convencieron a mi consultante que NO experimentaba nada paranormal después de todo. Sin el foro de debates habría necesitado más tiempo buscando cosas en línea, o yendo a la biblioteca.
+
+Otro observó:
+
+    El foro de debates ha sido para mí una inestimable fuente de información, entretenimiento, y amistad. Las páginas y páginas de enlaces con sus toneladas de información sobre el debate del Diseño Inteligente fueron de gran ayuda cuando escribí mi trabajo para mi clase de Pensamiento Crítico, Lactura, y Escritura. El profesor comentó positivamente toda mi investigación, investigación que seguramente no habría sido tan buena si ya no hubiera sabido dónde ir. No estoy seguro de que sin los enlace, hubiera conocido fácilmente cuáles puntos principales daban con el tema. Por lo tanto, no fue una A fácil.
+
+    No sólo eso, pongo mi trasero a trabajar por mamis, científicos, abogados, y cualquiera que diga, "Hey, eso no es totalmente correcto". Despacio, estoy aprendiendo a refinar y mejorar mi estilo de discusión y pensamiento.
+
+    TAM es realmente la culminación del foro de debates. No sólo me mezclo con personas encantadoras a quienes considero amigas y me entretengo, sino que consigo aprender cosas más claras.
+
+    Aquí es donde vengo por información sobre cualquier tema de ciencia, o por ayuda para desacreditar las tonterías con que se aparecen mis amigos New Age. Realmente me ha ayudado a agudizar mi sentido crítico, y me ha alentado a hablar claro. Por ejemplo, en un foro de debates New Age en el que estoy, unas personas pusieron mensajes sobre sus problemas de salud y preguntaron por remedios de hierbas, hechizos, cura espiritual y chismes para hacerlos sentirse mejor. Mientras los otros están adivinando la causa y dando sus remedios alternativos favoritos, cargué y les dije que dejaran de ser tan estúpidos y que fueran a ver a un médico antes de pedirle un diagnóstico a unos desconocidos sin formación médica. Nunca tuve ningún seguimiento, pero los participantes se han quedado todos muy silenciosos. Y también, gracias a los enlaces de vacunación aquí, fui capaz de educar a estas personas sobre los hechos de las vacunas. Tal vez, sólo tal vez, he ayudado salvar una vida, gracias a la |jref|...
+
+También...
+
+    El foro de debate me ha posibilitado una relación personal con muchas personas interesantes e inteligentes que nunca habría conocido de otra manera. He desafiado mis prejuicios; refiné mis técnicas de debate; y me patearon el trasero de vez en cuando. He aprendido cosas nuevas e interesantes a cada paso del camino. He crecido como persona de una manera que nunca pude haber previsto. Hemos creado una comunidad virtual donde las tonterías nunca pasan sin un desafío. Aquí las ideas son cuestionadas bajo la severa luz del empirismo; y nunca les damos pase libre a los religiosos para definirnos como parece que hacen libremente en otros lugares.
+
+    La misma |jref| es la espada; el arma en la guerra contra el prejuicio, la credulidad, y el disparate. El foro de debates es la base de la comunidad escéptica. Somos representativos de las personas que necesitan esa espada; y la llevaremos contra los timadores y los crédulos de este mundo. Como tal, el foro de debates representa a esas personas para las que Randi creó la |jref| en primer lugar. Desde ateos hasta cristianos, desde científicos hasta legos, y desde pensadores confusos hasta pensadores críticos, somos una cámara de compensación de ideas competitivas. Todos los días, en este foro de debates se demuestran objetivamente las virtudes del pensamiento crítico. ¡Es un poderoso bien al alcance de la mano!
+
+Y...
+
+    Este foro de debates ha sido decisivo al ayudarme a dar forma a mis actuales percepciones del mundo y cómo funciona. Tenía un amplio círculo de compañeros New Age, pero no les gustaba pensar en las cosas cuando hacía preguntas. Pertenecía a otros foros de debates y me sentía frustrado por la misma actitud. Vine aquí como un escéptico (en lo que respecta a cuestionar todas mis creencias y el mundo) y también como un creyente (en moral, espíritu, taoismo, "medicina" alternativa). Me encontré con personas que, de ambos lados, estaban dispuestas a escuchar mis preguntas, y a ayudarme a encontrar respuestas. Todavía soy un escéptico -creo que el escepticismo es un rasgo como el color de ojos- pero mi sistema de creencias ha cambiado dramáticamente, y estoy más en paz. Ahora puedo vivir mi vida en un equilibrio apropiado.
+
+En segundo lugar, es una maravillosa comunidad de pensadores. Ustedes pueden poner mensajes a menudo, rara vez, o sólo leer y nunca escribir, y todavía serán parte de un grupo. Las opiniones varían ampliamente, y el debate es a menudo enérgico. Pero en su corazón, el foro de debates está formado por cientos de personas interesadas en hablar de cosas interesantes. El foro de debates es también internacional, con una audiencia y perspectiva mundial.
+
+El foro de debates fue muy importante para ponernos en movimiento para tener el primer Amaz!ng Meeting en Fort Lauderdale, y el próximo año nos verán ofreciendo nuestro quinto Amaz!ng Meeting. Ya estamos trabajando duro en la lista de oradores. No pasará mucho tiempo antes de que empiece a recibir el crédito por el trabajo duro de Scott con los voluntarios. TAM ha crecido desde unas 130 personas en la primera reunión, hasta unas 800 en Las Vegas el pasado enero.
+
+Por lo tanto, el foro de debates es una herramienta importante de ideas y de comunidad. Ustedes pueden considerar las grandes preguntas del universo, o hablar sobre si son mejores / peores los nuevos episodios de *Gente de Familia*. Pueden discutir sobre política, física, y recibir consejo para salidas. Pueden discutir con homeópatas, debatir doctrinas religiosas, y aprender todo sobre los libros infantiles favoritos. En suma, es una comunidad. Hay ruido, conocimientos, tonterías, y sentido común. Si ustedes están leyendo este Swift, ya son parte del grupo. Paseen por forums.randi.org y mojen un dedo en el agua. Muchas buenas personas esperan conocerlos. Y caray, ustedes ya son sus amigos.
+
+Para cerrar por esta semana, pienso que la prosa de abajo puede iluminar mi total desvarío de arriba. Si tuviera que resumir las dos mil palabras, más o menos, hasta ahora escritas, tendría que decir que ustedes no están solos, ya están con amigos. A menudo, creo, los escépticos llegan a pensar en sí mismos como intrusos, como parias. Es más fácil, seguramente, no basar el propio pensamiento en la lógica, la evidencia, y la razón.
+
+
+.. image:: http://www.randi.org/images/commentary/200603/24watson.jpg
+   :alt:
+   :align: right
+
+Hal presenta a Rebecca Watson
+..............................
+
+Pero, como han visto, no están solos en absoluto. He pedido a una amiga de Randi, Rebecca Watson, que escriba algunas palabras sobre su viaje hacia la luz. Rebecca se describe como:
+
+  ...la fundadora de Skepchick (http://www.skepchick.org/), una revista en línea enfocada en mujeres y pensamiento crítico. Sus artículos y ensayos han aparecido en línea, en periódicos y en revistas a través de los Estados Unidos. Pueden encontrar sus diarios desvaríos en http://www.skepchick.org/blog/. Ocasionalmente, usa gafas protectoras.
+
+Añadiré a esto que Rebecca es una experta en pensamiento, comunicación y vida. Y, rápida para ofrecer sus servicios voluntarios durante la enfermedad del Sr. Randi. He aquí su historia.
+
+
+Cómo me volví creyente (por un momento)
+.......................................
+
+A la edad de diez años dirigía un casino. Repartía black-jack, lanzaba los dados, e incluso tenía una ruleta que gané durante una noche de suerte en una galería del parque de atracciones. Mis mejores clientes eran dos niños a quienes mi mami cuidaba con regularidad como un favor para una amiga -Alicia tenía mi edad, y su hermano Scott era algunos años menor. Scott era un verdadero jugador. Hice algo de dinero decente con él (y muy pocas veces tuve que arreglar los juegos) antes de que mi mami me pescara y nos lanzara afuera a trepar árboles, andar en bicicleta, nadar, y participar en todas las otras actividades que los niños normales disfrutan cuando no hacíamos trampa por efectivo.
+
+Todos crecimos y nos distanciamos cuando pasó la necesidad de ser cuidados. Ellos fueron a escuelas diferentes, de modo que no los vi mucho. Poco después de mudarme a la universidad, mi mami llamó para decirme que Scott había muerto cuando un conductor ebrio chocó su autobús escolar.
+
+Fue repentino y sin sentido, y la familia de Scott estaba devastada.
+
+Había sido atea sólo por un breve lapso, y estaba teniendo dificultades con la idea de la muerte. Me acostaba en la cama por la noche y sólo trataba de imaginar *la nada*. No espacio, no negrura, sólo nada. Un infinito de nada me asustaba muy feo, y seriamente me trajo a la mente la pregunta con que muchos de nosotros luchamos eventualmente: ¿de qué se trata, entonces?
+
+La muerte de Scott trajo una realidad a mis ataques de pánico metafísico. ¿Qué sentido tenía ese final aleatorio de todo?
+
+En la época de la muerte de Scott, trabajaba en una tienda de magia y estaba saliendo con un mago. Más o menos un día después de escuchar las noticias, estábamos caminando por la calle y le dije, "¿Sabes? Creo que he cambiado mi opinión sobre la vida después de la muerte... creo que muy bien puede haber algo".
+
+Le dije que más temprano estaba mirando la TV y que vi a un tipo que afirmaba poder hablar con los muertos, llamado John Edward. Le decía a la familia cosas que no debería haber sabido. "Parece tan posible", dije. Tal vez había más en la vida que una detención repentina al final. Tal vez seguimos viviendo en otro mundo -seguro, un mundo en el que uno ni siquiera puede recordar su propio nombre.
+
+Mi novio de entonces me miró con horror. "Es lo que haces", dijo. "Es un truco de magia. Lectura fría. Tú conoces la lectura fría."
+
+Por supuesto que conocía la lectura fría. Estaba estudiando magia y psicología, y usando algunos de los mismos trucos les decía a las personas cosas que en tiempos menos ilustrados me habrían valido ser quemada viva. Edward sólo las envolvía en una nueva presentación brillante. De modo que, ¿por qué era tan fácilmente engañada yo, maga y por largo tiempo estudiante de fraudes y mentiras?
+
+La única diferencia era que deseperadamente quería creer en eso. Quería que Edward mirara la cámara y dijera, "Estoy recibiendo una 'S'... está diciendo algo sobre dados cargados, ¿tiene sentido?" Pero eso no iba a ocurrir, y en lo profundo lo sabía. La caída desde ese pequeño pico de esperanza manufacturada me dejó aturdida y quebrada, como si Scott acabara de morir una segunda muerte.
+
+Investigando a Edward más tarde, encontré la James Randi Educational Foundation. Conocía a Randi como mago y ya tenía una vaga idea sobre el propósito de la |jref|, pero antes no me había interesado realmente. Supongo que no le había visto sentido hasta entonces.
+
+A menudo las personas preguntan cómo me involucré en el escepticismo. Siento que esperan que algo dramático me inspirara una revancha furiosa, pero ningún psíquico mató a mi perro y no tuve un hermano con sobredosis de homeopatía. Mi breve respuesta estándar es que yo era maga y admiradora de James Randi, a través de quien descubrí la |jref|. Pero supongo que la respuesta más compleja es que realmente me volví escéptica en el momento inmediato posterior a volverme creyente. Fue un tiempo risiblemente corto para creer en un fraude, pero fue suficiente para mostrarme el poder abrumador del auto-engaño.
+
+
+Abrigados
+.........
+
+De modo que, como pueden ver por mis comentarios, y por el viaje de Rebecca, el importante papel que pueden jugar el Sr. Randi y la |jref|. Si se sienten solos, si se sienten agobiados por los disparates y las tonterías que a menudo pasan por disertaciones inteligentes estos días, recuerden a Rebecca. Recuerden a Scott, y a Phil, y a Michael, y a Bob, y a Penn, y a Teller, y a todos los demás. Y recuerden que hay un hombre con barba en Florida. Está descansando un poco, pero mientras se está recuperando (y, gracias al cielo bañándose), el brillo de su reflector continúa barriendo el horizonte. Si la oscuridad parece demasiado espesa, por favor sepan que justo sobre esa próxima colina, pueden ver la luz. Oh, y todos sus amigos los están esperando allí.
+
+
+Al cierre...
+............
+
+Se rumorea que los DVD de TAM 4 están bien en marcha. Pronto podremos tener reservas... manténganse en sintonía. También, se continúan vendiendo bien las cabañas de la Amaz!ng Adventure. Si tienen alguna pregunta sobre este evento, por favor escriban a jeff@randi.org.
+
+.. % |firmarandi|
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: traducido por **Graciela Lorenzo Tillard**
+    :description: El faro — Hal presenta a Rebecca Watson — Cómo me volví creyente (por un momento) — Abrigados — Al cierre...

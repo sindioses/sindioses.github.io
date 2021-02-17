@@ -1,0 +1,42 @@
+﻿.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB200
+.. author: Mark Isaak. traducción de Samuel Martínez de la Iglesia
+.. nocomments: True
+.. slug: CB200_5
+.. link: http://talkorigins.org/indexcc/CB/CB200_5.html
+.. date: 2003-08-27
+.. type: afirmacrea
+.. title: CB200.5: La ruta metabólica de la síntesis de AMP es demasiado compleja para haber evolucionado
+.. description: Respuesta a la afirmación creacionista «La ruta metabólica de la síntesis de AMP es demasiado compleja para haber evolucionado»
+
+La ruta metabólica para sintetizar AMP es demasiado compleja para haber evolucionado. Requiere varios pasos intermedios y es altamente improbable que todos ellos hayan podido evolucionar de manera simultánea.
+
+**Fuente:**
+
+Behe, Michael J. 1996. *Darwin's Black Box*, New York: The Free Press, pp. 140-160
+
+Respuesta
+============
+
+1. Aunque la síntesis de AMP se realiza en varios pasos en la vida moderna, no son necesarios. De hecho, la adenosina puede y se forma completamente fuera de cualquier forma de vida, tanto en solución acuosa ([Ferris_et_al_1984]_) como en el espacio ([Kuzicheva_and_Gontareva_2002]_). Las formas de vida primitivas pudieron haber usado AMP prebiótico y luego haber desarrollado gradualmente y refinado mecanismos para sintetizar AMP por ellas mismas.
+
+La :doc:`complejidad irreducible <CB200>` no es un obstáculo para la evolución.
+
+
+Referencias
+==============
+
+.. [Ferris_et_al_1984]    Ferris, J. P., H. Yanagawa, P. A. Dudgeon, W. J. Hagan Jr., and T. E. Mallare, 1984. The investigation of the HCN derivative diiminosuccinonitrile as a prebiotic condensing agent. The formation of phosphate esters. *Origins of Life and Evolution of the Biosphere* 15: 29-43.
+.. [Kuzicheva_and_Gontareva_2002]    Kuzicheva, E. A. and N. B. Gontareva, 2002. Prebiotic synthesis of nucleotides at the Earth orbit in presence of Lunar soil. *Advances in Space Research* 30(6): 1525-1531.
+
+
+/////
+
+Anterior: :doc:`CB200_4` | Siguiente: :doc:`CB211`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

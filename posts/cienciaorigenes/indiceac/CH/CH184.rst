@@ -1,0 +1,53 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH180
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2003-6-6
+.. type: afirmacrea
+.. title: CH184: La Biblia es intelectualmente honesta
+.. description: Respuesta a la afirmación creacionista «La Biblia es intelectualmente honesta»
+.. slug: CH184
+.. link: http://www.talkorigins.org/indexcc/CH/CH184.html
+
+La Biblia es única en su honestidad intelectual. Sus personajes tienen personalidades verdaderas. Presenta los fallos de sus escritores y presenta los fracasos junto con los éxitos.
+
+**Fuente:**
+
+Watchtower Bible and Tract Society, 1989. *The Bible - God's Word or Man's?* Brooklyn, NY, pp. 65-66. 
+
+Respuesta
+=========
+1. La Biblia está lejos de ser la única en este aspecto. La *Ilíada* y la *Odisea* presentan a los héroes como humanos, e incluso los dioses tienen personalidades y fracasos. El *Mahabharata* presenta los fallos de sus héroes. En la épica africana de Mwindo, una parte importante de la historia es el castigo de Mwindo luego de que logró su poder y luego abusó de él ([Biebuyck_y_Mateene_1971]_). Las debilidades de Thor son el foco de parte de *La Prosa Edda*. Se pueden multiplicar los ejemplos de todas partes del mndo. La gente prefiere historias sobre personas reales, y las personas reales son falibles, de modo que sobre eso escribe la gente.
+   
+Enlaces
+=======
+Crane, G. (ed.), n.d. The Perseus digital library. http://www.perseus.tufts.edu/
+
+Referencias
+===========
+.. [Biebuyck_y_Mateene_1971] Biebuyck, Daniel y Kahombo C. Manteene, 1971. *The Mwindo Epic*, Berkeley: Univeristy of California Press. 
+
+Otras lecturas
+==============
+
+* *La épica de Gilgamesh*
+* Homero, *La Ilíada* y *La Odisea*.
+* Buck, William, 1973 y 1976, *Mahabharata* y *Ramayana*, University of California Press.
+* Sturluson, Snorri, *The Prose Edda*.
+* Lonnrot, Elias, *Kalevala*. La de Francis Peabody Magoun, Jr., Harvard U. Press es una buena traducción en prosa.
+* Ford, Patrick K., 1977. *The Mabinogi and Other Medieval Welsh Tales*, Berkeley: University of California Press.
+* Tedlock, Dennis (trad.), 1985. *Popol Vuh*. New York: Simon & Schuster.
+* Miller, Lucien (ed.), 1994. S*outh of the Clouds*, Seattle: University of Washington Press. (Mitología y folklore de las culturas minoritarias de Yunán, China)
+* de Civrieux, Marc, trad. de David M. Guss, 1980. *Watunna, An Orinoco Creation Cycle*. San Francisco: North Point Press. (un ciclo de la creación de la Sudamérica tropical) 
+  
+		
+/////
+
+Anterior: :doc:`CH183` | Siguiente: :doc:`CH190`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

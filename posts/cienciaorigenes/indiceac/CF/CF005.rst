@@ -1,0 +1,51 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CF005: La segunda ley de la termodinámica se aplica a la teoría de la información
+.. description: Respuesta a la afirmación creacionista «La segunda ley de la termodinámica se aplica a la teoría de la información»
+.. slug: CF005
+.. link: http://www.talkorigins.org/indexcc/CF/CF005.html
+.. tags: CF, CF000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-9-15
+
+La segunda ley de la termodinámica se aplica a la teoría de la información. Se concluye que la información genética se degradará cada vez más a medida que se copia.
+
+**Fuente:**
+
+Kofahl, Robert E., and Kelly L. Segraves, 1975. *The Creation Explanation: A scientific alternative to evolution*. Wheaton, IL: Harold Shaw, p. 37.
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, pp. 38-40. 
+
+Respuesta
+=========
+
+1. Aunque la teoría de la información estadística tiene un componente llamado "entropía", no tiene nada equivalente a la segunda ley de la termodinámica. En un sistema general de procesamiento y transmisión de información, la entropía puede aumentar o disminuir libremente.
+2. Hay algunas clases de sistemas de información en los cuales la información sólo puede disminuir, por ejemplo un sistema aislado causalmente y determinista con estados discretos. Sin embargo (al menos en este caso), la pérdida de información corresponde a una **disminución** de la entropía.
+3. La teoría de la información tiene algo así como un principio de degradación, pero sólo se aplica en ciertas situaciones (entre las cuales no se encuentra la evolución). Implica, esencialmente, que el cambio en la información es irreversible: la información se vuelve cada vez más **diferente de cómo se inició**, y mientras más se cambia, más difícil es determinar cómo se inició. En un sistema de comunicación o de almacenamiento de información, en el cual el objetivo es transmitir o reproducir el mensaje original intacto, el cambio es necesariamente malo, de modo que esto corresponde a una degradación. En la evolución, el cambio no es necesariamente malo, de modo que este no es un principio de degradación.
+   
+Enlaces
+=======
+
+Davisson, Gordon, 4/18/2001. Information and microevolution. Message-ID , http://www.google.com/groups?selm=gordon-A6A709.21492518042001%40%5B127.0.0.1%5D
+
+Davisson, Gordon, 7/14/2002. Re: Simple Thermodynamics Argument. Message-ID , http://www.google.com/groups?selm=gordon-B61948.18383114072002%40%5B127.0.0.1%5D
+
+Davisson, Gordon, 2001. Macroscopic and molecular entropy. http://www.talkorigins.org/origins/postmonth/aug01.html
+
+Otras lecturas
+==============
+
+Shannon, Claude E., 1948. A mathematical theory of communication. *Bell System Technical Journal*, 27: 379-423 and 623-656. Reimpreso en Claude E. Shannon y Warren Weaver, *The Mathematical Theory of Communication*, University of Illinois Press, Urbana, 1949; http://cm.bell-labs.com/cm/ms/what/shannonday/paper.html (El artículo fundamental de Shannon sobre la teoría de la información; técnico) 
+
+		
+/////
+
+Anterior: :doc:`CF003` | Siguiente: :doc:`CF010`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

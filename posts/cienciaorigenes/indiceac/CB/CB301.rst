@@ -1,0 +1,67 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB300
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB301
+.. link: http://www.talkorigins.org/indexcc/CB/CB301.html
+.. date: 2007-11-10
+.. title: CB301: El ojo es demasiado complejo para haber evolucionado
+.. description: Respuesta a la afirmación creacionista «El ojo es demasiado complejo para haber evolucionado»
+.. type: afirmacrea
+
+**Fuente:**
+
+Brown, Walt, 1995. *In the Beginning: Compelling evidence for creation and the Flood*. Phoenix, AZ: Center for Scientific Creation, p. 7.
+
+Hitching, Francis, 1982. *The Neck of the Giraffe*, New York: Meridian, pp. 66-68.
+
+Respuesta
+============
+
+1. Este es el ejemplo paradigmático de la :doc:`falacia de la incredulidad personal <CA100>`. La fuente que hace la afirmación normalmente :doc:`cita a Darwin <CA113_1>` diciendo que la evolución del ojo parece "absurda de todo punto". Sin embargo, Darwin sigue esa afirmación con una propuesta de tres páginas y media de etapas intermedias a través de las cuales los ojos pueden haber evolucionado por medio de pasos graduales ([Darwin_1872]_).
+
+   * célula fotosensible
+   * grupos de células pigmentarias sin nervio
+   * un nervio óptico rodeado por células pigmentarias y cubiertas por una piel translúcida
+   * células pigmentarias que forman una pequeña depresión
+   * células pigmentarias que forman una depresión más profunda
+   * la piel encima de la depresión adopta forma de lente
+   * músculos que permiten que la lente se ajuste
+
+   Se sabe que todos estos pasos son viables porque existen en animales que viven hoy. Los incrementos entre estos pasos son pequeños y pueden descomponerse en incrementos incluso más pequeños. La selección natural debería, en la mayor parte de las circunstancias, favorecer los incrementos. Dado que los ojos no se fosilizan bien, no sabemos si el desarollo del ojo siguió exactamente esa ruta, pero ciertamente no podemos afirmar que no existe ninguna.
+
+   Tenemos pruebas de uno de los pasos de la evolución del ojo de los vertebrados en la anatomía comparada y la genética. Los genes de la cristalina–βγ, que codifica varias proteínas cruciales para el lente, son muy similares al gen de la cristalina–βγ de *Ciona*. *Ciona* es un urocordado, un pariente lejano de los vertebrados. El gen de la cristalina–βγ de *Ciona* se expresa en su otolito, una célula hermana pigmentada del ocelo sensible a la luz. El origen de la lente parece basarse en la cooptación de elementos previamente existentes en un sistema sin lentes ([Shimeld_et_al_2005]_).
+
+   Nilsson y Pelger ([Nilsson_y_Pelger_1994]_) calcularon que si cada paso fuera un cambio del 1 por ciento, la evolución del ojo llevaría 1829 pasos, los que podrían ocurrir en 364.000 generaciones.
+
+Enlaces
+=========
+
+Lindsay, Don, 1998. How long would the fish eye take to evolve? http://www.don-lindsay-archive.org/creation/eye_time.html
+
+Referencias
+=============
+
+.. [Darwin_1872]    Darwin, C., 1872. *The Origin of Species*, 1st Edition. Senate, London, chpt. 6, http://www.talkorigins.org/faqs/origin/chapter6.html
+.. [Nilsson_y_Pelger_1994]    Nilsson, D.-E. and S. Pelger, 1994. A pessimistic estimate of the time required for an eye to evolve. *Proceedings of the Royal Society of London, Biological Sciences*, 256: 53-58.
+.. [Shimeld_et_al_2005]    Shimeld, Sebastian M. et al. 2005. Urochordate βγ-crystallin and the evolutionary origin of the vertebrate eye lens. *Current Biology* 15: 1684-1689.
+
+Otras lecturas
+===============
+
+Dawkins, Richard, 1996. *Climbing Mount Improbable*, New York: W.W. Norton, chpt. 5.
+
+Land, M. F. and D.-E. Nilsson, 2002. *Animal Eyes*. Oxford University Press.
+
+Fernald, Russell D. 2006. Casting a genetic light on the evolution of eyes. *Science* 313: 1914-1918.
+
+
+/////
+
+Anterior: :doc:`CB300` | Siguiente: :doc:`CB302`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

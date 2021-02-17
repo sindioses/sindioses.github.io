@@ -1,0 +1,88 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB102_1
+.. link: http://talkorigins.org/indexcc/CB/CB102_1.html
+.. date: 2004-12-17
+.. type: afirmacrea
+.. title: CB101.2: Las mutaciones no producen características nuevas
+.. description: Respuesta a la afirmación creacionista «Las mutaciones no producen características nuevas»
+.. slug: CB101_2
+.. link: http://www.talkorigins.org/indexcc/CB/CB101_2.html
+
+Las mutaciones sólo varían las características que ya están allí. No producen nada nuevo.
+
+**Fuente:**
+
+Watchtower Bible and Tract Society. 1985. *Life--How Did It Get Here?* Brooklyn, NY, p. 103.
+
+Morris, Henry M. 1985. *Scientific Creationism*. Green Forest, AR: Master Books, 51. 
+
+Respuesta
+=========
+
+1. La variación de características es producción de novedad, especialmente en los casos donde antes no había variación. La acumulación de pequeñas modificaciones es la base de la evolución.
+
+2. La documentación de las mutaciones que producen nuevas características incluye lo siguiente:
+
+   * La capacidad de una bacteria para digerir nylon ([Negoro_et_al_1994]_; [Hall_y_Zuzel_1980]_)
+   * La capacidad de *E. coli* para hidrolizar galactosilarabinosa ([Hall_1981]_; [Hall_y_Zuzel_1980]_)
+   * La evolución de la multicelularidad en algas verdes unicelulares ([Boraas_1983]_; [Boraas_et_al_1998]_)
+   * La modificación de la ruta de la fucosa en *E. coli* para metabolizar propanodiol ([Lin_y_Wu_1984]_)
+   * La evolución en las bacterias *Kiebsiella* de una nueva ruta metabólica para metabolizar azúcares de carbono 5 ([Hartley_1984]_).
+     
+   Hay pruebas de que las mutaciones producen otras proteínas nuevas:
+
+   * Las proteínas en la ruta de la biosíntesis de la histidina consisten en barriles alfa/beta con un patrón que se repite dos veces. Aparantemente éstos evolucionaron a partir de la duplicación y fusión de genes de un ancestro de medio barril ([Lang_et_al_2000]_).
+     
+   Los experimentos de laboratorio sobre evolución dirigida indican que la evolución de una función nueva con frecuencia comienza con mutaciones que tienen poco efecto en la función original de un gen pero un ejemplo significativo en una segunda función. La duplicación y divergencia de genes puede permitir entonces que se refine la nueva función. ([Aharoni_et_al_2004]_).
+
+   3. Para que la evolución opere, la fuente de la variación no importa; todo lo que importa es que ocurra una variación heredable. Tal variación la indica el hecho de que la cría selectiva ha producido características nuevas en muchas especies, incluyendo gatos, perros, palomas, peces dorados, lechugas y geranios. Algunas de las características pueden haber :doc:`preexistido <CB110>` originalmente en la población, pero no todas estaban allí, especialmente considerando el punto de vista de los creacionistas de que los animales se originaron a partir de una única pareja.
+      
+Enlaces
+=======
+
+Max, Edward E. 1999. The evolution of improved fitness by random mutation plus selection. http://www.talkorigins.org/faqs/fitness/
+
+Musgrave, Ian, Steven Pirie-Shepherd, and Douglas Theobald. 2003. Apolipoprotein AI mutations and information. http://www.talkorigins.org/faqs/information/apolipoprotein.html
+
+Thomas, Dave. n.d. Evolution and information: The nylon bug. http://www.nmsr.org/nylon.htm
+
+Referencias
+===========
+
+.. [Aharoni_et_al_2004]    Aharoni, A., L. Gaidukov, O. Khersonsky, S. McQ. Gould, C. Roodveldt and D. S. Tawfik. 2004. The 'evolvability' of promiscuous protein functions. *Nature Genetics* [Epub del 28 de noviembre previo a la publicación]
+.. [Boraas_1983]    Boraas, M. E. 1983. Predator induced evolution in chemostat culture. *EOS* 64: 1102.
+.. [Boraas_et_al_1998]    Boraas, M. E., D. B. Seale, and J. E. Boxhorn. 1998. Phagotrophy by a flagellate selects for colonial prey: A possible origin of multicellularity. *Evolutionary Ecology* 12: 153-164.
+.. [Francis_1972]    Francis, J. E. and P. E. Hansche. 1972. Directed evolution of metabolic pathways in microbial populations. I. Modification of the acid phosphatase pH optimum in *S. cerevisiae*. *Genetics* 70: 59-73.
+.. [Francis_et_al_1973]    Francis, J. E. and P. E. Hansche. 1973. Directed evolution of metabolic pathways in microbial populations. II. A repeatable adaptation in *Saccharomyces cerevisiae*. *Genetics* 74: 259-265.
+.. [Hall_1981]    Hall, B. G. 1981. Changes in the substrate specificities of an enzyme during directed evolution of new functions. *Biochemistry* 20: 4042-4049.
+.. [Hall_y_Zuzel_1980]    Hall, B. G. and T. Zuzel. 1980. Evolution of a new enzymatic function by recombination within a gene. Proceedings of the National Academy of *Science* USA 77(6): 3529-33.
+.. [Hansche_1975]    Hansche, P. E. 1975. Gene duplication as a mechanism of genetic adaptation in Saccharomyces cerevisiae. *Genetics* 79: 661-674.
+.. [Hartley_1984]    Hartley, B. S. 1984. Experimental evolution of ribitol dehydrogenase. En: *Microorganisms as Model Systems for Studying Evolution*, R. P. Mortlock, ed., New York: Plenum, pp. 23-54.
+.. [Lang_et_al_2000]    Lang, D. et al. 2000. Structural evidence for evolution of the beta/alpha barrel scaffold by gene duplication and fusion. *Science* 289: 1546-1550. Cfr. Miles, E. W. and D. R. Davies, 2000. On the ancestry of barrels. *Science* 289: 1490.
+.. [Lin_y_Wu_1984]    Lin, E. C. C. and T. T. Wu. 1984. Functional divergence of the L-Fucose system in mutants of *Escherichia coli*. En: *Microorganisms as Model Systems for Studying Evolution*, R. P. Mortlock, ed., New York: Plenum, pp. 135-164.
+.. [Negoro_et_al_1994]    Negoro, S., K. Kato, K. Fujiyama and H. Okada. 1994. The nylon oligomer biodegradation system of *Flavobacterium* and *Pseudomonas*. *Biodegradation* 5: 185-194.
+.. [Thomas_n_d]    Thomas. n.d. (v. supra).
+.. [Twaites_1985]    Thwaites, W. M. 1985. New proteins without God's help. Creation/Evolution 5(2): 1-3. http://www.ncseweb.org/resources/articles/4661_issue_16_volume_5_number_2__4_10_2003.asp 
+
+    
+/////
+
+Anterior: :doc:`CB101_1` | Siguiente: :doc:`CB102`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+
+
+
+
+
+
+
+

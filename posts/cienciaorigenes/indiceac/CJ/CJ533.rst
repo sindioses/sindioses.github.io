@@ -1,0 +1,44 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CJ533
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CJ533
+.. link: http://talkorigins.org/indexcc/CJ/CJ533.html
+.. date: 2003-12-01
+.. title: CJ533: El Corán describe con exactitud la embriología humana
+.. description: Respuesta a la afirmación creacionista «El Corán describe con exactitud la embriología humana»
+.. type: afirmacrea
+
+El Corán, en el siglo séptimo EC, describió la embriología humana con sorprendente exactitud. Dice que los humanos se crean a partir de un "fluido mezclado", es decir, esperma y óvulos (p. ej. 86:6-7). Suras 22.5 y 23:13-14 describen el desarrollo embriológico en etapas.
+
+**Fuente:**
+
+* Moore, Keith L., 1992. *The Developing Human*, 3rd edition with Islamic Additions. Philadelphia: Saunders.
+* Yahya, Harun, n.d. Miracles of the Qur'an, http://www.harunyahya.com/miracles_of_the_quran_01.php
+
+Respuesta
+============
+
+1. La embriología expresada por el Corán sigue el conocimiento griego de embriología predominante en la época. El Corán se refiere a *nutfah*, que se traduce como "semen" y no se refiere a la vez al esperma y los óvulos como propone Moore. Sura 86:6 dice que el fluido surge de entre las entrañas y las costillas, y no, como sabemos hoy, de los testículos. Esto refleja una opinión errada de Hipócrates, común en el siglo V, de que el semen proviene de todo el fluido del cuerpo y pasa a través de los riñones en su ruta hacia el pene. Sura 23:12-14 dice que Dios creó al hombre a partir de "tierra húmeda, luego lo ubicamos como (una gota de) esperma (*nutfah*) es un alojamiento seguro; luego Transformamos el esperma en un coágulo de sangre condensada (*alaqa*); luego de ese coágulo Creamos un (feto) bulto (*mudghah*), luego a partir de ese bulto Creamos huesos y revestimos los huesos con carne; luego a partir de él Nosotros desarrollamos otra criatura". Este relato sigue directamente las cuatro etapas descritas por el médico griego Galeno, que escribió aproximadamente en 150 EC. Tanto las nociones correctas e incorrectas reflejan las ideas griegas de la época.
+
+   Uno de los compañeros de Mahoma era el doctor Harith ibn Kalada, quien estudió en la escuela de Jundishapur en Persia. Él habría conocido bien las enseñanzas de Aristóteles, Hipócrates y Galeno.
+
+2. El Corán también describe que los humanos vienen de la tierra (11:61), del barro (23:12), del polvo (30:20), del agua (25:54) y de la nada (19:67). Cualquiera que busque un pasaje que reacionalice una opinión en particular tiene abundancia de opciones.
+
+Enlaces
+============
+
+Dr. Lactantius, 1996, 1999. Embryology in the Qur'an. http://answering-islam.org.uk/Quran/Science/embryo.html
+
+Needham, Yusuf and Butrus Needbeer, 2003. Qur'anic embryology. http://www.geocities.com/freethoughtmecca/embryo.html
+
+
+/////
+
+Anterior: :doc:`CJ531`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

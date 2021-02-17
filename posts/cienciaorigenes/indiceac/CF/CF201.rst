@@ -1,0 +1,53 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CF201: Los halos de polonio indican una tierra joven
+.. description: Respuesta a la afirmación creacionista «Los halos de polonio indican una tierra joven»
+.. slug: CF201
+.. link: http://www.talkorigins.org/indexcc/CF/CF201.html
+.. tags: CF, CF200
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-09-11
+
+Algunas micas en granito tienen diminutos halos causados por la desintegración de los elementos radiactivos. A partir de sus diámetros, sabemos la energía de las partículas alfa que causaron los halos, los que nos dice qué elemento se desintegró. Algunos de estos halos se formaron a partir de isótopos de polonio, todos los cuales tienen cortas vidas medias (138 días para el isótopo más longevo). De acuerdo con la geología convencional, las rocas en las cuales se produjeron los halos radiactivos del polonio tardaron millones de años en formarse. Todo el polonio original debió haberse desintegrado en ese tiempo. Por lo tanto, los halos radiactivos del polonio indican una creación súbita del polonio en la roca.
+
+**Fuente:**
+
+* Gentry, R. V., 1986. *Creation's Tiny Mystery*. Knoxville, TN: Earth Science Associates.
+* Snelling, A. A., 2000. Polonium radiohaloes: Still "a very tiny mystery". *Impact* 326 (Aug.), i-iv. 
+  
+Respuesta
+=========
+
+1. El polonio se forma a partir de la desintegración alfa del radón, que es uno de los productos de la desintegración del uranio. Dado que el radón es un gas, puede migrar a través de pequeñas rajaduras en los minerales. El hecho de que los halos de polonio sólo se hayan encontrado en combinación con uranio (el mineral padre para la producción de radón) apoya esta conclusión, al igual que el hecho de que tales halos se encuentran con frecuencia cerca de rajaduras ([Brawley_1992]_; [Wakefield_1998]_).
+
+2. La biotita en la que Gentry obtuvo algunas de sus muestras (los sitios de Fission Mine y Silver Crater; [Gentry_1986]_) no provenía de granito, sino de una cuneta de calcita. La biotita se formó metamórficamente a medida que los minerales de las paredes de la cuneta migraron dentro de la calcita. La biotita de Faraday Mine provino de una pegmatita de granito que se infiltró en un paragneiss que se formó a partir de sedimentos altamente metamórficos. Por lo tanto, todas las ubicaciones que Gentry examinó muestran evidencia de una historia extensa previa a la formación de las micas; muestran una apariencia de edad más antigua que los tres minutos que permite su teoría de los halos de polonio. Es posible que Dios creara esta apariencia de edad, pero esto reduce el argumento de Gentry al argumento :doc:`omphalos <CH220>`, para el cual la evidencia es irrelevante ([Wakefield_1998]_).
+   
+3. Se encontraron estromatolitos en rocas infiltradas por (y por lo tanto más viejas que) las cunetas de las que vinieron las muestras de Gentry, mostrando que existían seres vivos antes de las rocas que Gentry afirmaba que eran primordiales ([Wakefield_1998]_).
+   
+
+Enlaces y referencias
+=====================
+
+.. [Brawley_1992] Brawley, John. 1992. Evolution's tiny violences: The Po-halo mystery. http://www.talkorigins.org/faqs/po-halos/violences.html
+.. [Gentry_1986] Gentry, R. V. 1988. *Creation's Tiny Mystery*. Knoxville, TN: Earth Science Associates. 
+.. [Wakefield_1998] Wakefield, J. R. 1998. V. abajo.
+
+Otras lecturas
+==============
+
+Wakefield, J. Richard. 1998. The geology of Gentry's "tiny mystery". *Journal of Geological Education* 36 (May): 161-175. http://www.csun.edu/~vcgeo005/gentry/tiny.htm
+
+Collins, Lorence G. 1997. Polonium halos and myrmekite in pegmatite and granite. http://www.csun.edu/~vcgeo005/revised8.htm
+
+		
+/////
+
+Anterior: :doc:`CF101` | Siguiente: :doc:`CF210`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

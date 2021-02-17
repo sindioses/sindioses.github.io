@@ -1,0 +1,136 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC200
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CC200
+.. link: http://www.talkorigins.org/indexcc/CC/CC200.html
+.. date: 2003-04-01
+.. title: CC200: Hay faltantes en los fósiles transicionales
+.. description: Respuesta a la afirmación creacionista «Hay faltantes en los fósiles transicionales»
+.. type: afirmacrea
+
+No hay fósiles transicionales. La evolución predice un continuo entre cada organismo fósil y sus ancestros. En lugar de ello, vemos huecos sistemáticos en el registro fósil.
+
+**Fuente:**
+
+* Morris, Henry M. 1985. *Scientific Creationism*. Green Forest, AR: Master Books, pp. 78-90.
+* Watchtower Bible and Tract Society. 1985. *Life--How Did It Get Here?* Brooklyn, NY, pp. 57-59.
+
+Respuesta
+============
+
+1. Hay muchos fósiles transicionales. La única manera en que afirmar su absencia puede justificarse siquiera remotamente, aparte de ignorar completamente las pruebas, es redefinir "transicional" para referirse a un fósil que es un ancestro directo de un organismo y descendiente directo de otro. Sin embargo, no se requiere que haya ascendencias directas; incluso si se encontraran, no podrían verificarse. Un fósil transicional, en concordancia con las predicciones de la teoría de la evolución, es un fósil que muestra un mosaico de otras características de un organismo más viejo y uno más reciente.
+
+2. Los fósiles transicionales pueden coexistir con los huecos. No esperamos encontrar secuencias finamente detalladas de fósiles que se hayan preservado durante millones de años. Sin embargo, sí encontramos finas gradaciones de fósiles entre especies y géneros, y hallamos muchas otras secuencias entre taxones más elevados que aún así están bastante bien pobladas.
+
+   Las siguientes son transiciones de fósiles entre especies y géneros:
+
+   a) :doc:`La ascendencia humana <CC050>`. Hay muchos fósiles de ancestros humanos, y las diferencias entre especies son tan graduales que no siempre está claro dónde trazar las líneas que los dividen.
+
+   b) Los cuernos de los titanóteros (mamíferos extintos del Cenozoico) aparecen en tamaños progresivamente más grandes, desde la nada hasta los muy importantes. Otras características de la cabeza y el cuello también evolucionaron. Estas características son adaptaciones para las embestidas frontales, análogas a la conducta de las ovejas ([Stanley_1974]_).
+
+   c) Una secuencia fósil transicional gradual conecta los foraminíferos *Globigerinoides trilobus* y *Orbulina universa* ([Pearson_et_al_1997]_). *O. universa*, el fósil más tardío, presenta una testa esfèrica rodeando una caparazón "estilo Globigerinoides", mostrando que una característica se agregó, no se retiró. La prueba es visible en todas las cuencas oceánicas tropicales importantes. Varias morfoespecies intermedias conectan las dos especies, tal como puede verse en el gráfico incluido en [Lindsay_1997]_.
+
+   d) El registro fósil muestra transiciones entre las especies de *Phacops* (un trilobite; *Phacops rana* es el fósil del estado de Pennsylvania; [Eldredge_1972]_, [Eldredge_1974]_; [Strapple_1978]_).
+
+   e) Los foraminíferos planctónicos [Malmgren_et_al_1984]_. Este es un ejemplo de gradualismo puntuado. Un registro fósil de foraminíferos de diez millones de años muestra largos períodos de estasis y otros períodos de cambio relativamente rápido pero aún gradual.
+
+   f) Los fósiles de la diatomea *Rhizosolenia* son muy comunes (en ellos se realiza minería como `diatomita o tierra de diatomeas <https://es.wikipedia.org/wiki/Diatomita>`_) y muestran un registro continuo de casi dos millones de años que incluye un registro de un evento de especiación ([Miller_1999]_, pp. 44-45).
+
+   g) Las especies de moluscos de Lago Turkana ([Lewin_1981]_).
+
+   h) Los ostracodos marinos del Cenozoico ([Cronin_1985]_).
+
+   i) El genus *Cantius* de primates del Eoceno ([Gingerich_1976]_, [Gingerich_1980]_, [Gingerich_1983]_).
+
+   j) Vieiras del genus *Chesapecten* muestran cambio gradual en una "oreja" de su articulación a lo largo de 13 millones de años. Las estrías también cambian ([Pojeta_Springer_2001]_, [Ward_Blackwelder_1975]_).
+
+   k) Las *Gryphaea* (ostras enroscadas) se vuelven más largas y anchas pero más delgadas y chatas durante el Jurásico Temprano ([Hallam_1968]_).
+
+   Las siguientes son transiciones fósiles entre familias, órdenes y clases:
+
+   a) Ascendencia humana. *Australopithecus*, aunque su pierna y huesos pélvicos muestran que caminaba verticamente, tenía una rugosidad ósea en en antebrazo, posiblemente vestigial, indicativa de caminata apoyada sobre los nudillos ([Richmond_Strait_2000]_).
+
+   b) :doc:`Transiciones de dinosaurios a pájaros <CC214>`.
+
+   c) *Haasiophis terrasanctus* es una serpiente marina primitiva con extremidades traseras bien desarrollados. Aunque otras serpientes sin extremidades pueden ser más ancestrales, este fósil muestra una relación de serpientes con ancestros con extremidades ([Tchernov_et_al_2000]_). *Pachyrhachis* es otra serpiente con piernas relacionada con *Haasiophis* ([Caldwell_Lee_1997]_).
+
+   d) Las mandíbulas de los mososaurios también son intermedias entre serpientes y lagartos. Como las mandíbulas extensibles de las serpientes, tienen mandíbulas inferiores muy flexibles, pero a diferencia de las serpientes, no tienen mandíbulas superiores altamente flexibles. Algunas otras características del cráneo de los mososaurios son intermedias entre serpientes y los lagartos primitivos ([Caldwell_Lee_1997]_; [Lee_et_al_1999]_; [Tchernov_et_al_2000]_).
+
+   e) :doc:`Las transiciones entre mesoníquidos y ballenas <CC216_1>`.
+
+   f) :doc:`Las transiciones entre peces y tetrápodos <CC212>`.
+
+   g) Las transiciones entre condilartros (un tipo de mamífero terrestre) a manatíes totalmente acuáticos. En particular, *Pezosiren portelly* es claramente un sirénido, pero sus miembros inferiores y su pelvis no se han reducido ([Domming_2001a]_, [Domming_2001b]_).
+
+   h) *Runcaria*, una planta del Devónico Medio, fue una precursora de las plantas con semillas. Tiene todas los atributos de las semillas excepto un recubrimiento sólido para la semilla y un sistema para guiar al pólen hasta la semilla ([Gerrienne_et_al_2004]_).
+
+   i) Una abeja, *Melittosphex burmensis*, del ámbar del Cretácico Temprano, tiene características primitivas esperables en una transición entre avispas crabrónidas y las abejas actuales ([Poinar_Danforth_2006]_).
+
+   Las siguientes son transiciones fósiles entre reinos y filos:
+
+   a) Los fósiles cámbricos *Halkiera* y *Wiwaxia* tienen características que los conectan entre sí y con los filos modernos de Mollusca, Brachiopoda y Annelida. En particular, una especie de halkiérido tiene caparazones como las de los braquiópodos en el lado dorsal en cada extremo. Esto se ve también en una etapa inmadura de la especie *Neocrania* de braquiópodos vivientes. Tienen (¿cerdas?) idénticas en estructura a los poliquetos, un grupo de anélidos. *Wiwaxia* y *Halkiera* tienen la misma distribución básica de escleritos huecos, una distribución que es similar a la distribución de las quetas en los poliquetos. La superficie inferior de *Wiwaxia* tiene una suela blanda como el pie de un molusco, y su mandíbula se parece a la boca de un molusco.  Los aplacóforos, un grupo de moluscos primitivos, tienen un cuerpo blando cubierto con espículas similares a los escleritos de *Wiwaxia* ([Conway_Morris_1998]_, pp 185-195).
+
+   b) Los fósiles cámbricos y precámbricos *Anomalocaris* y *Opabinia* son :doc:`transicionales entre los artrópodos y los lobópodos <CC220>`.
+
+   c) Se descubrió que un equinodermo ancestral es intermedio entre los equinodermos modernos y otros deuterostomas ([Shu_et_al_2004]_).
+
+Enlaces
+========
+
+Hunt, Kathleen. 1994-1997. Transitional vertebrate fossils FAQ. http://www.talkorigins.org/faqs/faq-transitional.html
+
+Miller, Keith B. n.d. Taxonomy, transitional forms, and the fossil record. http://www.asa3.org/ASA/resources/Miller.html
+
+Patterson, Bob. 2002. Transitional fossil species and modes of speciation. http://www.origins.tv/darwin/transitionals.htm
+
+Thompson, Tim. 1999. On creation science and transitional fossils. http://www.tim-thompson.com/trans-fossils.html
+
+Referencias
+=============
+
+
+
+.. [Caldwell_Lee_1997] Caldwell, M. W. and M. S. Y. Lee, 1997. A snake with legs from the marine Cretaceous of the Middle East. *Nature* 386: 705-709.
+.. [Conway_Morris_1998] Conway Morris, Simon, 1998. *The Crucible of Creation*, Oxford University Press.
+.. [Cronin_1985] Cronin, T. M., 1985. Speciation and stasis in marine ostracoda: climatic modulation of evolution. *Science* 227: 60-63.
+.. [Domming_2001a] Domning, Daryl P., 2001a. The earliest known fully quadupedal sirenian. *Nature* 413: 625-627.
+.. [Domming_2001b] Domning, Daryl P., 2001b. New "intermediate form" ties seacows firmly to land. *Reports of the National Center for Science Education* 21(5-6): 38-42.
+.. [Eldredge_1972] Eldredge, Niles, 1972. Systematics and evolution of *Phacops rana* (Green, 1832) and *Phacops iowensis* Delo, 1935 (Trilobita) from the Middle Devonian of North America. *Bulletin of the American Museum of Natural History* 147(2): 45-114.
+.. [Eldredge_1974] Eldredge, Niles, 1974. Stability, diversity, and speciation in Paleozoic epeiric seas. *Journal of Paleontology* 48(3): 540-548.
+.. [Gerrienne_et_al_2004] Gerrienne, P. et al. 2004. *Runcaria*, a Middle Devonian seed plant precursor. *Science* 306: 856-858.
+.. [Gingerich_1976] Gingerich, P. D., 1976. Paleontology and phylogeny: Patterns of evolution of the species level in early Tertiary mammals. American Journal of Science 276(1): 1-28.
+.. [Gingerich_1980] Gingerich, P. D., 1980. Evolutionary patterns in early Cenozoic mammals. *Annual Review of Earth and Planetary Sciences* 8: 407-424.
+.. [Gingerich_1983] Gingerich, P. D., 1983. Evidence for evolution from the vertebrate fossil record. *Journal of Geological Education* 31: 140-144.
+.. [Hallam_1968] Hallam, A., 1968. Morphology, palaeoecology and evolution of the genus *Gryphaea* in the British Lias. *Philosophical Transactions of the Royal Society of London* B 254: 91-128.
+.. [Lee_et_al_1999] Lee, Michael S. Y., Gorden L. Bell Jr. and Michael W. Caldwell, 1999. The origin of snake feeding. *Nature* 400: 655-659.
+.. [Lewin_1981] Lewin, R., 1981. No gap here in the fossil record. Science 214: 645-646.
+.. [Lindsay_1997] Lindsay, Don, 1997. A smooth fossil transition: Orbulina, a foram. http://www.don-lindsay-archive.org/creation/orbulina.html
+.. [Malmgren_et_al_1984] Malmgren, B. A., W. A. Berggren and G. P. Lohmann, 1984. Species formation through punctuated gradualism in planktonic foraminifera. Science 225: 317-319.
+.. [Miller_1999] Miller, Kenneth R., 1999. Finding Darwin's God. New York: HarperCollins.
+.. [Pearson_et_al_1997] Pearson, P. N., N. J. Shackleton and M. A. Hall. 1997. Stable isotopic evidence for the sympatric divergence of Globigerinoides trilobus and Orbulina universa (planktonic foraminifera). Journal of the Geological Society, London 154: 295-302.
+.. [Poinar_Danforth_2006] Poinar, G. O. Jr. and B. N. Danforth. 2006. A fossil bee from Early Cretaceous Burmese amber. Science 314: 614.
+.. [Pojeta_Springer_2001] ? [*]_
+.. [Richmond_Strait_2000] Richmond B. G. and D. S. Strait, 2000. Evidence that humans evolved from a knuckle-walking ancestor. Nature 404: 382-385. See also Collard, M. and L. C. Aiello, 2000. From forelimbs to two legs. Nature 404: 339-340.
+.. [Shu_et_al_2004] Shu, D.-G. et al., 2004. Ancestral echinoderms from the Chengjiang deposits of China. Nature 430: 422-428.
+.. [Stanley_1974] Stanley, Steven M., 1974. Relative growth of the titanothere horn: A new approach to an old problem. Evolution 28: 447-457.
+.. [Strapple_1978] Strapple, R. R., 1978. Tracing three trilobites. Earth Science 31(4): 149-152.
+.. [Tchernov_et_al_2000] Tchernov, E. et al., 2000. A fossil snake with limbs. Science 287: 2010-2012. See also Greene, H. W. and D. Cundall, 2000. Limbless tetrapods and snakes with legs. Science 287: 1939-1941.
+.. [Ward_Blackwelder_1975] Ward, L. W. and B. W. Blackwelder, 1975. Chesapecten, A new genus of Pectinidae (Mollusca: Bivalvia) from the Miocene and Pliocene of eastern North America. U.S. Geological Survey Professional Paper 861.
+
+/////
+
+**Notas de Sin Dioses:**
+
+.. [*] La referencia falta en el original [N. de los E.]
+
+
+/////
+
+Anterior: :doc:`CC150` | Siguiente: :doc:`CC200_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,39 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA200
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA220
+.. link: http://talkorigins.org/indexcc/CA/CA220.html
+.. date: 2003-04-21 02:00:00+00:00
+.. title: CA220: La evolución no se puede repetir
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La evolución no se puede repetir»
+
+La ciencia requiere que los experimentos puedan repetirse. La evolución no puede repetirse, por lo tanto no es ciencia.
+
+**Fuente:**
+
+Morris, Henry M. 1985. *Scientific Creationism*. Green Forest, AR: Master Books, p. 4.
+
+Respuesta
+==========
+
+1. La ciencia requiere que las observaciones puedan ser replicadas. Las observaciones en las que se basa la evolución, incluyendo anatomía comparativa, genética y fósiles, son replicables. En muchos casos, uno puede repetir las observaciones por sí mismo.
+
+2. Los experimentos repetibles, incluyendo los experimentos sobre mutaciones y selección natural en el laboratorio y en el campo, también respaldan la evolución.
+
+Otras lecturas
+===============
+
+Weiner, Jonathan. 1994. *The Beak of the Finch: A story of evolution in our time*. New York: Knopf.
+
+
+/////
+
+Anterior: :doc:`CA215` | Siguiente: :doc:`CA221`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

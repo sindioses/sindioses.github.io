@@ -1,0 +1,255 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. title: Un revés para la homeopatía. Florida: ¿un estado de ignorancia? Con el espíritu de Jonathan Swift. Un jurado honesto frustrado. Respuesta bienvenida. Encuesta sobre la fe en Gran Bretaña. Observaciones interesantes. El Omnitrón sigue con nosotros. Para cerrar.
+.. type: randi
+.. category: Traducciones de James Randi
+.. date: 2005-12-18 00:00:00
+.. author: James Randi, traducción de Marcelo Huerta San Martín
+
+.. contents:: Contenido
+   :class: sidebar
+   :local:
+
+Un revés para la homeopatía
+...........................
+
+.. image:: http://www.randi.org/images/commentary/nov2005/18nmhner.jpg
+   :alt:
+   :align: right
+
+Nuestro buen amigo el doctor Martin Mahner, del grupo de escépticos GWUP de Rossdorf, Alemania, ha aportado estas buenas noticias:
+
+  En 2003 un grupo de farmacólogos de la Universidad de Leipzig afirmó haber probado la eficacia de las soluciones de belladona de alta potencia (D32, D60 y D100). Los autores, Franziska Schmidth, la profesora Karen Nieber y el profesor Wolfgang Suess han hecho experimentos in vitro con tejido de intestino de rata. Incluso antes de la publicación de sus resultados positivos [...] la comunidad homeopática estaba tan entusiasmada sobre esta nueva prueba de la homeopatía que en 2003 se otorgó a los tres autores el “Heinrich-Reckeweg-Preis” (por valor de 10.000 Euros) de la Sociedad Internacional de Homotoxicología (http://www.uni-leipzig.de/presse2003/homoeopathie.html).
+
+  Los escépticos pronto señalaron que el estudio tenía serias fallas (http://www.xy44.de/belladonna) y se quejaron con el decano de la facultad donde se produjeron los resultados. No sucedió nada por un tiempo, pero ahora la Revista de Farmacéuticos Alemanes (Deutsche Apothekerzeitung) informa en su último número (2005, vol. 145 no. 44 pp. 24f) que los autores ahora han admitido que su estudio tenái fallas; y que, como consecuencia, se ha retirado la publicación de la revista Biologische Medizin y han devuelto el Premio Reckeweg. De hecho, la noticia del premio fue retirada sin comentarios de la página web de Niebers en la noche del 8 al 9 de noviembre de 2005.
+
+Randi comenta: Qué distinta de la situación en los EE.UU con el doctor Bruce Flamm y el Journal of Reproductive Medicine que `discutimos anteriormente <randi20051014.html#ignorando-la-responsabilidad-period-stica>`__. Hay una lección para las publicaciones estadounidenses de ciencia, creo yo... Sigue diciendo el doctor Mahner:
+
+  Esta es la tercera derrota seguida para los homeópatas en la segunda mitad de 2005. Después del influyente metaanálisis de Lancet en agosto, que fue un desastre para la homeopatía, a principio de septiembre la agencia más renombrada de protección al consumidor de Alemania, el Stiftung Warentest de Berlín, publicó la nueva edición de su manual de medicina alternativa (Die Andere Medizin), evaluando cierta cantidad de terapias alternativas. Los autores del manual, cuyo contenido fue revisado por Edzard Ernst, afirman que la mayoría de las terapias alternativas evaluadas son inútiles, si es que no son nocivas; sólo un tercio de todas las aplicaciones de todas las terapias alternativas listadas en el libro mostraron algún efecto positivo. Esto es, mucho menos de un tercio de esas terapias alternativas son efectivas, porque no todas las terapias han sido probadas para todas las indicaciones. Más aún, lo que no es una sorpresa, la mayoría de los resultados positivos se obtuvieron en el caso de varias técnicas de relajación como entrenamiento autogénico, yoga, meditación, hipnosis, etc.
+
+  La evaluación negativa de la homeopatía en este manual resultó en una protesta de los homeópatas alemanes. Ahora esperamos la reacción ante el retiro de los estudios de Leipzig.
+
+Gracias, doctor Mahner. Creo que podemos esperar las objeciones habituales de que esas objeciones no son objetivas... Pero ya veremos.
+
+Junto con esta investigación llega un artículo en el `Lancet, la publicación de la Asociación Médica Británica`_. Se titula “¿Los efectos clínicos de la homeopatía son efectos placebo? Estudio comparativo de pruebas de la homeopatía y la alopatía controladas por placebo”, cuyos autores son investigadores del Departamento de Medicina Social y Preventiva de la Universidad de Berna en Berna, Suiza.
+
+Empieza diciendo que “...los efectos específicos de los remedios homeopáticos parecen implausibles”, y el estudio sugiere que puede haber habido tendenciosidad en la conducta y la información de las pruebas de la homeopatía. Para investigar esta posibilidad, los autores consideraron pruebas controladas por placebo de la homeopatía identificadas por una búsqueda abarcativa de la literatura disponible que abarcaba diecinueve bases de datos electrónicas, listas de referencia de los informes relevantes y contacto con expertos. Seleccionaron aleatoriamente pruebas en medicina convencional que coincidieran con las pruebas homeopáticas y extrajeron datos de los resultados informados que indicaban mejoras. Como correspondía, asignaron más peso a las pruebas realizadas doblemente a ciegas y con aleatorización adecuada.
+
+Analizando 110 pruebas homeopáticas y las 110 pruebas coincidentes de medicina convencional, hallaron que las pruebas más pequeñas y las de menor calidad indicaban más efectos benéficos del tratamiento que las pruebas mayores y de mayor calidad. Concluyeron que existieron prejuicios experimentales en pruebas controladas por placebo de la homeopatía y en pruebas de medicina convencional. Teniendo en cuenta esos prejuicios, lo que restaba era evidencia débil para un efecto específico de los remedios homeopáticos, pero evidencia fuerte para efectos específicos de las intervenciones convencionales. Este hallazgo, concluyeron, es compatible con la probabilidad de que los efectos clínicos de la homeopatía sean efectos placebo.
+
+¡A los bastiones, homeópatas! ¡Las fuerzas de la razón se acercan!
+
+.. _Lancet, la publicación de la Asociación Médica Británica:
+   http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve
+   &db=pubmed&dopt=Abstract&list_uids=16125568
+
+
+Florida: ¿un estado de ignorancia?
+..................................
+
+Tomado de información de un artículo de David Park Musella, del personal del *Skeptical Inquirer*. Si no están suscritos, deberían. Vean http://www.csicop.org/si/:
+
+En florida, como en otros lugares en todo el mundo, el cancro de los cítricos es una amenaza seria a los cultivos de cítricos. Lo causa una bacteria que produce lesiones marrones y con costras con aureolas amarillas que aparecen en las hojas y la piel de la fruta, reduciendo la capacidad fotosintética, atrofiando el crecimiento e impidiendo la maduración de la fruta. El tratamiento normal es draconiano: los árboles enfermos simplemente se cortan y se queman. Y, como podemos imaginar, a los funcionarios del gobierno del estado de Florida les ofrecen con periodicidad nuevas supuestas curas y prevenciones. Los cultivos de cítricos de Florida contribuyen con miles de millones de dólares a la economía del estado, de modo que cuando se amenaza a esta industria, por supuesto, se considera cualquier cosa que pueda ayudar.
+
+Katherine Harris, la Secretaria de Estado de Florida en 2001, estaba fascinada con un producto milagroso llamado “Gotas Celestiales”, un nombre que por sí mismo debería haber sido bastante advertencia. La señora Harris, preocupada con razón por el hecho de que el cancro de los cítricos plagaba los cultivos de Florida, consideró este tratamiento “alternativo”, que se suponía que funcionaba gracias a principios de “diseño fractal mejorado”, “infinitos niveles de orden” y “alta energía y baja entropía”. Sin que la detuviera el hecho de que no tenía idea de lo que significaban esos términos, y sin consultar primero a asesores científicos, la Secretaria Harris ordenó un estudio formal en el cual los investigadores trabajaron con un rabino y un cardiólogo (obviamente los expertos adecuados para semejante investigación) para probar las gotas. El estudio oficial determinó que el producto comprobado era simplemente agua que había sido bendita de acuerdo con los principios del misticismo cabalístico, “cambiando su estructura molecular e infundiéndole poderes de curación sobrenaturales”. ¡Sí, claro!
+
+Luego se verificó científicamente la noción de las Gotas Celestiales. Como resultado, Wayne Dion, jefe de la Oficina de Entomología, Nematología y Patología Vegetal de Florida, informó que
+
+  [...] el producto es un fraude y no se basa en ciencia conocida alguna [...]. Deseo mantener nuestra posición en la comunidad científica y no permitir [a los creadores de Gotas Celestiales] que usen nuestra credibilidad duramente ganada para promocionar su producto.
+
+Hemos sabido que la señora Katherine Harris ha ascendido a alturas mayores de poder; ahora es miembro de la Cámara de Diputados de los Estados Unidos...
+
+Con el espíritu de Jonathan Swift
+.................................
+
+.. figure:: http://www.randi.org/images/commentary/nov2005/18mit.jpg
+   :alt:
+   :figwidth: 132
+
+   **El modelo "Centurión" del MIT para el casco de aluminio**
+
+Piquen en http://people.csail.mit.edu/rahimi/helmet/ y tomen asiento para reírse un rato. Los estudiantes del MIT Ali Rahimi, Ben Recht, Jason Taylor y Noah Wawter han escrito un informe científico que alegraría los pliegues del corazón de Jonathan Swift, si dichos pliegues todavía pudieran alegrarse. Es un perfecto paralelo de las cantidades de informes pseudocientíficos que se publican cada mes en publicaciones serias. El lector Ted Vriezen nos asegura, luego de leer esta publicación:
+
+  Ya estoy bien protegido por las latas de aluminio que coloco en torno a mí en mi casa y oficina. Los extraterrestres me dijeron que funciona mejor. Desde entonces no he sabido mucho de ellos.
+
+  Ahora me pregunto si no habrá una conspiración extraterrestre con las latas de aluminio. ¿Están desviando las ondas de control mental o enfocándolas? Piénselo. Las latas de aluminio tienen esa forma cóncava (¿antena parabólica?) en el fondo que apunta hacia arriba cuando uno vacía las últimas gotas en la boca, dejando una cavidad amplificadora de resonancia con un extremo apuntado al cerebro. Y la manijita podría ser una antena transmisora (energizada por la carbonización presurizada) que envía una señal de activación a una nave espacial extraterrestre en órbita en el momento en que abre la lata. Quién sabe lo que una nave espacial extraterrestre en órbita podría estar transmitiendo a nuestros cerebros. Ahora todo tiene sentido. Quizá los extraterrestres y el gobierno son cómplices en esto. Quizá los extraterrestres estén controlando al gobierno. Mejor preparo una prsentación para TAM4 mientras todavía hay tiempo. Seguro que me dará prioridad sobre todos los demás oradores. Espero que los extraterrestres no estén leyéndome la mente. Seguiré “actuando” y “pensando” como escéptico para despistarlos.
+
+Un jurado honesto frustrado
+...........................
+
+El lector Charles Miller de Austin, Texas:
+
+  Mientras leía el comentario de esta semana (como hago cada semana) y leía la sección sobre el asilo estatal que no permitía libros sobre el pensamiento crítico, recordé una experiencia que tuve hace algunos años cuando vivía en el Condado de Maricopa, en Phoenix. Me llamaron para participar de un jurado. Me presenté y me condujeron a una gran habitación llena de potenciales jurados. Luego de un tiempo, me llamaron con un grupo de cerca de 40 personas para completar un jurado para un juicio civil. La demanda era de responsabilidad civil por un resbalón seguido de caída.
+
+  Seguramente usted sabe cómo funciona: cada jurado fue interrogado por los abogados de cada lado: Por ejemplo: “Jurado Nº 1, ¿alguna vez compra en la Tienda Bla Bla?” “Jurado Nº 2, ¿alguna vez compra en la Tienda Bla Bla?” Si el jurado respondiera de forma tal que indicara que no actuaría impartialmente, se le diría que volviera al grupo principal para servir, posiblemente, como jurado para un juicio distinto.
+
+  Yo era el Jurado Nº 23.
+
+  .. figure:: http://www.randi.org/images/commentary/nov2005/18fall.jpg
+     :alt:
+     :figwidth: 186
+
+     **Sin razón, ¡sin razón alguna!**
+
+  Uno de los abogados preguntó: “Jurado Nº 1, ¿alguna vez se ha caído al suelo sin razón?”. El jurado Nº 1 respondió que sí. “Jurado Nº 2, ¿alguna vez se ha caído al suelo sin razón?” “Sí”. Y así hasta que llegaron a mí.
+
+  —Jurado Nº 23, ¿alguna vez se ha caído al suelo sin razón?
+
+  —No.
+
+  —Bueno, jurado Nº 24... un momento, Nº 23, ¿\ *nunca* se ha caído al suelo sin razón?
+
+  —No, señor, nunca. Me he tropezado con los cordones, erré a un escalón, me desplomé por estar borracho, salté de aviones en perfecto estado y esta mañana me tropecé con un cachorro de Labrador, pero cada vez que caí, *había* una razón.
+
+  Aquí se vuelve tenebroso: ambos abogados se miraron, se acercaron y se encontraron en medio de la corte. Hablaron por un momento y luego caminaron de regreso para hablar con el juez. Luego de un minuto el juez me dijo:
+
+  —Jurado Nº 23, está excusado. No tiene que volver al grupo de jurados. Recoja sus pertenencias y abandone el edificio. *No* hable con *nadie* del grupo de jurados. Sólo salga. Ya. *No* vuelva mañana, su servicio está completo. ¡Váyase! ¡Ahora!
+
+  ¡Todo lo que hice fue escuchar las preguntas y pensar antes de responder! Ahora bien, podría entender que una de las partes o la otra quisiera tener jurados ciegamente estúpidos en su caso. En este caso no sólo los abogados de ambas partes sino el juez no querían tener nada que ver con un jurado que realmente prestara atención y pensara en el caso.
+
+  ¿Quizá si hubiera dicho “Jesús me hizo tropezar”?
+
+El señor Miller me asegura que estaba dispuesto y preparado para realizar su labor como jurado, si lo hubieran elegido; no estaba intentar evadir su obligación, y sólo dijo la verdad porque la reconoció como tal.
+
+Yo tuve un juez mucho mejor informado en uno de mis llamados para ejercer como jurado aquí en el Condado de Broward en Florida. Al descubrirme en el grupo reunido esperando el proceso de selección, llamó la atención de ambos abogados sobre mi presencia y luego les recordó que yo no era el tipo de persona que tomara una decisión salvo basándome en los hechos presentados. Les preguntó si tenía razón en suponer que preferirían jurados que pudieran ser convencidos con retórica; ambos abogados murmuraron, canturrearon y emitieron interjecciones por un momento y se sintieron aliviados, según me pareció, cuando el magistrado anunció que me liberaba de mi tarea de jurado en esa ocasión.
+
+Respuesta bienvenida
+....................
+
+.. image:: http://www.randi.org/images/commentary/nov2005/18sd.jpg
+   :alt:
+   :align: right
+
+El lector Chris Palmer (vea `el artículo correspondiente de la semana pasada`__) recibió una respuesta muy adecuada y responsable de modo estimulante por parte de Dan Hogan, editor del sitio de internet ScienceDaily. Chris se había quejado por la inclusión de horóscopos en ese foro que en otros aspectos es útil:
+
+  Me doy por enterado de su mensaje (y de las docenas de otros que me han escrito sobre esto hace poco) y retiraré inmediatamente los artículos sobre astronomía de ScienceDaily.
+
+  Lo que ocurrió es que hace poco licenciamos un canal de noticias de UPI [United Press International]; no sólo sus noticias de ciencias, pero todo: noticias generales, ciencia, negocios, deportes, entretenimientos, lo que se le ocurra. Pensé que estaría bien ofrecerlo a nuestros lectores, aunque no todo el contenido estuviera relacionado necesariamente con la ciencia. Sin embargo, no me di cuenta en particular de que el canal “Rarezas” incluía horóscopos.
+
+  Dicho esto, me doy cuenta de que la astrología es especialmente ofensiva para un gran número de nuestros lectores, de modo que trabajaré para excluir explícitamente todo lo que tenga que ver con la astrología en los programas que usamos para mostrar los canales de UPI en ScienceDaily.
+
+  Gracias por llamarnos la atención sobre esto. Hágame saber si tiene alguna pregunta.
+
+Como verán, estimados lectores, sus cartas pueden producir acciones. espero que recuerden la acción rápida y efectiva de Chris la próxima vez que vean algo que exige este tipo de atención... Al pedirle permiso al señor Hogan para usar el artículo citado más arriba en este sitio web, me alegró recibir la siguiente información adicional suya:
+
+  En otro orden de cosas, no estoy seguro de si ya han tratado esto antes, pero he notado una tendencia creciente de los creacionistas en apuntar a sitios relacionados con la ciencia (como el nuestro) que se basan en servicios de avisos publicitarios contextuales para obtener sus recursos económicos. Estos servicios por lo general son bastante buenos, porque son simples de usar y presentan avisos automáticamente para las páginas web basándose en su contenido. Sin embargo, resulta que hay grupos creacionistas y de diseño inteligente que compran avisos de texto para palabras clave como “evolución” que enlazan a sitios anti-evolución.
+
+  Afortunadamente, la mayoría de esos servicios publicitarios por enlace de texto permiten que los que publican bloqueen a anunciantes específicos, pero es un proceso reactivo: uno sólo puede prohibir a anunciantes específicos si ve aparecer sus avisos. Hasta ahora, me las he arreglado para filtrar avisos de docenas de esos chiflados; y no sólo creacionistas, sino chiflados totales que quieren anunciar sus propias “teorías del todo” y cháchara similar. Aún así, unos pocos de esos avisos se cuelan de vez en cuando, y cada vez me inundan los e-mails de lectores furiosos que objetan los avisos, y con buenas razones.
+
+  Como sea, realmente quisiera hacer saber que (1) los lectores tienen que darse cuenta de que a veces los que publican sitios web no tienen control total sobre los avisos que aparecen en sus sitios y (2) los publicistas deberían agruparse y presionar a las agencias publicitarias para que hagan un mejor trabajo de revisar los potenciales anunciantes y darle a los que publican la opción de prohibir categorías completas de auspiciantes que tienen planes religiosos y políticos. Mi modesta contribución.
+
+  A propósito, gracias por todo lo que está haciendo. Soy un gran admirador de su trabajo. ¡Siga luchando por la buena causa!
+
+¡Gracias a usted, editor Dan Hogan!
+
+__ randi20051111.html#siempre-deseoso-de-que-me-demuestren
+
+Encuesta sobre la fe en Gran Bretaña
+....................................
+
+El lector Matthew Kleckner dirige nuestra atención a http://newsforums.bbc.co.uk/nol/thread.jspa?sortBy=2&threadID=310&edition=1&ttl=20051114172724&#paginator. Nos dice:
+
+  El sitio de la BBC ha solicitado durante mucho tiempo las opiniones de los lectores sobre diferentes temas. Anteriormente su personal editorial revisaba los envíos de los lectores y publicaba en su sitio las que parecían lo bastante lúcidas. Ahora, la BBC publica *todos* los envíos de los lectores y permite que los lectores califiquen a las que consideran “recomendadas”. Me sorprendió y deleitó leer los comentarios “recomendados por los lectores” de la encuesta de esta semana: “¿La fe es importante en la sociedad británica?” He aquí algunos extractos rápidos de las ocho respuestas mejor calificadas, según recomiendan los lectores online de la BBC, al momento de enviar este e-mail:
+
+  1. Ahora que la gente está instruida, pueden ver que no hay verdadera necesidad de ser religioso... Al venir de un país que alguna vez fue fundamentalista y que se está volviendo secular, puedo decir que la religión ha sido una gran fuerza de la opresión y la miseria para los irlandeses.
+
+  2. Ninguna religión llega a ser significativa para un *adulto* en esta era, no más que la creencia en Papá Noel o Bob Esponja.
+
+  3. La religión es como un amigo imaginario. Bonita y útil cuando uno es niño pero cuando uno crece se muda al mundo real.
+
+  4. La religión organizada ha atrasado permanentemente a la sociedad y a la ciencia a lo largo de los años y aún hoy lo está haciendo.
+
+  5. No hay motivo racional para que cualquier individuo considere una creencia religiosa como algo que deba influir en su vida.
+
+  6. No tengo fe y para ser honesto todos los conflictos del mundo parecen ser causados por varias religiones.
+
+  7. Como dijo Mark Twain, “La fe es creer en lo que se sabe que no es cierto”. No veo virtud alguna en la “fe”; lo que hace falta es pensamiento racional y un saludable escepticismo.
+
+  8. Espero ansioso el día en que los humanos no seamos ya gobernados por nuestras supersticiones.
+
+Observaciones interesantes
+..........................
+
+El lector Paul Walker-Bright, de Chicago, Illinois, nos hace llegar algunas novedades sobre dos artículos en el comentario de la semana pasada:
+
+  1. Sobre `la detección reciente de luz de algunas de las primeras estrellas por parte de la NASA`__, un gran comentario realizado por uno de los científicos es éste: “Pero hace notar que ‘hasta la falla más insignificante’ al remover las otras fuentes de luz infrarroja (como otras galaxias o incluso polvo en nuestro propio sistema solar) ‘pordían conducir a un resultado espurio’ y sugiere que otros equipos analicen los datos de Spitzer usando métodos independientes para verificar el resultado”.
+
+     Aquí vemos nuevamente que la mayoría de los verdaderos científicos (a diferencia de los partidarios del DI, muchos —aunque no todos— los parapsicólogos, los cientistas cristianos, etc.) están más que dispuestos a admitir que podrían estar equivocados y alientan a otros a que verifiquen sus resultados. ¡Bien hecho, NASA! Apuesto a que Pat Robertson (quien acaba de condenar a todo el pueblo de Dover, Pennsylvania, por votar la remoción de la junta escolar que aprobó el DI) nunca admite un “fallo menor” que “podría conducir a un resultado espurio”.
+
+  2. En respuesta a la indignación del Sr. Cooper por `no habérsele permitido darle a su amigo libros de Carl Sagan y Michael Shermer en el Instituto de Salud Mental de Memphis`__, hay una explicación que de todos modos no excusa la ignorancia mostrada por el personal, pero la muestra de forma ligeramente más benigna. La recepcionista puede haber decidido que los libros eran inapropiados basándose solamente en los títulos de los dos libros (*El mundo y sus demonios* y *Por qué la gente cree cosas raras*). Las referencias a “demonios” y “cosas raras” pueden haber sido suficientes para asustar a la recepcionista. Supongo que la recepcionista no tenía ni idea sobre el contenido o los autores. Eso podría explicar por qué los libros de Palahniuk y Hawking pasaron (aunque por qué actividades violentas como la estrangulación y la pelea en clubes podrían considerarse apropiados es un poco misterioso).
+
+__ randi20051111.html#mirando-hacia-atr-s-muy-hacia-atr-s
+__ randi20051111.html#lo-siguiente-ser-el-diccionario
+
+El Omnitrón sigue con nosotros
+..............................
+
+.. image:: http://www.randi.org/images/commentary/nov2005/18dell.jpg
+   :alt:
+   :align: right
+
+En 1987, el zahorí Dell Winders y yo nos encontramos en una playa de Fort Lauderdale para probar su dispositivo “Omnitrón”, un artefacto cableado para varillas de rabdomancia de USD 3.495 que él vendía. Hace poco me encontré con la videocinta de esa sesión, que está truncada instantes antes de los 13 minutos, justo antes de que la verdadera prueba tuviera lugar.
+
+El señor Winders, que publicita en http://www.omnitron.net, afirmó que podía ubicar algunas monedas de oro que trajo consigo si, como conjunto, se ubicaran al azar en uno de diez agujeros realizados en la playa. Vino equipado con su dispositivo localizador, las varillas de rabdomancia y las monedas. También estaba bien provisto con las fieles coartadas con las que los zahoríes siempre se escudan contra su falla inevitable. Las detallaré más adelante.
+
+Ahora bien, ciertamente recordaría a cualquier zahorí que hubiera sido exitoso. Sin embargo, Winders ahora afirma que en la prueba encontró las monedas ocho de cada doce veces, lo que hubiera sido estadísticamente *muy* significativo para ese protocolo de prueba en particular. También afirma que he negado que la prueba alguna vez se realizara; no, lo que dije es que no se realizó ninguna prueba *exitosa* de su dispositivo, y aunque puede que no identificara por nombre a Winders entre los literalmente cientos de zahoríes que hemos evaluado en todo el mundo, sé con certeza que ninguno de ellos tuvo éxito jamás. Seguramente el señor Winders tendrá al menos una persona que pueda verificar su versión de esa prueba y lo he invitado a proporcionarnos dicha información...
+
+Winders también afirma que la prueba fue filmada en video por una estación de televisión, lo que puede ser correcto, aunque no tengo recuerdo alguno de dicha participación. Es cierto, hubo técnicos filmando el evento y creo que los datos que he recuperado luego de buscar físicamente en dos enormes carpetas de papeles rotulados “Rabdomancia” pueden ser la respuesta a esa situación. A fines de 1985, descubrí que estaba intercambiando correspondencia con un fulano que propuso hacer un documental titulado “El extremo corto de la vara: el dilema del zahorí”. La película nunca se filmó. Dell Winders fue mencionado en esa correspondencia, aunque no encontré mención específica de la sesión de video de la que tenemos una cinta trunca. El productor fallido ahora está buscando para ver si me encuentra la filmación original. Esto establecerá los hechos, y les haré saber lo que averigüe precisamente aquí en el sitio.
+
+Comprendan, esto fue antes de que existiera la |jref| y el premio que yo ofrecía personalmente en ese momento era de USD 10.000.
+
+Como sea, no veo por qué el señor Winders no querría presentarse de nuevo, esta vez por el millón de dólares. Así que le escribí por e-mail:
+
+  Señor Winders: allá en 1987, cuando nos encontramos en Fort Lauderdale, el precio que ofrecía por un resultado exitoso de su dispositivo Omnitrón era de sólo USD 10.000. Actualmente ese premio llega a un millón de dólares y se aplican las mismas reglas. Dado que todavía vende usted el Omnitrón, parece que todavía funciona según usted publicita y usted o cualquier otro (¿sus clientes?) pueden ganar el millón haciendo simplemente una prueba de 30 minutos. ¿Le interesa?
+
+.. image:: http://www.randi.org/images/commentary/nov2005/18winders.jpg
+   :alt:
+   :align: right
+   :target: http://www.randi.org/images/commentary/nov2005/18winders_large.jpg
+
+Les pido que examinen esta foto de la unidad “amplificadora” del “Omnitrón” de Winders. Como verán, hay seis materiales que el usuario puede buscar: cobre, plata, plomo, hojalata y diamante. Nótese que mi Omnitrón esta fijado en la posición “diamante”; no quisiera perderme un diamente extraviado, ¿verdad?
+
+Los usuarios eligen la sustancia que quieren ubicar sintonizándola y luego empiezan a agitar sus varillas alrededor. Esas varillas de metal están conectadas a un apequeña unidad de bolsillo que tiene dentro una batería conectada a un LED rojo. Este circuito consiste en un interruptor de pulsador y una ficha hembra donde se enchufan las varillas. Presionar el interruptor enciende el led, al igual que poner en contacto las varillas. Pegado con goma al tablero del circuito hay un imán de composición muy débil. No hay conexión eléctrica, amigos, sólo está pegado allí. Supongo que funciona por fe. La unidad “amplificadora” se ubica cerca y se supone que de algún modo hay una conexión mística entre esa unidad y las varillas. Todo es bastante esotérico, aunque el cableado interno se ve como si un orangután lo hubiera unido con una pistola de pegamento.
+
+Pero la mejor parte son las siete advertencias que Winders nos hizo en aquella playa hace 18 años. Aquí están, como lo prometimos.
+
+.. image:: http://www.randi.org/images/commentary/nov2005/18omni.jpg
+   :alt:
+   :align: right
+   :target: http://www.randi.org/images/commentary/nov2005/18omni_large.jpg
+
+1. Mientras cavaba los hoyos en la arena con un enorme taladro: “¡Están intentando cansarme!”. Esto se deja caer para que si falla lo atribuya a la fatiga.
+
+2. Mirando su reloj: “Estamos empezando tarde. ¡Espero que no tengamos interferencia!”. Es normal. Una variedad de “interferencia” entre muchas, empezar tarde puede anular todo éxito del Omnitrón.
+
+3. Cuando se le preguntó qué tan profundos tenían que ser los hoyos para que las condiciones del Omnitrón fueran óptimas: “Acepto lo que venga. Si funciona, funciona. Si no, no”. Una coartada general para todo propósito.
+
+4. Comentado casualmente: “Solo en Florida tenemos interferencia. Qué la causa, no lo sé. La última vez fueron las manchas solares”. El señor Winders vive en Haines City, Florida. ¿Significa que *siempre* tiene esos problemas cuando opera el Omnitrón? ¿O le funciona mejor en Nueva York? Cuando le hagamos la prueba, si la hacemos, iremos donde él quiera, por supuesto.
+
+5. Al preguntarle por el tamaño óptimo de la muestra de la sustancia: “¡No puedo diferenciar entre una pizca y una tonelada!” Oh, oh. Dado que es probable que haya “pizcas” de muchas sustancias alrededor, eso casi dice que el Omnitrón estará girando constantemente...
+
+6. ¿Qué podría producir una falla? “Si hay algún problema, sería por *mí*, no por el equipo”. Ya veo. De nuevo, parece ser que si Dell no está perfecto y la prueba falla, aún así el Omnitrón es un dispositivo efectivo.
+
+7. Teníamos planchas ubicadas sobre los oyos para ocultar si había monedas de oro en ellas o no. “Las planchas podrían interferir”. ¡Malditas planchas!
+
+Cuando estaba avanzada la prueba, según mis notas, Dell Winders comentó: “Esta mañana, las condiciones parecían funcionar perfecto, pero ahora tenemos interferencia”. Verán, ese es el gran problema con las pruebas a los zahoríes: hay tantas cosas que pueden “interferir” con el hallazgo del blanco buscado. La lista es interminable. Temperatura, humedad, altitud o actitud, ruidos, presión atmosférica, brisas, indigestión, calzado, radios o teléfonos celulares cerca, nubes, demasiado sol o demasiado poco, cualquier clase de variación de la situación ideal (cualquiera que *ésta* sea) sale a colación como excusa para el fracaso.
+
+En resumen, la rabdomancia parece ser un talento débil. En mi opinión, no existe en lo absoluto. Pero la |jref| tiene un millón de dólares listo para entregarlo a Dell Winders (\ *¡o a cualquier otro!*\ ) que pueda hacer que esa varilla de zahorí (\ *o cualquier dispositivo de rabdomancia*\ ) funcione como se anuncia. ¿Hay alguien allí?
+
+¡Ahá! No, eso fue alguien golpeando, rozando suavemente, la puerta de mi habitación...
+
+Para cerrar
+...........
+
+El lector Jay Kiessling puso una cuchara doblada por Randi en eBay ¡y obtuvo USD 76 de un comprador de Nottingham, Nottinghamshire! ¡Es más de 44 veces lo que ganó la cuchara de Geller! Además, ¡hubo 13 ofertas, contra la única para el cubierto de Geller!
+
+Tengo que doblar más cucharas. ¡Parece que dan dinero!
+
+
+|firmarandi|
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: Traducido por Marcelo Huerta San Martín
+    :description: Description

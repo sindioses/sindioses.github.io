@@ -1,0 +1,44 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CH030: Dios es supremamente bueno
+.. description: Respuesta a la afirmación creacionista «Dios es supremamente bueno»
+.. slug: CH030
+.. link: http://www.talkorigins.org/indexcc/CC/CH030.html
+.. tags: CH, CH030
+.. author: Mark Isaak, traducción de Marcelo Huerta
+.. date: 2003-05-29
+.. modified: 2004-04-05
+
+Dios es supremamente bueno. Por lo tanto, todos deberíamos adorarLo y seguirLo.
+
+Respuesta
+=========
+
+1. Ese no es un argumento en favor del creacionismo o en favor de la evolución. La evolución es compatible con un dios bueno.
+2. La omnibenevolencia de Dios normalmente acompaña afirmaciones de que es omnisciente y todopoderoso. Pero esas tres cualidades no son compatibles con la observación de que existe sufrimiento en el mundo.
+3. El mismo dios que la gente considera omnibenevolente es un dios a quien se acredita la creación del infierno y su destierro allí a quienes no lo aceptan. Permitir que cualquiera sufra el máximo tormento por toda la eternidad, especialmente cuando se tiene el poder de impedirlo, es, podría decirse, la mayor forma posible de maldad. El único objetivo de causar dolor y sufrimiento sin la posibilidad de redención es una crueldad mezquina.
+
+   Forzar a alguien a sufrir por no retribuir tu amor es cruel, vengativo y mezquino. Las sociedades consideran que ese comportamiento es lo bastante maligno como para dictar leyes que lo impidan.
+
+   Causar que una persona sufra por toda la eternidad (incluso por un crimen verdaderamente atroz) ya es bastante malo. Causar que miles de millones de personas sufran por toda la eternidad (especialmente cuando la mayoría no son culpables de otra cosa que de que no les hayan enseñado la "verdadera" religión) sólo puede ser visto como considerablemente más enfermo, depravado y maligno.
+
+4. La misma Biblia dice que Dios creó el mal (*"Yo creo la luz y la oscuridad, produzco el bienestar y la desgracia. Yo, el Señor, hago todas estas cosas."*, {{% biblia "Isaías 45:7" DHH %}}). {{% biblia "Génesis 2" DHH %}} dice que el árbol del bien y del mal existía en el Edén antes de que Adán y Eva interactuaran con él, lo que implica que el mal existía desde el principio. Y Dios declaró que era bueno.
+
+Otras lecturas
+==============
+
+* Cauthen, Kenneth, 2001. Theodicy: A heterodox alternative. http://www.frontiernet.net/~kenc/theodicy2.htm
+
+* Livingstone, David N., 1984. *Darwin's Forgotten Defenders: The encounter between Evangelical theology and evolutionary thought.* Vancouver, BC: Regent College Publishing.
+
+
+/////
+
+Anterior: :doc:`CH010_1` | Siguiente: :doc:`CH050`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

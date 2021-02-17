@@ -1,0 +1,106 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. date: 2006-03-03
+.. author: Phil Plait, traducción de Marcelo Huerta San Martín
+.. category: Traducciones de James Randi
+.. title: Hal Bidlack presenta la columna de esta semana, escrita por el Dr. Phil Plait. La ciencia está siendo atacada. Para cerrar...
+.. type: randi
+
+
+Debido a que James Randi sigue en recuperación de su cirugía de corazón, le ha pedido a Hal Bidlack que agrupara a algunos escritores estelares invitados para esta columna.
+
+La columna de esta semana fue escrita por el doctor Phil Plait, el `Mal Astrónomo`_.
+
+.. _mal astrónomo: http://www.badastronomy.com/
+
+Hal Bidlack presenta la columna de esta semana, escrita por el Dr. Phil Plait
+.............................................................................
+
+.. image:: http://www.randi.org/images/commentary/200603/03plait.jpg
+   :alt:
+   :align: left
+
+Tengo el gran gusto de traerles las palabras, los pensamientos y la pasión del doctor Phil Plait a los lectores del Sr. Randi esta semana. Comentario al margen, justo hoy, 28 de febrero al escribir esto, el Sr. Randi me llamó por primera vez desde que enfermó. Teníamos una conexión malísima en el teléfono celular, así que o bien dijo *“¿Hal? Habla Randi, ¿cómo estás?”* o, quizá, dijo *“¿Hotel? Las papas fritas están de moda, ¿comida para el azul?”* [#azul]_
+
+Pero volviendo a Phil Plait: mencioné en mi charla en TAM que me sorprendió la gente notable que deseaba ser mi amiga. Phil Plait es uno de ellos. Es una combinación maravillosa de intelecto brillante, corazón cálido y un escritor y orador fantástico. Phil realmente es una de mis personas favoritas.
+
+Allá por el tiempo en que iniciaba mis estudios en la Universidad de Michigan (igual que Phil) en 1976 (a diferencia de Phil), estudiaba para doctorarme en astronomía. Terminé cambiando a ciencias políticas, pero siempre me gustó mirar hacia arriba. Phil combinaba magníficamente la maravilla y el goce del cielo con una aguda comprensión de la ciencia. También aporta la profunda pasión del sabio y el amable buen humor del ingenioso. En esta columna, sin embargo, vemos que la pasión de Phil se convierte en rabia y frustración en relación con los recientes problemas indecorosos dentro de la NASA. Este tema, el cambio climático global, está cercano y es caro a mi propio corazón. Mi tesis doctoral trataba de la seguridad ambiental y la política, y tuve el honor de trabajar durante dos veranos ('97 y '98) en el plantel del {acro;NSC;National Science Center} (Centro Nacional [Estadounidense] para la Ciencia), trabajando directamente sobre temas referidos al cambio climático. Realmente me alegra ver a Phil ocupándose de este tema con tanta energía.
+
+Para quienes no lo sepan, Phil es una voz muy importante de la razón al promover la ciencia en general y la astronomía en particular. Administra un sitio web de importancia crítica, http://www.badastronomy.com/, en el que Phil ataca a esos tontos que afirman que no fuimos a la luna, que hay un Planeta X dentro de nuestro sistema solar, y tonterías parecidas. Escribe maravillosamente en su *blog*, con una gran comprensión de la naturaleza humana y cómo la gente normal como nosotros puede relacionarse con la astronomía. Por favor lean la sección biográfica de su sitio para enterarse de mucho más sobre este fulano notable. Tiene un doctorado de la Universidad de Virginia, ha trabajado como contratista con fondos de la NASA, ha dado clase y es el único tipo que conozco que puede decir honestamente “bueno, el otro día, cuando estaba tomando fotos con el Telescopio Espacial Hubble...”
+
+Sé que el Sr. Randi le tiene mucho aparecio a este hombre, y yo también. Me da gusto traerles este comentario invitado de una de las mejores personas que conocerán jamás, el doctor Phil Plait...
+
+La ciencia está siendo atacada
+..............................
+
+Oh, eso es obvio. La ciencia ha sido atacada desde que ha habido ciencia. La historia está llena de historias de la superstición subyutando a la realidad con una bota reforzada. Hace 2500 años, los pitagóricos supuestamente mataron a personas que sabían que la raíz cuadrada de dos era un número irracional. Ahora las cosas no están mucho mejor. De hecho, los esfuerzos actuales para negar la ciencia son decididamente más dañinos y vienen de muchos más frentes.
+
+El más obvio es la indignación fundamentalista porque las escuelas se atreven a enseñarles evolución a los niños. Los artículos sobre esto se cuentan en legión, así que no hace falta que me explaye. Y pese a las enormes victorias como la de Dover, Pennsylvania —donde el Juez Jones, conservador (y religioso), usó la frase “estupidez impresionante” al referirse a la forma en que la junta escolar de allí tramó para incluir el Diseño Inteligente en el plan de estudios—, la lucha continúa con furia. Como un virus, no se pueden detener esos asaltos anticientíficos; sólo se los puede mitigar. Ningún estado, ningún distrito escolar está a salvo de los creacionistas.
+
+Ni lo está ningún *campo* de la ciencia. Por supuesto, la astronomía es un blanco obvio para los fundamentalistas, dado que los astrónomos tenemos la osadía de usar la evidencia del propio Universo para estudiar su estructura y (¿me atreveré a decirlo?) la evolución. Llegamos a decir que tenemos una buena idea de cómo comenzó y, no hace falta decirlo, cualquier semejanza entre ese suceso y cualquier cosa escrita en el Génesis es pálida cuando mucho.
+
+Esos ataques ya comenzaron. Predije esto en mi blog (http://www.badastronomy.com/bablog/2005/06/12/the-fort-sumter-of-creationist-astronomy/); no es que fuera muy difícil preverlo, el millón de dólares de Randi está a salvo conmigo. Lo que realmente no preví es que estas tonterías surgieran de nuestra propia agencia espacial.
+
+Si no han estado viviendo debajo de alguna clase de roca (y en verdad hace millones de años que nuestros ancestros hacían *eso*) entonces probablemente han sabido de un tal George Deutsch, Encargado de Asuntos Públicos de la NASA. Se volvió famoso de un modo repentido y vergonzoso cuando intentó silenciar los hallazgos del científico de la NASA, el doctor James Hansen, que es bastante franco sobre el calentamiento global antropocéntrico. Hansen afirmó (y tenía evidencia para respaldarlo) que Deutsch le negó entrevistas con los medios, y muchos científicos salieron a corroborar (de nuevo, con evidencia documental) la historia de Hansen.
+
+Deutsch también quería que otro científico de la NASA se asegurara de poner la palabra “teoría” en un sitio web en todos los lugares donde se mencionaba el Big Bang. No porque es, después de todo, una teoría científica, sino porque el Big Bang “no es un hecho probado; es una opinión [...] A la NASA no le corresponde, ni debería realizar, una declaración de esa clase sobre la existencia del universo que descarta el diseño inteligente por parte de un creador”.
+
+Sí, leyeron bien. Deutsch quería que el Big Bang le cediera el espacio al Diseño Inteligente. *En la NASA*.
+
+Hablando de inteligente, Deutsch renunció unos pocos días después de que se reveló esta noticia cuando salió a la luz que mintió en su currículum; afirmó haberse graduado de la universidad cuando de hecho la abandonó para aceptar el puesto de la NASA.
+
+Así que tenemos:
+
+1. Un estudiante universitario fallido de 24 años, que
+2. no tiene credencial científica alguna, y
+3. no tiene *experiencia* científica en absoluto, y
+4. no tenía experiencia alguna en cuestiones públicas
+
+que les dice a los científicos de la NASA lo que pueden y no pueden decir sobre sus hallazgos científicos.
+
+¿Cómo alguien puede llegar a una posición de tal autoridad sin calificación alguna en lo absoluto?
+
+Si su conjetura fue  “puesto político”, se sacaron un diez.
+
+A Deutsch le dieron ese puesto en la administración actual porque trabajó en favor de Bush y Cheney en la campaña del 2004. Eso es todo. Esa es su única calificación para que lo pusieran en un puesto donde puede distorsionar y suprimir la ciencia.
+
+¿Sorprendidos? No deberían estarlo. Esta administración actual tiene una historia larga y exitosa de castigar a la ciencia. El calentamiento global, el Big Bang, la evolución, las fuentes de energía alternativas, el medio ambiente, la investigación con células proporciales, la medicina anticonceptiva, el HIV y el SIDA y hasta las plataformas más básicas de la educación científica han sido castigadas en la administración Bush. Estos ataques pueden originarse en la religión, la ideología o posiblemente tener como motivo el dinero; pero son reales y están empeorando.
+
+¿Esto pasaba en un gobierno demócrata? Por supuesto, pero *ni por asomo* a este nivel. La gran diferencia ahora es que la ciencia diaria del gobierno está manipulada políticamente y se suprime deliberadamente a escala masiva. Insisto, esto está documentado y es un tema de tanta importancia que la Unión de Científicos Preocupados escribió un informe sobre ello en febrero de 2004 titulado “Integridad científica en la creación de políticas: una investigación sobre el mal uso de la ciencia por parte de la administración Bush”, un revelador documento con detalles y evidencias de interferencia con la ciencia. *Todo* lo que tiene que ver con la ciencia está sometido a escrutinio político, desde la {acro;NOAA;National Oceanic and Atmospheric Administration} [Administración Nacional (Estadounidense) del Océano y la Atmósfera] hasta la NASA y el Instituto Nacional de Salud, y la ciencia se diluye si se la considera contraria a las metas de la administración.
+
+Esto muy decididamente *no es* un tema que sólo deba preocuparles a los liberales; los conservadores deberían sentirse *más* indignados porque sus valores básicos (las libertades personales, la responsabilidad corporativa y una historia de apoyo a la ciencia) han sido pervertidos. Este problema invade todos los órdenes, es endémico y es de una importancia absolutamente crítica si vamos a mantener nuestro estado como la primera nación científica de la Tierra. Estamos criando a una generación de niños que ignoran los principios más básicos de la ciencia y cegando a una gran cantidad de votantes ante los peligros.
+
+No sólo es la evolución lo que está siendo atacado, y no es sólo en Kansas. Es todo, y es en todas partes.
+
+El primer paso para combatirlo es ser consciente de ello. Comentarios como los de Randi son un gran lugar para comenzar. Promueven el pensamiento crítico y el escepticismo. Los *blogs* son otra fuente excelente de información. Por supuesto pueden tener prejuicios, pero leyendo un espectro amplio de *blogs* es probable que encuentren suficiente información para tomar una decisión informada o para impulsar un esfuerzo para obtener más datos. Si me permiten el atrevimiento, los blogs como el mío y otros como `Pharyngula`_, `The Intersection`_, `Thoughts from Kansas`_ y Aetiology_ promueven el pensamiento científico y crean un sentido de la maravilla y el goce de la ciencia al tiempo que señalan los ataques que está sufriendo la ciencia. Los medios principales finalmente están dándose cuenta también de esto (http://www.orlandosentinel.com/orl-nasapolitics1206feb12,0,6913369.story?coll=orl-home-headlines, http://www.nytimes.com/2006/02/08/politics/08nasa.html, http://www.nytimes.com/2006/01/29/science/earth/29climate.html, http://www.nytimes.com/2006/02/04/science/04climate.html).
+
+Como dijo Thomas Jefferson, cuando la gente está bien informada, puede confiárseles su propio gobierno. Pero lo contrario también es cierto: si estamos mal informados, estamos a merced de los que tienen la disposición, la motivación y la capacidad de mantenernos así.
+
+.. _Pharyngula: http://scienceblogs.com/pharyngula/
+.. _The Intersection: http://scienceblogs.com/intersection/
+.. _Thoughts from Kansas: http://jgrr.blogspot.com/
+.. _Aetiology: http://scienceblogs.com/aetiology/
+
+Para cerrar...
+..............
+
+Nuestro amigo Penn Jillette tiene su propio programa de radio, y pueden escucharlo en http://penn.freefm.com/ de 14 a 15 (hora del este) de lunes a viernes. Se menciona con frecuencia a Randi y la JREF, al igual que en el exitoso programa “Bullshit”.
+
+Los planes para The Amaz!ng Adventure están muy avanzados, y esperamos confirmación de quiénes serán nuestros conferencistas invitados para el viaje. Lo informaremos aquí tan pronto lo sepamos. Mientras tanto, ¡recuerden que el 10% termina en unas pocas semanas! Visiten http://www.amazingmeeting.com para enterarse de las últimas novedades sobre los próximos Amazing Meetings.
+
+.. image:: http://www.randi.org/amazingmeeting/adventurelogo.gif
+   :alt:
+   :target: http://www.randi.org/amazingmeeting/cruise/cruise.html
+
+..
+  |firmarandi|
+
+**Notas**
+
+.. [#azul] En inglés, estas dos frases tienen un sonido similar. *[N. del T.]*
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: Traducido por Marcelo Huerta San Martín
+    :description: Hal Bidlack presenta la columna de esta semana, escrita por el Dr. Phil Plait — La ciencia está siendo atacada — Para cerrar...

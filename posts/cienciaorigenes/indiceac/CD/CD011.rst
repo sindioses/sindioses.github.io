@@ -1,0 +1,50 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CD011: La datación por carbono-14 da resultados no fiables
+.. description: Respuesta a la afirmación creacionista «La datación por carbono-14 da resultados no fiables»
+.. slug: CD011
+.. link: http://www.talkorigins.org/indexcc/CD/CD011.html
+.. tags: CD, CD010
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-08-19
+.. modified: 2004-09-02
+
+**Fuente**
+
+Lee, Robert E., 1981. Radiocarbon: Ages in error. *Anthropological Journal of Canada* 19(3): 9-29. Reimpreso en *Creation Research Society Quarterly* 19(2): 117-127 (1982).
+
+Respuesta
+=========
+
+1. Cualquier herramienta dará resultados erróneos cuando se usa mal. La datación por radiocarbono tiene ciertas limitaciones conocidas. Cualquier medición que exceda dichas limitaciones probablemente será inválida. En particular, la datación por radiocarbono funciona para hallar edades de hasta 50.000 años pero no mucho más antiguas. Usarla para fechar elementos más antiguos dará resultados erróneos. Se puede contaminar las muestras con carbono más joven o más viejo, de nuevo invalidando los resultados. Debido al exceso de :sup:`12`\ C liberado a la atmósfera por la Revolución Industrial y el exceso de :sup:`14`\ C producido por las pruebas atómicas atmosféricas durante la década de los 1950, los materiales de menos de 150 años no pueden fecharse con radiocarbono ([Faure_1998]_, 294).
+
+   En sus afirmaciones de error, los creacionistas no consideran el mal uso de la técnica. No es común que usen mal la datación por radiocarbono intentando fechar muestras que tienen millones de años de antigüedad (por ejemplo, :doc:`"madera" del Triásico <CD011_5>`) o que han sido tratadas con sustancias orgánicas. En tales casos, los errores son de los creacionistas, no del método de fechado por carbono-14.
+
+2. El fechado por radiocarbono ha sido repetidamente verificado, demostrando su exactitud. Se calibra con datos de los anillos de los árboles, los cuales dan un calendario casi exacto durante unos 11.000 años hacia el pasado. También ha sido comprobado en artículos cuya edad es conocida por medio del registro histórico, como partes de los manuscritos del Mar Muerto y madera de una tumba egipcia ([MNSU_n_d]_; [Watson_2001]_). Las muestras mútiples a partir de un único objeto han sido fechadas independientemente, y devolvieron resultados consistentes. El fechado por radiocarbono también concuerda con otras técnicas de fechado (p. ej. [Bard_et_al_1990]_).
+
+Referencias
+===========
+
+.. [Bard_et_al_1990]    Bard, Edouard, Bruno Hamelin, Richard G. Fairbanks y Alan Zindler, 1990. Calibration of the 14C timescale over the past 30,000 years using mass spectrometric U-Th ages from Barbados corals. *Nature* 345: 405-410.
+.. [Faure_1998]    Faure, Gunter, 1998. *Principles and Applications of Geochemistry*, 2da ed. Upper Saddle River, NJ: Prentice Hall.
+.. [MNSU_n_d]    MNSU, n.d. Radio-carbon dating. http://emuseum.mnsu.edu/archaeology/dating/radio_carbon.html
+.. [Watson_2001]    Watson, Kathie, 2001. Radiometric time scale. http://pubs.usgs.gov/gip/geotime/radiometric.html
+
+Otras lecturas
+==============
+
+Higham, Tom, 1999. Radiocarbon WEB-Info. http://www.c14dating.com/
+
+Thompson, Tim, 2003. A radiometric dating resource list. http://www.tim-thompson.com/radiometric.html#reliability
+
+
+/////
+
+Anterior: :doc:`CD010` | Siguiente: :doc:`CD011_1`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

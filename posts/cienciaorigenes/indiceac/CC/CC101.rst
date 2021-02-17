@@ -1,0 +1,69 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CC101
+.. link: http://www.talkorigins.org/indexcc/CC/CC101.html
+.. date: 2010-12-09
+.. title: CC101: Se encontraron huellas humanas junto a huellas de dinosaurios en Paluxy
+.. description: Respuesta a la afirmación creacionista «Se encontraron huellas humanas junto a huellas de dinosaurios en Paluxy»
+.. type: afirmacrea
+
+Se encontraron juntas huellas humanas y de dinosaurio en rocas cretácicas del lecho del río Paluxy cerca de Glen Rose, Texas.
+
+**Fuente:**
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, p. 122.
+
+Respuesta
+===============
+
+1. Las presuntas huellas humanas involucran cierta cantidad de fenómenos mal identificados y espurios.
+
+   * La mayoría de las supuestas "huellas humanas" en el lecho del río son formas de huellas elongadas de metatarso de dinosaurio, creadas por dinosaurios que en de vez en cuando presionaron sus metatarsos (plantas de los pies y talones) al caminar. Cuando las impresiones de los dígitos de tales pistas son alteradas por el colapso del barro, la erosión, el rellenado o una combinación de factores, las porciones metatarsianas remanentes con frecuencia se parecen superficialmente a huellas de pisadas humanas. Sin embargo, cuando se limpian bien, tales huellas muestran indicaciones definidas del patrón digital de un dinosaurio con tres dedos ([Kuban_1986a]_, [Kuban_1986b]_; [Hastings_1987]_).
+
+   * Algunas de las presuntas huellas humanas son resultados de la erosión u otras irregularidades naturales. No muestran características humanas claras sin destacar cuidadosamente partes de ellas, ni surgen en secuencias de caminata natural ([Cole_et_al_1985]_).
+
+   * Un número menor de supuestas "huellas de gigante" son talladuras en bloques sueltos de roca ([Godfrey_1985]_; [Kuban_y_Wilkerson_1989]_).
+
+2. Los creacionistas con frecuencia dejan de ejercer el rigor científico y la precaución debida en su trabajo temprano de campo y sus promociones sobre Paluxy. Posteriormente muchos además presentan mal o minimizan el trabajo y los análisis de la ciencia establecida, los cuales forzaron la reevaluación de las evidencias por parte de los creacionistas ([Schadewald_1986]_; [Kuban_1986c]_).
+
+Enlaces
+===========
+
+Kuban, Glen J. 1996. The Texas dinosaur/"man track" controversy. http://www.talkorigins.org/faqs/paluxy.html
+
+Matson, Dave E. 1994. How good are those young-earth arguments? http://www.talkorigins.org/faqs/hovind/howgood-gc.html#G4d
+
+Referencias
+==============
+
+.. [Cole_et_al_1985]    Cole, John R. y Laurie R. Godfrey (eds.). 1985. The Paluxy River footprint mystery — solved. *Creation/Evolution 5(1)*. (edición especial dedicada al tema) http://www.ncseweb.org/resources/articles/3868_issue_15_volume_5_number_1__4_23_2003.asp
+.. [Godfrey_1985]    Godfrey, L. R., 1985. Foot notes of an anatomist. *Creation/Evolution* 5(1): 16-36.
+.. [Hastings_1987]    Hastings, Ronnie J., 1987. New observations on Paluxy Tracks confirm their dinosaurian origin. *Journal of Geological Education* 35(1): 4-15.
+.. [Kuban_1986a]    Kuban, Glen, 1986a. Elongate Dinosaur Tracks, En: Gillette, David D. y Martin G. Lockley, eds., Dinosaur Tracks and Traces, 1989, Cambridge University Press, Cambridge, pp. 57-72. http://paleo.cc/paluxy/elong.htm
+.. [Kuban_1986b]    Kuban, Glen, 1986b. Color distinctions and other curious features of dinosaur tracks near Glen Rose, Texas. En: Gillette y Lockley, 1989, pp. 427-440. http://paleo.cc/paluxy/color.htm
+.. [Kuban_1986c]    Kuban, Glen. 1986c. Review of ICR Impact Article 151. Origins Research. Spring Summer 1986, 9:1. http://paleo.cc/paluxy/sor-ipub.htm
+.. [Kuban_1989] Kuban, Glen J., 1989, Retracking Those Incredible Man Tracks, NCSE Reports, Vol. 9, No. 4, Special Section.
+.. [Kuban_y_Wilkerson_1989]    Kuban, Glen J. and Gregg Wilkerson, 1989. The Burdick Print, Web article at http://paleo.cc/paluxy/wilker5.htm.
+.. [Schadewald_1986]    Schadewald, Robert J. 1986. Scientific creationism and error. *Creation/Evolution* 6(1): 1-9, http://www.talkorigins.org/faqs/cre-error.html
+
+Otras lecturas
+===============
+Gillette, David D. y Martin G. Lockley (eds.). 1989. *Dinosaur Tracks and Traces*, Cambridge, UK: Cambridge University Press. (técnico)
+
+Hastings, Ronnie J. 1986. Tracking those incredible creationists -- the trail continues. *Creation/Evolution* 6(1): 20-28. http://www.ncseweb.org/resources/articles/5063_issue_17_volume_6_number_1__4_23_2003.asp
+
+Hastings, Ronnie J. 1988. Rise and fall of the Paluxy mantracks. *Perspectives on Science and Christian Faith* 40(3): 144-155.
+
+Kuban, Glen J. 1986. A summary of the Taylor site evidence. *Creation/Evolution* 6(1): 11-19. http://www.ncseweb.org/resources/articles/5063_issue_17_volume_6_number_1__4_23_2003.asp
+
+/////
+
+Anterior: :doc:`CC080` | Siguiente: :doc:`CC102`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

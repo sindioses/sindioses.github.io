@@ -1,0 +1,39 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH500
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH505_3
+.. link: http://talkorigins.org/indexcc/CH/CH505_3.html
+.. date: 2003-5-7 02:00:00+00:00
+.. title: CH505.3: El Príncipe Nouri de Bagdad encontró el arca en 1887
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «El Príncipe Nouri de Bagdad encontró el arca en 1887»
+
+Juan José, Príncipe de Nouri, Gran Arcidiácono de Babilonia, etcétera, encontró el arca en lo alto del Ararat en su tercer intento (o en el octavo, según algunos relatos). Tomó medidas detalladas, las cuales coincidían exactamente con las medidas de la Biblia.
+
+**Fuente:**
+
+LaHaye, Tim y John Morris, 1976. *The Ark on Ararat*, Nashville: Thomas Nelson Inc.
+
+Respuesta
+===========
+
+1. Juan José no es una fuente creíble. Sus notables títulos no pudieron verificarse. Luego de que un obispo se negara a ordenarlo, continuó afirmando los siguientes diez años que estaba trabajando para ser ordenado. Alternativamente afirmaba que tenía y que no tenía respaldo económico para reubicar el arca. No pudo convencer a sus amigos de sus afirmaciones. Puede que una vez haya sido un paciente mental en California ([Bailey_1989]_, 85-86).
+
+2. Su descripción del arca entra en conflicto con otros relatos. Y las medidas no podrían considerarse una coincidencia exacta porque nadie sabe el tamaño exacto del cúbito bíblico.
+
+Referencias
+===============
+
+.. [Bailey_1989] Bailey, Lloyd, 1989. *Noah: The Person and the Story in History and Tradition*. Columbia, SC: University of South Carolina Press.
+
+
+/////
+
+Anterior: :doc:`CH505_2` | Siguiente: :doc:`CH505_4`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

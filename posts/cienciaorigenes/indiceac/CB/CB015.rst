@@ -1,0 +1,44 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB015
+.. link: http://www.talkorigins.org/indexcc/CB/CB015.html
+.. date: 2003-10-02 02:00:00+00:00
+.. title: CB015: El ADN necesita proteínas para formarse; las proteínas necesitan ADN
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «El ADN necesita proteínas para formarse; las proteínas necesitan ADN»
+
+El ADN necesita ciertas proteínas para replicarse. Las proteínas necesitan ADN. Ninguno de los dos podría haberse formado naturalmente sin que el otro ya existiera.
+
+**Fuente:**
+
+Morris, Henry M. 1985. *Scientific Creationism*. Green Forest, AR: Master Books, pp. 47-48.
+
+Watchtower Bible and Tract Society. 1985. *Life--How Did It Get Here?* Brooklyn, NY, pg. 45.
+
+Respuesta
+============
+
+1. El ADN podría haber evolucionado gradualmente a partir de un replicador más simple; el ARN es un candidato probable, ya que puede catalizar su propia duplicación ([Jeffares_et_al_1998]_; [Leipe_et_al_1999]_; [Poole_et_al_1998]_). El ARN mismo podría haber tenido precursores más simples, como los ácidos nucleicos peptídicos ([Bohler_et_al_1995]_). Una deoxirribozima puede tanto catalizar su propia replicación como funcionar para partir ARN, todo sin enzimas proteínicas ([Levy_y_Ellington_2003]_).
+
+Referencias
+===============
+
+.. [Bohler_et_al_1995]    Böhler, C., P. E. Nielsen, and L. E. Orgel. 1995. Template switching between PNA and RNA oligonucleotides. *Nature* 376: 578-581. V. también: Piccirilli, J. A., 1995. RNA seeks its maker. *Nature* 376: 548-549.
+.. [Jeffares_et_al_1998]    Jeffares, D. C., A. M. Poole and D. Penny. 1998. Relics from the RNA world. *Journal of Molecular Evolution* 46: 18-36.
+.. [Leipe_et_al_1999]    Leipe, D. D., L. Aravind, and E. V. Koonin. 1999. Did DNA replication evolve twice independently? *Nucleic Acids Research* 27: 3389-3401.
+.. [Levy_y_Ellington_2003]    Levy, Matthew and Andrew D. Ellington. 2003. Exponential growth by cross-catalytic cleavage of deoxyribozymogens. *Proceedings of the National Academy of Science* USA 100(11): 6416-6421.
+.. [Poole_et_al_1998]    Poole, A. M., D. C. Jeffares, and D. Penny. 1998. The path from the RNA world. *Journal of Molecular Evolution* 46: 1-17.
+
+
+/////
+
+Anterior: :doc:`CB010_2` | Siguiente: :doc:`CB020`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

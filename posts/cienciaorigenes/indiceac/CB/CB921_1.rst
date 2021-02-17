@@ -1,0 +1,90 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB900,
+.. author: Mark Isaak, traducción de Paulina Madariaga
+.. nocomments: True
+.. slug: CB921_1
+.. link: http://talkorigins.org/indexcc/CB/CB921_1.html
+.. date: 2007-2-18 02:00:00+00:00
+.. title: CB921.1: ¿Para qué sirve medio ojo?
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «¿Para qué sirve medio ojo?»
+
+**Fuente**
+===========
+
+Paley, Richard, 2000. The eye. http://objective.jesussave.us/eye.html
+
+Respuesta
+===========
+
+1. Un ojo a medias es útil para la visión. Muchos organismos tienen ojos que carecen de algunas de las características propias del ojo humano. Los ejemplos incluyen los siguientes:
+
+   - Los dinoflagelados son células singulares, pero tienen ocelos [órganos visuales] que les permiten dirigirse hacia fuentes de luz ([Kreimar_1999]_).
+
+   - Las estrellas de mar y los platelmintos tienen ocelos; un grupo de células sensibles a la luz, ubicado en una concavidad, permite a los animales detectar de forma más precisa la dirección desde la cual proviene la luz.
+
+   - La mayoría de los mamíferos solo tienen dos clases de fotorreceptores de color, lo que provoca que vean un menor espectro de colores que los humanos. Algunos peces de aguas profundas solo ven en blanco y negro.
+
+   Las prótesis visuales (ojos biónicos) con una capacidad de tan solo 16 pixeles son de gran utilidad para las personas que han quedado ciegas ([Wickelgren_2006]_; [Fildes_2007]_).
+
+2. Los propios humanos están lejos de tener una visión perfecta:
+
+   - Los humanos solo ven tres colores primarios. Algunos peces ven cinco. (Solo unas pocas mujeres son tetracromáticas, es decir, tienen cuatro tipos de receptores de color; [Zorpette_2000]_).
+
+   - Los humanos no pueden ver la luz ultravioleta, como sí pueden hacerlo las abejas.
+
+   - Los humanos no pueden ver la luz infrarroja, como sí pueden hacerlo las víboras de foseta [crótalos] y algunos peces.
+
+   - Los humanos no pueden detectar con facilidad la polarización de la luz, como sí pueden hacerlo las hormigas y las abejas.
+
+   - Los humanos solo pueden ver lo que está frente a ellos. Muchos otros animales tienen un espectro de visión más amplio, como los escolopácidos [familia de aves cuadriformes] y las libélulas.
+
+   - La visión humana es mediocre en la oscuridad; la visión de las lechuzas es 50 a 100 veces más sensible en la oscuridad. Algunos camarones de aguas profundas pueden detectar fuentes de luz que son cientos de veces más tenues incluso ([Zimmer_1996]_).
+
+   - El rango de distancia en que una persona puede enfocar su vista se mide en dioptrías. El espectro humano es de 14 dioptrías en el caso de los niños y va disminuyendo en una dioptría a medida que se envejece. Algunas aves zambullidoras tienen un espectro de cincuenta dioptrías.
+
+   - La resolución de la visión humana no es tan buena como la de los halcones. La vista de un halcón es de aproximadamente 20/5, es decir, pueden ver objetos a cuatro veces la distancia en que puede verlos la vista humana de 20/20.
+
+   - Los humanos tienen un punto ciego debido al "cableado" de sus retinas; los pulpos no adolecen de esto.
+
+   - El Pez de Cuatro Ojos (*Anableps microlepis*) tiene sus ojos divididos por la mitad de manera horizontal, por lo que cada ojo tiene dos sistemas óptimos separados para poder ver dentro y afuera del agua simultáneamente. Los girínidos (familia Gyrinidae de coleópteros) también tienen ojos compuestos divididos, por lo que un par de ojos ve bajo el agua y un par separado ve sobre ella.
+
+   - La visión de la mayoría de los humanos es mediocre bajo el agua. El pingüino tiene una córnea plana, permitiéndole ver bajo el agua con claridad. Curiosanemente, el Pueblo Moken (gitanos de mar) del Sudeste Asiático tiene una mejor visión bajo el agua que el resto de la gente ([Gislén_et_al_2004]_).
+
+   - Los humanos cierran los ojos para parpadear, a diferencia de algunas serpientes.
+
+   - Los camaleones y los hipocampos pueden mover cada ojo de manera independiente.
+
+   Si quieres saber la utilidad de un ojo a medias, pregúntate cómo sobrevives con menos de la mitad de la capacidad que tienen otros ojos en la naturaleza.
+
+Enlaces
+========
+
+Bahar, Sonya, 2002. Evolution of the eye: Lessons from freshman physics and Richard Dawkins. *The Biological Physicist* 2(2): 2-5. http://www.aps.org/units/dbp/newsletter/jun02.pdf
+
+Referencias
+==============
+
+.. [Fildes_2007] Fildes, Jonathan. 2007. Trials for 'bionic' eye implants. *BBC News*, 2/16/2007. http://news.bbc.co.uk/1/hi/sci/tech/6368089.stm
+
+.. [Gislén_et_al_2004] Gislén, A. et al., 2003. Superior underwater vision in a human population of sea gypsies. *Current Biology* 13: 833-836. http://www.current-biology.com/content/article/abstract?uid=PIIS0960982203002902 See also Pilcher, Helen
+
+.. [Kreimar_1999]  Kreimer, Georg, 1999. Reflective properties of different eyespot types in dinoflagellates. *Protist* 150: 311-323. http://www.urbanfischer.de/journals/protist/content/issue3/Pro0021.pdf
+
+.. [Wickelgren_2006] Wickelgren, Ingrid. 2006. A vision for the blind. *Science* 312: 1124-1126.
+
+.. [Zimmer_1996] Zimmer, Carl, 1996. The light at the bottom of the sea. *Discover* (Nov.): 62-66,71-73.
+
+.. [Zorpette_2000] Zorpette, Glenn, 2000. Looking for Madam Tetrachromat. *Red Herring* (4 Dec.), http://www.redherring.com/mag/issue86/mag-mutant-86.html (registration required)
+
+
+/////
+
+Anterior: :doc:`CB921` | Siguiente: :doc:`CB921_2`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

@@ -1,0 +1,50 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH050
+.. link: http://talkorigins.org/indexcc/CH/CH050.html
+.. date: 2004-04-21 02:00:00+00:00
+.. title: CH050: El Génesis es fundacional para la Biblia.
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «El Génesis es fundacional para la Biblia.»
+
+La verdadera ciencia y la verdadera religión se basan en el Génesis. Todas las doctrinas bíblicas tienen allí su cimiento, y el libro del Génesis mismo está basado en los sucesos de su primer capítulo.
+
+**Fuente:**
+
+* Morris, Henry M. 1983. Creation is the foundation. *Impact 126* (Dec.). http://www.icr.org/index.php?module=articles&action=view&ID=218
+
+Respuesta
+===========
+
+1. Esta afirmación es una instancia de prejuicio religioso. Muchas religiones, incluyendo el budismo, el hinduismo, el druidismo y muchas más, no tienen conexión alguna con el Génesis. Que una persona diga que esas no son religiones verdaderas constituye:
+
+   * un serio insulto a las personas que practican las religiones. Muchas de esas personas son altamente devotas, con una relación espiritual al menos tan grande como cualquier creacionista.
+   * un serio insulto a su dios. La persona dice que la revelación de su dios debe coincidir con su propia opinión par aser válida, que Dios no puede revelarse de forma diferente a diferentes personas. Cualquiera que haga esta afirmación se coloca por encima de ese dios.
+   * una falta de respeto a sí mismo. El prejuicio es odioso e impide tener buenas relaciones con buenas personas
+
+2. Si Génesis es tan importante, ¿por qué los creacionistas rechazan el estudio serio del mismo? Eruditos, modernos y no tanto, han revelado mucho sobre los autores del Génesis (llamados J, E, P y R) y otros libros del Antiguo Testamento, incluyendo sus motivaciones y sus lugares en la historia. Por ejemplo, el relato del Diluvio entrelaza dos historias de diluvio de J y P ([Friedman_1987]_). Los creacionistas evitan cuidadosamente tal conocimiento. (Los creacionistas no están solos en esto; la mayoría de los cristianos son penosamente ignorantes de los estudios bíblicos).
+
+3. Las ideas en otras partes de la Biblia se destacan por sí mismas. Los creacionistas mismos con frecuencia las citan fuera de contexto. El Antiguo Testamento mismo se refiere a documentos que ya no existen: El Libro de las Guerras del Señor ({{% biblia "Números 21:14" DHH %}}), el Libro del Justo ({{% biblia "Josué 10:13; 2 Samuel 1:18" RVR1960 %}}), y otros ({{% biblia "1 Reyes 11:41; 14:29,19; 16:5; 1 Cronicas 29:29; 2 Cronicas 20:34, 13:22" DHH %}}). El conocimiento de las escrituras tempranas es útil pero no crítico. Jesús a veces rechazó el texto de algunas leyes del Antiguo Testamento, de modo que el texto del Antiguo Testamento no puede ser demasiado importante, y Jesús era ejemplo de su espíritu. La razón por la que los creacionistas consideran que Génesis es tan importante es porque *ellos* dependen de él, no porque otras partes de la Biblia dependan de él.
+
+4. Si uno cree que Dios creó la tierra y los cielos, entonces con seguridad la tierra y los cielos son la obra primaria de Dios. El estudio de la tierra y los cielos debería ser la base. Colocar un objeto como la Biblia antes que ellos es idolatría.
+
+5. Ninguna ciencia aceptada se basó jamás en la Biblia. No es porque no lo intentaran. Hasta el siglo XIX, científicos serios intentaron ajustar lecturas literales de la Biblia a lo que veían en la naturaleza. El creacionismo de la tierra joven fracasó tempranamente, de modo que los científicos intentaron creacionismo de los huecos, creacionismo día-era, y otros intentos de reconciliación. Pero la ciencia puramente basada en la Biblia siempre ha fallado. La verdadera ciencia se basa en la realidad tal como se expresa en el mundo ([Young_1988]_).
+
+Referencias
+===========
+
+.. [Friedman_1987] Friedman, Richard Elliott, 1987. *Who Wrote the Bible?* New York: Summit Books.
+.. [Young_1988] Young, Davis A., 1988. *Christianity and the Age of the Earth.* Thousand Oaks, CA: Artisan Sales.
+
+/////
+
+Anterior: :doc:`CH030` | Siguiente: :doc:`CH055`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

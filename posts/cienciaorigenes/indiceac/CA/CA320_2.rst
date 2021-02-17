@@ -1,0 +1,57 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA300
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA320_2
+.. link: http://talkorigins.org/indexcc/CA/CA320_2.html
+.. date: 2004-09-10 02:00:00+00:00
+.. title: CA320.2: A Damadian le negaron un Premio Nobel porque era creacionista
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «A Damadian le negaron un Premio Nobel porque era creacionista»
+
+El premio Nobel de medicina de 2003 fue otorgado a Paul C. Lauterbur y Peter Mansfield por su desarrollo de las aplicaciones médicas de la imagen por resonancia magnética (IRM). El Dr. Raymond Damadian también jugó un papel clave en el invento; se le negó una parte del premio porque es creacionista.
+
+**Fuente:**
+
+Wieland, Carl. 2004. The not-so-Nobel decision. http://www.answersingenesis.org/docs2004/0528damadian_decision.asp
+
+Respuesta
+==========
+
+1. Los inventos complejos se construyen con el trabajo de mucha, mucha gente. Con frecuencia es un juicio subjetivo decir quiénes fueron los inventores más importantes. Damadian descubrió que los tumores y los tejidos normales tienen diferentes tiempos de relajación de *spin* nucleares; que él merece igual crédito por la IRM es indiscutible, y ha recibido mucho crédito. Que merezca un premio Nobel es discutible. El premio fue otorgado principalmente por los aspectos de imagen de la IRM ([Asamblea_Nobel_2003]_), a los cuales Lauterbur y Mansfield contribuyó más que Damadian. Lauterbur presentó un método para usar resonancia magnética nuclear para generar imágenes, y Mansfield mejoró la técnica para hacerla más rápida y más útil.
+
+2. No hay indicios de que el creacionismo de Damadian influyera en su no recepción del premio Nobel. Las personalidades tienen un efecto mucho mayor que las ideologías para afectar si alguien recibe o no un premio. La personalidad abrasiva de Damadian puede haber sido suficiente para volverlo impopular. U otros factores pueden haber participado. El comité Nobel puede haber sentido presión para no dividir demaisado los premios. O simplemente pueden haber cometido un error. Culpar de la exclusión al creacionismo es pura especulación.
+
+3. La historia del Premio Nobel está llena de controversia que no tiene nada que ver con el creacionismo. Otra personas merecedoras del premio Nobel que no lo recibieron fueron Dimitri Mendeléiev (tabla periódica de los elementos), Edwin Hubble (expansión del universo), Samuel Goudsmit y George Uhlenbeck (*spin* del electrón), Mohandas K. Gandhi (protesta no violenta), León Tolstoi, Henrik Ibsen y James Joyce (literatura). Selman Waksman fue el único ganador del premio Nobel de medicina de 1952 por descubrir la estreptomicina, aunque Albert Schatz hizo la mayor parte del trabajo. Penzias y Wilson compartieron el premio Nobel de física de 1978 por verificar una predicción de la teoría del big bang, pero Ralph Alpher, quien fuera el principal responsable de la teoría, no fue incluido. Muchos creen que Freeman Dyson debería haber sido incluido en el premio Nobel de física de 1965 por la electrodinámica cuántica, y que los colegas de Otto Hahn Lise Meitner y Fritz Strassmann merecían una parte de su premio de química de 1944 por la fisión. Podrían citarse muchos otros ejemplos ([Feldman_2000]_).
+
+   Mucha gente hizo contribuciones significativas a la IRM pero no ganaron el Premio Nobel. H. Y. Carr, cuyo trabajo es pionero para la técnica de gradiente que usó Lauterbur, tiene tanto derecho como Damadian de afirmar que se lo postergó injustamente.
+
+Enlaces
+=========
+Stracher, Cameron, 2002. Scan and deliver: The duel over who should get credit for the original MRI. *Wall Street Journal OpinionJournal*, 14 June 2002. http://opinionjournal.com/taste/?id=110001844
+
+Pincock, Stephen, 2003. Not winning the Nobel. *The Scientist* (8 Oct.), http://www.biomedcentral.com/news/20031008/06/
+
+Referencias
+==============
+
+.. [Asamblea_Nobel_2003]    Nobel Assembly. 2003. Press Release: The 2003 Nobel prize in physiology or medicine. http://www.nobel.se/medicine/laureates/2003/press.html
+
+.. [Feldman_2000]    Feldman, Burton. 2000. The Nobel Prize: A history of genius, controversy, and prestige. New York: Arcade.
+
+
+Otras lecturas
+=================
+
+Judson, Horace Freeland. 2003. No Nobel prize for whining. *New York Times* editorial, 20 Oct. 2003. http://www.nytimes.com/2003/10/20/opinion/20JUDS.html?ex=1067656573&ei=1&en=bfd8546998e12f58
+
+
+/////
+
+Anterior: :doc:`CA320` | Siguiente: :doc:`CA320_3`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

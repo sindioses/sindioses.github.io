@@ -1,0 +1,45 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. date: 2006-03-04 00:00:00
+.. type: nocie
+.. title: Lo que sobrevivió al Columbia
+.. author: Glenys Álvarez
+.. tags: astrobiología
+.. description: Nadie sospechó jamás que algunos de sus tripulantes sobrevivirían a la velocidad y alas extremas temperaturas de las distintas capas que componen nuestra mayor protección de los objetos en el exterior.
+.. category: Noticias de la ciencia
+
+.. class:: primera
+
+Un grupo de gusanos demuestra que la vida es resistente
+.......................................................
+Astrobiología
+-------------
+
+Nada parecía haberse salvado, sin embargo, entre los restos del transbordador que se desintegrara en febrero de 2003, una colonia de C. elegans se movía con energía.
+
+Los restos del transbordador Columbia cayeron esparcidos por seis distintos estados en EE.UU. Cientos de voluntarios, profesionales y técnicos, descubrieron piezas de la nave en California, Nevada, UTA, Arizona, Nuevo México y, principalmente, en Texas y en los pedazos rescatados se observaba el reflejo del daño sostenido durante la reentrada que desintegró la nave en miles de piezas.
+
+Nadie sospechó jamás que algunos de sus tripulantes sobrevivirían a la velocidad y alas extremas temperaturas de las distintas capas que componen nuestra mayor protección de los objetos en el exterior. Sin embargo, un impresionante descubrimiento en el año de la tragedia, el 2003, sorprendió a todos los involucrados y cuando la noticia recorrió el mundo, muchos más quedaron pasmados, no sólo por la noticia sino por las consecuencias que se desataban de ella.
+
+Y es que no sólo las personas salen del planeta, de hecho, el primer ser vivo en orbitar la Tierra fue una perrita llamada Laika y después de ella, muchos animales han muerto en nombre de los viajes espaciales. Pero en esta ocasión, los diminutos pasajeros del Columbia no perecieron y fueron encontrados entre la basura descubierta por los buscadores de los restos en el desastre. Se trataba de un grupo de gusanos conocidos como C. elegans y sumamente usados por la ciencia debido a su simple pero elegante biología. Los gusanitos eran parte de uno de los sesenta experimentos que iban a bordo del transbordador en el momento de su desintegración, entre ellos insectos, peces, gusanos de seda, arañas y abejas pero sólo los pequeños gusanitos elegans sobrevivieron a la reentrada.
+
+“Que estuvieran vivos no dice que es posible que la vida en la Tierra haya llegado de otro planeta. Por mucho tiempo, se pensaba que ningún ser vivo, por más pequeño que fuera, podría resistir las velocidades extremas de un meteorito y mucho menos la entrada al planeta, tan caliente; pero el descubrimiento de esta colonia viva de gusanos nos dice lo contrario”, expresó Bruce Buckingham, uno de los voceros de la NASA.
+
+\C. elegans tiene un ciclo de vida entre los siete a los diez días, por lo tanto, los gusanos encontrados no son los mismos que salieron de la Tierra sino otra generación nacida en el espacio, unos especimenes que tienen mucho valor para los científicos que desarrollaron el experimento. El mes pasado, las noticias sobre el experimento llegaron a los diarios y las discusiones sobre el origen de la vida en el planeta se intensificaron; para muchos, el descubrimiento de la colonia de C. elegans es una prueba más de que los primeros organismos que se establecieron en el planeta Tierra llegaron en un meteorito desde otro lugar en el Universo; esto significaría que todos los terrestres somos de origen extraterrestre. Por supuesto, muchos otros científicos aseguran que aún la teoría pudiera ser cierta, estamos muy lejos todavía de demostrarlo.
+
+-----
+
+DATOS
+.....
+Creced y multiplicaos
+---------------------
+
+En el año 2003, mientras la tripulación de Columbia realizaba sus experimentos en el espacio, una colonia de C. elegans crecía y se multiplicaba en el espacio. Los científicos estudiaban un líquido inusual y nuevo usado para el crecimiento y conocido como CeMM, especialmente observaban su potencial para automatizar experimentos con estos organismos, dejarlos para que se desarrollen solitos dentro de este listo creando generaciones y generaciones de gusanos espaciales. De vuelta, las nuevas colonias se encontraban en recipientes especiales que salieron disparados de la nave a una altura de unos 32 a 42 kilómetros sobre la superficie del planeta y con velocidades que iban de los 660 a los 1,050 kilómetros por hora.
+
+APOYO
+.....
+El Universo tiene muchas sorpresas reservadas
+---------------------------------------------
+
+Catharine Conley, doctora en biología del Centro de Investigación Ames de la NASA y principal investigadora en el experimento de los C. elegans, no duda ni por un segundo en mostrar su optimismo frente a los resultados. “Es muy excitante porque es la primera vez que podemos observar directamente cómo organismos pequeños y complejos, originados en otros planetas son capaces de sobrevivir un reentrada equivalente a  la experiencia dentro de un meteorito y sin la protección de una nave. Es seguro que el Universo todavía nos tiene muchas sorpresas reservadas”.
+
+.. include:: includes/nocie_pie.inc

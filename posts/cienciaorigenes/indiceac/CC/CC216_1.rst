@@ -1,0 +1,89 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC210
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2003-06-23
+.. type: afirmacrea
+.. title: CC216.1: Hay huecos entre mamíferos terrestres y ballenas
+.. description: Respuesta a la afirmación creacionista «Hay huecos entre mamíferos terrestres y ballenas»
+.. slug: CC216_1
+.. link: http://www.talkorigins.org/indexcc/CC/CC216_1.html
+
+**Fuente:**
+
+Gish, Duane T., 1994. When is a whale a whale? *Impact* 250 (Abr.).
+http://www.icr.org/index.php?module=articles&action=view&ID=379
+
+Respuesta
+----------
+
+#. La secuencia transicional de una animal marino hasta las ballenas es bastante robusta. Véase [Babinski_2003] o [Zimmer_1998] para ver imágenes de algunos de los siguientes.
+
+   a. *Pakicetus inachus*: final del Eoceno temprano ([Gingerich_et_al_1983]_; [Thewissen_y_Hussain_1993]_).
+   b. *Ambulocetus natans*: Eoceno Temprano a Medio, encima de *Pakicetus*. Tenía miembros frontales cortos y piernas traseras adaptadas para nadar; ondular la espina de arriba abajo le ayudaba a nadar. Aparentemente además de nada podía caminar en tierra ([Thewissen_et_al_1994]_).
+   c. *Indocetus ramani*: Eoceno medio temprano ([Gingerich_et_al_1993]_).
+   d. *Dorudon*: el cetáceo dominante del Eoceno tardío. Sus diminutos miembros traseros no participaban en la locomoción.
+   e. *Basilosaurus*: Eoceno mediano y posterior. Una ballena totalmente acuática con piernas estructuralmente completas ([Gingerich_et_al_1990]_).
+   f. una ballena barbada con su orificio respiratorio mucho más adelante y algunas características estructurales halladas en animales terrestres pero no en ballenas posteriores ([Stricherz_1998]_).
+
+   El pariente vivo más cercano de la ballena es el hipopótamo. Un grupo fósil conocido como anthracoteres relaciona a los hipopótamos con las ballenas ([Boisserie_et_al_2005]_). El ancestro común de las ballenas y los hipopótamos´probablemente era un artiodáctilo primitivo (los artiodáctilos son mamíferos con pezuñas hendidas); los huesos de los tobillos de las ballenas primitivas *Artiocetus* y *Rodhocetus* muestran características distintivas de los artiodáctilos ([Gingerich_et_al_2001]_)
+
+Enlaces
+-------
+
+* Babinski, E. T., 2003. Cetacean evolution (whales, dolphins,
+  porpoises) http://www.edwardtbabinski.us/babinski/whale_evolution.html
+* Sutera, Raymond, 2001. The origin of whales and the power of
+  independent evidence. *Reports of the National Center for Science
+  Education* 20(5): 33-41.
+  `http://www.talkorigins.org/features/whales/ </features/whales/>`__
+
+Referencias
+-----------
+
+.. [Boisserie_et_al_2005] Boisserie, Jean-Renaud, Fabrice Lihoreau y Michel Brunet. 2005. The position of Hippopotamidae within Cetartiodactyla. *Proceedings of the National Academy of Science USA* 102(5): 1537-1541.
+.. [Gingerich_et_al_1983] Gingerich, P. D. et al., 1983. Origin of whales in epicontinental remnant seas: New evidence from the Early Eocene of Pakistan.
+   *Science* 220: 403-406.
+.. [Gingerich_et_al_1990] Gingerich, P. D., B. H. Smith, y E. L. Simons, 1990. Hind limb of Eocene *Basilosaurus*: Evidence of feet in whales. *Science* 249: 154-157.
+.. [Gingerich_et_al_1993] Gingerich, P. D. et al., 1993. Partial skeletons of *Indocetus ramani* [Mammalia, Cetacea] from the Lower Middle Eocene Domanda Shale in the Sulaiman Range of Punjab [Pakistan]. *Contributions from the Museum of Paleontology of the University of Michigan* 28: 393-416.
+.. [Gingerich_et_al_1994] Gingerich, P. D. et al., 1994. New whale from the Eocene of Pakistan and the origin of cetacean swimming. *Nature* 368: 844-847.
+.. [Gingerich_et_al_2001] Gingerich, P. D. et al. 2001. Origin of whales from early artiodactyls: Hands and feet of Eocene Protocetidae from Pakistan. *Science* 293: 2239-2242. See also: Rose, K. D. 2001. The ancestry of whales. *Science* 293: 2216-2217.
+.. [Thewissen_y_Hussain_1993] Thewissen, J. G. M. y S. T. Hussain, 1993. Origin of underwater hearing in whales. *Nature* 361: 444-445.
+.. [Thewissen_et_al_1994] Thewissen, J. G. M., S. T. Hussain y M. Arif, 1994. Fossil evidence for the origin of aquatic locomotion in archaeocete whales. *Science* 263: 210-212. See also Berta, A., 1994. What is a whale? *Science* 263: 180-181.
+.. [Stricherz_1998] Stricherz, Vince, 1998 (10 Oct.). Burke displays fossil of toothless whale. http://depts.washington.edu/uweek/archives/1998.10.OCT_29/_article2.html Cfr. http://more.abcnews.go.com/sections/science/DailyNews/baleen980916.html
+
+Otras lecturas
+----------------
+
+* Gould, S. J. 1995. Hooking leviathan by its past. In: *Dinosaur in a
+  Haystack*. New York: Harmony Books, pp. 359-376.
+* Pojeta, John Jr. y Dale A. Springer. 2001. *Evolution and the Fossil
+  Record*, American Geological Institute, Alexandria, VA.
+  http://www.agiweb.org/news/spot_06apr01_evolutionbk.htm ,
+  http://www.agiweb.org/news/evolution.pdf .
+* Thewissen, J. G. M. (ed.). 1998. *The Emergence of Whales:
+  evolutionary patterns in the origin of Cetacea*. New York: Plenum.
+  (técnico)
+* Thewissen, J. G. M., S. I. Madar, y S. T. Hussain. 1998. Whale
+  ankles and evolutionary relationships. *Nature* 395: 452. See also
+  Wong, K., 1999 (Jan.). Cetacean creation. *Scientific American*
+  280(1): 26,30.
+* Thewissen, J. G. M. y E. M. Williams. 2002. The early radiations of
+  Cetacea (Mammalia): Evolutionary pattern and developmental
+  correlations. *Annual Review of Ecology and Systematics* 33: 73-90.
+  (técnico)
+* Zimmer, Carl. 1995. Back to the sea. *Discover* 16(1) (Jan.): 82-84.
+* Zimmer, Carl. 1998. *At the Water's Edge*. New York: Touchstone, ch.
+  6-10.
+
+    
+/////
+
+Anterior: :doc:`CC215` | Siguiente: :doc:`CC216_2`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

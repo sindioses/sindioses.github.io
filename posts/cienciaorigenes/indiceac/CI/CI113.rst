@@ -1,0 +1,29 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CI, CI100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2003-10-17
+.. type: afirmacrea
+.. title: CI113: Los algoritmos genéticos requieren un diseñador para especificar el resultado deseado
+.. description: Respuesta a la afirmación creacionista «Los algoritmos genéticos requieren un diseñador para especificar el resultado deseado»
+.. slug: CI113
+.. link: http://www.talkorigins.org/indexcc/CI/CI113.html
+
+Los algoritmos genéticos y las simulaciones computadorizadas de la evolución no muestran que el diseño inteligente es innecesario. Por el contrario, esos programas deben ser diseñados ellos mismos, y requieren que un diseñador especiique el resultado.
+
+Respuesta
+=========
+1. Véase la respuesta a la afirmación de que :doc:`los algoritmos evolutivos cuelan el diseño en la función de aptitud <CF011>`. Modelar la evolución requiere modelar diferencias de aptitud. Las funciones de aptitud con frecuencia no están diseñadas sino que se toman del mundo real. En los algoritmos genéticos no se especifica el resultado exacto, sólo los requisitos generales. Y las simulaciones evolutivas no tienen, en absoluto, un resultado esperado para los organismos simulados.
+2. El hecho de que los programas mismos sean diseñados no es relevante siempre y cuando sean modelos adecuados de fenómenos reales. No son modelos de todo, por supuesto; por eso se llaman modelos. Pero el hecho de que los diseñadores crean los modelos de la evolución no tiene más implicaciones para el diseño inteligente que el hecho de que también son diseñadores los pintores de paisajes.
+
+
+/////
+
+Anterior: :doc:`CI111_2` | Siguiente: :doc:`CI120`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

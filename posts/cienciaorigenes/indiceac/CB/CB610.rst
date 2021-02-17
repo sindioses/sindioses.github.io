@@ -1,0 +1,45 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB600
+.. author: Mark Isaak. traducción de Samuel Martínez de la Iglesia
+.. nocomments: True
+.. slug: CB610
+.. link: http://www.talkorigins.org/indexcc/CB/CB610.html
+.. date: 2004-02-24
+.. title: CB610: El primer individuo de una nueva especie no encontraría pareja
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «El primer individuo de una nueva especie no encontraría pareja»
+
+El primer individuo de una nueva especie lo tendría difícil para encontrar pareja. Los híbridos (cruce de dos especies distintas) no son fértiles, así que un individuo 'recién evolucionado' no sería capaz de reproducirse exitósamente con las especie original. La mutación que causó que dicho individuo sea una nueva especie tendría que ocurrir, de la misma manera, en un individuo del sexo opuesto.
+
+**Fuente:**
+
+The Christian Conservative Opinion Pages. 1998. Evolution myths and creation science. Evidence, extinction, and the evolutionarian "spin doctors" http://webspace.webring.com/people/rd/deke1942/tccop/evolution.htm
+
+Respuesta
+============
+
+1. Esta objeción asume falsamente que la especiación debe de aparecer de repente cuando un individuo da a luz un individuo de otra especie. No obstante, son las poblaciones, no los individuos, los que evolucionan y la mayor parte de la especiación ocurre de forma gradual.
+Una de las formas más comunes de especiación (`especiación alopátrica`) se produce cuando dos poblaciones de la misma especie se quedan separadas geográficamente. Luego, pequeños cambios que se acumulan en ambas poblaciones provaca que sean cada vez más y más diferentes entre sí. Eventualmente, las diferencias son lo suficientemente grandes para no poder cruzarse entre ellas cuando se junten de nuevo en un mismo área. ([Otte_and_Endler_1989]_)
+
+Es también posible que la especiación ocurra sin que se produzca la separación geográfica (`especiación simpátrica`; ver [Diekmann_and_Doebeli_1999]_; [Kondrashov_and_Kondrashov_1999]_; [Otte_and_Endler_1989]_), pero el proceso sigue siendo gradual.
+
+2. A veces se pueden formar nuevas especies de forma espontánea, pero esto ocurre con especies con reproducción asexual o hermafroditas, por lo que no tienen que encontrar pareja.
+
+Referencias
+==============
+
+.. [Diekmann_and_Doebeli_1999]    Dieckmann, Ulf and Michael Doebeli. 1999. On the origin of species by sympatric speciation. *Nature* 400: 354-357.
+.. [Kondrashov_and_Kondrashov_1999]    Kondrashov, Alexey S. and Fyodor A. Kondrashov. 1999. Interactions among quantitative traits in the course of sympatric speciation. *Nature* 400: 351-354.
+.. [Otte_and_Endler_1989]    Otte, D. and J.A. Endler. eds. 1989. *Speciation and Its Consequences*. Sunderland. MA: Sinauer Assoc.
+
+
+/////
+
+Anterior: :strong:`CB601_4` | Siguiente: :doc:`CB620`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

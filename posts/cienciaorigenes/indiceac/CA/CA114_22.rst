@@ -1,0 +1,38 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA110
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA114_22
+.. link: http://www.talkorigins.org/indexcc/CA/CA114_22.html
+.. date: 2004-02-22 02:00:00+00:00
+.. title: CA114.22: Louis Pasteur era creacionista
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Louis Pasteur era creacionista»
+
+Louis Pasteur (1822-1895) era creacionista.
+
+**Fuente:**
+
+Morris, Henry M. 1982. Bible-believing scientists of the past. *Impact* 103 (Jan.), http://www.icr.org/index.php?module=articles&action=view&ID=185
+
+Respuesta
+=============
+
+1. Pasteur escribió poco sobre el tema de la evolución o la creación. Aparentemente era escéptico de la popularidad de la teoría de Darwin, pero aceptaba la evolución. Junto con la mayoría de los científicos franceses de su tiempo, probablemente no aceptaba que la causa de la evolución era la selección natural. Cuny ([Cuny_1965]_) lo cita:
+
+    La virulencia aparece a una nueva luz que no puede ser sino alarmante para la humanidad; a menos que la naturaleza, en su evolución a lo largo de los años (una evolución que, como ahora sabemos, ha venido ocurriendo por millones, no, cientos de millones de años), finalmente haya agotado todas las posibilidades de producir enfermedades virulentas o contagiosas; lo que no parece muy probable.
+
+Referencias
+==============
+
+.. [Cuny_1965] Cuny, Hilaire. 1965. *Louis Pasteur: The man and his theories*. Traducción de P. Evans. Londres: The Scientific Book Club.
+
+/////
+
+Anterior: :doc:`CA114_10` | Siguiente: :doc:`CA114_28`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

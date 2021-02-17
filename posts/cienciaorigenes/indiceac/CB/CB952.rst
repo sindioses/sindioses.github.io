@@ -1,0 +1,32 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CB952: La evolución de dietas especializadas no sería adaptativa
+.. description: Respuesta a la afirmación creacionista «La evolución de dietas especializadas no sería adaptativa»
+.. slug: CB952
+.. link: http://www.talkorigins.org/indexcc/CB/CB952.html
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2005-5-24
+
+Un elemento importante en la lucha de un animal por la existencia es su adaptabilidad a una dieta variada. Si, digamos, un ave dependiera para su existencia de una dieta compuesta de un mosquito en particular, y ese mosquito desapareciera, la especie de ave moriría de inanición. Pero la evolución propone que una avispa ancestral con una dieta variada evolucionó en especies con dietas muy especiales. Tal evolución carecería de ventajas.
+
+**Fuente:**
+
+Fabre, J. Henri. 1921. A dig at evolutionists. In: Alexander Teixeira de Mattos (transl.), *More Hunting Wasps*, New York: Dodd, Mead and Company, pp. 203-213. 
+
+Respuesta
+=========
+1. La evolución no opera para el beneficio a largo plazo de la especie. En lugar de ello, favorece a los individuos que dejan la mayor cantidad de descendientes sobrevivientes, independientemente de las implicaciones para la especie como un todo. Los individuos que se especializan en una dieta en particular con frecuencia prosperan debido a una eficiencia mayor en su área de especialización. Por ejemplo, una avispa que se especializa en cazar sólo arañas licósidas puede tener éxito en capturarlas el 20 por ciento de las veces, contra un 10 por ciento de la generalista. Esta ventaja hará que la especialización sea una ventaja siempre y cuando haya suficientes arañas para comer. Si la dieta desaparece, la especie que sólo se alimenta de ella se extinguirá, pero la evolución no tiene la previsión de considerarlo. Este sería un caso donde la evolución no equivale a la :doc:`supervivencia del más apto <CA500>`
+   
+		
+/////
+
+Anterior: :doc:`CB951` | Siguiente: :doc:`CB990`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

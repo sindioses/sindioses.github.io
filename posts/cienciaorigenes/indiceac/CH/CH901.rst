@@ -1,0 +1,62 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CH901: La Biblia dice que el sol gira en torno a la Tierra
+.. description: Respuesta a la afirmación creacionista «La Biblia dice que el sol gira en torno a la Tierra»
+.. slug: CH901
+.. link: http://www.talkorigins.org/indexcc/CH/CH901.html
+.. tags: CH, CH900
+.. author: Mark Isaak, traducción de Marcelo Huerta
+.. date: 2003-06-11
+
+La Tierra está fija en (o cerca de) el centro del universo. El sol y otros planetas viajan en torno a ella. Eso es lo que la Biblia dice expresamente ({{% biblia "Salmos 93:1; Salmos 19:1-6; Josué 10:12-14" DHH %}}) y lo que indican las pruebas.
+
+Fuente
+======
+
+* Willis, Tom, 2000. "The Laws of Cause and Effect, and the 1st and 2nd Laws of Thermodynamics have been invalidated by modern science", Part 2. *CSA News* 17(2) (Mar/Apr): pp. 1-2.
+* Jones, Steven, 2005. Geocentric universe. http://www.midclyth.supanet.com/
+
+Respuesta
+=========
+
+1. Una Tierra que gira produce efectos observables y observados:
+
+   * El más notable es el efecto de Coriolis, la deflexión aparente de la ruta de un objeto que se mueve en un sistema de coordenadas giratorias. Esto afecta las corrientes oceánicas, los patrones de viento (incluyendo la ruta y dirección del giro de los huracanes) y la deriva de los témpanos de hielo. Hay que tenerla en cuenta al apuntar misiles de largo alcance.
+
+   * La rotación de la Tierra también la demuestra un péndulo de Foucault, cuya oscilación rota en relación con la superficie de la Tierra al rotar la Tierra debajo de él. (La velocidad de rotación es igual a la velocidad de rotación de la Tierra por el seno de la latitud.)
+
+2. La órbita de la Tierra en torno al sol también es observable:
+
+   * En las estrellas más cercanas se observa un paralaje. Su posición aparente se desplaza en relación con las estrellas más distantes a medida que la Tierra se mueve de un lado al otro de su órbita. (El efecto es el mismo que el movimiento aparente de un poste telefónico en relación con las montañas distantes cuando uno se mueve unos metros hacia un lado.)
+   * La aberración estelar se refleja en la necesidad de apuntar el telescopio ligeramente por delante de la posición verdadera de la estrella, debido al movimiento terrestre perpendicula a la estrella. Fue medida por primera vez por James Bradley en 1728.
+   * Las estrellas cercanas al plano de la órbita terrestre presentan una velocidad radial, un ligero desplazamiento al rojo cuando la tierra se aleja de ellas en su órbita, y seis meses más tarde un ligero corrimiento al azul ([Herrick_1935]_).
+   * Relacionado a la velocidad radial, el efecto de "tiempo de luz" afecta la medición de los púlsares y las estrellas variables de período corto. Se necesitan cálculos de relatividad general para corregirlo.
+   * Dado que la órbita terrestre es elíptica, es más cercana al sol en enero que en junio. Se puede observar la diferencia aparente en el tamaño del sol.
+
+   Si la tierra fuera estacionaria, estos efectos sólo podrían explicarse si cada estrella en el universo estuviera moviéndose al unísono en relación con la Tierra con una variación periódica que coincidiera con el año terrestre.
+
+3. El heliocentrismo surge naturalmente de la ley de gravitacion universal.
+4. El heliocentrismo es útil. Como se señala más arriba, se usa para producir la ruta de huracanes y témpanos y para apuntar misiles. El programa espacial sería imposible sin él. (La sonda Cassini, por ejemplo, usó el movimiento terrestre en torno al sol para impulsar la sonda hacia Júpiter.) Como todo creacionismo, el geocentrismo estricto es inútil.
+5. Para la vasta mayoría de los cristianos, la Biblia no dice claramente que la Tierra está estacionaria. Han aceptado que la realidad es más importante que su interpretación de lo que "claramente" dice.
+
+Compruébelo usted mismo
+=======================
+
+Puede fabricar su propio péndulo de Foucault con un peso en un cable largo y delgado en una habitación con un techo alto. Debe ser lo bastante largo como para que la resistencia del aire no lo detenga antes de que la rotación sea evidente, y debe estar aislado de vientos y corrientes de aire.
+
+Referencias
+===========
+
+.. [Herrick_1935] Herrick, Samuel, Jr., 1935. Tables for the reduction of radial velocities to the Sun. *Lick Observatory Bulletin* 470: 85-90.
+
+
+/////
+
+Anterior: :doc:`CH801` | Siguiente: :doc:`CH910`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

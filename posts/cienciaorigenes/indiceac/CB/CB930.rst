@@ -1,0 +1,34 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CB930: Algunas especies fósiles todavía viven
+.. description: Respuesta a la afirmación creacionista «Algunas especies fósiles todavía viven»
+.. slug: CB930
+.. link: http://www.talkorigins.org/indexcc/CB/CB930.html
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-06-13
+
+Algunas especies, como las tuataras, los cangrejos herradura, las cucarachas, el ginkgo biloba y el :doc:`celacanto <CB930_1>`, son "especies fósiles". No han evolucionado en millones de años.
+
+Fuente
+======
+
+Whitcomb, John C. Jr. and Henry M. Morris, 1961. *The Genesis Flood*. Philadephia, PA: Presbyterian and Reformed Publishing Co., pp. 176-180.
+
+Respuesta
+=========
+
+1. La teoría de la evolución no dice que los organismos deben evolucionar morfológicamente. De hecho, en un entorno sin cambios, una selección estabilizadora tendería a no generar cambios en un organismo. Muchos ambientes que existen hoy no son muy diferentes de los ambientes de hace millones de años.
+2. Algunas de las denominadas especies fósiles han evolucionado significativamente. Las cucarachas, por ejemplo, incluyen más de 4.000 especies de varias formas y tamaños. Las especies también pueden evolucionar de formas que no son obvias. Por ejemplo, el sistema inmune de los cangrejos herradura de hoy probablemente es bastante diferente del de sus congéneres de hace millones de años.
+
+
+/////
+
+Anterior: :strong:`CB929` | Siguiente: :doc:`CB930_1`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

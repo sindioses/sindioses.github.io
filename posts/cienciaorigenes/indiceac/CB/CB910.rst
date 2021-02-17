@@ -1,0 +1,135 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Paulina Madariaga
+.. nocomments: True
+.. slug: CB910
+.. link: http://talkorigins.org/indexcc/CB/CB910.html
+.. date: 2006-9-7
+.. title: CB910: No se han descubierto especies nuevas
+.. description: Respuesta a la afirmación creacionista «No se han descubierto especies nuevas»
+.. type: afirmacrea
+
+
+**Fuente:**
+
+Morris, Henry M., 1986. The vanishing case for evolution. *Impact* 156 (Jun.). http://www.icr.org/index.php?module=articles&action=view&ID=260
+
+Respuesta
+===========
+
+1. En tiempos históricos, han surgido nuevas especies. Por ejemplo:
+
+   - Una nueva especie de mosquitos, aislada en el Metro de Londres, surgió a partir de *Culex Pipiens*. ([Byrne_y_Nichols_1999]_; [Nuttall_1998]_).
+
+   - *Helacyton gartleri* es el cultivo celular HeLa, que evolucionó de un carcinoma cervical humano en 1951. El cultivo crece de forma indefinida y se ha extendido ampliamente ([Van_Valen_y_Maiorana_1996]_).
+
+     Un evento similar parece haber ocurrido con perros de forma relativamente reciente. El sarcoma de Sticker, o tumor canino venéreo transmisible, es causado por un organismo genéticamente independiente de su portador, pero derivado, a su vez, del tumor de un lobo o un perro. ([Zimmer_2006]_; [Murgia_et_al_2006]_).
+
+   - Han surgido diversas especies nuevas de plantas a través de poliploidía (donde el conteo de cromosomas se multiplica por dos o más)([De_Wet_1971]_). Un ejemplo es la *Primula kewensis* ([Newton_y_Pellew_1929]_).
+
+2. La especiación incipiente, donde dos subespecies raramente se cruzan o lo hacen con escaso éxito, es común. Aquí hay algunos ejemplos:
+
+   - *Rhagoletis pomonella*, la larva de la mosca de la manzana, está experimentando una especiación simpátrica. Su portador nativo en Norteamérica es el espino o majuelo (especie *Crataegus*), pero a mitad del 1800, se formó una nueva población en manzanas nacionales (*Malus pumila*). Las dos razas permanecen aisladas parcialmente debido a la selección natural ([Filchak_et_al_2000]_).
+
+   - El mosquito *Anopheles gambiae* muestra una especiación incipiente entre su población del noroeste y el sureste de África ([Fanello_et_al_2003]_; [Lehmann_et_al_2003]_).
+
+   - La sardina atlántica muestra una especiación incipiente entre poblaciones marinas y estuarinas ([Beheregaray_y_Sunnucks_2001]_).
+
+3. Las especies anillo muestran el funcionamiento del proceso de especiación. En este tipo de especies, la especie se distribuye más o menos en una línea, como, por ejemplo, alrededor de la base de una cadena de montañas. Cada grupo es capaz de cruzarse con el grupo vecino, pero los grupos en los dos extremos no pueden cruzarse. (En una verdadera especie anillo, estas dos poblaciones en los extremos se encuentran adyacentes completando el anillo). Ejemplos de especies anillo son:
+
+   - La salamandra *Ensatina*, con siete diferentes subespecies en la costa oeste de Estados Unidos. Forman un anillo alrededor del valle central de California. En el extremo sur, las subespecies adyacentes *klauberi* y *eschscholtzi* no se cruzan ([Brown_n_d]_; [Wake_1997]_).
+
+   - Los mosquiteros verdosos (*Phylloscopus trochiloides*) alrededor del Himalaya. Sus características genéticas y de comportamiento cambian gradualmente, comenzando desde el centro de Siberia, extendiéndose alrededor del Himalaya, y viceversa, de manera que coexisten dos formas de aves cantoras, pero no se cruzan individuos dentro de esa variedad. ([Irwin_et_al_2001]_; [Whitehouse_2001]_; [Irwin_et_al_2005]_).
+
+   - El ratón ciervo (Peromyces maniculatus) con más de cincuenta subespecies en Norteamérica.
+
+   - Muchas especies de aves, incluyendo: *Parus major* y *P. Minor*, *Halcyon chloris*, *Zosterops*, *Lalage*, *Pernis*, el grupo *Larus argentatus* y *Phylloscopus trochiloides* ([Mayr_1942]_, p. 182-183).
+
+   - La abeja americana *Hoplitis (Alcimadea) producta* ([Mayr_1963]_, p. 510).
+
+   - La rata topo subterránea, *Spalax ehrenbergi* ([Nevo_1999]_).
+
+4. Evidencia de la especiación se observa en organismos que existen, exclusivamente, en ambientes que no existían hace cientos o miles de años atrás. Por ejemplo:
+
+   - En varios lagos canadienses, que se originaron en los últimos 10.000 años luego de la última edad de hielo, los peces espinosos se han diversificado en especies diferentes para aguas profundas y superficiales ([Schilthuizen_2001]_, p. 146-151).
+
+   - Los cíclidos en el Lago Malawi y el Lago Victoria se han diversificado en cientos de especies. Partes del Lago Malawi, que se originaron en el siglo diecinueve, tienen especies autóctonas a ellas ([Schilthuizen_2001]_, 166-176).
+
+   - Una especie de *Mimulus* se adaptó para suelos con altos niveles de cobre y solo existe en relaves de una mina de cobre que no existía antes de 1859 ([Macnair_1989]_).
+
+   Hay evidencia adicional que indica que la especiación puede ser causada por la infección con un simbionte. Una bacteria *Wolbachia* infecta y provoca un aislamiento reproductivo poscópula entre las avispas *Nasonia vitripennis* y *N. giraulti* ([Bordenstein_y_Werren_1997]_).
+
+5. Algunos creacionistas de la Tierra joven afirman que la especiación es esencial para explicar el arca de Noé. El arca no tenía espacio suficiente para transportar y cuidar de todas las especies, de modo que se invoca la especiación para explicar cómo, a partir de tan pocas "clases" que iban en el arca, surgió la diversidad que vemos hoy. Además, algunas especies tienen necesidades especiales que no podrían haber sido satisfechas durante el diluvio (por ejemplo, los peces que necesitarían agua fresca). Los creacionistas asumen que evolucionaron a partir de otros organismos, más tolerantes, desde la época del Diluvio ([Woodmorappe_1996]_).
+
+Enlaces
+========
+
+Kimball, John W., 2003. Speciation. http://users.rcn.com/jkimball.ma.ultranet/BiologyPages/S/Speciation.html
+
+Stassen, C. et al., 1997. Some more observed speciation events. http://www.talkorigins.org/faqs/speciation.html
+
+Referencias
+==============
+
+.. [Beheregaray_y_Sunnucks_2001] Beheregaray, L. B. and P. Sunnucks, 2001. Fine-scale genetic structure, estuarine colonization and incipient speciation in the marine silverside fish *Odontesthes argentinensis. Molecular Ecology* 10(12): 2849-2866.
+
+.. [Brown_n_d] Brown, Charles W., n.d. *Ensatina eschscholtzi* Speciation in progress: A classic example of Darwinian evolution. http://www.santarosa.edu/lifesciences2/ensatina2.htm
+
+.. [Bordenstein_y_Werren_1997] Bordenstein, Seth R. and John H. Werren. 1997. Effection of An and B Wolbachia and host genotype on interspecies cytoplasmic incompatibility in Nasonia. *Genetics* 148: 1833-1844.
+
+.. [Byrne_y_Nichols_1999] Byrne, K. and R. A. Nichols, 1999. *Culex pipiens* in London Underground tunnels: differentiation between surface and subterranean populations. *Heredity* 82: 7-15.
+
+.. [De_Wet_1971] de Wet, J. M. J., 1971. Polyploidy and evolution in plants. *Taxon* 20: 29-35.
+
+.. [Fanello_et_al_2003] Fanello, C. et al., 2003. The pyrethroid knock-down resistance gene in the *Anopheles gambiae* complex in Mali and further indication of incipient speciation within *An. gambiae s.s. Insect Molecular Biology* 12(3): 241-245.
+
+.. [Filchak_et_al_2000] Filchak, Kenneth E., Joseph B. Roethele and Jeffrey L. Feder, 2000. Natural selection and sympatric divergence in the apple maggot *Rhagoletis pomonella. Nature* 407: 739-742.
+
+.. [Irwin_et_al_2001] Irwin, Darren E., Staffan Bensch and Trevor D. Price, 2001. Speciation in a ring. *Nature* 409: 333-337.
+
+.. [Irwin_et_al_2005] Irwin, Darren E., Staffan Bensch, Jessica H. Irwin and Trevor D. Price. 2005. Speciation by distance in a ring species. *Science* 307: 414-416.
+
+.. [Lehmann_et_al_2003] Lehmann, T., M. Licht, N. Elissa, et al., 2003. Population structure of *Anopheles gambiae* in Africa. *Journal of Heredity* 94(2): 133-147.
+
+.. [Macnair_1989] Macnair, M. R., 1989. A new species of *Mimulus* endemic to copper mines in California. *Botanical Journal of the Linnean Society* 100: 1-14.
+
+.. [Mayr_1942] Mayr, E., 1942. *Systematics and the Origin of Species*. New York: Columbia University Press.
+
+.. [Mayr_1963] Mayr, E., 1963. *Animal Species and Evolution*. Cambridge, MA: Belknap.
+
+.. [Murgia_et_al_2006] Murgia, Claudio et al. 2006. Clonal origin and evolution of a transmissible cancer. *Cell* 126: 477-487.
+
+.. [Nevo_1999] Nevo, Eviatar, 1999. *Mosaic Evolution of Subterranean Mammals: Regression, Progression and Global Convergence*. Oxford University Press.
+
+.. [Newton_y_Pellew_1929] Newton, W. C. F. and Caroline Pellew, 1929. *Primula kewensis* and its derivatives. *Journal of Genetics* 20(3): 405-467.
+
+.. [Nuttall_1998]  Nuttall, Nick, 1998. Stand clear of the Tube's 100-year-old super-bug. *Times* (London), 26 Aug. 1998, 1. http://www.gene.ch/gentech/1998/Jul-Sep/msg00188.html
+
+.. [Schilthuizen_2001] Schilthuizen, M., 2001. (Ver abajo)
+
+.. [Van_Valen_y_Maiorana_1996]  Van Valen, Leigh M. and Virginia C. Maiorana, 1991. HeLa, a new microbial species. *Evolutionary Theory* 10: 71-74.
+
+.. [Wake_1997] Wake, David B., 1997. Incipient species formation in salamanders of the *Ensatina* complex. *Proceedings of the National Academy of Science* USA 94: 7761-7767.
+
+.. [Whitehouse_2001] Whitehouse, David, 2001. Songbird shows how evolution works. BBC News Online, 18 Jan. 2001, http://news.bbc.co.uk/1/hi/sci/tech/1123973.stm
+
+.. [Woodmorappe_1996] Woodmorappe, John, 1996. *Noah's Ark: A Feasability Study*, El Cajon, CA: ICR.
+
+.. [Zimmer_2006] Zimmer, Carl. 2006. A dead dog lives on (inside new dogs). http://scienceblogs.com/loom/2006/08/09/an_old_dog_lives_on_inside_new.php
+
+Lecturas recomendadas
+=========================
+
+Callaghan, Catherine A., 1987. Instances of observed speciation. *The American Biology Teacher* 49: 34-36.
+
+Schilthuizen, Menno., 2001. *Frogs, Flies, and Dandelions: the Making of Species*, Oxford Univ. Press, esp. chap. 1.
+
+/////
+
+Anterior: :doc:`CB904` | Siguiente: :doc:`CB910_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

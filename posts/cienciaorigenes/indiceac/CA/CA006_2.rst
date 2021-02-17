@@ -1,0 +1,57 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA000
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA006_2
+.. link: http://www.talkorigins.org/indexcc/CA/CA006_2.html
+.. date: 2006-12-08 02:00:00+00:00
+.. title: CA006.2: Darwin influyó en las políticas de Stalin
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Darwin influyó en las políticas de Stalin»
+
+Stalin aceptaba la evolución darviniana, la cual utilizó para justificar la opresión y el asesinato.
+
+Fuente
+========
+
+AiG, 1988. What happened when Stalin read Darwin? *Creation* 10(4) (September): 23. http://www.answersingenesis.org/creation/v10/i4/stalin.asp
+
+Respuesta
+===========
+
+1. Stalin rechazó la evolución neodarviniana en favor del lamarckismo.
+
+     El "sistema periódico de los elementos" muestra claramente cuán importante es en la historia de la naturaleza el surgimiento de cambios *cualitativos* a partir de cambios *cuantitativos*. Lo mismo ocurre en biología con la teoría del neolamarckismo, a la que el neodarvinismo está cediendo paso. ([Stalin_1906]_, p. 304)
+
+   Más específicamente, Stalin rechazó las ideas de August Weismann, un biólogo alemán del siglo XIX, en favor de Trofim Lysenko, un pseudocientífico que basaba sus ideas en el lamarckismo. Weismann, quien aceptaba la teoría de la evolución de Darwin, refutó el lamarckismo y propuso que las células germinales transmiten información hereditaria; su trabajo fue una variante temprana de la síntesis evolutiva moderna, la cual une la teoría evolutiva con la genética. Stalin nombró a Lysenko director de la Academia de Ciencias de la Agricultura de la Unión Soviética, donde gozó de gran poder político. ([Rossianov_1993]_).
+
+   Stalin y Lysenko rechazaron la evolución y la genética por razones ideológicas, no biológicas. (Stalin era bastante ignorante en ciencias, en general.) La lucha de clases del marxismo contradice la competencia individual implícita en la selección natural. Lo que es más importante, la genética, que implica que los atributos se fijan al nacer, contradecían el ideal de atributos moldeables y mejorables. Stalin proclamó que la genética era una pseudociencia capitalista.
+
+2. Stalin fue ante todo un dictador marxista, mucho antes que cualquier adhesión que pudiera haber expresado hacia cualquier teoría referida al origen de las especies, ya fuera lamarckiana o darviniana. Stalin desconfiaba de los científicos dado que tendían a pensar libremente. Aunque su persecución de los biólogos y la biología fue especialmente atroz (lo que causó daños desastrsos a la agricultura soviética), encarceló y mató a miles de científicos e ingenieros en todas las disciplinas.
+
+3. La opresión y el asesinato han sido usadas como herramientas del arte de gobernar mucho antes de que Darwin publicara su obra.
+
+4. No hay pruebas de que la obra de Darwin se usara como justificación para la opresión y el asesinato. Stalin sin duda aceptaba la teoría de gravitación de Newton, pero los creacionistas no afirman que la teoría de Newton deba ser suprimida porque Stalin creía en ella.
+
+Referencias
+==============
+.. [Rossianov_1993] Rossianov, Kirill. 1993. Stalin as Lysenko's Editor: Reshaping Political Discourse in Soviet Science, Configurations - Volume 1, Number 3, Fall 1993, pp. 439-456, The Johns Hopkins University Press. Disponible en http://muse.jhu.edu/cgi-bin/access.cgi?uri=/journals/configurations/v001/1.3rossianov.html y http://cyber.eserver.org/stalin.txt.
+
+.. [Stalin_1906] Stalin, Josef V. 1906. Anarchism or Socialism? In Collected Works, vol. 1, Moscow: Foreign Languages Publishing House, 1954. http://www.marx2mao.com/Stalin/AS07.html
+
+Otras lecturas
+=================
+
+* Elsberry, Wesley R. and Mark Perakh, n.d. How Intelligent Design advocates turn the sordid lessons from Soviet and Nazi history upside down. http://www.talkreason.org/articles/eandp.cfm
+
+/////
+
+Anterior: :doc:`CA006_1` | Siguiente: :doc:`CA008`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

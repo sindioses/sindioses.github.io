@@ -1,0 +1,41 @@
+﻿.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB200
+.. author: Mark Isaak. traducción de Samuel Martínez de la Iglesia
+.. nocomments: True
+.. slug: CB211
+.. link: http://www.talkorigins.org/indexcc/CB/CB211.html
+.. date: 2004-04-05
+.. title: CB211: La estructura proteica de un receptor antigénico es idéntica en camellos y tiburones.
+.. description: Respuesta a la afirmación creacionista «La estructura proteica de un receptor antigénico es idéntica en camellos y tiburones».
+.. type: afirmacrea
+
+Una peculiar estructura proteica de receptor antigénico es compartida por camellos y tiburones nodriza ([Roux_et_al_1998]_). Esta, y otras muchas similitudes, no pueden ser explicadas por un antepasado común.
+
+**Fuente:**
+
+Sarfati, Jonathan, 2002. *Refuting Evolution 2*. Green Forest, AR: Master Books, p. 113.
+
+Respuesta
+============
+
+1. Se sabe desde hace mucho tiempo que la evolución convergente sucede en grandes estructuras, como en las alas de los murciélagos y los pájaros. También desde hace tiempo se la ha esperado hallar en la estructura de moléculas. Roux et al. (1998) dijeron, "La convergencia evolutiva en el nivel molecular está presuntamente generalizada, pero está poco documentada". La proteína que ellos describen es un ejemplo.
+
+Las semejanzas pueden ser explicadas por la evolución como debidas a la herencia, la convergencia o el azar. En el caso de la convergencia, se esperan presiones selectivas similares en organismos semejantes como también se espera que no haya semejanza en pequeños detalles de la estructura. Esto es lo que se observa aquí. Las secuencias de ADN que codifician las proteínas de esta estructura en tiburones son diferentes de las de camello ([Roux_et_al_1998]_).
+
+
+Referencias
+==============
+
+.. [Roux_et_al_1998]    Roux, Kenneth H. et al. 1998. Structural analysis of the nurse shark (new) antigen receptor (NAR): Molecular convergence of NAR and unusual mammalian immunoglobulins. *Proceedings of the National Academy of Science USA* 95(20): 11804-11809. http://www.pnas.org/cgi/content/full/95/20/11804
+
+
+/////
+
+Anterior: :doc:`CB200_5` | Siguiente: :doc:`CB300`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

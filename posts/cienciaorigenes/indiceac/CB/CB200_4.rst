@@ -1,0 +1,65 @@
+﻿.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB200
+.. author: Mark Isaak. traducción de Samuel Martínez de la Iglesia
+.. nocomments: True
+.. slug: CB200_4
+.. link: http://www.talkorigins.org/indexcc/CB/CB200_4.html
+.. date: 2005-06-28
+.. title: CB200.4: El sistema inmunológico es irreduciblemente complejo.
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «El sistema inmunológico es irreduciblemente complejo.»
+
+
+El sistema inmunológico de los humanos es irreduciblemente complejo, indicando que debe haber sido diseñado.
+
+**Fuente:**
+
+Behe, Michael J. 1996. Darwin's Black Box, New York: The Free Press, páginas 117-139
+
+Respuesta
+============
+
+1. El sistema del complemento del sistema inmunitario no es irreduciblemente complejo. El sistema del complemento de los urocordados es funcional, aunque carece de uno de los componente de la cascada bioquímica de dicho sistema en humanos.
+
+2. Algunos mecanismos comunes, como la duplicación génica y la exaptación de moléculas con distinta función, hacen posible que el sistema inmunológico evolucione de forma natural. Mucho ha sido escrito con relación a este tema ([Kasahara_et_al_1997]_; [Lindsay_1999]_; [Travis_1998]_)
+
+3. Behe está equivocado en algunos de los conceptos básicos de biología. Las bacterias no se destruyen, como dice (1996, 134), a causa de la entrada del agua cuando la membrana celular es perforada, si no por la destrucción de su gradiente electroquímico ([Ussery_1999]_).
+
+4. La complejidad irreducible no supone un :doc:`obstáculo para la evolución <CB200>` y no :doc:`implica diseño <CI102>`.
+
+
+
+Enlaces
+=========
+
+Bottaro, Andrea. 2005 (May 30). The revenge of Calvin and Hobbes. http://www.pandasthumb.org/archives/2005/05/the-revenge-of.html Ver también: Bottaro, Andrea. 2005 (June 2). Behe's meaningless complexity. http://www.pandasthumb.org/archives/2005/06/behes_meaningle.html
+
+Coon, Mike, 1998. Is the complement system irreducibly complex? http://www.talkorigins.org/faqs/behe/icsic.html
+
+Inlay, M., 2002. Evolving immunity. http://www.talkdesign.org/faqs/Evolving_Immunity.html
+
+
+Referencias
+==============
+
+.. [Kasahara_et_al_1997]    Kasahara, M. et al. 1997. Chromosomal duplication and the emergence of the adaptive immune system. *Trends in Genetics* 13(3): 90-92.
+.. [Lindsay_1999]    Lindsay, Don, 999. How could the immune system evolve? http://www.don-lindsay-archive.org/creation/evolve_immune.html
+.. [Travis_1998]    Travis, John, 1998. The accidental immune system. *Science News* 154: 302-303.
+.. [Ussery_1999]    Ussery, David, 1999. A biochemist's response to "The biochemical challenge to evolution". *Bios* 70: 40-45
+
+Otras lecturas
+================
+
+Ussery, David. 1999 (vide supra). http://www.cbs.dtu.dk/staff/dave/Behe.html
+
+
+/////
+
+Anterior: :doc:`CB200_3` | Siguiente: :doc:`CB200_5`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

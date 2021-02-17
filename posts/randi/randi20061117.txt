@@ -1,0 +1,773 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Traducciones de James Randi
+.. date: 2006-11-17 00:00:00
+.. type: randi
+.. title: Rampa rampante de nuevo - Un reloj que vigilar - Bates ha vuelto - Más preguntas y respuestas - Apuesto a que sí puedes - Edición limitada - Una prueba segura - Un premio apropiado - Más risas - Gentle Wind, llevados por el viento - El "Maestro" del Qi Gong - Otra vez en los zapatos de Bigfoot - El zahorí no comparece - Investigación sobre el orgasmo global - En conclusión
+.. author: James Randi, traducción de Juan Ignacio Rodríguez de León
+
+.. contents:: Contenido
+   :class: sidebar
+   :local:
+
+Rampa rampante de nuevo
+.......................
+
+.. image:: http://www.randi.org/images/commentary/200611/17rampa.jpg
+    :align: right
+    :width: 158
+    :height: 259
+
+De nuestro lector Ian MacMillan:
+
+    En el calendario de este mes destaca como fecha señalada
+    el 50º aniversario de la invasión soviética a Hungría. Pero
+    hay otro 50ª aniversario; en la misma fecha, noviembre de 1956,
+    se publicó la primera edición de "El tercer ojo", de Tuesday
+    Lobsang Rampa. La prensa británica le ha prestado un poco de
+    atención, porque los libros de Rampa aun se siguen imprimiendo
+    y vendiendo en las librerías *new-age* de gran bretaña. Rampa
+    es el único autor *new-age* que ha conseguido un considerable
+    éxito entre la audiencia general, y su "creador", Cyril
+    Hoskin (1910 -1981) era originario de Devon, aunque vivía en
+    Surrey por la época  en que su libro alcanzó su gran éxito de ventas. Hay
+    un artículo sobre él en la wikipedia: http://en.wikipedia.org/wiki/Lobsang_Rampa
+    (NDT: También en la wikipedia en español http://es.wikipedia.org/wiki/Lobsang_Rampa)
+
+    De las muchas trivialidades que rodean a Rampa, mi favorita es una
+    de sus últimos libros, "Viviendo con el Lama", en la que afirmaba
+    que el texto del mismo había sido dictado telepáticamente
+    a Rampa por uno de sus gatas, una felina llamada Sta. Fifi
+    Greywhiskers.
+
+    Como si fuera una prueba del dicho que dice que la nueva era es
+    la vieja calentada medio minuto en el microondas, Rampa
+    hacía en los años 50 y 60 la mayoría de las cosas que los
+    gurús de la nueva era están haciendo hoy.
+
+Es verdad, y lo hemos visto multitud de veces; algunas de las estafas
+provienen del siglo diecisiete, y solo necesitan unos ligeros
+retoques para que sean aceptables para los crédulos actuales.
+
+Un reloj que vigilar
+....................
+
+El problema del reloj de la semana pasada generó gran interés, una
+amplia muestra de soluciones, y reveló algunas confusiones
+interesantes. Quiero darles las gracias a todos por sus
+contribuciones. Obviamente, la mayoría de los participantes
+solo podían conjeturar acerca de los tres diales auxiliares, aunque
+algunos han investigado en Internet sus posibles funciones, lo cual
+les ha proporcionado una información mucho más exacta, como es lógico.
+
+Aproximadamente unos 20 lectores asumieron que yo dudaba de la existencia
+del reloj o de la compañía que lo fabrica, por lo que me inundaron
+con referencias a Internet. Otros asumieron que yo me había inventado
+toda la historia. En ambos casos estaban equivocados.
+
+.. image:: http://www.randi.org/images/commentary/200611/17wholewatch.jpg
+    :align: right
+    :width: 300
+    :height: 195
+
+Estudien, por favor, la siguiente ilustración. Es la
+parte superior del anuncio publicado en la revista TIME al que me
+refería, y muestra la orientación real de la ilustración en
+la página. La ausencia de divisiones en el lado derecho
+de la imagen del reloj se explica por el ángulo en que fue tomada
+la foto: desde arriba y ligeramente ladeado. El aparato sí que
+cuenta con las marcas de división, que no aparecen en la foto
+suministrada. Esta omisión condujo a que algunos lectores concluyeran
+que el aguja de los minutos no podría avanzar más allá de la posición
+de las tres en punto. Me disculpo con todos los lectores a los que llamo la
+atención esta aparente ausencia. Además, no les mostré que el reloj
+disponía de dos botones y de una rueda para darle cuerda.
+
+Probablemente se retiró el cristal protector para sacar
+la foto, y también es bastante probable que no tuviera ninguna
+maquinaria en su interior, de forma que el fotógrafo podía
+disponer las agujas en la forma que quisiese. Como comentó el
+lector Terence de Giere:
+
+    Creo que el problema sería que este es un prototipo de la caja
+    exterior del reloj, sin ningún mecanismo interno, y que el fotógrafo
+    no sabía, o simplemente no le preocupaba, donde poner las agujas. La
+    marca parece tener fama de construir relojes de muy alta gama, así
+    que si se enteran de esto, la gerencia podría molestarse bastante
+    con esta imagen, que podría interpretarse como una afrenta a la
+    artesanía suiza.
+
+Terence, la verdad es que no creo que a los fabricantes les preocupe
+demasiado las licencias artísticas tomadas, pero quizás en un futuro
+presten un poco más de atención a estos detalles. Debo informarles
+que la gente de Jaeger-LeCoultre no me han respondido a la consulta
+que les hice haca ya unos diez días, así que no parecen estar demasiado
+preocupados. De paso, les diré que para mí, un reloj cuadrado es
+un despropósito; siempre he preferido un buen círculo, donde la orientación
+exacta de las agujas es invariablemente diáfana.
+
+
+.. image:: http://www.randi.org/images/commentary/200611/17watch.jpg
+    :align: right
+    :width: 300
+    :height: 197
+
+Como la función de los tres diales auxiliares solo se puede conjeturar, incluyo
+el siguiente diagrama explicativo. El reloj funciona como un reloj normal, y
+también como cronógrafo (Esta falta de información hizo que muchos
+lectores interpretaron que el indicador de la fecha del mes -situado
+en la posición de las 12- no coincidía con otros indicadores de la
+fecha). El primer fallo es que la hora exacta que muestra el reloj
+principal es 10:09:00, pero el pequeño reloj de la zona horaria
+alternativa marca exactamente las 3 de la tarde. Es verdad que
+hay varios `husos horarios` con diferencias de 30 o incluso de 15 minutos
+entre si: Darwin_, en Australia, así como Irán_ y Katmandú_ son
+buenos ejemplos, pero, para encontrar dos punto en la tierra
+con esa diferencia horaria ¡haría falta un viaje realmente
+interesante!
+
+
+(Por otro lado, lamento informar que la mayoría de los lectores
+interpretó la hora de la ilustración como las 10:10, cuando
+en realidad marca *exactamente* las 10:09:00)
+
+Otro defecto de la imagen es que, aunque las dos agujas principales
+muestran claramente sus respectivas sombras, el segundero
+carece de ella, a pesar de que debería verse al menos debajo
+del indicador de la fecha. La iluminación de la fotografía
+viene desde la esquina superior izquierda, pero hay que tener
+en cuenta que esta es una foto hecho por un fotógrafo
+profesional para obtener una foto "glomurosa", y que estas
+pequeñas discrepancias se deben obviar. Las agujas de los relojes pequeños están
+todas situadas  en un ángulo de 45 grados, aparentemente por claridad
+y estética, pero sin tener en cuanta para nada su función real.
+
+Algunos lectores, que pensaron que el dial que está en la
+posición de las 3 indicaba el día del mes, señalaron que no serviría para
+los meses que tienen 31 días. Si esa fuera su función, sería correcto, pero
+en realidad es el indicador de los minutos del cronógrafo, como sabemos
+ahora.
+
+La aguja de las horas, a juzgar por la hora indicada,10:09:00, debería
+estar desplazada tres cuartos en el primer minuto después de la
+marca de las 10, y en la ilustración llega solo a un tercio. En un reloj
+cuyo precio ronda los 7.000 US$, y además etiquetado como cronógrafo, insisto
+en la importancia de la exactitud.
+
+Muchos lectores opinaban que el indicador de las doce en punto, que indica
+"18", y que sirve para señalar el día del mes, no es realista
+porque un dial giratorio con números impresas del tamaño que se ve no podría
+caber dentro de la caja, al tener que mostrar 31 números distintos. Se
+equivocaron al suponer que el indicador era único, ya que consta en
+realidad de 2 discos, el de la derecha con los dígitos del 0 al 3, y el
+de la izquierda con los dígitos del 0 al 9. En la foto en tamaño grande
+que se suministraba con la opción de "click para agrandar" se apreciaba
+que el indicador constaba de dos partes...
+
+El segundero está en las 12 en punto, pero el indicador de los
+minutos del cronómetro indica 3 minutos y 40 segundos. No sería aceptable,
+a  no ser que el segundero solo se mueva en el modo cronómetro.
+
+Finalmente, tengo que llamarme a mi mismo la atención por la frase
+que usé la semana pasada: "Este reloj no debería existir". Debería
+haberme explicado mejor. Lo que quería decir es que el
+reloj, tal y como aparecía en la ilustración, sería incorrecto en
+varios aspectos,y que de hecho, no sería un reloj funcional, especialmente
+teniendo en cuanta su alto precio. *Mea culpa.*.
+
+Bates ha vuelto
+...............
+
+.. Image:: http://www.randi.org/images/commentary/200611/17drbates.jpg
+    :align: right
+    :width: 209
+    :height: 300
+
+Nuestro buen amigo `Martin Gardner`_ se ha quedado de piedra al ver el regreso
+de una estafa que empezó hace ya casi un siglo. Allá por 1920, El doctor
+en medicina William Horatio Bates publicó un libro donde describía un
+sistema de ejercicios -incluyendo una acerca de "ahuecado" con las
+manos- que presuntamente curarían cualquier problema ocular existente, sin
+necesidad de cirugía ni de lentes. Recuerdo que mi padre fue seducido
+por esta idea, porque era un gran seguidor del gurú de la salud Bernarr
+Macfadden, por entonces un autor popular y una "autoridad" que apoyó estos
+disparates. El Sistema Bates de Ejercicios Oculares urgía a sus lectores
+a que tiraran sus gafas, cosa que hizo mi padre. Poco después
+de eso se la pego con el coche; seguidamente tiró el libro a la
+basura y encargó unas gafas nuevas.
+
+.. Image:: http://www.randi.org/images/commentary/200611/17bates.jpg
+    :align: left
+    :width: 115
+    :height: 211
+
+El método Bates ha sido resucitado en un nuevo libro: "*Better Vision
+Now*", publicado por Dover. Salió a un precio de 12.95 US$, ¡pero ahora
+se puede conseguir por 10.36 US$! Esto es aun más motivo de indignación
+para nuestro amigo Martin, porque Hayward Cirker, el fundador de Dover, fue
+un gran amigo suyo y publicó muchos de sus libros. Martin afirma que
+Cirker jamas habría permitido que estas patrañas aparecieran impresas
+bajo el sello de Dover, de estar todavía al cargo. El anuncio que ha
+encargado Dover para el libro dice así:
+
+    La innovadora guía de auto-ayuda de Hackett comprende un programa
+    básico de 12 semanas que incluye sencillas rutinas y ejercicios
+    recomendados para la corrección de la miopía, ojos cansados, mirada
+    extraviada y otros graves problemas oculares
+
+Esto es charlatanería pura, vanas ilusiones, pero es tan rentable...
+
+Más preguntas y respuestas
+..........................
+
+.. Image:: http://www.randi.org/images/commentary/200611/17bulb.jpg
+    :align: right
+    :width: 263
+    :height: 269
+
+Tim Harrod añade su granito de arena a la discusión acerca de como
+cambiar una bombilla:
+
+    P: ¿Cuantos escépticos hacen falta para cambiar una
+    bombilla?
+
+    R: Espera un momento. Antes de empezar a hablar de números, vamos
+    a determinar primero si es realmente posible que algún número x de escépticos
+    pueden cambiar la bombilla, y si concluimos que es posible, entonces
+    podremos empezar a hablar de la cantidad exacta requerida.
+
+Aun más específico, Kevin Kusinitz, de Nueva York, pregunta:
+
+    | P: ¿Cuantas madres judías se necesita para cambiar una bombilla?
+    | R: No te preocupes por eso, está bien. Me sentare aquí en la oscuridad.
+
+Por último, Scott Craver nos escribe:
+
+    | P: ¿Cuantas persona preclaras se necesitan para cambiar una bombilla?
+    | R: Ninguno. Nos hemos dado cuanto a lo largo de muchos años que vemos perfectamente sin ella.
+
+Apuesto a que sí puedes
+.......................
+
+Geoff Holister, refiriéndose a mis comentarios acerca de las
+tonterías que suelta Browne en su último libro, sobre cómo
+celebran los ángeles las navidades en el cielo:
+
+    Dice usted: "Lo digo una y otra vez: Amigos mios, no son capaces
+    ustedes de imaginar tanta fantasía".
+
+    Ah, pero si que se puede, si resulta que eres un grupo de cómicos
+    geniales: En "El sentido de la vida", de Monty Python, se ilustró este mismo
+    concepto, incluyendo canciones, allá por 1983. Silvia ha llegado 23
+    años tarde y, además, su historia es inferior en todos los aspectos, así
+    que me perdonaran si no me asombro demasiado. El vídeo se
+    puede ver aquí: http://youtube.com/watch?v=wkQhAVFxDFk
+
+Nuestro amigo Scott Romanowski, negrero oficial y supervisor de los voluntarios
+de los encuentros anuales TAM, ha cavilado sobre este problema de
+Navidades-en-el-cielo, demostrando su infatigable capacidad de inventar
+nuevos problemas:
+
+    En el cielo, ¿No sería un problema decidir que ángel se va a poner
+    en lo alto del árbol? A lo mejor es un sorteo. Imagínate que un día vas paseando
+    por ahí, tocando el harpa tan tranquilo, y de repente, te enteras que
+    has sido seleccionado y que te vas a pasar un par de semanas con la copa
+    de un pino metida por el culo. A lo mejor el "Ángel de la muerte" era un tipo
+    enrollado hasta que tuvo que pasarse unas cuantas temporadas decorando
+    el árbol:
+
+        "¿Qué? ¿Otra vez yo? ¡Todavía tengo pinocha del año
+        pasado en mi túnica! ¡Esta vez voy a matar a alguien!
+
+
+Edición limitada
+................
+
+Bob Pagani ha encontrado una página web muy divertida en
+http://tinyurl.com/yyf65c que tiene toda la necesario de
+ser una broma, excepto porque no lo es. Nos habla de un
+artefacto maravilloso:
+
+    El *Furutech DeMag* desmagnetiza completamente LP y cualquier disco óptico
+    como CD, CD-R, DVD, MD, CD de juegos, fotos, SACD y DVD de audio.
+    Además, es un complemente indispensable para mantener los cables
+    de sonido, conectores y cables de alimentación desmagnetizados, para
+    evitar distorsiones magnéticas de la señal. Michael Fremer, de
+    la revista Stereophile_ analizó en la popular edición de octubre, en
+    la columna de dispositivos recomendados. En la misma, dijo
+    que "desmagnetizar un LP elimina definitivamente los crujidos y los
+    reflejos en las altas frecuencias, y parece destacar las
+    bandas medias ... Desmagnetizar los vinilos funciona. Aun mejor, una
+    vez que que una grabación ha sido desmagnetizada, parece que se queda
+    en ese estado... No pruebe este dispositivo a no ser que esté
+    dispuesto a comprarlo".
+
+.. figure:: http://www.randi.org/images/commentary/200611/17pixies.jpg
+    :width: 300
+    :height: 256
+    :figwidth: 304
+
+    Furutech DeMag con dos duendecitos operadores
+
+
+Bueno, ya sabíamos que clase de idiotas emplea Stereophile. Vean `la columna del 28 de abril de 2006
+<randi20060428.html#toda-la-verdad-sobre-el-sonido-de-alta-fidelidad>`__ y otras varias
+referencias en esta columna si buscan pruebas. Por supuesto, la pregunta
+es si los auténticos idiotas son los editores o los suscriptores...
+pero la descripción continua:
+
+    ¡La desmagnetización ya no es solo para los dispositivos
+    ópticos! El DeMag funciona también con cables, conectores y
+    enchufes. Ninguna parte de la cadena de audio debería sufrir
+    distorsión por la perdida de resolución debida a la interferencia
+    magnética.
+
+    Desmagnetizar un LP. En primer lugar ¿Cómo podrían magnetizarse? ¡Son
+    de plástico! En realidad, los culpables son los pigmentos añadidos
+    durante la fabricación. Los diminutos fragmentos de metal del
+    pigmento son lo que hace que se magnetice el disco. Las pruebas
+    realizadas en el laboratorio del Centro de Nanotecnología de Tokio
+    con un Gaussímetro IHI demostraron que en un LP tratado con el DeMag
+    el campo magnético bajó desde 620~630 nT hasta 572~582 nT (un
+    nanotesla es una medida del campo magnético; un Tesla_ equivale a
+    10.000 Gauss).
+
+    Desmagnetizar cables: La corriente eléctrica genera un campo
+    magnético  a medida que fluye por el cable conductor. En cualquier
+    caso, las impurezas magnéticas del material se magnetizan e introducen
+    aun más distorsiones magnéticas. Sólo con enrollar los cables junto
+    con sus conectores en la DeMag ya mejora este problema.
+
+    No importa lo caro que sea su sistema, ¡la única manera de mejorar su
+    rendimiento es desmagnetizado los problemas! No hay ningún otro
+    desmagnetizador en el mercado que pueda ser usado de forma tan
+    eficaz y versátil. El desmagnetizador DeMag puede ser usado incluso
+    en accesorios de metal como estabilizadores de CD o columnas de sonido.
+
+Bob pregunta:
+
+    Si, este dispositivo increíble desmagnetiza un vinilo. ¡Guau! Apuesto
+    lo que sea a que ni siquiera se le pasaba por la cabeza que esto
+    fuera posible (O necesario). ¡avergüencese, señor Mago fantástico!
+
+    Ah, y además desmagnetizará todos esos dispositivos que tienes por
+    ahí regados. ¿Qué versátil, no? Imagino que será solo cuestión de
+    tiempo que tenga que endosar ese cheque de un millón de dolares
+    americanos a los magos de Furutech.
+
+No, Bob, parece ser que tendré que entregarle el premio a Michael Fremer,
+de la revista Stereophile, que aparentemente es capaz de decir, usando solo
+sus sentidos sobrehumanos, si un LP ha sido tratado o no con el
+DeMag. Lo extraño del asunto es que, por ahora, ¡no han invertido
+los 20 minutos de su tiempo que hacen falta para poder ganar el
+premio de un millón de dolares de la fundación! ¿O podría ser que sea
+un torpe incompetente, que se limita a vocear toda esa cháchara
+solo para captar nuevos y despistados suscriptores de la revista? Me temo
+que no responderá, ni el ni nadie de la revista, porque es trata
+simplemente de un engaño.
+
+Prueben que estoy equivocado.
+
+Una prueba segura
+.................
+
+La bromista Paula Poundstone nos informa de que en el estado de Kansas
+tienen una nueva aproximación a la carrera de ciencias:
+
+    No se va a enseñar nada de ciencia. Lo que harán será llevar a los
+    estudiantes de paseo por el lago, meterlos dentro de un saco
+    y tirarlos al rió. Si Dios cree que son buenos estudiantes
+    de ciencia, flotarán.
+
+¡Parece un buen sistema! De todas formas, sugeriría que se probara
+primero con la totalidad de los componentes de la
+Oficina de Educación de Kansas. La fundación JREF podría
+proporcionar -de forma totalmente altruista y únicamente en
+interés de la ciencia- todos los sacos que hicieran falta.
+
+Un premio apropiado
+...................
+
+.. Image:: http://www.randi.org/images/commentary/200611/17prins.jpg
+    :align: right
+    :width: 142
+    :height: 185
+
+Creo que debo compartir con ustedes la exuberante nota de mi
+amiga Marie Prins, de los Países Bajos. Marie ha sido muy activa en
+lo que se refieren a combatir la superchería en su país, y por ello ha
+recibido hace poco un adecuado reconocimiento.
+
+    Los últimos días han sido bastante agitados, pero también divertidos
+    y esperanzadores. Mucha gente me ha felicitado por haber recibido
+    la medalla de honor de la Unión Contra la Curandería. Pero también
+    es agotador ser mundialmente famoso en Oost-Souburg, no digamos
+    ya en el resto de Zelanda. El artículo del PZC
+    (`Provinciale Zeeuwse Courant`_) se imprimió no solo en la edición local de Walcheren, sino
+    en toda Zelanda. El domingo, cuando venía desde Amsterdam, donde
+    recibí la medalla, la declaración, y la laudatio el sábado
+    anterior, el conductor del taxi no me dejó darle propina ¡Estaba
+    orgulloso de haberme llevado en su taxi! Todas esas historias sobre
+    gente famosa son verdaderas.
+
+    Los hermanos Bruinsma fundaron la unión hace 126 años. Han empezado
+    a otorgar estas medallas el año pasado, cuando se la entregaron
+    a un programa de televisión muy popular. Me sorprendió ser la
+    segunda agraciada, pero las reacciones en Zelandia me han sorprendido
+    más aun. Estoy pensando publicar una nota de agradecimiento en la
+    PZC.
+
+    Ahora mismo estoy en la fase de calmarme, y este correo es parte de la
+    misma.
+
+Muchas felicidades, Marie. Ten por seguro que te mereces este reconocimiento.
+
+
+Más risas
+.........
+
+.. figure:: http://www.randi.org/images/commentary/200611/17crock.jpg
+    :width: 300
+    :height: 259
+    :figwidth: 304
+
+    ¡Sí, claro que es un disparate!
+
+Ken Townsley nos envía este enlace: http://www.edkuniversity.com/, donde
+podemos encontrar 40 páginas, 16.000 palabras, y 204 largos párrafos (Se rumorea
+que los editores de la revista Stereophile escribieron este artículo como
+ejercicio preparatorio para un artículo sobre Filtrado Electrónico Mediante
+Algas Marinas que están preparando). He aquí un extracto, el primer párrafo, sólo
+413 palabras, exactamente tal y como aparecieron:
+
+    **ENERGÍA UNIVERSAL** es la energía vital que tienen todos los
+    seres vivos **ENERGÍA UNIVERSAL** eléctrica y es una corriente continua
+    fermentada compuesta de todas las plantas y animales vivos mezclando
+    sodio y otros minerales que el ácido del sodio descompone en
+    minerales. El subproducto es energía eléctrica
+    **ENERGÍA UNIVERSAL** que es la energía vital que anima la vida
+    que fermenta en plantas y animales. Cuando los canales de energía
+    que conducen la electricidad **ENERGÍA UNIVERSAL** se desenchufan
+    o se desconectan a la **ENERGÍA UNIVERSAL** no pueden llegar a
+    las células y estas se mueren. Cuando la **ENERGÍA UNIVERSAL** cesa de
+    fluir en el cuerpo el cuerpo se muere. Usando
+    energía curadora puedes hacer que el flujo de **ENERGÍA UNIVERSAL**
+    arranque, limpiando los canales de energía de forma que tengan
+    una señal de **ENERGÍA UNIVERSAL** fuerte. Jesús usaba su **ENERGÍA UNIVERSAL**
+    cuando imponía sus manos dirigiendo su **ENERGÍA UNIVERSAL** hacía la
+    parte dañada del cuerpo realizando así el milagro de la curación de los
+    enfermos y enseño a sus apóstoles a curar usando su **ENERGÍA UNIVERSAL**.
+    Usted puede aprender a hacer milagros como Jesús usando nuestra
+    **ENERGÍA UNIVERSAL** para sanar la enfermedad y volver a ser joven, saludable
+    y feliz de nuevo. Cuando los canales de energía que se conectan a
+    la **ENERGÍA UNIVERSAL** se desenchufan, es como si la energía del cuerpo
+    se apagase y el cuerpo empieza a ponerse enfermo porque la corriente
+    continua de la **ENERGÍA UNIVERSAL** se para: El cuerpo fallece·
+    Mientras haya una chispa de vida hay esperanza de poder conectar
+    de nuevo la **ENERGÍA UNIVERSAL** de regreso a través de los canales
+    de la **ENERGÍA UNIVERSAL** de forma que eliminen las partículas
+    tóxicas que bloquean los canales de **ENERGÍA UNIVERSAL** y evitan que
+    sus células sean jóvenes, saludables y felices de nuevo; estas
+    pueden  descansar y reponer sus energías como un sueño reparador
+    o una inmersión en la fuente de la eterna juventud, de forma que
+    se limpien los canales de la **ENERGÍA UNIVERSAL** y las células
+    puedan volver a a proporcionar energía vital a través de los
+    canales de corriente continua de la **ENERGÍA UNIVERSAL** que el
+    cuerpo necesita para que el cerebro pueda enviar sus señales
+    a todo el cuerpo y permite así que el cuerpo viva. Cuando la
+    **ENERGÍA UNIVERSAL** para, las luces se apagan, el cuerpo está
+    tan muerto como si hubiéramos desconectado el interruptor
+    principal de la caja de fusibles de nuestra casa; todo se para.
+    Las luces se apagan. La casa está muerta. Usted puede
+    recuperar los canales de **ENERGÍA UNIVERSAL** en su cuerpo de
+    una manera más rápida y barata de lo que cuesta volver a poner electricidad
+    en su casa, si el cuerpo sigue vivo y no se ha cortado el
+    interruptor central a la **ENERGÍA UNIVERSAL** del control cerebral.
+
+.. figure:: http://www.randi.org/images/commentary/200611/17handpad.jpg
+    :figwidth: 203
+    :width: 199
+    :height: 215
+
+    ¡Oooh! ¡Más alto! ¡Más alto!
+
+El dispositivo "Limpiador de energía" que vende Lee Crock, con patente en
+la `Oficina de Patentes y Marcas de los Estados Unidos`_ nº 6.016.450, se
+anuncia, tal y como podemos ver en la imagen, solo para "uso
+recreativo", pero se avisa a los usuarios de lo siguiente:
+
+    1. No se ha realizado ningún estudio acerca del uso del
+    Limpiador de Energía en combinación con el tratamiento
+    de ninguna enfermedad.
+
+    2. No diagnosticamos ni prescribimos tratamiento alguno para ninguna
+    enfermedad ni malestar.
+
+    3. No podemos aceptar visitantes con enfermedades contagiosas. Esta
+    no es una instalación médica.
+
+Tampoco nos gusta que haya clientes insatisfechos dejando
+toda esa energía sucia y sin limpiar tirada por ahí...
+
+Lo interesante de la historia es que la ilustración que se muestra en
+su página web es la misma que mostraba el efecto Hieronymous tal y
+como lo describí en `la columna del 27 de octubre de 2006
+<randi20061027.html#hyeronimous-resucitado>`__. El mundo es un pañuelo,
+¿verdad?
+
+
+Gentle Wind, llevados por el viento
+...................................
+
+Jim Bergin y Judy Garvey, que fueron demandados (Véase
+`nuestra columna del 15 de septiembre de 2006
+<randi20060915.html#al-viento-suave-lo-soplaron>`__ para
+más detalles), nos han escrito:
+
+    la demanda interpuesta contra nosotros por el Proyecto Gentle Wind, Miller
+    y otros ha sido finalmente cerrada a resultas del derrumbe del caso y
+    las solicitudes urgentes para llegar a un acuerdo. Estamos
+    preparando nuestro compromisos sobre el contrato de acuerdo. También
+    estamos trabajando en la clausulas de desistimiento con pérdida de
+    derecho a nuevo juicio.
+
+    Estamos muy agradecidos por el buen trabajo hecho hace algunos años desenmascarando
+    a este grupo y por la reciente cobertura hecha sobre la investigación del
+    Fiscal General, la demanda y ahora al acuerdo.
+
+    Por favor, contacte con nosotros si desea hacernos cualquier pregunta. Esperamos
+    que haya cierta seguimiento del caso por la prensa en los siguientes días, y
+    actualizaremos nuestro página web con las novedades que se produzcan.
+
+A veces nos adelantamos...
+
+El "Maestro" del Qi Gong
+........................
+
+Bill Morrow nos comenta el vídeo que aparece al final de
+la página `del 10 de noviembre de 2006 <randi20061110.html#hasta-d-nde-puede-llegar-la-tonter-a>`__.
+
+    Crea que se verá usted tan sorprendido como lo fui yo, al ver la
+    siguiente exhibición, que muestra exactamente la forma en que fueron
+    derrumbados los ladrillos y como hicieron mover el tazón. Fue emitida en
+    una emisora local aquí, en Pekín_, y parece ser el mismo maestro
+    Qi que aparece en el vídeo enlazado en su columna del 10 de
+    noviembre. Lo vi antes de haber leído su columna, por lo que me quedé
+    asombrado de lo rápido que se había propagado la noticia. Estaba
+    en uno de los canales de la CCTV (China Central television), definitivamente
+    un canal diferente del que aparece en el vídeo de youtube.
+
+    No entiendo el suficiente chino como para entender los comentarios, y no
+    podría decirle cuanto montaje ha habido, pero parecen estar
+    cuestionando al maestro Qi en varios aspectos. El truco de los ladrillos
+    que caen se muestra a camara lenta, y se ve como aparece un
+    bulto debajo del ladrillo. después saltan a una secuencia donde
+    se pueden ver dos muelles colocados bajo una mesa similar, de forma
+    que pueden tumbar los ladrillos cunado se pulse un disparador. Luego
+    parece que le enseñan todo esto al maestro Qi, el cual se limita
+    a quedarse tan tranquilo con una gran sonrisa en el rostro. Luego
+    vuelven a enseñarle la toma original, haciendo una pausa para que se
+    vea claramente el bulto que surge de la mesa.
+
+    A continuación hacen una demostración del truco de hacer que el bol de
+    agua se deslice adelante y atrás por la mesa. Tiene un imán pegado
+    a la base, mientras que en la mesa hay un mecanismo deslizante que
+    dispone de otro imán. Inmediatamente después, se muestra al maestro
+    Qi haciendo lo mismo y las similitudes son bastante claras. El ángulo
+    usado para enfocar tanto al maestro como a la demostración se ha
+    elegido de tal manera que la parte  baja de la mesa quede oculta, excepto
+    por un par de pulgadas que quedan oportunamente cubiertas por un mantel. De
+    nuevo se confronta al maestro Qi con este vídeo, y de nuevo se obtiene
+    la misma sonrisa.
+
+    Me perdí la primera parte del vídeo, así que no sé si también cubrieron
+    el truco en el que parecía cortarse a si mismo.
+
+    Cuando lo vi, me impresiono positivamente que hubiera alguien aquí en
+    China que se enfrente a este tipo de supercherías, y cuando me dí cuenta de
+    que era una reacción a un caso concreto, a un maestro Qi en
+    particular, ya me quede estupefacto. Quizás la nueva legislación haya
+    animado a alguien a hacer estas cosas.
+
+    En referencia al tópico del respeto a los mayores, puedo asegurar
+    que no es universal. Yo mismo he visto numerosas muestras de falta
+    de respeto a los mayores, cuando no directamente de abusos, en visitas
+    a abuelos de amigos mios. Se quejan continuamente de la forma en que
+    los tratan su familia política, incluyendo maldiciones y violencia
+    habitual. Sé de el caso de una abuela que fue trasladada a un
+    gallinero después de que muriera su marido.
+
+    Quizá desgraciadamente, cada cultura parece contener todo el espectro
+    posible de comportamientos humanos.
+
+Gracias, Señor Morrow. La lectora Lorne Dmitruk tiene otro comentario
+sobre el mismo tema:
+
+    El artículo del viernes pasado titulado "China sigue engañada" me
+    resultó muy interesante. Creo que también les podría resultar interesante
+    este artículo: http://tinyurl.com/ww7zn, publicado el 11 de diciembre
+    de 2006, en `Globe And Mail`_. Trata de un historiador chino, estudioso de la
+    medicina, que se ha manifestado contrario a la Medicina
+    Tradicional China. Zhang Gongyao puede haber arriesgado su vida
+    al decir que "la medicina tradicional china es, la mayor parte de las
+    veces, peligrosa, desinformada, poco eficaz y una amenaza
+    para la biodiversidad; en algunos casos puede incluso llegar
+    a ser letal". En el artículo se relata que varias agencias gubernamentales
+    chinas han atacado al señor Zhang por su postura frente a la medicina
+    tradicional. Es un rayo de racionalidad en la lucha contra las
+    supercherías.
+
+He observado que el profesor Zhang también es contrario al uso del calendario
+lunar en China, una posición que acercaría a su país al resto de las
+naciones del mundo. Espero que algún día, en EEUU, podamos también adoptar el
+`sistema internacional de unidades`_, como el resto del planeta...
+
+Otra vez en los zapatos de Bigfoot
+..................................
+
+David Vangsness, de Tampa, Florida, nos escribe por la entrada publicada
+la semana pasada, "Alboroto con el Bigfoot":
+
+    Las dos evidencias más creíbles de la existencia del Bigfoot
+    consisten en: a) una serie de relatos anecdóticos y b) docenas
+    de moldes de plástico de huellas. De la primera ya se sabe
+    que es una de las formas menos fiables de evidencia
+    conocidas por la humanidad. Consideremos la segunda; una huella
+    es una evidencia indirecta de un pie. Un molde de plástico es
+    una evidencia indirecta de una huella. Por tanto, lo que tenemos aquí
+    es una evidencia indirecta de una evidencia indirecta y, por ende, algo
+    sin valor científico alguno.
+
+    Aunque la ausencia de una evidencia directa de algo no prueba su
+    inexistencia -Es imposible probar estas negaciones- la información
+    no está totalmente desprovista de valor. Se puede usar para calcular
+    un límite superior a la probabilidad de la existencia, que en el
+    caso del Bigfoot, yo colocaría más o menos en un 0,00001% (Considerando
+    también todas las buenas razones por las que no debería de existir). Cada
+    día que pasa sin que se consiga una evidencia directa, este valor disminuye.
+
+    Por todas estas razones, me opongo con vehemencia a que se destine
+    ni siquiera un céntimo de fundos públicos, tan duramente conseguidos, en
+    una investigación como esta. La investigación del Doctor Meldrum no es
+    sólo embarazosa, es una tragedia.
+
+
+El zahorí no comparece
+......................
+
+.. figure:: http://www.randi.org/images/commentary/200611/02afilani.jpg
+    :width: 163
+    :figwidth: 167
+    :height: 263
+
+    ¿Desafío? ¿Qué es eso?
+
+    —Thomas Afilani
+
+Carl Moreland ha luchado contra los vendedores de varillas de radioestesia
+durante décadas (ver `la columna del 17 de noviembre de 2006
+<randi20061103.html#noticias-que-nos-han-llegado>`__ para
+más detalles) y tiene su propio desafío, diseñado específicamente para estos
+estafadores. Nos escribe lo siguiente:
+
+    Hace algunos meses mencioné a Bob Yocum, un vendedor de varillas de
+    radioestesia de Reno, que aceptó finalmente mi desafío de
+    25.000 US$. Yocum vende un kit de radioestesia por 2.385 US$ (Con
+    la oferta de navidad se ahorra 500 US$). Especificó, eso si, una
+    fecha concreta para las pruebas, el 22 de julio, y alquiló un
+    pabellón entero en un parque local, con vistas a hacer una gran
+    exhibición de ventas ese día, con invitaciones para todo el mundo. Pero
+    su entusiasmo empezó a declinar a medida que llegaba el momento
+    de firmar el contrato que yo había preparado para el desafío, por
+    lo que me negué a volar todo el largo camino desde Carolina del Norte
+    sin una firma en el contrato. Finalmente firmó el contrato, pero ahora se niega
+    a volver a programar las pruebas.
+
+    De todas formas, sigue estando investigado por fraude por el Departamento
+    de protección del Consumidor del Estado de Nevada
+    (`Nevada Consumer Affairs Division`_ - CAD), gracias a un comprador
+    que realmente se ha preocupado por hacer algo contra este tipo. He recibido
+    muchas quejas acerca de Yocum, pero ninguna otra persona ha seguido todo
+    el farragoso papeleo de llevar la denuncia hasta el gobierno. Bob ya ha recibido
+    dos citaciones para declarar, pero sigue solicitando aplazamientos. La siguiente
+    vista esta programada para diciembre, y el CAD de Nevada le ha comunicado que
+    sólo tendrán en consideración evidencias basadas en hechos científicos... nada
+    de demostraciones, ni declaraciones de consumidores, ni evidencias
+    anecdóticas.
+
+    Así que ahora Bob ha colgado carteles de "se necesita ayuda" en su página
+    web, http://www.path-inc.com/. Sospecho que está buscando "físicos" de
+    algún tipo que apoyen la estúpida idea de que una muestra de oro
+    enterrada a millas de profundidad puede resonar con las señales emitidas
+    por un generador de potencia ridícula, y hacer que sus varillas de
+    resonancia giren mágicamente.
+
+    Poseo uno de los juguetes de Yocum, y he hecho un análisis del mismo, como
+    con otros muchos equipos de radioestesia usados para estafar; pueden
+    leer mi informe en http://geotech.thunting.com/lrl_reports.html. Seleccionen
+    el enlace titulado *Omni-Range Master*.
+
+Yo estaría preocupado, Carl. He visto en los anuncios de Yocum que es "líder
+mundial en detección de metales y minerales preciosos". Seguro que si...
+
+Investigación sobre el orgasmo global
+.....................................
+
+Leonardo Mesquita nos pregunta:
+
+    ¿Ha visto la última iniciativa del proyecto de Princeton sobre
+    Conciencia Global, el proyecto "Orgasmo Global"? En este experimento
+    se les pide a los que quieran participar que "concentren cualquier
+    pensamiento que tengan, durante y después de un orgasmo, en la paz".
+    Según ellos, "La combinación de altas energías de la
+    energía orgiástica con una conciencia dirigida pueden tener un mayor efecto
+    que los métodos anteriores de meditación y rezos". ¿Es necesario
+    añadir algo más?
+
+    Su página web es http://www.globalorgasm.org/. No se pierdan
+    el enlace etiquetado "La Ciencia".
+
+Apostaría a que el texto enlazado será muy, muy corto. La cosa se pone cada vez
+más tonta. Quizá esto de la conciencia tampoco funcione demasiado bien
+y tengamos que volver a algún otro fenómeno más fiable.
+
+En conclusión
+.............
+
+Mi `nota de la semana pasada <randi20061103.html#para-terminar>`__
+provocó una serie de aclaraciones por parte de los lectores sobre mi
+aparente confusión ante un aparato de luz ambiental de la marca
+Philips. Me preguntaba en la misma: "¿Requiere la normativa
+que los anunciantes informen a los posibles clientes de que el actor
+no se ve transformado mágicamente, que no es un milagro de fe?" No estaba
+hablando en serio, amigos, era sólo una broma. Pero pensémoslo
+por un momento: Nuestra administración basada en la fe nos pide que aceptemos
+toda clase de milagros. ¿Es tan diferente este anuncio?
+
+Si, esta ha sido la auténtica semana tonta de esta columna. Hemos tenido
+vinilo magnetizado, corriente continua fermentada y orgasmos globales. ¿Se
+puede superar este nivel de estupidez?
+
+¡Permanezcan en sintonía!
+
+.. _husos horarios: http://es.wikipedia.org/wiki/Huso_horario
+.. _Stereophile: http://www.stereophile.com/
+.. _Provinciale Zeeuwse Courant: http://www.pzc.nl/
+.. _Oficina de Patentes y Marcas de los Estados Unidos: http://www.uspto.gov/
+.. _Globe And Mail: http://www.theglobeandmail.com/
+.. _sistema internacional de unidades: http://es.wikipedia.org/wiki/Sistema_Internacional_de_Unidades
+.. _Nevada Consumer Affairs Division: http://www.fyiconsumer.org/
+.. _Martin Gardner: http://es.wikipedia.org/wiki/Martin_Gardner
+.. _Darwin: http://es.wikipedia.org/wiki/Darwin_%28Australia%29
+.. _Irán: http://es.wikipedia.org/wiki/Ir%C3%A1n
+.. _Katmandú: http://es.wikipedia.org/wiki/Katmand%C3%BA
+.. _Tesla: http://es.wikipedia.org/wiki/Tesla_%28unidad%29
+.. _Pekín: http://es.wikipedia.org/wiki/Pek%C3%ADn
+
+|firmarandi|
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: Traducido por Juan Ignacio Rodríguez de León
+

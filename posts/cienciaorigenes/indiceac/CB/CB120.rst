@@ -1,0 +1,34 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB120
+.. link: http://talkorigins.org/indexcc/CB/CB120.html
+.. date: 2003-6-9
+.. title: CB120: La carga genética de las mutaciones volvería inviables a las poblaciones
+.. description: Respuesta a la afirmación creacionista «La carga genética de las mutaciones volvería inviables a las poblaciones»
+.. type: afirmacrea
+
+El efecto general de las mutaciones es disminuir la viabilidad de las poblaciones, debido a la "carga genética" que agregan al acervo genético.
+
+**Fuente:**
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, 56-57.
+
+Respuesta
+============
+
+1. A medida que nuevas mutaciones dañinas ingresan a la población, la selección elimina las características dañinas. La carga genética de una población estable es un equilibrio entre ambas.
+
+2. Las bacterias mutan mucho más rápido que las plantas y los animales, y aún así sus poblaciones no se están volviendo menos viables.
+
+
+/////
+
+Anterior: :doc:`CB110` | Siguiente: :doc:`CB121`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

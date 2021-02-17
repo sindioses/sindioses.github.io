@@ -1,0 +1,45 @@
+.. title: CB010.1: Hasta la vida más simple es increíblemente compleja
+.. slug: CB010_1
+.. date: 2003-10-04 02:00:00+00:00
+.. tags: CB, CB000
+.. category: Afirmaciones de los creacionistas
+.. link: http://www.talkorigins.org/indexcc/CB/CB010_1.html
+.. description: Respuesta a la afirmación creacionista «Hasta la vida más simple es increíblemente compleja»
+.. type: afirmacrea
+.. author: Mark Isaak
+.. has_math: yes
+.. nocomments: True
+
+Hasta las formas de vida más simples y primitivas, las bacterias, son increíblemente complejas, demasiado complejas para haber surgido por azar.
+
+**Fuente:**
+
+Sherwin, Frank. 2001. Just how simple are bacteria? *Back to Genesis* 146 (Feb.).
+
+Respuesta
+===========
+
+1. No hay razón para pensar que la vida que existe hoy es comparable en complejidad a la vida más temprana. Toda la vida más simple casi con seguridad estaría extinta hoy, superada en la competencia con formas más complejas.
+
+2. Los autorreplicadores pueden ser increíblemente simples, tan simples como una hebra de seis nucleótidos de ADN ([Sievers_von_Kiedrowski_1994]_). Esto es lo bastante simple como para formarse por química prebiótica. Los autorreplicadores preparan el escenario para que comience la evolución, ya sea que llamemos "vida" o no a las moléculas.
+
+3. Nadie afirma que :doc:`la primera vida <CB010_2>` surgió por azar. Saltar del hecho de que el origen es desconocido a la conclusión de que no podría haber ocurrido naturalmente es la :doc:`falacia de la incredulidad personal <CA100>`.
+
+Enlaces
+========
+
+Musgrave, Ian. 1998. Lies, damned lies, statistics, and probability of abiogenesis calculations. http://www.talkorigins.org/faqs/abioprob/abioprob.html
+
+Referencias
+==============
+
+.. [Sievers_von_Kiedrowski_1994] Sievers, D. and G. von Kiedrowski. 1994. Self-replication of complementary nucleotide-based oligomers. *Nature* 369: 221-224.
+
+/////
+
+Anterior: :doc:`CB010` | Siguiente: :doc:`CB010_2`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

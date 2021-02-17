@@ -1,0 +1,55 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CJ311
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CJ311
+.. link: http://talkorigins.org/indexcc/CJ/CJ001.html
+.. date: 2004-06-06
+.. title: CJ311: El hombre de Kennewick de 9.400 años de antigüedad era un ancestro de los umatilla
+.. description: Respuesta a la afirmación creacionista «El hombre de Kennewick de 9.400 años de antigüedad era un ancestro de los umatilla»
+.. type: afirmacrea
+
+El Hombre de Kennewick es un esqueleto humano de 9.400 años de antiguedad encontrado en la ribera del río Columbia en el estado de Washington. La tradición oral de la tribu umatilla_ dice que siempre han habitado esa área, lo que convierte al Hombre de Kennewick en su ancestro, lo cual requiere, de acuerdo con la Ley de Protección y Repatriación de Tumbas de los Nativos Estadounidenses de 1990, que sus huesos sean devueltos a los umatillas para que vuelva a enterrárselos.
+
+.. _umatilla: https://es.wikipedia.org/wiki/Umatilla
+
+**Fuente:**
+
+Armand Minthorn, citado en [Morell_1998]_, más abajo.
+
+Respuesta
+=============
+
+1. Las poblaciones migran y se dispersan. Muy pocos grupos familiares permanecen en un solo lugar durante 9.000 años. Es improbable que el Hombre de Kennewick fuera un ancestro de ninguno de los umatilla de hoy.
+
+2. Las tradiciones de algunas otras tribus de área, como los quillayute, insinúan decididamente que los umatillas no han sido nativos de allí desde siempre ([Clark_1953]_; [Isaak_2002]_). Hasta un grupo pagano ha reclamado al Hombre de Kennewick como su ancestro.
+
+3. Es irónico señalar que la única forma de creacionismo que ha recibido aprobación federal en los Estados Unidos en los últimos 50 años ha sido el creacionismo umatilla, aunque un juzgado de apelaciones ha revocado esta decisión ([Chatters_2001]_, 266; [Paulson_2004]_; [Holden_2004]_).
+
+Referencias
+=============
+
+.. [Chatters_2001]    Chatters, J. C., 2001. (Véase más abajo)
+.. [Clark_1953]    Clark, Ella E., 1953. *Indian Legends of the Pacific Northwest*, Berkeley: University of California Press.
+.. [Holden_2004]    Holden, Constance, 2004. Scientists hope ruling will lead them to bones. *Science* 303: 943.
+.. [Isaak_2002]    Isaak, Mark, 2002. Flood stories from around the world. http://www.talkorigins.org/faqs/flood-myths.html#Quillayute
+.. [Paulson_2004]    Paulson, Tom, 2004. Scientists win Kennewick Man ruling. *Seattle Post-Intelligencer*, 5 Feb. 2004, http://seattlepi.nwsource.com/local/159408_kennewickman05.html
+.. [Morell_1998]    Morell, Virginia, 1998. (Véase abajo)
+
+Otras lecturas
+===============
+
+Chatters, James C., 2001. *Ancient Encounters: Kennewick Man and the first Americans*. New York: Simon & Schuster.
+
+Morell, Virginia, 1998. Kennewick Man's trials continue. *Science* 280: 190-192.
+
+
+/////
+
+Anterior: :doc:`CJ001` | Siguiente: :doc:`CJ530`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

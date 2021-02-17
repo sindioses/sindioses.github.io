@@ -1,0 +1,66 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. type: exrel
+.. category: Examinando las religiones
+.. tags: religión, historia, evidencias
+.. description: "Podemos descartar como pura fábula al censo [...] y la matanza de los inocentes. Flavio Josefo dejó un relato muy vivo de las maldades de Herodes y, sin embargo, no menciona en ningún momento tal fechoría. ¿Por qué entonces la inclusión de tales elementos? El análisis de Mateo nos dará la respuesta."
+.. date: 2004-10-15 00:00:00
+.. author: José Luis Calvo
+.. title: Se desarmó el Belén
+.. previewimage: belen01.jpg
+
+Este texto apareció publicado inicialmente en `El Escéptico Digital`_, pero debido a su importancia para la comprensión de la religión cristiana se ha reproducido aquí.
+
+
+.. class:: primera
+
+Siempre he visto algo poético en montar un belén, en reconstruir una escena pretendidamente histórica. En un lado el portal, en otro la anunciación a los pastores, la matanza de los inocentes, los reyes magos... y si el presupuesto lo permite, una fuente de la que mana agua, casas con luces incorporadas... Todo ello sobre un manto de arena y bajo una capa de nieve de textura sorprendentemente similar a la de la harina.
+
+Quizás por ello, todos los 8 de diciembre procedo a abrir las cajas guardadas de un año para otro, en una las escorias de carbón, (el mejor material para construir montañas que pueda desearse), en otra las luces de colores, en otra las figuras... y a montar un decorado teatral para los distintos personajes, lavanderas, pastores, soldados... pero, recordando el título de la obra de Pirandello ¿a qué autor deberían buscar?
+
+La mayoría de las personas responderían que a los evangelistas ¿no? Sin embargo, las escenas representadas en un belén obedecen a una acumulación de elementos míticos de diversas procedencias aglutinados a lo largo del tiempo para paliar que lo que sabemos con certeza histórica  de la infancia de Jesús se resume en una sola palabra: nada. Oh, sí existen dos relatos evangélicos de la Natividad, uno debido a Mateo y otro a Lucas (Marcos y Juan guardan silencio sobre el tema lo que no deja de resultar curioso) pero ambos ofrecen versiones imposibles de conciliar, pese a lo cual, un belén es precisamente una mezcla de ambas versiones (y alguna más, como veremos).
+
+Del relato de Mateo puede inferirse que María y José vivían en Belén. María esperaba un hijo sin haber mantenido relaciones sexuales con su esposo por lo que éste decide repudiarla. José recibe en sueños la visita de un ángel que le advierte que no lo haga porque la criatura viene del Espíritu Santo. El niño nace en casa, en Belén.
+
+Según el relato de Lucas, José y su prometida, María, vivían en Nazaret. María recibe la visita de un ángel que le comunica que va a ser madre de un niño que concebirá por acción del Espíritu Santo. A consecuencia del censo de Quirino, el matrimonio se desplaza a Belén dónde nace el niño que es recostado en un pesebre por estar llena la posada.
+
+Después del nacimiento, según Mateo, llegan a Jerusalén unos magos de Oriente que han conocido por una estrella que había nacido el rey de los judíos y preguntan a Herodes que dónde pueden encontrarle. Éste les dirige a Belén pidiéndoles que, cuando le localicen, se lo comuniquen para ir, él también, a rendirle homenaje. Una estrella guía a los magos hasta el niño al que ofrecen oro, incienso y mirra. Advertidos en sueños de que no volvieran a ver a Herodes, los magos regresan a casa por otro camino. José recibe, también en sueños, la advertencia de que abandonen Belén pues Herodes va a matar al niño. La familia huye a Egipto. Herodes ordena asesinar a todos los niños de menos de dos años en Belén y en sus alrededores. Cuando Herodes fallece, José recibe una nueva visita angélica y regresa a Judea pero temiendo al rey Arquelao, hijo de Herodes, se traslada a Galilea, al pueblo de Nazaret.
+
+Según Lucas, después del nacimiento un ángel anuncia la nueva a los pastores de Belén que acuden a adorar al niño. A los ocho días el niño fue circuncidado y después fue presentado en el Templo de Jerusalén. Cumplidos los prefectos legales, la familia regresa a Nazaret. Como vemos, los únicos elementos comunes a las dos narraciones es que Jesús había sido concebido por acción del Espíritu Santo, que nació en Belén y que acabó viviendo en Nazaret, aunque por motivos muy distintos.
+
+Todos los demás elementos son únicos, la estrella, los magos, la matanza de los inocentes y la huida a Egipto sólo existen en Mateo. El censo, el pesebre, la anunciación y la adoración de los pastores sólo existen en Lucas.
+
+¿Algo de todo ello es cierto? Podemos descartar como pura fábula al censo (como ya vimos en un anterior artículo [#]_) y la matanza de los inocentes. Flavio Josefo dejó un relato muy vivo de las maldades de Herodes y, sin embargo, no menciona en ningún momento tal fechoría. ¿Por qué entonces la inclusión de tales elementos? El análisis de Mateo nos dará la respuesta. En su relato incluye cuatro profecías mesiánicas quequedaron cumplidas en la Natividad, (Is. 7,14, Miq. 5,1, Os. 11,1 y Jr. 31,15) [#]_ además de una referencia inexistente a que según los profetas se le llamaría Nazareno. Las profecías se relacionarían, por el ordencitado, con el nacimiento de una virgen, el nacimiento del Mesías en Belén, el regreso de Egipto y la matanza de los inocentes. Vemos, pues, que la razón para incluir la matanza de los inocentes fue, precisamente, el de poder asegurar que se había cumplido la profecía. Si vamos a los versículos citados y a su contexto veremos que a Mateo no le importó tergiversar el sentido de las profecías (que, a veces, ni lo son) del Antiguo Testamento con tal de presentar a Jesús como el Mesías anunciado. El de Isaías se refiere a acontecimientos contemporáneos del profeta: "Porque antes que sepa el niño rehusar lo malo y elegir lo bueno, será abandonado el territorio cuyos dos reyes te dan miedo." (Is. 7,16) Esos dos reyes eran "Rasón, rey de Aram, con Pécaj, hijo de Romelias, rey de Israel..." (Is. 7,1) y todo ello "En tiempo de Ajaz, hijo de Jotán, hijo de Ozías, rey de Judá..." (Is. 7,1). El texto de Miqueas sí es una profecía mesiánica... que no puede hacerse coincidir con Jesús: "Él será la paz. Cuando Asiria invada nuestra tierra, y pise nuestro suelo, le opondremos siete pastores y ocho capitanes. Ellos pastorearán a Asiria con la espada, y al país de Nemrod con el acero. Él nos librará de Asiria, cuando invada nuestra tierra, y pise nuestro territorio." (Miq. 5, 4-5). El de Oseas es una referencia a la historia del Éxodo: "Cuando Israel era niño, lo amé, y de Egipto llamé a mi hijo." (Os. 11,1). El de Jeremías tampoco puede relacionarse con Jesús, en primer lugar porque menciona a Ramá que no a Belén y, en segundo lugar, porque los hijos por los que lloran: "volverán de tierra hostil, y hay esperanzas para tu futuro -oráculo de Yahvé-: volverán los hijos a su territorio." (Jr. 31, 16-17).
+
+El texto que no corresponde a ningún fragmento del A. T. parece ser una mala interpretación de Is. 11, 1 en el que se dice del Mesías: "Saldrá un vástago (nezer) del tronco de Jesé..." y Mateo interpretó nezer por Nazaret. No es la única vez en que Mateo confunde un texto hebreo.
+
+La profecía de Isaías no hace referencia a una virgen sino a una joven, aunque en este caso parece que la mala traducción podía no ser suya sino de la Septuaginta (traducción de la Biblia al griego).
+
+Queda pues demostrado el interés de Mateo en presentar a Jesús como un ser excepcional desde el comienzo de su vida. A este recurso de "cumplimiento de las profecías" añade varios tópicos comunes en su época para ensalzar a una persona. La concepción por una acción divina no hubiera sorprendido a los greco-latinos que tenían varios antecedentes en su propia mitología: Hércules, Perseo... y que incluso concedían ese carácter a personajes reales como Alejandro y Octavio al que tampoco le faltó quién le atribuyera haber nacido pese a una prohibición del Senado, asustado por un presagio de que nacería un rey, que su nacimiento había sido anunciado por distintos fenómenos e, incluso, que había ascendido al cielo (Véase la Vida de Augusto, XCIV y ss. en Los Doce Césares de Cayo Suetonio).
+
+Otro tanto puede decirse de Lucas, aunque en este caso los paralelismos se pueden encontrar en las mitologías orientales como en las leyendas de Krisna o Buda.
+
+Otros elementos belenísticos, sin embargo, no provienen de los relatos  evangélicos canónigos sino de los apócrifos o de la literatura cristiana. Por ejemplo, fue Orígenes el que convirtió la estrella de Belén, mencionada por Mateo y en el apócrifo del Protoevangelio de Santiago, en un cometa. También fue obra suya el dictamen de que los magos (de los que Mateo no cita el número) fueron tres. En el S VII se les convirtió en reyes y en el S VIII se les pusieron los nombres de Melchor, Gaspar y Baltasar. El buey y la mula aparecen en el apócrifo Evangelio del Pseudo-Mateo en cumplimiento de una profecía atribuida a Habacuc, que resulta ser, nuevamente una mala traducción.
+
+.. image:: belen02.jpg
+
+Otros elementos presentes en los apócrifos, sin embargo, no tuvieron la misma suerte. Por ejemplo, la partera que ayuda a María o Salomé comprobando con su dedo la virginidad de María tras el parto (episodios narrados en el Protoevangelio de Santiago) no llegaron a convertirse en figuritas.
+
+Si las historias de la Natividad y, por consiguiente, su plasmación belenística son producto de una mezcolanza de tradiciones de diverso origen, lo mismo podemos decir de las Navidades como fiesta. Dado que nadie tenía ni la menor idea del día en que nació Jesús (tampoco del año) la Iglesia se apropió de unas fiestas romanas ya existentes, las Saturnales que, desde un origen como celebración agrícola del solsticio de invierno, fueron aumentando su duración y convirtiéndose en algo que aún hoy podríamos identificar. Las escuelas se cerraban y los niños recorrían las calles gritando: Io, Io, Saturnalia! lo que venía a suponer el inicio del jolgorio. Durante esas fechas no se podían emprender acciones militares para no perturbar la alegría y la paz. En un ambiente de hermanamiento aparente, los esclavos podían sentarse a la mesa con sus señores e, incluso, reprenderles sus vicios sin temer ningún castigo. Se celebraban banquetes públicos y se bebía más de la cuenta. También eran las fechas en que los conocidos se intercambiaban  regalos. Por último, se permitían los juegos de azar en público. Los cristianos que hoy protestan por la comercialización de las fiestas, tal vez deberían considerar que siguen siendo lo que eran antes de que surgiera su religión.
+
+En cualquier caso, tanto para romanos como para cristianos, había en estas fiestas un valor coincidente que comparto y que desearía que se hiciera realidad por encima de cualquier consideración formal: Paz en la Tierra. Amén
+
+NOTAS:
+......
+
+.. [#] El artículo anterior al que se hace referencia es "\ `Mucho ruido y pocas nueces`_\ " publicado también en El Escéptico Digital
+
+   ("El Evangelio de Lucas 2, 1 ss señala que la familia de Jesús se vio obligada a desplazarse a Belén obedeciendo una orden de censo relacionada con el romano Quirino... Quirino no era gobernador de Siria en el año 7 a. de C. ni siquiera en ninguna fecha próxima a ella... Quirino sí fue gobernador de Siria pero con posterioridad a estas fechas... Por otra parte, aunque aceptáramos como mero ejercicio teórico que Quirino, de una forma excepcional, hubiera accedido al gobierno de Siria en torno al 7 a. de C. quedan pendientes otras cuestiones. Judea no estaba, entonces, incluida en la provincia de Siria, por tanto no se explica que, por cuestiones censales, una familia galilea se hubiera tenido que trasladar a Belén que era parte del reino de Herodes y, como tal, no estaba incluida en el censo. Nuevamente tampoco hay la menor prueba de que los censos romanos incluyeran a los reinos independientes aunque fueran amigos y aliados como en este caso. Por otra parte, los censos romanos sólo exigían la presencia del cabeza de familia que declaraba los bienes y los miembros de la familia. Aunque siguiéramos aceptando que, de forma excepcional, en esta ocasión se hubiera tenido que censar una familia galilea en un territorio que no estaba bajo directa administración romana, incluso en ese caso sólo hubiera tenido que comparecer una persona, el padre. Por tanto, no existe razón para que hubiera expuesto a una mujer embarazada y próxima al parto al riego de un viaje nada cómodo.)
+
+.. [#] Todas las citas bíblicas mencionadas en este artículo fueron tomadas de la Nueva Biblia de Jerusalén. Traducción: J. Moya et al. Dirección: José Ángel Ubieta López.  Editorial Desclée De Brouwer. Bilbao, 2000.
+
+.. _El Escéptico Digital: http://digital.el-esceptico.org/leer.php?id=1590&autor=328&tema=29
+.. _Mucho ruido y pocas nueces: http://digital.el-esceptico.org/leer.php?id=1634&autor=328&tema=20
+
+
+
+.. include:: includes/exrel_pie.inc

@@ -1,0 +1,31 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB400
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2003-7-10
+.. type: afirmacrea
+.. title: CB420: La evolución no explica el arte
+.. description: Respuesta a la afirmación creacionista «La evolución no explica el arte»
+.. slug: CB420
+.. link: http://www.talkorigins.org/indexcc/CB/CB420.html
+
+La evolución no explica el deseo de las personas de crear arte o su apreciación del mismo.
+
+Respuesta
+=========
+
+1. Este esta es una :doc:`falacia de incredulidad personal <CA100>`. No saber cómo se explica algo no significa que sea inexplicable.
+
+2. El arte es una forma de creatividad, y la creatividad tiene obvias ventajas evolutivas (por ejemplo, permitirnos pensar en herramientas nuevas y mejores).
+
+
+/////
+
+Anterior: :strong:`CB411` | Siguiente: :doc:`CB421`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,46 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB100
+.. author: Mark Isaak, traducción de Paulina Madariaga, correcciones de Samuel Martínez de la Iglesia
+.. nocomments: True
+.. date: 2001-2-17
+.. type: afirmacrea
+.. title: CB100: La evolución requiere mutaciones, pero las mutaciones son raras
+.. description: Respuesta a la afirmación creacionista «La evolución requiere mutaciones, pero las mutaciones son raras»
+.. slug: CB100
+.. link: http://www.talkorigins.org/indexcc/CB/CB100.html
+
+**Fuente:**
+
+Morris, Henry M. 1985. *Scientific Creationism*. Green Forest, AR: Master Books, pg. 55. 
+
+Respuesta
+=========
+
+1. Las mutaciones muy grandes son raras, pero las mutaciones están en todas partes. Hay más o menos entre 0,1 y 1 mutaciones por replicación de genoma en los virus y 0,003 mutaciones por genoma en microbios. Las tasas de mutación para organismos más complejos varían un poco entre organismos, pero excluyendo las partes del genoma en las que la mayoría de las mutaciones son neutrales (el "ADN basura"), las tasas de mutaciones también son cerca de 0,003 por genoma por replicación celular. Dado que la reproducción sexual involucra muchas replicaciones celulares, los humanos tienen cerca de 1,6 mutaciones por generación. Esa es probablemente una estimación baja, porque las mutaciones con efecto muy reducido son fáciles de perder de vista en los estudios. Incluyendo las mutaciones neutrales, cada cigoto humano tiene cerca de 64 mutaciones nuevas ([Drake_et_al_1998]_). Otra estimación concluye 175 mutaciones por generación, incluyendo al menos 3 mutaciones dañinas ([Nachman_y_Crowell_2000]_).
+   
+Enlaces
+=======
+
+Harter, Richard. 1999. Are mutations harmful? http://www.talkorigins.org/faqs/mutations.html
+
+Referencias
+===========
+
+.. [Drake_et_al_1998]    Drake, J. W. et al. 1998. Ver abajo.
+.. [Nachman_y_Crowell_2000]    Nachman, M. W. and S. L. Crowell. 2000. Estimate of the mutation rate per nucleotide in humans. Genetics 156(1): 297-304. 
+
+Otras lecturas
+==============
+Drake, J. W., B. Charlesworth, D. Charlesworth, and J. F. Crow. 1998. Rates of spontaneous mutation. *Genetics* 148: 1667-1686. (técnico) 
+
+		
+/////
+
+Anterior: :doc:`CB090` | Siguiente: :doc:`CB101`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

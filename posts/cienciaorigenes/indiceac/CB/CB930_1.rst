@@ -1,0 +1,48 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CB930.1: El celacanto, que se creyó exento hace mucho tiempo, aún vive
+.. description: Respuesta a la afirmación creacionista «El celacanto, que se creyó exento hace mucho tiempo, aún vive»
+.. slug: CB930_1
+.. link: http://www.talkorigins.org/indexcc/CB/CB930_1.html
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2001-03-31
+.. modified: 2004-09-04
+
+
+De descubrió que el celacanto, que se creía extinto hace setenta millones de años y se usaba como ejemplo de una transición de pez a tetrápodo, aún vive hoy, sin haber cambiado de forma.
+
+Fuente
+======
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, pp. 82-83,89.
+
+Respuesta
+=========
+
+1. El celacanto moderno es *Latimeria chalumnae*, de la familia Latimeriidae. Los celacantos fósiles están en otras famlias, principalmente Coelacanthidae, y son notoriamente diferentes, ya que son más pequeños y carecen de ciertas estructras internas. *Latimeria* no tiene registro fósil, de modo que no puede ser un "fósil viviente".
+2. Aunque los celacantos modernos y los celacantos fósiles fueran la misma especie, no sería un problema serio para la evolución. En un entorno invariable, la selección natural hubiera tendido a mantener las cosas sin cambios morfológicos, en general.
+3. Los celacantos tienen características primitivas en relación con otros peces, así que en algún momento fueron uno de los especímenes mejor conocidos de la transición de pez a tetrápodo. Ahora conocemos otros fósiles que muestran bastante bien la :doc:`transición de pez a tetrápodo <CC212>`.
+
+Enlaces
+=======
+
+Lindsay, Don, 2000, Living fossils like the coelacanth. http://www.don-lindsay-archive.org/creation/coelacanth.html
+
+Lecturas recomendadas
+=====================
+
+Forey, Peter L., 1998. *History of the Coelacanth Fishes*. London: Chapman & Hall.
+
+
+
+/////
+
+Anterior: :doc:`CB930` | Siguiente: :doc:`CB930_2`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

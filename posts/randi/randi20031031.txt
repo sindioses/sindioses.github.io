@@ -1,0 +1,270 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Traducciones de James Randi
+.. type: randi
+.. title: Ciencia basura, la rabdomancia falla de nuevo, los motivos del Falun Gong, Andrés gana, validación de algunas artes marciales, tarot en Noruega, los verdaderos pronosticadores, choque cultural noruego, victoria para la JREF en California, y ¡el problema de Sylvia resuelto!
+.. date: 2003-10-31 00:00:00
+.. author: James Randi, traducción de Marcelo Huerta San Martín
+
+.. image:: http://www.randi.org/images/103103-RKscience.jpg
+   :align: right
+   :width: 200
+   :height: 230
+   :alt: [¡Hey! ¡Ciencia de verdad!]
+
+.. class:: primera
+
+Derek Heron, de Falkirk, Escocia, leyó sobre la "Clave de Resonancia" aquí [#aqui]_ en el artículo de la semana pasada, y decidió hacer un seguimiento de la maravillosa tecnología que podía producir estos resultados. Envió un mensaje electrónico a la compañía, Cutting Edge Health Products:
+
+    Leí sobre la Clave de Resonancia en su sitio web. Como dueño de un doctorado en
+    ingeniería eléctrica le agradecería si pudiera decirme qué componentes se usan para
+    detectar Patrones de Resonancia Homeopática. Mi esposa es doctora en medicina y
+    ambos hemos tenido muchas largas conversaciones en relación con su Clave de
+    Resonancia.
+
+Derek nos confiesa:
+
+    No soy un ingeniero eléctrico (soy administrador de redes y mago de trucos en primer
+    plano) y mi esposa no es doctora en medicina (es enfermera), pero pensé que este engaño
+    podría obtener una respuesta informada. Esta respuesta llegó unas pocas horas más tarde:
+
+        La clave de Resonancia es una combinación de las profesiones de usted y de su
+        esposa pero añadiendole cuántica a usted y vibración energética a su esposa.
+        Hablamos de agujeros negros. Sobre los componentes no tengo ni idea. Luego de usarlo
+        sin embargo puedo decir que es un sorprendente equipo de Star Trek que funciona.
+
+        Saludos, Steven Lee `www.electronichealing.co.uk <http://www.electronichealing.co.uk>`__
+
+        Productos de salud de última generación
+
+Dice Derek:
+
+    No es la respuesta que esperaba, pero sin embargo refleja la ingeniería responsable de
+    la Clave de Resonancia: ¡es un equipo de Star Trek!
+
+Esto sería divertido, si no fuera por el hecho de que hay inocentes que invierten en tales chácharas y confían en que les ayuden.
+
+
+.. class:: trans
+
+-----
+
+"Dan de Wisconsin" nos escribe:
+
+    Hay una cosa más que aprendí de usted: la comprensión de los experimentos simples y de estadística básica. Le gustará esta historia. Uno de mis compañeros de trabajo supo que yo iba a hacer un diseño de jardines y que había que cavar. La conversación giró en torno al hecho de que mis planes fueron demorados porque las compañías locales no lograban ubicar los caños de agua y las líneas eléctricas subterráneas. Mi compañero dijo que no había problema, que todo lo que yo necesitaba era un par de perchas... adivinó: las varillas de adivinación. Bueno, le dije que estaba loco. Insistió que podía probar su valía con la herramienta, así que le dije que arriesgara algún dinero si estaba tan convencido. $100 dólares más tarde, llora miseria.
+
+		.. image:: http://www.randi.org/images/103103-dowser3.jpg
+		   :align: right
+		   :width: 200
+		   :height: 120
+		   :alt: [¡Falló de nuevo!]
+
+    He aquí lo que llevé a cabo: en mi garaje, con otro compañero de trabajo (un tercero neutral; él también trajo las perchas) ubicamos tres cajas idénticas; debajo de una de ellas había un vasito de plástico lleno de agua (yo ya tenía preparados vasos de plástico y de metal por si el plástico interfería con la operación de las varillas) ubicado bajo la caja por el tercero, y ninguno de los participantes sabía en qué caja estaba el agua. El participante con la varilla de rabdomancia se paró en un extremo del garaje y "detectó" en qué caja estaba el vaso de agua. El tercero anotó tanto la caja en la que estaba el agua como la que eligió el adivinador. Se repitió esto 20 veces. Además, entre adivinaciones, el tercero rotó ligeramente cada caja para que el adivinador no obtuviera pistas de la ubicación de las cajas. Repetimos 5 veces cada grupo de 20 intentos. Le dije a mi amigo que si tenía razón la mitad del tiempo, ganaría. Por supuesto, sus aciertos estuvieron por debajo de la media estadística. Pero espere... hay más... ¡dijo que NO HABÍA SUFICIENTE AGUA! Le pregunté cuánto hubiera alcanzado. ¿Cuatro litros? Desafortunadamente para él, dijo que sí. La semana pasada repetimos el experimento con bidones de veinte litros y tuvo casi el mismo resultado, estadísticamente hablando.
+
+    De nuevo, ¡¡¡gracias por educarme a mí y a otros con su sitio!!!
+
+
+Dan, recuerde que los rabdomantes casi siempre se engañan a sí mismos. Están preparados para poner excusas inocentes porque realmente creen que pueden hacer lo que afirman. ¡Pero no se encuentran con frecuencia con alguien como usted que realmente verifica sus afirmaciones!
+
+
+.. class:: trans
+
+-----
+
+El lector Bryan Sink comenta sobre nuestro reciente artículo sobre el Falun gong. Opina sobre los motivos reales de su líder, Li, y sobre el conflicto con el gobierno chino:
+
+    Hay una lección para aprender en esto, sobre cómo educar a la gente y efectuar cambios en medio de un sistema que está lejos de ser perfecto: en lo que a Lo Hongzhi concierne, nunca se trató de salud espiritual y mejoramiento. Siempre se trató de tener una plataforma para ubicarse como un par ante Beijing en un enfrentamiento hostil. No se engañe. Detrás de la pretensión pacífica de plegaria masiva y meditación pública hay una sola meta: provocar a Beijing y forzar una confrontación. Y Beijing, comprensiblemente, respondió de la única manera que conoce.
+
+    No tenemos nada que hacer compadeciendo al Falun Gong.
+
+    Hay un centenar de otros grupos "espirituales" en China que son muy poco diferentes en esencia del Falun Gong. Pero no obtienen prensa y no sufren persecución, porque no causan tantos problemas. He estado en China sólo lo suficiente para darme cuenta de que hay una forma correcta y una equivocada de producir cambios. La forma correcta es trabajar con el sistema y dejar que el sistema se limpie solo con el tiempo. La gente en posiciones de poder ve las injusticias y con buena conciencia actúa para corregirlas, y para educar a sus sucesores para mejor. La forma equivocada es empeñarse en declarar la guerra, tratando de humillar a los poderes en vigor.
+
+    No se equivoque: China se está liberalizando; es un hecho. Esto ha venido sucediendo, y seguirán haciéndolo, lentamente y con dolor, pero sucederá pacíficamente, sin revueltas o revoluciones. Este hecho quedó claro de una vez y para siempre en 1989. China ingresó exitosamente a la carrera espacial la semana pasada, y eso no sucedió como resultado de un vuelco violento del sistema. Sucedió porque hace mucho tiempo la gente decidió que trabajarían voluntariamente con el sistema y permitirían que el cambio se produjera de manera lenta pero segura, una lección que todos haríamos bien en aprender.
+
+Bryan, durante mis visitas a China he visto en acción ese proceso de liberalización. Cuando fui por primera vez a ese país en 1988, hubiera sido impensable que yo pudiera haber sido invitado por cualquier persona con autoridad, pero menos de diez años después, durante una visita a China, recibí una invitación personal de un importante caballero que quería mi opinión, y la compartí con él. Vi signos de capitalismo por todas partes (¡no es que admire *todo* lo que resulta de ese sistema!) y la atmósfera generalmente más libre era muy evidente en todas partes. Sí, China está evolucionando políticamente, como lo hizo el Soviet, y aunque la Gran Muralla no caerá como resultado, la pared invisible entre la teoría y la realidad estallará cuando la gente de esa tierra empiece a ser liberada de lo que creo es un sistema seriamente (fatalmente) fallido.
+
+El Falun Gong haría bien en nadar a favor de esa corriente, no en contra. Y abandonar todos los intentos de usar trucos para vender su filosofía. Pero quizá eso es pedir demasiado.
+
+
+.. class:: trans
+
+-----
+
+.. image:: http://www.randi.org/images/103103-Andres.jpg
+   :align: right
+   :width: 200
+   :height: 273
+   :alt:
+
+El lector Fred Ramirez de Miramar, Florida, celebra la percepción de su hijo, Andrés:
+
+    Quiero compartir la experiencia del despertar de mi hijo. El año pasado, me preguntó por la existencia de Papá Noel. Tuve un trabajo muy difícil equilibrando mi naturaleza escéptica con mis esfuerzos paternales por conservar su inocencia. Le devolví la pregunta, preguntándole: "¿Qué piensas tú?" Luego de algunos momentos de reflexión, respondió: "Es imposible que una persona le dé regalos a cada niño del mundo en un solo día". Sólo tenía seis años cuando descubrió esa explicación. Es bueno ver pensamiento crítico a edad tan temprana.
+
+De acuerdo, Fred. En reconocimiento del razonamiento de su hijo, le estamos enviando una membresía honoraria de la JREF, pero eso significa que lo vamos a criticar seriamente si empieza a creer en fantasmas, el Conejo de Pascua, o las cucharas dobladas. ¡Espere y vea!
+
+
+.. class:: trans
+
+-----
+
+.. image:: http://www.randi.org/images/103103-BlaineGeller.jpg
+   :align: right
+   :width: 200
+   :height: 119
+   :alt:
+
+David Blaine terminó su extraño proyecto de encierro en una caja en Londres, y fue llegado a un hospital para que lo arreglaran después de la ordalía. Como se esperaba, cada adolescente cabezahueca en millas a la redonda se afanó por visitarlo en su lecho. Una persona, sin embargo, fue prohibida. A Uri Geller, quien dice que "inspiró" a Blaine y que son amigos cercanos, Blaine le prohibió visitarlo. Blaine dice que recientemente no tuvo relación alguna con él, y lo llamó un "pegote". Una maravilla. Como predije, Geller apareció en la ubicación en la que Blaine colgaba de la caja, 30 de los 44 días que pasó hambre dentro de ella. Blaine ahora piensa que Geller busca publicidad para él mismo. ¿En serio?
+
+Una fuente allegada a Blaine dijo: "Geller estuvo rondando a David durante este proyecto durante tanto tiempo que ya está empezando a molestarlo. Es justo decir que David considera a Geller una molestia. No pudo hacer mucho sobre eso mientras estaba en la caja, pero no quiere ver a Uri en el hospital". Un oficial de seguridad que protegía a Blaine el neoyorquino durante la prueba dijo: "Nos pidieron que tratemos a Uri como a cualquier miembro del púbilco. Él le dice a la gente que es amigo de David. Pero Blaine se quejó de que es un "pegote" y que no quiere tener nada que ver con él.
+
+¿Quizá, a pesar de haber firmado anteriormente una declaración jurada afirmando que Geller es auténtico, David lo está pensando mejor?
+
+
+.. class:: trans
+
+-----
+
+El lector Andrew Berkshire, de Stuttgart, Alemania, me recrimina (con razón) por una suposición que hice, basada en mi (lo admito, escasa) experiencia con las artes marciales. Esto fue reiterado por varios otros practicantes que estudian otras ramas de las mismas artes.
+
+    Aunque soy un lector ávido de su sitio web y un defensor verdadero de todo lo racional y "verificable" (uso esta palabra provisionalmente, sin embargo, ya que se me enseñó hace mucho que las teorías sólo pueden ser apoyadas por la evidencia y no probadas inequívocamente... pero me estoy desviando), debo protestar por una afirmación de su Comentario del 24 de octubre de 2003. Cito: "Sin embargo, sería una gran sorpresa para mí descubrir cualquier grupo de artes marciales que no use afirmaciones sobrenaturales y viejos trucos para vender su filosofía". He entrenado bastantes años en el estilo de karate "ashihara", considrado como una de las formas más prácticas de artes marciales. Mi sensei no me prometió jamás que podría realizar "trucos" sobrenaturales ni nada que yo pensara que está más allá de las leyes de la física. Por el contrario, todo lo que se nos enseñó y para lo que se nos entrenó eran acciones claramente pensadas de acuerdo con las situaciones que se nos presentaban. Cada técnica de movimiento, defensa o ataque que se nos enseñó era exhaustivamente respaldada con explicaciones lógicas y ejemplos prácticos. La premisa básica de nuestro entrenamiento no tenía nada que ver con lo sobrenatural, más bien lo contrario. En lugar de ello, estaba basada en el pensamiento rápido y claro apropiado para las circunstancias, cualesquiera que fueran. La *única* creencia que nos fue "inculcada" fue el trabajo duro y la disciplina propia, cualidades valiosas no solo en el dojo, sino en todos los aspectos de la vida.
+
+    Lamentablemente, los medios muestran a las artes marciales y lo sobrenatural como unidos categóricamente. Prefiero pensar que las artes marciales, para sus creadores, fueron el producto de la necesidad y la practicidad, o como mínimo una forma de ejercicio.
+
+Una opinión similar fue expresada por Tim Norfolk, de Atwater, Ohio:
+
+    He practicado artes marciales de manera irregular por 37 años, y los últimos 18 he enseñado en una de las escuelas del Kwanmukan, ubicado en Akron, Ohio, con el director de estilo el Sr. George Anderson. Aunque otros instructores en otras escuelas discuten "chi" y otras tontas ideas, la única "filosofía" que yo enseño es que podemos estar en mejor forma física y usar nuestros cuerpos de manera más eficiente, y mostrar que las ideas básicas de "palanca" pueden ayudar a un oponente más pequeño y más débil a tener una mejor oportunidad contra uno más grande y fuerte.
+
+    Admito que, cuando hacemos demostraciones para los padres, rompemos maderos (tableros de pino de 3cm) y bloques, lo que en particular considero un desperdicio. Sin embargo, eso es por entretenimiento, y no se afirma nada sobre "poderes especiales".
+
+    Mis razones para practicarlo es que es una de las formas de ejercicio que no encuentro aburrida, y el karate es ciertamente un buen trabajo cardiovascular. Por favor no nos meta a todos en la misma bolsa de los "crédulos y estúpidos".
+
+El lector Rhett Aultman nos sugiere dirigirnos a...
+
+    ... Combatientes SCARS y el Congreso de Lucha Científica, ambos grupos de artes marciales con sistemas basados en estudios de escenarios de combate documentados. Su concepto principal de tomar ideas efectivas donde se encuentren ha producido algunos sistemas marciales básicos y no metafísicos que no pretenden hacer nada más que ayudar a aprender cómo sobrevivir si uno se encuentra en una situación de combate. Es muy estimulante.
+
+Mis disculpas. Ahora estoy mejor informado. Gracias.
+
+
+.. class:: trans
+
+-----
+
+.. image:: http://www.randi.org/images/103103-tarot.gif
+   :align: right
+   :width: 150
+   :height: 273
+   :alt:
+
+Y, de forma parecida, ahora estoy mejor informado sobre la lectora de cartas de tarot que estuvo en la corte en Noruega. El lector Christian Berg amplía y corrige para nosotros el informe de los medios en el cual basé mi informe de la semana pasada:
+
+    Su información sobre los lectores de cartas de tarot en la corte noruega requiere algunos comentarios. Aunque tenemos nuestra cuota de fraudes paranormales aquí en Noruega, la historia sobre la lectora de cartas de tarot no es del todo verdadera tal como se la presentó.
+
+    Eva Nyberg no fue utilizada como testigo experto. No fue su habilidad (o falta de ella) como lectora de cartas de tarot lo que la llevó a la corte. Fue allí porque obtuvo información de la mujer durante una lectura de cartas de tarot. Gry Hosein le contó a Eva Nyberg sobre su vida amorosa. La corte quería escuchar esta información, no qué cartas le salieron durante la lectura. Pero ella no pudo evitarlo y empezó a cotillear sobre la "lectura" que había hecho. ¡El abogado del acusado aprovechó la oportunidad y la hizo quedar como una tonta y probablemente la convirtió en una testigo muy poco fiable a los ojos de la corte!
+
+    Los diarios nunca intentaron aclarar esto (¡qué sorpresa!). En otras situaciones, sin embargo, peudo informar que una serie de TV llamada "Fornemmelse for mord", que intenta resolver casos de homicidio utilizando "detectives" clarividentes, es un fiasco absoluto (otra sorpresa para usted). Luego de dos temporadas todavía no obtuvieron información alguna que resultara valiosa. La cadena de TV todavía rotula la serie de "éxito". Me pregunto por qué...
+
+
+.. class:: trans
+
+-----
+
+El lector Paul G. Wenthold comparte su asombro con nosotros:
+
+    Con frecuencia en su columna semanal usted hace referencia a adivinadores o gente parecida que afirma ser capaz de predecir el futuro. Un gran ejemplo de hace un par de semanas fue la mujer que predijo los ganadores de los premios Emmy y, por supuesto, hizo un trabajo horrible. De hecho, si compara sus predicciones con las de los críticos de TV más prominentes, encontraría que los críticos predijeron bastante bien los resultados, mientras que ella fracasó. En otras palabras, la gente que tiene más conocimiento sobre la disciplina proporciona mejores predicciones sobre tales resultados que un supuesto psíquico. Qué sorpresa.
+
+    Aún así, todos los medios se afanan por darles un foro a esos adivinadores y no hacen nada por publicitar a los verdaderos y exitosos "videntes". Hablo de la gente que hace detalladas predicciones del futuro, con tal eficacia que hay que bizquear para ver los errores.
+
+    Imagínese si hace 60000 años alguien hubiera hecho la afirmación de que en las siguientes semanas una de las luces del cielo se volvería marcadamente brillante, mucho más brillante de lo usual. Alcanzaría su máximo de brillo en un día específico, luego del cual disminuiría de nuevo a su estado normal. ¿Cuál sería la respuesta cuando sucediera, al pasar la Tierra y Marte cerca el uno del otro? Aún así, mientras esperábamos el encuentro cercano con Marte en los meses recientes, y la exhibición absolutamente espectacular que siguió, las únicas predicciones que se consideraron destacables fueron las especulaciones sobre si Ben y J-Lo se iban a casar.
+
+    No, la predicción exacta del futuro sucede todo el tiempo, y se llama ciencia. Imagínese un psíquico que pudiera hacer una predicción tan exacta como ésta: "El sol saldrá mañana por la mañana a las 6:43 y se pondrá a las 19:28". Diablos, un psíquico cualquiera mataría por tener un registro de aciertos tan bueno como el de los meteorólogos, los científicos de los que todos se burlan. Imagínese, en un bonito día soleado de hace 300 años, que alguien le dijera que iba a haber un frente frío por la noche y que al día siguiente estaría frío, con lluvia o quizá nieve. ¿Le hubiera creído? Hoy, vemos el mapa del clima y lo vemos venir, en esa línea con los triángulos. Consideramos normal que los científicos predigan el futuro a un nivel inimaginable para cualquiera de los llamados psíquicos.
+
+    Reconozcamos ese logro destacable por lo que es. Celebremos la ciencia, no la superstición.
+
+    (Sólo algunos pensamientos que surgieron mientras corría a la noche, bajo las estrellas, y contemplaba a Marte brillando en el cielo durante el reciente encuentro cercano. Fue hermoso.)
+
+
+.. class:: trans
+
+-----
+
+El lector Paul K. Egell-Johnsen de Noruega nos dice:
+
+    No soy un lector regular, navego por su sitio unas cuantas semanas al año, y parece que me toca de nuevo. Por lo tanto comentaré sobre una columna más vieja. En ella Trevor French de Hitchin, Reino Unido, escribió sobre sus problemas en la oficina de desempleo. De acuerdo con él, ofrecían un curso de Reiki. El problema con esos cursos, aparte de la charlatanería obvia, es que en algunos países, como en Noruega donde yo vivo, uno pierde su subsidio si no sigue las recomendaciones de la oficina de desempleo.
+
+    Esas recomendaciones pueden ser buscar trabajo activamente (lo que después de todo es la única forma segura de obtener trabajo, lo cual supuestamente es la meta de la ayuda que uno recibe) y asistir a cursos para aumentar el valor de uno en el mercado laboral. Esto conduce a una teoría originada por mí: la gente puede perder su subsidio de desempleo si no hace cursos de charlatanería.
+
+    Según mis propias experiencias: trabajé por un mes en la administración de una asamblea elegida aquí en Noruega. Para mi sorpresa encontré una creencia muy fuerte en la astrología y otros fenómenos paranormales. El presidente de la asamblea, Nystø, dijo recientemente lo siguiente a un periódico noruego, y fue repetido en radio, aunque no puedo encontrar un enlace:
+
+        [La afirmación de que] los sámi [un pueblo nativo de las regiones del norte de Suecia, Noruega y Finlandia y el noroeste de Rusia] y otros pueden exhibir fenómenos de naturaleza ajena a lo que consideramos normal en un contexto urbano, es algo con lo que no tengo problemas. Tenemos tradiciones orales referidas a esos eventos. Son parte natural de la cultura de los sámi.
+
+    Sigue diciendo, al final del artículo:
+
+        Es importante que los que tratan esos problemas [de salud mental] estén educados y tengan experiencia en la cultura, historia y tradición sámi. El Hospital de la Universidad de Noruega del Norte tiene en cuenta esos temas cuando tratan pacientes sámi.
+
+    Primero aclaro que yo mismo soy un sámi (aunque hace poco volví a la "tierra central" de nuestra cultura), así que sé algo sobre sus tradiciones orales. Lo que se dice aquí es que la gente que escucha voces reales de las cosas o criaturas de la naturaleza (no un sentimiento vago de estar conectado, lo que también sería sospechoso, ya que estamos) debería recibir más respeto que otros cuando reciben tratamiento... si es que se requiere tratamiento, dice también Nystø en el artículo. Quiero decir que también usó términos específicos de los sámi para algunas de esas cosas en la radio, aunque no hay transcripciones disponibles, así que espero equivocarme.
+
+    En la cantina mordí el anzuelo, el mismo día que lo escuché. Pregunté por qué debería dársele más credibilidad a los sámi en relación con la salud mental que a otros que creen en cosas sobrenaturales y actúan según sus creencias. Una persona objetó que los llamara creencias sobrenaturales, en lugar de creencias folclóricas, creencias culturales o religión si correspondía, y no discutió más, sobre la base de que yo metía todo en la misma bolsa: creencias sobrenaturales.
+
+    Nadie más apoyó o se opuso, aunque por un rato hubo una atmósfera claramente silenciosa en la habitación. Creo que debería aprender cuándo pelear en su terreno y cuándo en el mío (o sea, cuándo usar el lenguaje de ellos y cuándo el mío), porque aunque expuse mi postura tan claramente como para que todos la entendieran, y alguna gente se sintió incómoda (espero que algunos hayan pensado sobre la idea), no tuve éxito en discutir mi opinión.
+
+    También conozco gente que cree tener sueños que los alertan de eventos futuros: la muerte de un ser amado, por ejemplo. Entre otras creencias sámi, que para mi tristeza están muy difundidas, están el Kofitar (uso una grafía simplificada), una clase de entidad subterránea que mueve las cosas de lugar. Milagrosamente, ellos luego retornan, si se les habla (y se les dice el error cometido), los objetos a su lugar.
+
+    Como historias en un libro y documentación de la cultura e historia, no tengo problema con esto. Pero cuando se empiezan a crear políticas basadas en esas creencias entonces no estamos mejor que en una teocracia.
+
+    En la siguiente sesión de la asamblea, si me piden estar allí y ayudar con los procedimientos como sucedió en la última, confrontaré al presidente con mis puntos de vista y le preguntaré exactamente qué quiso decir y si piensa que transigir con las creencias de las personas mentalmente enfermas es una buena manera de ayudarlas, que es como yo veo en definitiva este asunto.
+
+Paul, eso será realmente interesante. ¡Por favor manténganos informados!
+
+
+.. class:: trans
+
+-----
+
+Los lectores estarán interesados en lo que Walt Owen, un maestro de ciencias en la Escuela Media University Heights de Riverside, California, pudo lograr. Informa:
+
+    Pasó de nuevo. Su sitio fue bloqueado por 8e6 Technologies Web Filter Corporation [una empresa que filtra contenidos de Internet] por "contenido paranormal". El año pasado fue desbloqueada temporalmente en el nivel de mi distrito escolar, pero cuando actualizaron la lista, la bloquearon de nuevo. Mis estudiantes no podían acceder al sitio de usted. El año pasado mis quejas no llegaron a ninguna parte. Este año, fui hasta el final. Si era necesario, estaba decidido a visitar las oficinas de la empresa y hablar con el presidente de la compañía. Como afirmaba mi nota citada a continuación, tenían su sitio categorizado por las razones equivocadas. Había que cambiarlo. El año pasado usé como parte de mi argumento el acceso necesario en función de la primera enmienda [constitucional norteamericana, que se refiere a la libertad de expresión]. Eso no tuvo éxito, porque también podía aplicarse a los sitios paranormales. Esperaga que poner la información en su contexto tendría más éxito. Y lo tuvo.
+
+Esto fue lo que Walt le envió a Diana Taylor en 8e6:
+
+    Tema: Bloqueo de sitio web valioso.
+
+    Señora Taylor,
+
+    Si www.randi.org es restringida porque contiene información paranormal, entonces debo cuestionar el valor de su tecnología. Afirmé antes que con toda sensatez bloquea organizaciones discriminatorias, tales como www.kkk.com. Sin embargo, ustedes no bloquean www.tolerance.org, que es precisamente lo opuesto de los sitios discriminatorios: un grupo que investiga y refuta los esfuerzos de los grupos discriminatorios. De acuerdo con su evaluación de www.randi.org, debería bloquear www.tolerance.org porque "este sitio incluye contenido racista e información sobre discurso inflamatorio".
+
+    Obviamente, no es realmente el caso. Las intenciones de www.tolerance.org son directamente opuestas a las de www.kkk.com. Concedo que mucha de la información de ambos sitios parece la misma, pero la intención detrás de la información es lo que debemos examinar.
+
+    Las intenciones de www.randi.org son la antítesis de la de los sitios paranormales que menciona. Agrupar www.randi.org con los sitios paranormales es el equivalente intelectual de grupar www.tolerance.org con www.kkk.com y otros sitios web racistas.
+
+    La exhorto a que reconsidere su restricción de www.randi.org, una de las pocas voces en Internet que trabaja EN CONTRA de los paranormales que ustedes filtran. Este valioso recurso debería estar disponible para TODOS los estudiantes en todas partes.
+
+    Walt Owen
+
+Iba a sugerir que los lectores que tuvieran opiniones sobre este bloqueo de nuestro sitio podrían querer contactarse con la señora Diana Taylor en dtaylor@8e6.net. Pero justo ahora, volví a tener noticias de Walt:
+
+    8E6 Technologies se ha reunido y decidió que su sitio no es "paranormal". Lo abrirán a todos los estudiantes mañana.
+
+¡Hey! ¡Las vibraciones de este posible diluvio de quejas parecen haber hecho el trabajo por nosotros! Ahora puede que quieran enviarle a la señora Taylor una nota CORTA de agradecimiento...
+
+
+.. class:: trans
+
+-----
+
+.. image:: http://www.randi.org/images/103103-Browne.jpg
+   :align: right
+   :width: 200
+   :height: 267
+   :alt:
+
+La semana próxima, les contaremos más sobre Ed Lu y sus aventuras, ¡además de las excelentes noticias que Sylvia Browne ha estado esperando impacientemente! Sí, todos los obstáculos para su aceptación de la prueba de la JREF han sido removidos. ¡Aleluya! ¡Y sólo 969 días después de su aceptación!
+
+
+
+|firmarandi|
+
+**Notas**
+
+.. [#aqui] Se refiere a la página original. [N. del T.]
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc

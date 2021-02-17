@@ -1,0 +1,35 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CF, CF000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CF001_4
+.. link: http://talkorigins.org/indexcc/CF/CF001_4.html
+.. date: 2003-6-4
+.. type: afirmacrea
+.. title: CF001.4: La segunda ley es sobre complejidad organizada, no entropía
+.. description: Respuesta a la afirmación creacionista «La segunda ley es sobre complejidad organizada, no entropía»
+
+La segunda ley de la termodinámica permite un orden más elevado (entropía más baja) aparecer localmente, pero aún así no permite la complejidad organizada. Por ejemplo, permite que se originen distribuciones altamente ordenadas como "aaaaaaaaaaaaaaaaa...", pero no eistribuciones complejas ordenadas como las palabras en esta página.
+
+**Fuente:**
+
+Yahya, Harun, 1999. The evolution deceit: Thermodynamics falsifies evolution. http://www.evolutiondeceit.com/chapter12.php
+
+Respuesta
+============
+1. La segunda ley de la termodinámica trata sobre el flujo espontáneo del calor o, más generalmente, sobre la imposibilidad de realizar trabajo útil indefinidamente. Las giros que le dan los creacionistas, incluyendo la "complejidad organizada", son enteramente ficticios.
+
+   Las distribuciones como las palabras en esta página no están prohibidas por ninguna ley de la física. Si lo estuvieran, no podrían existir para que Ud. las leyera en este momento.
+
+2. :doc:`Las distribuciones ordenadas complejas <CF002>` pueden surgir naturalmente, y lo hacen.
+
+
+/////
+
+Anterior: :doc:`CF001_3` | Siguiente: :doc:`CF001_5`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

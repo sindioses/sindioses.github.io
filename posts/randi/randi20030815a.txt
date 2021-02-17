@@ -1,0 +1,17 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: -Traducciones de James Randi
+.. tags:
+.. type: randi
+.. title: La historia de Adolf, teología sin fondos, las maravillas de Simanek, un brete en Tennessee, aceptación selectiva de la ciencia, dos lectores alarmados, Twain sobre la locura, sitios de la NCAHF, feng shui peligroso, la pirámide mágica, y una aventura en el Reino Unido...
+.. author: James Randi, traducido por Marcelo Huerta San Martín
+.. date: 2003-08-15 00:00:01
+
+.. image:: 081503-Noe2.jpg
+   :align: center
+   :alt: Noé dirigiendo a los animales
+
+`Volver al comentario del 15 de agosto de 2003 <randi20030815.html>`__
+
+`Comentarios semanales de James Randi <randi.html>`__
+
+.. include:: includes/randi.inc

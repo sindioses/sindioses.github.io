@@ -1,0 +1,34 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CI141.1: Estructuras similares para funciones similares, diferentes estructuras para diferentes funciones
+.. description: Respuesta a la afirmación creacionista «Estructuras similares para funciones similares, diferentes estructuras para diferentes funciones»
+.. slug: CI141_1
+.. link: http://www.talkorigins.org/indexcc/CI/CI141_1.html
+.. tags: CI, CI100
+.. author: Mark Isaak, traducción de Marcelo Huerta
+.. date: 2003-05-23
+
+La similitud de estructuras en distintas formas de vida refleja el hecho de que fueron creadas para propósitos similares. Diferentes estructuras reflejan diferentes funciones.
+
+Fuente
+======
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, p. 70.
+
+Respuesta
+=========
+
+1. Los diseñadores actuales que conocemos usan formas similares para funciones similares y formas diferentes para funciones diferentes. En la vida, vemos con frecuencia formas diferentes para funciones similares (p. ej. diferentes diseños para aves, murciélagos y alas de pterodáctilo) y formas similares para funciones diferentes (p. ej. telarañas para atrapar insectos voladores, reforzar túneles, proteger huevos, transferir esperma, volar como un globo, marcar una ruta, servir como línea de seguridad luego de saltar para escapar de una amenaza y detectar movimiento).
+
+
+/////
+
+Anterior: :doc:`CI141` | Siguiente: :doc:`CI190`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

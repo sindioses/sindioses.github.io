@@ -1,0 +1,31 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA300
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA310
+.. link: http://talkorigins.org/indexcc/CA/CA310.html
+.. date: 2000-11-18 02:00:00+00:00
+.. title: CA310: Los científicos encuentran lo que esperan encontrar
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Los científicos encuentran lo que esperan encontrar»
+
+Respuesta
+=============
+
+1. Los resultados científicos son verificados. Esto tiene dos consecuencias muy importantes. Primero, los científicos saben que sus resultados estarán sujetos a revisión, así que se esfuerzan más para asegurarse de que las pruebas realmente respaldan sus resultados. Segundo, las ideas publicadas que no están respaldadas por las pruebas serán rechazadas, especialmente en tiempos o lugares con distintas tendencias culturales.
+
+2. Los científicos, más que la mayoría de la gente, están entrenados para ser objetivos. Aunque sus expectativas pueden afectar sus conclusiones, no deberían afectarlas en un grado notable. Casi con seguridad, no cegarán a todos los biólogos y geólogos a todas las pruebas, como sería necesario si el creacionismo fuera cierto.
+
+3. Al principio del siglo XIX, los científicos esperaban encontrar pruebas en favor de la creación y de un diluvio universal. En lugar de ello, encontraron pruebas en favor de la evolución, razón por la cual la evolución era la teoría aceptada hacia el final de ese siglo.
+
+4. Los creacionistas encuentran lo que quieren encontrar. Dado que todo su mundo está amenazado cuando se encuentran pruebas refutatorias, están muy motivados para no verlas. Los científicos, por otro lado, por lo general le dan la bienvenida a las pruebas refutatorias cuando aparecen.
+
+/////
+
+Anterior: :doc:`CA301_1` | Siguiente: :doc:`CA320`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

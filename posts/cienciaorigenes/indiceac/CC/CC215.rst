@@ -1,0 +1,69 @@
+﻿.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC210
+.. author: Mark Isaak. traducción de Samuel Martínez de la Iglesia
+.. nocomments: True
+.. slug: CC215
+.. link: http://www.talkorigins.org/indexcc/CC/CC215.html
+.. date: 2004-03-18
+.. title: CC215: Existe una laguna entre reptiles y mamíferos.
+.. description: Respuesta a la afirmación creacionista «Existe una laguna entre reptiles y mamíferos».
+.. type: afirmacrea
+
+
+Hay un gran abismo entre reptiles y mamíferos, sin fósiles transicionales entre ellos.
+
+**Fuente:**
+
+Watchtower Bible and Tract Society, 1985. *Life--How Did It Get Here?* Brooklyn, NY, pgs. 80-81
+
+Respuesta
+============
+
+1. La transición desde reptiles a mamíferos tiene un registro excelente. Los siguientes fósiles son solo una muestra. En particular, estos fósiles documentan la transición de un tipo de articulación mandibular a otra. Los reptiles tienen un hueso en el oído medio y varios huesos en la mandíbula inferior. Los mamíferos tienen tres huesos en el oído medio y sólo uno en la mandíbula inferior. Estas especies muestran disposiciones transicionales de la mandíbula-oído ([Hunt_1997]_; [White_2002_b]_). La secuencia también muestra etapas transicionales en otras características como el cráneo, vértebras, costillas y dedos de los pies.
+
+   a. *Sphenacodon* (desde finales del Pensilvánico hasta principios del Pérmico, hace cerca de 270 millones de años (Ma)). La mandíbula inferior está compuesta de múltiples huesos; su articulación mandibular es la de un reptil. No tiene tímpano.
+   b. *Biarmosuchia* (Pérmico Tardío). Uno de los primeros terápsidos. Su articulación mandibular es más similar a la de mamífero. Su mandíbula superior está fija. Sus extremidades posteriores están dispuestas de forma más erguida (vertical).
+   c. *Procynosuchus* (finales del Pérmico). Un cinodonte primitivo; un grupo de terápsidos similares a los mamíferos. La mayor parte de los huesos de su mandíbula inferior están agrupados en un pequeño complejo cerca de la articulación mandibular.
+   d. *Thrinaxodon* (Triásico Temprano). Un cinodonte más avanzado. Desarrolló un tímpano en la mandíbula inferior, permitiéndole oir sonidos a través del aire. Su hueso cuadrado y los huesos de su articulación mandibular podían vibrar libremente, otorgándoles la función de transmisión del sonido a la vez que mantenían su función como huesos de la mandíbula. Las cuatro extremidades están completamente en vertical (erguidas).
+   e. *Probainognathus* (mediados del Triásico, hace cerca de 235 Ma). Tiene dos articulaciones mandibulares: de mamífero y de reptil ([White_2002_a]_).
+   f. *Diarthrognathus* (Jurásico Temprano; hace 209 Ma). Un cinodonte avanzado. Seguía teniendo una articulación mandibular doble, pero la articulación de reptil funcionaba casi exclusivamente para la audición.
+   g. *Morganucodon* (Jurásico Temprano, hace cerca de 220 Ma). Todavía tiene un vestigio de la articulación de reptil ([Kermack_et_al_1981]_).
+   h. *Hadrocodium* (Jurásico Temprano). Los huesos de su oído medio se han movido desde la mandíbula hacia el cráneo ([Luo_et_al_2001]_; [White_2002_b]_).
+
+
+Enlaces
+==========
+
+Flank, Lenny, 1995. The Therapsid--mammal transitional series. https://web.archive.org/web/19990221110348/http://www.geocities.com/CapeCanaveral/Hangar/2437/therapsd.htm
+
+Hunt, Kathleen, 1997. Transitional vertebrate fossils FAQ, part 1B. http://www.talkorigins.org/faqs/faq-transitional/part1b.html#syn2mamm
+
+Theobald, Douglas, 2004. 29+ evidences for macroevolution, part 1: The unique universal phylogenetic tree. http://www.talkorigins.org/faqs/comdesc/section1.html#morphological_intermediates_ex2
+
+
+Referencias
+==============
+
+.. [Hunt_1997]    Hunt, K. 1997. (vide supra) 
+.. [Kermack_et_al_1981]    Kermack, K. A., F. Mussett and H. W. Rigney, 1981. The skull of *Morganucodon. Zoological Journal of the Linnean Society* 71: 1-158.
+.. [Luo_et_al_2001]    Luo, Z.-X., A. W. Crompton and A.-L. Sun, 2001. A new mammaliaform from the Early Jurassic and evolution of mammalian characteristics. *Science* 292: 1535-1540
+.. [White_2002_a]    White, T., 2002. Palaeos Vertebrates 420.500: Cynodontia: Probainognathia. http://web.archive.org/web/20031021004737/http://www.palaeos.com/vertebrates/Units/410Cynodontia/410.500.html
+.. [White_2002_b]    White, T., 2002. Palaeos Vertebrates 420.300: Mammaliformes: Symmetrodonta. http://web.archive.org/web/20031024161117/http://www.palaeos.com/vertebrates/Units/Unit420/420.300.html
+
+
+Otras lecturas
+================
+
+Benton, Michael J. 1991. *The Rise of the Mammals*. New York: Crescent Books.
+
+
+/////
+
+Anterior: :doc:`CC214_2` | Siguiente: :doc:`CC216_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

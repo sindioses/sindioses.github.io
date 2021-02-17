@@ -1,0 +1,39 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH130_
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH130
+.. link: http://talkorigins.org/indexcc/CH/CH130.html
+.. date: 2003-12-01
+.. title: CH130: La exactitud de la Biblia sobre varios temas científicos e históricos muestra su exactitud en general
+.. description: Respuesta a la afirmación creacionista «La exactitud de la Biblia sobre varios temas científicos e históricos muestra su exactitud en general»
+.. type: afirmacrea
+
+Respuesta
+===========
+
+1. La exactitud de la Biblia no es notable. Todos los temas en los que es exacta se explican por la simple observación de la naturaleza o por interpretación selectiva de las escrituras.
+
+2. La exactitud en temas individuales no indica exactitud general. Casi cualquier tesis que es errónea en general aún contiene algunas nociones correctas.
+
+3. Las afirmaciones sobre exactitud asumen que el propósito de la Biblia es documentar datos científicos. No hay la menor indicación de que la Biblia haya sido pensada jamás como un libro de texto científico. Su propósito es enseñar a la gente sobre Dios; incluso quienes afirman que es exacta científicamente la usan con esa intención. Para al menos unas pocas enseñanzas bíblicas, la exactitud científica es innecessaria y quizá hasta contraproducente.
+
+4. La biblia no es enteramente exacta. Si su valor depende de su exactitud científica, pierde todo su valor cuando la gente le encuentra :doc:`errores <CH101>`, lo que ocurrirá invariablemente.
+
+5. Si la exactitud científica ocasional muestra la exactitud general de la Biblia, entonces debe otorgarse la misma conclusión al :doc:`Corán <CJ530>`, el Zend Avesta y varias otras obras de otras religiones, todas las cuales afirman lo mismo sobre su exactitud científica.
+
+Enlaces
+=========
+
+Till, Farrell, 1990. What about scientific foreknowledge in the Bible? http://www.infidels.org/library/magazines/tsr/1990/4/4scien90.html
+
+
+/////
+
+Anterior: :doc:`CH120` | Siguiente: :strong:`CH131`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

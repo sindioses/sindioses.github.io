@@ -1,0 +1,44 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2003-4-27
+.. type: afirmacrea
+.. title: CC130: Se encontró un martillo petrificado en rocas del Cretácico
+.. description: Respuesta a la afirmación creacionista «Se encontró un martillo petrificado en rocas del Cretácico»
+.. slug: CC130
+.. link: http://www.talkorigins.org/indexcc/CC/CC130.html
+
+Se encontró un martillo de hierro con mango de madera incrustado en rocas en sedimentos del Cretácico (o del Ordovícico, según algunos relatos) cerca de London, Texas. La roca circundante contiene fósiles del Cretácico Inferior.
+
+**Fuente:**
+
+Patton, Don, n.d. Fossilized hammer. http://www.bible.ca/tracks/fossilized-hammer.htm
+
+Respuesta
+=========
+
+1. El martillo está incrustado con carbonato de calcio, lo que puede ocurrir rápidamente. Los fósiles están en rocas cercanas, no son parte del material que incrusta el martillo. No hay evidencia de que el martillo tenga más de unas décadas de antigüedad.
+   
+Enlaces
+=======
+
+Kuban, Glen J. 1997. The London hammer: An alleged out-of-place artifact. http://paleo.cc/paluxy/hammer.htm
+
+Matson, Dave E. 1994. How good are those young-earth arguments? http://www.talkorigins.org/faqs/hovind/howgood-gc.html#G4d
+
+Otras lecturas
+==============
+Cole, John R. 1985. If I had a hammer. *Creation/Evolution* 5(1): 46-47. 
+
+		
+/////
+
+Anterior: :doc:`CC120` | Siguiente: :doc:`CC131`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

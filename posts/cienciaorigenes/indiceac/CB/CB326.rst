@@ -1,0 +1,34 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB300
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB326
+.. link: http://talkorigins.org/indexcc/CB/CB326.html
+.. date: 2003-8-27
+.. title: CB326: La lengua del pájaro carpintero no puede haber evolucionado
+.. description: Respuesta a la afirmación creacionista «La lengua del pájaro carpintero no puede haber evolucionado»
+.. type: afirmacrea
+
+La singular distribución de la lengua del pájaro carpintero no puede haber evolucionado. Si la lengua surgió anclada a la parte trasera del pico, hubiera requerido un gran cambio súbito para llegar a su configuración actual.
+
+Respuesta
+============
+
+1. La lengua del pájaro carpintero y el aparato hioide (un esqueleto de la lengua formado de cartílago rígido y hueso) son inusualmente largos. Sin embargo, sin simplemente una elongación de la misma anatomía básica hallada en todos los pájaros. Como en otros pájaros, las principales fijaciones son a la mandíbula, el cartílago de la garganta y la base del cráneo. Todo lo que se requiere para que la lengua del carpintero evolucione es que se alargue, lo que fácilmente puede ocurrir de forma gradual.
+
+   La afirmación creacionista surge de una comprensión errónea de la anatomía de la lengua. Los creacionistas creen que la lengua está anclada en la fosa nasal y crece hacia atrás desde allí. Aunque la parte trasera de la lengua en algunas especies es lo bastante larga para extenderse a la cavidad nasal, no se encuentra anclada allí.
+
+Enlaces
+=========
+
+Ryan, Rusty, 2003. Anatomy and evolution of the woodpecker's tongue. http://www.talkorigins.org/faqs/woodpecker/woodpecker.html
+
+/////
+
+Anterior: :doc:`CB325` | Siguiente: :doc:`CB340`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

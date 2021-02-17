@@ -1,0 +1,738 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. author: James Randi, traducción de Juan Ignacio Rodríguez de León
+.. category: Traducciones de James Randi
+.. date: 2005-06-17 00:00:00
+.. tags:
+.. type: randi
+.. title: Igual que un péndulo - Como detectar fuerzas imaginarias - Nueva Zelanda actúa sabiamente - Otra corrección - Buenos materiales de referencia - Financiando el sinsentido - Plait va al grano - Grant otra vez bombardeado - Sabias palabras de un héroe - Falsos artefactos - Misteriosa Dunne - Mi enciclopedia - Geller eclipsa a Jackson, otra vez - En conclusión...
+
+.. contents:: Contenido
+   :class: sidebar
+   :local:
+
+.. _Institución Smithsonian: http://www.si.edu/
+.. _Museo Nacional de Historia Natural: http://www.mnh.si.edu/
+.. _Washington Post: http://www.washingtonpost.com/
+.. _New Statesman: http://www.newstatesman.com/
+.. _JPEG: http://es.wikipedia.org/wiki/Joint_Photographic_Experts_Group
+.. _SRI: http://www.sri.com/
+
+Igual que un péndulo
+--------------------
+
+.. image:: 061705-pendul.jpg
+   :alt:
+   :align: left
+
+El joven Perry Goy, de Cedarburg, Wisconsin, tiene una madre muy prudente que ha criado un hijo muy racional; y también parece ser una profesora muy competente. Aunque el primer párrafo de la carta de Perry no me pareció especialmente halagador, al seguir leyéndola mejora considerablemente:
+
+    Empecé a leer sus páginas porque nuestro profesor de Cultura Moderna y
+    Método Científico, el señor Ron LeMay, nos lo sugirió. Comentó que
+    probablemente fuera una buena idea leerlo, ya que cada semana sacaría alguna
+    pregunta de ahí. Al principio no podía ni siquiera acceder al sitio, así que
+    fallé las primeras. Pero una vez que conseguí acceder, me alegré de no haber
+    seguido insistiendo hasta conseguirlo.
+
+    En cualquier caso, tengo una historia que creo puede interesarle. Es sobre
+    la primera vez que estuve cerca de una persona así. Mi madre se sometió
+    recientemente a una operación de reemplazo de rodilla [Artroplastia de
+    rodilla] en el hospital de Menomonee Falls, y mientras se recuperaba de la
+    intervención una mujer entró en su cuarto. Empezó a hablarle acerca de
+    Dios y mi madre le aclaró rápidamente que no era una persona muy religiosa,
+    así que cambió de táctica. Después de hacerle practicar unos ejercicios
+    visuales, sacó una joya que llevaba envuelta en un trozo de tela. Empezó a
+    hacerla oscilar sobre la recientemente operada rodilla de mi madre, haciendo
+    que la joya dibujara una elipse, a la vez que decía "¿Ves como el péndulo se
+    balancea? Hay un montón de energía negativa alrededor de su rodilla que
+    impide al péndulo describir un círculo perfecto". Entonces se puso a
+    realizar gestos alrededor de la rodilla, a la vez que emitía ruiditos
+    extravagantes y toquecitos por aquí y por allá, en una actuación propia de
+    un mimo.
+
+    Después de estar así un rato, volvió a hacer oscilar el péndulo sobre la
+    rodilla de mi madre y -Oh, dios mio- ¡Describió un circulo perfecto! La
+    explicó a mi madre que la energía negativa había desaparecido,
+    como se podía ver claramente, y que por tanto, dicha energía ya no seguiría
+    afectando a la rodilla y esta se curaría más rápidamente.
+
+    Afortunadamente mi madre sabía lo suficiente para no tomarse en serio estas
+    cosas y se lo tomó a risa. Nunca me cansaré de oír o leer estas historias.
+
+Gracias, Perry, pero tengo que hacerte una advertencia: No te fíes tanto de lo
+que yo pueda decir o escribir ni lo aceptes o creas automáticamente. Pruébalo,
+cuestiónalo, como debes hacer con cualquier otra cosa. Creo que la mayor
+parte del tiempo estoy en lo correcto en lo que se refiere a mi campo de
+experiencia, pero soy falible, como todos. Cuando me encuentro con alguien que
+afirma entusiasmado que "también es escéptico",a menudo le respondo: "lo dudo",
+¡Sólo para mantener el carácter y para practicar!
+
+Debo señalar también que el efecto descrito aquí es otro ejemplo del
+efecto "ideomotor", que ya explicamos en http://www.randi.org/library/dowsing/, junto
+con otras variedades como la varas de zahorí, cables paralelos y otros "técnicas"
+basadas en balanceos y vaivenes. Evidentemente, una sencilla prueba de doble
+ciego bastaría para demostrar estos efectos, de ser reales. Este tipo
+de afirmaciones son, con mucho, las más frecuentes que recibimos para el premio
+del millón de dolares de la JREF.
+
+Como detectar fuerzas imaginarias
+---------------------------------
+
+Sólo para demostrar lo imposible de la tarea que nos hemos marcado -cooperar con
+esta retahíla de "himbestigadores"- publicaré aquí un intercambio que hemos
+tenido hace poco. Recibimos un email de "Dick Kay", otra de esas personas que
+escribe o bien con todas las letras en mayúsculas o con todas en minúsculas,
+solo para demostrar lo "molón" que es. Es este un rasgo típico de jóvenes que
+adoptan las modas como mecanismo de aceptación entre sus iguales. El señor Kay
+nos envió una mezcla confusa de mensajes, algunas como "Pruebas paranormales";
+un grupo que afirma orgulloso que para detectar fantasmas usan:
+
+    ...equipos de visión nocturna, convencionales y también equipos de vídeo y
+    fotografía digital, diversos aparatos receptores de EVP, detectores de EFM,
+    termómetros digitales y más.
+
+Se les puede consultar en http://www.proofparanormal.com/.
+
+Otros mensajes enviados por el señor Kay tenían como remitente a "Doug 310
+2049027". En cualquier caso, "Doug" nos anunciaba lo siguiente (Se han respetado
+el formato y la [casi inexistente] puntuación):
+
+    he encontrado un fantasma famoso
+
+    CONOCEN ALGUN OTRO CAZADOR DE FANTASMAS EN SOCAL QUE TENGA ESTE EQUIPAMIENTO
+    PARA IR Y CAZAR FANTASMAS YO HE CONTACTADO CON UN FAMOSO FANTASMA EN MI
+    UNIVERSIDAD CON MUCHA ,MUCHA EVP Y AVISTAMIENTOS TIENES TU EL EQUIPAMIENTO
+    PARA HACER ESO
+
+Creo que SOCAL significa California del sur (*Southern California*), EVP podría
+ser Fenómenos de Voz Electrónica (*Electronic Voice Phenomena*), y Las siglas
+EFM se usan normalmente en los textos paranormales para indicar Fuerza
+Electromagnética o Electro-motivada (*Electromagnetic [or Electromotive] Force*).
+Incluido en esta apasionante alocución se incluía un mensaje de John-Michael
+Talboo (john arroba proofparanormal.com) con una invitación general a quedarse en
+una casa encantada. Decidí que podía resistir la tentación, y respondí,
+aparentemente a Dick:
+
+    ¿Qué equipamiento permite detectar fantasmas? No sé de ninguno...
+
+De forma casi inmediata, el siguiente mensaje irrumpió en mi buzón. De nuevo, se respeta el
+formato u la ortografía del original:
+
+    Tema: EQUIPAMIENTO
+
+    medidores emf lasar detectores movimiento termales infrarojos ultravioletas HAS TU PROPIO TRABAJO
+
+Intentado aportar una pizca de buenos modales en la conversación, respondí:
+
+    No, no podemos ni fotografiar, ni detectar, ni medir a Papá Noel. Para tu información:
+
+    * Los medidores EMF detectan señales electromagnéticas, por ejemplo, variaciones en el campo
+      magnético producidas por líneas de tensión de baja frecuencia (AC), emisiones de teléfonos
+      móviles, ordenadores, electrodomésticos, televisiones, radios y relámpagos.
+
+    * Los detectores termales señalan el movimiento de una fuente de radiación infrarroja al entrar
+      o salir de una determinada zona de muestreo.
+
+    * "Infrarrojos" es el nombre de una zona del espectro electromagnético, que cubre de 3 x 10\ :sup:`12` a 4,3 x 10\ :sup:`14` Hz.
+
+    * "Ultravioleta" es igualmente el nombre de otra zona en el espectro EM, que cubre desde 7,5 x 10\ :sup:`14` hasta 3 x 10\ :sup:`17` Hz.
+
+    En tanto en cuanto no se determine la naturaleza de los "fantasmas", ni podemos hablar de
+    lo que tenemos que observar, ni podemos concluir que el fantasma se ha manifestado.
+
+    Por último, me propones una pregunta imposible de responder, ya que no defines cuál es el trabajo que tengo que hacer.
+
+No es fácil responder a estas preguntas; por el momento no ha habido ninguna.
+
+Nueva Zelanda actúa sabiamente
+------------------------------
+
+Peter Nield, lector de Nueva Zelanda, nos informa que hace ya mas de diez años
+que una empresa llamada Ecoworld ha estado vendiendo, a precios comprendidos
+entre 200 y 13.000 dólares neozelandeses, un aparato para el tratamiento del
+agua que llaman el *Sistema Grander de Agua Vida*, que según ellos permite
+"energetizar el H20", de forma que:
+
+    ... resuene permanentemente con el Cosmos, mejorando la circulación y la
+    presión sanguínea, desintoxicando el cuerpo y reduciendo las alergias.
+
+.. image:: http://www.randi.org/images/061705-Johann.jpg
+   :alt:
+   :align: right
+
+Afirman que el agua potable es tratado mediante un proceso secreto, que le llegó
+por inspiración divina al naturalista australiano Johann Grander, consistente
+en inducir al agua un rango de "frecuencias vibratorias naturales", tales que:
+
+    ...la energetizan como [lo hace] un manantial de montaña burbujeando desde el
+    mismo suelo y lanzándose sobre rocas y cascadas, llenándose de vitalidad,
+    frescura y energía.
+
+La Juez Merelina Burnett ha encontrado que los análisis llevados a cabo
+no muestran ninguna diferencia entre el agua tratada con el Sistema Grander de Agua Vida
+y el agua sin tratar, y que la compañía ha demostrado "un nivel muy alto de ceguera
+y negligencia auto consentida".  También dijo que:
+
+    ... El material [promocional] presenta inconsistencias, engaños y pseudo-ciencia
+    que, aunque presentada con toda clase de credenciales, publicaciones, fotografías
+    explicativas, tablas, gráficos y material de laboratorio, no puede evitar dar
+    la impresión de estar prometiendo lo imposible.
+
+Ecoworld fue acusada de vulnerar el Acta de Comercio Justo de Nueva Zelanda,
+encontrada culpable de nueve cargos de publicidad engañosa de sus productos,
+siete cargos alternativos de llevar a engaño a los consumidores, y un total de
+otras 26 faltas diversas. La compañía se enfrenta ahora a una multa de unos
+100.000 USD cuando se publique la sentencia, el primero de julio.
+
+Los productos de Magic Water se comercializaban en dos variantes: una varilla,
+colgante o similar, conteniendo el agua, que presuntamente energetizaría el agua
+donde fuera inmerso, y en forma de grifos, tuberías y similares, conteniendo el
+"Agua Vida", y que actuarían sobre el agua que fluyera a través de ellos. Barry
+Jones, director de marketing e investigación de Ecoworld, afirma que el producto
+es usado por más de 3.000 Nuevozelandeses, lo que concuerda muy bien con un
+reciente estudio que cifra en 3.400 el número de ingenuos totales que viven en
+Nueva Zelanda; habrá que ver donde se perdieron los otros 400 panfletos. Jones
+acusó a las autoridades de ningunear los remedios "alternativas, como se les
+suele llamar", porque "hemos empezado a tener éxito alejando a las personas de
+las medicinas químicas".
+
+(Si, a esa gente los demás los llamamos "los fallecidos").
+
+La Juez Burnett fue muy clara en su sentencia, donde usa palabras como "engaño
+supersticioso" y "pseudo-ciencia", así como "ceguera y negligencia
+auto consentida". A veces pasan estas cosas que le devuelven a uno la fe en la
+administración pública, pero no puedo seguir preguntándome porqué no pasan
+también en los Estados Unidos.
+
+Otra corrección
+---------------
+
+Eric Grissell, un científico interesado y preocupado, me informa de lo siguiente:
+
+    .. image:: http://www.randi.org/images/061705-Samper.jpg
+       :alt:
+       :align: right
+
+    Cristián Samper es el director del `Museo Nacional de Historia Natural`_
+    (que forma parte de la `Institución Smithsonian`_), pero no es "el director
+    del Smithsonian". La Institución Smithsonian se compone de 16 museos y el Zoo
+    nacional en el área metropolitana de Washington, Capital, y de dos museos
+    más en la ciudad de Nueva York. Lawrence M. Small es el secretario de la
+    Institución.
+
+Aceptamos y agradecemos la corrección. Eric continua, expresando su satisfacción
+por la reacción del Doctor Samper a la recientes sucesos:
+
+    Trabajo para el USDA en el Museo Nacional de Historia Natural. La semana
+    pasada el doctor Samper explicó toda la situación a varios departamentos
+    dentro del museo. Lo hizo con sincera preocupación y honestidad. Resultaba
+    obvio que estaba intentado hacer todo lo que podía para manejar la situación
+    precaria en que se encontraba, situación que fue creada por otros, y que
+    estaba intentando corregir las circunstancias que condujeron a esa serie de
+    desafortunados eventos.
+
+Aprovechamos para felicitar de nuevo al Director Samper.
+
+Buenos materiales de referencia
+-------------------------------
+
+.. image:: http://www.randi.org/images/061705-AWARD.jpg
+   :alt:
+   :align: left
+
+Puede que seas profesor, o puede que simplemente quieras defenderte de los que
+proponen un concepto religioso como alternativa a la evolución. En cualquier
+caso, harías bien visitando el sitio web del Centro Nacional de Educación
+Científica (http://www.natcenscied.org/). Allí hay recopilados una buena
+colección de datos y argumentaciones, listos para ser usados. Nos
+pueda parecer extraño que haya personas que intenten socavar una teoría científica
+tan consolidada como es la evolución -por no hablar de sus ridículas
+estimaciones de la edad de la tierra-, pero hay un gran porcentaje de la población que
+no solo prefiere, sino que necesita una alternativa mágica que explique este
+maravilloso proceso.
+
+Hay un buen tratamiento de esta farsa/tragedia/comedia sobre la evolución en
+http://swiftreport.blogs.com/news/2005/05/foes_of_evoluti.html, escrita
+por el Reportero Swift (sin relación ninguna con esta columna), donde sugiere una
+alternativa que personalmente encuentro poderosa y entretenida.
+
+.. image:: http://www.randi.org/images/061705-Book.jpg
+   :alt:
+   :align: right
+
+Michael Farquhar es escritor y editor en el `Washington Post`_, y autor de un
+nuevo libro publicado por Penguin titulado "Un tesoro de engaños: Mentirosos,
+estafadores, engañabobos y las extraordinarias pero verdaderas historias de las
+grandes farsas, mentiras y fraudes".
+
+El libro incluye muchas facetas del engaño, incluyendo fraudes científicos,
+engaños estatales, gente hablando en nombre de dioses, falsificaciones, mentiras
+de la prensa, trucos usados por los militares para engañar al enemigo, y mucho
+más. Es muy buena munición para responder a las típicas preguntas que empiezan:
+¿Pero cómo explicas que ...?
+
+.. image:: http://www.randi.org/images/061705-Truth.jpg
+   :alt:
+   :align: left
+
+"La Verdad: Guía para perplejos" es un nuevo libro de Simon Blackburn, y ha
+sido comentado en la revista inglesa `New Statesman`_. Incluimos aquí este breve
+recorte, puedes leer más en el sitio web de la revista:
+
+    Simon Blackburn, profesor de filosofía de la Universidad de Cambridge, se
+    siente acosado. Lo que le preocupa es "las mentes de los demás". Astrología,
+    feng shui, cristianidad y otras manifestaciones de irracionalidad en masa
+    que están apareciendo por todos lados. "Si simplemente la gente fuera más
+    prudente. Si se decidieran a utilizar el sentido común". En cualquier caso,
+    lo que realmente irrita a Blackburn no son estas aberraciones populares,
+    sino la capa de sofisticación intelectual, usando diversas etiquetas como
+    multiculturalismo, postmodernismo o relativismo, que les dan apoyo e incluso
+    ánimos. La verdad es una simple replica desde el punto de vista de este
+    sinsentido. Su ámbito urbano y su prosa ingeniosa no dejan traslucir un
+    formidablemente rígido racionalismo.
+
+Y repito un buen consejo que ya ofrecí en el pasado: Enviar una
+correo en blanco a la dirección join-whatsnew@lists.apsmsgs.org, si es que
+todavía no se na suscrito a la lista de correo de Bob Park. Su boletín
+debería leerse con avidez, cada semana, no solo para disfrutar con el estilo y
+la inteligencia que destilan sus escritos, también para aprender, desde un punto de
+vista interno, como son las cosas en la difuminada frontera entre la ciencia
+y la política. Me darán las gracias, lo vaticino...
+
+El trabajo de Bob fue la inspiración del tema del siguiente Amaz!ng
+Meeting: "La ciencia en la política y la política en la ciencia".
+
+Financiando el sinsentido
+-------------------------
+
+Nuestro amigo Dorion Sagan, hijo de Carl Sagan, hace unas afirmaciones
+contundentes y poderosas acerca de la realidad, que pueden ser un poco
+duras para el lector medio, pero que resultan absolutamente imposibles
+de negar por aquellos poco racionales, por mucho que quieran contorsionar y
+deformar la racionalidad y la razón. Incluyo aquí un breve fragmento de
+un documento que ha escrito recientemente junto a Eric D. Schneider: "Ciencia
+y Dios: Podemos manejar la verdad", que alerta sobre el "Diseño Inteligente"
+y los manejos que estos creacionistas están intentando hacer en el Smithsonian, manejos
+que hemos tratado anteriormente en estas páginas. Para obtener más información
+sobre el creacionismo, la complejidad y los problemas de la derecha religiosa
+para entender la segunda ley de la termodinámica, visiten la pagina web de
+Sagan/Schneider en http://www.intothecool.com/.
+
+    Es una ironía sangrante que el Jesús bíblico reservara sus palabras más
+    hirientes para los ricos y para los abogados. Quizá de forma predecible, una
+    alianza (nada sagrada) entre ambas fuerzas parece estar detrás de una serie
+    de ataques, todos con las mismas características: bien financiados, con
+    exceso de prosa empalagosa, retórica innecesaria, y con el mismo objetivo
+    -Lo que algunos podríamos llamar el mayor triunfo de la humanidad- la
+    constante y honesta búsqueda de la verdad. Entre las recompensas que nos ha
+    dado esta búsqueda se cuentan la educación, el conocimiento, la tecnología y
+    la ciencia. Gran parte del apoyo y coordinación del movimiento ID se origina
+    en Seattle, en el llamada Instituto Descubrimiento (*Discovery Institute*),
+    que mantiene una plantilla de 10 empleados a tiempo completo, junto a unos
+    40 asociados, que incluyen a todos los grandes promotores del movimiento. Se
+    financia en parte por Howard H. Ahmanson Jr, a quien podríamos describir
+    como multimillonario, profundamente cristiano y casi un ermitaño. Forma
+    parte del consejo de gobierno del *Discovery Institute*, así como del
+    Instituto Claremont (*Claremont Institute*), un *think-tank*
+    ultra conservador que promociona "los valores cristianos". Los últimos datos
+    disponibles muestran que él y su familia son los dueños del banco *Home
+    Savings of America*, valorado en 47.000 millones de dolares en 1997.
+
+Si esto no dispara una alarma en los racionalistas, no puedo ni empezar a imaginar
+que haría falta para llamar su atención.
+
+Como les recuerdo a menudo, tengan en cuenta que yo no soy científico, pero
+cuando oigo frases tan obviamente estúpidas pronunciadas por gente que se precian
+de ser perspicaces científicos, a menudo puedo realizar una aproximación con lo que
+yo creo es una análisis adecuado. Por ejemplo, veamos la siguiente frase, extraída
+del artículo de Dorion, cuya fuente original son los escritos perpetrados por el
+Instituto Para la Investigación de la Creación (*Institute for Creation Research*):
+
+    A los evolucionistas les avergüenza la Segunda Ley de la Termodinámica. La
+    tendencia de la naturaleza a ir desde el desorden hasta el orden y la
+    organización es, por supuesto, una suposición que solo asumen los evolucionistas.
+
+Vaya tontería. Ya sabemos que la naturaleza, a partir de un sinfín de
+oportunidades, permutaciones y combinaciones, y contando con cantidades
+inimaginables de tiempo, puede llegar a un sistema simple y viable, capaz de
+reproducirse a si mismo. Dicho sistema empieza un proceso mediante el cual se
+beneficia de subsiguientes cambios en su naturaleza, tiende a sobrevivir y a
+continuar su lucha para perpetuarse. No es una accidental agrupación de
+elementos, sino una entidad que intenta sobrevivir, se ha elevado desde el
+desorden y se ha constituido en un sistema organizado. Por supuesto, ocurren
+literalmente miles y miles de millones de estas combinaciones, cada una de las
+cuales inicia su camino de supervivencia y perpetuación, y puede seguir así
+durante miles de años, solo para terminar, por la más simple o calamitosa de las
+circunstancias, abocadas a la extinción. El registro fósil muestra numerosos
+ejemplos de estas tragedias. Como humanos, aunque estamos más preparados para
+resistir estas influencias negativas, y podemos incluso evolucionar para
+sobrevivir a amenazas a largo plazo, la realidad es que podríamos unirnos en
+cualquier momento a la largísima lista de especies extinguidas.
+
+Un asteroide errante, un nuevo virus mortal, o un retroceso filosófico como es
+el diseño inteligente, que pretende regresar a formas de vida y de
+pensamiento medievales, pueden acabar con nosotros. Eso es la naturaleza. Cómo
+nos enfrentamos a esta posible extinción es, a veces y por suerte, cuestión de
+elección.
+
+Esa elección se nos ofrece ahora.
+
+Plait va al grano
+-----------------
+
+A veces (raras veces)  me siento a escribir y llego a un punto en que estoy
+satisfecho con un texto, y creo que no puedo mejorarlo por más vueltas que le de,
+o por más veces que lo reescriba. Al extraordinario
+Phil Plait, en hombre detrás de `badastronomy.com`_, le tuvo que pasar algo parecido
+cuando escribió lo siguiente:
+
+.. _badastronomy.com: http://www.badastronomy.com/
+
+    .. image:: http://www.randi.org/images/061705-PlaitBook.jpg
+       :alt:
+       :align: right
+
+
+    Pasaje a la ciencia [#pasaje]_
+
+    En abril me pidieron que pronunciara un corto discurso a un grupo de
+    estudiantes locales que participaban en una feria científica. No estaba
+    seguro de qué podía decirles, hasta que vi un programa de noticias justo la
+    noche anterior a la feria. La noticia era el típico relleno, mal
+    documentado, donde se daba la misma credibilidad a las teorías
+    anti-científicas de cabezas cuadradas que a las verdades descubiertas por la
+    ciencia; como si fuera "de justicia" darles a las dos el mismo tiempo en
+    antena.
+
+    Me senté con papel y lápiz y escribí el discurso, casi
+    exactamente igual a como quedó en la versión final, que incluyo aquí:
+
+        Conozco un lugar donde el Sol nunca se pone.
+
+        Es una montaña, y está en la Luna. Se eleva tan alto que siempre le
+        llegan los rayos del Sol, por mucho que la Luna
+        gire sobre su eje. Las radiaciones solares caen incesantemente sobre
+        ella, todo el día y toda la noche, las 24 horas del día. Bueno, en
+        realidad el día lunar dura unas cuatro semanas, así que deberíamos
+        decir las 708 horas del día.
+
+        Sé de un lugar donde nunca brilla la luz del Sol. Está en el fondo del
+        océano. Grietas en la corteza expulsan nauseabundos productos químicos,
+        y elevan la temperatura del agua hasta el punto de ebullición, que a
+        esas profundidades es superior a los 100 grados centígrados, debido a la
+        presión. Este ambiente mataría casi instantáneamente a un ser humano,
+        pero hay criaturas viviendo ahí, bacterias, que prosperan en estas
+        condiciones. Comen el azufre que sale por el respiradero, y excretan
+        ácido sulfúrico.
+
+        Se de un lugar donde la temperatura alcanza los 10 millones de grados
+        centígrados, y donde la presión convertiría a un ser humano en un
+        punto microscópico. Ese lugar es el núcleo del Sol.
+
+        Conozco un sitio donde los campos magnéticos son tan fuertes que te
+        desintegrarían átomo a átomo: la superficie de una estrella de
+        neutrones, una magnetoestrella.
+
+        Se de un lugar donde, hace miles de millones de años, apareció la vida.
+        Ese lugar es donde estamos ahora, la Tierra.
+
+        Conozco esos lugares porque soy científico.
+
+        La ciencia es una forma de descubrir cosas. Es una forma de comprobar
+        qué es real y qué no. Es, en palabras de Richard Feynman "Una forma de
+        no engañarnos a nosotros mismos".
+
+        Ningún astrólogo predijo nunca la existencia de Urano, Neptuno o Plutón.
+        Ningún astrólogo moderno tiene ni idea acerca de Sedna, una bola de
+        hielo de la mitad de tamaño de Plutón y con una órbita aún más lejana.
+        Ningún astrólogo predijo los más de 150 planetas que se han descubierto
+        fuera del sistema solar.
+
+        Pero los científicos sí.
+
+        Ningún psíquico, no importa lo que digan, ha ayudado nunca a la policía
+        a solucionar un crimen. Pero los científicos forenses lo hacen todos los
+        días.
+
+        No fue ningún practicante de la homeopatía el que encontró las curas del polio
+        o la viruela. Lo hicieron médicos y científicos.
+
+        Ningún creacionista rompió el código genético. Lo hicieron los químicos y los
+        biólogos moleculares.
+
+        Usaron física. Usaron matemáticas. Usaron química, biología, astronomía e
+        ingeniería.
+
+        Usaron Ciencia.
+
+        Esas son las cosas que descubrirán mientras realizan sus proyectos. Todas
+        las cosas que les han traído aquí ,hoy.
+
+        ¿Ordenadores? ¿Teléfonos móviles? ¿Cohetes a Saturno, sondas al fondo
+        del océano, PSP, Gamecubes, la X-Box?
+
+        Todo hecho por científicos.
+
+        Estos lugares de los que les he hablado antes, ustedes también pueden
+        conocerlos. Pueden experimentar la maravilla de verlo por primera vez, la
+        emoción del descubrimiento, el increíble y visceral momento de hacer algo
+        que nunca se había hecho antes, de ver cosas que nadie había visto antes, de
+        saber algo que nadie más sabe.
+
+        Ni bolas de cristal, ni cartas de tarot, ni horóscopos. Solo tú, tu cerebro y
+        tu capacidad de pensar.
+
+        Bienvenido a la Ciencia. Te gustará.
+
+¿Podrían haberse expresado con más claridad los pensamientos  de Phil? Cómo
+me gustaría ser capaz de expresarme con tanta elocuencia y brevedad. Es una
+prosa que inspira y emociona; es bella. Si quieres tener una oportunidad de
+conocer y experimentar en directo este talento prodigioso, vengan al cuarto
+Amaz!ng Meeting, en Las Vegas en enero. Sé que Murray Gell-Mann, nuestro
+primer conferenciante, está invirtiendo bastante tiempo en darle la lata
+a Plait, quizá para demostrar como las mentes poderosas pueden doblar
+metales. El registro para el TAM4 se anunciará en breve.
+
+Grant otra vez bombardeado
+--------------------------
+
+Steve Baughman, lector de nuestra columna y abogado de California, examina atentamente
+a uno de estos "milagreros":
+
+    .. image:: http://www.randi.org/images/061705-Grant.jpg
+       :alt:
+       :align: right
+
+    Señor Randi, acabo de recibir su libro sobre curadores por la fe y me he
+    percatado de que dedica mucha atención a W.V. Grant. Quiero que sepa que
+    asistí a una de las cruzadas de reverendo Grant aquí, en San Francisco, hará
+    unos 15 años. Lo que aprendí fue otro truculento aspecto de las prácticas de
+    este hombre, un aspecto que dice mucho acerca de la credulidad de su
+    público.
+
+    Como ya sabe, el reverendo Grant se presenta ante su audiencia diciendo que
+    nunca ha tenido ningún contacto con la gente que "cura" durante su cruzada.
+    Aunque lo que dice es técnicamente cierto, la verdad es que normalmente ha
+    contactado previamente con uno o varios miembros de la familia del enfermo
+    que acaba de "descubrir" milagrosamente.
+
+    Después del encuentro al que asistí, hablé con dos individuos que acababan
+    de ser "curados". Ambos dijeron ante el público, antes de empezar, que nunca
+    habían tenido ningún contacto con el reverendo. Pero resultó que ambos tenían
+    parientes que habían contactado con sacerdotes de Grant, y que les habían
+    descrito los síntomas de sus familiares. En el primer caso, una mujer china
+    con un tumor en el cuello me dijo (después de su "curación") que su marido
+    se había reunido con el reverendo Grant esa misma noche, justo antes del
+    encuentro, y que le había hablado de su tumor. Vestía un traje amarillo
+    brillante, lo que facilitaba mucho al reverendo la tarea de localizarla
+    entre el público. En el otro caso, un hombre de origen latino había escrito
+    a Grant para detallarle todos los problemas de su hermano, que Grant
+    procedió a adivinar durante la reunión. Así que aunque el reverendo nunca
+    habría hablado con ese hombre, si había habido una comunicación escrita.
+
+    Lo más chocante para mí es que en ambos casos, aun sabiendo todos los
+    detalles de estos encuentros previos, los dos individuos creían que Grant
+    descubrió su estado de salud por medios divinos.
+
+    Le agradezco el trabajo que se ha tomado para desenmascarar a este
+    charlatán.
+
+En 1989, poco después de que pusiera en evidencia a Grant por primera vez, fue
+arrestado, acusado y encontrado culpable de evasión de impuestos. Estuvo 16
+meses en prisión, y tuvo que pagar una multa de 350.000 dolares americanos por
+atrasos en el pago de impuestos. Me desilusionó que las autoridades optaran por
+la vía fácil, y que no le detuvieran por robo, engaño, fraude ni ninguna de las
+otras formas que tiene de engañar a sus víctimas. Después de su estancia en
+prisión, ha vuelto a montar su negocio (como tantos otros que hemos ido
+desenmascarando durante estos años) usando exactamente la misma estafa y con el
+mismo método. Para poder liberar a nuestra sociedad, tanto de la angustia como
+de las pérdidas económicas que provocan estos sujetos, debemos mejorar los
+mecanismos legales que permiten a los organismos gubernamentales competentes
+actuar contra ellos, a pesar de la férrea posición política actual de no
+intervención en aquellos casos que afirman tener una base religiosa.
+
+Sabias palabras de un héroe
+---------------------------
+
+Dave Baile nos informa de un documental que se centra en uno de mis héroes personales, un
+programa que estoy ansioso por poder ver. Nos escribe:
+
+    .. image:: http://www.randi.org/images/061705-Attenborough.jpg
+       :alt:
+       :align: right
+
+
+    Le envío esta nota que quizá le interese publicar. La pasada noche vi un
+    documental de la BBC sobre Sir David Attenborough, una persona a la que veía
+    continuamente mientras crecía en Inglaterra. Es el hombre que definió, y
+    continua definiendo, la norma por la que se miden los documentales sobre
+    historia natural de la Tierra. Si tuviera que elegir vivir la vida de otra
+    persona, probablemente elegiría la suya.
+
+    Quiero transcribir un comentario en concreto. Demuestra que, a pesar de no
+    poseer un trasfondo académico de alguien como, digamos, Stepephen Jay Gould,
+    si que entiende nuestro mundo de una manera tan completa como el que más.
+
+        A menudo recibo cartas, muy a menudo en realidad, de gente que me dice
+        que le encantan mis programas, pero que nunca doy crédito al supremo
+        poder que creó la naturaleza, a la que suelo responder "Bueno, me parece
+        divertido que cada vez que la gente busca evidencias de poderes
+        superiores, siempre elige cosas bastante bonitas, cosas como orquídeas y
+        colibríes, rosas y mariposas". Pero yo también tengo que pensar en el
+        niño que está tirado en la ribera de un río en el este de África, con un
+        gusano creciendo dentro de su ojo que lo habrá convertido en ciego para
+        cuando tenga cinco años, y tengo que replicar "Bueno, presumiblemente el
+        dios del que me habla también creó al gusano", y a mi me resulta
+        desconcertante pensar que un ser misericordioso hiciera algo así, por lo
+        que prefiero, me parece más seguro, hablar solo de las cosas que sé que
+        son ciertas, veraces o al menos objetivas, y dejar a la gente que llegue
+        a sus propias conclusiones morales o incluso teológicas.
+
+    Perfectamente expresado, Sir David, perfectamente expresado. Es otra razón
+    por la que usted siempre será un héroe para mi.
+
+Señor Bailey, muchas gracias por esta aportación. Y ¿me atreveré a decirlo?
+Amén.
+
+Falsos artefactos
+-----------------
+
+Roger Harris, quien ya nos escribió en junio de 2002 con un análisis de las
+tonterías de los zahoríes (http://www.randi.org/jr/060702.html) ha contactado de
+nuevo con nosotros, para comentarnos las alegaciones hechas por Joseph P.
+Skipper de que ciertas anomalías en unas imágenes de Marte son evidencias de una
+civilización. Véase `<randi20050610.html#esos-artefactos-en-marte>`_. Roger está de
+acuerdo con Dan Pallotta, otro de nuestros lectores, en que la compresión JPEG_
+usada para estas imágenes puede producir imperfecciones (En inglés,
+*artifacts*), producidas por el procesado matemático realizado para reducir el
+*peso* (El tamaño en bytes) de la imagen.
+
+Pero Roger abunda en más detalles acerca de los pasos seguidos en el
+procesamiento de las imágenes ofrecidas por el señor Skipper, porque la
+compresión hecha por la cámara del satélite, sumada a la hecha por los
+ingenieros en la Tierra, produce unas bandas y cuadros añadidos a las
+imperfecciones originales, que explican precisamente los mismos efectos que se
+ven en las "anomalías", lo que convierte a las interpretaciones de Skipper en
+erróneas y presuntuosas. Aun más, las imágenes usadas por Skipper ni siquiera
+son las originales, sino vistas en perspectiva "virtuales", generadas por
+ordenador, lo que da pié a más imperfecciones.
+
+En resumen, el señor Skinner metió la pata, y sus afirmaciones no tienen
+fundamento. Para simular el efecto que tanto sorprendió a Skinner, Roger tomó
+una pequeña porción de una foto mía que el señor Pallotta había utilizado, ¡y
+encontró civilizaciones desperdigadas por toda mi cara! ¡Y en el muro que estaba
+detrás mio! ¿Quién sabe?
+
+Como aclara Roger, el señor Skipper ya tiene una respuesta preparada, claro
+está: ¡Manipulaciones intencionadas, hechas por las Fuerzas Tenebrosas para
+destruir las evidencias! Pero podemos apostar con cierta confianza a que no
+presentará evidencia alguna ni razonamiento digno de ese nombre que soporte su
+hipótesis.
+
+¡Gracias, Roger!
+
+Misteriosa Dunne
+----------------
+
+Un biólogo del Grupo de Investigación Bioinformático del SRI_, el
+doctor Alexander Shearer, tiene su propia opinión acerca de la negativa de
+Brenda Dunne de permitir que sus datos sean examinados. Empieza citando a
+la señorita Dunne:
+
+    "Al Contrario a lo que usted supone, soy una gran admiradora del método
+    científico, demasiado para prostituirlo con juegos de este tipo"
+
+    Extrañamente, nadie parece pensar lo mismo cuando el juego es el del comité
+    de los premios Nobel, encargados de repartir grandes sumas de dinero por los
+    logros científicos llevados a cabo en el año. Tengo que decir, también, que
+    si alguien se hubiera acercado a nuestros laboratorios, y nos pidiera que le
+    mostráramos un efecto que nosotros mantenemos que es cierto, y por el cual
+    estaría dispuesto a pagar un millón de dólares, lo hubiéramos hecho en el
+    acto. Si tu investigación es tan importante, ¿no merece la pena realizar un
+    pequeño esfuerzo para conseguir financiación?
+
+    Todos los científicos que conozco, yo el primero, estarían más que
+    encantados de hacer lo que fuera para conseguir fondos adicionales de esa
+    magnitud. Que diablos, si Nike estuviera dispuesta a patrocinar
+    investigaciones a cambio de publicidad para sus zapatillas, la mayoría
+    aceptarían encantados aparecer en la televisión sudando, saltando y en
+    pantalones cortos.
+
+    La idea de que alguien "crea en su trabajo" tanto que no permita, primero,
+    que sea revisado por pares y segundo, que se realice una sencilla prueba que
+    no solo lo probaría de forma incontestable, sino que además viene acompañada
+    de una suculenta aportación económica, es una soberana idiotez. Los
+    investigadores legítimos, cuando realizan un descubrimiento excepcional, lo
+    proclaman a toda voz y sin ambages .
+
+Mi enciclopedia
+---------------
+
+.. image:: http://www.randi.org/images/061705-Encyclo.jpg
+   :alt:
+   :align: right
+
+Gracias a los excelentes servicios de Stephen J. Goodson, el contenido de mi
+libro "Una enciclopedia de Afirmaciones, Fraudes y Engaños de lo Oculto y lo
+Sobrenatural" está disponible en Internet. Estamos trabajando en las
+ilustraciones, haciendo algunas correcciones y añadidos. Se
+puede consultar en la siguiente dirección: http://www.randi.org/encyclopedia/.
+
+Geller eclipsa a Jackson, otra vez
+----------------------------------
+
+Malcolm Dodd nos informa desde el Reino Unido sobre Uri Geller y sus intentos
+de contribuir con su sabiduría sin límites y su filosofía al caso Jackson:
+
+    Siguiendo con la absolución de Michael Jackson, el programa Radio 4 de la
+    BBC (programa líder de las noticias de la mañana) decidió entrevistar al
+    doblador de cucharas en su hora de máxima audiencia. Se puede ver la misma
+    usando Real Player en la dirección ht\ tp://www.bbc.co.uk/radio4/today/listenagain/tuesday.shtml
+    y avanzando hasta la sección que empieza a las 08:10. El vídeo sólo estará
+    disponible hasta el lunes, 20.
+
+    En la entrevista, este manipulador de cubertería describía a Jackson como
+    una persona "ingenua y crédula". Es una inusitada admisión de sus propios
+    pecados, dado que fue él quien facilitó la entrevista que hizo Martin
+    Bashir, de la BBC, a Jackson, y que ha desembocado en la posterior
+    acusación e investigación de este.
+
+    No solo destroza la cubertería, también a cualquier cosa o persona que
+    toque.
+
+Bueno, he de estar de acuerdo en que Jackson es ingenuo y crédulo, lo prueba
+el que creyera en los mágicos poderes de Geller.
+
+Hoy, Geller ha enviado una carta de queja al periódico UK Daily Mail por
+un artículo que aparentemente no había sido nada halagüeño con Jackson.
+
+    Me ha chocado mucho el tono vitriólico y ácido que ha usado Piers Morgan
+    en la entrevista que lo hizo a Michael Jackson [Para la revista Femail]. Las
+    palabras que usa, "manipulador", "embustero", parecen totalmente inapropiadas
+    para cualquiera que haya conocido bien a Michael. Sólo puedo pensar que
+    Piers se ha entrevistado con un impostor. No sería la primera vez que le
+    pasa, que alguien le engañe.
+
+¿En serio? ¿No estaba el señor Morgan convencido en su día de los poderes
+de Geller? Me pregunto si se referirá a eso.
+
+En conclusión...
+----------------
+
+La semana que viene, la reseña de un divertido libro de Sylvia Browne: "Animales
+en el otro lado" (Y no se refiere a "el otro lado del río"). Hablaremos también
+de un programa que apareció en *Animal Planet*, "Cuando los animales hablan", de
+Jan Goodall. Esta nuevas tendencias sobre "animales psíquicos" y otros espejismos
+antropomórficos están siendo cada vez más utilizados de relleno por los media.
+
+|firmarandi|
+
+**Notas**
+
+.. [#pasaje] En el original inglés, *science fare* ("pasaje a la ciencia") y *science fair* (feria científica), que se pronuncian de forma idéntica [N. del E.]
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: Traducido por Juan Ignacio Rodríguez de León
+    :description: Igual que un péndulo - Como detectar fuerzas imaginarias - Nueva Zelanda actúa sabiamente - Otra corrección - Buenos materiales de referencia - Financiando el sinsentido - Plait va al grano - Grant otra vez bombardeado - Sabias palabras de un héroe - Falsos artefactos - Misteriosa Dunne - Mi enciclopedia - Geller eclipsa a Jackson, otra vez - En conclusión...

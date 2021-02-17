@@ -1,0 +1,34 @@
+## -*- coding: utf-8 -*-
+##<!-- :wrap=soft:collapseFolds=0:maxLineLen=120:mode=html:tabSize=4:indentSize=4:deepIndent=false:folding=none: -->
+<%namespace name="helper" file="post_helper.tmpl"/>
+<%namespace name="pheader" file="post_header.tmpl"/>
+<%namespace name="comments" file="comments_helper.tmpl"/>
+<%inherit file="post.tmpl"/>
+
+<%block name="content">
+<article class="storypage story-${post.meta('type')}" itemscope="itemscope" itemtype="http://schema.org/Article">
+    <header>
+        ${pheader.html_title()}
+        %if post.meta('autor'):
+        <p>por <strong>${post.meta('author')}</strong></p>
+        %endif
+        ${pheader.html_translations(post)}
+    </header>
+    ${addtoany}
+    <div class="e-content entry-content" itemprop="articleBody text">
+        %if post.meta('type') in dictimg:
+        <img alt="" class="align-right" src="${dictimg[post.meta('type')]}">
+        %elif post.meta('previewimage'):
+        <img alt="" class="align-right" src="${post.meta('previewimage')}">
+        %endif
+    ${post.text()}
+    </div>
+    %if site_has_comments and enable_comments and not post.meta('nocomments'):
+        <section class="comments">
+        <h2>${messages("Comments")}</h2>
+        ${comments.comment_form(post.permalink(absolute=True), post.title(), post.base_path)}
+        </section>
+    %endif
+    ${helper.mathjax_script(post)}
+</article>
+</%block>

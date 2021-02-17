@@ -1,0 +1,58 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA000
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA041
+.. link: http://www.talkorigins.org/indexcc/CA/CA041.html
+.. date: 2005-10-14 02:00:00+00:00
+.. title: CA041: Enseñen la polémica
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Enseñen la polémica»
+
+A los alumnos deberían enseñársele todos los puntos de vista sobre un tema polémico. No se debería enseñar evolución sin enseñar la polémica que la rodea.
+
+**Fuente:**
+
+Meyer, Stephen C., Teach the controversy on origins. *Cincinnati Enquirer*, 30 de marzo de 2002. http://www.arn.org/docs/meyer/sm_teachthecontroversy.htm
+
+Respuesta
+==========
+
+1. Sobre las cuestiones fundamentales de la teoría de la evolución, tales como los hechos de la ascendencia común y la selección natural, no hay polémica científica. La campaña "enseñen la polémica" es un intento de lograr que se enseñe pseudociencia en las aulas. Las lecciones sobre las cuestiones sociológicas de la polémica evolución/creación pueden ser adecuadas en historia o en otras clases que no sean de ciencia.
+
+   Si se trata de mantener la mala ciencia fuera de las aulas, deberían aplicarse las mismas normas para las refutaciones de los creacionistas, que son mala ciencia en su totalidad.
+
+2. Hay polémicas sobre detalles de la teoría evolutiva, tales como las contribuciones relativas de la especiación simpátrica versus alopátrica. Esas polémicas requieren mucho conocimiento de biología para siquiera entender de qué se tratan. No deberían enseñarse a estudiantes principiantes, sino a graduandos de biología, y así se hace.
+
+3. La evolución, casi con seguridad, es la teoría científica más odiada de la historia. La mayoría de las personas creen que amenaza :doc:`la moral <CA001>`, :doc:`la civilización <CA002>` y :doc:`sus almas mismas <CA622>`, y prácticamente nadie quiere que sea verdadera. Desde el primer día en que se publicó *El origen de las especies*, la teoría ha enfrentado desafíos constantes por parte de los políticos y líderes religiosos más poderosos, para no mencionar la incesante desaprobación y los ataques del público en general. Lo único que tiene a su favor la evolución son las pruebas. Si las pruebas no fueran tan extremadamente fuertes, la evolución hubiera sido despedazada hace décadas.
+
+   Como todas las teorías, la evolución también está sujeta al ataque científico. Lograr una revisión importante de una teoría establecida es algo con lo que muchos científicos sueñan. Además, muchos científicos sienten la misma oposición emocional a la teoría que sienten muchos no científicos. De hecho, ha habido científicos que hicieron revisiones importantes en detalles de la teoría de la evolución, pero no ha habido una competencia similar para derribar la teoría básica.
+
+   La teoría de la evolución es más fuerte que nunca, y se acepta en todo el mundo sin un ápice de crítica científica informada a la teoría básica. La polémica en torno a la evolución la ha vuelto una de las teorías más examinadas de todos los tiempos, y la evolución ha soportado tal examen con éxito.
+
+4. ¿Habría que expandir la enseñanza de la polémica para incluir las presuntas alternativas a la evolución? Hay :doc:`muchas posiciones creacionistas mutuamente contradictorias <CA040>`, que están en desacuerdo en temas tan esenciales  como la edad del universo y cuál libro religioso describe mejor al creador. Dado que el fundamento del creacionismo es su atractivo emocional religioso, y dado que tal atracción varía entre culturas e individuos, el creacionismo siempre será irremediablemente polémico. Seguramente cualquier lección sobre la polémica debería incluir la totalidad de la polémica.
+
+Enlaces
+========
+
+* NCSE, 2002, Analysis of the Discovery Institute's bibliography, http://www.ncseweb.org/resources/articles/3878_analysis_of_the_discovery_inst_4_5_2002.asp
+
+Otras lecturas
+=================
+
+* Scott, E. C. and G. Branch, 2003. Evolution: what's wrong with 'teaching the controversy'. *Trends in Ecology and Evolution* 18(10): 499-502.
+
+* Brauer, Matthew J., Barbara Forrest and Steven G. Gey. 2005. Is it science yet?: Intelligent design creationism and the Constitution. *Washington University Law Quaterly* 83(1): 1-149. http://law.wustl.edu/WULQ/83-1/p%201%20Brauer%20Forrest%20Gey%20book%20pages.pdf
+
+
+/////
+
+Anterior: :doc:`CA040` | Siguiente: :doc:`CA042`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

@@ -1,0 +1,50 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CB990: Los escenarios evolutivos propuestos son historias inventadas
+.. description: Respuesta a la afirmación creacionista «Los escenarios evolutivos propuestos son historias inventadas»
+.. slug: CB990
+.. link: http://www.talkorigins.org/indexcc/CB/CB990.html
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-5-18
+
+Las explicaciones evolucionistas son historias inventadas [*]_. Son enteramente especulativas y no califican como evidencias.
+
+**Fuente:**
+
+Dembski, William A., 2002. *No Free Lunch*, Lanham, MD: Rowman and Littlefield, chap. 6. 
+
+Respuesta
+=========
+1. De hecho está mal ofrecer una historia inventada como prueba de que algo ocurrió de cierta manera. Sin embargo, tales historias aún tienen el propósito de servir de hipótesis. Presentan un modelo que puede ser verificado por investigación adicional y bien rechazado o calificado de más probable. Por ejemplo, la historia inventada de que los cuernos de los lagartos cornudos evolucionaron como defensa ahora han sido respaldadas con experimentos ([Young_et_al_2004]_). La ciencia avanza poco si no tiene hipótesis para verificar
+2. Tales historias también sirven para refutar afirmaciones de que algo no podría haber ocurrido. Si se presenta una historia plausible, se muestra que la afirmación de imposibilidad es falsa. Esto es así sea o no especulativa la explicación.
+3. Los creacionistas casi no tienen otra cosa que historias inventadas para respaldar sus modelos (tal como son actualmente). Por ejemplo, todos los detalles que dan los creacionistas sobre el Diluvio son inventados, debido a la falta de base para cualquier otra cosa que no sea el relato genérico que presenta Génesis. Y no se ha hecho jamás una investigación para verificar sus historias.
+   
+Enlaces
+=======
+
+Lindsay, Don, 1998. Scenarios and "just so" stories http://www.don-lindsay-archive.org/creation/stories.html
+
+Referencias
+===========
+
+.. [Young_et_al_2004] Young, K. V., E. D. Brodie Jr. and E. D. Brodie III, 2004. How the horned lizard got its horns. *Science* 304: 65. 
+
+/////
+
+**Notas de Sin Dioses**
+
+.. [*] *Just-so stories* en el original. La frase deriva de la colección de relatos *Just So Stories* de Rudyard Kipling, publicada a principios de 1900, en la cual se presentan relatos fantásticos sobre cómo diversos animales obtuvieron sus características particulares. Una definición más formal según Wikipedia es "una explicación narrativa inverificable e infalsable para una práctica cultural, una característica biológica o la conducta de los humanos u otros animales"; el artículo señala que es otro nombre de la falacia *ad hoc*.
+
+		
+/////
+
+Anterior: :doc:`CB952` | Siguiente: :doc:`CC001`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

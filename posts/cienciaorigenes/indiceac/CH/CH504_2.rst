@@ -1,0 +1,49 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH500
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH504_2
+.. link: http://talkorigins.org/indexcc/CH/CH504_2.html
+.. date: 2003-5-7 02:00:00+00:00
+.. title: CH504.2: Navarra recuperó madera tallada a mano de lo alto del Ararat
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Navarra recuperó madera tallada a mano de lo alto del Ararat»
+
+En 1955, luego de dos búsquedas infructuosas, Fernand Navarra encontró madera tallada a mano en un muro de hielo a los 4180 metros de altura. Recuperó una muestra pequeña de madera, la cual aparentemente era muy vieja.
+
+En 1969, Navarra y otros encontraron más madera antigua en dos sitios diferentes.
+
+**Fuentes:**
+
+LaHaye, Tim y John Morris, 1976. *The Ark on Ararat*, Nashville: Thomas Nelson Inc. and Creation Life Publishers, pp. 129-134, 158-160.
+
+Respuesta
+==========
+
+1. Las fechas por radiocarbodo de la muestra de 1955 de Navarra se obtuvieron de cinco laboratorios. Un laboratorio, cuyo tamaño muestral era insuficiente, estableció su edad en 260 EC |plusmn| 120 años. Otros tres lo fecharon entre 720 y 790 EC |plusmn| 90 años. La quinta lo fechó cerca de 300-700 EC (No hubo informe publicado.)
+
+   Dos laboratorios han fechado las fechas de 1969, una en 650 EC |plusmn| 50 años, y la otra en 630 EC |plusmn| 95 años.
+
+   Las fechas son sustancialmente consistentes; las únicas dos fechas inconsistentes son cuestionables para empezar. La madera es demasiado reciente para ser del arca de Noé.
+
+   La madera también fue fechada con otros métodos: grado de formación de lignito, aumento en densidad de la madera, modificación celular, cambio de color y criterios no especificados. Estos métodos arrojaron fechas de alrededor de 5.000 años, pero todos estos métodos son altamente subjetivos y variables. En particular, el análisis de la densidad de la madera depende de la densidad inicial de la madera, pero distintas fuentes están en desacuerdo sobre la especie de madera a la que corresponden las muestras; un laboratorio rechaza específicamente la especie más ligera de roble en favor de una especie más densa que resulta en una edad más joven. Harían falta muestras de control para obtener resultados útiles de la formación de lignito. El cambio de color podría haberse producido en un lapso tan breve como 100 años ([Bailey_1989]_).
+
+2. Navarra mismo es sospechoso. Las descripciones de Navarra sobre dónde encontró la madera son vagas y contradictorias, tanto que la confusión debe ser deliberada. En 1969, la madera sólo apareció en el lugar donde Navarra le dijo a la gente que cavara, y en al menos una oportunidad Navarra tuvo oportunidad de plantar madera en el sitio el día anterior. Uno de los amigos de Navarra lo acusó de intentar comprar madera de una estructura muy vieja, y otras dos personas escribieron que tenían conocimiento de primera mano de que él afirmó de forma fraudulenta que cierta madera provenía del arca para vender sus libros ([LaHaye_y_Morris_1976]_).
+
+Referencias
+============
+
+.. [Bailey_1989] Bailey, Lloyd R., 1989. Noah: The Person and the Story in History and Tradition, Columbia: University of South Carolina Press.
+.. [LaHaye_y_Morris_1976]    LaHaye and Morris, 1976. (ver arriba)
+
+.. include:: <isonum.txt>
+
+/////
+
+Anterior: :doc:`CH504_1` | Siguiente: :doc:`CH504_3`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

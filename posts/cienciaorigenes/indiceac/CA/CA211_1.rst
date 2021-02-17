@@ -1,0 +1,70 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA200
+.. author: Mark Isaak, traducción de Paulina Madariaga
+.. nocomments: True
+.. slug: CA211_1
+.. link: http://talkorigins.org/indexcc/CA/CA211_1.html
+.. date: 2005-11-2 02:00:00+00:00
+.. title: CA211.1: Sobre Popper y la verificabilidad de la selección natural.
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Sobre Popper y la verificabilidad de la selección natural.»
+
+De acuerdo al filósofo de la ciencia Sir Karl Popper, una teoría debe ser falsable para ser considerada científica. ([Popper_1976]_, p. 151) dijo: "El Darwinismo no es una teoría científica comprobable, sino un programa metafísico de investigación".
+
+**Fuente:**
+
+Kranz, Russell. n.d. Karl Popper's challenge. http://www.creationism.org/csshs/v02n4p20.htm
+
+Respuesta
+===========
+
+1. La declaración de Popper sobre la no falsabilidad fue bastante suave, y no tan extensiva como usualmente se interpreta. Lo consideraba aplicable solo respecto de la selección natural, no de la evolución como un todo, y admitía que cierta comprobación de la selección natural era posible, simplemente no a gran escala.
+
+   Además, afirmó que la selección natural era una teoría útil. Un "programa metafísico de investigación" no era algo negativo para él; es una parte esencial de la ciencia, dado que produce investigaciones útiles al sugerir predicciones. Dijo respecto del Darwinismo:
+
+     Y aún así, la teoría es invaluable. No alcanzo a ver cómo, sin ella, podría haber aumentado nuestro conocimiento tal como lo ha hecho desde Darwin. Al intentar explicar experimentos con bacterias que lograron adaptarse, por ejemplo, a la penicilina, resulta bastante claro que la teoría de la selección natural nos ayuda enormemente. Aunque es metafísica, arroja un caudal de luz sobre investigaciones muy concretas y muy prácticas. Nos permite estudiar la adaptación a nuevos ambientes (como el ambiente impregnado de penicilina) de manera racional: sugiere la existencia de mecanismos de adaptación y nos permite incluso estudiar en detalle el funcionamiento de esos mecanismos. Y es la única teoría, hasta ahora, que puede hacer eso. ([Popper_1976]_, pp. 171-172)
+
+   Finalmente, Popper señala que el teísmo, como explicación a la adaptación, "es peor que un abierto reconocimiento de fracaso, porque crea la impresión de que se ha encontrado la explicación definitiva" ([Popper_1976]_, p. 172).
+
+2. Popper más tarde cambió de opinión y reconoció que la selección natural es verificable. Aquí hay un extracto de un texto más tardío sobre "Natural Selection and Its Scientific Status" ([Miller_1985]_, pp. 241-243; también consultar [Popper_1978]_):
+
+    Cuando hable aquí de Darwinismo, hablaré siempre de la teoría actual -esto es, la propia teoría de Darwin sobre la selección natural respaldada por la teoría Mendeliana de la herencia, por la teoría de la mutación y recombinación de genes en el acervo genético, y por el código genético decodificado. Es una teoría impresionante y muy poderosa. La afirmación de que explica la evolución por completo es, por supuesto, temeraria, y está bastante lejos de estar establecida. Todas las teorías científicas son conjeturas, incluso aquellas que han pasado con éxito numerosas y detalladas pruebas. El apoyo mendeliano al Darwinismo moderno ha sido comprobado, como también lo ha sido la teoría de la evolución que afirma que toda la vida terrestre ha evolucionado a partir de organismos primitivos unicelulares, posiblemente incluso de un solo organismo.
+
+    De todas formas, la contribución más importante del mismo Darwin a la teoría de la evolución, su teoría de la selección natural, es difícil de probar. Hay algunas pruebas, incluso experimentales; y en algunos casos, tal como en el famoso fenómeno conocido como 'melanismo industrial', podemos ver cómo ocurre la selección natural ante nuestros propios ojos, por así decirlo. Sin embargo, es difícil conseguir verdaderas pruebas de la selección natural, a diferencia de lo que ocurre con otras teorías de la física o la química.
+
+    El hecho de que la teoría de la selección natural es difícil de probar ha llevado a algunas personas, anti-Darwinistas e incluso algunos grandes Darwinistas, a afirmar que es una tautología (Ver :doc:`CA500`). Una tautología como "Todas las mesas son mesas" no es, por supuesto, comprobable; tampoco tiene capacidad explicatoria. Es, por lo tanto, sorprendente escuchar que algunos de los más grandes Darwinistas contemporáneos formulen la teoría de manera tal que lleve a la tautología de afirmar que todos los organismos que dejan la mayor descendencia, dejan la mayor descenedencia. C.H Waddington dice en alguna parte (y defiende su visión en otros lugares) que "La selección natural... resulta ser... una tautología"..4 Sin embargo, él le atribuye a la teoría, al mismo tiempo, una "enorme capacidad... de explicación". Dado que la capacidad explicatoria de una tautología es, evidentemente, cero, algo debe estar mal aquí.
+
+    Y aún así, pasajes similares se pueden encontrar en los trabajos de grandes Darwinistas como Ronald Fisher, J.B.S. Haldane y George Gaylord Simpson, entre otros.
+
+    Menciono este problema porque yo también pertenezco al grupo de los culpables. Influenciado por lo que estas autoridades decían, en el pasado he descrito esta teoría como "casi tautológica" y he tratado de explicar cómo la teoría de la selección natural podría no ser comprobable (dado que es una tautología), pese a resultar de gran interés científico. Mi solución fue que la doctrina de la selección natural es el programa metafísico de investigación más éxitoso de todos. Apunta a problemas detallados en muchos campos y nos dice lo que deberíamos esperar como soluciones aceptables para estos problemas.
+
+    Todavía creo que la selección natural funciona de esta manera, como un programa de investigación. Sin embargo, he cambiado de opinión respecto de la verificabilidad y el estatus lógico de la teoría de la selección natural, y me alegra tener la oportunidad de realizar este retracto. Mi retractación, espero, puede contribuir un poco al entendimiento del estatus de la selección natural.
+
+Enlaces
+========
+
+Brush, Stephen G. 1994. Popper and evolution. *Reports of the National Center for Science Education* 13(4)-14(1): 29. http://www.ncseweb.org/resources/articles/8401_popper_and_evolution_9_10_2003.asp
+
+Referencias
+==============
+
+.. [Miller_1985]  Miller, David. 1985. *Popper Selections*.
+
+.. [Popper_1976] Popper, Karl. 1976. *Unended Quest: An Intellectual Autobiography* Glasgow: Fontana/Collins.
+
+.. [Popper_1978] Popper, Karl. 1978. Natural selection and the emergence of mind. *Dialectica* 32: 339-355. (extracto en http://www.geocities.com/criticalrationalist/popperevolution.htm )
+
+Lecturas recomendadas
+=========================
+
+Cole, John R. 1981. Misquoted scientists respond. *Creation/Evolution* 6: 34-44.
+
+/////
+
+Anterior: :doc:`CA211` | Siguiente: :doc:`CA212`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

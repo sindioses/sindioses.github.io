@@ -1,0 +1,54 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA200
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA230_1
+.. link: http://talkorigins.org/indexcc/CA/CA230_1.html
+.. date: 2001-02-18 02:00:00+00:00
+.. title: CA230.1: Los evolucionistas interpretan las evidencias basándose en sus preconceptos
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Los evolucionistas interpretan las evidencias basándose en sus preconceptos»
+
+Las conclusiones de los científicos se basan en sus preconceptos. Sólo prueban lo que asumen de antemano.
+
+**Fuente:**
+
+Oard, Michael J. 2003. Are polar ice sheets only 4500 years old? *Impact* 361 (July), p. iv. http://www.icr.org/index.php?module=articles&action=view&ID=120
+
+Respuesta
+============
+
+1. Las conclusiones de los científicos se basan en pruebas, y las pruebas están disponibles para que todos las vean. Los científicos saben que sus ideas deben resistir el escrutinio de otros científicos, que pueden no compartir sus preconceptos. La mejor manera de hacer esto es hacer una presentación lo bastante fuerte en lo que a las pruebas se refiere, de modo que los preconceptos no importen. Y los propios científicos reprueban los preconceptos cuando los encuentran. (Stephen J. Gould, el cruzado más reciente y franco en contra de los preconceptos en la ciencia, era un anticreacionista vehemente.)
+
+   La historia de la ciencia está llena de científicos que aceptan ideas contrarias a sus preconceptos. Los ejemplos incluyen la realidad de las extinciones, la realidad de los meteoros como causa de extinciones masivas, las edades de hielo, la deriva continental, los transposones, las bacterias como causa de las úlceras, la naturaleza de los priones y, por supuesto, la evolución misma. Los científicos no son inmunes a que sus prejuicios los aparten del camino correcto, pero finalmente van hacia donde las pruebas los llevan.
+
+   Los científicos hacen esfuerzos deliberados para eliminar las influencias subjetivas de sus evaluaciones de conclusiones; hacen un bueno trabajo, en general, para reducir los sesgos. De hecho, hacen tan buen trabajo que a lo que realmente objetan los creacionistas es al hecho de que no interpretan las pruebas de acuerdo con ciertos preconceptos religiosos.
+
+2. No alcanzan las palabras para enfatizar la hipocresía de esta acusación. Los creacionistas afirman claramente que sólo aceptarán lo que ya asumen. Consideren parte de la Declaración de Fe de Answers in Genesis: "Por definición, ninguna prueba aparente, percibida o afirmada en ninguna disciplina, incluyendo la historia y la cronología, puede ser válida si contradice el registro de las Escrituras" ([AIG_n_d]_). El Instituto para la Investigación sobre la Creación (ICR) tiene una declaración de fe similar ([ICR_2000]_). Los creacionistas admiten abiertamente que sus preconceptos, en forma de convicciones religiosas, determinan sus conclusiones.
+
+Referencias
+================
+
+.. [AIG_n_d] AIG. n.d. Statement of faith. http://www.answersingenesis.org/home/area/about/faith.asp
+.. [ICR_2000] ICR. 2000. ICR tenets of Creationism.  http://www.icr.org/index.php?module=research&action=index&page=research_tenets
+
+Otras lecturas
+=====================
+
+.. figure:: CA230_1-Trever.png
+   :alt:
+   :figwidth: 630
+
+   Viñeta sin título. |copy| 1998 John Trever, *Albuquerque Journal*. Usada con permiso. Traducción de SinDioses.org.
+
+.. include:: <isonum.txt>
+
+/////
+
+Anterior: :doc:`CA230` | Siguiente: :doc:`CA240`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

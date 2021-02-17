@@ -1,0 +1,57 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH200
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH200
+.. link: http://talkorigins.org/indexcc/CH/CH200.html
+.. date: 2005-2-24
+.. type: afirmacrea
+.. title: CH200: El universo tiene entre 6000 y 10000 años de antigüedad
+.. description: Respuesta a la afirmación creacionista «El universo tiene entre 6000 y 10000 años de antigüedad»
+
+El universo es relativamente joven, sólo tiene entre 6000 y 10000 años de antigüedad.
+
+Respuesta
+===========
+
+1. La :doc:`edad de la Tierra <CH210>` es de 4500 millones de años.
+
+2. Sabemos que el universo es antiguo por distintos tipos de mediciones:
+
+   * Podemos medir las distancias a algunos tipos de estrellas por su brillo aparante. (Sabemos su brillo absoluto de estrellas cercanas del mismo tipo cuyas distancias pueden medirse geométricamente.) Encontramos distancias de más de cincuenta millones de años-luz, lo que significa que el universo debe ser de al menos 50 millones de años para que la luz nos llegue. Las medidas basadas en el brillo de supernovas y galaxias, aunque menos exactas, dan distancias de miles de millones de años luz.
+
+   * La Gran Nube de Magallanes está a 153.000 años luz de distancia, tal como se pide por una estrella binaria que la eclipsa ([Cole_2000]_). Este método da una medida relativamente directa a partir de observaciones simples. El brillo absoluto de una estrella está determinado por su temperatura y su diámetro, lo cual puede determinarse a partir de su espectro y la longitud de su eclipse. Luego se determina la distancia a partir del brillo aparente.
+
+   * Las órbitas de trece de los asteroides de la familia Koronis fueron rastreadas en sentido inverso y se encontró que 5,8 millones de años atrás las órbitas convergían, sugiriendo que se formaron entonces a partir de una colisión de asteroides más gradnes ([Nesvorny_et_al_2002]_).
+
+   * Las edades de las estrellas en los cúmulos globulares más antiguos ponen un límite inferior en la edad del universo en 12070 millones de años ([Chaboyer_et_al_1996]_).
+
+   * Se encontraron estrellas enanas blancas de entre doce y trece mil millones de años, según su tasa de enfriamiento.
+
+Enlaces
+============
+
+Fraknoi, Andrew, George Greenstein, Bruce Partridge, and John Percy, 2004. An ancient universe: How astronomers know the vast scale of cosmic time. http://education.aas.org/publications/ancientuniverse.html or http://education.aas.org/publications/AncientUniverseWeb.pdf
+
+Referencias
+==============
+
+.. [Chaboyer_et_al_1996]    Chaboyer, Brian, Pierre Demarque, Peter J. Kernan, and Lawrence M. Krauss. 1996. A lower limit on the age of the universe. *Science* 271: 957-961.
+.. [Cole_2000]    Cole, Andrew A., 2000. The distance to the Large Magellanic Cloud. *Science* 289: 1149-1150.
+.. [Nesvorny_et_al_2002]    Nesvorny, D., W. F. Bottke Jr., L. Dones and H. F. Levison, 2002. The recent breakup of an asteroid in the main-belt region. *Nature* 417: 720-722.
+
+Otras lecturas
+===================
+
+Ferris, Timothy, 1997. *The Whole Shebang*. New York: Simon & Schuster.
+
+
+/////
+
+Anterior: :doc:`CH190` | Siguiente: :doc:`CH210`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

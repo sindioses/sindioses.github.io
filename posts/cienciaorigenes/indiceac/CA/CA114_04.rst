@@ -1,0 +1,45 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA110
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA114_04
+.. link: http://www.talkorigins.org/indexcc/CA/CA114_4.html
+.. date: 2005-08-02 02:00:00+00:00
+.. title: CA114.04: Babbage era creacionista
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Babbage era creacionista»
+
+Charles Babbage (1792-1871), pionero en el campo de lo que se transformaría en ciencias de la computación, era creacionista.
+
+**Fuente:**
+
+Morris, Henry M. 1982. Bible-believing scientists of the past. *Impact* 103 (Jan.), http://www.icr.org/index.php?module=articles&action=view&ID=185
+
+Respuesta
+============
+
+1. Babbage era un evolucionista teísta; de hecho, fue uno de los primeros en impulsar la evolución teísta. Creía en un dios que creó "una ley general y abarcativa, a partir de la cual surge toda forma visible, tanto en el mundo orgánico como en el inorgánico" ([Babbage_1838]_, p. 50). Tal dios, pensaba él, merece mor crédito y gloria que un dios que interviene en el curso de la creación. Citaba con aprobación una carta en la cual Sir John Herschel propone que el origen de nuevas especies "se descubriría ser un proceso natural, en contraposición a uno milagroso" ([Babbage_1838]_, p. 227).
+
+   Babbage también reconoció y aceptó que la evidencia geológica indica una tierra antigua.
+
+     En verdad, el volumen de evidencia que se combina para probar la gran antigüedad de la tierra misma es tan irresistible, y tan impasible ante la evidencia que la contradice, que ninguna persona, salvo que sea tanto incapaz de observar los hechos como de apreciar la razón, puede siquiera por un momento concebir que el estado actual de su superficie sea el resultado de sólo seis mil años de existencia ([Babbage_1838]_, pp. 67-68).
+
+2. Babbage reconoció que las pruebas son más importantes que la revelación ([Babbage_1838]_, v-vii). En esto se oponía directamente a los creacionistas de hoy.
+
+3. Se aplican los :doc:`argumentos habituales contra la autoridad <CA114>`. La validez de la evolución se basa en las pruebas, o en lo que dijera Babbage o nadie más, y Babbage realizó la mayoría de su trabajo antes de la publicación de *El origen de las especies*.
+
+Referencias
+=============
+
+.. [Babbage_1838] Babbage, Charles. 1838. *The Ninth Bridgewater Treatise*, 2nd ed. London. http://www.victorianweb.org/science/science_texts/bridgewater/babbage_intro.htm
+
+/////
+
+Anterior: :doc:`CA114_02` | Siguiente: :doc:`CA114_10`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

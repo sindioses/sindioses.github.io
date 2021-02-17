@@ -1,0 +1,48 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CC004
+.. link: http://www.talkorigins.org/indexcc/CC/CC004.html
+.. date: 2003-09-04
+.. title: CC004: Diez esqueletos del Hombre de Pekín fueron suprimidos
+.. description: Respuesta a la afirmación creacionista «Diez esqueletos del Hombre de Pekín fueron suprimidos»
+.. type: afirmacrea
+
+Los informes iniciales de los periódicos sobre el Hombre de Pekín informaron que se encontraron diez esqueletos, pero sólo se exhibió una calavera parcial. Esos esqueletos han sido suprimidos, probablemente destruidos por científicos porque eran demasiado humanos y por lo tanto no proporcionaban evidencia en favor de la evolución. Ningún científico fue interrogado sobre lo que ocurrió con los diez esqueletos.
+
+**Fuente:**
+
+Bowden, Malcom, 1981. *Ape-men: Fact or Fallacy?* 2nd ed., Bromley, Kent: Sovereign, pp. 95-96.
+
+Respuesta
+===========
+
+1. Un informe contemporáneo de la declaración en *Nature* sólo se refería a "los restos de diez individuos". Una carta de Teilhard de Chardin dice "Black estima que hay rastros de al menos 10 individuos". Probablemente los periódicos, que con frecuencia son imprecisos en asuntos científicos, asumieron la interpretación más sensacionalista de los "rastros" y los conviertieron en esqueletos enteros.
+
+2. Otros informes del hallazgo de los científicos incluyeron la mención de haber hallado sólo una calavera, incluyendo una carta escrita antes de la supuesta decisión de eliminar los esqueletos. Si los esqueletos existieron, seguramente también habrían sido mencionados.
+
+3. Es altamente improbable que haya habido fraude porque mucha gente hubiera tenido que mantener el secreto, incluyendo científicos ingleses, francesos y chinos y docenas de trabajadores. Probablemente ninguno de los científicos hubiera estado dispuesto a destruir los esqueletos, porque un descubrimiento de semejante tamaño y completitud hubiera lanzado sus carreras, independientemente de lo que mostraran los esqueletos.
+
+4. Excavar sólo la tapa del cráneo requirió un esfuerzo significativo. Es altamente improbable que la excavación de diez esqueletos completos hasta el punto en el que pudieran analizarse pudiera completarse en tres semanas.
+
+5. La afirmación de que ningún científico cuestiona los informes sobre los diez esqueletos es simplemente errónea. Al menos dos científicos se refirieron a las exageraciones de los periódicos. [Boule_1929]_
+
+Enlaces
+=========
+Foley, Jim, 1999. Creationist arguments: The lost Peking Man skeletons. http://www.talkorigins.org/faqs/homs/lostskels.html
+
+Referencias
+=============
+.. [Boule_1929] Boule M., 1929. Le Sinanthropus. *L'Anthropologie* 39: 455-460, citado in Foley 1999.
+
+
+/////
+
+Anterior: :doc:`CC003` | Siguiente: :doc:`CC021`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

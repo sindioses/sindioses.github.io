@@ -1,0 +1,67 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA110
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA111_1
+.. link: http://www.talkorigins.org/indexcc/CA/CA111_1.html
+.. date: 2003-06-15 02:00:00+00:00
+.. title: CA111.1: Más de 300 científicos expresan escepticismo hacia el darwinismo
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Más de 300 científicos expresan escepticismo hacia el darwinismo»
+
+Más de 300 científicos (más de 400 al 18-Jul-2005) de todas las disciplinas han firmado una declaración expresando escepticismo sobre la capacidad de las mutaciones aleatorias y la selección natural para explicar la complejidad de la vida.
+
+**Fuente:**
+
+Discovery Institute, 2004. Doubts over evolution mount with over 300 scientists expressing skepticism with central tenet of Darwin’s theory. http://www.discovery.org/scripts/viewDB/index.php?command=view&id=2114
+
+Discovery Institute, 2005. Eighty years after Scopes trial new scientific evidence convinces over 400 scientists that Darwinian evolution is deficient. http://www.discovery.org/scripts/viewDB/index.php?command=view&id=2732
+
+Respuesta
+===========
+
+1. Las críticas a la afirmación general de que :doc:`muchos científicos rechazan la evolución <CA111>` también se aplican a esta lista de científicos:
+
+   * Afirmar escepticismo carece de valor sin una evidencia válida para basar ese escepticismo. Esa evidencia es deficiente. Las afirmaciones del Discovery Institute (DI) de que existe tal evidencia han sido examinadas y descartadas repetidamente por quienes entienden de biología evolutiva.
+   * Comparados con todos los científicos que aceptan la evolución, 400 científicos es una cantidad insignificante. El National Center for Science Education ha compilado, como una parodia de las listas como la del Discovery Institute, una lista de más de 500 científicos, todos llamados Steve, o variantes de ese nombre, que apoyan la evolución [NCSE_2003]_. Sólo hay cinco Steves en la lista de 400 personas del DI.
+   * La lista del DI es presentada exageradamente como un documento en contra de la evolución (ver el punto siguiente).
+
+2. La declaración acordada por los firmantes no es anti-evolución. Dice:
+
+        Somos escépticos de las afirmaciones sobre la capacidad de la mutación aleatoria y la selección natural para explicar la complejidad de la vida. Debe alentarse un examen cuidadoso de la evidencia en favor de la teoría darwinista. (Discovery Institute 2004)
+
+   Dado que a los científicos se los capacita para examinar evidencia y ser escépticos de todo, hasta los más entusiastas evolucionistas podrían firmar una declaración así. De hecho, es bien sabido que la mutación aleatoria y la selección natural no son los únicos mecanismos que contribuyen a la complejidad de la vida; otros mecanismos tales como la deriva genética y la simbiosis también son importantes. La declaración firmada por los científicos del “Proyecto Steve” es más específica:
+
+        La evolución es un proceso vital, bien respaldado y unificador de las ciencias biológicas, y la evicencia científica está abrumadoramente en favor de la idea de que todas las cosas vidas comparten una ascendencia común. Aunque hay debates legítimos sobre los esquemas y procesos de la evolución, no hay dudas científicas serias de que la evolución ocurrió o de que la selección natural es un mecanismo importante en su ocurrencia. Es científicamente inadecuado y pedagógicamente irresponsable que la pseudociencia creacionista, incluyendo pero sin limitarse al “diseño inteligente”, sea agregada al currícumum científico de las escuelas públicas de nuestra nación [NCSE_2003]_.
+
+   Aunque muchas de las personas de la lista del Discovery Institute son antievolucionistas, es probable que la mayoría de ellos estaría en desacuerdo con los “tipos” fijos y una tierra joven ([Evans_2001]_). En otra lista, el Discovery Institute publicó una bibliografía de publicaciones que “representan puntos de vista disidentes que desafían uno u otro aspecto del neodarvinismo [...], discute problemas que enfrenta la teoría evolucionista o sugiere importantes nuevas líneas de evidencia que la biología debe considerar cuando explica los orígenes”. Cuando los autores de las publicaciones fueron contactados, ninguno dijo que su trabajo apoye el “diseño inteligente” o desafíe la evolución [Branch_2002]_. Bob Davidson, uno de los firmantes de la lista de 400 del DI, dice que “la evidencia científica en favor de la evolución es abrumadora” y ahora piensa que el Discovery Institute es un insulto tanto para la ciencia como para la religión ([Westneat_2005]_).
+
+3. Muchos de los firmantes de la lista del DI (cerca del 80%) no son biólogos; algunos ni siquiera son científicos. Hablando en general, los matemáticos, los ingenieros eléctricos, los filósofos y otros sólo están ligeramente más calificados que una persona de la calle para comentar sobre la validez de la evolución.
+
+Enlaces
+=========
+
+* Evans, Skip. 2001. Doubting Darwinism through creative license. http://www.ncseweb.org/resources/articles/7306_pr87_11292001__doubting_dar_11_29_2001.asp
+
+* NCSE. 2003. Project Steve, http://www.ncseweb.org/article.asp?category=18
+
+* Schafersman, Steven. 2003. Texas Citizens for Science responds to latest Discovery Institute challenge. http://www.texscience.org/files/discovery-signers.htm
+
+Referencias
+==============
+.. [Branch_2002]	Branch, Glenn. 2002. Analysis of the Discovery Institute’s “Bibliography of Supplementary Resources for Ohio Science Instruction.” *Reports of the National Center for Science Education* 22(4): 12-18,23-24. http://www.ncseweb.org/resources/rncse_content/vol22/4583_analysis_of_the_discovery_inst_12_30_1899.asp
+.. [Evans_2001]	Evans, Skip. 2001. Doubting Darwinism through creative license. http://www.ncseweb.org/resources/articles/7306_pr87_11292001__doubting_dar_11_29_2001.asp
+.. [NCSE_2003]	(1, 2) NCSE. 2003. Project Steve, http://www.ncseweb.org/article.asp?category=18
+.. [Westneat_2005]	Westneat, Danny. 2005. Evolving opinion of one man. *Seattle Times*, Aug. 24, 2005. http://seattletimes.nwsource.com/html/localnews/2002450329_danny24.html
+
+
+/////
+
+Anterior: :doc:`CA111` | Siguiente: :doc:`CA112`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

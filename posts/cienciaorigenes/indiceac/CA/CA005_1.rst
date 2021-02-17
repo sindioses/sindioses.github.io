@@ -1,0 +1,44 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA000
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA005_1
+.. link: http://www.talkorigins.org/indexcc/CA/CA005_1.html
+.. date: 2007-10-07 01:00:00+00:00
+.. title: CA005.1: Charles Darwin mismo era racista
+.. description: Respuesta a la afirmación creacionista «Charles Darwin mismo era racista»
+.. type: afirmacrea
+
+Charles Darwin mismo era racista, refiriéndose, por ejemplo, a los nativos africanos y australianos como salvajes
+
+Fuente
+======
+
+* Humber, Paul G. 1987. The ascent of racism. Impact 164, http://www.icr.org/index.php?module=articles&action=view&ID=268 Weston-Broome, Sharon. 2001. Louisiana House Concurrent Resolution no. 74: Civil Rights: Provides relative to racism and education about racism. HLS 01-2652 ORIGINAL.
+
+Respuesta
+=========
+
+1. Prácticamente todos los ingleses en la época de Darwin consideraban a los negros como inferiores cultural e intelectualmente a los europeos. Algunos hombres de esa época (como Louis Agassiz, un creacionista acérrimo) llegaron a decir que eran una especie diferente. Charles Darwin era el producto de su tiempo y sin duda consideraba que los no europeos eran en cierto modo inferiores, pero era mucho más liberal que la mayoría: se opuso con vehemencia a la esclavitud ([Darwin_1913]_, especialmente el capítulo 21) y contribuó al trabajo misionario para mejorar las condiciones de los nativos de Tierra del Fuero. Trató a gente de todas las razas con compasión.
+2. La mención de :doc:`“razas favorecidas” <CA005_2>` en el subtítulo de *El origen de las especies* simplemente se refiere a las variaciones dentro de las especies que sobreviven para dejar más descendencia. No implica racismo.
+3. Los puntos de vista de Darwin, o de cualquier persona, son irrelevantes en relación al hecho de la evolución. La evolución se basa en evidencia, no en las opiniones de las personas.
+
+Referencias
+==============
+.. [Darwin_1913]	Darwin, Charles. 1913. *Voyage Round the World of H.M.S. Beagle*, 11th ed. London, John Murray. http://pages.britishlibrary.net/charles.darwin/texts/beagle_voyage/beagle21.html
+
+Otras lecturas
+===============
+
+* Britian, Troy. n.d. Darwin on race and slavery. http://home.att.net/~troybritain/articles/darwin_on_race.htm
+
+/////
+
+Anterior: :doc:`CA005` | Siguiente: :doc:`CA005_2`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

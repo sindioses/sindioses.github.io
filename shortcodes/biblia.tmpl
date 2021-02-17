@@ -1,0 +1,11 @@
+<% url = f"https://www.biblegateway.com/passage/?search={_args[0]}&version={_args[1]}&interface=print" %>\
+%if alto is UNDEFINED:
+<% h = "500px" %>\
+%else:
+<% h = alto %>\
+%endif
+%if iframe is not UNDEFINED:
+<div class="container"><iframe title="${_args[0]}" src="${url}" width="100%" height="${h}"></iframe></div><hr>\
+%else:
+<a href="${url}">${_args[0]}</a>\
+%endif

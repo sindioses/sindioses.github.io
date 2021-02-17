@@ -1,0 +1,38 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB400
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB430
+.. link: http://www.talkorigins.org/indexcc/CB/CB430.html
+.. date: 2004-5-27
+.. type: afirmacrea
+.. title: CB430: La evolución no explica la personalidad y las emociones
+.. description: Respuesta a la afirmación creacionista «La evolución no explica la personalidad y las emociones»
+
+La evolución no explica la personalidad humana, las emociones y la mente humana en general, la cual hace que el hombre sea distinto de los animales.
+
+**Fuente:**
+
+Morris, John D., 2003. Is man a "higher" animal? *Acts & Facts* 32(7) (July), d. 
+
+Respuesta
+=========
+1. Una vez que el :doc:`cerebro <CB303>` y la :doc:`conciencia <CB400>` han evolucionado, las emociones, la personalidad y la mente pueden ser inevitables. Ciertamente tienen ventaja selectiva. Las emociones sirven para motivarnos. Y la gente sin personalidad tiende a no tener sexo.
+2. La gente que tiene mascotas sabe que los perros, los gatos, incluso las aves también muestran emociones y personalidad.
+   
+Otras lecturas
+==============
+
+Konner, Melvin, 2002. *The Tangled Wing: Biological Constraints on the Human Spirit*, New York: Henry Holt and Co. 
+
+		
+/////
+
+Anterior: :doc:`CB421` | Siguiente: :doc:`CB440`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

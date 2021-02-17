@@ -1,0 +1,36 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA200
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA250
+.. link: http://talkorigins.org/indexcc/CA/CA250.html
+.. date: 2003-10-23 02:00:00+00:00
+.. title: CA250: Los hallazgos científicos siempre están cambiando
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Los hallazgos científicos siempre están cambiando»
+
+Las teorías científicas siempre están cambiando. Uno no puede confiar en lo que dicen los científicos, porque mañana puede ser distinto.
+
+**Fuente:**
+
+Egilson, G. H. 2003. For creation. Post on talk.origins, 23 Oct., Message-ID: , http://www.google.com/groups?as_umsgid=%3Cdd2cd23a.0310221340.6703c9e%40posting.google.com%3E
+
+Matthews, Michael. 2003. A century of fraud. http://www.answersingenesis.org/docs2003/1118piltdown.asp
+
+Respuesta
+============
+
+1. La ciencia investiga cuestiones difíciles sobre disciplinas desconocidas, y los científicos son humanos, así que es inevitable que los hallazgos científicos no sean perfectos. Sin embargo, la ciencia funciona investigando más y más, lo que significa que los resultados se verifican y reverifican con descubrimientos posteriores. La razón por la que algunos descubrimientos cambian es porque son corregidos. Este proceso de corrección ayuda a que la ciencia sea una de las áreas más exitosas del esfuerzo humano. La gente en la que no se puede confiar es la que siempre tiene razón.
+
+2. A medida que se acumulan más pruebas, los descubrimientos científicos se vuelven más y más seguros. Las teorías que han soportado varias décadas de estudio pueden atravesar más refinamiento en los detalles, pero es casi inconcebible que sean refutados completamente.
+
+
+/////
+
+Anterior: :doc:`CA240` | Siguiente: :doc:`CA301`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

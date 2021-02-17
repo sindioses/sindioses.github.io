@@ -1,0 +1,61 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CF011.2: Los teoremas NFL prueban que los algoritmos evolutivosno vencen a la bùsqueda a ciegas
+.. description: Respuesta a la afirmación creacionista «Los teoremas NFL prueban que los algoritmos evolutivosno vencen a la bùsqueda a ciegas»
+.. slug: CF011_2
+.. link: http://www.talkorigins.org/indexcc/CF/CF011_2.html
+.. tags: CF, CF000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-10-25
+
+Los teoremas "No hay almuerzo gratis" (NFL por su sigla en inglés; [Wolpert_y_Macready_1997]_) prueban que los algoritmos evolutivos, cuando se promedian entre las funciones de aptitud, no pueden superar a una bùsqueda a ciegas. Esto significa que un algoritmo evolutivo puede buscar un objetivo especificado sólo si ya hay información compleja especificada en la función de aptitud. Los algoritmos evolutivos no pueden explicar la informaciòn especificada compleja que vemos en la vida; esa información tiene que provenir del diseño.
+
+**Fuente:**
+
+Dembski, William A., 2002b. *No Free Lunch*, Lanham, MD: Rowman & Littlefield, pp. xii, 199-212. 
+
+Respuesta
+=========
+
+1. Los teoremas NFL no se aplican a la evolución biológica. Los teoremas NFL sólo se aplican cuando la función de aptitud es independiente del algoritmo, pero en evolución, las poblaciones que evolucionan afectan el entorno y la una a la otra y por lo tanto a las funciones de aptitud.
+   
+   También se debería señalar que los teoremas NFL no se refieren a encontrar un objetivo. Pueden aplicarse a problemas como hallar cuál de varios algoritmos se desempeña mejor; tal aplicación difiere del concepto de objetivo de Dembski.
+
+2. Los teoremas NFL consideran el promedio de todas las funciones de aptitud. Hallar una función de aptitud por encima del promedio no es complicado y con frecuencia es trivial. Si se quiere una solución que se desempeñe bien de acuerdo con algún indicador, entonces una función de aptitud que mida este indicador normalmente funcionará mejor que una búsqueda a ciegas. Por ejemplo, si a uno le interesa la supervivencia y la reproducción en un cierto ambiente, entonces supervivencia y reproducción en ese entorno es una buena elección para una función de aptitud.
+
+3. La prueba final de un concepto es si funciona o no. Los algoritmos evolutivos funcionan. Encuentran soluciones a muchos problemas que son intratables con otros métodos. Si la matemática coincide con la observación fiable, la matemática está mal aplicada, es irrelevante o está equivocada.
+   
+4. La información especificada compleja :doc:`no implica diseño <CI111_2>`.
+   
+5. Ningún teórico del diseño ha mostrado jamás que en la vida existe información especificada compleja.
+
+6. El hecho de que la evolución emplea información del ambiente (por medio de la función de aptitud) no es nada nuevo. El proceso se llama *adaptación*. Darwin escribió algo sobre el tema en general ([Darwin_1859]_). No implica diseño.
+   
+Enlaces
+=======
+
+Perakh, Mark, 2003. The No Free Lunch theorems and their application to evolutionary algorithms. http://www.talkreason.org/articles/orr.cfm
+
+Referencias
+===========
+.. [Darwin_1859]    Darwin, C., 1872. *The Origin of Species*, 1st Edition. Senate, London. http://www.talkorigins.org/faqs/origin.html
+.. [Dembski_2002a]    Dembski, William A., 2002a (Nov. 6). The ARN Design Forum: What genetic algorithms can do. http://www.arn.org/ubb/ultimatebb.php?ubb=get_topic;f=13;t=000428;p=1
+.. [Wolpert_y_Macready_1997]    Wolpert, D. H. and W. G. Macready, 1997. No Free Lunch theorems for optimization. *IEEE Transactions on Evolutionary Computation* 1(1): 67-82. http://citeseer.nj.nec.com/wolpert96no.html 
+
+Otras lecturas
+==============
+Wein, Richard, 2002. Not a free lunch but a box of chocolates: A critique of William Dembski's book *No Free Lunch*. http://www.talkorigins.org/design/faqs/nfl/
+
+Wolpert, David, 2002. William Dembski's treatment of the No Free Lunch theorems is written in jello. *Mathematical Reviews*, Feb. 2003, review 2003b:00012. http://www.talkreason.org/articles/jello.cfm o http://www.arn.org/boards/ubb-get_topic-f-14-t-000221.html
+
+/////
+
+Anterior: :doc:`CF011_1` | Siguiente: :doc:`CF101`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

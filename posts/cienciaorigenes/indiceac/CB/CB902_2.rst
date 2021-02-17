@@ -1,0 +1,44 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2003-07-15
+.. type: afirmacrea
+.. title: CB902.2: Los cambios pequeños no implican cambios grandes
+.. description: Respuesta a la afirmación creacionista «Los cambios pequeños no implican cambios grandes»
+.. slug: CB902_2
+.. link: http://www.talkorigins.org/indexcc/CB/CB902_2.html
+
+Los creacionistas reconocen que ocurren pequeños cambios microevolutivos, pero los cambios pequeños no implican cambios grandes, de modo que la teoría de la macroevolución está injustificada.
+
+Respuesta
+=========
+1. Esta afirmación asume falsamente que la conclusión de la macroevolución está basada únicamente en la observación de la microevolución. De hecho, la microevolución es sólo una parte de la prueba que demuestra la evolución como un todo. Otras :doc:`evidencias <CA202>` incluyen el registro fósil; los patrones de similitudes y diferencias entre especies vivientes; y las comparaciones genéticas ([Darwin_1872]_; [Theobald_2004]_)
+   
+2. Los cambios pequeños implican los cambios grandes bajo ciertas circunstancias comunes. Si hay alguna presión selectiva para que los cambios vayan en una dirección, los cambios se acumularán. Tal condición puede ocurrir, por ejemplo, bajo un cambio climático gradual o en carreras de armas evolutivas. Incluso si no hay presión selectiva en absoluto, los cambios tenderán a divergir más y más del punto de partida. Los cambios pequeños no sólo conducen a cambios grandes.
+   
+   * si hay selección estabilizadora para que los organismos permanezcan como son, o
+   * si hay muy poco tiempo para que pase demasiado, o
+   * si hay mecanismos genéticos que limitan el cambio.
+     
+   A veces ocurre selección estabilizadora pero está lejos de ser universal. Sabemos que la tierra, y la vida en ella, es :doc:`muy vieja <CH210>`. Y no hay rastro de un mecanismo que :doc:`limite la variación <CB901_1>`. Por lo tanto, esperamos cambios grandes en base a los principios básicos.
+
+Referencias y enlaces
+=======================
+
+.. [Darwin_1872] Darwin, Charles. 1872. *The Origin of Species*, 1st Edition. London: Senate. http://www.talkorigins.org/faqs/origin.html
+
+.. [Theobald_2004] Theobald, Douglas, 2004. 29+ Evidences for macroevolution: The scientific case for common descent. http://www.talkorigins.org/faqs/comdesc/
+
+
+		
+/////
+
+Anterior: :doc:`CB902_1` | Siguiente: :doc:`CB904`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

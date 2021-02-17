@@ -1,0 +1,40 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2004-2-28
+.. type: afirmacrea
+.. title: CB941: ¿Cómo saben las cosas cómo evolucionar?
+.. description: Respuesta a la afirmación creacionista «¿Cómo saben las cosas cómo evolucionar?»
+.. slug: CB941
+.. link: http://www.talkorigins.org/indexcc/CB/CB941.html
+
+¿Cómo saben las cosas cómo evolucionar? Por ejemplo, ¿cómo saben las plantas qué sabor de bayas producir para que los pájaros las coman y las dispersen? ¿Cómo sabe un cocotero que hay un océano cerca?
+
+**Fuente:**
+
+"Roadking1576", 2003 (20 Ago). Got a question. Publicación en Talk.origins, Message-ID: <20030819222202.05573.00000213@mb-m16.aol.com> 
+
+Respuesta
+=========
+
+1. El organismo no sabe nada. Es simplemente el trabajo del "relojero ciego". Toda clase de mutaciones ocurren todo el tiempo. La mayoría son inútiles o incluso dañinas en el entorno en el que se encuentran, y la mayor parte de ellas se eliminan. De vez en cuando se produce una mutación que aumenta el éxito reproductivo de quién la porta, y se difunde a través de la población en las futuras generaciones. Por ejemplo, diferentes plantas individuales producen, a lo largo del tiempo, distintos sabores de semillas. Los sabores que les gustan más a los pájaros se dispersan más y prosperan más; las que no les gustan a los pájaros quedan por el camino. El resultado final es que las bayas evolucionan para volverse más sabrosas para los pájaros.
+   
+2. Los organismos individuales no evolucionan, sino las poblaciones. El rol del individuo es sobrevivir y reproducirse o no. Los que tienen una variante benéfica es más probable que sobrevivan y se reproduzcan.
+   
+Otras lecturas
+==============
+
+Dawkins, Richard, 1986. *El relojero ciego*,  RBA Coleccionables S.A., España
+
+		
+/////
+
+Anterior: :doc:`CB940_1` | Siguiente: :doc:`CB950`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

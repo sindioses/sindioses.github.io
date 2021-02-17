@@ -1,0 +1,43 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CC052: Las huellas de Laetoli eran humanas
+.. description: Respuesta a la afirmación creacionista «Las huellas de Laetoli eran humanas»
+.. slug: CC052
+.. link: http://www.talkorigins.org/indexcc/CC/CC052.html
+.. tags: CC, CC050
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2001-2-18
+
+Las huellas de pies de Laetoli, fechadas en una antigüedad de 3,7 millones de años, parecen ser de humanos modernos.
+
+**Fuente:**
+
+Gish, Duane T., 1985. *Evolution: The challenge of the fossil record*. El Cajon, CA: Creation-Life Publishers, pp. 174-176.
+
+Respuesta
+=========
+
+1. Cuán similares a las huellas de los australopitecos eran las huellas de pies de Laetoli es debatible. Tuttle ([Tuttle_1990]_) pensó que eran demasiado humanas para *Australopithecus afarensis* y podrían haber pertenecido a otra especie de australopitecos o a una especie *Homo* temprana. Otros antropólogos piensan que son significativamente diferentes de *Homo* y podrían ser *A. Afarensis* (revisado por [Foley_2004]_). Los creacionistas tienden a citar solamente a Tuttle porque es el que más apoya su posición.
+
+Enlaces
+=======
+
+Foley, Jim, 2004. Creationist arguments: Anomalous fossils. http://www.talkorigins.org/faqs/homs/a_anomaly.html
+
+Referencias
+===========
+.. [Tuttle_1990]    Foley, Jim, 2004. (v. arriba)
+.. [Foley_2004]    Tuttle, R. H., 1990. The pitted pattern of Laetoli feet. *Natural History* (Marzo): 61-64. 
+
+		
+/////
+
+Anterior: :doc:`CC051_1` | Siguiente: :doc:`CC054`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

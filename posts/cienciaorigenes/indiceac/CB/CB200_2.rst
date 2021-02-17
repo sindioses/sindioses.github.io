@@ -1,0 +1,64 @@
+﻿.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB200
+.. author: Mark Isaak. traducción de Samuel Martínez de la Iglesia
+.. nocomments: True
+.. slug: CB200_2
+.. link: http://talkorigins.org/indexcc/CB/CB200_2.html
+.. date: 2005-09-24
+.. title: CB200.2: El sistema de coagulación es irreduciblemente complejo
+.. description: Respuesta a la afirmación creacionista «El sistema de coagulación es irreduciblemente complejo»
+.. type: afirmacrea
+
+
+La bioquímica del sistema de coagulación sanguíneo es irreduciblemente complejo, lo que indica que debe haber sido diseñado.
+
+**Fuente:**
+
+Behe, Michael J. 1996. *Darwin's Black Box*, New York: The Free Press, pp. 74-97
+
+Respuesta
+============
+
+1. Los sistemas de coagulación sanguíneos parecen estar elaborados usando cualquier puente polimérico que sea útil. Hay muchos ejemplos de sistemas complicados hechos con componentes que tienen roles útiles pero completamente diferentes en otros sistemas diferentes. Hay evidencia, también, de que los genes del sistema de coagulación de la sangre (en efecto, el genoma entero) fueron duplicados dos veces en el curso de su evolución ([Davidson_et_al_2003]_). La duplicación de partes y el cambio de función y adaptación (exaptación) de otras partes con funciones diferentes puede fácilmente sortear la "dificultad" de la evolución gradual de los sistemas irreduciblemente complejos.
+
+2. El sistema de coagulación de la sangre no es irreduciblemente complejo. Algunos animales —como los delfines, por ejemplo— se las arreglan bastante bien sin el factor de Hagemann ([Robinson_et_al_1969]_), un componente del sistema de coagulación sanguíneo humano que Behe incluyó en sus ejemplos de complejidad "irreducible" (Behe 1996, 84). Doolittle y Feng ([Doolittle_Feng_1987]_) predijeron que los vertebrados "inferiores" carecerían de la *vía intrínseca* de la cascada de coagulación. Sendos trabajos sobre los genomas del pez globo y el pez cebra han confirmado este hecho ([Yong_Doolittle_2003]_).
+
+3. La complejidad irreducible :doc:`no es un obstáculo para la evolución <CB200>` y :doc:`no implica diseño <CI102>`.
+
+Enlaces
+===========
+
+Acton, George, 1997. Behe and the blood clotting cascade.  http://www.talkorigins.org/origins/postmonth/feb97.html
+
+Behe, M. and K. Miller. 2002. Transcript: American Museum of Natural History April 23, 2002 (Part 7). http://ncse.com/book/export/html/1740
+
+Dunkelberg, Pete, 2003. Irreducible complexity demystified. http://www.talkdesign.org/faqs/icdmyst/ICDmyst.html
+
+EvoWiki, 2004. Blood clotting. http://evolutionwiki.org/wiki/Blood_clotting
+
+Musgrave, Ian, 2005. Clotted rot for rotten clots. http://www.pandasthumb.org/archives/2005/03/clotted_rot_for.html
+
+Referencias
+==============
+
+.. [Davidson_et_al_2003]    Davidson, C. J., E. G. Tuddenham, and J. H. McVey. 2003. 450 million years of hemostasis. *Journal of Thrombosis and Haemostasis* 1: 1478-1497
+.. [Doolittle_Feng_1987]    Doolittle R. F., Feng D. F. 1987. Progressive sequence alignment as a prerequisite to correct phylogenetic trees. *Journal of molecular evolution* 25(4): 351-60
+.. [Robinson_et_al_1969]    Robinson, A. J., M. Kropatkin, and P. M. Aggeler. 1969. Hagemann factor (factor XII) deficiency in marine mammals. *Science* 166: 1420-1422.
+.. [Yong_Doolittle_2003]    Yong Jiang, Doolittle R. F. 2003 Jun 24. The evolution of vertebrate blood coagulation as viewed from a comparison of puffer fish and sea squirt genomes. *Proceedings of the National Academy of Sciences of the United States of America*. 100(13): 7527-32. (Epub 2003 Jun 13)
+
+Otras lecturas
+================
+
+Doolittle, Russell F., 1997. A delicate balance. Boston Review (Feb./Mar.), http://new.bostonreview.net/BR22.1/doolittle.html
+
+Ussery, David, 1999. A biochemist's response to "The biochemical challenge to evolution". Bios 70: 40-45.
+
+/////
+
+Anterior: :doc:`CB200_1_1` | Siguiente: :doc:`CB200_3`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

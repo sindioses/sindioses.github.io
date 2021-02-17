@@ -1,0 +1,46 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CC051.1: Los neandertales eran humanos modernos con raquitismo
+.. description: Respuesta a la afirmación creacionista «Los neandertales eran humanos modernos con raquitismo»
+.. slug: CC051_1
+.. link: http://www.talkorigins.org/indexcc/CC/CC051_1.html
+.. tags: CC, CC050
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-03-26
+
+**Fuente:**
+
+Lubenow, Marvin L., 1992. *Bones of Contention: A creationist assessment of the human fossils*. Grand Rapids, MI: Baker Books, pp. 149-156. 
+
+Respuesta
+=========
+
+1. Los signos de raquitismo difieren de los fósiles de Neandertal en varios aspectos, incluyendo los siguientes:
+   
+   a. La gente con raquitismo está malnutrida y tiene escaso calcio; sus huesos son débiles. Los huesos de Neandertal son cincuenta por ciento más gruesos que los del humano promedio.
+   b. La evidencia de raquitismo es fácil de detectar, especialmente en los extremos de los huesos largos del cuerpo. Esta evidencia no se encuentra en los neandertales.
+   c. El raquitismo causa una curvatura lateral del fémur. Los fémures de Neandertal se curvan hacia atrás.
+      
+   Virchow, quien informó por primera vez la posibilidad de raquitismo en un Neandertal, no la citó en exclusividad. Dijo que el fósil había tenido raquitismo en su niñez temprana, lesiones en la cabeza en su mediana edad y artritis en la vejez. Es dudoso que una población entera sufriera de las mismas aflicciones.
+
+2. Lubenow atribuye el raquitismo a una edad de hielo postdiluviana, con una cobertura debida a las nubes, el refugio y la ropa, y con falta de vitamina D. Pero las grandes diferencias con los humanos modernos, vistas en *Homo erectus*, se encuentran principalmente en áreas tropicales.
+   
+Enlaces
+=======
+
+Foley, Jim, 2002. Creationist arguments: Neandertals. http://www.talkorigins.org/faqs/homs/a_neands.html
+
+      
+/////
+
+Anterior: :doc:`CC051` | Siguiente: :doc:`CC052`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+
+   

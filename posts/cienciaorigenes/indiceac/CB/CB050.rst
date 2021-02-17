@@ -1,0 +1,58 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2004-11-16
+.. type: afirmacrea
+.. title: CB050: La abiogénesis es especulación sin pruebas
+.. description: Respuesta a la afirmación creacionista «La abiogénesis es especulación sin pruebas»
+.. slug: CB050
+.. link: http://www.talkorigins.org/indexcc/CB/CB050.html
+
+La abiogénesis es especulación sin pruebas. Dado que no se ha observado en laboratorio, no es ciencia.
+
+**Fuente:**
+
+Watchtower Bible and Tract Society. 1985. *Life--How Did It Get Here?* Brooklyn, NY, pp. 50-52. 
+
+Respuesta
+=========
+1. Hay mucho de la abiogénesis que se desconoce, pero la ciencia es para investigar lo desconocido. Mientras las especulaciones puedan verificarse, son científicas. Se ha hecho mucho trabajo científico para verificar las diversas hipótesis referidas a la abiogénesis, incluyendo lo siguiente:
+   
+   * Investigación en la formación de proteínas largas ([Ferris_et_al_1996]_; [Orgen_1998]_; [Rode_et_al_1999]_).
+   * La síntesis de moléculas complejas en el espacio ([Kuzicheva_y_Gontareva_1999]_; [Schueller_1998]_; cfr. :doc:`CB030`)
+   * :doc:`Investigación en formación de moléculas en diferentes atmósferas <CB035>`.
+   * La síntesis de constituyentes en el mundo hierro-azufre en torno de los respiraderos hidrotérmicos ([Cody_et_al_2000]_; [Russell_y_Hall_1997]_).
+     
+2. Véanse también las referencias y lecturas sugeridas con :doc:`CB010_2`, :doc:`CB035`, :doc:`CB015`, :doc:`CB040`.
+   
+Referencias
+===========
+
+.. [Cody_et_al_2000]    Cody, G. D. et al. 2000. Primordial carbonylated iron-sulfur compounds and the synthesis of pyruvate. Science 289: 1337-1340. Cfr. Wächtershäuser, 2000 (abajo).
+.. [Ferris_et_al_1996]    Ferris, J. P., A. R. Hill Jr., R. Liu and L. E. Orgel. 1996. Synthesis of long prebiotic oligomers on mineral surfaces. *Nature* 381: 59-61.
+.. [Kuzicheva_y_Gontareva_1999]    Kuzicheva, E. A. and N. B. Gontareva. 1999. The possibility of nucleotide abiogenetic synthesis in conditions of 'KOSMOS-2044' satellite space flight. *Advances in Space Research* 23(2): 393-396.
+.. [Orgen_1998]    Orgel, L. E. 1998. Polymerization on the rocks: theoretical introduction. *Origins of Life and Evolution of the Biosphere* 28: 227-34.
+.. [Rode_et_al_1999]    Rode, B. M., H. L. Son and Y. Suwannachot. 1999. The combination of salt induced peptide formation reaction and clay catalysis: a way to higher peptides under primitive earth conditions. *Origins of Life and Evolution of the Biosphere* 29: 273-86.
+.. [Russell_y_Hall_1997]    Russell, M. J. and A. J. Hall. 1997. The emergence of life from iron monosulphide bubbles at a submarine hydrothermal redox and pH front. *Journal of the Geological Society of London* 154: 377-402. http://www.gla.ac.uk/Project/originoflife/html/2001/pdf_articles.htm
+.. [Schueller_1998]    Schueller, Gretel. 1998. Stuff of life. *New Scientist* 159(2151) (12 Sep.): 31-35, http://www.newscientist.com/hottopics/astrobiology/stuffof.jsp 
+
+Further Reading
+===============
+RESA. n.d. Origins of life. http://www.resa.net/nasa/origins_life.htm
+
+Wächtershäuser, Günter. 2000. Life as we don't know it. *Science* 289: 1307-1308.
+
+Deamer, D. W. and J. Ferris. 1999. The origins and early evolution of life. [el índice de la publicación *Origins of Life and Evolution of the Biosphere* e información relacionada] http://www.chemistry.ucsc.edu/~deamer/home.html
+
+		
+/////
+
+Anterior: :doc:`CB040` | Siguiente: :doc:`CB090`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

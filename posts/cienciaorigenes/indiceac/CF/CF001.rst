@@ -1,0 +1,81 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CF, CF000
+.. author: Mark Isaak, traducción de Paulina Madariaga
+.. nocomments: True
+.. slug: CF001
+.. link: http://talkorigins.org/indexcc/CF/CF001.html
+.. date: 2004-6-26 02:00:00+00:00
+.. title: CF001: La Segunda Ley de la Termodinámica no permite la evolución
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La Segunda Ley de la Termodinámica no permite la evolución»
+
+La segunda ley de la termodinámica afirma que todo tiende al desorden, por lo que el desarrollo evolutivo sería imposible.
+
+**Fuente**
+===========
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, pp. 38-46.
+
+Respuesta
+===========
+
+1. La segunda ley de la termodinámica no dice tal cosa. Afirma que el calor no fluirá espontáneamente desde un cuerpo frío a uno caliente o, lo que es equivalente, que la entropía total (la medida de energía útil) en un sistema cerrado no disminuirá. Esto no impide un orden creciente, ya que
+
+   - La Tierra no es un sistema cerrado; la luz del sol (con baja entropía) brilla sobre ella y el calor (con entropía elevada) irradia fuera de ella. Este flujo de energía y el cambio de la entropia que lo acompaña, pueden y, en efecto, provocarán disminuciones locales de la entropía en la Tierra.
+
+   - La entropía no es lo mismo que el desorden. En ocasiones, ambos conceptos se corresponden, pero a veces el orden aumenta al mismo tiempo que la entropía. ([Aranda-Espinoza_et_al_1999]_; [Kestenbaum_1998]_). La entropía puede usarse para producir orden, tal como ocurre en la clasificación u ordenamiento de las moléculas por su tamaño ([Han_y_Craighead_2000]_).
+
+   - Incluso en un sistema cerrado se pueden formar burbujas de entropía baja si son compensadas por entropía elevada en otra parte del sistema.
+
+   En resumen, el orden a partir del desorden se produce en la Tierra todo el tiempo.
+
+2. Los únicos procesos necesarios para que se produzca la evolución son la reproducción, la variación hereditaria, y la selección. Todos ellos, se ha observado, ocurren con frecuencia, por lo que, evidentemente, ninguna ley física impide que se produzcan. De hecho, se han estudiado en profundidad las conexiones entre la evolución y la entropía y nunca en detrimento de la evolución ([Demetrius_2000]_).
+
+   Varios científicos han propuesto que la evolución y el origen de la vida fueron impulsados por la entropía ([McShea_1998]_). Algunos ven el contenido informativo de los organismos sujetos a diversificación de acuerdo a la segunda ley ([Brooks_y_Wiley_1988]_), de tal manera que los organismos se diversifican para llenar nichos vacíos del mismo modo que el gas se expande para llenar un recipiente vacío. Otros proponen que los sistemas complejos con un orden elevado emergen y evolucionan para disipar energía (y aumentar la entropía total) de forma más eficiente ([Schneider_y_Kay_1994]_).
+
+3. Incluso los mismos creacionistas reconocen que el aumento del orden es posible. Presentan estas ficticias :doc:`excepciones a la ley <CF001_3>` para intentar explicarlo.
+
+4. Incluso los mismos creacionistas realizan afirmaciones que contradicen directamente sus explicaciones sobre la segunda ley de la termodinámica, como la :doc:`clasificación hidrológica <CH561_2>` de los fósiles durante el Diluvio.
+
+
+Referencias
+==============
+
+.. [Aranda-Espinoza_et_al_1999] Aranda-Espinoza, H., Y. Chen, N. Dan, T. C. Lubensky, P. Nelson, L. Ramos and D. A. Weitz, 1999. Electrostatic repulsion of positively charged vesicles and negatively charged objects. *Science* 285: 394-397.
+
+.. [Brooks_y_Wiley_1988]  Brooks, D. R. and E. O. Wiley, 1988. *Evolution As Entropy*, University of Chicago Press.
+
+.. [Kestenbaum_1998] Kestenbaum, David, 1998. Gentle force of entropy bridges disciplines. *Science* 279: 1849.
+
+.. [Han_y_Craighead_2000] Han, J. and H. G. Craighead, 2000. Separation of long DNA molecules in a microfabricated entropic trap array. *Science* 288: 1026-1029.
+
+.. [Demetrius_2000]  Demetrius, Lloyd, 2000. Theromodynamics and evolution. *Journal of Theoretical Biology* 206(1): 1-16. http://www.idealibrary.com/links/doi/10.1006/jtbi.2000.2106
+
+.. [McShea_1998] McShea, Daniel W., 1998. Possible largest-scale trends in organismal evolution: eight live hypotheses. *Annual Review of Ecology and Systematics* 29: 293-318.
+
+.. [Schneider_y_Kay_1994] Schneider, Eric D. and James J. Kay, 1994. Life as a manifestation of the second law of thermodynamics. *Mathematical and Computer Modelling* 19(6-8): 25-48. http://www.fes.uwaterloo.ca/u/jjkay/pubs/Life_as/lifeas.pdf
+
+Lecturas recomendadas
+======================
+
+Atkins, P. W. 1984. *The Second Law*. New York: Scientific American Books.
+
+Kauffman, Stuart A. 1993. *The Origins of Order*. New York: Oxford. (technical)
+
+Lambert, Frank L. 1999. The second law of thermodynamics. http://www.secondlaw.com
+
+Revísalo por tu cuenta
+=======================
+
+Puedes ver que el orden viene y va en la naturaleza de muchas maneras diferentes. Ejemplos de ello son los copos de nieve y otros cristrales congelados, las formaciones de nubes, los torbellinos, las ondas en las dunas de arena, y los remolinos en los arroyos y riachuelos. Observa cuántos ejemplos adicionales puedes encontrar.
+
+/////
+
+Anterior: :doc:`CE441` | Siguiente: :doc:`CF001_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

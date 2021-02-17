@@ -1,0 +1,38 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA300
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA320
+.. link: http://talkorigins.org/indexcc/CA/CA320.html
+.. date: 2001-02-18 02:00:00+00:00
+.. title: CA320: Los científicos son presionados para no desafiar el dogma establecido
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Los científicos son presionados para no desafiar el dogma establecido»
+
+**Fuente:**
+
+Watchtower Bible and Tract Society. 1985. *Life--How Did It Get Here?* Brooklyn, NY, p. 182.
+
+Respuesta
+============
+
+1. Las presiones que impone la ciencia no debilitan la validez de la evolución; muy por el contrario. Los científicos son recompensados más por descubrir cosas nuevas que por apoyar principios establecidos. Por lo tanto, tienden a buscar más novedades y resultados que refuten creencias comunes. Si un científico encontrara pruebas que refutaran la evolución, tendría prestigio mundial y fama garantizados.
+
+2. Los creacionistas están mucho más presionados que los científicos. Dado que toda su visión del mundo queda amenazada por las pruebas refutatorias, están muy motivados para no admitirla. Muchos creacionistas han hecho juramentos que dicen que ninguna prueba podrá cambiar su dogma ([AIG_n_d]_). Al menos uno admite que se convirtió en científico no para encontrar la verdad, sino para destruir el darwinismo ([Wells_n_d]_). El compromiso con el dogma establecido está bastante monopolizado por los creacionistas.
+
+Referencias
+=================
+
+.. [AIG_n_d]    AIG. n.d. Statement of faith. http://www.answersingenesis.org/home/area/about/faith.asp
+.. [Wells_n_d]    Wells, Jonathan. n.d. Darwinism: Why I went for a second Ph.D. http://www.tparents.org/library/unification/talks/wells/darwin.htm Véase también: Anónimo. n.d. Dr. Jonathan Wells Returns to UTS. http://www.tparents.org/library/unification/publications/cornerst/cs970506/cst%5Fdr%2Djonathan.html
+
+
+/////
+
+Anterior: :doc:`CA310` | Siguiente: :doc:`CA320_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

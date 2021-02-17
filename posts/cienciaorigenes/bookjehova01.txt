@@ -1,0 +1,23 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. date: 2006-01-23 00:00:00
+.. type: ciori
+.. title: Análisis al libro antievolucionista de los Testigos de Jehová
+.. category: Ciencia de los orígenes
+.. description: Los Testigos de Jehová devotos, y la mayoría de las personas que de ellos reciben "La Vida: ¿Cómo se presentó aquí?" ignoran que éste libro se encuentra colmado de errores científicos, mentiras descaradas, verdades a medias y citas de científicos sacadas de su contexto original. El propósito de este texto es exponer estos errores al lector interesado en la biología evolutiva y en el análisis racionalista del movimiento creacionista actual.
+.. author: Ferney Yesyd Rodríguez, Hernán Toro y Corey Carroll
+.. previewimage: bookjehova01.jpg
+
+.. class:: espacio
+
+El libro de los Testigos de Jehová *"La Vida: ¿Cómo se presentó aquí? ¿Por evolución o creación?"* ha llegado a muchos hogares y bibliotecas atacando la biología evolutiva sin que el ciudadano promedio pueda evaluar la veracidad de sus argumentos. De hecho, los Testigos de Jehová toman este libro como la guía que les dice que pensar sobre la teoría de la evolución, y probablemente queden engañados por él ya que quizás nunca leerán un autor que defienda el otro punto de vista. Los Testigos de Jehová devotos, y la mayoría de las personas que de ellos reciben "La Vida: ¿Cómo se presentó aquí?"  ignoran que éste libro se encuentra colmado de errores científicos, mentiras descaradas, verdades a medias y citas de científicos sacadas de su contexto original. El propósito de este texto es exponer estos errores al lector interesado en la biología evolutiva y en el análisis racionalista del movimiento creacionista actual.
+
+
+.. * `Verdades a medias y mentiras descaradas de los Testigos de Jehová sobre al registro fósil`__
+
+* :doc:`bookjehova02`, por **Ferney Yesyd Rodríguez**.
+* :doc:`bookjehova03`, por **Ferney Yesyd Rodríguez**.
+* :doc:`bookjehova04`, por **Hernán Toro**
+* :doc:`bookjehova05`, por **Corey Carroll**
+
+.. image:: bookjehova01A.jpg
+.. include:: includes/ciori_pie.inc

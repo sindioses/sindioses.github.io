@@ -1,0 +1,41 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA110
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA114_02
+.. link: http://www.talkorigins.org/indexcc/CA/CA114_2.html
+.. date: 2005-08-02 02:00:00+00:00
+.. title: CA114.02: Linneo era creacionista
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Linneo era creacionista»
+
+**Fuente:**
+
+Morris, Henry M. 1982. Bible-believing scientists of the past. *Impact* 103 (Jan.), http://www.icr.org/index.php?module=articles&action=view&ID=185
+
+Respuesta
+===========
+
+1. Linneo era anterior a la teoría de la evolución por cerca de un siglo. Su trabajo en mostrar una distribución jerárquica de atributos de plantas y animales es una de las mayores pruebas en favor de la evolución. Los creacionistas lo criticaron en su momento por ubicar a los humanos en el mismo orden que los monos.
+
+2. Linneo era muy padoso y creía que Dios creó todas las cosas pero era, ante todo, un científico objetivo. Escribió con desprecio acerca de un sacerdote que citaba la escritura para probar que las nubes eran objetos sólidos y acerca de otro sacerdote que "me reprochó por prestar demasiada atención a las vanidades del mundo a expensas de las cuestiones espirituales, y dijo que se habían perdido demasiadas almas por culpa del anhelo de aprender" ([Blunt_1971]_, pp. 59-60). A su tiempo, Linneo llegó a dudar de la exactitud histórica de la Biblia en relación con la edad joven de la Tierra y no podía creer en un diluvio universal o la creación en sólo seis días ([Blunt_1971]_, 179).
+
+3. Linneo creía en la evolución dentro de los géneros: "Es imposible dudar que hay nuevas especies producidas por generación híbrida" ([Linne_1760]_).
+
+Referencias
+===============
+
+.. [Blunt_1971] Blunt, Wilfrid. 1971. The Compleat Naturalist: A Life of Linnaeus. New York: Viking.
+.. [Linne_1760] Linne, C. 1760. *Disquisitio de sexu plantarum ab Academia Imperiali Scientiarum Petropolitana praemio ornata.* *Amoenitates Academicae* 10: 100-131. Quoted in Rieseberg, L. H., 1997. Hybrid origins of plant species. *Annual Review of Ecology and Systematics* 28: 359-389.
+
+
+/////
+
+Anterior: :doc:`CA114_01` | Siguiente: :doc:`CA114_04`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

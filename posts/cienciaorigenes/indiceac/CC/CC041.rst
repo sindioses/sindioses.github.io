@@ -1,0 +1,37 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC041
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CC041
+.. link: http://www.talkorigins.org/indexcc/CC/CC041.html
+.. date: 2003-09-24
+.. title: CC041: Homo habilis es un taxón inválido
+.. description: Respuesta a la afirmación creacionista «Homo habilis es un taxón inválido»
+.. type: afirmacrea
+
+*Homo habilis* es un taxón inválido. Es una papelera taxonómica donde se han ubicado varios tipos diferentes.
+
+**Fuente:**
+
+Lubenow, Marvin, 1992. *Bones of Contention: A creationist assessment of the human fossils*. Grand Rapids, MI: Baker Books, pp. 157-166.
+
+Respuesta
+===========
+
+1. Al menos dos especies diferentes han sido asignadas a *Homo habilis*, pero eso no vuelve inválido el taxón. OH7, su tipo de espécimen (lo cual define el taxón) difiere claramente de otras especies con nombre. A medida que se encuentren más fósiles, tendremos una mejor idea de los rangos de variación y por lo tanto de qué constituyen distintas especies.
+
+Enlaces
+=========
+
+Foley, Jim, 2003. Homo habilis: is it an invalid taxon? http://www.talkorigins.org/faqs/homs/invalidtaxon.html
+
+
+/////
+
+Anterior: :doc:`CC040` | Siguiente: :doc:`CC050`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

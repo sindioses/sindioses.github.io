@@ -1,0 +1,52 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB400
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB440
+.. link: http://www.talkorigins.org/indexcc/CB/CB440.html
+.. date: 2003-6-25
+.. type: afirmacrea
+.. title: CB440: La evolución no explica la religión
+.. description: Respuesta a la afirmación creacionista «La evolución no explica la religión»
+
+Respuesta
+=========
+1. La religión encaja perfectamente con la teoría evolutiva. Algunos de sus componentes importantes son incluso anteriores a la humanidad. Por ejemplo:
+   
+   * El temor a la muerte tiene obvias ventajas para la supervivencia y probablemente es tan viejo como las emociones. Cuando el intelecto evolucionó al punto que la imaginación se volvió posible, pudimos empezar a pensar en alternativas.
+   * Los humanos y otros primates viven en jerarquías de dominación. Una estructura social con seres "superiores" e "inferiores" es parte de nuestros genes. Siempre podemos considerar que otros animales son seres inferiores, pero a veces un ser superior requiere algo que no sea obvio.
+   * Con el origen del pensamiento simbólico (requerido para el lenguaje), los seres superiores abstracos pudieron ser pensados en términos más específicos.
+   * Con el lenguaje, se pudo hablar de los dioses. Desde allí, la religión se desarrolló por medio de la evolución cultural.
+   * El temor a lo desconocido da más razones para creer en dioses. Tratar con un dios, por medio de ofrendas sacrificiales o plegaria intercesora, le permite a uno tener la impresión de que ejerce alguna influencia sobre sucesos que están más allá del propio control.
+     
+2. Las religiones mismas evolucionan ([Cullen_1998]_; [Gottsch_2001]_).
+   
+3. La afirmación es una :doc:`falacia de incredulidad personal <CA100>`. Aunque no se conozca explicación, eso no significa que no exista ninguna.
+   
+Referencias
+===========
+
+.. [Cullen_1998]    Cullen, B. 1998. Parasite ecology and the evolution of religion. In Heylighten, F. (ed.), *The Evolution of Complexity*. http://pespmc1.vub.ac.be/Papers/Cullen.html
+.. [Gottsch_2001]    Gottsch, J. D. 2001. Mutation, selection, and vertical transmission of theistic memes in religious canons. *J Memetics* 5. http://jom-emit.cfpm.org/2001/vol5/gottsch_jd.html 
+
+Otras lecturas
+==============
+Boyer, Pascal. 2001. *Religion Explained*. New York: Basic Books.
+
+Burkert, Walter. 1996. *Creation of the Sacred*: Tracks of biology in early religions. Cambridge, MA: Harvard University Press. (It concentrates on early cultural aspects of religion but still has some relevance to religion's origin.)
+
+Dunbar, Robin. 2003. Evolution: Five big questions: 5. What's God got to do with it? *New Scientist* 178(2399) (14 June): 38-39.
+
+Konner, Melvin. 2002. *The Tangled Wing: Biological constraints on the human spirit*, New York: Henry Holt and Co. 
+
+
+/////
+
+Anterior: :doc:`CB430` | Siguiente: :doc:`CB501`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

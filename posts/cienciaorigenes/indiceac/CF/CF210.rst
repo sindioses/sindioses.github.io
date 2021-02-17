@@ -1,0 +1,72 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CF210: La datación radiométrica presupone falsamente que la tasa de desintegración radiactiva es constante
+.. description: Respuesta a la afirmación creacionista «La datación radiométrica presupone falsamente que la tasa de desintegración radiactiva es constante»
+.. slug: CF210
+.. link: http://www.talkorigins.org/indexcc/CF/CF210.html
+.. tags: CF, CF200
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-09-11
+
+La datación radiométrica presupone que la tasa de desintegración de los radiosótopos es constante, pero dar esto por sentado no tiene fundamento. Todos los procesos de la naturaleza varían de acuerdo con diferentes factores, y no deberíamos esperar que la radiactividad sea diferente.
+
+**Fuente:**
+
+Morris, Henry M. 1985. *Scientific Creationism*. Green Forest, AR: Master Books, p. 139. 
+
+Respuesta
+=========
+
+1. La constancia de la desintegración radiactiva no es una presuposición, sino que está respaldada por evidencias:
+   
+   * No se ha observado que las tasas de desintegración radiactiva de los nucleidos usados en fechado radiométrico haya variado desde que fue posible medirlas directamente, al menos dentro de los límites de exactitud de las mediciones. Esto ocurre pese a que hubo experimentos que intentaron tambiar las tasas de desintegración ([Emery_1972]_). La extrema presión puede causar que las tasas de captura de electrones en la desintegración (menos del 0,2 por ciento), pero el cambio es tan pequeño que no tiene efectos detectables en las fechas.
+     
+   * Se sabe que las supernovas producen una gran cantidad de isótopos radiactivos ([Nomoto_et_al_1997a]_, [Nomoto_et_al_1997b]_; [Thielemann_et_al_1998]_). Estos isótopos producen rayos gamma con frecuencias y tasas de desintegración que son predecibles de acuerdo con las tasas de desintegración actuales. Esas predicciones se cu mplen para la supernova SN1987A, que se encuentra a 169.000 años luz de distancia ([Knodlseder_2000]_). Por lo tanto, las tasas de desintegración radiactiva no eran significativamente diferentes hace 169.000 años. Las tasas de desintegración actuales son igualmente consistentes con observaciones de los rayos gamma y tasas de desintegración de la supernova SN1991T, que está a 60 millones de años luz de distancia ([Prantzos_1999]_), y con las observaciones de la tasa de desintegración de supernovas a miles de millones de años luz de distancia ([Perlmutter_et_al_1998]_).
+   
+   * El reactor de Oklo era el sitio de una reacción nuclear natural hace 1800 millones de años. Las constantes de estructura fina afectan las tasas de captura de neutrones, las cuales pueden medirse a partir de los productos del reactor. Estas mediciones no muestran cambios detectables en la constante de estructura fina y la captura de neutrones por cerca de dos mil millones de años ([Fujii_et_al_2000]_; [Shlyakter_1976]_).
+     
+2. La descomposición radiactiva a un ritmo lo bastante rápido como para permitir una tierra joven hubiera generado suficiente calor para derretir la Tierra ([Meert_2002]_).
+   
+3. Los distintos radiosótopos se desintegran en distinta forma. Es improbable que una tasa variable hubiera afectado todos los distintos mecanismos del mismo modo y en la misma medida. Aún así, las distintas técnicas de fechado radiométrico arrojan fechas consistentes. Lo que es más, las técnicas de fechado radiométrico son consistentes con otras técnicas de fechado, como la dendrocronología, el fechado de núcleos de hielo y los registros históricos (p. ej. [Renne_et_al_1997]_).
+
+4. Las vidas medias de los radiosótopos pueden predecirse a partir de primeros principios por medio de la mecánica cuántica. Cualquier variación hubiera tenido que provenir de cambios en las constantes fundamentales. De acuerdo con los cálculos que predicen con exactitud las vidas medias, cualquier cambio en las constantes fundamentales afectaría a las tasas de desintegración de distintos elementos de forma desproporcionada, incluso cuando los elementos se desintegraran por el mismo mecanismo ([Greenlees_2000]_; [Krane_1987]_).
+   
+Enlaces
+=======
+
+Matson, Dave E., 1994. How good are those young-earth arguments? http://www.talkorigins.org/faqs/hovind/howgood-c14.html#R2
+
+Referencias
+===========
+
+.. [Emery_1972]    Emery, G. T., 1972. Perturbation of nuclear decay rates. *Annual Review Nuclear Science* 22: 165-202.
+.. [Fujii_et_al_2000]    Fujii, Yasunori et al., 2000. The nuclear interaction at Oklo 2 billion years ago. *Nuclear Physics B* 573: 377-401.
+.. [Greenlees_2000]    Greenlees, Paul, 2000. Theory of alpha decay. http://www.phys.jyu.fi/research/gamma/publications/ptgthesis/node26.html
+.. [Knodlseder_2000]    Knödlseder, J., 2000. Constraints on stellar yields and Sne from gamma-ray line observations. *New Astronony Reviews* 44: 315-320. http://xxx.lanl.gov/abs/astro-ph/9912131
+.. [Krane_1987]    Krane, Kenneth S., 1987. *Introductory Nuclear Physics*. New York: Wiley.
+.. [Meert_2002]    Meert, Joe, 2002. Were Adam and Eve toast? http://gondwanaresearch.com/hp/adam.htm
+.. [Nomoto_et_al_1997a]    Nomoto, K. et al., 1997a. Nucleosynthesis in type 1A supernovae. http://xxx.lanl.gov/abs/astro-ph/9706025
+.. [Nomoto_et_al_1997b]    Nomoto, K. et al., 1997b. Nucleosynthesis in type II supernovae. http://xxx.lanl.gov/abs/astro-ph/9706024
+.. [Perlmutter_et_al_1998]    Perlmutter, S. et al., 1998. Discovery of a supernova explosion at half the age of the universe and its cosmological implications. *Nature* 391: 51-54. http://xxx.lanl.gov/abs/astro-ph/9712212
+.. [Prantzos_1999]    Prantzos, N., 1999. Gamma-ray line astrophysics and stellar nucleosynthesis: perspectives for INTEGRAL. http://xxx.lanl.gov/abs/astro-ph/9901373
+.. [Renne_et_al_1997]    Renne, P. R., W. D. Sharp, A. L. Deino, G. Orsi and L. Civetta, 1997. 40Ar/39Ar dating into the historical realm: Calibration against Pliny the Younger. *Science* 277: 1279-1280.
+.. [Shlyakter_1976]    Shlyakhter, A. I., 1976. Direct test of the constancy of fundamental nuclear constants. *Nature* 264: 340. http://sdg.lcs.mit.edu/~ilya_shl/alex/76a_oklo_fundamental_nuclear_constants.pdf
+.. [Thielemann_et_al_1998]    Thielemann, F.-K. et al., 1998. Nucleosynthesis basics and applications to supernovae. En: *Nuclear and Particle Astrophysics*, J. Hirsch y D. Page, eds., Cambridge University Press, p. 27. http://xxx.lanl.gov/abs/astro-ph/9802077 
+
+Otras lecturas
+==============
+
+Johnson, Bill, 1993. How to change nuclear decay rates. http://math.ucr.edu/home/baez/physics/ParticleAndNuclear/decay_rates.html
+
+		
+/////
+
+Anterior: :doc:`CF201` | Siguiente: :doc:`CF220`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

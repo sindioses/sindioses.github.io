@@ -1,0 +1,34 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA200
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA240
+.. link: http://talkorigins.org/indexcc/CA/CA240.html
+.. date: 2001-02-18 02:00:00+00:00
+.. title: CA240: La navaja de Occam dice que la explicación más simple (creación) es la preferible
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La navaja de Occam dice que la explicación más simple (creación) es la preferible»
+
+La navaja de Occam dice que la explicación más simple es la preferible. Esa explicación es la creación.
+
+**Fuente:**
+
+Morris, John D., 1999 (15 Sep., 10:00-11:00 PDT), "Forum", KQED radio.
+
+Respuesta
+===========
+
+1. La Navaja de Occam no dice que la explicación más simple es la que debe preferirse. Dice que no hay que multiplicar las entidades más allá de lo necesario (*non sunt multiplicanda entia praeter necessitatem*). En otras palabras, no deberían invocarse nuevos principios si los principios existentes ya proporcionan una explicación. Sin embargo, si la explicación más simple no cubren todos los detalles, entonces son necesarias "entidades" adicionales.
+
+2. El creacionismo no es una explicación. Una explicación dice por qué algo es de una cierta manera en lugar de otra manera alternativa. Pero el creacionismo no excluye ninguna alternativa, dado que un Dios creador podría haber hecho cualquier cosa. Debido a esto, el creacionismo no agrega nada a ningún argumento. Por lo tanto, el creacionismo es una entidad innecesaria y, de acuerdo con la Navaja de Occam, debería eliminarse.
+
+
+/////
+
+Anterior: :doc:`CA230_1` | Siguiente: :doc:`CA250`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

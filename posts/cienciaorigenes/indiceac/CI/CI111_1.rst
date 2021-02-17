@@ -1,0 +1,56 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CI, CI100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CI111_1
+.. link: http://www.talkorigins.org/indexcc/CI/CI111_1.html
+.. date: 2003-7-8
+.. title: CI111.1: El criterio de información especificada no produce falsos positivos
+.. description: Respuesta a la afirmación creacionista «El criterio de información especificada no produce falsos positivos»
+.. type: afirmacrea
+
+La :doc:`complejidad especificada <CI110>` es un criterio fiable para detectar diseño. El criterio de especificación de complejidad evita con éxito los falsos positivos; en otras palabras, cuando atribuye diseño, lo hace correctamente.
+
+**Fuente:**
+
+Dembski, William A., 2002. *No Free Lunch*, Lanham, MD: Rowman & Littlefield, pp. 24-25.
+
+Respuesta
+=============
+
+1. La especificación de complejidad permite falsos positivos porque no considera la combinación de regularidad y azar actuando juntos, y no considera causas desconocidas.
+
+2. Ejemplos específicos de falsos positivos son estructuras :doc:`irreduciblemente complejas <CB200>` para las cuales se encontraron orígenes evolutivos plausibles.
+
+   Otro falso positivo son los canales de Marte. Percival Lowell vio que muchos canales marcianos se encontraban en toda una serie de puntos. Las probabilidades de que esto ocurriera por azar, calculó, eran menores a 1 en :math:`1.6 \times 10^260`, lo que probaba que Marte debía estar habitado ([Lowell_1907]_). Ahora sabemos que los canales eran inlusiones ópticas causadas por la mente humana conectando características poco claras.
+
+3. Dembski mismo admitió la posibilidad de error en el mismo error en el que aseguraba confiabilidad:
+
+    Puede pasar que no sepamos bastante para determinar todas las hipótesis aleatorias relevantes. Por otro lado, podríamos pensar que conocemos las hipótesis aleatorias relevantes pero luego descubriéramos que dejamos pasar una crucial. En un caso una inferencia de diseño ni siquiera podría iniciarse; en el otro, podría estar equivocada. Pero esos son los riesgos de la investigación empírica, la cual es falible por naturaleza. Es mucho peor imponer un requisito *a priori* de que todos los huecos en nuestro conocimiento deben ser llenados completamente por causas no inteligentes. ([Dembski_2002]_, 123)
+
+   Lo que Dembski no considera es que su criterio de especificación de complejidad impone un requerimiento *a priori* de que todos los huecos deben ser llenados por causas sobrenaturales.
+
+   Dembski también dijo: "Por otro lado, si terminamos atrapando cosas que no están diseñadas, el criterio sería inútil" ([Dembski_1999]_, 142).
+
+Referencias
+==============
+
+.. [Dembski_1999]    Dembski, William A., 1999. *Intelligent Design: The bridge between science and theology*. Downers Grove, Ill.: InterVarsity Press.
+.. [Dembski_2002]    Dembski, William A., 2002. (v. arriba)
+.. [Lowell_1907]    Lowell, Percival (firmado como "A Mathematician"), 26 de octubre de 1907. The evidence of life on Mars: A simple mathematical proof that the canals are not due to natural causes. *Scientific American*, reimpreso en Becker, Barbara J., 2003. History 135C: Exploring the Cosmos, http://eee.uci.edu/clients/bjbecker/ExploringtheCosmos/week10b.html
+
+Otras lecturas
+===================
+
+Ratzsch, Del, 2001. *Nature, Design and Science*. Albany: State University of New York Press. (El apéndice se refiere a los falsos positivos y otros problemas con el filtro explicativo de Dembski.)
+
+
+/////
+
+Anterior: :doc:`CI111` | Siguiente: :doc:`CI111_2`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,49 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA200
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2005-11-02 02:00:00+00:00
+.. type: afirmacrea
+.. title: CA212: La evolución está definida de forma ambigua
+.. description: Respuesta a la afirmación creacionista «La evolución está definida de forma ambigua»
+.. slug: CA212
+.. link: http://www.talkorigins.org/indexcc/CA/CA212.html
+
+La evolución está definida de forma ambigua, y las afirmaciones de que es un hecho se basan en esa ambigüedad. Normalmente se la define como "cambio en las características heredables a lo largo del tiempo" (habitualmente expresado como "cambio en las frecuencias de los alelos"), lo que cualquiera acepta como un hecho, pero eso no significa que la macroevolución o la ascendencia común sean hechos.
+
+**Fuente:**
+
+POSH (Parents for Objective Science and History), n.d. Biology text review. http://posh.roundearth.net/biology.htm
+
+Respuesta
+===========
+
+1. El lenguaje tiende a ser ambiguo en ocasiones (p.ej. la entrada de la palabra "set" cubre más de treinta y dos páginas en el Diccionario Oxford de Inglés original). La palabra "evolución" es un caso desafortunado de esa ambigüedad; se usa para el hecho del cambio biológico a lo largo del tiempo; como abreviatura de la teoría de la evolución, que abarca un espectro mucho más amplio de observaciones e ideas, y como sinónimo de cambio en general, en cualquier área. Esta ambiguedad habitualmente se puede resolver por el contexto en que se usa la palabra; al menos, pueden hacerlo quienes saben algo de evolución biológica.
+
+   Mezclar contextos es, en efecto, inadecuado, y el hecho del cambio en la frecuencia de los alelos, por sí mismo, no establece la teoría de la evolución.
+
+2. La firmeza de la teoría de la evolución no reside en su ambigüedad. Por el contrario, se escriben informes científicos para que otros científicos puedan saber de qué están hablando los autores; deben ser tan poco ambiguos como sea posible. Las pruebas son abrumadoras: la evolución no es :doc:`sólo una teoría <CA201>`; aspectos importantes de ella, como la ascendencia común, también son hechos.
+
+3. Los creacionistas a veces usan la ambigüedad en su propio beneficio, por ejemplo tratando de incluir el cambio cosmológico como parte de la teoría de la evolución ([Hovind_n_d]_). Esto es ignorancia total, deshonestidad deliberada, o ambas.
+
+Referencias
+==============
+
+.. [Hovind_n_d]    Hovind, Kent. n.d. Dr. Hovind's $250,000 offer. http://www.drdino.com/seeArticle.php?artid=67
+
+Otras lecturas
+=================
+
+Wilkins, John. 2001. Defining evolution. *Reports of the National Center for Science Education* 21(1-2): 29-37. http://www.ncseweb.org/resources/rncse_content/vol21/9925_defining_evolution_12_30_1899.asp
+
+Gould, Stephen J. 2002. "What does the dreaded 'E' word mean anyway?" En: *I Have Landed*, New York: Harmony, pp. 241-256.
+
+/////
+
+Anterior: :doc:`CA211_1` | Siguiente: :doc:`CA215`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

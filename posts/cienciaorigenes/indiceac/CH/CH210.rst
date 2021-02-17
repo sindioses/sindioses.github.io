@@ -1,0 +1,79 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH200
+.. author: Mark Isaak, traducción de Paulina Madariaga
+.. nocomments: True
+.. slug: CH210
+.. link: http://talkorigins.org/indexcc/CH/CH210.html
+.. date: 2004-10-02 02:00:00+00:00
+.. type: afirmacrea
+.. title: CH210: La Tierra tiene entre 6.000 y 10.000 años de edad
+.. description: Respuesta a la afirmación creacionista «La Tierra tiene entre 6.000 y 10.000 años de edad»
+
+La Tierra es relativamente joven, alrededor de 10.000 años de edad o incluso menos.
+
+**Fuente**
+===========
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, p. 158.
+
+Respuesta
+===========
+
+1. Las dataciones radiométricas demuestran que la Tierra tiene 4.5 billones de años de edad (Ver :doc:`CD010` respecto a la veracidad de la datación radiométrica).
+
+2. Si la Tierra es vieja, entonces los isótopos radioactivos con una vida media corta ya se habrían desintegrado. Eso es lo que encontramos. En la Tierra encontramos isótopos con vidas medias superiores a ochenta millones de años; no sucede así con isótopos de vidas medias más cortas, con la sola excepción de aquellos generados por los proceso naturales actuales ([Dalrymple_1991]_, p. 376-378).
+
+3. Los depósitos de loess (depósitos de material geológico sedimentario eólico) ubicados en China tienen 300 metros de espesor. Nos entregan un completo registro climático que data de 7.2 millones de años. Este registro es consistente con la magnetoestratigrafia y el hábitat tipo que se infiere de los fósiles ([Ding_et_al_n_d]_; [Russeau_y_Wu_1997]_; [Sun_et_al_1997]_).
+
+4. Las varvas son capas anuales de sedimento que se dan en lagos grandes. Son claras de medir, cubren millones de años y tienen correlación con varios otros mecanismos de datación.
+
+   - En áreas estacionales, el índice de sedimentación varía a lo largo del año, por lo que los sedimentos frecuentemente muestran capas anuales (varvas) que se distinguen por su textura y/o composición. Podemos tener certeza de que las capas son estacionales, porque vemos el mismo tipo de capas en la actualidad. Aunque no fueran estacionales, la fineza de los sedimentos es tal que cada capa requeriría, al menos, de varios días para poder formarse. Algunas formaciones tienen millones de capas, tal como el registro de la varva ubicada en el Lago Baikal con cinco millones de capas anuales ([Williams_et_al_1997]_) y las 20.000.000 de capas en la formación del Río Verde. A lo menos, tendría que haber tomado cientos de miles de años para que pudieran formarse.
+
+   - Las dataciones obtenidas al contar las capas anuales de varvas coinciden con aquellas obtenidas por la datación radiométrica. Una formación de varva, que cubre 45.000 años, fue utilizada para calibrar la datación del carbono-14 usando hojas, ramitas y partes de insectos de origen terrestre que también aparecieron en los sedimentos. Las varvas eran fáciles de contar, porque incluían un eflorecimiento anual o "bloom" de algas diatomeas ([Kitagawa_y_van_der_Plicht_1998]_).
+
+   - Las varvas también registran cambios climáticos, dado que el clima afecta la cantidad de sedimentos. Los ciclos orbitales afectan el clima y se sabe que ocurren en períodos de 400.000-600.000-un millón de años (los llamados "ciclos Milankovitch"). Los ciclos climáticos de estos períodos aparecen en los registros de las varvas. Por ejemplo, el Lago Baikal contiene capas anuales de hace doce millones de años hasta la actualidad. Estos sedimentos contienen cambios periódicos que coinciden con los ciclos orbitales ([Kashiwaya_et_al_2001]_).
+
+5. La abundancia y la distribución del helio varía de forma predecible a medida que el sol envejece, convirtiendo el hidrógeno de su núcleo en helio. Estos parámetros también afectan la manera en que las ondas de sonido se mueven a través del sol. Por consiguiente, uno podría estimar la edad del sol a partir de la información solar sísimca. Ese análisis estima la edad del sol en 4.66 billones de años, con un margen de error del cuatro por ciento ([Dziembowski_et_al_1999]_).
+
+Enlaces
+========
+
+Marden, J. H., n.d. Evolution of insect flight: a stepwise model based on weight-supported locomotion on the surface of water. http://www.bio.psu.edu/People/Faculty/Marden/project2.html
+
+Referencias
+==============
+
+.. [Dalrymple_1991] Dalrymple, G. Brent, 1991. *The Age of the Earth*. Stanford University Press.
+
+.. [Ding_et_al_n_d] Ding, Z. L. et al., n.d. Rearrangement of atmospheric circulation at about 2.6 Ma over Northern China: Records of evidence from grain size loess-red clay sequences. http://fadr.msu.ru/inqua/nl-15/llz-abs.html#11
+
+.. [Dziembowski_et_al_1999] Dziembowski, W.A., G. Fiorentini, B. Ricci and R. Sienkiewicz, 1999. Helioseismology and the solar age. *Astronomy and Astrophysics* 343: 990-996. http://aa.springer.de/papers/9343003/2300990/small.htm
+
+.. [Sun_et_al_1997] Sun, D., J. Shaw, Z. An, M. Cheng and L. Yue, 1998. Magnetostratigraphy and paleoclimatic interpretation of a continuous 7.2Ma Late Cenozoic eolian sediments from the Chinese Loess Plateau. *Geophysical Research Letters* 25: 85-88. http://www.agu.org/pubs/gap/DonghuaiS/DonghuaiS.html
+
+.. [Kashiwaya_et_al_2001] Kashiwaya, Kenji, S. Ochiai, H. Sakai and T. Kawai, 2001. Orbit-related long-term climate cycles revealed in a 12-Myr continental record from Lake Baikal. *Nature* 410: 71-74.
+
+.. [Kitagawa_y_van_der_Plicht_1998] Kitagawa, H. and J. van der Plicht, 1998. Atmospheric radiocarbon calibration to 45,000 yr B.P.: Late glacial fluctuations and cosmogenic isotope production. *Science* 279: 1187-1190. Ver también Kitagawa, H. and J. van der Plicht, 2000. PE-04. A 45.000 year varve chronology from Japan. http://www.cio.phys.rug.nl/HTML-docs/Verslag/97/PE-04.htm
+
+.. [Russeau_y_Wu_1997] Russeau, D.-.D. and Wu, N., 1997. A new molluscan record of the monsoon variability over the past 130,000 yr in the Luochuan loess sequence, China. *Geology* 25(3): 275-278.
+
+.. [Williams_et_al_1997] Williams, D. F., J. Peck, E. B. Karabanov, A. A. Prokopenko, V. Kravchinsky, J. King, and M. I. Kuzmin, 1997. Lake Baikal record of continental climate response to orbital insolation during the past 5 million years. *Science* 278: 1114-1117.
+
+Lecturas recomendadas
+======================
+
+Dalrymple, G. Brent, 1991. *The Age of the Earth*, Stanford, CA: Stanford University Press.
+
+Strahler, Arthur N., 1987. *Science and Earth History*, Buffalo, NY: Prometheus Books.
+
+Young, Davis A., 1988. *Christianity and the Age of the Earth*. Thousand Oaks, CA: Artisan Sales.
+
+/////
+
+Anterior: :doc:`CH200` | Siguiente: :doc:`CH220`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

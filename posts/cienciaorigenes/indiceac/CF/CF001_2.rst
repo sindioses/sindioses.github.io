@@ -1,0 +1,42 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CF, CF000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CF001_2
+.. link: http://talkorigins.org/indexcc/CF/CF001_2.html
+.. date: 2003-6-4
+.. type: afirmacrea
+.. title: CF001.2: La segunda ley de la termodinámica, y la tendencia al desorden, es universal
+.. description: Respuesta a la afirmación creacionista «La segunda ley de la termodinámica, y la tendencia al desorden, es universal»
+
+El universo entero es un sistema cerrado, de modo que la segunda ley de la termodinámica dicta que dentro de él, las cosas tienden a desbaratarse. La segunda ley se aplica universalmente.
+
+**Fuente:**
+
+Wallace, Timothy, 2002. Five major *evolutionist* misconceptions about evolution. http://www.trueorigins.org/isakrbtl.asp
+
+Respuesta
+===========
+
+1. :doc:`La segunda ley de la termodinámica <CF001>` se aplica universalmente, pero, como todo el mundo puede ver, eso no significa que todo, en todas partes, siempre se está desintegrando. La segunda ley permite disminuciones locales de la entropía compensadas por incrementos en otra parte. La segunda ley no dice que el orden a partir del desorden es imposible; de hecho, como cualquiera puede ver, el orden a partir del desorden ocurre todo el tiempo.
+
+2. La entropía máxima de un sistema cerrado de volumen fijo es constante, pero dado que el universo se está expandiendo, su máxima entropía siempre se incrementa, generando más oportunidades para que se produzca orden ([Stenger_1995]_, 228).
+
+3. El desorden y la entropía no son lo mismo ([Styer_2000]_). La segunda ley de la termodinámica trata de la entropía. No hay leyes sobre que las cosas tiendan a "desbaratarse".
+
+Referencias
+=============
+
+.. [Stenger_1995]    Stenger, Victor J., 1995. *The Unconscious Quantum*, Amherst, NY: Prometheus.
+.. [Styer_2000]    Styer, Daniel F. 2000. Insight into entropy. *American Journal of Physics* 68(12): 1090-1096.
+
+
+/////
+
+Anterior: :doc:`CF001_1` | Siguiente: :doc:`CF001_3`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

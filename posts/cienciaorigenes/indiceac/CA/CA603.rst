@@ -1,0 +1,45 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA600
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA603
+.. link: http://www.talkorigins.org/indexcc/CA/CA603.html
+.. date: 2004-02-16 02:00:00+00:00
+.. title: CA603: La evolución naturalista excluye todos los dioses salvo el dios deísta
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La evolución naturalista excluye todos los dioses salvo el dios deísta»
+
+«La evolución naturalista es consistente con la existencia de "Dios" sólo si por ese término entendemos no más que una primera causa que se retira de toda actividad posterior luego de establecer las leyes de la naturaleza y poner el mecanismo de ésta en movimiento.»
+
+**Fuente:**
+
+Johnson, Phillip E. 1990. Evolution as Dogma: The Establishment of Naturalism. *First Things* (Oct.), 15-22. http://www.arn.org/docs/johnson/pjdogma1.htm
+
+Respuesta
+============
+
+1. Esta afirmación se aplica lógicamente no sólo a la evolución sino a todo a lo que el naturalismo se aplica, incluyendo la electricidad, la ecología, la gravedad, el clima, la óptica y prácticamente todo lo demás. Johnson efectivamente establece una falsa dicotomía de rechazar a toda la naturaleza o la totalidad de Dios.
+
+   La afirmación ha sido rechazada por cristianos serios (y por miembros devotos de otras religiones) dado que la evolución se propuso por primera vez. Creen que Dios y la naturaleza no son incompatibles, que Dios puede trabajar en formas consistentes con la evolución. Por ejemplo, algunos creen que Dios proporciona fuerza e inspiración en un nivel personal.
+
+2. El punto de vista de Johnson sobre Dios efectivamente rechaza a Dios. Dice que lo sobrenatural es un aspecto esencial de Dios: dado que nada sobrenatural está sucediendo en torno a mí, Dios no es parte de mi vida. Si yo adoptara el punto de vista de Johnson, me consideraría ateo.
+
+3. Un dios que está activo de forma sobrenatural llama la atención sobre el problema del mal. Significa que Dios creó el sufrimiento y que podría eliminarlo si quisiera. A través de su inacción, Dios se vuelve responsable del mal.
+
+Otras lecturas
+===============
+
+Pennock, Robert T. 1996. Naturalism, evidence, and creationism: The case of Phillip Johnson. En: *Intelligent Design Creationism and Its Critics*, ed. R. T. Pennock, MIT Press, 2002. Orig. pub. in *Biology and Philosphy* 11(4): 543-549.
+
+Ruse, Michael. 2001. *Can a Darwinian be a Christian?* Cambridge University Press.
+
+
+/////
+
+Anterior: :doc:`CA602_2` | Siguiente: :doc:`CA610`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

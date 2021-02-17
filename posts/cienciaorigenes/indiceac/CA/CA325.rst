@@ -1,0 +1,62 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA300
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA325
+.. link: http://talkorigins.org/indexcc/CA/CA325.html
+.. date: 2004-01-13 02:00:00+00:00
+.. title: CA325: A los creacionistas se les impide publicar en publicaciones de ciencia
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «A los creacionistas se les impide publicar en publicaciones de ciencia»
+
+Los creacionistas no pueden lograr que sus puntos de vista sean aceptados por la comunidad científica porque se les impide publicar en publicaciones científicas convencionales.
+
+**Fuente:**
+
+Morris, Henry M. 1998. Bigotry in science. *Back To Genesis* 114a (Junio). http://www.icr.org/index.php?module=articles&action=view&ID=840
+
+Respuesta
+===========
+
+1. Las prioridades del creacionismo son la política y la evangelización religiosa. La ciencia en principio no es muy importante para los creacionistas. La principal razón por la que no se los publica en publicaciones científicas respetables es que no intentan publicar allí. En una encuesta de editores de sesenta y cuatro publicaciones, sólo dieciséis de una estimación de 135.000 publicaciones podrían describirse como creacionistas ([Scott_y_Cole_1985]_).
+
+   En el juicio *McLean v. Arkansas Board of Education* contra el creacionismo, los creacionistas se quejaron ante el juez porque las publicaciones científicas se negaban a considerar sus artículos, pero no pudieron presentar ningún artículo que les hubieran rechazado.
+
+2. Los creacionistas tienen la libertad de publicar en otros foros, como en libros y sus propias publicaciones. Esos foros son tan respetables como sus autores y editores lo sean. Nótese que las obras principales de Darwin fueron publicadas como libros.
+
+3. Los creacionistas son publicados en revistas científicas serias que realizan evaluación por pares, cuando hacen ciencia de verdad. Por ejemplo:
+
+   * Steven A. Austin, Gordon W. Franz, y Eric G. Frost, "Amos's Earthquake: An Extraordinary Middle East Seismic Event of 750 B.C." (*International Geology Review* 42: 657, 2000)
+   * Leonard Brand sobre la interpretación como deposiciones del Diluvio de la piedra arenisca en Coconino (*Palaeogeography, Palaeoclimatology, Palaeoecology* 28: 25-38, 1979; Geology 19: 1201-1204, 1991; *Journal of Paleontology* 70: 1004-1011, 1996)
+   * Harold G. Coffin sobre los entornos de deposición de los árboles fósiles (*Journal of Paleontology* 50: 539-543, 1976; *Geology* 11: 298-299, 1983)
+   * Robert Gentry sobre los halos de polonio (*American Journal of Physics, Proceedings* 33: 878A, 1965; *Science* 184: 62-64, 1974; *Science* 194: 315-318, 1976)
+   * Grant Lambert sobre las tasas de error en el ADN (*Journal of Theoretical Biology* 107: 387-403, 1984)
+   * Jan Peckzis sobre las estimaciones de la masa de los dinosaurios (*Journal of Theoretical Biology* 132: 509-510, 1988; *Journal of Paleontology* 63: 947-950, 1989; *Journal of Vertebrate Paleontology* 14: 520-533, 1995)
+   * Sigfried Scherer sobre los patos como un tipo único (*Journal für Ornithologie* 123: 357-380, 1982; *Zeitschrift für zoologische Systematik und Evolutionsforschung* 24: 1-19, 1986)
+
+   Además, muchos creacionistas han publicado artículos de ciencia no relacionados con el creacionismo.
+
+4. A los propios científicos se les impide publicar en publicaciones evaluadas por pares cuando su ciencia no está a la altura. El proceso de revisión por pares impide que se publiquen muchos trabajos de calidad inferior, incluso de no creacionistas como yo mismo. (El proceso, por supuesto, es imperfecto y produce un área fronteriza notable, así que algunos artículos bastante buenos se rechazan y albunos bastante malos se aceptan. En conjunto, sin embargo, mantiene alta la calidad.) Los creacionistas no enfrentan obstáculos que los científicos tradicionales no enfrenten ellos mismos.
+
+5. Los creacionistas les impiden a otros que publiquen opiniones críticas en sus publicaciones creacionistas. A Glenn Morton, por ejemplo, le ha rechazado informes el *Creation Research Society Quarterly* por violar su posición de que el Diluvio debe ser global y por criticar la mala geología de Carl Froede ([Morton_1998]_).
+
+Enlaces
+=========
+
+Flank, Lenny. 1995. Does science discriminate against creationists? http://www.geocities.com/CapeCanaveral/Hangar/2437/discrim.htm
+
+Referencias
+===============
+
+.. [Morton_1998]    Morton, Glenn. 1998, The letter the *Creation Research Society Quarterly* didn't want you to read. http://home.entouch.net/dmd/letter.htm
+.. [Scott_y_Cole_1985]    Scott, E. C. and H. P. Cole. 1985. The elusive scientific basis of creation "science", *Quarterly Review of Biology* 60: 21-30.
+
+/////
+
+Anterior: :doc:`CA321_1` | Siguiente: :doc:`CA340`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

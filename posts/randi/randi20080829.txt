@@ -1,0 +1,306 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. author: James Randi, traducción de Lucía Sierra
+.. title: ¡Mentir no es pecado!. Tapado por las risas. Más Mitchell. Un engaño delicioso. Una petición. Eludida la prohibición de los bares de oxígeno. Desde Canadá. Editorial textual. Se necesitan datos. Becas premio del 2008. Las islas encantadas. Signos de progreso. Para cerrar...
+.. date: 2008-08-29 00:00:00
+.. type: randi
+.. category: Traducciones de James Randi
+
+
+.. |tit| replace:: ¡Mentir no es pecado! — Tapado por las risas — Más Mitchell — Un engaño delicioso — Una petición — Eludida la prohibición de los bares de oxígeno — Desde Canadá — Editorial textual — Se necesitan datos — Becas premio del 2008 — Las islas encantadas — Signos de progreso — Para cerrar...
+
+.. |autor| replace:: **Lucía Sierra**
+
+¡Mentir no es pecado!
+.....................
+
+.. figure:: http://www.randi.org/images/commentary/200808/10.jpg
+   :alt:
+   :figwidth: 224
+
+   Según Mike...
+
+Nos llegan noticias del lector Chris Wayne en Brisbane, Australia, avisándonos del siguiente artículo.
+
+La Australian Christian Church (ACC) comprende a un grupo de Iglesias Pentecostales anteriormente conocidas como las Assemblies of God in Australia [Asambleas de Dios en Australia]. Se formó en 1937 y adoptó el nuevo nombre en el 2007. En la actualidad consta de alrededor de 1120 iglesias con más de 215000 miembros, lo que la convierte en el mayor movimiento Pentecostal en Australia. Una figura prominente en este grupo es Michael Guglielmucci, cuyos padres establecieron la Edge Church International, una Iglesia parte de la ACC, en O'Halloran Hill, en los suburbios del sur de Adelaida. Ahora es pastor en una de las mayores iglesias de juventud australianas: Planetshakers.
+
+Cuando recientemente me llegaron noticias sobre Guglielmucci Jr., me pareció que había descartado uno de los Diez Mandamientos - hasta que volví a consultarlos, a fin de refrescar mi memoria sobre Las Reglas. Veréis: este hombre lleva dos años diciendo que tiene cáncer terminal, pero, aparentemente, se trataba de una asquerosa mentira. Pues bien, yo estaba seguro de que existía un Mandamiento contra la mentira, *pero resulta que no*, ¡con lo que Mike está libre del infierno! De plena conformidad. No ha creado ningún ídolo, que se sepa, estoy seguro que siempre ha observado los domingos (o los sábados, o lo que sea), honró a su padre y a su madre y nunca mató a nadie ni robó. No ha cometido adulterio, o codiciado a la mujer de su prójimo, o la casa de éste. ¡Está salvado! Hombre, existe el octavo Mandamiento, que condena a los que levantan falso testimonio contra el mismo prójimo cuyas casas y mujeres no le interesan a uno, pero para eso habría que estar ante un jurado - creo - y hablarles del prójimo a sus miembros. ¿O es que me falta sensibilidad a estas sutilezas?
+
+¡Vaya, puee que esté sobre la pista de algo importante! Inspirado y fortalecido por mis descubrimientos, volví a recorrer la lista de los diez noes rotundos, y no encontré nada sobre violaciones, esclavitud, graffiti, exceso de riego del jardín, o manipulación del mercado de valores. Amigos, ¡pensad en los horizontes que se abren ante nosotros! ¡Las posibilidades son casi infinitas!
+
+Pero volvamos a Mike. Como parte de su charada, no sólo le dijo a su audiencia que iba camino de la tumba, sino que además apeló a sus corazoncitos religiosos con un éxito musical, *"Healer"* ["Sanador"], que cantó en televisión con unas gafas de oxígeno en la nariz. Como resultado de todos estos gestos histriónicos, su canción fue incluida en el último album promocional religioso de Sydney, y apareció directamente ¡en el número 2 de las listas de éxitos australianas! Este hombre debería llevarse el premio *a las agallas* [#chutzpah]_, pero no sabría cómo, puesto que no aparece por ninguna parte en la Santa Biblia.
+
+Nos dicen que Guglielmucci Jr. está buscando "ayuda profesional" en la actualidad. De un sacerdote, sin duda.
+
+
+Tapado por las risas
+....................
+
+Volviendo a examinar los ridículos anuncios del ADE 651 "Advanced Detection Equipment" [Equipo de Detección Avanzado] que cité brevemente `la pasada semana <randi20080822.html#el-detector-ade-561trade>`__ - encontré estos reclamos adicionales, creados para asegurar a los tontos que están ante un milagro de la tecnología. Por ejemplo:
+
+ Al contrario que los Rastreadores, que necesitan que se les suministren señuelos, el ADE 561™ no utiliza ningún elemento añadido, lo cual reduce los costes operativos del equipo. Dicho equipo tampoco necesita contratos de mantenimiento, puesto que es el operador quien se encarga del mismo, y tiene una garantía de fábrica de tres años sobre piezas. Como además funciona de forma electro estática *[sic]*, no es necesario cargar o mantener baterías o fuentes de alimentación convencionales.
+
+.. figure:: http://www.randi.org/images/commentary/200808/swivel.jpg
+   :alt:
+   :figwidth: 278
+   :align: center
+
+   BISAGRA
+
+Ahora pensad: si os ofreciesen una simple bisagra con tres años de garantía, ¿atraería vuestra atención de algún modo? El mantenimiento de una bisagra también "estaría a cargo del operador", no necesitaría "baterías o fuentes de alimentación" - "convencionales o no", ni tampoco "mantenimiento constante". *¡Ese es el nivel de complicación del ADE 561™, amigos!* Es simplemente *una bisagra, nada más*, y el único mantenimiento que puedo concebir sería una gota de aceite aplicada cada dos o tres años.
+
+Un ejemplo más de lo estúpida y retorcida que puede llegar a ser esta gente:
+
+ Programando las tarjetas de detección para que tengan como objetivo una sustancia en concreto, mediante el proceso registrado de igualación de cargas iónicas y estructura de las sustancias, el ADE 561™ "se saltará" cualquier intento conocido de camuflar la sustancia programada. Se le ha visto penetrar plomo en una instalación nuclear, metal, cemento, y otros materiales con los que se trataba de bloquear la atracción.
+
+Vale. Esto sugiere que si tuviéramos que poner a prueba los poderes del maravilloso ADE 561™, podríamos intentar utilizar para la detección muestras con un revestimiento muy fuerte, con el fin de dificultar la prueba. Se me ocurre envolver la muestra en láminas de plomo, sellar esto en acero de seguridad y recubrir de cemento el bloque resultante. En fin, no preguntaré qué "instalación nuclear" permitió la entrada a estos chalados para probar su juguete, pero lo que sí haría, para ilustrar propiamente lo pretenciosas, falsas y ridículas que son estas alegaciones, es ofrecerles el premio de la JREF:
+
+ 1. El operador/la operadora del dispositivo - al que en adelante nos referiremos como "Operador" - debe ser elegido por ATSC (UK) Ltd. - en adelante "ATSC" - y debe ser competente, tener experiencia y ser capaz de manejar el Detector ADE 561™. Este hecho deberá ser constatado de antemano por todas las partes implicadas, para lo cual el operador deberá localizar una sustancia u objeto - a la que nos referiremos como "Objetivo" - entre aquéllas a las que el ADE 561™ es supuestamente sensible. El objetico concreto será elegido por la ATSC, y la prueba se llevará a cabo "en abierto", sin ocultar las muestras en absoluto - a menos que la ATSC exija que se oculten.
+
+ 2. La prueba arriba mencionada deberá verificar que el Operador es capaz de detectar el Objetivo seleccionado, con el grado de precisión que se haya acordado como significativo.
+
+ 3. A continuación, se dispondrán al azar (por medio de una secuencia de números generada aleatoriamente) diez Objetivos en el área de pruebas, sin que nadie los vea salvo una tercera persona, que abandonará el área tras colocarlos en su sitio. De esta manera, la prueba será a doble ciego. Todos los Objetivos serán *simples bolsas de papel* de idéntico peso y tamaño, de las cuales nueve serán objetivos "de referencia" (sustancias inertes escogidas por la ATSC como incapaces de provocar una reacción en el Detector ADE 561™).
+
+ 4. Si el Operador identifica el Objetivo correcto cinco veces durante las diez pruebas, el representante de la James Randi Educational Foundation que se halle presente certificará inmediatamente que la prueba ha sido superada con éxito, y en las siguientes 48 horas se transferirá un millón de dólares a la ATSC.
+
+He *enviado esta sugerencia de protocolo* a la dirección indicada para "ATSC (UK) Ltd". Imagino que no contestarán, no harán declaración alguna e ignorarán esta oferta de un millón de dólares a cambio de tener éxito en una prueba que no deberían tardar más de una hora en completar. *¿Alguno de mis lectores dejaría de responder a una oferta de este tipo, si sólo tuvieran que pasar una simple prueba?*
+
+Una advertencia más: “ATSC (UK) Ltd” es la compañía que, según se indica, fabrica y vende este dispositivo. Una concienzuda búsqueda en Google no ofrece ninguna explicación sobre qué podrían representar las siglas “ATCS”, aunque el acrónimo se utiliza generalmente para representar al “Advanced Television Systems Committee” [Comité de Sistemas de Televisión Avanzados], una organización internacional que establece los niveles de calidad para la televisión, a nivel mundial. No os engañéis pensando que la “ATSC (UK) Ltd” tiene *conexión alguna* con el “Advanced Television Systems Committee”. En Internet veréis muchas legítimas menciones de un “ATSC Video/Audio Decoder” [Decodificador de video/audio ATSC], que no tiene *nada que ver* con quienes fabrican y venden el ADE 651™. Leeros un poco sus textos, daos cuenta de las veces que se utiliza el supuesto acrónimo “ATSC” y os preguntaréis - como yo lo hice - si los creadores de esta inútil varita de zahorí estarán intentando aparentar alguna conexión con el verdadero ATSC.
+
+Esperamos con interés cualquier respuesta que la ATSC de digne enviarnos.
+
+
+Más Mitchell
+............
+
+El presidente de National Capital Area Skeptics (NCAS), Scott Snell, ha comentado en la CNN y en el Daily Mail británico:
+
+ El Dr. Edgar Mitchell, astronauta del Apollo 14, y el sexto hombre que pisó la luna, ha atraído recientemente toda la atención de los medios tras una entrevista en "The Night Before" [La noche antes], programa de "Kerrang! Radio" en el Reino Unido.
+
+ Mitchell afirma haber estado
+
+  ... seriamente implicado en ciertos comités y ciertos programas de investigación científicos de gran crédito y... gente inteligente que conoce los entresijos de la verdadera historia... Los extraterrestres nos han visitado.
+
+ Mitchell afirma que la apariencia física de los extraterrestres corresponde con los retratos que de ellos se han hecho en la cultura popular. Sin embargo, ninguna de estas noticias es realmente noticia en absoluto. Mitchell ya afirmó esto mismo en una edición de "Dateline NBC" de 1996.
+
+En el mismo boletín de los NCAS, Scott añadía un comentario personal:
+
+ Tuve el placer de conocer en persona al Dr. Mitchell en Abril de 1994, en una iglesia en Rockville, Md. Durante una pausa en su conferencia (sobre metafísica, no su viaje a la luna), salió a fumar afuera y estuve charlando con el varios minutos. Mi impresión es que se trata de un hombre muy inteligente y sincero en su afán de saber más sobre asuntos para los que no existe una explicación definitiva. Parece que le entusiasman las explicaciones provocativas, hasta el punto de afectar su sentido crítico. Por ejemplo, Mitchell fue una figura central en la aparición pública en América del auto-proclamado medium Uri Geller, y aún hoy cree que los poderes psíquicos de Geller son genuinos, a pesar de las revelaciones de James Randi y otros magos, que muestran que Geller obtiene sus efectos "paranormales" simplemente a través de juegos de manos y técnicas mentalistas.
+
+ Aún así, tanto la inteligencia como los logros de Mitchell como piloto militar de pruebas y piloto de un módulo lunar, son incuestionables. Se doctoró en Aeronáutica y Astronáutica por el MIT. Su expedición lunar tuvo que superar terribles dificultades tras el casi desastroso vuelo del Apollo 13. De hecho, el éxito de esta expedición es una prueba de la habilidad y preparación de todo el equipo que la llevó a cabo, y sobre todo de los tripulantes (Alan Shepard, Mitchell, and Stuart Roosa).
+
+ Mitchell también jugó un papel importante en la formación de la Association of Space Explorers [Asociación de Exploradores del Espacio] durante la guerra fría entre los Estados Unidos y la Unión Soviética. La pertenencia a la asociación estaba abierta a todos los astronautas y cosmonautas que hubiesen completado un vuelo espacial, independientemente de su nacionalidad. La asociación supuso un puente entre las rivales naciones aeronáuticas, y ayudó a allanar el camino para el programa espacial cooperativo que existe hoy en día.
+
+ Quizás Mitchell sirva para recordarnos que rara vez se encuentran todas las virtudes humanas en el mismo individuo, ni aunque éste sea un genuino héroe americano como él. Algunos considerarán que la condición de héroe de Mitchell no se ve afectada en lo más mínimo por su falta de aptitud para el pensamiento crítico. ¿O será tal vez que el pensamiento crítico no está universalmente considerado como una virtud?
+
+Me temo que la respuesta a esa pregunta es decepcionante. He incluído este artículo aquí para añadir a `lo que previamente había escrito sobre Mitchell <randi20080731.html#astronauta-lunar-todav-a-en-la-luna>`__, y para presentar lo que tal vez sea una versión más amable de lo que yo veo como su extraña visión del mundo.
+
+
+Un engaño delicioso
+...................
+
+Obviamente, el engaño de "Carlos" - ver http://www.skepdic.com/carlos.html - ha inspirado a otros a demostrar cómo es posible utilizar un poco de habilidad y talento creativo para engatusar a una nación entera, una empresa o - en este caso - una industria. El siguiente artículo nos llega de parte del lector Bob Gale:
+
+ Por Jerry Hirsch, escritor de Los Angeles Times, 22 de Agosto, 2008
+
+ El restaurante de Milán Osteria L'Intrepido ganó el premio a la excelencia concedido por la revista Wine Spectator este año, a pesar de tener una carta de vinos que incluye un Amarone Classico Gioe S. Sofia del 93, que dicha revista comparaba con "aguarrás y barniz de uñas". Peor aún: Osteria L'Intrepido no existe.
+
+ Para disgusto de la revista, el restaurante es una creación electrónica ideada por el autor y crítico de vinos Robin Goldstein, con el propósito de sacar a la luz la falta de fundamento de muchos premios culinarios y vinícolas.
+
+ Para que el engaño fuera efectivo, Goldstein creó un falso sitio web para el restaurante, y envió una solicitud para el premio que incluia copia del menú (descrito como "una divertida fusión de recetas algo torpes de la nouvelle-cuisine italiana") y un costoso "menú de vinos de reserva" bien provisto de elementos como el Amarone del 93.
+
+ La solicitud también incluía lo que, según Goldstein, podría ser la cualificación fundamental: una cuota de entrada de 250 dólares. "Me interesa saber qué hay detrás de todas las críticas y clasificaciones que leemos... El nivel de análisis no es el suficiente", dijo Goldstein, que reveló la broma durante la presentación de una ponencia para la reunión de la American Assn. of Wine Economists [Asociación Americana de Economistas del Vino] el fin de semana pasado en Portland, Oregón.
+
+ Como respuesta, Thomas Matthews, Editor Ejecutivo del Wine Spectator, listaba en una entrada en el sitio web de la revista (con sede en Nueva York) sus "significativos esfuerzos para verificar los hechos":
+
+  "a. Telefoneamos varias veces al restaurante; en cada ocasión, conectamos con un contestador automático y un mensaje de alguien que decía trabajar en él y explicaba que, en aquel momento, estaba cerrado.
+
+  "b. Una búsqueda del restaurante en Google encontró una dirección real y la localizó en un mapa de Milán.
+
+  "c. El restaurante nos envió un enlace a un sitio web que alojaba su menú."
+
+ Wine Spectator encontró incluso discusiones sobre el restaurante, por parte de supuestos clientes, en el sitio web para gourmets Chowhound. En una entrevista telefónica, Matthews denunciaba la maniobra de Goldstein como una "estafa con fines publicitarios".
+
+ También negaba que el premio a la excelencia hubiese sido diseñado para generar beneficios a la revista. "Es un programa que recompensa el esfuerzo que los restaurantes ponen en sus menús de vinos", dijo.
+
+ Matthews declaró que la revista no trató de visitar el falso restaurante milanés. Hay unos 200 de los establecimientos que cada año reciben el premio que no son visitados. Pero los premios han contribuido al crecimiento de la popularidad del vino desde que la revista comenzó a otorgarlos, en 1981.
+
+ Sin embargo, conseguir este premio no es exactamente como ganar una medalla olímpica. Este año, cerca de 4500 restaurantes se gastaron 250 dólares cada uno para solicitar o re-solicitar el premio del Wine Spectator, y todos menos 319 se llevaron el premio a la excelencia, o alguna felicitación mayor, según Matthews.
+
+ Esto se traduce en más de un millón de dólares de beneficios.
+
+ Tom Pirko, un asesor de la industria de bebidas que vive en el territorio vitícola del Condado de Santa Bárbara, dice que el engaño hará mella en la credibilidad de la revista.
+
+ "Esto revela la realidad del Wine Spectator. No es exactamente Vino para Tontos, sino más bien Vino para Ingenuos", dice Pirko. "Parece publicidad pagada disfrazada de concurso".
+
+ Los restaurantes que ganan el premio reciben una placa que pueden montar para exponerla a los clientes, y son listados como establecimientos amigos del vino en el sitio web de la revista. Normalmente utilizan el premio como una forma de marketing o publcidad, dice Pirko.
+
+ Goldstein afirma que la idea se le ocurrió mientras investigaba para una ponencia académica sobre los criterios de los premios de vinos. También es co-autor de "The Wine Trials" ["Juicio a los vinos"], un libro que analiza cómo 500 catadores a ciegas de todo el país evaluaron 6000 vinos, de precios entre 1.50 y 150 dólares la botella.
+
+ Según él, la gente cree que el vino sabe mejor cuando es caro, y cita como evidencia catas que muestran que dos tercios de la gente prefirieron un Domaine Ste. Michelle Brut de 12 dólares (un vino espumoso del estado de Washington) a un champán Dom Perignon de 150 dólares.
+
+ Cuando creó la falsa carta de vinos para Osteria L'Intrepido ("El restaurante intrépido", en italiano), Goldstein incluyó también un Barbaresco Asij Ceretto del 85, que el Wine Spectator había descrito como "terroso, cenagoso, basto, duro y tánico".
+
+ "Aunque Osteria L'Intrepido sea el primero que gane un premio a la excelencia para un restaurante imaginario", dijo Goldstein, "es poco probable que haya sido la primera solicitud que no representaba al restaurante de forma apropiada".
+
+
+Una petición
+............
+
+El lector Nick J. Karean, que trabaja en Science, Reason & Rationality [Ciencia, Razón y Racionalidad], dice:
+
+ Quisiera pedirte que publicases esto en tu próxima columna. Aquí está el enlace al primer artículo sobre El Increible Randi: http://tinyurl.com/68r3t5.
+
+Hecho.
+
+
+Eludida la prohibición de los bares de oxígeno
+..............................................
+
+El lector Dan Lewandowski de Wichita Falls, Texas, ha descubierto que los diarios mienten cuando es posible que se invierta dinero en ellos anunciando cualquier producto o servicio. ¡Quién lo diría...!
+
+ La gentuza a cargo de un nuevo negocio por estas latitudes está insinuando que los tratamientos con oxígeno como mínimo previenen, si es que no curan, el cáncer. Aprovecharse así de gente desesperada y vulnerable es terrible en sí mismo, pero el hecho de que el diario les haya seguido el juego y no haya hecho ni una pregunta al respecto, es todavía más alarmante.
+
+ Me he puesto en contacto con la inspección civil a este respecto, porque hace unos años ya habían cerrado un bar de oxígeno, pero este nuevo negocio parece operar dentro de los márgenes de la ley. Desde inspección civil me dicen que existen otros negocios similares en Texas, con lo que sospecho que veremos este modelo repetido en distintos lugares. En el remoto caso de que no conozcáis esta moda, aquí va un enlace a un artículo reciente en el Wichita Falls Times Record News: http://tinyurl.com/6ghwy6.
+
+
+Desde Canadá
+............
+
+El lector Angus Bell, desde Montreal, comparte con nosotros lo siguiente:
+
+ Soy un escritor escocés. Siempre he sentido inclinación hacia lo paranormal, convencido de que me había criado en una pensión encantada, como harry Potter. Ahora me he mudado a Canadá y, afortunadamente, en este continente parece haber menos fantasmas.
+
+ Te escribo desde Montreal - semillero de mediums canadienses. Durante los últimos cuatro años, en nombre de la investigación, he estado asistiendo a convenciones psíquicas, servicios religiosos de corte fantasmagórico, exorcismos y conferencias sobre raptos alienígenas. Le he cantado el "Cumpleaños feliz" a una monja medium, he escuchado sermones de un enano que caminaba sobre el fuego, he meditado con un águila, un ratón y un búfalo; y he sacado a una bruja de un armario quemando una vela del Ikea. He intentado hacerme medium yo mismo, he asistido a una conferencia sobre comunicación entre especies, y he completado un curso sobre viajes astrales. Mientras todos los demás afirmaban volar sobre templos de esmeralda en el Monte Everest, yo me encontraba mirando fíjamente una vela en un ático de Montreal, pudiendo estar tranquilamente en un bar.
+
+ Estoy seguro de que nada de esto es nuevo para ti. Aunque no he perdido casi dinero en estos asuntos, y he sacado cientos de horas de entretenimiento y material, hay muchas almas vulnerables por ahí que se están gastando lo poco que tienen en fraudes. Me parece alarmante la cantidad de viajes "de caridad" a Sudáfrica y El Caribe que han sido pagados por los enfermos, ancianos y solitarios de Montreal.
+
+ El mayor centro psíquico en Montreal es el SSF - Science and Spiritualist Fellowship [Asociación de la Ciencia y la Espiritualidad] - dirigida por la televisiva Reverenda Dra. Marilyn Rosner. El centro presenta servicios religiosos psíquicos los domingos, lecturas privadas a diario, a 90 dólares cada una, y toda una gama de talleres y clases que cuestan hasta 500 dólares. Cada año organizan una conferencia internacional con charlas sobre "Niños que recuerdan haber sido educados a bordo de una nave espacial alienígena". La política del centro es divertidísima. Se dice que, ahora mismo, hay una guerra entre mediums en Montreal, tras una pelea sobre horarios de trabajo y tarifas. Unos mediums acusan a otros de "emitir energía oscura" hacia ellos, provocando que "sus esposas y sus perros enfermen".
+
+ Creo que es hora de destapar los secretos de está tontería. A decir verdad, algunos de ellos son muy hábiles y convincentes - a mí me tuvieron enganchado -, mientras que otros son verdaderamente terribles. Por desgracia, tanto unos como otros se están forrando con este negocio.
+
+ Me preguntaba si tendrías algún interés en hacer un viajecito a través de la frontera norte y poner en evidencia a estos payasos. O tal vez puedas darme algún consejo sobre cómo podría hacerlo yo.
+
+ Gracias por tener esto en cuenta, y adelante con tu fantástico trabajo.
+
+Angus, pareces creer que la cosa está en que yo cabalgue hasta la ciudad en mi Rocinante blandiendo una varita... También los puedo poner en evidencia desde Florida - si se me muestra la evidencia. Necesitaría grabaciones de sus "lecturas", cualquier tipo de anuncios o panfletos impresos, etc., etc. En cualquier caso, los creyentes continuarán creyendo, por mucho que una puesta en evidencia sea definitiva - porque necesitan la fantasía, las falsas ilusiones que tienen...
+
+
+Editorial textual
+.................
+
+En interés del servicio público, reproducimos aquí un editorial del New York Times del 24 de Agosto. Por favor, si conocéis a alguien que se haya creido la falacia del autismo y la vacuna, y, por tanto, esté arriesgando la salud y el futuro de un niño, pasadle la siguiente información:
+
+ Ha habido un aumento de casos de sarampión en los Estados Unidos, sobre todo a causa de la mala información que ha llevado a los padres a temer a las vacunas. El número es aún relativamente bajo, pero va en aumento. En los primeros siete meses del presente año, se informó a los Centros de Prevención y Control de Enfermedades de 131 casos, más que durante el mismo período de cualquier año desde 1996. No se registró ninguna muerte, pero al menos 15 pacientes fueron hospitalizados.
+
+ La mayoría de la gente lo ha olvidado, pero el sarampión fue en tiempos un azote incontrolado que infectaba anualmente a de tres a cuatro millones de americanos. Las víctimas típicamente sufrían sarpullido, fiebre y diarrea, pero, en casos severos, podían desarrollar neumonía, o encefalitis. En años de fuerte epidemia se hospitalizó a 48000 americanos, 1000 más quedaron crónicamente inválidos, y entre 400 y 500 murieron.
+
+ El desarrollo de vacunas efectivas y la vacunación obligada de escolares redujo el impacto de la enfermedad. Las Autoridades Sanitarias declararon en el 2000 que el sarampión había sido eliminado de los Estados Unidos. En los últimos años solo se habían reportado unos cuantos casos aislados, la mayoría importados del extranjero.
+
+ Prácticamente todos los brotes de este año estuvieron provocados por apenas 17 viajeros o visitantes que habían contraido el virus en el extranjero. Lo alarmante en este casa es que, una vez que el virus es importado, parece estarse extendiendo a más gente que antes.
+
+ Los brotes se han dado entre niños que reciben enseñanza domiciliaria, escapando así de las obligatorias vacunas escolares, y entre niños cuyos padres se oponen a la vacunación, por razones filosóficas o religiosas, o por miedo a que la vacuna combinada contra sarampión, paperas y rubeola, sea peligrosa. Muchos temen que las vacunas puedan causar autismo, una teoría que ha sido desacreditada por numerosos estudios, así como por organizaciones médicas de autoridad.
+
+ Israel, Suiza, Austria, Italia y Gran Bretaña están informando de cuantitativos brotes de sarampión entre la población que ha rechazado la vacuna. Aunque los niveles de vacunación siguen siendo altos en este país, algunos expertos temen que estén empezando a caer. Al ser tan contagioso, el sarampión es una de las primeras enfermedades en reaparecer cuando la inmunización total baja. Si la confianza en todas las vacunas descendiese de pronto, muchas enfermedades reaparecerían y causarían mucho más daño del que la vacunación podría jamás causar.
+
+
+Se necesitan datos
+..................
+
+Del lector Graham Smith, en Australia:
+
+ La estudiante Bianca Kingdon, de la Western Australia's Curtin UUniversity of Technology [Universidad Tecnológica Curtin, del Oeste de Australia], está llevando a cabo un proyecto de investigación en psicología. Estudia la naturaleza del creer, y necesita que un gran número de personas rellenen una encuesta en línea sobre sus creencias particulares, o la falta de las mismas. Esperaba que tú pudieras publicar el enlace a la encuesta en tu blog semanal. El enlace es: http://psych.curtin.edu.au/research/student/bk/info.htm
+
+¡Espero que los lectores hagan un click y le echen una mano a la Srta. Kingdon!
+
+
+Becas premio del 2008
+.....................
+
+Ya se han anunciado las nuevas Becas Premio de la JREF. Hay tres países representados, aunque los cuatro ganadores son hombres. Queremos recalcar que siempre animamos a participantes de ambos sexos y de todas las minorías a presentarse a estos premios. Estos son los ganadores de este año:
+
+ 1000 dólares para Alan Jern (ajern@ucla.edu)
+
+ Alan acaba de completar una Licenciatura en Informática en UCLA, con una media de calificaciones de 4.0. Utilizará los fondos de la beca para estudios de postgrado en Ciencia del Conocimiento en Carnegie Mellon, donde tiene intención de investigar por qué el razonamiento lógico parece ser más inmediato para unos que para otros, y buscar técnicas educativas que puedan eliminar esta diferencia.
+
+ 1500 dólares para Joseph Meyer (jfm@bu.edu)
+
+ Joseph es licenciado en Psicología, tiene un Master en Psicología Experimental y está haciendo un Doctorado en Psicología Clínica aplicada a la educación en el Colegio de Profesores de la Universidad de Columbia, en Nueva York. Uno de los objetivos de investigación de este Doctorado es "aplicar un escrutinio metodológico a los estudios que declaran, por principio, que las creencias religiosas son buenas para la salud mental". Joseph también tiene una media de calificaciones estelares tanto en su trabajo durante la licenciatura, como en el posterior.
+
+ 2500 dólares para Tamas Borbely (http://www.randi.org/joom/tb61@sussex.ac.uk)
+
+ Tamas está estudiando una licenciatura en Psicología por la Universiad de Sussex, UK. Al comité le impresionaron los objetivos presentados por Tamas en su trabajo, que incluían la preparación de una presentación para la Conferencia Universitaria de la British Psychological Society [Sociedad Psicológica Británica] sobre la psicología del pensamiento irracional. El comité espera poder seguir los avances activistas de Tamas durante su carrera.
+
+ 5000 dólares para Pavel Petkov (tefter@gmail.com)
+
+ Pavel es un estudiante de Doctorado por la Universidad de Veliko Turnovo en Bulgaria, y tiene una historia de éxitos académicos constantes. Al comité le impresionó mucho el alcance de sus actividades, incluyendo la fundación de un club de Pensamiento Crítico en su campus, cuando tales clubs escépticos no tienen precedente alguno en Bulgaria. La pasión de Pavel es oponerse al auge de lo paranormal, que se ha impuesto desde la caida del comunismo, por medio de este movimiento escéptico en su campus. Por otra parte, el comité quedó muy impresionado con la elegancia del inglés en que escribió su trabajo.
+
+Enhorabuena y nuestros mejores deseos a todos los ganadores. No se hace seguimiento alguno de cómo se utilizan los fondos repartidos, pero estamos seguros de que los destinatarios encontrarán buenos usos para el dinero, que ayudará a facilitarles el camino hacia el éxito. Nuestro agradecimiento para todos los candidatos.
+
+
+Las islas encantadas
+....................
+
+En http://tinyurl.com/68h7og veréis un informe del Presidente Plaid sobre nuestro crucero Amaz!ng Adventure [Maravillosa Aventura] a las Islas Galápagos entre el 8 y el 18 de Agosto. Como era de esperar, Phil se ha expresado elocuentemente. Durante el viaje, tanto a bordo como en tierra, estuvo en todas partes, explicando y señalando características de esta Tierra Encantada que tan bien ha sido preservada y protegida por la República de Ecuador.
+
+Tengo que decir que me quedé muy, muy contento con el sumo cuidado de los guías/naturalistas formados por el gobierno que nos quiaron e informaron durante nuestras visitas a pie a las islas, y con el interés mostrado por la Celebrity Cruise Line en proteger la ecología de la zona. Para que veais a lo que me refiero, os contaré brevemente un incidente en torno a "Jamie", uno de nuestros guías, que representa perfectamente la actitud de este país.
+
+El barco siempre anclaba bien alejado de la orilla, para no romper el aislamiento del lugar que visitábamos a pie. En una de las lanchas "Zodiac", las lanchas hinchables de 12 pasajeros que escogían las rutas entre estas fascinantes y esplendorosas islas y nos llevaban a tierra cuando era conveniente, rodeamos una diminuta extensión de roca volcánica muy recortada y engalanada con leones marinos, cactus y pájaros fragata mientras escuchábamos los comentarios de Jamie. Esta extensión de tierra, en particular, que no llegaba a los cinco metros cuadrados, estaba fuera de nuestro alcance porque no había en ella ninguna zona arenosa donde pudiéramos desembarcar. Uno de los pasajeros le preguntó a Jamie acerca de algo de un color azul claro que se veía a unos tres metros de la orilla; todos nos inclinados adelante para ver aquéllo, y Jamie rápidamente le dio instrucciones al piloto para que llevase la lancha hacia las rocas y mantuviese un empuje mínimo para que él pudiera desembarcar. Todos estábamos preocupados por esta maniobra, ya que era obviamente peligrosa.
+
+Jamie saltó sobre la roca y avanzó - con grandes dificultades - rodeando picos de afilado cristal volcánico hasta llegar al misterioso objeto azul, con el cual regresó a la lancha, saltando a bordo sano y salvo, para nuestro alivio. El misterioso objeto resultó ser un trozo de algún tipo de bolsa de plástico: el tipo de objeto que acosa y amenaza a las aves marinas y otros pobladores de este hábitat - y de muchos más. Nuestro guía había reaccionado apropiada, aunque un tanto precipitadamente, ante este peligro.
+
+.. image:: http://www.randi.org/images/commentary/200808/gotit.jpg
+   :alt:
+   :align: right
+
+Fue lo que pasó a continuación lo que realmente nos impresionó a todos. Uno de nosotros comentó:  "Jamie, ¡eso ha sido muy peligroso!". A lo que nuestro naturalista/guía, encogiéndose de hombros, contestó: "Esta es mi isla". Y sabía lo que decía. Con gente como esta a cargo, creo que podemos razonablemente fiarnos de que la República de Ecuador está haciendo todo lo que puede para preservar este tesoro nacional - e internacional - conocido como las Islas Galápagos.
+
+Hago hincapié en esta anécdota porque creo que es muy significativa. A Jamie vedaderamente le preocupaba la ecología de las Galápagos. A partir de ahora, cuando me moleste tener que cortar esos armazones de plástico que enganchan las botellas de refrescos - y que son un peligro mortal para la vida marina - lo haré con mayor cuidado, porque este hombre me ha enseñado a preocuparme un poquito más.
+
+Otro pequeño ejemplo de por qué confío en la integridad de este lugar: presencié una descarga de basura y aguas residuales de nuestro barco a las cinco de la mañana, en contenedores sellados, etiquetados, clasificados y seguros. Todo ello transportado a la costa continental para ser posteriormente incinerado y desechado de manera adecuada. Ni una pizca de basura cayó del barco, o se dejó atrás. Ecuador se preocupa verdaderamente, y cumple con sus obligaciones con el mundo.
+
+Nuestra Aventura Maravillosa lo fue de verdad, y a mí todavía me dura el entusiasmo. Ya estamos planeando volver el año que viene en otra Amaz!ng Adventure.
+
+
+Signos de progreso
+..................
+
+.. image:: http://www.randi.org/images/commentary/200808/warshak.jpg
+   :alt:
+   :align: right
+
+Steve Warshak, el fundador de Berkeley Premium Nutraceuticals, de 42 años, ha sido condenado a 25 años en prisión y a devolver más de 500 millones de dólares a sus clientes. Hace muy poco tratamos este timo en `<randi20080314.html#avanzando-tal-vez>`__. Su producto estrella era una píldora llamada “Enzyte”, que pretendía ser un "potenciador masculino", y era anunciado por un personaje perpetuamente sonriente llamado “Smiling Bob” [Bob el risueño]. Un tribunal federal condenó a la compañía, al fundador Warshak, y a varios otros, por fraude, blanqueo de dinero y falseo de datos sobre la efectividad de los productos de Berkeley.
+
+Vaya, ¿Podría “AirBorne” - ver `<randi20080307.html#otro-tir-n-de-orejas>`__ - ser el siguiente? Esta cuasi-inútil panacea, sin embargo, se anuncia como "ideado por una profesora", con lo que es posible que se salve de una acción similar.
+
+Por otra parte, en el Juzgado Superor del Condado de Santa Clara, Lola Miller, de 56 años, se ha declarado culpable de dos cargos de hurto mayor por una estafa como medium/pitonisa que le reportó cerca de 450000 dólares. Convenció a la víctima de que estaba maldita, y el dinero - ¡por supuesto! - la limpiaría del mal. Pero Lola sabe regatear, al contrario que Warshak. Su sentencia dependerá de la cantidad que su familia aporte como indemnización antes de la fecha señalada. Si esa cantidad es de 400000 dólares, podría ir dos años a prisión, que podrían convertirse en cinco si no se paga nada. Lola, con todas las ofertas de préstamos que yo recibo sobre hipotecas que no poseo, y todos los planes de financiación disponibles... ¡esto debería ser pan comido!. Ah, pero esas ofertas vienen, seguramente, de miembros de tu familia.
+
+Y de parte del lector David Colquhoun, cuyo http://www.dcscience.net/ debería ser lectura frecuente para todos vosotros, nos llega esta alentadora noticia:
+
+ La University of Central Lancashire ha abandonado, o al menos suspendido, su "BSc degree" [Licenciatura de Ciencias] en medicina homeopática. Lo achacan a un descenso del número de matriculados, y a continuos intentos para que revelaran qué se estaba enseñando (por parte de... ejem... bueno, por mi parte, en realidad). Parece que consideran la revelación de cómo emlpean el dinero de los contribuyentes como un "ataque".
+
+Visitad http://dcscience.net/?p=249 para ver esta noticia.
+
+
+Para cerrar...
+..............
+
+Mi buen amigo Chip Denman, nuestro estadista oficial en la JREF, ha aceptado amablemente participar como miembro en el consejo de administración de la James Randi Educational Foundation. Aportará a este cargo su considerable experiencia con los National Capital Area Skeptics, y le estamos muy agradecidos por su participación. Esta incorporación forma parte del reciente cambio de posiciones y deberes en la JREF, y yo ya he empleado mucho tiempo en preparar mis dos nuevos libros - “Wrong!” ["¡Erróneo!"] y “A Magician in the Laboratory” ["Un mago en el laboratorio"] - sin fecha de publicación acordada por el momento.
+
+Acabamos de recibir un ejemplar del muy esperado y sensacional nuevo DVD de Robert Neary y Tyson Smith – “Andrus – the Man, the Mind and the Magic” ["Andrus - El Hombre, la Mente y la Magia"] – que trata de la vida de nuestro buen amigo Jerry Andrus, una leyenda en el mundo de la magia, y un desafío para nuestro entendimiento de la percepción y la realidad. La JREF pondrá a la venta este producto para los lectores, bajo advertencia de que el visionado de esta presentación podría causar estupefacción y desconcierto - así como placer, risa y fascinación absoluta. Jerry era único, y yo creo que jamás tendrá igual. Sólo Leonardo Da Vinci se le acercó.
+
+Que se sepa que yo tenía un día de muy mala barba [#barba]_ cuando fui entrevistado para este DVD.
+
+
+|firmarandi|
+
+**Notas:**
+
+.. [#chutzpah] En el original, Randi utiliza el término *"chutzpah"*, que también podríamos traducir por "audacia". Deriva de un término hebreo que significa "insolencia", "audacia" o "impertinencia". [N. de la T.]
+.. [#barba] Randi juega con la expresión "to have a bad hair day" - litaralmente "tener un dia de mal pelo" = estar de mal humor - y la convierte en "Bad beard day", suponemos que puesto que, en su caso, hay más barba que pelo. [N. de la T.]
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: Traducido por Lucía Sierra
+    :description: ¡Mentir no es pecado! — Tapado por las risas — Más Mitchell — Un engaño delicioso — Una petición — Eludida la prohibición de los bares de oxígeno — Desde Canadá — Editorial textual — Se necesitan datos — Becas premio del 2008 — Las islas encantadas — Signos de progreso — Para cerrar...

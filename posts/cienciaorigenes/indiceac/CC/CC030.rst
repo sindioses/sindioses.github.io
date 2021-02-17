@@ -1,0 +1,51 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC030
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CC030
+.. link: http://www.talkorigins.org/indexcc/CC/CC030.html
+.. date: 2004-08-30
+.. title: CC030: Todos los fósiles humanos caben en una mesa de billar
+.. description: Respuesta a la afirmación creacionista «Todos los fósiles humanos caben en una mesa de billar»
+.. type: afirmacrea
+
+**Fuente:**
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, 202.
+
+Watchtower Bible and Tract Society, 1985. *Life--How Did It Get Here?* Brooklyn, NY, 86.
+
+Respuesta
+==============
+
+1. Ese puede haber sido el caso en algún momento, pero ahora hay miles de fósiles de homínidos. Lubenow ([Lubenow_1992]_) descubrió que había fósiles de casi 4000 individuos homínidos en 1976. Para 1999, había fósiles de unos 150 individuos de *Homo erectus*, 90 *Australopitecus robustus*, 150 *Australopitecus afarensis*, 500 Neanderthales y más ([Handprint_1999]_).
+
+2. Sólo hace falta un puñado de fósiles para mostrar que las formas de los homínidos han cambiado a lo largo del tiempo.
+
+Enlaces
+=========
+
+Handprint Media. 1999. Human evolution, http://www.handprint.com/LS/ANC/evol.html#chart
+
+Foley, Jim. 2004. Prominent hominid fossils. http://www.talkorigins.org/faqs/homs/specimen.html
+
+Referencias
+============
+.. [Foley_2004]    Foley, Jim, 2004. (V. arriba)
+.. [Handprint_1999]    Handprint Media, 1999. (V. arriba)
+.. [Lubenow_1992]    Lubenow, Marvin, 1992. (V. abajo)
+
+Otras lecturas
+==================
+Lubenow, Marvin, 1992. *Bones of Contention: A Creationist Assessment of the Human Fossils*. Grand Rapids, MI: Baker Books, chap. 3.
+
+
+/////
+
+Anterior: :doc:`CC021` | Siguiente: :doc:`CC040`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

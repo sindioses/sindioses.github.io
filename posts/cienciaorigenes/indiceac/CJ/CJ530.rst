@@ -1,0 +1,47 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CJ530
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CJ530
+.. link: http://talkorigins.org/indexcc/CJ/CJ530.html
+.. date: 2004-06-06
+.. title: CJ350: La exactitud del Corán en temas científicos muestra exactitud en general
+.. description: Respuesta a la afirmación creacionista «La exactitud del Corán en temas científicos muestra exactitud en general»
+.. type: afirmacrea
+
+La exactitud del Corán en varios temas científicos e históricos muestra su origen divino e indica su exactitud general.
+
+**Fuente:**
+
+Yahya, Harun, n.d. *Miracles of the Qur'an*, http://www.harunyahya.com/miracles_of_the_quran_01.php
+
+Respuesta
+=============
+
+1. La exactitud del Corán no es especialmente notable. Todos sus puntos exactos pueden explicarse por mera observación de la naturaleza o por interpretación selectiva de las escrituras.
+
+2. La exactitud en temas individuales no indica exactitud en general. Casi cualquier tesis que está errada en general contiene aún así algunos puntos exactos.
+
+3. Las afirmaciones sobre exactitud asumen que el propósito del Corán es documentar datos científicos. El propósito del Corán es enseñar religión, no ciencia.
+
+4. Si el valor del Corán depende de la exactitud científica, se vuelve carente de valor cuando la gente le encuentre errores, lo que invariablemente ocurrirá.
+
+5. Si la exactitud científica ocasional muestra exactitud general del Corán, la misma conclusión debe atribuirse a la :doc:`Biblia <CH130>`, el Zend Avesta y varias otras obras de otras religiones, todas las cuales hacen las mismas afirmaciones de ser científicamente exactas.
+
+Enlaces
+=========
+
+Answering Islam, n.d. Qur'an and science. http://www.answering-islam.org/Quran/Science/index.htm
+
+Bannister, Andy, n.d. Can "Modern Science" be found in the Qur'an? http://www.answering-islam.org/Andy/fallacies.html
+
+
+/////
+
+Anterior: :doc:`CJ311` | Siguiente: :doc:`CJ531`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

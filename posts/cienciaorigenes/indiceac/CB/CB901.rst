@@ -1,0 +1,45 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB901
+.. link: http://talkorigins.org/indexcc/CB/CB901.html
+.. date: 2004-04-16 02:00:00+00:00
+.. title: CB901: No se ha documentado nunca un caso de macroevolución
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «No se ha documentado nunca un caso de macroevolución»
+
+**Fuente:**
+
+Morris, Henry M., 2000 (Jan.). Strong Delusion. *Back to Genesis* 133: a.
+
+Brown, Walt, 1995. *In the Beginning: Compelling evidence for creation and the Flood*. Phoenix, AZ: Center for Scientific Creation, p. 6.
+
+Respuesta
+============
+
+1. No esperaríamos observar cambios importantes directamente. La evolución consiste principalmente en la acumulación de cambios pequeños a lo largo de períodos extensos. Si viéramos algo como un pez convirtiéndose en sapo en sólo un par de generaciones, tendríamos excelentes pruebas en contra de la evolución.
+
+2. Las pruebas en favor de la evolución no dependen, ni siquiera un poco, de observar directamente la macroevolución. Hay muchísimas otras pruebas ([Theobald_2004]_; véase también :doc:`prueba de la evolución <CA202>`).
+
+3. Tal como lo usan los biólogos, macroevolución significa evolución a nivel de especie o superior. Se ha observado y documentado :doc:`especiación <CB910>`.
+
+4. Se ha observado microevoliución y la dan por sentada incluso los creacionistas. Y dado que :doc:`no hay barreras conocidas para los cambios importantes <CB901_1>` y porque podemos esperar que :doc:`los cambios pequeños se acumulen <CB901_2>`, la microevolución implica la macroevolución. Los cambios pequeños a los genes del desarrollo o su regulación pueden cambiar cambios relativamente importantes en el organismo adulto ([Shapiro_et_al_2004]_).
+
+5. Hay muchas :doc:`formas transicionales <CC220>` que muestran que la macroevolución ha ocurrido.
+
+Referencias
+=============
+
+.. [Shapiro_et_al_2004]    Shapiro M. D., M. E. Marks, C. L. Peichel, B. K. Blackman, K. S. Nereng, B. Jónsson, D. Schluter and D. M. Kingsley, 2004. Genetic and developmental basis of evolutionary pelvic reduction in threespine sticklebacks. Nature 428: 717-723. See also: Shubin, N. H. and R. D. Dahn, 2004. Evolutionary biology: Lost and found. Nature 428: 703.
+.. [Theobald_2004]    Theobald, Douglas, 2004. 29+ Evidences for macroevolution: The scientific case for common descent. http://www.talkorigins.org/faqs/comdesc/
+
+/////
+
+Anterior: :strong:`CB822` | Siguiente: :doc:`CB901_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,87 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB100
+.. author: Mark Isaak, traducción de Paulina Madariaga, correcciones de Samuel Martínez de la Iglesia
+.. nocomments: True
+.. date: 2008-6-20
+.. type: afirmacrea
+.. title: CB101: La mayoría de las mutaciones son dañinas
+.. description: Respuesta a la afirmación creacionista «La mayoría de las mutaciones son dañinas»
+.. slug: CB101
+.. link: http://www.talkorigins.org/indexcc/CB/CB101.html
+
+La mayoría de las mutaciones son dañinas, de modo que el efecto total de las mutaciones es dañino.
+
+**Fuente:**
+
+Morris, Henry M. 1985. *Scientific Creationism*. Green Forest, AR: Master Books, pp. 55-57.
+
+Watchtower Bible and Tract Society. 1985. Life--How Did It Get Here? Brooklyn, NY, pg. 100. 
+
+Respuesta
+=========
+1. La mayoría de las mutaciones son neutrales. Nachman y Crowell estiman al rededor de 3 mutaciones dañinas cada 175 por generación en humanos ([Nachman_y_Crowell_2000]_). De las que tienen efectos significativos, la mayoría son dañinas, pero la fracción que son benéficas es más alto de lo que normalmente se piensa. Un experimento con *E. coli* descubrió que cerca 1 de cada 150 mutaciones nuevas y uno de cada 10 mutaciones funcionales son benéficas ([Perfeito_et_al_2007]_).
+   
+   Las mutaciones dañinas no sobreviven mucho tiempo, y las mutaciones benéficas sobreviven mucho más, de modo que cuando uno sólo considera las mutaciones que sobreviven, la mayoría son benéficas.
+
+2. Se encuentran mutaciones benéficas con frecuencia. Son lo bastante comunes como para ser problemas en caso de resistencia los antibióticos en organismos que causan enfermedades y resistencia a los pesticidas en las pestes agrícolas (p. ej. [Newcomb_et_al_1997]_; no son mera :doc:`selección de variaciones preexistentes <CB110>`). Se las puede encontrar repetidamente en poblaciones de laboratorio ([Wichman_et_al_1999]_). Otros ejemplos incluyen lo siguiente:
+   
+   * Las mutaciones le han dado a las bacterias la capacidad de degradar el nilón ([Prijambada_et_al_1995]_).
+   * Los criadores de plantas han usado crianza de mutaciones para producir mutaciones y seleccionar las benéficas ([FAO_IAEA_1977]_).
+   * Ciertas mutaciones en humanos confieren resistencia al SIDA ([Dean_et_al_1996]_; [Sullivan_et_al_2001]_) o a las enfermedades cardíacas ([Long_1994]_; [Weisgraber_et_al_1983]_).
+   * Una mutacion en los humanos hace fuertes los huesos ([Boyden_et_al_2002]_).
+   * Con frecuencia se encuentran transposones_, especialmente en las plantas; ayudan a proporcionar diversidad benéfica ([Moffat_2000]_).
+   * La mutación y selección *in vitro* pueden usarse para producir la evolución de funcionalidad sustancialmente mejorada de las moléculas de ARN, como una ribozima ([Wright_y_Joyce_1997]_).
+     
+3. El que una mutación sea benéfica o no depende del ambiente. Una mutación que ayuda al organismo en una circunstancai puede dañarlo en otra. Cuando el ambiente cambia, las variaciones que alguna vez fueron antiadaptativas de pronto se ven favorecidas. Tales ambientes cambian constantemente, la variación ayuda a las poblaciones a sobrevivir, incluso di algunas de esas variaciones no funcionan tan bien como otras. Cuando ocurren mutaciones benéficas en un ambiente cambiado, por lo general se extienden rápidamente en la población ([Elena_et_al_1996]_).
+
+4. Las tasas altas de mutación son ventajosas en ciertos ambientes. Las cepas hipermutables de *Pseudomonas aeruginosa* se encuentran con más frecuencia en los pulmones de los pacientes de fibrosis cística (en los que los antibióticos y otras presiones aumentan la presión selectiva y la variabilidad) que en pacientes sin fibrosis cística ([Oliver_et_al_2000]_).
+   
+5. Nótese que la existencia de cualquier mutación benéfica es una refutación del modelo del creacionismo de la tierra joven ([Morris_1985]_, 13).
+     
+.. _transposones: https://es.wikipedia.org/wiki/Transpos%C3%B3n     
+
+Enlaces
+=======
+
+Williams, Robert. n.d. Examples of beneficial mutations and natural selection. http://www.gate.net/~rwms/EvoMutations.html
+
+Williams, Robert. n.d. Examples of beneficial mutations in humans. http://www.gate.net/~rwms/EvoHumBenMutations.html
+
+Referencias
+===========
+
+.. [Boyden_et_al_2002]    Boyden, Ann M., Junhao Mao, Joseph Belsky, Lyle Mitzner, Anita Farhi, Mary A. Mitnick, Dianqing Wu, Karl Insogna y Richard P. Lifton. 2002. High bone density due to a mutation in LDL-receptor-related protein 5. *New England Journal of Medicine* 346: 1513-1521, May 16, 2002. http://content.nejm.org/cgi/content/short/346/20/1513
+.. [Dean_et_al_1996]    Dean, M. et al. 1996. Genetic restriction of HIV-1 infection and progression to AIDS by a deletion allele of the CKR5 structural gene. *Science* 273: 1856-1862.
+.. [Elena_et_al_1996]    Elena, S. F., V. S. Cooper y R. E. Lenski. 1996. Punctuated evolution caused by selection of rare beneficial mutations. *Science* 272: 1802-1804.
+.. [FAO_IAEA_1977]    FAO/IAEA. 1977. *Manual on Mutation Breeding*, 2nd ed. Vienna: International Atomic Energy Agency.
+.. [Long_1994]    Long, Patricia. 1994. A town with a golden gene. *Health* 8(1) (Jan/Feb.): 60-66.
+.. [Moffat_2000]    Moffat, Anne S. 2000. Transposons help sculpt a dynamic genome. *Science* 289: 1455-1457.
+.. [Morris_1985]    Morris, Henry M. 1985. Scientific Creationism. Green Forest, AR: Master Books.
+.. [Nachman_y_Crowell_2000]    Nachman, M. W. y S. L. Crowell. 2000. Estimate of the mutation rate per nucleotide in humans. *Genetics* 156(1): 297-304.
+.. [Newcomb_et_al_1997]    Newcomb, R. D. et al. 1997. A single amino acid substitution converts a carboxylesterase to an organophosporus hydrolase and confers insecticide resistance on a blowfly. *Proceedings of the National Academy of Science USA* 94: 7464-7468.
+.. [Oliver_et_al_2000]    Oliver, Antonio et al. 2000. High frequency of hypermutable Pseudomonas aeruginosa in cystic fibrosis lung infection. *Science* 288: 1251-1253. Cfr: Rainey, P. B. y R. Moxon, 2000. When being hyper keeps you fit. *Science* 288: 1186-1187. Cfr. LeClerc, J. E. y T. A. Cebula, 2000. Pseudomonas survival strategies in cystic fibrosis (letter), 2000. *Science* 289: 391-392.
+.. [Perfeito_et_al_2007]    Perfeito, Lilia, Lisete Fernandes, Catarina Mota and Isabel Gordo. 2007. Adaptive mutations in bacteria: High rate and small effects. *Science* 317: 813-815.
+.. [Prijambada_et_al_1995]    Prijambada, I. D., S. Negoro, T. Yomo and I. Urabe. 1995. Emergence of nylon oligomer degradation enzymes in Pseudomonas aeruginosa PAO through experimental evolution. Applied and Environmental Microbiology 61(5): 2020-2022.
+.. [Sullivan_et_al_2001]    Sullivan, Amy D., Janis Wigginton y Denise Kirschner. 2001. The coreceptor mutation CCR5-delta-32 influences the dynamics of HIV epidemics and is selected for by HIV. *Proceedings of the National Academy of Science USA* 98: 10214-10219.
+.. [Weisgraber_et_al_1983]    Weisgraber K. H., S. C. Rall Jr., T. P. Bersot, R. W. Mahley, G. Franceschini, y C. R. Sirtori. 1983. Apolipoprotein A-I Milano. Detection of normal A-I in affected subjects and evidence for a cysteine for arginine substitution in the variant A-I. *Journal of Biological Chemistry* 258: 2508-2513.
+.. [Wichman_et_al_1999]    Wichman, H. A. et al. 1999. Different trajectories of parallel evolution during viral adaptation. *Science* 285: 422-424.
+.. [Wright_y_Joyce_1997]    Wright, M. C. and G. F. Joyce. 1997. Continuous in vitro evolution of catalytic function. *Science* 276: 614-617. Cfr. Ellington, A. D., M. P. Robertson and J. Bull, 1997. Ribozymes in wonderland. *Science* 276: 546-547. 
+
+Otras lecturas
+==============
+
+Harter, Richard. 1999. Are mutations harmful? http://www.talkorigins.org/faqs/mutations.html
+
+Peck, J. R. and A. Eyre-Walker. 1997. The muddle about mutations. *Nature* 387: 135-136. 
+
+		
+/////
+
+Anterior: :doc:`CB100` | Siguiente: :doc:`CB101_1`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

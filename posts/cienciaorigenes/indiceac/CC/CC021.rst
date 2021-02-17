@@ -1,0 +1,36 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC021
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CC021
+.. link: http://www.talkorigins.org/indexcc/CC/CC021.html
+.. date: 2004-01-09
+.. title: CC021: El "hombre de Orce" era una calavera de burro
+.. description: Respuesta a la afirmación creacionista «El "hombre de Orce" era una calavera de burro»
+.. type: afirmacrea
+
+Un fragmento de calavera de la región de Andalucía, en España, considerado originalmente en 1983 como el fósil humano más antiguo de Europa, era muy probablemente un fragmento de calavera de un burro de cuatro meses de edad.
+
+**Fuente:**
+
+Gish, Duane T., 1985. *Evolution: The Challenge of the Fossil Record*, El Cajon, CA: Creation-Life Publishers, p. 190.
+
+Respuesta
+===========
+
+1. No hay bastante del fósil para aclarar su identidad. Aún está poco claro si el fragmento es homínido o equino. Es una representación errónea llamarlo "mal identificado", cuando nunca hubo consenso sobre su identificación en primer lugar. Si no fuera por su importancia como el posible humano más antiguo de Europa, el fragmento recibe poca atención.
+
+Enlaces
+===========
+Foley, Jim, 2001. Creationist arguments: Orce Man. http://www.talkorigins.org/faqs/homs/a_orce.html
+
+
+/////
+
+Anterior: :doc:`CC004` | Siguiente: :doc:`CC030`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

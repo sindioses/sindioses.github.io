@@ -1,0 +1,59 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Noticias de la ciencia
+.. type: nocie
+.. title: En algunos casos, la práctica no es lo mejor
+.. author: Glenys Álvarez
+.. description: Un equipo de investigadores utilizó un brazo robótico especial para experimentar con el proceso de aprendizaje motor en personas que han sufrido daños neuronales
+.. tags: ingeniería
+.. date: 2011-07-07 03:18:41
+
+.. figure:: movimiento.jpg
+   :alt:
+   :figwidth: 272
+   :figclass: align-right
+
+   **En la imagen**, cortesía del laboratorio de Maurice Smith en Harvard, el autor principal, Nicolás González Castro, demuestra el uso del brazo robótico para medir el aprendizaje motor.
+
+..
+
+    **Ingeniería.** Un equipo de investigadores utilizó un brazo robótico especial para experimentar con el proceso de aprendizaje motor en personas que han sufrido daños neuronales
+
+.. class:: primera
+
+La práctica hace la perfección. Lo hemos escuchado hasta el cansancio y lo hemos observado también; mientras más hacemos algo, mejor lo aprendemos. Sin embargo, investigadores de la universidades de Cambridge y Harvard aseguran que hay una mejor manera de ayudar al sistema motor a aprender; y los de rehabilitación deben prestar atención.
+
+Los estudios, por supuesto, hablan de movimiento. Ya sea montar bicicleta o agarrar un vaso de refresco tiene su truco, especialmente si comienzas a añadirle variables. Pero un nuevo estudio descubrió que hay una forma más rápida y efectiva de adquirir un nuevo conocimiento que repetirlo muchas veces. Lo que los científicos descubrieron fue que los errores en los que caemos cuando estamos repitiendo sólo bloquean la percepción cerebral, impidiendo que aprendamos rápidamente.
+
+“Nuestros resultados demuestran eso que llamamos aprendizaje de referencia motora. Los individuos aprenden a acomodar varias dinámicas físicas y cometen errores cuando se encuentran con situaciones nuevas, pero rápidamente aprenden con la práctica. El cerebro construye modelos internos de estas dinámicas, produciendo patrones de activación muscular que compensan por las condiciones externas. Es una situación que hemos aprendido”, explica Maurice Smith, de la Escuela de Ingeniería y Ciencias Aplicadas en la Universidad de Harvard, uno de los autores del nuevo estudio.
+
+Las pruebas para recopilar evidencias se adquieren gracias al uso de un brazo robótico capaz de medir el aprendizaje motor. Los investigadores explican que hay que pensar en las cosas que el cerebro tiene que hacer para generar y mantener el movimiento, no importa cuál y, si nos ponemos a pensar, nos damos cuenta que cada tarea que realizamos en el mundo tiene sus propios movimientos. Para elaborarlos, el cerebro necesita conocer con exactitud cada músculo involucrado para activarlos y saber también de qué manera hacerlo. Por supuesto, el movimiento dependerá en aquello que lo provoca, el medio ambiente dicta qué tipo de movimientos hacemos, si nos ponemos a nadar encima de una bicicleta no conseguiremos la función deseada.
+
+“Para la gente que ha sufrido un daño neurológico, como las víctimas de derrames, la acción más simple puede ser muy dificultosa para aprender otra vez. Por ello, nunca es tarde para aprender qué cosas podemos añadir para mejorarlas y que nuestros pacientes se beneficien”, explica Smith.
+
+La idea es poner a los voluntarios para que aprendan un nuevo movimiento con fuerzas para nada familiares y que cambian mientras ellos aprenden. Los voluntarios tenían que intentar que un punto en la pantalla se moviera hacia una meta a través del brazo robótico que a su vez lo empujaba en otro sentido pero con una cantidad de fuerza predecible que dependía de la velocidad de la mano.
+
+|tit2|
+......
+
+.. |tit2| replace:: Un aspecto específico
+
+“Diseñamos un procedimiento técnico específicamente elaborado para este aspecto del aprendizaje motor. Un experimento nos daba evidencias sobre el aprendizaje de referencias motoras y el segundo investigaba si había una forma de usar ese mecanismo para mejorar el aprendizaje. Descubrimos, en una tarea compleja como aprender a mover el punto, que si ajustábamos la posición de la meta de una forma que las adaptaciones se hicieran alrededor del movimiento buscado, los voluntarios aprendían un 50% más rápido que cuando sólo practicaban el movimiento deseado”, explica el autor principal Nicolás González Castro, del Laboratorio de Control Neuromotor de Smith.
+
+El problema, dicen los científicos, es que los resultados los conocían bien, pero no los estaban usando para la biología sino para la ingeniería. Hace mucho que los robots se han estado construyendo bajo esa dinámica pero la misma no había cambiado la forma en que lo hacían con los humanos. El cerebro está programado para maximizar la estabilidad, es un concepto esencial para la elaboración de algoritmos en el aprendizaje de las máquinas. También han incorporado allí la idea de un aprendizaje de referencia motora.
+
+|tit3|
+......
+
+.. |tit3| replace:: De la realidad a la rehabilitación motora
+
+“Si estás intentando que una persona aprenda algo comenzamos por asumir implícitamente que en el proceso de la práctica los estudiantes aprenderán lo que deseas que aprendan. En la realidad, la rehabilitación puede ser más eficiente si las tareas asignadas son modificadas para beneficiarnos de los mecanismos que tiene el sistema nervioso de formar asociaciones”, explica González Castro.
+
+En otras palabras, ajustar el objetivo para que cambie mientras aprendes una tarea motora es mucho más efectivo que la práctica repetitiva, especialmente cuando hablamos de rehabilitación. Las limitaciones están en que sólo se ha estudiado un movimiento que no es muy complejo, caminar es peor. Sin embargo, estudios como estos reflejan el conocimiento fundamental que se tiene sobre el cerebro y todo lo que falta saber sobre el mismo.
+
+
+.. include:: includes/nocie_pie.inc
+.. meta::
+   :author: Glenys Álvarez
+   :keywords: ingeniería
+   :description: Un equipo de investigadores utilizó un brazo robótico especial para experimentar con el proceso de aprendizaje motor en personas que han sufrido daños neuronales
+   :title: En algunos casos, la práctica no es lo mejor

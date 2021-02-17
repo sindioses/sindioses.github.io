@@ -1,0 +1,41 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CF, CE400
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CE441
+.. link: http://talkorigins.org/indexcc/CE/CE441.html
+.. date: 2004-6-26
+.. title: CE441: Las explosiones como el Big Bang no producen orden ni información
+.. description: Respuesta a la afirmación creacionista «Las explosiones como el Big Bang no producen orden ni información»
+.. type: afirmacrea
+
+El universo supuestamente se formó en el big bang, pero las explosiones no producen orden ni información.
+
+**Fuente:**
+
+Big-Bang-Theory, 2002. http://www.big-bang-theory.com
+
+Respuesta
+============
+
+1. La entropía total del universo al principio del big bang era mínima, quizá casi cero. Dado que era tan compacto, tenía considerablemente más orden que el universo en el que vivimos hoy. La complejidad que observamos hoy en torno a nosotros puede ser producida a partir del orden máximo del gas —caliente pero enfriándose— del big bang.
+
+2. El big bang no fue una explosión. Fue una expansión. El big bang no tiene casi nada en común con una explosión salvo el hecho de que se hizo más grande con el tiempo.
+
+3. Las explosiones producen algún orden entre sus otros efectos:
+
+   * Las grandes explosiones en la superficie, como las bombas atómicas, producen las conocidas nubes en forma de hongo. No están muy altamente ordenadas, pero tampoco son puramente caóticas.
+   * Las supernovas producen elementos pesados, y las ondas de choque que emiten comprimen los gases interestelares, lo cual inicia la formación de estrellas nuevas.
+   * Las explosiones poderosas pueden comprimir el carbón en cristales de diamante, el máximo ordenamiento.
+   * Las explosiones de gasolina atomizada producen gas comprimido, que es aprovechado en los motores de combustión interna para impulsar automóviles y otros equipos.
+
+
+/////
+
+Anterior: :doc:`CE440` | Siguiente: :doc:`CF001`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

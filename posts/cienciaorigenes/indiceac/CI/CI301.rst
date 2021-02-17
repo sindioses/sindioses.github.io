@@ -1,0 +1,73 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CI, CI300
+.. author: Mark Isaak, traducción de Marcelo Huerta
+.. nocomments: True
+.. date: 2005-8-5
+.. type: afirmacrea
+.. title: CI301: El cosmos está finamente ajustado para permitir la vida humana
+.. description: Respuesta a la afirmación creacionista «El cosmos está finamente ajustado para permitir la vida humana»
+.. slug: CI301
+.. link: http://www.talkorigins.org/indexcc/CI/CI301.html
+
+El cosmos está finamente ajustado para permitir la vida humana. Si cualquiera de varias constantes fundamentales fuera sólo ligeramente diferente, la vida sería imposible. (Esta afirmación también se conoce como el principio antrópico débil.)
+
+**Fuente:**
+
+Ross, Hugh. 1994. Astronomical evidences for a personal, transcendent God. En: *The Creation Hypothesis*, J. P. Moreland, ed., Downers Grove, IL: InterVarsity Press, pp. 141-172. 
+
+Respuesta
+=========
+
+1. La afirmación asume la vida en su forma actual; se aplica no sólo a la vida sino a la vida como la conocemos. Resulta el resultado si la vida está finamente ajustada al cosmos.
+
+   No sabemos qué condiciones fundamentales excluirían cualquier posibilidad de cualquier vida. Por todo lo que sabemos, podría haber seres inteligentes en otro universo argumentando que si las condiciones fundamentales de la vida fueran sólo ligeramente diferentes, la ausencia de quarks libres y la extrema debilidad de la gravedad harían imposible la vida.
+
+   De hecho, muchos ejemplos de ajuste fino son prueba de que la vida está ajustada finamente al cosmos, y no al revés. Esto es exactamente lo que propone la evolución.
+
+2. Si el universo está finamente ajustado para la vida, ¿por qué la vida es una parte extremadamente inusual en él?
+
+3. Muchas afirmaciones de ajuste fino se basan en que los números son "del mismo orden de magnitud", pero esta frase se extiende más allá de su significado original para apuntalar los argumentos en favor del diseño; a veces números más de mil veces diferentes se consideran del mismo orden de magnitud ([Klee_2002]_).
+   
+4. La afirmación de ajuste fino queda debilitada por el hecho de que algunas constantes físicas dependen de otras, de modo que el principio antrópico puede descansar en unas pocas condiciones iniciales que son realmente fundamentales ([Kane_et_al_2000]_). La debilita más el hecho de que diferentes condiciones iniciales a veces llevan a esencialmente los mismos resultados, como ocurre con la masa inicial de las e strellas y su formación de metales pesados ([Nakamura_et_al_1997]_), o que el ajuste puede no ser muy fino, como ocurre con la ventana de resonancia para la fusión de helio dentro del sol ([Livio_et_al_1989]_). Por todo lo que sabemos, un universo sustancialmente diferente del nuestro podría ser improbable o incluso imposible.
+
+5. Si parte del universo no fuera apta para la vida, no estaríamos aquí para pensar sobre ello. No hay nada que excluya la posibilidad de universos múltiples, muchos de los cuales serían inadecuados para la vida. Casualmente nos encontramos en uno donde la vida casualmente es posible porque no podemos estar en ningún otro lado.
+
+6. El diseño inteligente no es una conclusión lógica del ajuste fino. El ajuste fino no dice nada sobre motivos o métodos, que es cómo se define el diseño. (La escaasez de la vida y la demora miles de millones de años hasta que apareció son argumentos en contra de la vida como motivo.) El ajuste fino, si existe, puede resultar de otras causas aún desconocidas, o por no razón en absoluto ([Drange_2000]_).
+
+7. De hecho, el principio antrópico és un argumento en contra de un creador omnipotente. Si Dios puede hacerlo todo, podría crear la vida en un universo cuyas conndiciones no la permiten.
+   
+Enlaces
+=======
+Drange, Theodore M. 2000. The fine-tuning argument revisited (2000). *Philo* 3(2): 38-49. http://www.infidels.org/library/modern/theodore_drange/tuning-revisited.html
+
+Stenger, Victor J. 1997. Intelligent design: Humans, cockroaches, and the laws of physics. http://www.talkorigins.org/faqs/cosmo.html
+
+Stenger, Victor J. 1999 (July). The anthropic coincidences: A natural explanation. *The Skeptical Intelligencer* 3(3): 2-17. http://www.stephenjaygould.org/ctrl/stenger_intel.html
+
+Weinberg, Steven. 1999. A designer universe? http://www.physlink.com/Education/essay_weinberg.cfm
+
+Referencias
+===========
+
+.. [Drange_2000]    Drange, Theodore M. 2000. The fine-tuning argument revisited (2000). *Philo* 3(2): 38-49. http://www.infidels.org/library/modern/theodore_drange/tuning-revisited.html
+.. [Kane_et_al_2000]    Kane, G. L., M. J. Perry, and A. N. Zytkow. 2000 (28 Jan.). The beginning of the end of the anthropic principle. *New Astron*. 7: 45-53. http://xxx.lanl.gov/abs/astro-ph/0001197
+.. [Klee_2002]    Klee, Robert. 2002. The revenge of Pythagoras: How a mathematical sharp practice undermines the contemporary design argument in astrophysical cosmology. *British Journal for the Philosophy of Science* 53: 331-354.
+.. [Livio_et_al_1989]    Livio, M., D. Hollowell, A. Weiss and J. Truran. 1989. The anthropic significance of the existence of an excited state of :sup:`12`\ C. *Nature* 340: 281-284.
+.. [Nakamura_et_al_1997]    Nakamura, Takashi, H. Uehara, and T. Chiba. 1997. The minimum mass of the first stars and the anthropic principle. *Progress of Theoretical Physics* 97: 169-171. http://xxx.lanl.gov/abs/astro-ph/9612113 
+
+Otras lecturas
+==============
+
+Goldsmith, D. 2004. The best of all possible worlds. *Natural History* 113(6) (July/Aug.): 44-49. 
+
+		
+/////
+
+Anterior: :doc:`CI200` | Siguiente: :doc:`CI302`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

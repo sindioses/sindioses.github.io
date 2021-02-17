@@ -1,0 +1,41 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CI, CI100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CI111_2
+.. link: http://www.talkorigins.org/indexcc/CI/CI111_2.html
+.. date: 2003-10-17
+.. title: CI111.2: La complejidad especificada caracteriza lo que hacen los agentes inteligentes
+.. description: Respuesta a la afirmación creacionista «La complejidad especificada caracteriza lo que hacen los agentes inteligentes»
+.. type: afirmacrea
+
+Un agente inteligente es aquel que elige entre varias posibilidades. La :doc:`complejidad especificada <CI110>` (también llamada información especificada compleja) detecta el diseño porque detecta lo que caracteriza la voluntad inteligente; detecta la actualización de una entre varias posibilidades que compiten entre sí.
+
+**Fuente:**
+
+Dembski, William A., 2002. *No Free Lunch*, Lanham, MD: Rowman & Littlefield, pp. 24-25.
+
+Respuesta
+=============
+
+1. La complejidad especificada no indica voluntad inteligente; simplemente indica copia. Cuando un patrón coincide con una especificación, eso sólo puede suceder por coincidencia, porque las causas de ambos patrones se ajustan a las mismas limitaciones, o por algún tipo de copia de información. El criterio de complejidad especificada explícitamente excluye las dos primeras posibilidades ([Dembski_2002]_, 6-13), dejando sólo la copia.
+
+   Considere el siguiente escenario: una persona accidentalmente vuelca algo de tinta y crea una mancha compleja en una página de un informe. El derrame pasa inadvertido hasta que se han hecho varias copias del informe. Las imágenes de la mancha en las copias del informe exhiben complejidad especificada, dado que son complejas y coinciden con una especificación (el derrame original). Pero alcanzaron complejidad especificada por medio de la copia, no por haberlo elegido deliberadamente.
+
+2. Los procesos no inteligentes también seleccionan entre varias posibilidades. Las máquinas que eligen los números de la lotería son un ejemplo.
+
+Referencias
+=============
+
+.. [Dembski_2002] Dembski, William A., 2002 (v. arriba)
+
+/////
+
+Anterior: :doc:`CI111_1` | Siguiente: :doc:`CI113`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

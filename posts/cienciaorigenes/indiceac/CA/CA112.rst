@@ -1,0 +1,44 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA110
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA112
+.. link: http://www.talkorigins.org/indexcc/CA/CA112.html
+.. date: 2003-06-15 02:00:00+00:00
+.. title: CA112: Muchos científicos creen que hay problemas con la evolución
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Muchos científicos creen que hay problemas con la evolución»
+
+Muchos científicos importantes señalan serios problemas con la evolución, incluyendo problemas con algunos de sus puntos más importantes.
+
+**Fuente:**
+
+Discovery Institute, 2001. A scientific dissent from Darwinism. http://www.discovery.org/articleFiles/PDFs/100ScientistsAd.pdf
+
+Respuesta
+=============
+
+1. No hay problemas serios conocidos con la teoría de la evolución. Las afirmaciones de que sí los hay caen en una de las siguientes categorías (que se superponen):
+
+   * Algunos presuntos problemas son preguntas sobre los detalles de los mecanismos de la evolución. Hay, y siempre habrá, detalles sin resolver en todo campo de la ciencia, y la evolución no es una excepción. Los creacionistas sacan las polémicas sobre los detalles fuera de contexto para insinuar, falsamente, que hay polémicas sobre la evolución como un todo.
+
+   * Algunos presuntos problemas son incomprensiones, ignorancia, o afirmaciones fraudulentas acerca de lo que dice la ciencia.
+
+Enlaces
+========
+
+NCSE, 2002. Analysis of the Discovery Institute's bibliography. http://www.ncseweb.org/resources/articles/3878_analysis_of_the_discovery_inst_4_5_2002.asp
+
+Tamzek, Nic, 2002. Icon of obfuscation: Jonathan Wells' book *Icons of Evolution* and why most of what it teaches about evolution is wrong. ("Icono de la ofuscación: el libro de Jonathan Wells *Iconos de la evolución* y por qué la mayoría de lo que enseña sobre la evolución está equivocado") http://www.talkorigins.org/faqs/wells/iconob.html
+
+
+/////
+
+Anterior: :doc:`CA111_1` | Siguiente: :doc:`CA113`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,167 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. author: James Randi, traducción de Ángel Arnal Artigas
+.. title: Informe de un estreno. La oposición se revela. Otra vez el Dr. Tyson. Lo mismo de siempre. Una agradable sorpresa. Para terminar...
+.. date: 2008-07-11 00:00:00
+.. type: randi
+.. category: Traducciones de James Randi
+
+
+.. |tit| replace:: Informe de un estreno — La oposición se revela — Otra vez el Dr. Tyson — Lo mismo de siempre — Una agradable sorpresa — Para terminar...
+
+.. |autor| replace:: **Ángel Arnal Artigas**
+
+Informe de un estreno
+.....................
+
+.. figure:: http://www.randi.org/images/commentary/200807/rs.jpg
+   :alt:
+   :figwidth: 254
+   :align: center
+
+   Saunders y Demarco
+
+El lector Robert Matic de Melbourne, Australia, nos informa del estreno el martes 8 de julio de 2008 de lo que se ha anunciado allí como "una búsqueda del vidente más dotado de Australia". Eso es más o menos como decir "una búsqueda del apostador menos incompetente", en mi opinión. Se titula "El Único", y acaba de aparecer en el prmie-time de la televisión comercial. Este es el programa que mencionamos en `<randi20080704.html#saunders-en-acci-n>`__. Robert escribe:
+
+  Desde el comienzo el presentador Andrew Daddo nos prometió que íbamos a recibir un programa equilibrado siendo uno de los dos jueces una creyente (Stacey Demarco – Bruja) y el otro un escéptico (Richard Saunders – Australian Skeptics). Aunque se dio a ambos jueces el mismo tiempo para comentar los resultados de los tests - ¡aproximadamente diez segundos por prueba! - la edición del programa se inclinó fuerte y predeciblemente hacia el punto de vista del creyente. Tras presentar a los siete videntes que competían por el título - con montañas de evidencias anecdóticas de sus clientes, por supuesto - el primer episodio muestra una prueba "controlada" y, después, una exhibición abierta de los poderes de los videntes en frente de la audiencia en vivo del estudio.
+
+Randi comenta: Robert resalta correctamente el extrañamente breve tiempo para comentarios que se da a los jueces; uno espera que dos expertos traídos con el objetivo de validación puedan ser capaces de expresar su pericia más a fondo. Aunque me gustaría tener una cifra más precisa que "aproximadamente diez segundos", es evidente que los editores tienen una tarea muy fácil si quieren sesgar las respuestas para lograr el efecto que deseen en un tiempo tan breve.Robert continúa:
+
+  La prueba: el presentador Andrew Daddo explicó que la "prueba controlada" había sido diseñada por Richard Saunders y consistía en un joven tumbado en una zona boscosa cubierto por una manta. A los videntes les llevaba unos seis o siete minutos caminar de punta a punta de la zona boscosa y cada uno de ellos tuvo quince minutos para encontrar al chico perdido. De los siete videntes, dos encontraron al chico. Uno lo encontró sólo unos minutos antes de que venciese el límite de quince minutos y otra lo encontró en unos impresionantes tres minutos. Tres de los videntes restantes se acercaron bastante al chico, pero se les acabó el tiempo, y los otros dos se quedaron muy lejos.
+
+Randi comenta: veo una flaqueza mayúscula, una de la que estoy seguro de que Saunders estaba al tanto, y que Robert encontró: el proceso de esconder el objetivo se había registrado en video, de modo que el cámara estaba avisado de ese detalle. Cuando Andrew Harter y yo hicimos la prueba de la varilla de radiestesia "Quadro Locator" aquí en Fort Lauderdale, el proceso se grabó para una emisora de TV local, y el cámara, - buen conocedor de la situación del objetivo - se colocó repetidamente de forma que cuando se hiciera el "descubrimiento" tuviera una buena toma. Cuando hicimos la prueba con un doble ciego apropiado, las pruebas fallaron. Y, fíjate, el hecho no se emitió porque es lo que los productores de TV llaman un "no-suceso", aunque en realidad era un suceso que mostraba que las afirmaciones del aparato Quadro Locator no tenían fundamento. Robert de nuevo:
+
+  Lamentablemente, los controles de la prueba no se revelaron al espectador, haciendo muy difícil identificar cualquier posible laguna en el protocolo o si Richard Saunders se veía limitado en los controles que podía imponer. Tengo la insidiosa sospecha de que los cámaras que filmaban a los videntes conocían en todo momento la localización del chico. Si este era el caso, el test no se hacía con doble ciego y los cámaras podían proporcionar, sin saberlo, pistas a los videntes a través del estilo de filmación o las reacciones a los movimientos de los videntes. Por ejemplo, aunque puede que esté intentando extraer datos, me pareció que cuando los videntes estaban muy equivocados, el cámara daba vueltas a su alrededor frecuentemente y los filmaba muy a menduo de frente, sin embargo, cuando se acercaban a la localización del chico, el cámara se centraba en el vidente con la zona del chico dentro de plano, casi señalando el camino. Sin embargo, al no conocer los controles de la prueba todo esto no son más que suposiciones.
+
+Randi comenta: ¡Aleluya! ¡Robert pilló el fallo, y lo analizó adecuadamente!
+
+  Segundo, se mostraba a los videntes buscando al chico y comentando sus pensamientos en voz alta y entonces se nos enseñaba un mapa con un punto rojo en el lugar del chico y una flecha señalando la situación del vidente y la dirección en la que se movía. El terreno tenía un camino que se bifurcaba, dando a los videntes la oportunidad de ir ligeramente a la izquierda o bruscamente a la derecha. La vidente que encontró al chico en poco más de tres minutos fue la única de los siete que eligió el camino de la derecha. Los otros seis eligieron el camino de la izquierda que llevaba casi hasta el final de la zona boscosa hasta que tenían un "flash psíquico" repentino y retrocedían hacia el chico. Descraciadamente, el mapa no incluía una línea tras la flecha que mostrase todos los lugares en los que había estado el vidente antes de acercarse al chico. Si la línea se hubiera sobreimpreso al mapa, hubiera sido, sin duda, evidente que los videntes simplemente miraban en todas partes y uno de los seis tuvo la suerte de encontrarse con la localización del chico.
+
+Randi comenta: y recuerda que se hicieron siete intentos de adivinar. Las probabilidades dicen que al menos un intento tenía que ser impresionante. Como hemos visto, se permitió que los que fallaron pusieran excusas. Y no pierdas de vista que un cámara - que sabía que iba en la dirección correcta - estaría excitado por dar cobertura a esa dirección y pasaría de las otras. Todos estos factores llevan al aparente éxito del vidente...
+
+  Tercero, los videntes podían comentar sus procesos de pensamiento después de que se revelaron sus resultados, imágenes que se unieron en la edición a la filmación de su búsqueda del chico. Obviamente, los videntes que fueron en la dirección equivocada durante unos buenos siete u ocho minutos antes de retroceder hacia el chico y acercarse bastante en los últimos minutos hablaron de "flashes psíquicos" y "saber que estaban cerca" o "saber que tenían que darse la vuelta". Una vidente salió con una situación de ganar sí o sí: "Mi cabeza me decía que fuera por el camino de la izquierda y mi corazón por el de la derecha, debería haber escuchado a mi corazón en lugar de a mi cabeza". Podría decirle qué es lo que habría oído si hubiera escuchado a su corazón. Ba-bum, ba-bum, ba-bum – aproximadamente entre sesenta y setenta veces por minuto [*por segundo* en el original], si está en reposo.
+
+  Finalmente, hubiera sido interesante tener un grupo de control involucrado en la prueba. Siete no-videntes a los que también se les hiciera la prueba y se pudiera comparar los resultados. ¿Hubiera encontrado alguno de los no-videntes al chico casi inmediatamente? ¿Lo hubiera encontrado otro después de buscar casi en todas partes durante quince minutos? ¿Se hubieran acercado otros, quizás leyendo las acciones y reacciones de los cámaras?
+
+¡Exactamente, Robert! ¡Buen análisis! ¡Pasa a la primera fila de la clase!
+
+  Al final, el resultado impresionante fue el de la vidente que encontró al chico en tres minutos. Al haber descrito sus acciones como viéndose arrastrada inmediatamente hacia el chico a través de una "cuerda psíquica" anclada a su pecho, sería interesante repetir el experimento con el chico en un lugar diferente y ver si se podía repetir la maravilla de los tres minutos. Lo dudo.
+
+  Para la exhibición libre de poderes, se trajo y presentó formalmente a cada vidente y los espectadores recibieron cierta información general. La mayoría de los videntes hicieron su número en frente de la audiencia mientras otros se apoyaron en pruebas anecdóticas de clientes para pasar este segmento. Se nos mostró el trabajo de un sanador Reiki sobre uno de sus pacientes. Oímos llamadas alabando la precisión de un vidente radiofónico: "Dijiste que tendría un coche verde y tengo un coche verde", "Dijiste que tendría gemelos y tengo gemelos", etc. No puedo imaginar que hubiera mucha gente que llamase para decir "Dijiste que tendríamos un niño y tuvimos una niña". Curiosamente, el vidente radiofónico no hizo su número ante el público en vivo del estudio.
+
+  Los videntes que actuaron frente a la audiencia usaron los mismos viejos métodos de lectura en frío tan familiares para el escéptico. "Siento problemas en torno a la zona del pecho", "Usted tiene jaquecas", "Recibo el número dos", etc. El punto más notable de "acierto" fue cuando uno de los videntes - tras marcarse varios aciertos con un miembro del público - dijo "¡Está usted ardiendo!" Ese miembro del público dijo más tarde "¡Supo que mi casa se estaba quemando!" ¿¡¿Qué?!?
+
+  Sucedieron también varias indicaciones de "lectura en caliente", que por supuesto no eran imposibles. ¿Pasaron algún tiempo los videntes con el público antes de la grabación? Obviametne, los miembros de la audiencia habían comprado entradas para el espectáculo. ¿Habían venido algunos de los antiguos clientes de los videntes - o clientes actuales - a la grabación del programa? ¿Quién sabe?
+
+  En general, me decepcionó que la realización del programa se inclinase tan fuertemente hacia la creencia y me hubiera gustado haber oído algo más que fragmentos de diez segundos por parte de los jueces. Las técnicas de lectura en frío ni siquiera se comentaron, o se dejaron fuera en la edición. ¿Cuantos fallos se eliminaron del segundo segmento del programa? Seguiré viendo el programa para ver dónde termina, pero no tengo muchas esperanzas.
+
+Amigos, Robert Matic nos ha mostrado una notable buena comprensión de cómo analizar eventos de esta naturaleza, registros en video que pueden haberse visto sujetos a edición, selección y parcialidad. Aunque Richard Saunders se ha visto restringido - por limitaciones contractuales - al expresar sus preocupaciones, puedo asegurarte que está al tanto de estos problemas tanto como lo está Mr. Matic. Esperamos con gran interés futuros análisis de programas de esta serie.
+
+La oposición se revela
+......................
+
+Para ver más claramente a qué nos oponemos, ve a http://californiajudgment2008.citymax.com/page/page/4415990.htm y simplemente echa un vistazo a las 5.000 palabras de estupideces que encontrarás allí, en varios colores, montañas de exclamaciones y citaciones interminables de libros mitológicos extinguidos. Este sitio web nos proporciona un excelente ejemplo de hasta qué punto esta gente está confundida y puerilizada. Me resulta difícil creer que estos individuos se hayan visto jamás expuestos a ninguna educación, o que puedan funcionar en el mundo real, o que en alguna ocasión algún pensamiento racional haya pasado por su mente. Este sitio me asusta porque significa que hay un gran número de ciudadanos de los EE.UU. que se pondrán en la cola el 4 de noviembre para registrar sus decisiones basadas en la superstición, las alucinaciones y la desinformación sobre las cuestiones básicas de cómo funciona el mundo; tenemos que superarlos en número, y ser conscientes de que nuestra presencia en esa misma cola ante las máquinas de votar es de vital importancia.
+
+¡Por favor, sal y vota en noviembre!
+
+Otra vez el Dr. Tyson
+.....................
+
+Si vas a http://tinyurl.com/68d5q8 encontrarás un resumen de 38 minutos en video de una charla a cargo del orador estrella del TAM6, Neil DeGrasse Tyson, aunque de una aparición diferente. También encotrarás alli referencias a "videos relacionados" que supongo que te mantendrán muy ocupado durante unos días... El Dr. Tyson fue de verdad un gran invitado, muy accesible, amable e informativo. Espero conocerle mejor en los próximos años, te lo aseguro.
+
+.. image:: http://www.randi.org/images/commentary/200807/tyson2.jpg
+   :alt:
+   :align: right
+
+Para quienes no consiguieran comprar uno de los libros de Tyson que teníamos en el TAM6 porque se nos agotaron, sabed que nos han llegado más ejemplares de "El cielo no es el límite", "Orígenes" y "Muerte por agujero negro", el último una de las selecciones de "bestsellers" del New York Times. Ve a http://www.randi.org/joom/jref-store/260.html y haz tu pedido.
+
+También verás allí el excelente libro "Skeptoid" de Brian Dunning, así como "Entrena tu mente, cambia tu cerbro" de Sharon Begley, que encuentro valioso a pesar del prólogo del Dalai Lama - a quien consedero más bien un magufo por necesidad.
+
+El TAM6 fue sobresaliente y satisfactorio de muchas otras formas. Seguimos abriendo camino con respecto al porcentaje de mujeres que asistieron, la variedad de tipos étnicos que atrajimos y, especialmente, el número de personas jóvenes que se acercaron. Esta es una cuestión que personalmente me enorgullece mucho, porque rompe la visión de tipos blancos gruñones y viejos del movimiento escéptico que ha estado vigente tanto tiempo. Sí, TAM6 nos exigió mucho en cuanto a trabajo duro y largas horas, pero la aceptación que ha tenido ha hecho que valga totalmente la pena.
+
+Mi ayudante Sean ha preparado un análisis de la composición de la audiencia. Ha visto que había cinco continentes representados, y diecisiete países, que eran Australia, Bélgica, Brasil, Canadá, Chile, China, Corea del Sur, Dinamarca, España, Estados Unidos, Francia, Holanda, Irlanda, Japón, Nueva Zelanda, Reino Unido y Suecia. Y de las 940 personas inscritas, 271 eran mujeres; ¡eso es el 29%, amigos! ¡Nos encantaría ver mejorar ese número...!
+
+Lo mismo de siempre
+...................
+
+.. image:: http://www.randi.org/images/commentary/200807/tittel.jpg
+   :alt:
+   :align: right
+
+Siempre nos sorprende que los mismos viejos métodos desenmascarados hasta la saciedad se sigan usando para atraer a los incautos, y el público rápidamente - ávidamente - los agarre como si fueran nuevos. Mucha de esa aceptación la crean deliberadamente los medios de comunicación que tienen poco o ningún interés en la verdad o en qué impacto negativo pudiera tener esto en sus consumidores; su única preocupación es salir con una historia sensacional. El lector de SWIFT Alexander Grimwade nos remite a un artículo que aparece en lo que nos señala como "el antaño respetable Philadelphia Inquirer" sobre una nueva estrella en el mundo de los médium llamado Joseph Tittel – respaldado ni más ni menos que por James van Praagh, que estoy seguro que lo tiene hablando por los codos. En http://tinyurl.com/6jsn8e puedes ver la historia completa. Dice el lector Grimwade:
+
+  El extenso artículo de http://www.philly.com/inquirer/magazine/24057794.html se publicó en una posición prominente - completo con fotos en color - el 8 de julio. La actuación [de Tittel] se describió ampliamente y con todo lujo de detalles con sólo una minúscula cita de un escéptico.
+
+  Tittel añade una nueva arruga a la cansina actuación. Cuando falla al adivinar algo a un cliente les dice bruscamente "Anótelo... más adelante tendrá sentido". Escribí una carta de refutación, de la que hoy se publicó una parte - http://philly.com/inquirer/opinion/24167344.html – más o menos a mitad de altura, pero me temo que mi columna de cinco centímetros no podrá competir con los 150 centímetros más dos fotos grandes en color del artículo. Es otro batacazo para el Inquirer, que solía ser uno de los mejores diarios de América.
+
+Una nota para Mr. Grimwade: la treta del "más adelante tendrá sentido" no es nada nuevo; la han usado los lectores en frío desde que se desarrolló el arte por parte de los primeros charlatanes. John Edward y James Van Praagh la usan frecuentemente.
+
+El artículo del Inquirer - como dice el lector Grimwade - es acrítico. No se expresa ninguna duda, excepto por una breve cita de Eric Krieg, que encabeza la Asociación de Philadelphia por el Pensamiento Crítico. Se le permite un total de 26 palabras, luego sigue la demasiado efusiva aceptación del reportero David Hiltbrand. Hiltbrand está impresionado cuando Tittel adivina que alguien de su público de 30 personas podría saber, estar conectado con o reconoce "una muerte por cancer de pulmón", y luego expresa su sospecha de que alguien "está embarazada y ni siquiera lo sabe". Dice a una mujer que su padre muerto quiere que vaya a Sears a comprar un cortacésped. Guau. Pero la mitad de la gente - que habían pagado $45 cada uno para asistir - no recibieron noticias tan asombrosas com estas, y se fueron sin ningún consejo del otro mundo.
+
+Tittel le dio a Hiltbrand la excusa estándar para su falta de precisión. Una "visión" de un reloj de cuco, por ejemplo, le sugiere "un vínculo con Alemania". O podría ser sólo una evaluación de su estado mental general o el de sus víctimas. O un reloj perdido. ¿Quizás unas vacaciones en Baviera? Puedes ver lo duro que resulta este juego de adivinanzas, aunque tiene pocas oportunidades de no impresionar, dada la ingenuidad de su público y la carísima entrada que han pagado para no recibir nada...
+
+La casa de Tittel en Levittown exhibe un puñado de gnomos de jardín en el parterre frontal, y en su cocina hay un altar a Elvis. Ninguna sorpresa. Incluso admite su actitud blandengue y vaporosa - típica de estos proveedores de papilla, al decir:
+
+  En el otro lado todo es amor, energía positiva, paz y felicidad. Allí no hay negatividad. Cuando pasamos tiempos difíciles, estáh ahí con nosotros. Y en cada fiesta u ocasión especial, siempre están ahí. No se pierden nada - el nacimiento de un niño, una boda - asisten a todos ellos *[sic]* eventos.
+
+Pero parece que Mr. Tittel está dispuesto a que lo pongan a prueba, y quizás esté interesado en optar al premio de la JREF. Dice:
+
+  El cambio de precios mantiene alejados a los cínicos pero no a los escépticos, y hay una gran diferencia. Con los cínicos, podría decirles lo que habían tomado para desayunar, comer y cenar y seguirían diciendo que soy un embustero. Los escépticos tienen un *[sic]* mente abierta. Y siempre reciben las mejores lecturas. Esto me vuelve loco. Tengo a una mujer totalmente receptiva y ávida que quiere oír los mensajes. Y ahí está el Sr. Escéptico y él se lleva los mejores detalles. Así son los espíritus. Quieren asegurarse de que sale de aquí sabiendo que ha hecho un contacto.
+
+Dígame lo que comí y ya está a medio camino, Mr. Tittel. Un millón de pavos, señor. Espero su inscripción, pero no aguantaré la respiración...
+
+El lector Alexander Grimwade envió esta carta al Inquirer:
+
+  Es bastante sorprendente ver al Inquirer dedicar tanto espacio al adulador y crédulo retrato que hace David Hiltbrand del así llamado médium Joseph Tittel ("Medium consigue seguidores", 8 de julio). El artículo describe al clásico "lector en frío" - un artista que espolvorea docenas o hasta cientos de factoides a una amplia audiencia y cuenta como "aciertos" los que toscamente encajan con alguien del público. El proceso abunda en parcialidad en la confirmación. Todos recuerdan los aciertos y nadie recuerda los fallos.
+
+  Ningún "médium" ha logrado nunca hacer su número en algo que se parezca remotamente a una prueba científica. Esta gente está rapiñando la credibilidad del público para quedarse con su dinero y darles una esperanza prefabricada basada en conjeturas. Qué vergüenza para el Inquirer tratar una actuación así de un hombre del espectáculo como si fuera cierta.
+
+Esperamos una respuesta - que podría llegar simultáneamente con la inscripción de Joseph Tittel para el reto del millón de dólares de la JREF.
+
+O sea, nunca...
+
+Una agradable sorpresa
+......................
+
+.. figure:: http://www.randi.org/images/commentary/200807/notes.jpg
+   :alt:
+   :figwidth: 204
+
+   Notas de amor de TAM...
+
+El mes pasado en el TAM6 me regalaron algo como un enorme trofeo deportivo que contenía cientos de sobrecitos. Se suponía que tenía que ser una sorpresa para mí, y lo fue. Cada uno de los más de 900 asistentes había escrito una breve nota expresando cómo la JREF había cambiado su vida. Después de todo, eso es lo que siempre se intenta hacer, y ahora que tengo un poco más de tiempo soy capaz de zambullirme en esas notas y ver los pensamientos de los JREFeros a este respecto. Saqué unas pocas, las encontré interesantes, y decidí sacar unas pocas cada semana - elegidas al azar de modo que todas las opiniones se vean representadas - para compartirlas con los lectores de SWIFT. La mayoría no estaban firmadas, y las publicaremos así. Esta semana, las cinco primeras:
+
+  Me enseñaste que no soy el único que piensa así. Además, gracias por tanta sabiduría y entretenimiento.
+
+  Gracias por reunirnos y hacernos saber que no estamos solos.
+
+  Tu efecto sobre mi vida se ha manifestado por sí mismo en forma de mi novio. Tu amor por la ciencia, la verdad y el pensamiento crítico ayudó a formarlo y moldearlo como la persona curiosa, abierta de mente y apasionada que es. Hoy honro tu contribución al mundo de la ciencia y el misterio. Gracias.
+
+  Gracias por tu devoción a la realidad.
+
+  Cuando tenía 12 o 13 años, leí "Flim-Flam!" Me quedé absorbido de inmediato. No me introdujo exactamente al escepticismo y el pensamiento crítico, pero fue una epifanía. Me mostró el enorme efecto de esa forma de pensar, y nunca miré atrás. ¡Gracias!
+
+Hasta aquí todo bien. No puedo expresar lo satisfactorio que es saber que hemos tenido un efecto real - aunque eso era bastante evidente viendo la entusiasta respuesta que hemos experimentado siempre desde que comenzamos en 1996. Cambiar la vida de las personas es una pesada responsabilidad, y os aseguro que pienso en ello con cada SWIFT que publico y cada video o podcast con el que me asocio. La verdad me importa mucho a mí y a la JREF; guía nuestras vidas y da forma a nuestras acciones. Los buitres que vemos por ahí depredando a los vulnerables nos recuerdan que nuestra batalla está trabada cada vez que nos sentamos ante el teclado, atendemos una llamada telefónica, nos dirigimos a un micrófono o nos enfrentamos al ojo electrónico que no parpadea de una cámara. Estas notas de ánimo que vemos apiladas en una copa nos mantienen avanzando con entusiasmo...
+
+Para terminar...
+................
+
+.. image:: http://www.randi.org/images/commentary/200807/todd.jpg
+   :alt:
+   :align: right
+
+Nuestro buen amigo Todd Robbins – ver http://www.toddrobbins.com – presentará un nuevo espectáculo en el festival "Just For Laughs" de Montreal entre el 13 y el 17 de julio. El espectáculo se llama "Hoodwinked" e incluye a Todd – en su personaje de operador secundario, al tahúr Richard Turner, al carterista Bob Arno y a nuestro propio artista vidente, el inimitable Banachek. Si estás en la zona, ve. Cualquier cosa que presente Todd es canela en rama...
+
+.. image:: http://www.randi.org/images/commentary/200807/spoonscience.jpg
+   :alt:
+   :align: right
+
+Para aquellos de vosotros que no acudisteis al TAM 6 quisiéramos compartir un video que hizo nuestro buen amigo el profesor Richard Wiseman en el que todos los asistentes al TAM participaron en la mayor demostración masiva de doblado de cucharas de todos los tiempos, que quizás haya establecido un récord. Puedes leer acerca de esto y ver el video en http://www.spoonscience.com. Estamos encantados de que el profe Wiseman eligiera el TAM para este evento de establecimiento de un récord.
+
+|firmarandi|
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: Traducido por Ángel Arnal Artigas
+    :description: Informe de un estreno — La oposición se revela — Otra vez el Dr. Tyson — Lo mismo de siempre — Una agradable sorpresa — Para terminar...

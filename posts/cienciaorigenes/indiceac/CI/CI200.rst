@@ -1,0 +1,36 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CI, CI200
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2004-4-22
+.. type: afirmacrea
+.. title: CI200: Tiene que haber habido una primera causa
+.. description: Respuesta a la afirmación creacionista «Tiene que haber habido una primera causa»
+.. slug: CI200
+.. link: http://www.talkorigins.org/indexcc/CI/CI200.html
+
+Todo evento tiene una causa. El universo mismo tuvo un principio, así que tiene que haber habido una primera causa, la cual tiene que haber sido un Dios creador.
+
+**Fuente:**
+
+Craig, W. L., 1994. *Reasonable Faith: Christian truth and apologetics*, Crossway Books, Wheaton IL.
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, pp. 19-20.
+
+Respuesta
+=========
+1. La presuposición de que todo evento tiene una causa, aunque es común en nuestra experiencia, no es necesariamente universal. La aparente falta de causa para algunos eventos, como la desintegración radiactiva, sugiere que puede haber excepciones. También hay hipótesis, como la de dimensiones alternas en el tiempo o un universo eternamente oscilante, que permiten :doc:`un universo sin una primera causa <CE440>`.
+2. Por definición, una causa viene antes que un evento. Si el tiempo comenzó con el universo, "antes" ni siquiera se aplica, y es lógicamente imposible que el universo tenga una causa.
+3. Esta afirmación genera la pregunta de qué causó a Dios. Si, como afirman algunos, Dios no necesita una causa, entonces con el mismo razonamiento el universo tampoco.
+
+
+/////
+
+Anterior: :doc:`CI191` | Siguiente: :doc:`CI301`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

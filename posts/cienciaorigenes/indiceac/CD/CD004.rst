@@ -1,0 +1,45 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CD004: Los rayos cósmicos y los neutrinos libres afectan a los períodos de semidesintegración del uranio y el argón
+.. description: Respuesta a la afirmación creacionista «Los rayos cósmicos y los neutrinos libres afectan a los períodos de semidesintegración del uranio y el argón»
+.. slug: CD004
+.. link: http://www.talkorigins.org/indexcc/CD/CD004.html
+.. tags: CD, CD000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-08-13
+.. modified: 2004-09-08
+
+Los rayos cósmicos y los neutrinos libres, que pueden ser producidos por supernovas cercanas o la inversión del campo magnético de la Tierra, podrían afectar al período de semidesintegración de los elementos radiactivos, invalidando los métodos de datación radiométrica como el carbono-14, el uranio-plomo y el potasio-argón.
+
+**Fuente**
+
+Morris, Henry M., 1974. Scientific Creationism, Green Forest, AR: Master Books, pp. 142-143,146.
+
+Respuesta
+=========
+
+1. ¿Dónde puede hallarse la menor evidencia de que los rayos cósmicos o los neutrinos afectan los períodos de semidesintegración? Los sigientes hechos muestran lo contrario:
+
+   * Dentro de los generadores normales de energía nuclear por fisión, la radiación de neutrinos es intensa, pero el uranio no fisionado se desintegra en los períodos normales.
+   * Algunas naves espaciales obtienen su energía de la desintegración nuclear. Algunas de ellas vuelan en campos muy intensos de rayos cósmicos (por ejemplo cerca de Júpiter). Si los rayos cósmicos afectaran los períodos de semidesintegración, la potencia generada sería distinta de lo esperado.
+   * Para obtener rocas sin desgaste por factores climáticos, las rocas usadas para la datación radiométrica normalmente se obtienen a cierta profundidad dentro de un afloramiento rocoso, donde los rayos cósmicos tienen efecto insignificante.
+
+2. Una radiación tan alta como para afectar los períodos de semidesintegración por varios órdenes de magnitud (un cambio lo bastante grande como para admitir las escalas del tiempo que revelaran una tierra joven) hubiera esterilizado el planeta.
+3. La inversión del campo magnético de la tierra no produce rayos cósmicos ni neutrinos. Pueden permitir que más rayos cósmicos lleguen a la superficie de la Tierra, pero no mucho más que eso, y la mayoría de las rocas usadas para la datación han estado enterradas por la mayor parte de su historia.
+4. La datación por carbono-14 se :doc:`calibra <CD011_1>` con relojes independientes.
+
+Otras lecturas
+==============
+
+Young, Davis A., 1988. *Christianity and the Age of the Earth.* Thousand Oaks, CA: Artisan Sales.
+
+/////
+
+Anterior: :strong:`CD002` | Siguiente: :doc:`CD010`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

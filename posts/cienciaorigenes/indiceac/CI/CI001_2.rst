@@ -1,0 +1,85 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CI001.2: El diseño inteligente no es creacionismo
+.. description: Respuesta a la afirmación creacionista «El diseño inteligente no es creacionismo»
+.. slug: CI001_2
+.. link: http://www.talkorigins.org/indexcc/CI/CI001_2.html
+.. tags: CI, CI000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-05-30
+.. modified: 2005-12-07
+
+
+
+El diseño inteligente (DI) es muy distinto del creacionismo, porque
+
+a. "Creacionismo de diseño inteligente" es un nombre peyorativo, no un nombre usado por miembros del movimiento del DI.
+b. Los creacionistas y los críticos justos reconocen que hay diferencia entre el DI y el creacionismo.
+c. El DI es científico.
+d. Las implicaciones religiosas del DI están separadas de su programa científico.
+
+Fuente
+======
+
+West, John G. Jr., 2003. Intelligent design and creationism just aren't the same. http://www.arn.org/docs2/news/idandcreationismnotsame011503.htm
+
+
+Respuesta
+===========
+
+1. Las razones dadas por las que DI no es creacionismo fracasan en probarlo.
+
+   a. El término "creacionismo de diseño inteligente" se usa porque es descriptivo. El hecho de que el movimiento de DI no lo use no significa nada, porque el movimiento está basado en propaganda y manipulación de imagen ([Branch_2002]_; [CRSC_1998]_; [Forrest_2002]_).
+
+      Usar este argumento además es una hipocresía descarada. Los miembros del DI son incansables al llamar "darvinismo" a la evolución y "darwinistas" a los científicos evolutivos, a pesar de que los científicos evolutivos no usan esos rótulos de ese modo.
+
+   b. Hay diferencias entre creacionismo de DI, creacionismo de la tierra joven, creacionismo de la tierra antigua, creacionismo de los huecos, creacionismo védico y otras formas de creacionismo. Aún así, todos son creaconismos.
+
+   c. El DI es :doc:`cualquier cosa salvo científico <CI001>`.
+   d. Dado que el DI no tiene programa científico en lo absoluto, su último punto carece de sentido.
+
+2. Son sus proponentes los que definen y tratan al diseño inteligente como una forma de creacionismo. (Las ideas listadas aquí son preponderantes en el movimiento del DI, pero puede haber miembros individuales que estan en desacuerdo con algunos de ellos.) Las características principales del diseño inteligente (rechazo del naturalismo, negación de la evolución, creencia en la aparición abrupta y en el diseño sobrenatural, énfasis en los huecos del registro fósil, declaraciones de apoyo científico, afirmaciones de que la evolución es una amenaza para la sociedad, y apoyo de la "enseñanza de la controversia") permanecen prácticamente sin cambios desde el creacionismo de la tierra joven de la década de 1970 ([Forrest_2005]_)
+
+   * El dominio de internet www.creation-science.com (al 17 de setiembre de 2004 [#dominio]_) estaba registrado a nombre de Access Research Network, una importante organización de DI, y redirigía a su sitio web.
+   * Un libro importante sobre DI captura la idea de creación en su definición:
+
+      Diseño inteligente significa que las diversas formas de vida comenzaron abruptamente por medio de una entidad inteligente, con sus características distintivas intactas: peces con aletas y escapas, pájaros con plumas, picos y alas, etc. ([Davis_Kenyon_1989]_, pp. 99-100)
+
+   El movimiento del DI rechaza las explicaciones naturalistas para los orígenes  busca reemplazarlos con unas pocas creaciones repentinas a manos de un agente sobrenatural a quien casi todos los miembros del movimiento identifican con el dios cristiano. Eso es claramente creacionismo.
+
+3. La estrategia del "diseño inteligente" evolucionó a partir del creaconismo. Un libro de texto en favor del diseño inteligente, *Of Pandas and People* ("Sobre pandas y personas") estaba en borrador en 1987 cuando el fallo Edwards v. Aguillard volvió inconstitucional enseñar "ciencia de la creación" en los Estados Unidos. Borradores tempranos del libro muestran que era un libro creacionista, que usaba la palabra "creación" y sus derivados en toda su extensión. Borradores redactados luego de la decisión de Edwards muestran que los autores simplemente reemplazaron "creación" con "diseño inteligente" ([Kitzmiller_v_Dover_2005]_).
+
+
+/////
+
+Enlaces
+=======
+
+* Forrest, Barbara. 2005. From "Creation Science" to "Intelligent Design": Tracing ID's Creationist ancestry. http://www.creationismstrojanhorse.com/Tracing_ID_Ancestry.pdf
+
+* Thomas, Dave. 2003. The C-Files: The smoking gun - "intelligent design" IS creationism! http://www.nmsr.org/smkg-gun.htm
+
+Referencias
+===========
+
+.. [CRSC_1998]  CSRC, 1998. The wedge strategy. http://www.antievolution.org/features/wedge.html o http://www.stephenjaygould.org/ctrl/archive/wedge_document.html
+.. [Branch_2002] Branch, Glenn. 2002. Evolving banners at the Discovery Institute. *Reports of the National Center for Science Education* 22(5): 12. http://www.ncseweb.org/resources/articles/4116_evolving_banners_at_the_discov_8_29_2002.asp
+.. [Davis_Kenyon_1989] Davis, Percival and Dean H. Kenyon. 1989. *Of Pandas and People: The Central Question of Biological Origins* (2nd ed.). Dallas, TX: Haughton.
+.. [Forrest_2002] Forrest, Barbara. 2002. The wedge at work: How intelligent design creationism is wedging its way into the cultural and academic mainstream. En Pennock, Robert T. (ed.), *Intelligent Design Creationism and Its Critics*, Cambridge, MA: MIT Press, pp. 5-53.
+.. [Forrest_2005] Forrest, Barbara. 2005. From "Creation Science" to "Intelligent Design": Tracing ID's Creationist ancestry. http://www.creationismstrojanhorse.com/Tracing_ID_Ancestry.pdf
+.. [Kitzmiller_v_Dover_2005] Kitzmiller v. Dover Area School District, 2005. Transcripción del juicio: Día 6 (5 de octubre), Sesión matinal, Parte 2, http://www.talkorigins.org/faqs/dover/day6am2.html#day6am539
+
+/////
+
+Anterior: :doc:`CI001_1` | Siguiente: :doc:`CI001_3`
+
+/////
+
+Notas de Sin Dioses
+===================
+
+.. [#dominio] Al momento de hacer esta traducción (12-oct-2020) el dominio se encuentra disponible [N. de E.]
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

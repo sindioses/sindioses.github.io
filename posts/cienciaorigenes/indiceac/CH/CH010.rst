@@ -1,0 +1,88 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH000
+.. author: Mark Isaak, traducción de Paulina Madariaga
+.. nocomments: True
+.. slug: CH010
+.. link: http://talkorigins.org/indexcc/CH/CH010.html
+.. date: 2004-04-21 02:00:00+00:00
+.. title: CH010: El creacionismo es moral, porque se basa en la Biblia.
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «El creacionismo es moral, porque se basa en la Biblia.»
+
+El creacionismo, debido a que se basa en la Biblia, es moral. Negar el creacionismo es negar la Biblia y, por ende, es algo inmoral.
+
+Respuesta
+===========
+
+1. Muchas barbaridades en el pasado se han justificado alegando tener una base bíblica. Afirmar que algo es bíblico no dice relación con que algo sea bueno o no.
+
+2. El creacionismo no está basado en la Biblia. Muchas personas que aceptan la Biblia no aceptan el creacionismo. El creacionismo bíblico (no nos ocuparemos aquí del creacionismo del Corán o de las Vedas) está basado en una interpretación particular de la Biblia. Es una forma de intolerancia religiosa; afirma que una particular interpretación religiosa no solo se aplica a las personas pertenecientes a esa religión, sino a todo el mundo, en todas partes, y que la religión de una persona que diga otra cosa está equivocada. Esta intolerancia es manifiesta en muchos creacionistas ([Tparents_n_d]_). De hecho, el creacionismo afirma que la opinión religiosa de un individuo se aplica a todo el universo. Esto no es solo intolerancia, sino también arrogancia. Dado que la intolerancia y la arrogancia son inmorales, el creacionismo es inmoral en sí mismo.
+
+3. El creacionismo es tanto un movimiento político como religioso. Por ejemplo, la estrategia de la “cuña” organizada por Phillip Johnson y el Discovery Institute está financiada por Howard F. Ahmanson Jr. y su esposa Roberta. (Johnson les dedicó uno de sus libros). Ahmanson apoya el Reconstruccionismo Cristiano, que busca reemplazar la democracia de Estados Unidos por una teocracia fundamentalista. En la sociedad que él quiere construir, se implementaría la pena de muerte para “infractores” tales como brujas, homosexuales, niños incorregibles y personas que no estén de acuerdo con la religión del Estado. ([Benen_2000]_), [Forrest_y_Gross_2004]_, 22-23, 265-267).
+
+4. La moral se juzga sobre la base de hechos, no de afirmaciones. Hay varias manifestaciones que demuestran que las obras de los creacionistas no superan la moral promedio:
+
+   - :doc:`Citas fuera de contexto <CA113>`.
+
+   - Logros falsos ([Vickers_1998]_).
+
+   - Afirmaciones fraudulentas, tales como las :doc:`huellas de Paluxy <CC101>`, :doc:`el hombre de Malachite <CC111>` y :doc:`la historia de Lady Hope <CG001>`.
+
+   - Uso reiterado de afirmaciones ya refutadas, tales como :doc:`el polvo lunar <CE101>` y :doc:`la segunda ley de la termodinámica <CF001>`.
+
+   - El vilipendio de sus oponentes; por ejemplo, la constante comparación entre ellos y asesinos de masas. ([Elsberry_y_Perkah_2004]_).
+
+   Estos ejemplos no son aplicables a todos los creacionistas. La mayoría de los creacionistas, tal como la mayoría de las personas en cualquier categoría, son buenas personas en conjunto. Pero los creacionistas, a diferencia de los evolucionistas o de la mayoría del resto de la gente, tienen un fuerte compromiso ideológico. Compromisos tan fuerte como los suyos pueden, y a juzgar por los ejemplos anterior es probable que así sea, llevar a las personas a comportamientos de dudosa moralidad si consideran que eso apoyará lo que consideran una causa mayor. Todavía son necesarios estudios objetivos para determinar definitivamente si los creacionistas son menos morales que el promedio de las personas, pero la teoría y la evidencia existente así parece señalarlo.
+
+5. La Biblia no es una guía consistente de moralidad; describe una serie de acciones que, en general, se considerarían inmorales, si acaso no francamente repugnantes.
+
+   - En {{% biblia "Números 31:17-18" DHH %}}, Moisés ordena a sus tropas que asesinen a todas las mujeres y niños en Madián, salvo las jóvenes vírgenes, a las cuales las tropas pueden conservar para ellos mismos.
+
+   - En {{% biblia "Éxodo 32:27" DHH %}}, Moisés ordena a su pueblo que asesine a sus hermanos, hijos y compatriotas por haber rendido culto de manera incorrecta.
+
+   - De acuerdo a {{% biblia "2 Reyes 2:23-24" DHH %}}, Eliseo maldijo a unos muchachos, dando como resultado que cuarenta y dos de ellos fueran masacrados por dos osos, solo porque se burlaron de su calvicie.
+
+   - En {{% biblia "1 Crónicas 13:7-11" DHH %}}, Uza cae muerto por intentar mantener a salvo el Arca de la Alianza.
+
+   Consulta [Robinson_2000]_ para ver más ejemplos.
+
+Enlaces
+========
+
+Vickers, Brett, 1998. Some questionable creationist credentials, http://www.talkorigins.org/faqs/credentials.html
+
+Referencias
+==============
+
+.. [Benen_2000] Benen, Steve. 2000. Fat-cat theocrat funds creationism crusade. *Church & State* (Jul/Aug).
+
+.. [Elsberry_y_Perkah_2004] Elsberry, Wesley R. and Mark Perakh. 2004. How Intelligent Design advocates turn the sordid lessons from Soviet and Nazi history upside down. http://www.talkreason.org/articles/eandp.cfm]
+
+.. [Forrest_y_Gross_2004] Forrest, Barbara and Paul R. Gross. 2004. *Creationism's Trojan Horse*, New York: Oxford Univ. Press.]
+
+.. [Robinson_2000] Robinson, B. A. 2000. Bible passages that are immoral by today's standards. http://www.religioustolerance.org/imm_bibl.htm]
+
+.. [Tparents_n_d] Tparents. n.d. Dr. Jonathan Wells returns to UTS. http://www.tparents.org/library/unification/publications/cornerst/cs970506/cst_dr-jonathan.html
+
+.. [Vickers_1998] Vickers, B. 1998. (Ver arriba)
+
+Lecturas recomendadas
+=========================
+
+Drange, Theodore M. 1998. Why be moral? http://www.infidels.org/library/modern/theodore_drange/whymoral.html
+
+Carrier, Richard. 1998. Does the Christian theism advocated by J. P. Moreland provide a better reason to be moral than secular humanism? http://www.infidels.org/library/modern/richard_carrier/moreland.html
+
+Grünbaum, Adolf. 1995. The poverty of theistic morality. In: *Science, Mind and Art*, K. Gavroglu, J. Stachel and M. W. Wartofsky, eds., Dordrecht: Kluwer Academic Publishers, pp. 203-242. http://www.infidels.org/library/modern/adolf_grunbaum/poverty.html
+
+Sagi, Avi and Daniel Statman. 1995. *Religion and Morality*. Trans. Batya Stein, Atlanta: Rodopi, pp. 107-112.
+
+/////
+
+Anterior: :doc:`CH001` | Siguiente: :doc:`CH010_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

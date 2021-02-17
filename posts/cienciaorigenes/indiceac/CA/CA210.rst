@@ -1,0 +1,70 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA200
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA210
+.. link: http://www.talkorigins.org/indexcc/CA/CA210.html
+.. date: 2005-11-03 02:00:00+00:00
+.. title: CA210: La evolución no hace predicciones
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La evolución no hace predicciones»
+
+Una ciencia verdadera debe hacer predicciones. La evolución sólo describe lo que ocurrió en el pasado, por lo que no es predictiva.
+
+**Fuente**
+
+Batten, Don. 2002. It's not science. http://www.answersingenesis.org/docs2002/0228not_science.asp
+
+Respuesta
+=============
+
+1. La diferencia en potencia predictiva entre la evolución y otras ciencias es de grado, no de tipo. Todas las teorías son simplificaciones; descuidan deliberadamente tantas variables exteriores como les sea posible. Pero esas variables ajenas afectan las predicciones. Por ejemplo, se puede predecir la posición futura de un planeta en órbita, pero la predicción estará ligeramente errada porque uno no puede considerar los efectos de todos los pequeños cuerpos del sistema solar. La evolución es más sensible a las condiciones iniciales y los factores ajenos, de modo que es impráctico hacer predicciones específicas acerca de qué mutaciones ocurrirán y qué características sobrevivirán. Sin embargo, sigue siendo posible usar la evolución para hacer predicciones generales sobre el futuro. Por ejemplo, podemos predecir que las enfermedades se volverán resistentes a cualquier antibiótico nuevo que se emplee extensamente.
+
+2. El poder predictivo de la ciencia se origina en la capacidad de decir cocsas que no hubiéramos podido decir de otro modo. Estas predicciones no tienen por qué ser acerca de cosas que ocurrirán en el futuro. Pueden ser "retrodicciones" sobre cosas del pasado que todavía no hemos descubierto. La evolución permite innumerables predicciones de este tipo.
+
+3. La evolución ha sido la base de muchas predicciones. Por ejemplo:
+
+   * Darwin predijo, basándose en homologías con los simios africanos, que los ancestros humanos surgieron en África. Esta predicción ha sido apoyada por pruebas fósiles y genéticas ([Ingman_et_al_2000]_).
+
+   * La teoría predecía que los organismos en entornos heterogéneos y rápidamente cambiantes deberían tener tasas de mutación más elevadas. Se ha descubierto que esto ocurre en el caso de las bacterias que infectan los pulmones de los pacientes de fibrosis cística crónica ([Oliver_et_al_2000]_).
+
+   * La dinámica depredador/presa se ve alterada de formas previsibles por la evolución de la presa ([Yoshida_et_al_2003]_).
+
+   * Ernst Mayr predijo en 1954 que la especiación debía ser acompañada por evolución genética más rápida. Un análisis filogenético ha apoyado esta predicción ([Webster_et_al_2003]_).
+
+   * Varios autores predijeron características del ancestro de los craneados. Con base en un estudio detallado, hallaron que el fósil *Haikouella* "sigue de cerca esas predicciones" ([Mallatt_y_Chen_2003]_).
+
+   * La evolución predice que los diferentes conjuntos de datos característicos deberían seguir resultando en los mismos árboles filogenéticos. Esto ha sido confirmado informalmente en innumerables ocasiones y cuantitativamente, con diferentes secuencias proteínicas, por Penny et al. ([Penny_et_al_1982]_)
+
+   * Las alas de los insectos evolucionaron a partir de las branquias, con una etapa intermedia de revoloteo sobre la superficie del agua. Dado que la condición primitiva de revoloteo de superficie está difundida entre los plecópteros, J. H. Marden prefijo que los plecópteros probablemente también retuvieran otras características primitivas. Esta predicción llevó a descubrir en los plecópteros hemocianina funcional, usasda para el transporte de oxígeno en otros artrópodos pero nunca antes hallada en insectos ([Hagner_Holler_et_al_2004]_; [Marden_2005]_).
+
+   Con predicciones de este tipo y otras, la evolución puede ser, y ha sido, :doc:`usada prácticamente <CA215>` en áreas tales como descubrimiento de drogas y evitación de plagas resistentes.
+
+4. Si la escasa capacidad de la evolución para hacer predicciones futuras impide que sea una ciencia, entonces también dejan de ser ciencias otros campos de estudio, especialmente la arqueología y la astronomía.
+
+Enlaces
+=========
+
+Wilkins, John. 1997. Evolution and philosophy: Predictions and explanations. http://www.talkorigins.org/faqs/evolphil/predict.html
+
+Referencias
+===============
+
+.. [Hagner_Holler_et_al_2004]    Hagner-Holler, Silke et al. 2004. A respiratory hemocyanin from an insect. Proceedings of the National Academy of Science USA 101: 871-874.
+.. [Ingman_et_al_2000]    Ingman, M., H. Kaessmann, S. Paaba and U. Gyllensten. 2000. Mitochondrial genome variation and the origin of modern humans. Nature 408: 708-713 . See also: Blair Hedges, S. 2000. A start for population genomics. Nature 408: 552-553. See also: Thomson, Jeremy, 2000 (7 Dec.). Humans did come out of Africa, says DNA. Nature Science Update, http://www.nature.com/nsu/001207/001207-8.html
+.. [Mallatt_y_Chen_2003]    Mallatt, J. and J.-Y. Chen. 2003. Fossil sister group of craniates: Predicted and found. Journal of Morphology 258(1): 1-31.
+.. [Marden_2005]    Marden, Jim, 2005. Flap those gills and fly: Comment (#46024: 10/29). http://pharyngula.org/index/weblog/comments/flap_those_gills_and_fly/P25/#c46024
+.. [Oliver_et_al_2000]    Oliver, Antonio et al. 2000. High frequency of hypermutable Pseudomonas aeruginosa in cystic fibrosis lung infection. Science 288: 1251-1253. See also Rainey, P. B. and R. Moxon. 2000. When being hyper keeps you fit. Science 288: 1186-1187. See also: LeClerc, J. E. and T. A. Cebula. 2000. Pseudomonas survival strategies in cystic fibrosis (letter), 2000. Science 289: 391-392.
+.. [Penny_et_al_1982]    Penny, David, L. R. Foulds, and M. D. Hendy. 1982. Testing the theory of evolution by comparing phylogenetic trees constructed from five different protein sequences. Nature 297: 197-200.
+.. [Webster_et_al_2003]    Webster, Andrea J., Robert J. H. Payne, and Mark Pagel. 2003. Molecular phylogenies link rates of evolution and speciation. Science 301: 478.
+.. [Yoshida_et_al_2003]    Yoshida, T., L. E. Jones, S. P. Ellner, G. F. Fussmann and N. G. Hairston Jr. 2003. Rapid evolution drives ecological dynamics in a predator-prey system. Nature 424: 303-306.
+
+/////
+
+Anterior: :doc:`CA202` | Siguiente: :doc:`CA211`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,56 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA300
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA301
+.. link: http://talkorigins.org/indexcc/CA/CA301.html
+.. date: 2004-09-28 02:00:00+00:00
+.. title: CA301: La ciencia es naturalista
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La ciencia es naturalista»
+
+La ciencia se basa en el naturalismo, la presunción no probada de que la naturaleza es todo lo que existe.
+
+**Fuente:**
+
+Johnson, Phillip E. 1990. Evolution as dogma: The establishment of naturalism. *First Things* no. 6, p. 15-22, http://www.arn.org/docs/johnson/pjdogma1.htm
+
+Dembski, William A. 1996. What every theologian should know about creation, evolution and design. http://www.arn.org/docs/dembski/wd_theologn.htm
+
+Respuesta
+===========
+
+1. El naturalismo que adopta la ciencia es naturalismo metodológico. No asume que la naturaleza es todo lo que existe; simplemente toma nota de que la naturaleza es el único estándar objetivo que tenemos. Lo sobrenatural no se excluye *a priori*; cuando afirma resultados que pueden estudiarse científicamente, lo sobrenatural se estudia científicamente (p. ej. [Astin_et_al_2000]_; [Enright_1999]_). Recibe poca atención porque nunca ha sido observado de forma confiable.
+
+2. Todos, incluyendo a los creacionistas, usan la misma forma de naturalismo en sus vidas diarias. La gente no podría sobrevivir, literalmente, sin hacer asunciones naturalistas. El creacionismo mismo se basa an la asunción naturalista de que la Biblia no ha cambiado desde la última vez que la leyeron.
+
+3. El naturalismo funciona. Asumiendo naturalismo metodológico, hemos hecho avances tremendos en industria, medicina, agricultura y muchas otras disciplinas. El sobrenaturalismo nunca ha llevado a ninguna parte. Newton, por ejemplo, escribió mucho más sobre teología que sobre física, pero su obra teológica está olvidada en su mayoría porque no ha habido razón para recordarla salvo por curiosidad histórica.
+
+4. El sobrenaturalismo es polémico. Los hallazgos científicos se basan en pruebas sólidas y los científicos pueden mostrar las pruebas para resolver discusiones. La gente tiende a tener ideas distintas e incompatibles sobre la forma que toman las influencias sobrenaturales, y con frecuencia la única forma efectiva que encuentran para alcanzar un consenso es matarse entre sí.
+
+Enlaces
+===========
+
+Isaak, Mark. 2002. A philosophical premise of 'naturalism'? http://www.talkdesign.org/faqs/naturalism.html
+
+Referencias
+=============
+
+.. [Astin_et_al_2000]    Astin, J. A., E. Harkness and E. Ernst. 2000. The efficacy of "distant healing": a systematic review of randomized trials. *Annals of Internal Medicine* 132(11): 903-910.
+.. [Enright_1999]    Enright, J. T. 1999. Testing dowsing: The failure of the Munich experiments. *Skeptical Inquirer* 23(1): 39-46.
+
+Otras lecturas
+===============
+
+Padgett, Alan G. 2000. Creation by design. *Books and Culture* 6(4) (Jul./Aug.): 30. http://www.christianitytoday.com/bc/2000/004/13.30.html
+
+
+/////
+
+Anterior: :doc:`CA250` | Siguiente: :doc:`CA301_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

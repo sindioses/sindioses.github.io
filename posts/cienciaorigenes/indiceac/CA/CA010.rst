@@ -1,0 +1,49 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA000
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA010
+.. link: http://www.talkorigins.org/indexcc/CA/CA010.html
+.. date: 2003-09-26 02:00:00+00:00
+.. title: CA010: Los evolucionistas aprueban la homosexualidad
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Los evolucionistas aprueban la homosexualidad»
+
+La homosexualidad se considera aceptable e incluso deseable por la mayoría de los evolucionistas, quienes señalan que la homosexualidad es común en muchas especies.
+
+Fuente
+=========
+
+Morris, Henry M. 2000. Evil-ution. *Back to Genesis* 140 (Aug.): a-c.
+
+Respuesta
+===============
+
+1. La aceptación de la homosexualidad no tiene nada que ver con la evolución. Viene de reconocer que los homosexuales, como todas las personas, merecen verdadero amor, no sólo palabras sobre el amor. Los evolucionistas (y otros no fundamentalistas), incluyendo a mucha gente que cree en la Biblia casi tanto como los propios creacionistas, no están limitados por las estrechas interpretaciones de la gente en ciertas religiones rígidas, que son las únicas fuentes de por qué la homosexualidad podría considerarse inmoral.
+
+   Contrariamente a lo que afirma Morris, los evolucionistas no consideran deseable la homosexualidad.
+
+2. La omnipresencia de la homosexualidad en la naturaleza muestra, más allá de toda duda, que la homosexualidad es natural ([Bagemihl_1998]_), demostrando la falsedad de la única justificación no religiosa para odiar la homosexualidad.
+
+3. La objeción bíblica a la homosexualidad es hipócrita, porque quienes la condenan no condenan tan vigorosamente otras conductas prohibidas como vestir ropas fabricadas con dos materiales distintos ({{% biblia "Levítico 19:19" DHH %}}), recortarse o afeitarse las patillas ({{% biblia "Levítico 19:27" DHH %}}}, tatuarse ({{% biblia "Levítico 19:28" DHH %}}}) y cobrar interés ({{% biblia "Deuteronomio 23:19-20" DHH %}}). La gente que condena la homosexualidad no lo hace porque la Biblia se lo dice, sino, finalmente, porque quieren. La gente que condena a otros primero debería examinar la moralidad de sus propios juicios.
+
+Referencias
+=============
+.. [Bagemihl_1998]	Bagemihl, Bruce. 1998. Biological Exuberance: Animal Homosexuality and Natural Diversity. New York: St. Martin Press.
+
+Otras lecturas
+===================
+
+Judson, Olivia. 2002. Dr. Tatiana’s Sex Advice to All Creation, New York: Metropolitan Books.
+
+/////
+
+Anterior: :doc:`CA009` | Siguiente: :doc:`CA012`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

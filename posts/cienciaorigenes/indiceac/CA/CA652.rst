@@ -1,0 +1,35 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA600
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA652
+.. link: http://www.talkorigins.org/indexcc/CA/CA652.html
+.. date: 2001-02-18 02:00:00+00:00
+.. title: CA652: La muerte de Cristo fue injusta si la muerte física no era castigo por el pecado
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La muerte de Cristo fue injusta si la muerte física no era castigo por el pecado»
+
+"Si la muerte física humana no fuera realmente una parte importante de la pena por el pecado, entonces la muerte *física* dolorosamente cruel de Cristo en la cruz no era necesaria para pagar esa pena, y por lo tanto sería una tremenda injusticia de parte de Dios."
+
+**Fuente:**
+
+Morris, Henry M. 2000. The vital importance of believing in recent creation. *Back to Genesis* 138 (June): a-c.
+
+Respuesta
+=============
+
+1. La afirmación es un *non sequitur* [una cosa no se sigue de la otra]. Dios estableció las penas por el pecado. Si Dios tenía algún poder, habría retirado las penas cuando hubiera querido. Ni la vida de Cristo ni su muerte hubieran sido necesarias. Esto es cierto ya sea que el castigo por el pecado incluya o no la muerte física. No nos corresponde decir qué es necesario que Dios haga.
+
+2. Si la muerte física fuera parte de la pena por el pecado, entonces Cristo no cumplió la pena porque la muerte física aún existe.
+
+3. Los orígenes no están determinados por la decisión personal de qué religión seguir.
+
+/////
+
+Anterior: :doc:`CA651` | Siguiente: :doc:`CA660`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

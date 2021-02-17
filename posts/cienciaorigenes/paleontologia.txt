@@ -1,0 +1,57 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. title: Entendiendo el registro fósil y la paleontología
+.. author: Juan Carlos Cisneros
+.. type: ciori
+.. description: Breve explicación sobre la ciencia de la paleontología.
+.. date: 2004-04-25 00:00:00
+.. category: Ciencia de los orígenes
+
+.. figure:: pajarodino.jpg
+   :alt:
+   :figwidth: 338
+   :figclass: align-right
+
+   **Archaeopterix, un ave-reptil**
+
+.. class:: primera
+
+Los fósiles son restos de formas de vida antiguas. La ciencia que estudia los fósiles es la paleontología (del griego palaios = antiguo, onto = ser, logos = conocimiento, tratado; "tratado de seres antiguos"). La paleontología es una ciencia que se sitúa en una interfaz entre la biología y la geología, usando conocimientos de ambas. Pocas ramas del conocimiento han fornecido tantas evidencias a favor de la evolución de las especies como la paleontología. Es difícil no aceptar que las aves descienden de los reptiles después de observar con atención los restos del ave primitiva **Archaeopteryx**. Es difícil no reconocer el parentesco tan cercano entre un ser humano y los otros primates después de observar el esqueleto de algún homínido primitivo.
+
+Los fósiles son conocidos por la humanidad desde tiempos remotos. El hombre prehistórico usaba huesos fósiles como materia prima para crear herramientas y arte. Esto aún es realizado por algunas culturas primitivas.
+
+.. figure:: huella.jpg
+   :alt:
+   :figwidth: 184
+   :figclass: align-right
+
+   **Huella de un dinosaurio en Mongolia**
+
+Es muy probable que los huesos y las huellas de grandes animales prehistóricos hallan dado origen a las leyendas sobre varios seres mitológicos (ver dragones y dinosaurios). En China los restos de dinosaurios aun son conocidos en el lenguaje popular de los campesinos como "huesos de dragón". El mito del Grifo, que según la narración de Herodoto habitaba entre Mongolia y China, seguramente se originó por la observación de los restos del dinosaurio **Protoceratops**, comunes en esa región. En Europa, algunas narraciones sobre dragones como la de Siegfried y la de San Jorge, pueden haberse originado por la observación de las huellas de grandes reptiles del período Triásico tales como **Cheirotherium**, cuyas huellas son comunes en Alemania y Gran Bretaña. A inicios del siglo XIX, en Connecticut, EUA, un niño campesino descubrió una serie de huellas de dinosaurios. La ciencia aun no conocía la existencia de los dinosaurios en aquella época y los habitantes de la región atribuyeron estas huellas a "aves gigantes".
+
+
+.. figure:: ostra.jpg
+   :alt:
+   :figwidth: 158
+   :figclass: align-left
+
+   **Molusco fósil de Grecia**
+
+El estudio de los fósiles ha despertado la curiosidad y la fascinación desde la Antigüedad. En Grecia, los sabios Anaximandro, Pitágoras, Xenófanes e Herodoto afirmaron correctamente que los fósiles marinos encontrados en tierra firme pertenecieron a animales que vivieron en el océano y, consecuentemente, lo que ahora es tierra firme habría sido el fondo del mar. Esta idea fue olvidada por siglos.
+
+
+.. figure:: davinci.jpg
+   :alt:
+   :figwidth: 171
+   :figclass: align-right
+
+   **Da Vinci, pionero de la paleontología**
+
+Este concepto se retomaría únicamente después de la Edad Media. Durante el Renascimiento, Leonardo da Vinci estudió moluscos marinos fósiles encontrados en las montañas del interior de Itália. La explicación tradicional decía que estas conchas habrían sido depositadas en lo alto de las montañas al haber sido llevadas por el diluvio relatado en la Biblia. Da Vinci probó que eso era falso, ya que las conchas yacían en posición de vida, o sea, estas vivían en el propio local en que se encontraban, y, por lo tanto, no fueron transportadas por accidente. También mostró que estos moluscos no podrían haber migrado por sus propios medios desde el litoral hasta lo alto de las montañas durante el diluvio universal, ya que el tiempo de duración del diluvio era muy corto para que éstas recorriesen por sus propios medios las decenas de kilómetros que separan estas montañas de la costa. Así, da Vinci mostró que esas montañas fueron una vez lecho marino permanente.
+
+
+La paleontología en la actualidad es una ciencia bastante desarrollada y amplia. Parte del trabajo de los paleontólogos consiste en describir nuevas especies, estudiar la evolución de los diferentes grupos, estimar las edades en que los organismos vivieron, establecer las relaciones ecológicas entre éstos, reconstruir su medio ambiente, las posibles causas de su extinción, etc. Este trabajo no es fácil, ya que el registro fósil es muy incompleto, o sea, los hallazgos fósiles representan apenas una pequeña parte de las formas de vida que existieron en la Tierra. Muchas especies se extinguieron sin dejar ningún rastro, por haber existido en un período de tiempo muy corto o por haber habitado en ambientes que no facilitaban su preservación o por otros motivos.
+
+La historia de la Tierra es como un libro al cual faltan muchas páginas y a veces capítulos enteros, principalmente al inicio de éste. Sin embargo, con ayuda del método científico es posible reconstruir, por lo menos en parte, ese libro para que todos lo puedan leer.
+
+.. include:: includes/ciori_pie.inc
+

@@ -1,0 +1,55 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA120
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA120
+.. link: http://www.talkorigins.org/indexcc/CA/CA120.html
+.. date: 2003-09-01 02:00:00+00:00
+.. title: CA120: Una mente que evolucionó es falible, sus conclusiones no son fiables
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Una mente que evolucionó es falible, sus conclusiones no son fiables»
+
+Si nuestras mentes surgieron de animales inferiores por medio de procesos naturales, entonces nuestras mentes pueden ser falibles. Luego, las conclusiones a las que arribamos están sujetas a duda, incluyendo la conclusión misma de la evolución.
+
+Darwin escribió en una carta: «Siempre surge en mí la hórrida duda de si las convicciones de la mente del hombre, que se han desarrollado de la mente de los animales inferiores, son de algún valor o son en absoluto de fiar» [Darwin_1881]_.
+
+**Fuente:**
+
+Plantinga, A. 1991. An evolutionary argument against naturalism. *Logos* 12: 27-49.
+
+Respuesta
+===========
+
+1. Está bien establecido que la mente es falible. Los recuerdos y el razonamiento normales están errados con sorprendente frecuencia ([Gilovich_1991]_; [Schacter_2001]_). Las patologías añaden complicaciones adicionales ([Sacks_1970]_). Esta falibilidad existe independientemente de cuál es el origen de nuestras mentes.
+
+   La duda existe en todas las áreas de la vida. Nada puede :doc:`probarse con certeza absoluta <CA202>`. Sin embargo, muchas cosas son lo bastante seguras como para llamarlas hechos y no preocuparnos de la posibilidad de que sean erróneas hasta que veamos auténticas pruebas de que son erróneas. Sin tal actitud, nunca podríamos seguir con nuestras vidas.
+
+2. La falibilidad de nuestras mentes es un argumento más fuerte en contra del creacionismo. Nadie puede estar seguro de él tampoco y mentes tan imperfectas como las nuestras son un argumento en contra de su creación por una divinidad.
+
+3. Darwin sólo aplicó este argumento a cuestiones más allá del alcance de la ciencia. Pensaba que la ciencia estaba perfectamente al alcance del cerebro modificado de un mono.
+
+Referencias
+=================
+
+.. [Darwin_1881]    Darwin, C. 1881. Letter to W. Graham. In F. Darwin, ed., *The Life and Letters of Charles Darwin*. New York, D. Appleton & Co., 1905. http://pages.britishlibrary.net/charles.darwin/texts/letters/letters1_08.html
+.. [Gilovich_1991]    Gilovich, Thomas. 1991. *How We Know What Isn't So*, New York: Free Press.
+.. [Sacks_1970]    Sacks, Oliver. 1970. *The Man Who Mistook His Wife for a Hat*, New York: HarperCollins.
+.. [Schacter_2001]    Schacter, Daniel L. 2001. *The Seven Sins of Memory*, New York: Houghton Mifflin.
+
+Otras lecturas
+================
+
+* Los libros citados más arriba (Gilovich; Sacks, y Schacter) son todos excelentes relatos al alcance de todos los públicos.
+
+* Ruse, Michael. 2001. *Can a Darwinian Be a Christian?*, Cambridge University Press, pp. 106-110.
+
+
+/////
+
+Anterior: :doc:`CA118` | Siguiente: :doc:`CA131`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

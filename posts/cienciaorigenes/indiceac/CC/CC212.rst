@@ -1,0 +1,80 @@
+.. title: CC212: No hay suficientes datos sobre la transición de peces a anfibios
+.. slug: CC212
+.. date: 2001-4-29
+.. tags: CC, CC210
+.. category: Afirmaciones de los creacionistas
+.. link: http://www.talkorigins.org/indexcc/CC/CC212.html
+.. description: Respuesta a la afirmación creacionista «No hay suficientes datos sobre la transición de peces a anfibios»
+.. type: afirmacrea
+.. author: Mark Isaac, traducción de Paulina Madariaga
+.. has_math: yes
+.. nocomments: True
+
+No hay fósiles de transición entre los peces y los tetrápodos
+
+**Fuente**
+===========
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, pp. 82-83.
+
+Watchtower Bible and Tract Society, 1985. *Life...How Did It Get Here?* Brooklyn, NY, p. 72.
+
+Respuesta
+===========
+
+1. Hay bastantes fósiles de transición:
+
+   a. La mayoría de los peces tienen orificios nasales exteriores, tanto anteriores como posteriores. En los tetrápodos, el orificio anterior es reemplazado por la coana, un orificio nasal interno que se abre hacia borde de la boca.  *Kenichthys*, un fósil proveniente de China, de 395 millones de años de antiguedad, es un intermedio exacto entre ambas estructuras, ya que tiene orificios nasales en el margen de la mandíbula superior ([Zhu_y_Ahlberg_2004]_).
+
+   b. Un fósil muestra ocho dedos huesudos al frente de la aleta de un pez de aletas lobuladas, ofreciendo evidencia que los dedos se desarrollaron antes que los tetrápodos terrestres ([Daeschler_y_Shubin_1998]_).
+
+   c. Un húmero del período Devónico tiene características que demuestran que perteneció a un tetrápodo acuático que podia empujarse con sus extremidades anteriores, pero que no podía mover sus extremidades hacia adelante y hacia atrás para caminar ([Shubin_et_al_2004]_).
+
+   d. *Acanthostega*, un fósil del período Devónico, de unos 60 centímetros de longitud, probablemente vivió en los ríos ([Coates_1996]_). Tenía extremidades polidáctiles sin muñecas o tobillos ([Coates_y_Clack_1990]_). Era predominantemente, si es que no exclusivamente, una criatura acuática. Tenía agallas internas como los peces ([Coates_y_Clack_1991]_), y sus extremidades y espina dorsal no podían soportar demasiado peso. Además, tenía un estribo y un sistema sensorial lateral, tal como un pez.
+
+   e. *Ichthyostega*, un tetrápodo de las corrientes del período Devónico, tenía 1.5 metros de longitud y era probablemente un anfibio. Tenía siete dedos en sus patas traseras (se desconoce sobre sus manos). Sus extremidades y espina dorsal eran más robustas que las de la *Acanthostega*, y su caja torácica era enorme. Tenía aletas similares a la de los peces en su cola, pero estas eran menos y más pequeñas que las de la *Acanthostega*. Su cráneo tenía varios rasgos primitivos, parecidos a los de los peces, pero probablemente no tuviera agallas interiores ([Murphy_2002]_).
+
+   f. *Tulerpeton*, proveniente de un depósito estuarino, de una antigüedad similar a la de la *Acanthostega* y la *Ichthyostega*, tenía seis dedos en sus extremidades frontales y siete en sus extremidades posteriores. Sus hombros eran mucho más robustos que los de la *Acanthostega*, lo que sugiere que era algo menos acuático, y su cráneo parece tener más similitud con los tardíos amfibios carboníferos que con la *Acanthostega* o la *Ichthyostega*.
+
+Enlaces
+========
+
+Morton, Glenn R., 1997. La transición de peces a anfibios. http://home.entouch.net/dmd/transit.htm
+
+Referencias
+==============
+
+.. [Coates_1996] Coates, M. I. 1996. The Devonian tetrapod Acanthostega gunnari Jarvik: postcranial anatomy, basal tetrapod interrelationships and patterns of skeletal evolution. *Transactions of the Royal Society of Edinburgh: Earth Sciences* 87: 363-421.
+
+.. [Coates_y_Clack_1990] Coates, M. I. and J. A. Clack, 1990. Polydactyly in the earliest known tetrapod limbs. *Nature* 347: 66-69.
+
+.. [Coates_y_Clack_1991] Coates, M. I. and J. A. Clack, 1991. Fish-like gills and breathing in the earliest known tetrapod. *Nature* 352: 234-236.
+
+.. [Daeschler_y_Shubin_1998] Daeschler, Edward B. and Neil Shubin, 1998. Fish with fingers? *Nature* 391: 133.
+
+.. [Murphy_2002] Murphy, Dennis C., 2002. Devonian times: Ichthyostega stensioei. http://www.mdgekko.com/devonian/Order/re-ichthyostega.html
+
+.. [Shubin_et_al_2004] Shubin, N. H., E. B. Daeschler and M. I. Coates, 2004. The early evolution of the tetrapod humerus. *Science* 304: 90-93. See also: Clack, J. A., 2004. From fins to fingers. Science 304: 57-58.
+
+.. [Zhu_y_Ahlberg_2004] Zhu, Min and Per E. Ahlberg, 2004. The origin of the internal nostril of tetrapods. Nature 432: 94-97. See also: Janvier, Philippe, 2004. Wandering nostrils. Nature 432: 23-24.
+
+
+Lecturas recomendadas
+=========================
+
+Clack, J. A., 2002. *Gaining Ground: The origin and early evolution of tetrapods*. Bloomington, IN: Indiana Univ. Press.
+
+Murphy, Dennis C., 2002. Devonian times. http://www.devoniantimes.org/
+
+Pojeta, John Jr. and Springer, Dale A., 2001. *Evolution and the fossil record*, Alexandria, VA: American Geological Institute, http://www.agiweb.org/news/spot_06apr01_evolutionbk.htm , http://www.agiweb.org/news/evolution.pdf .
+
+Zimmer, Carl, 1998. *At the Water's Edge*. New York: Touchstone, ch. 1-4.
+
+/////
+
+Anterior: :strong:`CC211` | Siguiente: :doc:`CC213`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

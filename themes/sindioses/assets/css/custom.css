@@ -1,0 +1,226 @@
+body, html {
+    font-family: "Book Antiqua", "URW Palladio", Palatino, "Palatino Linotype", "Palatino Nova", "Zapf Calligraphic 801", "Bitstream Charter", "Deja Vu Serif", FreeSerif, "Lucida Bright Regular", "Times New Roman", Times, serif;
+    color: #000066;
+    background: white;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    font-size: medium;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Book Antiqua", "URW Palladio", Palatino, "Palatino Linotype", "Palatino Nova", "Zapf Calligraphic 801", "Bitstream Charter", "Deja Vu Serif", FreeSerif, "Lucida Bright Regular", "Times New Roman", Times, serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.navbar { min-height: 70px; }
+
+div.book-figure {
+  clear: both;
+  border-top: solid 1px;
+}
+div.book-figure p {margin: 0px;}
+div.book-figure-media {
+  float: left;
+  clear: left;
+  width: 250px;
+}
+p.book-figure-title { font-size: 150%; font-weight: bold; }
+
+
+.story-randi blockquote, .post-randi blockquote {
+	font-size: 98%;
+	margin: 1em;
+	padding: 1em;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	ex-background-color: #CCFFFF;
+	background-color: #E0FFFF;
+	background-image: url("/randi/comillas.png");
+	background-position: top left;
+	background-repeat: no-repeat;
+}
+
+.post-randi div.figure, .story-randi div.figure {
+    margin: 0;
+	margin-left: 2em;
+	float: right;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	/* font-size: 90%; */
+	background-color: #E0E0E0;
+	padding: 0px;
+	border: solid black 1px;
+
+}
+
+.post-randi div.figure p, .story-randi div.figure p {
+    margin: 0;
+    padding: 1px;
+}
+
+
+div.figure table, div.figure table td {
+    border-style: hidden;
+}
+
+.mensaje {
+	font-family: "DejaVu Sans Mono", Consolas, "Courier New", Courier, monospace;
+	font-size: 90%;
+	font-style: normal;
+	border: thin solid black;
+	background: lightgray;
+	margin-left: 0,5em;
+	padding: 1em;
+	-moz-border-radius: 15px;
+	-khtml-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+}
+
+div.dialogo li {
+        list-style-type: square;
+}
+
+.primera {
+    padding-top: 2em;
+}
+
+p.primera:first-letter {
+   font-size: 200%;
+   font-style: italic;
+   font-weight: bold;
+}
+
+.section .espacio {
+    padding-top: 150px;
+}
+
+.colofon {
+   font-size: 75%;
+   text-align: center;
+    }
+
+hr {
+    height: 3px;
+    color: black;
+}
+hr.trans {
+    width: 75%;
+}
+
+form#cse-search-box {
+    padding-top: 1.5em;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+div.busquedas {
+    border-top-style: ridge;
+    border-bottom-style: ridge;
+}
+
+.bus {
+	width: 49.5%;
+	float: left;
+	color: darkblue;
+	font-weight: bold;
+}
+
+
+#pie {
+	font-size: 80%;
+	height: auto;
+	color: black;
+	text-align: center;
+	margin: 0%;
+}
+
+#pie1 {
+    width: 66%;
+    float: left;
+    color: darkblue;
+    margin: 0px;
+}
+
+#pie1 p {
+}
+
+#pie2 {
+    width: 25%;
+    float: right;
+}
+
+.logopie {
+    width: 14.25%;
+    float: left;
+}
+
+div.contenidoindice {
+    -webkit-column-rule-style: 1px gray; /* Chrome, Safari, Opera */
+    -moz-column-rule-style: 1px gray; /* Firefox */
+    column-rule-style: 1px gray;
+}
+
+.contenidoindice, .colfb {
+    float:left;
+    text-align: left;
+}
+
+.contenidoindice {
+    width: 65.50%;
+    font-size: 96%;
+}
+
+.contenidoindice .rubric {
+    text-align: left;
+    color: navy;
+    font-size: 135%;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.contenidoindice ul {
+    padding-left: 1em;
+}
+
+@media (min-width: 320px) {
+ .contenidoindice {
+   width: 99%;
+    -webkit-column-count: 1; /* Chrome, Safari, Opera */
+    -moz-column-count: 1; /* Firefox */
+    column-count: 1;
+ }
+ .colfb, #pie2 {display: none; }
+ #pie1 { width: 100% }
+}
+@media (min-width: 1023px) {
+ .contenidoindice {
+   width: 99%;
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+ }
+ #pie1 { width: 100% }
+}
+@media (min-width: 1200px) {
+ .contenidoindice {
+   width: 65.50%;
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+ }
+ .colfb, #pie2 { display: block; }
+ #pie1 { width: 66% }
+}
+
+hr.docutils {
+    border: 1px solid;
+}
+
+/* corregir */
+
+.footnote-reference {font-size: small;}
+
+.label {
+    color: inherit !important;
+}

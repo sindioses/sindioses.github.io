@@ -1,0 +1,48 @@
+﻿.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC210
+.. author: Mark Isaak. traducción de Samuel Martínez de la Iglesia
+.. nocomments: True
+.. slug: CC214_2
+.. link: http://www.talkorigins.org/indexcc/CC/CC214_2.html
+.. date: 2003-10-15
+.. title: CC214.2: Los hadrosáuridos han sido refutados como ancestros de las aves.
+.. description: Respuesta a la afirmación creacionista «Los hadrosáuridos han sido refutados como ancestros de las aves».
+.. type: afirmacrea
+
+
+Un equipo de Expediciones Creacionistas encontraron un fósil de una especie del hadrosaurio (dinosaurio con pico de pato) *Edmontosaurus*  que llamaron Ezekiel. El fósil incluía una impresión de piel que mostró que no tenía plumas, como era esperado por los evolucionistas, refutando así el que los hadrosáuridos fuesen formas transicionales entre aves y reptiles. Además, el fósil fue sepultado en estratos que contenían tortugas y peces aguja, lo que no era experado por los evolucionistas, apoyando así la idea de que Ezekiel fue una víctima del Diluvio.
+
+**Fuente:**
+
+Vision Forum, Inc., 2003. Creation expeditions team discovers giant duck-billed dinosaur: Home-school paleontologists strike pay-dirt again (press release, 22 July). http://www.creationexpeditions.com/?news_and_articles/a/2003-07-22_01
+
+Respuesta
+============
+
+1. Ningún científico cree que los hadrosáuridos dieron lugar a las aves. Los dinosaurios están divididos en Saurischia y Ornithischia. Los Hadrosaurus son miembros de Ornithischia. Los científicos que indican que las aves descienden de los dinosaurios proponen que estas lo hacen de pequeños dinosaurios terópodos, miembros de Saurischia ([Tudge_2000]_). Cualquier paleontólogo competente debería saber esto.
+
+2. La impresión de piel de Hadrosaurus ha sido conocida por la ciencia desde hace décadas ([Alaska_Museum_1998]_). No es ninguna sorpresa que no tuviesen plumas.
+
+3. El comunicado de prensa de Vision Forum (ver la fuente arriba) hace referencia a "El cráneo muy bien preservado, con su magnífica cresta intacta...". *Edmontosaurus*, junto con otros miembros de la subfamilia de Hadrosauridae, no tienen cresta ([Polly_et_al_2003]_). Los "paleontólogos" creacionistas o bien confundieron el fósil, o se imaginaron una cresta donde no existe.
+
+4. No hay razón por la que un hadrosáurido no pudiese compartir el mismo estrato con tortugas y peces aguja. Todos vivieron durante el Cretácico ([Polly_et_al_2003]_; [Tudge_2000]_; [White_2003]_). Aún siendo terrestres, los hadrosaurios vivían cerca del agua. Que Ezekiel fuese encontrado en un "cementerio" fósil (usando la descripción creacionista) no prueba el :doc:`castastrófico y abrupto entierro <CC362>` y, en consecuancia no es una evidencia del Diluvio de Noé.
+
+
+Referencias
+==============
+
+.. [Alaska_Museum_1998]    Alaska Museum of Natural History, 1998. Hadrosaur tracks and skin. 
+.. [Polly_et_al_2003]    Polly, P. D. et al., 2003. Introduction to the Hadrosaurs. http://www.ucmp.berkeley.edu/diapsids/ornithischia/hadrosauria.html
+.. [Tudge_2000]    Tudge, Colin, 2000. *The Variety of Life: A Survey and a Celebration of all the Creatures that Have Ever Lived*. Oxford: Oxford University Press; capítulo. 17: The Reptiles.
+.. [White_2003]    White, Toby, 2003. Palaeos Vertebrates 100.100: Neopterygii. http://web.archive.org/web/20031101191826/http://www.palaeos.com/vertebrates/units/100Neopterygii/100.100.html
+
+
+/////
+
+Anterior: :doc:`CC214_1_1` | Siguiente: :doc:`CC215`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

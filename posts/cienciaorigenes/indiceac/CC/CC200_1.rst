@@ -1,0 +1,63 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC200
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2004-1-29
+.. type: afirmacrea
+.. title: CC200.1: Debería haber miles de millones de fósiles transicionales
+.. description: Respuesta a la afirmación creacionista «Debería haber miles de millones de fósiles transicionales»
+.. slug: CC200_1
+.. link: http://www.talkorigins.org/indexcc/CC/CC200_1.html
+
+Dadas todas las especies que existen y han existido, debería haber miles de millones de fósiles transicionales en el registro fósil; como mínimo deberíamos haber encontrado decenas de miles.
+
+**Fuente:**
+
+Gish, Duane T., 1994. When is a whale a whale? *Impact* 250 (Apr.). http://www.icr.org/index.php?module=articles&action=view&ID=379
+
+Respuesta
+=========
+
+1. Algunos factores importantes impiden que la formación de fósiles sea común:
+
+   * La fosilización misma no es un suceso especialmente común. Requiere condiciones que preserven el fósil antes de que sea desenterrado o se descomponga. Tales condiciones son comunes sólo en unos pocos hábitats, como deltas de ríos, turberas y pozos de alquitrán. Los organismos que no viven en esos hábitats o cerca de ellos sólo serán preservados excepcionalmente.
+   * Muchos tipos de animales son frágiles y no se preservan bien.
+   * Muchas especies tienen rangos reducidos. Su oportunidad de fosilizarse será proporcionalmente menor.
+   * La evolución de nuevas especies probablemente es bastante rápida en términos geológicos, de modo que las transiciones entre especies serán poco comunes.
+
+   Las palomas del pasajero, que alguna vez llegaron a los miles de millones, se extinguieron hace menos de 200 años. ¿Cuántos fósiles de palomas del pasajero puedes encontrar? Si son difíciles de hallar, ¿por qué deberíamos esperar hallar fósiles que probablemente son de poblaciones más pequeñas y han estado sometidos a millones de años de potencial erosión?
+
+2. Otros procesos destruyen los fósiles. La erosión (y/o falta de deposición en primer lugar) con frecuencia destruye cientos de millones de años o más del registro geológico, de modo que el registro geológico en cualquier lugar habitualmente tiene grandes huecos. El calor o la presión también destruye los fósiles cuando están enterrados profundamente.
+
+3. Raros como son los fósiles, descubrirlos es aún más raro. En su mayoría, encntramos sólo fósiles que han sido expuestos por la erosión, y sólo si la exposición es lo bastante reciente como para que los fósiles mismos no se erosionen.
+
+   A medida que cambian los climas, las especies se mueven, así que no podemos esperar que una transición ocurra toda en un solo lugar. Los fosiles con frecuencia deben recolectarse en toda la extensión de un continente para hallar las transiciones.
+
+   Sólo Europa y Norteamérica han sido bien exploradas en busca de fósiles porque allí es donde vivían la mayoría de los paleontólogos. Es más, las políticas regionales interfieren con la recolección de fósiles. Algunos fósiles fabulosos sólo se hallaron recientemente en China, porque antes de ese tiempo la política impidió la mayoría de la paleontología allí.
+
+4. No hay escasez sólo de fósiles sino de paleontólogos y taxónomos. Preparar y analizar el material para un único linaje puede llevar una década de trabajo. Hay probablemente cientos de fósiles transicionales en los cajones de los museos, desconocidos porque nadie con el conocimiento necesario los ha examinado.
+
+5. La descripción de los fósiles con frecuencia se limita a la literatura profesional y no se difunde al público. Esto es especialmente cierto para los microfósiles marinos, que tienen el mejor registro.
+
+6. Si la fosilización estuviera tan generalizada y el creacionismo de la tierra joven fuera verdadero, deberíamos hallar indicaciones en el registro fósil de animales migrando desde el Arca hacia otros continentes.
+
+Enlaces
+=======
+
+Hunt, Kathleen. 1997. Transitional vertebrate fossils FAQ, part 1A. http://www.talkorigins.org/faqs/faq-transitional/part1a.html#gaps
+
+Otras lecturas
+==============
+
+Kidwell, S. M. and S. M. Holland. 2002. The quality of the fossil record: Implications for evolutionary analyses. *Annual Review of Ecology and Systematics* 33: 561-588. (Técnico)
+
+
+/////
+
+Anterior: :doc:`CC200` | Siguiente: :doc:`CC201`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

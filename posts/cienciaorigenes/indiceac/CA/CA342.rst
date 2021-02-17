@@ -1,0 +1,43 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA300
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA342
+.. link: http://www.talkorigins.org/indexcc/CA/CA342.html
+.. date: 2001-02-18 02:00:00+00:00
+.. title: CA342: Los evolucionistas no aceptan el desafío para debatir con Walt Brown
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Los evolucionistas no aceptan el desafío para debatir con Walt Brown»
+
+Hay una oferta vigente para un debate escrito entre Walt Brown y un evolucionista; dicho debate será publicado más tarde. En más de 15 años, ningún evolucionista ha aceptado esta oferta.
+
+**Fuente:**
+
+Brown, Walt. 1995. *In the beginning: Compelling evidence for creation and the Flood.* Phoenix, AZ: Center for Scientific Creation, 212. http://www.creationscience.com
+
+Respuesta
+===========
+
+1. Varios aspectos de los veintidós requisitos de Browm pueden hacer que su debate sea poco atractivo. El editor del debate (que debe estar calificado y dispuesto y ser imparcial) sería muy difícil de encontrar. Brown requiere que quien lo desafíe tenga un doctorado, sin buenas razones para ello. Establece que no permitirá teología en el debate, pese al hecho de que el creacionismo sólo es teología y que Brown mismo usa teología como base para sus conclusiones.
+
+2. Hay quien ha intentado debatir con Walt Brown, pero él se niega.
+
+   * Joe Meert firmó el contrato de Brown en 1996. Propuso (de acuerdo con los términos del contrato) que la evidencia en favor de un diluvio universal fuera un tema de discusión dentro del debate. Brown se ha negado firmemente a debatir con Meert ([Meert_2003]_).
+
+3. Brown mismo se niega a :doc:`debatir <CA340>` en el foro apropiado para decidir cuestiones científicas: las conferencias científicas y las publicaciones revisadas por pares.
+
+Referencias
+===============
+
+.. [Meert_2003] Meert, Joe. 2003. Walt Brown's pseudochallenge. http://gondwanaresearch.com/hp/walt_brown.htm
+
+
+/////
+
+Anterior: :doc:`CA341` | Siguiente: :doc:`CA343`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

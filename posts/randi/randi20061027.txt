@@ -1,0 +1,269 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Traducciones de James Randi
+.. date: 2006-10-27 00:00:00
+.. type: randi
+.. title: Buenas noticias. Hyeronimous resucitado. Engañar a los científicos. Más conspiraciones estúpidas. Llama a mi abogado. Experiencia mal aplicada. Una explicación. Una cuestión de prioridades. El doblado de cucharas de Spinney. Plegarias oficiales. Un paso bien dado en China. Los 10 destacados
+.. author: James Randi, traducción de Ángel Arnal Artigas
+
+.. contents:: Contenido
+   :class: sidebar
+   :local:
+
+Buenas noticias
+...............
+
+.. image:: http://www.randi.org/images/commentary/200610/27darwin.jpg
+   :alt:
+   :align: left
+
+La Universidad de Cambridge (RU) ha realizado una excelente tarea tanto para el público como para los investigadores de todo el mundo al colocar en Internet las obras completas de uno de los más grandes científicos de la historia, Charles Darwin. Han digitalizado unas 50.000 páginas de texto y 40.000 imágenes de publicaciones originales, y se puede ejecutar búsquedas en todo ello. Quienes tengan reproductores MP3 podrán acceder incluso a archivos de audio descargables.
+
+Esto, estoy seguro, molestará profundamente a la pandilla creacionista - les aterroriza que alguien pueda quedar expuesto a las ideas de Darwin - y estoy seguro de que ya habrá en marcha todo tipo de movimientos legales para eliminarlo de Internet. Antes de que eso suceda, ve a http://www.darwin-online.org.uk y saca provecho de este maravilloso - ¡y gratuito! - regalo de Cambridge. El sitio presenta muchos manuscritos recién transcritos o nunca publicados con anterioridad escritos por el gran científico, incluído un cuaderno de campo de su famoso viaje en el Beagle a las Islas Galápagos, donde sus detalladas observaciones de la vida salvaje sirvieron para respaldar sus argumentos científicos. Lo más notable de este logro es que también están disponibles ediciones en alemán, danés y ruso.
+
+El sitio contiene actualmente más o menos el 50% de los materiales que habrá en 2009, el bicentenario del nacimiento del gran naturalista.
+
+
+Hyeronimous resucitado
+......................
+
+.. image:: http://www.randi.org/images/commentary/200610/20asf.jpg
+   :alt:
+   :align: right
+
+
+El lector Darren Snodgrass de Australia nos recuerda que ciertas ideas estrafalarias de siempre siguen con nosotros, aunque haga tiempo que se demostró que son absurdas. Recuerdo que, cuando era un quinceañero, era un fan de Astounding Science Fiction – ¡sí, en aquella época de la historia teníamos revistas! – y eso significaba que estaba expuesto a los talentos - y excentricidades - del editor, John W. Campbell. Este hombre, reconocido por los expertos en la materia como el padre de la ciencia ficción como la conocemos hoy, dejó a sus fans más bien sorprendidos a finales de los 50 cuando abrazó no sólo una gama de teorías de movimiento perpetuo, sino incluso un dispositivo que llegó a conocerse como la Máquina Hieronymous. Es posible que tengas que leer dos veces la frase que sigue para asegurarte de que lo hiciste correctamente: la Máquina Hieronymous era su propio boceto. Sí, todo lo que necesitaba el operario era un plano de la máquina que no existía, y ese plano por sí mismo cumplía la función del dispositivo.
+
+Voy a evitar meterme en toda la tecnología ficticia que rodeaba esta cosa, estoy seguro de que me lo agradecerás. En esencia, se desarrolló un mercado para una simple "chapa para tocar" sobre la que el operario deslizaría sus dedos para ver cómo estaba de "pegajosa" la superficie, y se decía que eso era un indicador de casi cualquier cosa que quisieras investigar - enfermedades, calidad de la comida, la validez de un candidato político, la localización de un niño perdido, o algo que estuviera relacionado con la información buscada, mientras se acariciaba la placa. Se suponía que el usuario notaría una diferencia en el grado de resistencia que se oponía a sus dedos a deslizarse sobre la placa sólida.
+
+Esta idea vino de un tal Thomas G. Hieronymous, quien propuso la "teoría de la radiación elóptica", que describió como
+
+    …un medio que todo lo impregna que ciertas fuerzas son capaces de poner en actividad. Este medio puede ser el mismo descrito por los ingenieros electrónicos y eléctricos y los físicos como el éter en acción en armónicos superiores a los explorados hasta ahora, o podría ser un medio más sutil.
+
+Sí, ya sé que estás rascándote la cabeza por tan estrambótica afirmación, pero su dispositivo fue en su momento muy muy popular entre cierto segmento de la gente de la ciencia ficción, lo creas o no. Me han contado que muchos de ellos ya están mejor y se unieron de nuevo a la masa útil de este planeta.
+
+En fin, el Sr. Snodgrass nos escribe:
+
+    De verdad me encanta leer su columna cada semana. ¡Me recuerda semanalmente que hay por ahí otras personas racionales! Puede que estés interesado en usar la siguiente historia para su columna o algún otro apartado del sitio web de la |JREF|.
+
+    Allá por 1998 conocí a un amigo quiropráctico. Tenía un dispositivo que llamaba la "Caja Toftness", que era ligeramente diferente de un Detector de Radiación Toftness (ver http://tinyurl.com/yeacbg, http://tinyurl.com/ymg8wh y http://tinyurl.com/yav4c6, entre muchos otros) pero aseguraba que el manejo era similar.
+
+    La idea básica es que el practicante debía tocar partes del cuerpo del paciente (normalmente la columna vertebral) con una mano mientras frotaba una placa de la Caja Toftness con la otra mano. Al tocar una zona del cuerpo del paciente donde había un problema, la fricción entre la otra mano y la chapa supuestamente debía aumentar. Esto podía usarse para diagnosticar el lugar de los problemas de un paciente.
+
+    Esta caja contenía componentes electrónicos que se suponía que amplificaban las señales del cuerpo (aparentemente en la banda de los 70 GHz) y enviaban la señal amplificada a la chapa. La placa supestamente estaba hecha de una aleación especial que se usa en la industria aeronáutica.
+
+    Como soy ingeniero electrónico, me preguntó si podía hacerle otra de esas unidades porque ya le resultaba imposible comprarlas. Me llevé el aparato a casa y lo abrí para ver si podía hacerle "ingeniería inversa". Lo primero que noté era que la pila estaba completamente descargada, y seguramente llevaba así bastante tiempo. Lo siguente que noté era que los transistores que se usaban tenían una frecuencia de corte de más o menos 100 MHz. Era completamente imposible que dieran ninguna amplificación en la banda de los GHz.
+
+Randi comenta: Me parece que Darren dejó pasar una oportunidad de trazar el circuito y descubrir si era posible que realizara algún tipo de función.
+
+    Por aquel entonces era un firme creyente de todo este tipo de cosas, pero me di cuenta de que evidentemente el usuario se engañaba a sí mismo. Quería ayudarle a reconocer la realidad de la situación, pero me resistía a avergonzarlo. Al final hice una Caja Toftness falsa que no contenía nada de electrónica, pero que tenía el mismo aspecto que la real. La probó y dijo que funcionaba perfectamente. Le expliqué que no contenía ninguna circuitería, y que la "auténtica" tampoco hacía nada. Esto hizo que pusiera un poco en cuestión el aparato, pero no estoy seguro de que dejara de usarlo. Por lo menos lo intenté...
+
+Cuenta con ello, Darren, no lo puso en cuestión tanto como para dejar de usarlo. Él es uno de los Patitos de Goma Insumergibles de los que solemos escribir aquí en la columna... Esta "nueva" muestra de curanderismo es en realidad bastante vieja, ha cambiado de nombre y ha reaparecido en el mercado, eso es todo.
+
+
+Engañar a los científicos
+.........................
+
+El lector Steve Allen, un doctorando en Biodefensa de la Universidad George Mason, pregunta, sobre una falta de criterio específica de los científicos:
+
+    ¿Hay alguna característica común entre los científicos que los haga susceptibles al engaño? Para un mago, ¿los científicos parecen más fáciles de engañar, o menos, que otras personas? Si alguien quisiera engañar a los científicos, ¿cómo lo haría? ¿Cómo pueden ponerse en guardia frente a los engaños?
+
+Esta pregunta me da la oportunidad de nuevo de pedir a mis lectores que consulten nuestros archivos antes de hacer preguntas que ya hayan podido ser respondidas adecuadamente. Nuestro artículo inicial de la semana pasada trata esa misma situación, y remito al Sr. Allen a esa fuente. POR FAVOR, buscad en los archivos antes de hacernos series de preguntas complicadas. Esto nos ahorrará a todos mucho tiempo. Gracias.
+
+
+Más conspiraciones estúpidas
+............................
+
+.. image:: http://www.randi.org/images/commentary/200610/20bill.jpg
+   :alt:
+   :align: right
+
+Nuestro colega Scot Morris, siempre alerta para encontrar acertijos, salió con éste tan raro…
+
+    A los fans de las teorías conspirativas: como estoy seguro de que recordaréis, poco después del 11-S circuló rápidamete una forma simple de doblar un billete de $20 de modo que mostraba el pentágono con su tejado plano ardiendo en un lado y el World Trade Center en llamas en el otro. (También podías doblar el reverso usando el gran 0 del "20", la "S" de "STATES", el "AM" y la "A" final de "AMERICA" para escirbir OSAMA.)
+
+    El nuevo descubrimiento es que si doblas exactamente igual un billete de $5, $10 y $100, alineas los cuatro billetes en orden, leyéndolos por el lado del "WTC", obtienes las targedia en cuatro pasos, a partir de las torres intactas en el de $5, se muesta el ataque en los de $10, $20 y $100. Bueno, tienes que verlo.
+
+    El Gobierno claramente lo tenía todo planeado para el 11-S, y escondió el secreto en nuestro papel moneda.
+
+Advierto a los lectores de que no se debe suponer que Scot da el menor crédito a esta idea loca. Se cuenta entre los más cuerdos de mis amigos. Simplemente está fascinado, como yo, por la habilidad de ciertas mentes, habitualmente en estado de reposo, para encontrar significados donde no los hay. Para ver un dispendio ilustrado de este ejercicio de futilidad, ve a http://www.glennbeck.com/news/05172002.shtml e invierte algo de tiempo. Seguramente contará en tu contra cuando te presentes ante Pedro para La Gran Decisión…
+
+
+Llama a mi abogado
+..................
+
+Lo admito, en ocasiones me dejo llevar por vuelos de la imaginación cuando descubro alguna declaracion legislativa que podría usar como ventaja a nuestro favor para ir contra los Chicos Malos. Lee esto, y mira si se te ocurre lo mismo que me estuvo revoloteando por la cabeza brevemente cuando me tropecé con ello por primera vez. La Sección 1001, Título 18 del Código de los Estados Unidos estipula:
+
+    (a) Excepto lo declarado contrariamente en esta sección, quien, en cualquier cuestión incluida en la jurisdicción de los poderes ejecutivo, legislativo o judicial del Gobierno de los Estados Unidos, a sabiendas e intencionadamente -
+
+        (1) falsifique, oesconda u oculte por cualquier truco, plan o dispositivo un hecho material;
+
+        (2) realice una declaración o representación materialmente falsa, ficticia o fraudulenta; o
+
+        (3) haga o use cualquier escrito o documento falso sabiendo que éste contiene cualquier declaración o inscripción materialmente falsa, ficiticia o fraudulenta;
+
+    será penalizado bajo este título, encarcelado durante no más de 5 años...
+
+¡Ayyyyyyyyy! ¡Desde mi punto de vista, que admito de aficionado, esto parece referirse a un alto porcentaje de las situaciones con las que tratamos! ¿Es posible que tengamos un nuevo ángulo de aproximación para atrapar a Los Chicos Malos?
+
+
+Experiencia mal aplicada
+........................
+
+Nuestro artículo principal de la semana pasada atrajo una buena cantidad de comentarios sobre la supuesta experturía de Peter B. Lloyd. El lector Edmond Orignac escribió acerca del proceso de Lloyd para relacionar el doblado de cucharas con la situación del OSI [Open Systems Interconnection]:
+
+    Esta analogía no sólo es inútil como explicación del doblado de cucharas, sino que aún hace la cuestión más absurda; ¿hay de verdad siete capas como en OSI o sólo cuatro como en TCP/IP, qué comité diseñó esas capas, cuándo y dónde, qué industria ha adoptado la norma, etc.? Como al menos una vez en nuestra vida todo el mundo ha sido capaz de doblar una cuchara apretando demasiado conta un bizcocho demasiado hecho, la explicación real de los sorprendentes poderes mentales de Geller no es demasiado difícil de averiguar.
+
+    Uno se queda preguntándose si al intentar "explicar" un fenómeno sobrenatural por medio de un estándar ingenieril arbitrario que desconoce o no comprende, este Mr. Lloyd está mostrando simplemente su incapacidad para distinguir entre ciencia y tecnología, o si está aprovechándose de la ignorancia del público sobre esta diferencia para reforzar la mistificación de Geller...
+
+El lector Darren McBride:
+
+    Como diseñador de computadoras y redes leí el comentario de la semana pasada sobre la credulidad de Peter Lloyd en lo concerniente a Uri Geller con interés. Peter Lloyd no sólo demuestra ignorancia del arte del conjuro, sino que tambíen deja ver su falta de comprensión de su propio campo - la informática. Al comparar los fenómenos "psi" con las capas de Internet, habla de la "capa física" y luego sigue diciendo: "encima de todo está la 'capa de aplicación', que es el cliente de correo que muestra y alamacena el correo electrónico. En Internet hay también otras cuatro capas: enlace, red, transporte, sesión y presentación."
+
+    Pues no…
+
+El Sr. McBride siguió con una explicación de "las siete capas de OSI" que está más allá de mi comprensión, y probablemente más allá del conocimiento de mi lector medio, así que misericordiosamente se la ahorraré. Terminaba con:
+
+    Encuentro fascinante que la falta de rigor que es marca de la casa del pensamiento de Mr. Lloyd al evaluar las afirmaciones de Mr. Geller es evidente incluso en su propio campo de conocimiento.
+
+El lector Dan Thompson:
+
+    Como soy una persona con formación en Tecnologías de la Información, me resultaba bastante evidente al leer fragmentos de Mr. Lloyd que está aplicando la mecánica de su mundo de software inteligentemente diseñado (en el sentido literal del término) a la física del mundo real, lo que es simplemente ridículo. Sus frecuentes referencias a "capas de aplicación" y "sistemas orientados a objetos" muestran claramente su inclinación.
+
+    Esto se hace evidente cuando usas un asunto más familiar: supón que un mecánico de automotores intentase interpretar el doblado de cucharas de Geller según su área de experiencia. Podría suponer que la mente es como el carburador, mientras que el frotamiento de la cuchara es análogo a la bujía y la cuchara en sí es el pistón. Por supuesto, tal analogía carecería totalmente de sentido y no tiene nada que ver con cómo funciona la física del mundo real... pero usando tal analogía, puedes desnudar los tecnobalbuceos y ver lo ridículas que son sus afirmaciones por sí mismas.
+
+    Por supuesto, dadas sus interminables referencias a las *películas* de Matrix, es posible que esté explicando en exceso los escritos de alguien con una clara falta de agarre a la realidad...
+
+Dan, percibo una insinuación de que los psíquicos tienen algún fundamento aparte de trucos y subterfugios... No puedo aceptar eso.
+
+Finalmente, el lector Matt Yarbrough:
+
+    Las analogías de Lloyd levantaron unas cuantas banderas rojas para mí. He estado en IT (Tecnologías de la Información) durante quince años y he tratado con un número tremendo de programadores. Hay una percepción de que porque alguien es un programador es una persona lógica. Esto se cumple mucho menos a menudo de lo que uno podría esperar. La habilidad para manejarse bien con las matemáticas y los algoritmos no imbuye *“matemágicamente”* a uno con la capacidad de meterse en el análisis lógico o incluso de pensar con claridad. Basándome en sus explicaciones de lo tecnológico me atervería a decir que es un programador de muy limitada capacidad. Esto concuerda con el énfasis en sus escritos metafísicos más que tecnológicos en su sitio web y en el sitio web de su compañía de software.
+
+    A menudo me desmoraliza la cantidad de gente de las IT que son capaces de complejos análisis de problemas tecnológicos que aún persisten en creer en tonterías como la visión remota y los cristales. Pero aún me desmoraliza más el publico en general que supone que porque alguien tiene una formación técnica (sea en computadoras, matemáticas, biología, astrología [sic], medicina, etc., etc.) de algún tipo, está cualificado para declarar el "valor científico" de uno u otro supuesto fenómeno. Culpo principalmente de esto a la falta de enseñanza del pensamiento crítico en la escuela, y no sólo en los Estados Unidos, según los numerosos asuntos que comentas semanalmente de todo el mundo.
+
+Te remito a un caso de mi propia vida que ilustra este problema de un experto fuera de su territorio natural. Ve a una columna anterior en http://www.randi.org/jr/12-29-2000.html. Ve allí, busca "Coliseum" y lee esa breve narración.
+
+Una explicación
+...............
+
+Un lector anónimo comenta el asunto de la semana pasada sobre el Servicio Veterinario de Cache Creek y su demencia:
+
+    Cuando te das cuenta de que Woodland, California, tiene 666 como prefijo telefónico, todo se aclara. Estaba trabajando para un programa de Migrant Head Start con aulas de una escuela cristiana cuando me di cuenta de esto. No pregunté...
+
+
+Una cuestión de prioridades
+...........................
+
+La lectora Karen Howe de Miramichi, New Brunswick, Canadá, tras describir a un amigo íntimo que cree poder curar con el Reiki a pesar de su gran inteligencia, nos dice:
+
+    …con gran disgusto investigué recientemente nuestra cobertura médica (por parte de un nuevo empleador) sólo para encontrarme con un sorprendente despilfarro de fondos. Necesitaba nuevas lentes, y esperaba que cubrieran el coste. Imagina mi sorpresa cuando descrubrí que la compañía llegaría a pagar $500 al año por tarifas de quiroprácticos, $500 al año por tarifas de terapias de masaje, $500 por sanadores holísticos (lo que incluye el Reiki si lo prescribe un naturópata), pero sólo $174 cada dos años para lentes.
+
+    Cambiaría gustosa $500 de, digamos, medicina holística por la oportunidad de tener un objeto muy caro, pero físicamente necesario. Soy extremadamente miope con un diagnóstico de visión que se degrada cada año, y sin embargo se espera que use durante dos años las mismas gafas que cuestan de promedio $250. Legalmente, no puedo conducir un vehículo sin mis lentes, ¡ni sería capaz de trabajar porque no puedo ver la pantalla de la computadora!  …Con un poco de suerte, llegará el día en que locuras como ésta estarán prohibidas.
+
+Con suerte…
+
+
+El doblado de cucharas de Spinney
+.................................
+
+El lector Dirk Oden de Monte Vista, Colorado, hizo comentarios sobre el video de Jacob Spinney de doblado de tenedores visto aquí la semana pasada:
+
+    Si una persona pudiera de verdad doblar un tenedor (o una cuchara) con su mente, no sería necesario que el doblador sujetara el utensilio durante el acto. Retaría a cualquier autoproclamado doblador de cubiertos a doblar un tenedor del cajón de mi cubertería con las manos en los bolsillos mientras yo lo suspendo de un sedal a cinco centímetros de su frente.
+
+Yo le respondí:
+
+    Como he dicho muchas veces antes, no puedes imponer tus condiciones al ejecutante. ¿Demostrarías que un baterista no es un músico porque no sabe tocar el clavicordio? ¿Cómo puedes decir que no debería ser necesario para un psíquico sujetar el cubierto mientras lo dobla? Quizás el contacto se necesita por alguna razón de la que no sabes nada. ¿Retarías a un electricista a reparar un aparato, o incluso a encenderlo, sin tocarlo…? Un fallo en cumplir tal reto no indicaría que el electricista carece de capacidad.
+
+    Si estos poderes existen, y no tenemos ninguna evidencia de que lo hacen, pueden exigir condiciones específicas para el éxito. No podemos decir que no es así.
+
+    Por supuesto, como las condiciones bajo las que opera un "psíquico" son las que permiten explicaciones normales, no sobrenaturales, y/o simple prestidigitación, no necesitamos recurrir a soluciones de abracadabra.
+
+A propósito, recibimos más o menos una docena de intentos de explicar el trudo de Jacob. Unos pocos se acercaron bastante, y uno de ellos ¡acertó de lleno! Sin embargo, ninguno de la pandilla de listillos Coppens/Lloyd/Osborn/Pilkington/Sarfatti respondió, como pedimos…
+
+
+Plegarias oficiales
+...................
+
+.. image:: http://www.randi.org/images/commentary/200610/27prayer.jpg
+   :alt:
+   :align: right
+
+El lector Jeff Fitzmayer nos dirige a http://tinyurl.com/8jcnf para que tengamos una experiencia desconcertante. Nos escribe:
+
+    Gracias por todo lo que haces. A la luz del ciclo electoral que se aproxima, pensé que encontrarías interesante esta página web del Equipo de Plegarias Presidenciales, si es que aún no la habías visto.
+
+    Además del increíblemente superficial y pintoresco asunto principal que permea este sitio web, también puedes descargar una guía en PDF sobre "Reza por los Votos". En la guía te enterarás entre otras cosas de que de verdad puedes rezar por la "precisión de la maquinaria de voto y el recuento".
+
+    En el recuadro rosa "Reza Ahora" de la página web, puedes ver una multitud de eventos gubernamentales específicos del día por los que deberías rezar. Por ejemplo, cuando la visité hoy, se supone que deberíamos "rezar por el Presidente Bush mientras recibe en la Casa Blanca a varios astronautas, incluyendo tripulaciones del Discovery, del Atlantis y de la Estación Espacial Internacional". Por alguna razón, no se menciona a las tripulaciones del Challenger ni del Columbia. Pero siguiendo con la idea, no pude encontrar una sección de "Plegarias Fallidas" en el sitio web.
+
+    No puedo evitar preguntarme cómo habría sido este sito web si hubiera existido en enero de 1998, cuando cayó sobre el Presidente Clinton el escándalo de Mónica Lewinsky. Basándome en el contenido abrumadoramente conservador de la página tal como es hoy, apuesto que el punto principal allá por 1998 hubiera sido "¡Reza por tener otro jodido Presidente!". Pero es sólo un pálpito.
+
+
+Un paso bien dado en China
+..........................
+
+Acabamos de enterarnos de que para el 1º de noviembre, los medios impresos chinos tendrán prohibido aceptar publicidad engañosa. Esto sigue a una prohibición sobre anuncios similarmente engañosos en radio y televisión emitida en agosto por la Administración Estatal de Radio, Cine y Televisión. Las publicaciones tendrán prohibido aceptar publicidad que promocione productos médicos que no hayan demostrado su eficacia; al igual que aquí, se ofrece a los consumidores chinos anuncios que promocionan la potencia masculina, aumento de pechos o curalotodos mágicos. La agencia estatal dice que los anuncios engañosos suelen ser vulgares y ofensivos, y que "perjudican seriamente la credibilidad" de los medios impresos.
+
+El mercado publicitario chino, alrededor de 17.700 millones de dólares en 2005, es el quinto del mundo. Aproximadamente dos tercios de los chinos que respondieron a una encuesta on-line el mes pasado dijeron que habían sido víctimas de anuncios falsos e ilegales de productos méciso, comida sana y productos cosméticos. Además, también estarán estrictamente prohibidos los anuncios obscenos o con contenidos supersticiosos, así como los que "enseñan trucos para el juego en casinos".
+
+¿Sería posible que pudiéramos aprender a aceptar algo más que la invención de la pólvora, los fideos y la brújula de esta antigua civilización?
+
+
+Los 10 destacados
+.................
+
+.. figure:: http://www.randi.org/images/commentary/200610/27true.jpg
+   :alt:
+   :figwidth: 523
+   :align: center
+
+   ESTO ES VERDAD
+
+   "La verdad es más extraña que la ficción porque la ficción tiene que tener sentido"
+
+Sacado de `This is True <http://www.thisistrue.com/>`__ (Esto es Verdad), que presenta noticias raras-pero-ciertas de la prensa del mundo, te damos estas indicaciones Top Ten de que estás sobre-obsesionado con la religión:
+
+    #10 – Niegas vigorosamente la existencia de los miles de dioses afirmados por otras religiones, pero te indignas cuando alguien niega la existencia del tuyo.
+
+    #9 – Te sientes insultado y "deshumanizado" cuando los científicos dicen que las personas evolucionaron a partir de otras formas de vida, pero no tienes problemas con la afirmación bíblica de que los humanos se crearon del barro.
+
+    #8 – Te ríes de los politeístas, pero no tienes problemas en creer en un Dios Uno y Trino.
+
+    #7 – Te pones rojo de ira cuando oyes las "atrocidades" atribuídas a Alá, pero ni parpadeas cuando oyes cómo Dios/Jehová masacró a todos los niños primogénitos de Egipto en el Éxodo y ordenó la eliminación de grupos étnicos enteros en Josué, incluidas mujeres, niños y árboles.
+
+    #6 – Te ríes de las creencias hindúes que deifican a humanos, y las afirmaciones griegas sobre dioses apareándose con mujeres, pero no tienes problemas para creer que el Espíritu Santo dejó embarazada a María, que luego dio a luz a un hombre-dios al que mataron, que volvió a la vida y finalmente ascendió al cielo.
+
+    #5 – Estás dispuesto a pasar tu vida buscando pequeñas lagunas en la edad científicamente establecida de la Tierra (4.550 millones de años), pero no ves nada raro en creer las fechas registradas por miembros de tribus de la edad del bronce sentados en sus tiendas y suponiendo que la Tierra comenzó hace dos generaciones.
+
+    #4 – Crees que toda la población de este planeta con la excepción de quienes comparten tus creencias - aunque excluyendo a todos los de las sectas rivales - pasarán la eternidad en un infierno de sufrimientos infinitos, y aún así piensas que tu religión es la más "tolerante" y "llena de amor".
+
+    #3 – Mientras que la ciencia, la historia, geología, biología y física modernas no han logrado convencerte de lo contrario, cualquier idiota revolcándose en el suelo mientras "habla en lenguas" puede ser toda la evidencia que necesitas para "demostrarte" que tu elección de religión es la correcta.
+
+    #2 – Defines 0,01% como una "alta tasa de éxito" en lo tocante a plegarias respondidas, y consideras que eso es una prueba de que la oración funciona. Y piensas que el 99,99% restante de fallos simplemente era la voluntad de Dios.
+
+    #1 – En realidad sabes mucho menos sobre la Biblia, el cristianismo y la historia de la iglesia que muchos ateos y agnósticos, y aún así te defines como cristiano.
+
+Junto a esta lista había un interesante añadido de Joseph Campbell, el escritor famoso por su obra en los campos de la mitología y la religión:
+
+    La parte mala tanto de las pequeñas como de las grandes "fes colectivas", prehistóricas e históricas, es que todas ellas, sin excepción, pretenden haber encerrado en sus mitologías ritualizadas toda la verdad que se puede llegar a conocer.
+
+    Por ello están condenadas, y condenan a quienes las aceptan, con lo que llamaré "el error de la verdad encontrada", o, en lenguaje mitológico, el pecado contra el Espíritu Santo.
+
+    Oponen a las revelaciones del espíritu las barreras de su propia creencia petrificada y, por tanto, dentro de los límites de su control, la mitología, tal como la conforman, sirve al único fin de ligar a los potenciales individuos a cualquier sistema de sentimientos que a los conformadores del pasado (ahora adorados como santos, sabios, ancestros e incluso dioses) les haya parecido apropiado para su concepto de una gran sociedad.
+
+
+En conclusión
+.............
+
+Ha sido una semana muy ajetreada. La reunión de puertas abiertas del último-miércoles-del-mes en la |JREF| fue de verdad interesante, seguido inmediatamente por un colapso de nuestra centralita telefónica - mal llamada "Merlin" - y ciertas complicaciones con la recuperación de la querida Linda de su apendicectomía. Pero seguimos en marcha, aunque cansados de tanto acontecimiento. Nos estamos preparando para el "entoldado" venidero de la |JREF| tras haber encontrado que las termitas estaban devorando nuestra obviamente deliciosa biblioteca. ¿Y luego qué, Sylvia Browne? Las inscripciones para TAM5 siguen llegando, así que todo va bien.
+
+Además, estamos trabajando en la redacción de los cambios venideros del reto. Paciencia, amigos, paciencia...
+
+|firmarandi|
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: Traducido por Ángel Arnal Artigas
+    :description: Buenas noticias — Hyeronimous resucitado — Engañar a los científicos — Más conspiraciones estúpidas — Llama a mi abogado — Experiencia mal aplicada — Una explicación — Una cuestión de prioridades — El doblado de cucharas de Spinney — Plegarias oficiales — Un paso bien dado en China — Los 10 destacados

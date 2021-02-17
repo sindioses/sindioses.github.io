@@ -1,0 +1,49 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2005-9-14
+.. type: afirmacrea
+.. title: CB035.2: La atmósfera temprana de la Tierra no tenía gases reductores
+.. description: Respuesta a la afirmación creacionista «La atmósfera temprana de la Tierra no tenía gases reductores»
+.. slug: CB035_2
+.. link: http://www.talkorigins.org/indexcc/CB/CB035_2.html
+
+En la atmósfera prebiótica temprana de la Tierra, probablemente no había gases reductores.
+
+**Fuente:**
+
+Discovery Institute. 2003. A preliminary analysis of the treatment of evolution in biology textbooks currently being considered for adoption by the Texas State Board of Education. http://www.discovery.org/articleFiles/PDFs/TexasPrelim.pdf
+
+Wells, Jonathan. 2000. *Icons of Evolution*. Washington DC: Regnery. 
+
+Respuesta
+=========
+1. Esta afirmación es falsa. La evidencia actual indica que la tierra temprana tenía una atmósfera levemente reductora ([Kasting_1993]_). Probablemente era rica en hidrógeno debido a que el escape de hidrógeno de la atmósfera era mucho más bajo de lo que se pensaba anteriormente ([Tian_et_al_2005]_). Los cálculos de las emisiones de gases esperadas de las condritas (que en su mayor parte formaban la tierra) también indican una atmósfera reductora ([Thomas_2005]_).
+
+2. Incluso si la atmósfera de la atmósfera hubiera sido neutra en general, habría habido muchas áreas locales que eran reductoras, como las áreas cerca de vulcanismo activo ([Delano_2001]_; [Kasting_1993]_).
+   
+Referencias
+===========
+
+.. [Delano_2001]    Delano, J. W. 2001. Redox history of the Earth's interior since ~3900 Ma: Implications for prebiotic molecules. *Origins of Life and Evolution of the Biosphere* 31: 311-341.
+.. [Kasting_1993]    Kasting, J. F. 1993. Earth's early atmosphere. *Science* 259: 920-926.
+.. [Thomas_2005]    Thomas, Dave. 2005. New trouble for Wells's "Icon of Anti-Evolution #1". http://www.talkreason.org/articles/Wells.cfm
+.. [Tian_et_al_2005]    Tian, F., O. B. Toon, A. A. Pavlov and H. De Sterck. 2005. A hydrogen-rich early Earth atmosphere. *Science* 308: 1014-1017. Cfr. Chyba, C. F. 2005. Rethinking Earth's early atmosphere. *Science* 308: 962-963. 
+
+Otras lecturas
+==============
+
+Ellington, Andrew D. and Matthew Levy. 2003. Gas, discharge, and the Discovery Institute. *Reports of the National Center for Science Education* 23(3-4): 39-40. 
+
+		
+/////
+
+Anterior: :doc:`CB035_1` | Siguiente: :doc:`CB035_3`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

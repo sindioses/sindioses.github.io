@@ -1,0 +1,60 @@
+.. title: CB121: El costo de la selección natural es prohibitivo (dilema de Haldane)
+.. slug: CB121
+.. date: 2006-6-8
+.. tags: CB, CB100
+.. category: Afirmaciones de los creacionistas
+.. link: http://talkorigins.org/indexcc/CB/CB121.html
+.. description: Respuesta a la afirmación creacionista «El costo de la selección natural es prohibitivo (dilema de Haldane)»
+.. type: afirmacrea
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. has_math: yes
+.. nocomments: True
+
+\J. \B. \S. Haldane calculó que nuevos genes se vuelven fijos sólo luego de 300 generaciones debido al costo de la selección natural ([Haldane_1957]_). Dado que los humanos difieren en :math:`4.8 \times 10^7` genes, no ha habido suficiente tiempo para que se acumule la diferencia. Sólo podrían haber ocurrido 1667 sustituciones de nucléotidos si su divergencia fuera hace diez millones de años.
+
+**Fuente:**
+
+ReMine, Walter J., 1993. *The Biotic Message*, St. Paul Science, Inc.
+
+Respuesta
+============
+
+1. El "costo de la selección natural" de Haldane surgió de una presunción inválida y simplificadora en sus cálculos. Dividió por una constante de aptitud de forma que invalidó sus suposiciones de un tamaño constante en la población, y su costo de selección es un defecto derivado del cambio de tamaño en la población. También asumió que dos mutaciones tardarían el doble de tiempo que una sola en alcanzar fijación, pero debido a la recombinación sexual, las dos pueden seleccionarse simultáneamente y ambas alcanzarán fijación antes. Con los cálculos corregidos, el costo desaparece ([Wallace_1991]_; [Williams_n_d]_).
+
+   El informe de Haldane se publicó en 1957, y el propio Haldane dijo: "Soy muy consciente de que mis conclusiones probablemente necesitarán una revisión drástica" ([Haldane_1957]_, 523). Es irresponsable no considerar la revisión que ha ocurrido en los muchos años desde que se publicó su informe.
+
+2. ReMine ([ReMine_1993]_), quien promueve la afirmación, hace varias presunciones inválidas. Lo siguiente contradice su modelo:
+
+   * La vasta mayoría de las diferencias probablemente se deban a deriva genética, no selección.
+
+   * Muchos genes podrían haber estado relacionados con genes seleccionados y por lo tanto podrían haberse fijado al acompañarlos.
+
+   * Muchas mutaciones, como las debidas a intercambio genético desigual, afectan a más de un codón.
+
+   * Tanto los genes de los humanos como los de los priamtes tendrían divergencia de su ancestro común, duplicando la diferencia.
+
+   * La simulación de computadora de ReMine que supuestamente mostraba la influencia negativa del dilema de Haldane asumía una población de sólo seis ([Musgrave_1999]_).
+
+Enlaces
+========
+
+Williams, Robert, n.d. Haldane's dilemma. http://www.gate.net/~rwms/haldane1.html
+
+Referencias
+=============
+
+.. [Haldane_1957]    Haldane, J. B. S., 1957. The cost of natural selection. *Journal of Genetics* 55: 511-524.
+.. [Musgrave_1999]    Musgrave, Ian, 1999. Weasels, ReMine, and Haldane's dilemma. http://www.talkorigins.org/origins/postmonth/sep99.html
+.. [ReMine_1993]    ReMine, Walter J., 1993. *The Biotic Message*, St. Paul Science, Inc.
+.. [Wallace_1991]    Wallace, Bruce, 1991. *Fifty Years of Genetic Load - An Odyssey*. Cornell University Press. See particularly Chapters 5, 6, 8, and 9.
+.. [Williams_n_d]    Williams. (Ver arriba)
+
+
+/////
+
+Anterior: :doc:`CB120` | Siguiente: :doc:`CB130`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

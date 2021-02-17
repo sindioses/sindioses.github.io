@@ -1,0 +1,34 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CI, CI100
+.. author: Mark Isaak, traducción de Marcelo Huerta
+.. nocomments: True
+.. slug: CI101
+.. link: http://www.talkorigins.org/indexcc/CI/CI101.html
+.. date: 2003-07-09 02:00:00+00:00
+.. title: CI101: La complejidad indica diseño inteligente
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La complejidad indica diseño inteligente»
+
+Respuesta
+===========
+
+1. Esto es una :doc:`falacia de la incredulidad personal <CA100>` por antonomasia. La complejidad normalmente significa algo que es difícil de entender. Pero el hecho de que uno no pueda entender cómo algo llegó a existir no indica que uno pueda concluir que fue diseñado. Por el contrario, la falta de comprensión indica que no debemos concluir diseño ni ninguna otra cosa.
+
+   La :doc:`complejidad irreducible <CB200>` y la :doc:`información compleja especificada <CI110>` son casos especiales de la afirmación de que "la complajidad indica diseño"; también son falacias de incredulidad.
+
+2. En el tipo de diseño que conocemos, la simplicidad es un objetivo del diseño. La complejidad surge hasta cierto punto del descuido o de la necesidad, pero los ingenieros trabajan para hacer las cosas lo más simples posible. Esto es muy distinto de lo que vemos en la vida.
+
+3. La complejidad surge de causas naturales; por ejemplo, en los patrones climáticos y en la formación de cavernas.
+
+4. La complejidad está mal definida.
+
+
+/////
+
+Anterior: :doc:`CI100_1` | Siguiente: :doc:`CI102`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

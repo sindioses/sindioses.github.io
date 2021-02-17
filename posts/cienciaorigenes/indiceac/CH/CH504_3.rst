@@ -1,0 +1,40 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH500
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH504_3
+.. link: http://talkorigins.org/indexcc/CH/CH504_3.html
+.. date: 2003-5-7 02:00:00+00:00
+.. title: CH504.3: Hardwicke Knight encontró restos de madera blanda en el Ararat
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Hardwicke Knight encontró restos de madera blanda en el Ararat»
+
+En 1936, Hardwicke Knight fue secuestrado en el Ararat pero luego fue liberado. Mientras estaba perdido en el Ararat, encontró restos de madera blanda y oscura. Esto fue en el lado norte de la montaña, justo debajo de la placa de hielo.
+
+**Fuente:**
+
+LaHaye, Tim y John Morris, 1976. *The Ark on Ararat*, Nashville: Thomas Nelson Inc.
+
+Respuesta
+===========
+
+1. De acuerdo con el relato, la madera era tan blanda que se deterioró rápidamente. Esto contrasta con todos los otros relatos sobre el Arca, y no deja pruebas para respaldar la historia.
+
+2. Knight mismo no asoció la madera con el Arca hasta años después. Dado que se ha llevado :doc:`otra madera <CH504_1>` al Ararat, la madera de Knight podría haber sido otra cosa.
+
+Otras lecturas
+=================
+
+Bailey, Lloyd, 1989. *Noah: The Person and the Story in History and Tradition*. Columbia, SC: University of South Carolina Press.
+
+
+/////
+
+Anterior: :doc:`CH504_2` | Siguiente: :doc:`CH505_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

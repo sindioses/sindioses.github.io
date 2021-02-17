@@ -1,0 +1,62 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA000
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA002_1
+.. link: http://www.talkorigins.org/indexcc/CA/CA002_1.html
+.. date: 2006-12-08 02:00:00+00:00
+.. title: CA002.1: El darwinismo conduce al darwinismo social
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «El darwinismo conduce al darwinismo social»
+
+El darwinismo conduce al darwinismo social, la política de a que los débiles hay que dejarlos fallar y morir
+
+Fuente:
+========
+
+Morris, Henry M. 1985. *Scientific Creationism*. Green Forest, AR: Master Books, p. 179.
+
+Respuesta:
+==========
+
+Este es un ejemplo de la :doc:`falacia naturalista <CA002>`, el argumento de que el modo en que las cosas son implica cómo deben ser. Pero *"es"* no implica *"debe ser"*. La evolución sólo dice cómo son las cosas; no dice cómo deberían ser.
+
+El origen del darwinismo social no fue Darwin, sino Herbert Spencer y la tradición del inconformismo protestante desde Hobbes pasando por Malthus. Las ideas que Spencer tenía de la evolución eran lamarckianas. La única conexión entre el darwinismo y el darwinismo social es el nombre.
+
+Distintas ideas políticas y religiosas abrevan en la biología evolutiva, incluyendo ideas que alientan una mayor cooperación.
+
+La teoría evolutiva nos muestra que la supervivencia de una especie a largo plazo está fuertemente relacionada con su variabilidad genética. Todos los programas de darwinismo social promueven reducir la variabilidad gnenética, reduciendo por lo tanto las probabilidades de supervivencia a largo plazo en caso de cambio ambiental. Comprender la evolución debería refutar cualquier intento de darwinismo social si se considera un objetivo la supervivencia a largo plazo de la humanidad.
+
+Los relatos de eugenismo y darwinismo social están relacionados con más frecuencia con el surgimiento de la ciencia de la genética que con la teoría evolutiva.
+
+
+Enlaces:
+========
+
+* Wilkins, John, 1997. Evolution and philosophy: Does evolution make might right? http://www.talkorigins.org/faqs/evolphil/social.html
+
+Otras lecturas:
+===============
+
+* Bannister, R. C., 1979. *Social Darwinism: Science and Myth in Anglo-American Social Thought*. Philadelphia: Temple University Press.
+
+* Bowler, P. J., 1993. Biology and Social Thought, 1850-1914. *Berkeley papers in history of science*; 15. Berkeley, Calif., Office for History of Science and Technology University of California at Berkeley: 95.
+
+* Hofstadter, R., 1944. *Social Darwinism in American Thought*. Philadelphia: University of Pennsylvania Press.
+
+* Kevles, D., 1995. *In the Name of Eugenics: Genetics and the Uses of Human Heredity*. New York: Knopf.
+
+* Ruse, Michael, 2001. Social Darwinism. Chapter 10 in: *Can a Darwinian Be a Christian?*, Cambridge University Press.
+
+* Singer, P., 2000. *A Darwinian Left: Politics, Evolution, and Cooperation*. New Haven: Yale University Press.
+
+/////
+
+Anterior: :doc:`CA002` | Siguiente: :doc:`CA002_2`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

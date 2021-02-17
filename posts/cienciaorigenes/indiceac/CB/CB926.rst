@@ -1,0 +1,45 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CB926: La preadaptación implica que los órganos evolucionaron antes de ser necesarios
+.. description: Respuesta a la afirmación creacionista «La preadaptación implica que los órganos evolucionaron antes de ser necesarios»
+.. slug: CB926
+.. link: http://www.talkorigins.org/indexcc/CB/CB925.html
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-6-13
+
+Los evolucionistas apelan a la preadaptación como una explicación de cómo surgieron algunas características. La preadaptación dice que órganos y otras características evolucionaron antes de ser necesarias. Pero una característica innecesaria nunca sería seleccionada, por lo tanto todo el concepto contradice la teoría de la evolución.
+
+Respuesta
+=========
+
+1. La preadaptación implica que las características evolucionaran antes de que se las necesitara *para la función para la que terminaron sirviendo*, pero no antes de que fueran necesarias *para algo*. Muchos órganos y características evolucionaron inicialmente para usarse de una manera, que las predispuso accidentalmente para que se las usara de otra. Una vez que un órgano o característica usada para un propósito también se vuelve usable de una forma nueva y más ventajosa, la selección natural la adaptará para su nuevo uso. Los siguientes son algunos ejemplos potenciales:
+
+
+   * Las escamas dérmicas duras en la piel de los tiburones originalmente seleccionadas por su resistencia a la abrasión tenían el potencial de convertirse en dientes.
+   * Las plumas de la piel de los dinosaurios reptilianos originalmente seleccionadas para protección térmica y/o exhibiciones sexuales tenían el potencial de convertirse en plumas para el vuelo.
+   * Las aletas lobuladas de algunos peces originalmente seleccionadas por la capacidad de "caminar" a través de vegetación subacuática densa tenían el potencial de convertirse en piernas.
+
+   En cada caso, los órganos y características evolucionaron para usarse de forma muy diferente de como terminaron usándose. En ninngún momento evolucionaron antes de ser útiles de alguna forma, sólo antes de su uso final.
+
+   Algunos científicos prefieren el término "exaptación" para explicar este fenómeno, específicamente para evitar la interpretación errónea habitual del término "preadaptación" que lleva a realizar la afirmación del título.
+
+2. Algunas preadaptaciones se originan de adaptarse a nichos que son similares al nicho final. Por ejemplo, vivir dentro de colubiones preadapta a los escarabajos terrestres y a otros organismos para vivir en cavernas.
+
+
+Otras lecturas
+==============
+
+Gould, Stephen J., 1977. The problem of perfection, or How can a clam mount a fish on its rear end? En: *Ever Since Darwin*, New York: W.W. Norton & Co., pp. 103-110. Extractos en http://www.indiana.edu/~ensiweb/lessons/contriv.pdf
+
+/////
+
+Anterior: :doc:`CB925` | Siguiente: :doc:`CB928`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

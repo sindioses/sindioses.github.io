@@ -1,0 +1,48 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA300
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA320_1
+.. link: http://talkorigins.org/indexcc/CA/CA320_1.html
+.. date: 2001-02-18 02:00:00+00:00
+.. title: CA320.1: Mims fue despedido porque era creacionista
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Mims fue despedido porque era creacionista»
+
+Forrest M. Mims III fue despedido de un trabajo de editor de la columna "Amateur Scientist" en *Scientific American* porque era creacionista, un caso claro de discriminación religiosa.
+
+**Fuente:**
+
+Hartwig, Mark D. 1990 (21 Nov.) Defending Darwinism: How far is too far? Origins Research Archives 13(1). http://www.arn.org/docs/orpages/or131/mimsrpt3.htm
+
+van der Meer, Jitse. 1995 (12 Jul.). Carta. http://www.asa3.org/archive/evolution/199505-10/0550.html
+
+Respuesta
+===========
+
+1. Mims no fue despedido; nunca fue contratado (aunque Piel, el editor de *Scientific American*, inicialmente le dio razones para creer que sería contratado). Una compañía privada no necesita tener una excusa para no contratar a alguien que no le gusta.
+
+2. Muchos, quizá la mayoría, de los evolucionistas, están de acuerdo en que Piel no actuó apropiadamente. El trabajo de Mims debería ser juzgado por sus propios méritos.
+
+3. Se puede decir que Mims no hubiera sido bueno para el puesto. El creacionismo niega la validez de buena parte de la biología, la geología y la astronomía, volviendo dudosa la competencia del creacionista en dichas disciplinas. Se informa que Piel estaba preocupado principalmente sobre los problemas de relaciones públicas derivados de vincular a la revista con el creacionismo ([Piel_y_Mims_1991]_), y dados los hechos posteriores, sus preocupaciones estaban justificadas. Aunque mucba gente cree que Piel se equivocó, su decisión no carecía completamente de méritos.
+
+4. Luego del incidente, la imagen de Mims mismo no parece la de una persona virtuosa. Grabó una llamada telefónica con Piel sin conocimiento ni permiso de éste (aunque supuestamente siguiendo el consejo de un abogado amigo). Cuando Mims no fue contratado, hizo declaraciones severas, públicas y obstinadas contra Piel. El tema se volvió muy notorio porque *ambos* lados reaccionaron exageradamente.
+
+Referencias
+=============
+.. [Piel_y_Mims_1991] Piel, J. and F. Mims. 1991. Science's litmus test (transcripción telefónica). *Harper's* 282(1690) (Mar.): 28-30,32.
+
+Otras lecturas
+================
+
+Mims, Forrest M. III. 2004. Carta de lectores. http://www.talkorigins.org/origins/feedback/jan04.html#f017
+
+/////
+
+Anterior: :doc:`CA320` | Siguiente: :doc:`CA320_2`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,65 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA110
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA113
+.. link: http://www.talkorigins.org/indexcc/CA/CA113.html
+.. date: 2003-06-15 02:00:00+00:00
+.. title: CA113: Citas sacadas de contexto
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Citas sacadas de contexto»
+
+Citas de muchas autoridades no creacionistas muestran que los propios evolucionistas encuentran muchas y variadas fallas en la evolución.
+
+**Fuente:**
+
+Watchtower Bible and Tract Society. 1985. Life--How Did It Get Here? Brooklyn, NY, pg. 15.
+Various and numerous other sources. [*]_
+
+Respuesta
+=============
+
+1. Las citas son muy fáciles de usar mal para dar una falsa impresión de lo que quiere decir el autor. Mucha gente desarrolla sus ideas a lo largo de extensos pasajes, y ninguna única cita puede hacer justicia a sus argumentos. Mucha gente, especialmente científicos, juegan al abogado del diablo con sus propias ideas, de modo que algunas de sus citas dirán exactamente lo contrario del argumento que están defendiendo. En otros casos, existen buenas citas resumidas, pero quien hace la cita no sabe o no quiere buscarlas y usarlas. Es extremadamente sencillo buscar citas fuera de contexto que dañen las ideas principales de una persona, incluso sin intención. Las citas deberían, probablemente, examinarse con más escepticismo que cualquier otra referencia.
+
+2. Los creacionistas usan citas como argumentos de autoridad. Aparentemente consideran que la palabra impresa es una autoridad de peso. En ciencia, sin embargo, la autoridad final son las pruebas mismas, de modo que a eso se refieren los que escriben. Las citas no pueden reemplazar las pruebas.
+
+   Apelar a una autoridad es un mal uso de las citas. La vasta mayoría de la buena escritura, cuando se refiere a trabajos de otras personas, resumen su trabajo y brindan una referencia al original. En el campo de la escritura científica profesional, las referencias aparecen por todas partes, pero las citas directas son muy infrecuentes.
+
+3. Resumir el trabajo de alguien, en lugar de citarlo, muestra comprensión. Muchos creacionistas se ven limitados a citar porque no tienen idea de lo que el autor realmente quiere decir. De hecho, la mayoría de los creacionistas probablemente repiten citas sin siquiera haber leído la obra del autor original. :doc:`La cita de Darwin sobre el ojo <CA113_1>`, por ejemplo, nunca sería repetida en la forma abreviada habitual por una persona honesta que haya leído las páginas que le siguen. Si una persona es incapaz de entender un trabajo lo bastante bien como para resumirlo, no debería estar hablando sobre él en lo absoluto.
+
+4. Incluso una cita exacta y en su contexto puede ser usada para confundir. Muchas citas están obsoletas, por ejemplo, y hablan sobre nuestra ignorancia sobre áreas en las que ya no somos ignorantes. Otras citas son de creacionistas, pero aparecen en un contexto que las agrupa con científicos establecidos.
+
+Enlaces
+=========
+
+Links:
+Pieret, John (ed.), 2003. The quote mine project. http://www.talkorigins.org/faqs/quotes/mine/project.html
+
+Foley, Jim, 2002. Creationist arguments: Misquotes, http://www.talkorigins.org/faqs/homs/misquotes.html
+
+Hopkins, Michael, 2002. Quotations and misquotations: Why what antievolutionists quote is not valid evidence against evolution, http://www.talkorigins.org/faqs/quotes/
+
+Otras lecturas
+==================
+
+Holloway, R., n.d. Evolution of a creationist quote. http://www.ntanet.net/quote.html
+
+Ho-Stuart, Chris, 2003. Muller and mutations. http://www.talkorigins.org/faqs/quotes/muller.html
+
+Lindsay, Don, 2004. Famous quotes found in books. http://www.don-lindsay-archive.org/creation/quotes.html
+
+/////
+
+**Notas de Sin Dioses:**
+
+.. [*] En Sin Dioses hemos analizado extensamente este libro, titulado en castellano “La Vida: ¿Cómo se presentó aquí? ¿Por evolución o creación?”. Véase nuestro artículo :doc:`bookjehova01`.
+
+/////
+
+Anterior: :doc:`CA112` | Siguiente: :doc:`CA113_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

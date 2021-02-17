@@ -1,0 +1,50 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CJ001
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CJ001
+.. link: http://talkorigins.org/indexcc/CJ/CJ001.html
+.. date: 2003-5-1
+.. title: CJ001: Los humanos modernos han vivido en la tierra durante miles de millones de años
+.. description: Respuesta a la afirmación creacionista «Los humanos modernos han vivido en la tierra durante miles de millones de años»
+.. type: afirmacrea
+
+**Fuente:**
+
+Cremo, Michael and Richard Thompson, 1993. *Forbidden Archaeology: The hidden history of the human race.* Los Angeles: Bhaktivedanta.
+
+Respuesta
+==========
+
+1. Cremo y Thompson apoyan su afirmación con la escritura védica. Afirmaron que tenían apoyo científico para respaldarla, pero la ciencia que citan es vieja y está desacreditada.
+
+2. Más seriamente, Cremo y Thompson fueron selectivos en lo que citaron. La vasta mayoría de las pruebas muestra que los homínidos se han desarrollado más o menos gradualmente en los últimos 6.000 millones de años o más, y que los humanos modernos son mucho más jóvenes ([Tattersall_1995]_).
+
+Enlaces
+=========
+
+Foley, Jim, 1996. NBC's "The Mysterious Origins of Man" http://www.talkorigins.org/faqs/mom.html
+
+Groves, Colin, 1994. Creationism: The Hindu View. *The Skeptic* 14(3): 43-45, http://www.talkorigins.org/faqs/mom/groves.html
+
+Referencias
+=================
+
+.. [Tattersall_1995] Tattersall, Ian, 1995. *The Fossil Trail*. Oxford University Press.
+
+Otras lecturas
+===================
+
+Brass, Michael, 2002. *The Antiquity of Man: Artifactual, fossil, and gene records explored*, Baltimore: Publish America.
+
+
+/////
+
+Anterior: :doc:`CI410` | Siguiente: :doc:`CJ311`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

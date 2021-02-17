@@ -1,0 +1,53 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CF, CE400
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2004-9-25
+.. type: afirmacrea
+.. title: CE440: ¿De dónde vinieron el espacio, el tiempo, la energía y las leyes de la física?
+.. description: Respuesta a la pregunta creacionista «¿De dónde vinieron el espacio, el tiempo, la energía y las leyes de la física?»
+.. slug: CE440
+.. link: http://www.talkorigins.org/indexcc/CE/CE440.html
+
+Los cosmólogos no pueden explicar de dónde surgieron el espacio, el tiempo, la energía y las leyes de la física.
+
+**Fuente:**
+
+Brown, Walt, 1995. *In the Beginning: Compelling evidence* for creation and the Flood. Phoenix, AZ: Center for Scientific Creation, p. 20. 
+
+Respuesta
+=========
+1. Algunas preguntas son más difíciles de responder que otras. Pero aunque no comprendemos totalmente el origen del universo, no estamos completamente a oscuras. Sabemos, por ejemplo, que el espacio proviene de la expansión del universo. La :doc:`energía <CF101>` total del universo puede ser cero. Los cosmólogos tienen hipóteis para las otras preguntas que son consistentes con las observaciones ([Hawking_2001]_). Por ejemplo, es posible que haya más de una dimensión del tiempo, y que la otra dimensión no tenga límites, de modo que no haya un origen general del tiempo. Otra posibilidad es que el universo esté en un ciclo eterno sin principio ni fin. Cada big bang puede terminar en un big crunch para empezar un nuevo ciclo ([Steinhardt_y_Turok_2002]_) o a intervalos extensos nuestro universo colisiona con un universo espejo, creando el universo de nuevo ([Seife_2002]_).
+   
+   Uno debería tener en mente que nuestras experiencias en la vida diaria son mala preparación para las condiciones extremas y extrañas que uno encuentra en la cosmología. Los asuntos con los que lidian los cosmólogos es muy difícil de comprender. Rechazarla por eso, sin embargo, sería volver a la :doc:`falacia de la incredulidad personal <CA100>`.
+
+2. Los creacionistas no pueden explicar los orígenes en absoluto. Decir "Dios lo hizo" no es una explicación, porque no está ligada a ninguna evidencia objetiva. No excluye ninguna posibilidad ni tampoco ninguna imposibilidad. No responde preguntas como "cómo" y "por qué", y genera cuestiones como "¿cuál Dios" y "¿cómo se originó Dios?". En el juego de las explicaciones, los cosmólogos llevan claramente la delantera.
+   
+Referencias
+===========
+.. [Hawking_2001]    Hawking, Stephen, 2001. *The Universe in a Nutshell*. New York: Bantam.
+.. [Seife_2002]    Seife, Charles, 2002. Eternal-universe idea comes full circle. *Science* 296: 639.
+.. [Steinhardt_y_Turok_2002]    Steinhardt, P. J. and N. Turok, 2002. A cyclic model of the universe. *Science* 296: 1436-1439. 
+
+Otras lecturas
+==============
+
+Hawking, Stephen, 1988. *A Brief History of Time*. Toronto: Bantam.
+
+Hawking, Stephen, 2001. *The Universe in a Nutshell*. New York: Bantam.
+
+Musser, George, 2002. Been there, done that. *Scientific American* 286(3) (Mar.): 25-26, http://www.sciam.com/article.cfm?articleID=000D59C8-5512-1CC6-B4A8809EC588EEDF
+
+Veneziano, Gabriele, 2004. The myth of the beginning of time. *Scientific American* 290(5) (May): 54-65. 
+
+		
+/////
+
+Anterior: :strong:`CE425` | Siguiente: :doc:`CE441`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

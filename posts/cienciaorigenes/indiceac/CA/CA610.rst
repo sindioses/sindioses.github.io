@@ -1,0 +1,70 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA600
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA610
+.. link: http://www.talkorigins.org/indexcc/CA/CA610.html
+.. date: 2003-07-05 02:00:00+00:00
+.. title: CA610: La evolución es una religión
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La evolución es una religión»
+
+La evolución es una religión porque incluye puntos de vista sobre valores y significados últimos.
+
+**Fuente:**
+
+Morris, Henry M. 1985. *Scientific Creationism*. Green Forest, AR: Master Books, pp. 196-200.
+
+Respuesta
+=============
+
+1. La evolución sólo describe parte de la naturaleza. El hecho de que esa parte de la naturaleza sea importante para mucha gente no convierte la evolución en una religión. Considere algunos atributos de la religión y cómo se comparan con la evolución:
+
+   * Las religiones explican la realidad última. La evolución se detiene con el desarrollo de la vida (ni siquiera incluye los orígenes de la vida).
+
+   * Las religiones describen el lugar y el papel de los humanos dentro de la realidad última. La evolución describe sólo nuestros antecedentes biológicos relativos al presente y los entornos humanos recientes.
+
+   * Las religiones casi siempre incluyen reverencia por y/o creencia en un poder o poderes sobrenatural(es). La evolución no.
+
+   * Las religiones tienen una estructura social construida en torno a sus creencias. Aunque la ciencia como un todo tiene una estructura social, esa estructura no es específica de los biólogos evolutivos, y uno no necesita participar en esa estructura para ser un científico.
+
+   * Las religiones imponen prescripciones morales a sus miembros. La evolución no. Algunas personas han usado la evolución (bien y mal) como base para la moralidad y los valores, por ejemplo Thomas Henry Huxley, Herbert Spencer y E. O. Wilson ([Ruse_2000]_), pero su posición, aunque basada en la evolución, no es la ciencia de la evolución; va más allá.
+
+   * Las religiones incluyen rituales y sacramentos. Con la posible excepción de las ceremonias universitarias de graduación, no hay nada comparable en los estudios evolutivos.
+
+   * Las ideas de las religiones son fuertemente estáticas; cambian principalmente por producir nuevas religiones. Las ideas en biología evolutiva rápidamente a medida que se encuentran nuevas pruebas.
+
+2. ¿Cómo puede ser que una religión no tenga adherentes? Cuando se les pregunta por su religión, muchos, quizá la mayoría, de aquellos que creen en la evolución se consideran miembros de religiones principales, como el cristianismo, el budismo y el hinduísmo. Ninguno identifica su religión como evolución. Si la evolución es una religión, es la única religión rechazada por todos sus miembros.
+
+3. La evolución puede considerarse una religión de acuerdo con la definición metafórica de algo que se realiza con celo o devoción concienzuda. Esto podría aplicarse, sin embargo, a la filatelia, regar plantas, o prácticamente cualquier otra actividad. Llamar "religión" a la evolución hace que el concepto de religión pierda su significado.
+
+4. La teoría evolutiva se ha usado como base para estudiar y especular sobre la base biológica de la moralidad y la moralidad religiosa ([Sober_y_Wilson_1998]_). Estudiar religión, sin embargo, no convierte en religión dicho estudio. Usar evolución para estudiar el origen de las actitudes religiosas no convierte la evolución en una religión del mismo modo que usar arqueología para estudiar los orígenes de los textos bíblicos no convierte la aarqueología en una religión.
+
+5. La evolución como religión ha sido rechazada por las cortes:
+
+    Sin embargo, asumiendo para los propósitos del argumento que la evolución es una religión o una posición religiosa, el remedio es dejar de enseñar evolución, no establecer otra religión en oposición a ella. Aún así se ha establecido claramente en la jurisprudencia, y quizá también en el sentido común, que la evolución no es una religión y que enseñar evolución no viola la `Cláusula de Establecimiento <https://es.wikipedia.org/wiki/Cl%C3%A1usula_de_Establecimiento>`_ [de la Constitución estadounidense].
+
+   Los casos legales *Epperson v. Willoughby v. Stever* y *Wright v. Houston Indep. School Dist.* se citan como precedente ([McLean_v_Arkansas_1982]_).
+
+Enlaces
+=========
+
+VonRoeschlaub, Warren Kurt. 1998. God and evolution. http://www.talkorigins.org/faqs/faq-god.html
+
+Referencias
+=============
+
+.. [McLean_v_Arkansas_1982]    McLean v. Arkansas Board of Education. 1982. http://www.talkorigins.org/faqs/mclean-v-arkansas.html
+.. [Ruse_2000]    Ruse, Michael. 2000. Creationists correct?: Darwinians wrongly mix science with morality, politics. *National Post*, 13 May 2000. http://www.members.shaw.ca/mschindler/A/eyring_2_2.htm
+.. [Sober_y_Wilson_1998]    Sober, Elliott and David Sloan Wilson. 1998. Unto Others: *The evolution and psychology of unselfish behavior*. Cambridge, MA: Harvard University Press.
+
+
+/////
+
+Anterior: :doc:`CA603` | Siguiente: :doc:`CA611`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

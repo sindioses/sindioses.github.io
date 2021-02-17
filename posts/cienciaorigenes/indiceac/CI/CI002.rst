@@ -1,0 +1,45 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CI002: El diseño inteligente tiene capacidad explicativa
+.. description: Respuesta a la afirmación creacionista «El diseño inteligente tiene capacidad explicativa»
+.. slug: CI002
+.. link: http://www.talkorigins.org/indexcc/CI/CI002.html
+.. tags: CI, CI000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-05-07
+.. modified: 2004-05-05
+
+El diseño inteligente tiene capacidad explicativa, especialmente considerando el "filtro explicativo" de Dembski. Explica un amplio espectro de hechos biológicos. Esto lo hace científico.
+
+Fuente
+======
+
+Dembski, William A., 2001. Is intelligent design testable? http://www.arn.org/docs/dembski/wd_isidtestable.htm
+
+Respuesta
+=========
+
+1. El hecho de que una teoría explique hechos no la vuelve científica. Decir "fue magia" puede explicar cualquier hecho en cualquier parte pero es lo menos científico que existe. Una teoría tiene capacidad explicativa si se pueden deducir hechos de ella. Ningún hecho se ha deducido jamás a partir de la teoría del DI. La teoría es equivalente a afirmar "fue magia".
+2. El :doc:`filtro explicativo <CI110>` de Dembski requiere el examen de un número infinito de otras hipótesis, incluso desconocidas, para aceptar la hipótesis del diseño. Por lo tanto es imposible aplicarlo. El diseño inteligente sigue siendo inverificable e imposible de usar en la práctica. Dembski mismo nunca ha aplicado rigurosamente su filtro ([Elsberry_2002]_).
+3. "Diseño" e "inteligente" siguen sin definir, en la práctica. Una teoría no puede tener capacidad explicativa si no está claro qué es lo que la teoría *dice* para empezar.
+
+Referencias
+===========
+
+.. [Elsberry_2002] Elsberry, Wesley R., 2002. Commentary on William A. Dembski's "No Free Lunch: Why specified complexity cannot be purchased without intelligence" http://www.antievolution.org/people/dembski_wa/rev_nfl_wre_bn.html
+
+Otras lecturas
+==============
+
+* Pennock, Robert T., 1999. *Tower of Babel: The Evidence against the New Creationism*. Cambridge, MA, MIT Press.
+
+/////
+
+Anterior: :doc:`CI001_4` | Siguiente: :doc:`CI009`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

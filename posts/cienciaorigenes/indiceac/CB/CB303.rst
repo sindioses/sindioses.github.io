@@ -1,0 +1,39 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB300
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB303
+.. link: http://www.talkorigins.org/indexcc/CB/CB303.html
+.. date: 2003-7-25
+.. title: CB303: El cerebro es demasiado complicado para haber evolucionado
+.. description: Respuesta a la afirmación creacionista «El cerebro es demasiado complicado para haber evolucionado»
+.. type: afirmacrea
+
+**Fuente:**
+
+Watchtower Bible and Tract Society, 1985. *Life--How Did It Get Here?* Brooklyn, NY, 168-178.
+
+Brown, Walt, 1995. *In the Beginning: Compelling evidence for creation and the Flood*. Phoenix, AZ: Center for Scientific Creation, p. 7.
+
+Respuesta
+============
+
+1. Esta es una :doc:`falacia de la incredulidad personal <CA100>`. La complejidad sólo indica que algo es difícil de entender, no que es difícil que surja por evolución. La evolución, a diferencia del diseño, no está limitada por ningún requisito de simplicidad.
+
+2. Los cerebros vienen en muchos distintos tamaños. La liebre de mar (*Aplysia*), por ejemplo, sólo tiene 20.000 neuronas en su sistema nervioso completo. Los celenterados tienen un sistema nervioso incluso más simple que consiste de una red nerviosa y nada que se aproxime siquiera a un cerebro. Hay innumerables formas intermedias de cerebros entre los seres humanos y los animales sin cerebro; la evolución gradual del cerebro no presenta dificultades.
+
+Enlaces
+========
+
+Comparative Mammalian Brain Collections, n.d. Brain evolution, http://brainmuseum.org/Evolution/ (en construcción)
+
+
+/////
+
+Anterior: :doc:`CB302` | Siguiente: :doc:`CB310`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

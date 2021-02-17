@@ -1,0 +1,39 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH180
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH182
+.. link: http://talkorigins.org/indexcc/CH/CH182.html
+.. date: 2003-4-3
+.. type: afirmacrea
+.. title: CH182: La Biblia es influyente
+.. description: Respuesta a la afirmación creacionista «La Biblia es influyente»
+
+La Biblia es única porque es el libro más influyente de todos los tiempos.
+
+**Fuente:**
+
+Watchtower Bible and Tract Society, 1989. *The Bible - God's Word or Man's?* Brooklyn, NY, p. 8.
+
+Respuesta
+============
+
+1. La Biblia no es única en ser influyente. El historiador Michael H. Hart ubica a Mahoma e Isaac Newton como más influyentes que Jesucristo, lo que sugiere que el Corán y los *Principia* de Newton son, al menos, comparable en su influencia ([Hart_1992]_).
+
+2. Influencia no significa necesariamente buenas características. El cristianismo alcanzó mucha de su influencia por la fuerza de las armas, incluyendo varios casos de genocidio. Parte de la influencia bíblica que volvió poderoso al cristianismo fue el hecho de que permitió la esclavitud y la usura.
+
+Referencias
+===============
+
+.. [Hart_1992] Hart, Michael H., 1992. *The 100: A ranking of the most influential persons in history*. Secausus, NJ: Citadel Press.
+
+
+/////
+
+Anterior: :doc:`CH181` | Siguiente: :doc:`CH183`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

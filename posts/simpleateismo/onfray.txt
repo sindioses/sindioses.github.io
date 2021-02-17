@@ -1,0 +1,75 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. type: ateis
+.. author: Comentarios introductorios por Ferney Rodríguez - Entrevista de Luisa Corradini
+.. title: Entrevista al filósofo Michael Onfray (fragmento)
+.. description: Tras la publicación en 2007 de un artículo en el diario colombiano *El Tiempo* sobre la comunidad no creyente de Colombia (agrupada principalmente en el foro de Escépticos Colombia), se preguntó a los religiosos su opinión sobre este sector de la sociedad, a lo cual respondieron que "ellos mantenían ideas ya superadas en el siglo pasado". Pero a pesar que los ateos son una minoría y que reciben el descrédito y el ataque de los bien financiados líderes religiosos, los ateos no son una especie social extinta.
+.. date: 2008-03-09 00:00:00
+.. category: Simplemente ateísmo
+.. tags: Simplemente ateísmo
+.. previewimage: onfray1.jpg
+
+.. class:: primera
+
+Diferentes caminos han llevado a cientos de hombres y mujeres inteligentes por la opción no-religiosa. Grandes personajes fueron agnósticos como Thomas Henry Huxley, Charles Darwin, Carl Sagan y Stephen Jay Gould, o Ateos como Richard Dawkins, Steven Pinker. Un estudio llevado a cabo por Larson y Whitam en 1998 reveló que el 93% de los científicos más eminentes de los EEUU no creían en un Dios personal, y este resultado es muy similar en los científicos del Reino Unido, según otra investigación. A pesar de lo anterior en la mente de la mayoría de las gentes el adjetivo de ateo es relacionado negativamente.
+
+Tras la publicación en 2007 de un artículo en el diario colombiano El Tiempo sobre la comunidad no creyente de Colombia (agrupada principalmente en el foro de Escépticos Colombia), se preguntó a los religiosos su opinión sobre este sector de la sociedad, a lo cual respondieron que "ellos mantenían ideas ya superadas en el siglo pasado". Pero a pesar que los ateos son una minoría y que reciben el descrédito y el ataque de los bien financiados líderes religiosos, los ateos no son una especie social extinta. Cabe notar que la mayoría de los Premios Nobel de ciencia son ateos, al igual que la mayoría de la élite intelectual del mundo. Uno de estos intelectuales es el filósofo francés Michel Onfray.
+
+.. image:: onfray2.jpg
+   :align: right
+
+Entrevistando al autor del Tratado de ateología
+------------------------------------------------
+
+El filósofo Michel Onfray empezó su vida de forma difícil. Nació en un hogar muy pobre, y a los diez años fué abandonado por su madre en un orfanato. A los 28 años sufrió un infarto, y más tarde dos derrames cerebrales. Onfray vive de forma sencilla y alegre. Tiene bloqueada su cuenta, para recibir solo lo que recibiría de jubilación un obrero agrícola. Ve que la vida debe llevarse de manera que pesé más el ser que el tener.
+
+Para Michel Onfray las religiones son únicamente instrumentos de dominación y de alienación. Afirma que los tres monoteísmos profesan el mismo odio a las mujeres, a la sexualidad y que detestan la libertad. Actualmente trabaja en la Universidad de Caen, Francia y es autor de  35 libros, de los cuales "Tratado de ateología" es uno de los más conocidos por el público hispano. A continuación se presenta un fragmento de la entrevista hecha por Luisa Corradini en Paris el 2007 para el diario argentino "La Nación".
+
+**Usted afirma que no fue el orfanato lo que lo convenció de que Dios no existe porque a los diez años ya lo sabía. Sin embargo, suele decir también que los adultos que creen en Dios se equivocan. ¿Qué tenía usted a los diez años que un adulto -incluso analfabeto- no tenga a los cuarenta? ¿No es un poco pretencioso de su parte?**
+
+No veo por qué debería ser pretencioso o qué es lo que yo tendría de más. Yo no hablo en esos términos. Son los suyos y es su propio juicio de valor. Para ser claro: creí en Dios mientras creía en el Papá Noel. A partir de cierta edad, todo eso me pareció irracional, sin sentido. Eso no quiere decir que fuera un superhombre o un genio precoz. Probablemente solo se trate de temperamento, de carácter inadaptado a las fábulas.
+
+**Usted escribe "los monoteísmos detestan la inteligencia". Pero entonces, ¿qué hacer con todos los genios de Occidente que practicaron alguna de las tres religiones del Libro?**
+
+Yo hablo de "monoteísmos" y no de "monoteístas". El monoteísmo es una ideología que, en sus principios, detesta que la gente piense o reflexione y prefiere que obedezca y que se someta a la Ley, a la palabra de Dios y a sus Mandamientos. Que hay monoteístas inteligentes, no esperé su pregunta para saberlo. Y tampoco he dudado de la inteligencia de ciertos monoteístas cuando son inteligentes.
+
+.. image:: onfray3.jpg
+   :align: left
+
+**Dejemos a un lado la Iglesia como institución e incluso la Biblia. ¿Cómo sabe usted que, en verdad, Dios no existe? Podría perfectamente existir. ¿Cómo saberlo? ¿No cree que aceptar la duda sería una actitud más filosófica?**
+
+La duda no es filosófica, es metodológica y prepara el terreno a la solución filosófica. En otras palabras, se duda un momento en un movimiento que debe concluir en una certeza. Descartes solo utilizó la duda de esa forma. Conformarse con la duda es detenerse a mitad de camino. Además, la duda es una deshonestidad intelectual. Aquellos que reivindican la duda no tienen problemas en reivindicar la certeza de esa duda. La coherencia del escéptico debería llevarlo hasta a dejar de hablar. Un filósofo tiene la obligación de hacer llegar su pensamiento a algún lado. En todo caso, aquellos que afirman algo (por ejemplo, la existencia de Dios) son quienes deben demostrarlo. De lo contrario, bastaría con afirmar cualquier cosa (que los unicornios existen, por ejemplo), pedir a su interlocutor que pruebe que lo que uno dice es una necedad y, frente a su incapacidad para demostrarlo, concluir que lo que se está diciendo es verdad. De esa forma se podría afirmar que las mesas giran solas, que los platos voladores existen, que los horóscopos dicen la verdad.
+
+**Usted critica a "los hombres que se embriagan de ilusiones". ¿Está mal? ¿Y si eso les permite ser menos infelices? Usted escribe: "El camino de la verdad filosófica es largo y difícil". Pero hay muchísima gente que nunca tendrá la posibilidad de hacer ese camino. ¿Por qué negarles su propia forma de consuelo a aquellos que creen en algo superior?**
+
+Prefiero una verdad que duele a una mentira que calma. Pero cada uno puede preferir el opio de la ilusión a la realidad. Yo le reprocho a la ilusión enemistarnos con la única certeza que tenemos: la vida es aquí, aquí y ahora. Las religiones nos invitan a vivir en la expiación, con el pretexto de que vivir como si uno estuviera muerto aquí nos abrirá la vida eterna una vez muertos. Yo consagro gran parte de mi tiempo -sobre todo cuando creo universidades populares abiertas a todos-, a ofrecer una alternativa filosófica a la propuesta religiosa. Creo que es necesario popularizar la filosofía para reconciliar al hombre consigo mismo, con su cuerpo, su vida, los otros y el mundo, sin que tenga que pasar por todas esas ficciones religiosas.
+
+**Cuando un creyente piensa en el universo, imagina una suerte de más allá, donde pone a todos sus seres queridos, sus divinidades y sus ilusiones. Esa dimensión debe de ser imposible de borrar una vez adquirida. ¿Qué hay en la imaginación de un ateo total?**
+
+Un mundo exactamente igual de vasto. ¡Qué extraña idea tiene usted del ateo! ¿Lo cree incapaz de imaginación? ¿De vida espiritual? ¡Es curioso que piense en el ateo como una especie de idiota de cerebro limitado, con escasas posibilidades estéticas, emocionales, afectivas y espirituales!
+
+**En todo caso, tengo la impresión de que la desaparición de lo sagrado no es inminente. ¿Cree usted en una humanidad sin religión?**
+
+Siempre habrá religiones, porque las religiones viven de la angustia y del miedo de los hombres, y porque estamos lejos de haber terminado con los temores existenciales. El ateo está condenado a militar por una causa perdida. Pero poco importa que esté perdida, si es una causa justa. Lo irracional, lo irrazonable, la ilusión, las ficciones disponen de un futuro grandioso, pues el mundo liberal que se prepara en nuestro planeta odia la cultura, que hace retroceder a los mitos, entre ellos, la religión.
+
+**Usted escribe: "La autoridad me resulta insoportable; la dependencia, invivible. Las órdenes, invitaciones, pedidos, propuestas, consejos me paralizan". ¿Cómo hace para organizar su relación con los demás, sobre todo con sus allegados?**
+
+Desde los 17 años, (cuando dejé mi familia para vivir sin ayuda alguna) construí mi vida a fin de tener que obedecer -¡y mandar!- lo menos posible. No me pida detalles porque tendríamos que consagrar la entrevista a esta cuestión. Digamos que es necesario evitar el matrimonio y los hijos, los honores, la riqueza y las situaciones de poder. Soy soltero, sin hijos, me importan un bledo las condecoraciones, los puestos honoríficos en instituciones universitarias. Vivo muy bien con o sin dinero, porque el dinero nunca fue una obsesión en mi vida, no soy representante de esto ni de aquello. Trato de no deberle nada a nadie. Vivo de mi pluma, y mis lectores, comprando mis libros, hacen posible esta situación social magnífica, casi una vida de rey.
+
+**Usted se declara a favor de un hedonismo del ser y no del tener. ¿Me puede explicar?**
+
+Es muy difícil en dos palabras. Digamos que todas las cosas que tienen que ver con la posesión (dinero, situación social, riquezas, propiedades, bienes habituales de la sociedad de consumo) no son un fin en sí mismas. Por el contrario, lo que depende del ser (libertad, amistad, amor, afección, dulzura, serenidad, paz consigo mismo, los otros y el mundo) constituye el ideal de sabiduría hacia el que hay que tender. Disfrutar de una cosa no presenta demasiado interés, disfrutar de un momento de sabiduría es uno de los grandes instantes de la vida.
+
+**¿Y cuál es la diferencia entre ese hedonismo y el estoicismo?**
+
+La oposición entre ambas escuelas suele ser una cuestión de universitarios. Hay que leer las Cartas a Lucilio de Séneca, el estoico. Allí hay cantidad de argumentos epicúreos. En mi libro *Contra-historia de la filosofía* explico cómo esta oposición entre dos sensibilidades filosóficas fueron instrumentalizadas por Cicerón con fines políticos: era necesario desacreditar a los candidatos epicúreos al Senado, y Cicerón, el estoico, los estigmatizó como voluptuosos e incapaces de ocuparse de la cosa pública. Después, el cristianismo se apoderó de esos argumentos que perduran hasta hoy.
+
+**Usted es un filósofo decididamente orientado hacia la modernidad. ¿Qué lugar reserva en su reflexión al psicoanálisis y a las neurociencias? ¿No cree que esta última esté terminando con Freud?**
+
+Tengo el proyecto de escribir un libro sobre el psicoanálisis que evitará dar poderes absolutos tanto a Freud como a las neurociencias. Rehabilitaré el psicoanálisis como un chamanismo posmoderno, precisando que el cuerpo no es una cuestión de inconsciente psíquico, sino de inconsciente neurovegetativo.
+
+**¿Está usted satisfecho de su vida? Quizás sea ridículo preguntarle a un filósofo si es feliz, pero…**
+
+¡Pero yo soy absolutamente feliz! De lo contrario dejaría de escribir lo que escribo, de enseñar lo que enseño y de dar las conferencias que doy por el mundo. A menos que fuese un estafador. Y yo sé que en filosofía también existen los estafadores.
+
+
+.. include:: includes/ateis_pie.inc

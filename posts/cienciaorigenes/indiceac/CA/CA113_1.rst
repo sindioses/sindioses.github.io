@@ -1,0 +1,50 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA110
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA113_1
+.. link: http://www.talkorigins.org/indexcc/CA/CA113_1.html
+.. date: 2003-06-15 02:00:00+00:00
+.. title: CA113.1: Darwin sobre la evolución del ojo
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Darwin sobre la evolución del ojo»
+
+Charles Darwin reconoció que la evolución era inadecuada cuando escribió:
+
+ Parece absurdo de todo punto —lo confieso espontáneamente— suponer que el ojo, con todas sus inimitables disposiciones para acomodar el foco a diferentes distancias, para admitir cantidad variable de luz y para la corrección de las aberraciones esférica y cromática, pudo haberse formado por selección natural. [Darwin_1872]_
+
+**Fuente:**
+
+Huse, Scott. 1996. The Collapse of Evolution. Grand Rapids: Baker Book House, p. 73.
+
+Respuesta
+===========
+
+1. La cita está sacada de contexto. Darwin resolvió el supuesto problema que presentó. El párrafo continúa:
+
+    La razón me dice que si se puede demostrar que existen muchas gradaciones, desde un ojo sencillo e imperfecto a un ojo complejo y perfecto, siendo cada grado útil al animal que lo posea, como ocurre ciertamente; si además el ojo alguna vez varía y las variaciones son heredadas, como ocurre también ciertamente; y si estas variaciones son útiles a un animal en condiciones variables de la vida, entonces la dificultad de creer que un ojo perfecto y complejo pudo formarse por selección natural, aun cuando insuperable para nuestra imaginación, no tendría que considerarse como destructora de nuestra teoría. El saber cómo un nervio ha llegado a ser sensible a la luz, apenas nos concierne más que saber cómo se ha originado la vida misma, pero puedo señalar que, como quiera que algunos de los organismos inferiores, en los cuales no pueden descubrirse nervios, son capaces de percibir la luz, no es imposible que ciertos elementos sensitivos de su sarcoda llegasen a reunirse y desarrollarse hasta constituir nervios dotados de esta especial sensibilidad. ([Darwin_1872]_, pp. 143-144)
+
+   Darwin continúa durante tres páginas más describiendo una secuencia de etapas intermedias plausibles entre carencia de ojos y ojos humanos, dando ejemplos de organismos existentes para mostrar que las etapas intermedias son viables.
+
+Enlaces
+=========
+
+Babinski, E. T. n.d. An old, out of context quotation. http://www.talkorigins.org/faqs/ce/3/part8.html
+
+CARM. n.d. Charles Darwin comments on the human eye. http://www.carm.org/evo_questions/darwineye.htm
+
+Referencias
+=============
+
+.. [Darwin_1872] Darwin, C. 1872. The Origin of Species, 6th ed. London: Senate, cap. 6, http://www.talkorigins.org/faqs/origin/chapter6.html o http://www.literature.org/authors/darwin-charles/the-origin-of-species/chapter-06.html. Nuestra traducción se basa en la traducción del original realizada por Antonio de Zulueta.
+
+/////
+
+Anterior: :doc:`CA113` | Siguiente: :doc:`CA114`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

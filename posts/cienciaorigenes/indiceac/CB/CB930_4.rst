@@ -1,0 +1,48 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CB930.4: Se encontró un pterodáctilo vivo en piedra caliza del Jurásico
+.. description: Respuesta a la afirmación creacionista «Se encontró un pterodáctilo vivo en piedra caliza del Jurásico»
+.. slug: CB930_4
+.. link: http://www.talkorigins.org/indexcc/CB/CB930_4.html
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2005-09-20
+
+Los pterodáctilos, reptiles voladores extintos, supuestamente existieron hace cien millones de años. De acuerdo con un artículo en *The Illustrated London News* del 9 de febrero de 1856, página 166, unos trabajadores descubrieron un pterodáctilo vivo. En el invierno de 1856, estaban trabajando en un túnel ferroviario entre St. Dizey y las líneas de Nancy, y habían partido y retirado una roca de caliza del Jurásico cuando la criatura salió vacilante fuera del túnel hacia ellos. Agitó las alas, graznó y cayó muerta a sus pies. Tenía una envergadura alar de 3,20m, cuatro piernas con pies en forma de garras, piernas unidas por membranas como las de los murciélagos, la boca llena de dientes afilados, y piel negra, correosa y aceitosa. Un molde exacto del cuerpo de la criatura se encontró en la piedra de la cual se liberó la criatura.
+
+Fuente
+======
+
+* Baugh, Carl E. 1989. *Panorama of Creation*. Oklahoma City, OK: Hearthstone Publishing, Ltd., pp. 19-21.
+* Doolan, Robert. 1993. Are dinosaurs alive today? Where Jurassic Park went wrong! *Creation* 15(4) (Sept.): 12-15. http://www.answersingenesis.org/creation/v15/i4/dinosaurs.asp
+
+Respuesta
+=========
+
+1. La historia es cierta en el sentido de que en el periódico de 1856 se informó el descubrimiento de un pterodáctilo.
+
+   En ese momento, había una gran rivalidad franco-prusiana, y la Piedra Caliza Solnhofen de Bavaria (en la que luego sería descubierta *Archaeopteryx*) estaba produciendo muchos fósiles increíbles que eran informados con mucha fanfarria por los paleontólogos alemanes. Durante la construcción de un túnel en Francia a través de piedra caliza de la misma antigüedad de la de Solnhofen, "caballeros geólogos" franceses aprovecharon la oportunidad para difundir una historia propia. En el informe original, el pterodáctilo se hizo polvo al desplomarse, lo que convenientemente no dejaba ninguna prueba.
+
+   El relato del periódico identificó al pterodáctilo como *Pterodactylus anas*. *Pterodactylus* es un género de pterosaurios del tamaño de petirrojos, ninguno de los cuales tiene una envergadura que siquiera se acerque a tres metros. *"Anas"* es "pato" en latín, que en francés se escribe "canard"; en inglés se usa esta palabra como sinónimo de fraude.
+
+2. La historia es ridícula a simple vista y realmente no merece otra respuesta que la burla. ¿Cuándo decidieron los creacionista que ser crédulo es una virtud?
+
+Enlaces
+=======
+
+* Kuban, Glen J., 2005. Living pterodactyls? http://paleo.cc/paluxy/livptero.htm
+
+* Nedin, Chris. 1994. Re: Worst YEC book ever. http://dml.cmnh.org/1994May/msg00144.html
+
+
+
+/////
+
+Anterior: :doc:`CB930_3` | Siguiente: :doc:`CB932`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

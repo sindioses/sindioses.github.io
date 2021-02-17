@@ -1,0 +1,36 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA600
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA620
+.. link: http://www.talkorigins.org/indexcc/CA/CA620.html
+.. date: 2000-10-21 02:00:00+00:00
+.. title: CA620: Si la vida surgió por azar, la vida no tiene propósito ni significado
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Si la vida surgió por azar, la vida no tiene propósito ni significado»
+
+**Fuente:**
+
+Morris, Henry M. 1985. *Scientific Creationism.* Green Forest, AR: Master Books, p. 178
+
+Respuesta
+============
+
+1. El propósito puede venir de cualquiera. El mismo objeto puede tener distintos propósitos para distintas personas o para la misma persona en distintos momentos. Si uno, Dios o alguien más quieren hacer algo distinto con su vida, entonces la vida de uno tiene propósito. Ninguna otra cosa es relevante.
+
+2. El propósito no lo determinan los orígenes. Las cosas pueden tener propósito incluso si su origen es debido al azar. La Estrella Polar, por ejemplo, llegó a su posición por azar, pero la gente aún así le encontró propósito.
+
+3. Como la mayoría de la gente, prácticamente todos los creacionistas ya reconocen que la gente surgió por azar. En el proceso de recombinación sexual, es el azar lo que determina qué gentes vienen de cada padre; por lo tanto, el azar determina la genética que determina quiénes somos.
+
+4. La teoría de la evolución, enfáticamente, **no dice** que los humanos surgieron meramente :doc:`por azar <CB940>`.
+
+
+/////
+
+Anterior: :doc:`CA612` | Siguiente: :doc:`CA622`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

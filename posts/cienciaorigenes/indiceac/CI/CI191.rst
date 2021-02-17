@@ -1,0 +1,35 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CI, CI100
+.. author: Mark Isaak, traducción de Marcelo Huerta
+.. nocomments: True
+.. date: 2003-09-30
+.. modified: 2003-10-04
+.. type: afirmacrea
+.. title: CI191: Los arqueólogos y los científicos forenses pueden detectar el diseño
+.. description: Respuesta a la afirmación creacionista «Los arqueólogos y los científicos forenses pueden detectar el diseño»
+.. slug: CI191
+.. link: http://www.talkorigins.org/indexcc/CI/CI191.html
+
+Como ciencias como la arqueología y la medicina forense pueden detectar el diseño, es una práctica científica válida detectar el diseño inteligente en la naturaleza. El éxito de dichas ciencias demuestra que los métodos del diseño inteligente funcionan en la práctica.
+
+**Fuente:**
+
+Dembski, William A., 1999. *Intelligent Design: The bridge between science and theology.* Downers Grove, Ill.: InterVarsity Press.
+
+Dembski, William A., 2001. Is intelligent design a form of natural theology? http://www.designinference.com/documents/2001.03.ID_as_nat_theol.htm
+
+Respuesta
+=========
+1. Los métodos de la arqueología y la medicina forense no están relacionados con ningún método propuesto por los proponentes del diseño inteligente. Los arqueólogos y los forenses buscan patrones que saben, a partir de las observaciones previas, que son el tipo de patrones que siguen los diseñadores humanos. Lo mismo vale para todas las otras ciencias que detectan diseño. Los teóricos del DI no tienen ninguna otra observación de otros diseñadores en la cual basarse. O, si usan los métodos de los arqueólogos y los científicos forenses, asumen implícitamente que los diseñadores son humanos.
+2. El único método propuesto para el diseño inteligente, el :doc:`filtro de Dembski <CI111>`, es eliminativo; intenta detectar diseño sólo eliminando otras posibilidades. Los métodos usados por los científicos no son eliminativos. Consideran muchas posibilidades y eligen aquella que mejor se adecua a los datos. Si ninguno se adecua a los datos, la cuestión queda sin resolver.
+
+/////
+
+Anterior: :doc:`CI190` | Siguiente: :doc:`CI200`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

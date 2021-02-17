@@ -1,0 +1,40 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CI141: Las similitudes en ADN y en anatomía se deben a un diseño común
+.. description: Respuesta a la afirmación creacionista «Las similitudes en ADN y en anatomía se deben a un diseño común»
+.. slug: CI141
+.. link: http://www.talkorigins.org/indexcc/CI/CI141.html
+.. tags: CI, CI100
+.. author: Mark Isaak, traducción de Marcelo Huerta
+.. date: 2003-05-05
+
+Las similitudes en anatomía y en las secuencias de ADN simplemente reflejan el hecho de que los organismos tuvieron el mismo diseñador.
+
+Fuente
+======
+
+Sarfati, Jonathan, 2002. *Refuting Evolution 2*. Master Books, chap. 6. http://www.answersingenesis.org/Home/Area/RE2/chapter6.asp
+
+Respuesta
+=========
+
+1. Diferentes formas, se afirma, también vienen del mismo diseñador, de modo que formas similares no son prueba de un diseñador común. Las pruebas de un diseñador deben comenzar especificando (de antemano) qué se espera del diseñador. ¿Cuándo esperamos formas similares, y cuándo esperamos formas diferentes? La teoría del "diseño inteligente" no responde a eso. La teoría evolutiva ha hecho esa predicción, y el patrón de similitudes y diferencias que observamos está de acuerdo con las predicciones de la evolución.
+2. Hay similitudes que no pueden atribuirse racionalmente al diseño. Por ejemplo, un elemento de retrovirus endógeno (RVE) es un retrovirus (un parásito) que se ha convertido en parte del genoma. Hay varios tipos de RVE, y pueden insertarse en lugares aleatorios. Los humanos y los chimpancés tienen miles de tales RVE en común, el mismo tipo de RVE en el mismo lugar del genoma ([Taylor_2003]_).
+3. El principio de que :doc:`la forma sigue a la función <CI141_1>` es lo opuesto de lo que esperaramos en el diseño conocido.
+
+Referencias
+===========
+
+.. [Taylor_2003] Taylor, D. M, 2003. Alignment of Chimp_rp43-42n4 against human chromosome 15. http://www-personal.umich.edu/~lilyth/erv
+
+
+/////
+
+Anterior: :doc:`CI131` | Siguiente: :doc:`CI141_1`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

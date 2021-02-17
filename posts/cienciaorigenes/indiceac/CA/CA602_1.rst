@@ -1,0 +1,48 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA600
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA602_1
+.. link: http://www.talkorigins.org/indexcc/CA/CA602_1.html
+.. date: 2003-08-08 02:00:00+00:00
+.. title: CA602.1: Darwin volvió fácil ser un ateo intelectualmente satisfecho
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Darwin volvió fácil ser un ateo intelectualmente satisfecho»
+
+Al proporcionar una explicación naturalista de los orígenes biológicos, la evolución promueve el ateísmo. "Aunque el ateísmo puede haber sido *lógicamente* sostenible antes de Darwin, Darwin hizo posible ser un ateo intelectualmente satisfecho" ([Dawkins_1986]_, 6).
+
+**Fuente:**
+
+Berlinski, David. 1996. The deniable Darwin. *Commentary* 101(6) (Jun). http://www.rae.org/dendar.html
+
+Respuesta
+===========
+
+1. Las explicaciones naturalistas de los orígenes no son necesarias para el ateísmo. Nadie en el mundo puede explicar el origen de todo, de todos modos. Dejar una cosa más sin explicar no importa demaasiado. La afirmación de Dawkins es el reverso de la falacia del "dios de los huecos".
+
+2. Las explicaciones naturalistas de los orígenes no vuelven obligatorio el ateísmo. Si Dios es el creador, tendría sentido que fuera responsable por crearlo todo, incluyendo la evolución y las leyes que la hacen funcionar.
+
+3. Darwin no estaba solo en proporcionar explicaciones naturalistas. Mucha gente antes que él retiró a Dios de las explicaciones sobre partes del universo. Pierre-Simon Laplace proporcionó una explicación natural para el origen y la estabilidad del sistema solar. Friedrich Wöhler sintetizó urea, mostrando que no había elementos "vitales" en el material orgánico. David Hume argumentó que el diseño no era necesario para el origen de la vida. Darwin, al proporcionar el mecanismo, simplemente llenó uno de los últimos huecos. Era posible ser un ateo intelectualmente satisfecho incluso antes de Darwin ([Gliboff_2000]_).
+
+4. No hay nada malo en ser ateo si uno quiere ser ateo. Que alguna gente desapruebe el ateísmo sólo muestra que hay algo malo con ser un intolerante religioso.
+
+5. El creacionismo también lleva a alguna gente hacia el ateísmo, principalmente debido a estar plagado de deshonestidad intelectual ([Babinski_1995]_).
+
+Referencia
+=============
+.. [Babinski_1995]    Babinski, Ed. 1995. *Leaving the Fold: Testimonies of Former Fundamentalists*. Buffalo, NY: Prometheus Books.
+.. [Dawkins_1986]    Dawkins, Richard. 1986. *The Blind Watchmaker*. New York: Norton.
+.. [Gliboff_2000]    Gliboff, S. 2000. Paley's design argument as an inference to the best explanation, or, Dawkins' dilemma. *Studies in History and Philosophy of Biological and Biomedical Sciences* 31(4): 579-597.
+
+
+/////
+
+Anterior: :doc:`CA602` | Siguiente: :doc:`CA602_2`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+
+

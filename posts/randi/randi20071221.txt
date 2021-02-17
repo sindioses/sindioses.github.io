@@ -1,0 +1,287 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. title: ¡Expuesto de nuevo!. Una discusión. Sokal recreado. Mi diatriba reciente. Las últimas novedades de alta tecnología. Comedia involuntaria. Un posible converso. Una queja justa. Para terminar...
+.. author: James Randi, traducción de Marcelo Huerta San Martín
+.. date: 2007-12-21 00:00:00
+.. type: randi
+.. category: Traducciones de James Randi
+
+.. contents:: Contenido
+   :class: sidebar
+   :local:
+
+
+¡Expuesto de nuevo!
+...................
+
+Hace unos treinta años, muy pocos de nosotros (obviamente incluyendo a Uri Geller) teníamos alguna noción de que la tecnología de hoy, al alcance de cualquiera, permitiría descubrir los trucos sencillos. Les presento aquí una selección en video realizada en 1976 que ahora ha reaparecido para exponer mejor uno de los trucos del limitado repertorio del Sr. Geller. En este extracto del video, como verán, intenta convencer a su audiencia de que una llave doblada sigue doblándose mientras la observan, y en esto tiene mucho éxito:
+
+.. image:: http://www.randi.org/images/commentary/200712/geller1976.jpg
+   :alt:
+   :align: right
+
+(Comienza a 1:12)
+
+  Geller [al niño, Ken]: Levanta la mano.
+
+  Anunciador: Ahora levanta la mano, Ken. Levanta la mano. ¿Ven que se dobla alguna llave?
+
+  Geller: No...
+
+  Niño: Veo una.
+
+  Geller: ¡Ah, sí, ésta se está doblando!
+
+(Cuadro nº 1 tomado de aquí a los 1:26)
+
+    .. image:: http://www.randi.org/images/commentary/200712/gellerframe126.jpg
+       :alt:
+       :align: right
+
+    Anunciador: Una llave se está doblando.
+
+    Geller: Espere un momento, tengo que mostrar esto a la cámara. Sí, esta llave se está doblando. [Pausa] Sí, un momento, yo...
+
+    Anunciador: Sí, claramente, es una llave gruesa de latón “Shlage” o del tipo de Shlage, justo como la que dobló anoche para nosotros.
+
+    Geller: No sé de qué es esta llave, pero ve lo que estoy haciendo, la estoy frotando muy, muy suavemente. Y sí, se está doblando más. No sé qué tan bien lo pueden ver...
+
+    Anunciador: ¿Lo ves, Ken? Realmente está pasando.
+
+    Niño: Se dobla aún más.
+
+    Geller: Sí, esta se doblará un poco más aquí. Eh, saben, estoy poniéndole una energía. Ven esta de...
+
+    Niño: Es increíble.
+
+    Geller: No hay... no hay absolutamente ningún calor. Ken, toca la llave y verás, pero tócala por abajo, abajo de donde se está doblando. ¿Sientes algún calor? No hay absolutamente...
+
+    Niño: Sí...
+
+    Geller: ¿Lo sientes? En realidad no hay calor. Es, eh, si lo tocas, o sea, si lo tocas, puedes ver si realmente hay calor o no.
+
+    Anunciador: No, es sólo el calor del cuerpo. El calor del cuerpo, y sigue doblándose.
+
+    .. image:: http://www.randi.org/images/commentary/200712/gellerframe217.jpg
+       :alt:
+       :align: right
+
+    Geller: Sólo quiero mostrárselo a la cámara...
+
+    [Aplauso]
+
+    Espectador: ¡Aquí viene otro!
+
+    Anunciador: La llave que él ha doblado está abrochada a un llavero y la llave siguiente en el llavero está empezando a doblarse.
+
+(Termina en el cuadro nº 2 a los 2:17)
+
+Aquí vemos el movimiento habitual de "trinquete" que Geller ha usado siempre para producir la ilusión del goblado, inclinando simplemente la punta de la llave hacia arriba con lentitud para producir el efecto de que se dobla.
+
+Así que en 51 segundos de mostrar simplemente esta llave (que estaba en un llavero enorme que salió de la nada y Geller empezó a manipular) creó la ilusión que convenció a los observadores de que habían visto que seguía doblándose. *¡Y no se alteró en lo más mínimo!*
+
+.. raw:: html
+
+  <div style="align: right;">
+  <object width="320" height="240" align="right"><param name="movie" value="http://www.youtube.com/v/YxGirnwntCc&amp;rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/YxGirnwntCc&amp;rel=1" type="application/x-shockwave-flash" wmode="transparent" width="320" height="240" align="right"></embed></object>
+  </div>
+
+Para determinar esto, pedí a Rich Montalvo (nuestro administrador de medios, quien de algún modo se las arregla para poner en línea esta página a tiempo cada semana) que preparara un video comparando un cuadro (marcado como #1 arriba) del video justo en el momento en que Geller anunció que una de las llaves que tiene en la mano se dobló, y un segundo cuadro del momento en que la audiencia y el conductor del programa se convencieron de que acaban de verla doblarse más aún. Como puede verse con claridad, *no ha habido absolutamente ningún cambio* de forma en la llave, ¡aunque los espectadores juraron que se estaba doblando! Ahora, la tecnología nos ha permitido demostrar que es así.
+
+Lo interesante es que yo no tenía idea de que este video existía ¡hasta que me lo envió un creyente que pensó que era muy convincente y probaba los poderes de Geller! Por el contrario, ¡expone muy claramente su truco!
+
+Si Uds. tuvieran alguna duda sobre mi afirmación de que Uri Geller está por anunciar que ha estado mintiendo durante más de 30 años al decir que no era un ilusionista, debería desvanecerse al saber que el número de diciembre del Boletín de la Academia de Artes Mágicas muestra una foto de él abrazando a Gay Blackston, la viuda de Harry Blackstone. No hay mención en el texto de esto, sólo la presentación indiferente de esta relación para que Geller pueda intentar colarse de modo casual en la fraternidad como si siempre hubiera estado allí. Como he dicho aquí en la columna, eso no va a ocurrir. Sus mentiras e hipérboles son tan evidentes y condenatorias que no se librará de ellas...
+
+El Boletín llegó a escribir mal su nombre, así que hay alguna esperanza de que el Boletín de Artes Mágicas se de cuenta del truco...
+
+Una discusión
+.............
+
+El lector Jay Roessler, de Hinsdale, Illinois, escribe:
+
+  He sido un admirador suyo durante muchos años, empezando con una presentación en el *Tonight Show* en el que procedió a realizar cirugía psíquica a Johnny Carson sin dejar una sola marca.
+
+Randi comenta: Este es un ejemplo de cómo contar y volver a contar puede cambiar el contenido. Este caballero se refiere a un programa en el que “operé” a un voluntario de la audiencia... ¡mientras Johnny observaba! Jay continúa:
+
+  He leído varios de sus libros, leo su columna semanal y disfruto su “'Twas Brillig” trimestral y sus apariciones ocasionales en televisión cuando realmente permiten que presente sus argumentos sin interrumpirlo ni recortarlo. Supongo que lo que quiero decir con toda esta obsequiosidad (¿existe la palabra?) [Randi: ¡síp! [#palabra]_] es decirle que he adquirido muchas habilidades de CÓMO pensar (en oposición a QUÉ pensar) leyendo sus trabajos así como los de muchos otros escépticos y me gustaría pensar que he usado esas habilidades para mejorar la calidad de mi vida, así como la calidad de mis argumentos a favor o en contra de varios temas.
+
+  Uno de esos temas, si no el mayor, es la cuestión de Dios. Debo estar de acuerdo con Ud. en que no creo en un ser superior, ciertamente no creo en el dios que me vendieron, o proclamaron, en mi vida cómoda y suburbana de protestante blanco anglosajón. Mis argumentos en contra de la creencia en un ser superior normalmente han estado en línea con muchos escépticos y científicos, en esencia que no hay evidencia que apoye la idea de un Dios. Pero hace poco tuve algo así como una epifanía, no una revelación de que he estado equivocado, sólo una forma posible de enmarcar el argumento. Es un argumento que nunca le escuché hacer a un escéptico o ateo así que pensé en compartirlo con usted y preguntarle si voy bien, o si mi razonamiento es fallido.
+
+  En los últimos tiempos, cuando las conversaciones se dirigen al tema religioso y, más tarde o más temprano, revelo que no creo en Dios (todavía no puedo evitar el uso de la D mayúscula) luego de los jadeos y respuestas de “rezaré por ti” he justificado mi opinión diciendo: “La Biblia admite que el hombre creó a Dios, no que Dios creó al Hombre”. Se imaginará la confusión resultante. Mi argumento:
+
+  En Éxodo 20:3, el primer mandamiento de Dios dice en su segunda frase: “No tendrás dioses ajenos delante de mí” [#ex20_3RV]_
+
+[En la Nueva Versión Internacional, se traduce como “No tengas otros dioses además de mí”.] Sin embargo, tiene el mismo impacto y significado con respecto a lo que sigue. Jay prosigue:
+
+  \1. Dios no dice que no hay otros dioses. Dios simplemente dice, en efecto, que cualquier otros dioses deben estar después de él, no anteponerse a él. Aparentemente los hombres pueden adorar a otros dioses, pero Dios es superior a todos ellos, al igual que Zeus era superior al resto de los dioses griegos y romanos. Sin embargo, Génesis afirma que Dios creó los cielos y la Tierra, sin hacer mención a la creación de otros dioses. Si a los humanos se les permite adorar otros dioses (pero no anteponiéndolos a Dios), y Dios no los creó, ¿de dónde vinieron esos dioses? Y si Dios en esencia reconoce que se puede adorar a dioses menores y que deben ser hechos por el hombre, ¿no se sigue de ello que todos los dioses, incluyendo a Dios Mismo, también están hechos por el hombre?
+
+Jay, no me parece. Podría deducirse eso, pero no se lo dice así...
+
+  \2. Digamos que la segunda parte de la frase del primer mandamiento es, bueno, una errata, y Dios simplemente dijo “No tendrás dioses ajenos”, sin decir “delante de mí”. De nuevo, ¿esto no concede, en esencia, que los humanos pueden realmente considerar tener otros dioses, pero se les ordena que no lo hagan? Y esto no es, en efecto, una admisión de que a los dioses los eligen los humanos? ¿Llevando a la conclusión de que, bueno, Dios mismo es elegible por los humanos y algo creado por ellos?
+
+  Es raro que mis amigos no parecen entender mi argumento. Por supuesto, puede que esté equivocado.
+
+  Le agradezco la paciencia con mi disparatada hipótesis y le agradecería cualquier crítica o asistencia que pueda presentar en cuanto a mi intento de pensamiento racional (lo que es difícil si la Biblia está involucrada).
+
+  Siga con sus buenas obras. Ud. ha sido una influencia grandiosa y positiva, y sé que para muchos, muchos otros. Se lo dice alguien que solía disfrutar las predicciones de los psíquicos: ahora sé que debo hacer que esa gente que hace afirmaciones extraordinarias simplemente prueben lo que afirman. Como Ud. sabe, siempre fallan, pero tengo una vida más plena por su guía en la búsqueda de la verdad y no de la fantasía.
+
+Me halaga, Jay, pero creo que su argumento (cualquiera sea la traducción que se use) podría ser en efecto que la referencia misma en el Éxodo a “otros dioses” sugiere fuertemente que este dios en particular quiere estar por encima de todos ellos y por lo tanto no es el único... Como sea, gracias por su interesante argumento.
+
+Sokal recreado
+..............
+
+.. image:: http://www.randi.org/images/commentary/200712/sokal.jpg
+   :alt:
+   :align: right
+
+El lector Tomasz Witkowski escribe sobre un fraude al estilo de Sokal realizado en Polonia. En `la columna del 25 de agosto de 2006 <randi20060825.html#idiotas-ense-ando-a-imb-ciles>`__ hallarán una mención anterior de este encantador asunto. Tomasz nos da una descripción de su fraude extraída de “El Boticario Pobre”, un sitio de un escritor técnico que vive en Devon, en el Reino Unido, que se ocupa de la refutación de la mala ciencia:
+
+  Gracias a Modne Bzdury en Mala Ciencia, esto parece interesante. Un psicólogo de Polonia, Tomasz Witkowski, anunció cómo engañó a *Caraktery* (una publicación mensual dedicada a divulgar la psicología) con un artículo falso al estilo de Sokal sobre un método psicoterapéutico falso. Este es su artículo original, “Wiedza prosto z pola” (“Conocimiento directo de campo”) escrito con el seudónimo Renata Aulagnier:
+
+Este es el artículo de Witkowski:
+
+  No sé polaco, así que tuve que entender el asunto por medio de una traducción automática. “Conocimiento directo de campo” empieza postulando una hipótesis: que a un paciente podría detectársele el campo morfogenético. Si la resonancia morfogenética está en malas condiciones, puede someterse al paciente a las influencias apropiadas para corregirlo, como escuchar distintos tipos de música en proporciones diversas o sumarse a una gran multitud de personas con las vibraciones correctas (p. ej. un teatro o un estadio de fútbol) para ponerse a tono con los campos de ellos. Por lo tanto podría lograrse una psicoterapia sin extensos análisis, cuestiones de resistencia, revelar secretos sexuales vergonzosos, etcétera.
+
+  Pero esto no es ciencia ficción, dice el artículo, y sigue con la descripción algo llamado “experimento Strasbourg” en el que se desarrolló esa tecnología; la idea la inspiraron Carl Jung y Henri Bergson (el matemático de Lacan que “descubrió por primera vez la posibilidad de emplear topología matemática en el anáisis de las estructuras de las enfermedades intelectuales”, y el mecanismo de Sheldrake.
+
+Randi comenta: Esta es una referencia a Rupert Sheldrake, de quien hemos hablado anteriormente en esta columna. Seguimos adelante:
+
+  El motivo de Witkowski parece haber sido su desilusión ante la calidad de la revisión de pares; pese a lo que dice Charaktery en la página explicativa, la queja particular de Witkowski acerca de Charaktery es que no sólo el artículo pasó por el sistema editorial, sino que los editores realmente colaboraron en su ampliación con material sin firma de otros artículos referidos a Rupert Sheldrake.
+
+  En este momento se habla de esto en toda la blogósfera polaca. Como dije, no sé polaco, pero si alguien que lo sepa quiere traducirlo correctamente, parece un sarcasmo excelente.
+
+De hecho es interesante. ¡Ahora podemos compartir nuestra vergüenza ante nuestra ingenuidad con otra comunidad científica!
+
+Mi diatriba reciente
+....................
+
+Un comentario del lector Chad Eisner sobre `una de mis quejas más recientes en esta columna <randi20071214.html#hora-de-la-educaci-n>`__ me reprocharon prolijamente por las carencias en ese artículo. Me enfrentaron con palabras sabias de autoridades tales como Noam Chomsky y Stephen Pinker y me sentí bastante reprendido.
+
+Agregaré aquí algo que debería haber estado en ese artículo: Los diccionarios no definen palabras, sino que dan significados, etimología, pronunciación y, lo más importante, su uso más común. Todos ellos, salvo la etimología, están sujetos a cambios periódicos y pueden cambiar de edición a edición. [...]
+
+Gracias, Chad. Supongo que soy un vejete. Sí, esa palabra también figura en el diccionario...
+
+Las últimas novedades de alta tecnología
+........................................
+
+Esto viene directo del sitio web de Condé Nast, y no tiene desperdicio. No me sorprende en absoluto que la agencia que origina esto sea Fox:
+
+    .. figure:: http://www.randi.org/images/commentary/200712/stellas.jpg
+       :alt:
+       :figwidth: 204
+
+       Astróloga Stellas
+
+    Fox Business sigue expandiendo los límites de las noticias de negocios. La semana pasada fue la cirugía cosmética genital, esta semana es la astrología.
+
+    En [una edición reciente] del programa *Money for Breakfast* *("Dinero para el desayuno")*, uno de los conductores, Peter Barnes, entrevistó a la astróloga Constance Stellas sobre la próxima reunión del Comité de la Reserva Federal. Mostrando cartas que había dibujado para la reunión y para el director federal Ben Bernanke, ella predijo una rebaja de medio punto en la tasa de interés.
+
+    Lástima, el cosmos debe de haber tenido un mal día. La reducción real fue de 0,25%.
+
+    O quizá Stellas estaba fuera de los temas en los que tenía experiencia. De acuerdo con su sitio web, lee las estrellas para determinar “los mejores colores, sonidos, sabores y feng shui”. También es la autora de *The Everything Sex Signs Book: Astrology Between the Sheets ("El libro de los signos para el sexo: astrología entre las sábanas")*, que “combina astrología y psicología para revelar el estilo preferido de seducción, las fantasías y lo que excita a un potencial amante”.
+
+Ahora les pregunto: ¿confiarían en algún modo en el programa *Money for Breakfast* o en Constance Stellas? En cuanto a mi propia creencia en la astrología, soy de Leo, y es sabido que los que nacen bajo ese signo son muy reticente a aceptar tales afirmaciones...
+
+Comedia involuntaria
+....................
+
+Por favor, vayan a http://www.youtube.com/watch?v=15u6fHkICxc para ver una discusión muy efectiva referida a cuestiones evangélicas. De *The Chaser’s War on Everything ("La guerra contra todo de Chaser")*, no requiere comentarios que lo apoyen en lo absoluto...
+
+Un posible converso
+...................
+
+Un lector de Melbourn, Australia, escribe:
+
+    Me gustaría contarle algo que me pasó ayer, pero preferiría que mi historia fuera confidencial para proteger a la otra parte de cualquier vergüenza. Por favor disculpe la longitud del mensaje.
+
+    Hace un tiempo, un compañero de trabajo mencionó de pasada que creía en los psíquicos y que le encantaba *Crossing Over* de John Edward. Ayer, decidí mostrarle un segmento corto del episodio “Hablando con los muertos” de *“Penn & Teller's Bullshit”* y le describí en detalle las técnicas de lectura en frío y en caliente.
+
+    Su respuesta, que estoy seguro que Ud. escuchó muchas veces, fue: “Sí, hay muchos farsantes, pero también hay verdaderos. Yo soy definitivamente un creyente”. En este punto, dije solamente: “Está bien, pero al menos sabes qué cosas mirar cuando evalúes si un psíquico es verdadero o no”.
+
+    Unos minutos más tarde, abrió su bolsa y sacó un libro de Allison Dubois y me dijo: “Allison es de verdad, deberías leer este libro, leí cuatro de sus libros”. etcétera. Me contó la historia de la prueba del Dr. Gary Schwartz que probaba que era psíquica, etcétera.
+
+    Dijo: “Allison hizo lecturas por teléfono de gente de todas partes del mundo y no recibió comentarios hasta que la lectura terminó”. No se puede hacer una lectura en frío sin comentarios. Luego le conté a mi compañero acerca de los experimentos de Forer sobre las pruebas de personalidad y un experimento parecido que vi realizar Randi el Asombroso hace muchos años en televisión. Le dije que la gente es más parecida que distinta y que los comentarios generales coinciden con un gran porcentaje de la población que está dispuesta a ajustarla a sus propias vidas.
+
+Randi comenta: Pueden consultar http://es.wikipedia.org/wiki/Bertram_Forer para ver más detalles del trabajo de Forer.
+
+    \—¿Qué exactitud tuvo Allison con esas lecturas? —pregunté.
+
+    \—80% —respondió mi colega.
+
+    \—Forer también —le dije.
+
+    \—No me importa, soy creyente.
+
+    *Bueno*, pensé, *es hora de sacar las armas potentes*. Lo mandé a http://www.randi.org/ y el desafío del millón de dólares. También le mencioné que la JREF desafió tanto a Allison Dubois y a John Edward y ambos se negaron a aceptar y que nadie pasó las pruebas preliminares del millón de dólares.
+
+    Luego traje a colación el video de su sitio en el que lo muestra desenmascarando a una médium británica en 1991. Vimos la cinta juntos y con frecuencia la detuve para discutir las técnicas que estaba usando. en particular le señalé donde la psíquica pasó de una persona de la audiencia con el nombre “Jimmy” (fallo) a otra con el nombre “Doris” (fallo) y la segunda persona le dijo al médium que volviera al nombre “Jimmy” (convirtiendo un fallo en un acierto). Le sorprendió especialmente la conexión del 30% de la audiencia con el nombre “Taylor” y del 55% con el “abuelo con un problema cardíaco”.
+
+.. image:: http://www.randi.org/images/commentary/200712/flynn.jpg
+   :alt:
+   :align: right
+
+Randi comenta: Esa era la “psíquica” Maureen Flynn, en mi programa de Granada TV “James Randi, Investigador Psíquico”. Tenemos disponibles casetes de audio de esa lectura...
+
+    Mi colega dijo entonces:
+
+    \—Esta médium es malísima. No es para nada buena.
+
+    \—¿Es realmente mala, o te lo resulta porque te dije cómo lo hace y por primera vez lo estás mirando de forma objetiva?
+
+    ¡Y eso fue! ¡Ese fue el comentario que le encendió la lamparita a mi colega! De pronto se quedó callado. Luego dijo que el video era muy bueno y que navegaría **randi.org** el fin de semana. También admitió que una lectura completamente convincente que le hizo una psíquica una vez también puede haber sido justificación posterior. Incluso dijo en broma:
+
+    \—Me vas a volver escéptico.
+
+    Puedo decir desvergonzadamente que se sentía maravilloso poner a alguien en el camino del pensamiento crítico y la racionalidad. Entiendo completamente lo que lo mantiene motivado, Sr. Randi, y le agradezco por su maravilloso sitio web sin el cual, por supuesto, no lo habría logrado.
+
+Una queja justa
+...............
+
+El lector Todd Weekley, de Boston, Massachussetts, escribe:
+
+  Gracias, como siempre, por su esfuerzo incansable para educar a la gente. Siempre espero los viernes debido a su columna.
+
+  La columna de la semana pasada contenía un artículo sobre el dispositivo EPFX y la respuesta de la Administración para os Alimentos y las Drogas (FDA). He notado en artículos anteriores de su columna referidos a la FDA (y a otros organismos del gobierno) cierto nivel de incredulidad de que la agencia haya sido tan lenta en darse cuenta. El resultado es un tono acusador (p. ej.: “durante años la [FDA]... no hizo nada para advertir al público”). Aunque estoy de acuerdo con que la FDA ha cometido omisiones en algunos temas, y ha padecido corrupción (p. ej. durante la administración Nixon), por lo general hacen un trabajo bastante bueno protegiendo al público, en especial con lo deplorable de la escasez de fondos y personal que tienen.
+
+Entendido y anotado, Todd. Y con la administración actual, que ataca a la ciencia y se basa en la fe, no sé si podemos esperar alguna mejora cuando las cosas cambien políticamente, y percibo con alarma que todos sus potenciales sucesores están introduciendo hábilmente el pensamiento mágico en todos sus discursos de campaña. Es difícil comprender cómo nosotros, como ciudadanos, permitimos que estos organismos hayan quedado tan bajos de fondos y no nos hemos quedado demasiado. Aquí en esta columna nos hemos quejado bastante...
+
+  Supongo que, con la cantidad de solicitudes de nuevos productos que se revisan, las inspecciones de sitios, la vigilancia posventa y cosas como ésas, los que trabajan en la FDA tienen poco tiempo para leer su columna. En verdad, las menciones de drogas y dispositivos falsos que aparecen de tanto en tanto ayudaría a su difisión de cumplimiento, aunque me parece que un esfuerzo más proactivo por parte de la JREF (y quizá de los lectores de su columna) para enviar una nota breve a la FDA avisándoles de un producto cuestionable, resultaría en un uso más eficiente de sus recursos.
+
+Te tengo noticias, Todd: nos aseguramos de que esos organismos reciban copias regulares de la columna, pero puede que vayan a parar al correo no deseado si las intercepta una persona que no apoya nuestro punto de vista, ¿verdad?
+
+  La FDA ha identificado la vigilancia del mercado como un área que necesita mejoras, y solicita a la industria, los prestadores médicos y los pacientes y usuarios que le ayuden informando sucesos negativos. Yo agregaría a eso información sobre productos no aprobados, como EPFX.
+
+  En el futuro, tenga en cuenta los problemas de personal y de presupuesto de la FDA cuando empiece a hacer acusaciones. Si hubieran sabido todo el tiempo de la existencia de este producto y no hubieran hecho nada cuando podrían haberlo hecho, entonces estaría totalmente de acuerdo con su crítica. Sin embargo, la mayoría de las veces hacen lo mejor que pueden con los recursos que tienen; esto puede habérseles pasado porque están atorados con innumerables cuestiones. ¿Quieren mejores resultados? Alienten al Congreso para que les manden más recursos.
+
+Es justo lo que hacemos aquí. Pero llegar a los sordos y devolverles la audición es difícil...
+
+Para terminar...
+................
+
+[...]
+
+Me gustaría poder cerrar esta semana con mejores noticias, pero parece que la educación de Texas sigue cayendo hacia el olvido. La Agencia de Educación de Texas (que acaba de despedir a su directora de ciencias, Christine Castillo Comer; vean el artículo en http://www.randi.org/joom/content/view/138/27/#i7, todavía sin traducción) luego de que sus superiores la acusaron de ser tendenciosa en contra del creacionismo y no fue “neutral” hacia la enseñanza de la evoluciuón, ahora recomienda permitirle a un grupo bíblico (el Institute for Creation Research, *Instituto para la Investigación sobre la Creación*) ¡ofrecer *doctorados online en educación científica*!
+
+Me pregunto seriamente (no estoy haciendo un chiste) si lo próximo que querrá considerar Texas permitir doctorados de la Iglesia de la Cienciología, la Iglesia de Novus Spiritus de Sylvia Browne y la Iglesia de Monstruo Volador de Espagueti. Esas iglesias afirman que existen pulpos azules extragalácticos, que hay nieve tibia en el Cielo y que habrá albóndigas eternas para todos, ¡lo que es igual de absurdo, infantil e irracional que la afirmación igualmente sin base de que la Tierra tiene 6.000 años! Seguro que todos esos amigos de lo mágico querrán participar también en la acción de Texas, diría yo.
+
+2008 *tiene* que ser mejor...
+
+|firmarandi|
+
+**Notas**
+
+.. [#palabra] Randi responde afirmativamente a *obsequiousness*, nosotros a obsequiosidad_, que es "la cualidad de obsequioso_\ ", según el |DRAE|, ya que en castellano también es válida la respuesta. [N. del T.]
+.. [#ex20_3RV] Según las versiones Reina-Valera 1960 y 1995. [N. del T.]
+
+.. _obsequiosidad: http://buscon.rae.es/draeI/SrvltGUIBusUsual?TIPO_HTML=2&TIPO_BUS=3&LEMA=obsequiosidad
+.. _obsequioso: http://buscon.rae.es/draeI/SrvltGUIBusUsual?TIPO_HTML=2&TIPO_BUS=3&LEMA=obsequioso
+
+.. |DRAE| raw:: html
+
+   <acronym title="Diccionario de la Real Academia Española">DRAE</acronym>
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: Traducido por Marcelo Huerta San Martín
+    :description: ¡Expuesto de nuevo! — Una discusión — Sokal recreado — Mi diatriba reciente — Las últimas novedades de alta tecnología — Comedia involuntaria — Un posible converso — Una queja justa — Para terminar...

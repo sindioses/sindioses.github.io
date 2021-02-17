@@ -1,0 +1,49 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CI190: Los investigadores de SETI esperan ser capaces de detectar diseño
+.. description: Respuesta a la afirmación creacionista «Los investigadores de SETI esperan ser capaces de detectar diseño»
+.. slug: CI190
+.. link: http://www.talkorigins.org/indexcc/CI/CI190.html
+.. tags: CI, CI100
+.. author: Mark Isaak, traducción de Marcelo Huerta
+.. date: 2001-02-18
+.. modified: 2005-12-01
+
+Los investigadores de SETI esperan poder reconocer señales artificiales, lo que prueba que hay un criterio objetivo para reconocer diseño inteligente.
+
+Fuente
+======
+
+Dembski, William A., 1998. Science and Design. *First Things* 86 (Oct.): 21-27. http://www.firstthings.com/ftissues/ft9810/dembski.html
+
+Respuesta
+=========
+
+1. Los investigadores de SETI no esperan encontrar mensajes diseñados de forma reconocible en las señales que están buscando; de hecho, esperan que la modulacion de la señal se atenúe y se pierda. Están buscando señales de banda angosta, que construidas por personas y no halladas en señales radiales naturales conocidas ([SETI_Institute_n_d]_, [Shostak_2005]_). El criterio objetivo para reconocer diseño inteligente es buscar cosas que parecen construidas por personas.
+2. El instituto SETI mismo reconoce que el "Diseño Inteligente" es creacionismo carente de valor científico ([DeVore_2005]_).
+
+Enlaces
+=======
+
+* Shostak, Seth. 2005. SETI and Intelligent Design. http://www.space.com/searchforlife/seti_intelligentdesign_051201.html
+
+* Petrich, Loren. 2003. Animal and extraterrestrial artifacts: Intelligently designed? http://www.secweb.org/asset.asp?AssetID=283
+
+Referencias
+===========
+
+.. [DeVore_2005]    DeVore, Edna. 2005. Intelligent Design and evolution at the White House. http://www.seti.org/site/apps/nl/content2.asp?c=ktJ2J9MMIsE&b=194993&ct=1324903
+.. [SETI_Institute_n_d]    SETI Institute. n.d. Frequently asked questions. http://www.seti.org/site/pp.asp?c=ktJ2J9MMIsE&b=178905#anchor318103
+.. [Shostak_2005]    Shostak, Seth. 2005. (v. supra)
+
+
+/////
+
+Anterior: :doc:`CI141_1` | Siguiente: :doc:`CI191`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

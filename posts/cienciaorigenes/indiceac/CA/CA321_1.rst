@@ -1,0 +1,31 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA300
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA321_1
+.. link: http://talkorigins.org/indexcc/CA/CA321_1.html
+.. date: 2003-07-05 02:00:00+00:00
+.. title: CA321.1: La motivación para las conclusiones de los científicos es el dinero
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La motivación para las conclusiones de los científicos es el dinero»
+
+Las conclusiones de los científicos están motivadas por su paga; no pueden considerarse objetivas
+
+Respuesta
+===========
+
+1. Los científicos son recompensados por desbancar ideas actualmente aceptadas (si pueden hacerlo con pruebas) y por proponer nuevas teorías que conduzcan a nuevas investigaciones. Cualquier tendencia generada por la ganancia material estaría *en contra* de la teoría de la evolución aceptada.
+
+2. Muchos científicos de investigación podrían ganar más en la industria. Hacen ciencia porque lo disfrutan.
+
+3. La queja se aplica igualmente a los antievolucionistas.
+
+/////
+
+Anterior: :doc:`CA321` | Siguiente: :doc:`CA325`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

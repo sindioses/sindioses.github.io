@@ -1,0 +1,37 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CH801: Génesis 1 muestra el orden correcto de sucesos
+.. description: Respuesta a la afirmación creacionista «Génesis 1 muestra el orden correcto de sucesos»
+.. slug: CH801
+.. link: http://www.talkorigins.org/indexcc/CH/CH801.html
+.. tags: CH, CH800
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2001-06-11
+
+El relato de la creación en Génesis menciona diez sucesos importantes en este orden: (1) un comienzo; (2) una tierra primitiva en la oscuridad y envuelta en gases pesados y agua; (3) luz; (4) una expansión o atmósfera; (5) grandes áreas de tierra seca; (6) plantas terrestres; (7) el sol, la luna y las estrellas aparecen en el firmamento y comienzan las estaciones; (8) monstruos marinos y criaturas voladoras; (9) bestias y mamíferos salvajes y mansos; (10) el hombre. La probabilidad obtener el orden correcto por azar es de 1 en 3.628.800.
+
+Fuente
+======
+
+* Watchtower Bible and Tract Society, 1985. *Life--How Did It Get Here?* Brooklyn, NY, p. 37.
+
+Respuesta
+=========
+
+1. El orden real es: (1) un principio; (2) la luz; (3) el sol y las estrellas; (4) la tierra primitiva, la luna y la atmósfera; (5) tierra seca; (6) criaturas marinas; (7) algunas plantas terrestres; (8) criaturas terrestres y más plantas y criaturas marinas; (9) criaturas voladoras (insectos) y más plantas y criaturas terrestres y marinas; (10) mamíferos, y más animales, insectos y plantas terrestres y marinos; (11) las primeras aves; (12) plantas que dan fruto (que son de las que habla el Génesis) y más criaturas terrestres, marinas y voladoras; (13) el hombre y más animales y plantas variadas. No tiene nada que ver con el orden que defienden los Testigos de Jehová.
+
+2. Las probabilidades de elegir ese orden en particular no son de 1 en 3.628.800. Mucha sde las posibilidades están limitadas. Por ejemplo, el comienzo tiene que estar primero, y la tierra tiene que existir antes de las plantas y los animales. Cuando se tienen en cuenta esos detalles, la probabilidad de obtener ese orden son de 1 en 5.760 como mucho.
+
+3. La afirmación contradice lo que dice el Génesis. Génesis no dice cuándo se hicieron visibles el sol y la luna (lo que, de todos modos, no hubiera ocurrido hasta que se hubieran creado ojos para verlos); dice *cuándo fueron creados*. Génesis también se refiere a las plantas que dan fruto, que surgieron después del primer océano y los animales marinos.
+
+
+/////
+
+Anterior: :strong:`CH712_1` | Siguiente: :doc:`CH901`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

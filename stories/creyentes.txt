@@ -1,0 +1,61 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: FAQ
+.. type: faq
+.. author: Sin Dioses
+.. title: Si usted es un creyente y quiere escribirnos
+
+.. class:: primera
+
+Como creyente, puede que crea que escribirnos es una necesidad ineludible o su deber. Si es así, le pedimos encarecidamente que siga el siguiente procedimiento:
+
+* Lea la lista de posibles razones de la tabla que se halla a continuación.
+* Si su razón para escribirnos aparece en la columna de la izquierda, **no nos escriba**, ya que su mensaje irá a parar a la papelera sin leer; usted habrá perdido su tiempo y nosotros también.
+* Si nos escribe igualmente, recuerde que **su mensaje pasa a ser propiedad de Sin Dioses y estamos en libertad de hacer lo que nos parezca con él**.
+
+  * No crea que tenemos la obligación de responderle en sus propios términos ni cuando a usted le parezca. Tenemos nuestras propias vidas y puede que le respondamos y puede que no. Depende de las ganas que tengamos.
+  * Visite periódicamente esta página y las `Cartas de la Edad Media <cartas/cartas.html>`_; puede que su mensaje nos haya parecido lo bastante ejemplificador como para ilustrar a otros de los horrores que recibimos.
+
+* Muchos afirman querer debatir con nosotros, pero no se avienen a seguir las reglas del `debate <debate.html>`_. Si usted no responde honestamente las preguntas planteadas en la página que indicamos, o lo hace y llega a uno de los casilleros en los que se indica que la discusión terminó, ni siquiera se moleste en escribirnos.
+
+.. list-table::
+   :header-rows: 1
+   :widths: 25, 75
+
+   * - Posible razón
+     - Nuestra posición
+   * - "Su sitio me ofende"
+     - Ya lo sabemos, y no nos preocupa. De hecho, lo advertimos en la página inicial en http://www.sindioses.org: "El contenido de este sitio puede ocasionarle conflictos irremediables con sus dogmas".
+
+       No nos moleste haciéndonos saber lo muy ofendido que está. No estamos aquí para trabajar en pos de la felicidad de usted.
+   * - "Su sitio es una falta de respeto para las religiones y debería ser suprimido"
+     - En Sin Dioses no consideramos que las ideas sean intocables. Por el contrario, opinamos que deben ser examinadas, sometidas a verificación y, si se prueban sin mérito, descartadas. Por otro lado, las religiones han faltado el respeto a sus opositores al extremo de cometer innumerables atrocidades en su contra, por ser "blasfemos" o "herejes", y aún hoy día se critica severamente a todos aquellos colectivos que no siguen sus dogmas.
+
+       Nadie lo obliga a leernos. Si no le gusta lo que decimos, lea otra cosa.
+   * - "Ustedes y su sitio son herramientas de Satanás"
+     - Esta es una afirmación que recibimos de creyentes con cierta frecuencia. Algunos nos dan el beneficio de la duda y afirman que "no nos damos cuenta", otros directamente dicen que "estamos en liga con Satanás".
+
+       Nuestra posición: Satanás es un ser de ficción, lo mismo que su dios. No creemos en él, de modo que mal podemos estar haciendo su obra. Tampoco creemos que ustedes tengan un conocimiento superior y que su dios y su enemigo existan aunque no lo sepamos. Los consideramos inventados. **Por favor, no nos moleste enviándonos historias de horror que involucren a estos personajes**.
+
+   * - "La evolución es una mentira y ustedes no deberían difundirla"
+     - La evolución es un hecho, respaldado por evidencia abrumadora. Antes de pretender que dejemos de afirmar esto, deberían ustedes convencer a los científicos que se ocupan del tema y el consenso científico general cambie para reflejar este hecho.
+
+       Antes de hablar sobre la evolución, evite limitarse a las nociones inexactas e incompletas propagadas por los creacionistas. Lea el `Índice de afirmaciones creacionistas <http://www.talkorigins.org/indexcc/index.html>`_ (en inglés) y en caso de encontrar una evidencia contraria, procure que sea presentada a los expertos correspondientes. Si el consenso científico mundial apunta en una determinada dirección, los mensajes insultantes de un creacionista no instruido en biología no nos van a hacer cambiar de opinión.
+
+   * - "La Biblia dice..."
+     - Leímos la Biblia. En algunos casos, más de una vez. No somos personajes de las historietas de `Jack Chick <examenreligiones/jackchick.html>`_, a los que se convence de la verdad de una religión simplemente mencionando los evangelios y citando algún fragmento presuntamente inspirador.
+
+       No use su Biblia (o su Corán, o su Bhagavad-Gita) como si citarlo fuera evidencia. No lo es. Es un libro de mitos que no convence a nadie más que a quienes ya creen en él. Y nosotros no creemos, de modo que pierde usted el tiempo pretendiendo convencernos con citas de su libro sagrado favorito.
+
+   * - "Ustedes saben que Dios existe. ¿Por qué lo niegan?"
+     - Ahora tiene **dos** afirmaciones por probar: que su Dios existe, y que nosotros lo sabemos y lo negamos a sabiendas. A menos que pueda presentar evidencia para **ambas** afirmaciones, su mensaje será ignorado.
+
+   * - (Un rebuscado argumento filosófico)
+     - La filosofía puede ser de interés para muchos, pero nosotros somos eminentemente prácticos. Si el dios de usted existe, debería tener efectos verificables en el universo real, donde usted y nosotros residimos. Si es así, su existencia debería poder ser verificada fácilmente, sin recurrir a enrevesadas consideraciones teóricas. Si no puede ser verificado fácilmente, cabe considerar que no existe, lo que en ausencia de evidencia es la *hipótesis nula*. No hay necesidad de postular la existencia de aquello para lo que no hay evidencia más allá de una alambicada elaboración teórica.
+
+.. meta::
+   :robots: noindex, nofollow
+
+-----
+
+`Volver a la página principal <principal.html>`__
+

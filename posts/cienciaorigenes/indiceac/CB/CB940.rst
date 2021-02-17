@@ -1,0 +1,52 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB940
+.. link: http://www.talkorigins.org/indexcc/CB/CB900.html
+.. date: 2001-2-17
+.. title: CB940: Las estructuras complejas no pudieron haber surgido por evolución
+.. description: Respuesta a la afirmación creacionista «Las estructuras complejas no pudieron haber surgido por evolución»
+.. type: afirmacrea
+
+**Fuente:**
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, pp. 59-69.
+
+Respuesta
+============
+
+1. Los evolucionistas en todo el mundo son, y siempre han sido, unánimes en su acuerdo en que las estructuras complejas no surgieron por azar. La teoría de la evolución no dice que lo hicieron, y afirmar lo contrario es exhibir una profunda incomprensión sobre la evolución. El aspecto novedoso que propuso Darwin es la selección natural. La selección es precisamente lo opuesto al azar.
+
+   Se sabe que la selección de la variación introducida aleatoriamente puede producir formaciones complejas, incluyendo circuitos funcionales ([Davidson_1997]_; [Thompson_1996]_) y robots ([Lipson_y_Pollack_2000]_). Los creacionistas nunca han propuesto una razón por la cual los mismos procesos no producirían los mismos resultados en la naturaleza.
+
+2. Los principios por los que funciona la evolución, incluyendo la variación y la recombinación aleatorias y la selección natural, han sido probadas exitosas y útiles para diseñar nuevas drogas ([Coghlan_1998]_), para diseñar mejores enzimas para detergentes ([Pollack_2000]_) y, en la forma de algoritmos genéticos, para muchas otras aplicaciones.
+
+Referencias
+============
+
+.. [Coghlan_1998]    Coghlan, Andy, 1998. A sexual revolution. *New Scientist* 160 (21 Nov.): 4. V. también: Maxygen, 1998. When genes "breed" in the lab, a surprising number of their offspring are supergenes. (Press release, 18 Nov. 1998) http://www.eurekalert.org/pub_releases/1998-11/NS-WGIT-181198.php
+.. [Davidson_1997]    Davidson, Clive, 1997. Creatures from primordial silicon. *New Scientist* 156 (15 Nov.): 30-34. http://www.newscientist.com/hottopics/ai/primordial.jsp
+.. [Lipson_y_Pollack_2000]    Lipson, Hod and Jordan B. Pollack, 2000. Automatic design and manufacture of robotic lifeforms. *Nature* 406: 974-978.
+.. [Pollack_2000]    Pollack, Andrew, 2000. Selling evolution in ways Darwin never imagined. *New York Times*, 28 Oct. 2000, business section. http://www.nytimes.com/2000/10/28/business/28EVOL.html
+.. [Thompson_1996]    Thompson, Adrian, 1996. An evolved circuit, intrinsic in silicon, entwined with physics. http://www.cogs.susx.ac.uk/users/adrianth/ices96/paper.html
+
+Otras lecturas
+===============
+
+Adami, C., C. Ofria and T. C. Collier, 2000. Evolution of biological complexity. *Proceedings of the National Academy of Science* USA 97(9): 4463-4468.
+
+Darwin, C., 1872. *The Origin of Species*, 1st Edition. Senate, London. http://www.talkorigins.org/faqs/origin.html
+
+Dawkins, Richard, 1986. *The Blind Watchmaker: why the evidence of evolution reveals a universe without design.* New York: Norton.
+
+
+/////
+
+Anterior: :doc:`CB932` | Siguiente: :doc:`CB940_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

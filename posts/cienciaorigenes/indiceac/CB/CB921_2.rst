@@ -1,0 +1,90 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB900,
+.. author: Mark Isaak, traducción de Paulina Madariaga
+.. nocomments: True
+.. slug: CB921_2
+.. link: http://talkorigins.org/indexcc/CB/CB921_2.html
+.. date: 2005-11-17 02:00:00+00:00
+.. title: CB921.2: ¿De qué sirve un ala a medias?
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «¿De qué sirve un ala a medias?»
+
+¿De qué sirve un ala a medias? Una pierna que evoluciona a un ala sería una pésima pierna antes de que fuera una buena ala.
+
+**Fuente:**
+
+Brown, Walt, 1995. *In the beginning: Compelling evidence for creation and the Flood*. Phoenix, AZ: Center for Scientific Creation, p. 7. http://www.creationscience.com/
+
+Respuesta
+===========
+
+1. Un ala a medias puede tener varias utilidades:
+
+   - En el caso de los insectos, un ala a medias es útil para volar por encima de la superficie del agua de forma rápida ([Marden_y_Kramer_1995]_; [Kramer_y_Marden_1997]_; [Thomas_et_al_2000]_).
+
+   - En animales de mayor tamaño, un ala a medias es útil para deslizarse en vuelo libre.  Estas alas especializadas en deslizamientos aparecen de diferentes formas en muchos animales distintos, incluyendo:
+
+     - La piel que tienen entre las piernas las ardillas voladoras (Pteromyini), las falsas ardillas voladoras (Anomaluridae), los falangeros planeadores y los lémures voladores.
+
+     - El cuerpo aplanado de la serpiente voladora (*Chrysopelea*)
+
+     - Las grandes patas palmeadas de las ranas planeadoras de los árboles (*Rhacophorus* y *Polypedates*)
+
+     - Las aletas de los peces voladores (Exocoetidae) y los calamares voladores (*Onychoteuthis*)
+
+     - Las membranas laterales expandidas sostenidas por costillas flexibles alargadas de los lagartos planeadores (ejemplo, *Draco*)
+
+     - Las membranas laterales expandidas sostenidas por puntales de hueso similares a costillas que tenían los kuehneosáuridos (Kuehneosauridae) del período triásico tardío.
+
+     - La memabrana lateral sostenida por huesos separados del resto del esqueleto en el caso del *Coelurosauravus jaekeli*, un reptil volador del período Pérmico Superior ([Frey_et_al_1997]_)
+
+     - Incluso una hormiga (*Cephalotes atratus*), cuando se cae, usa sus patas traseras para orientar su descenso aéreo de regreso al tronco que constituye su hogar ([Yanoviak_et_al_2005]_)
+
+   - En el caso de los pollos que se encuentran aún en desarrollo, el batir de las alas ayuda a la tracción de los cuartos traseros, permitiendo a los pollos subir pendientes más pronunciadas. Esta función puede ser un momento intermedio en el desarrollo del vuelo original de las aves. ([Dial_2003]_)
+
+   - Algunas aves que no vuelan (por ejemplo, pingüinos), usan sus alas para nadar.
+
+   - Algunas aves que no vuelan, probablemente usan sus alas para asustar a posibles depredadores.
+
+   - Las garzas negras usan sus alas para crear sombra en el agua donde pescan.
+
+   - Algunas lechuzas usan sus alas para sostener a sus presas contra el suelo.
+
+   - Los atajacaminos, las perdices, las aves fusil (Ptiloris) y varias otras especies de manaquines hacen ruido con sus alas como parte de sus demostraciones sexuales.
+
+   - Las alas parciales pueden tener otras funciones útiles que nadie haya concebido todavía.
+
+Enlaces
+========
+
+Marden, J. H., n.d. Evolution of insect flight: a stepwise model based on weight-supported locomotion on the surface of water. http://www.bio.psu.edu/People/Faculty/Marden/project2.html
+
+Referencias
+==============
+
+.. [Dial_2003] Dial, K. P. 2003. Wing-assisted incline running and the evolution of flight. *Science* 299: 402-404. Ver también: Pennisi, E., 2003. Uphill dash may have led to flight. *Science* 299: 329.
+
+.. [Frey_et_al_1997] Frey, Eberhard, H-D. Sues, and W. Munk. 1997. Gliding mechanism in the Late Permian reptile *Coelurosauravus. Science* 275: 1450-1452.
+
+.. [Kramer_y_Marden_1997] Kramer, M. G. and J. H. Marden. 1997. Almost airborne. *Nature* 385: 403-404.
+
+.. [Marden_y_Kramer_1995] Marden, J. H. and M. G. Kramer. 1995. Locomotor performance of insects with rudimentary wings. *Nature* 377: 332-334.
+
+.. [Thomas_et_al_2000] Thomas, M. A., K. A. Walsh, M. R. Wolf, B. A. McPheron and J. H. Marden. 2000. Molecular phylogenetic analysis of evolutionary trends in stonefly wing structure and locomotor behavior. *Proceedings of the National Academy of Science USA* 97: 13178-13183.
+
+.. [Yanoviak_et_al_2005] Yanoviak, Stephen P., Robert Dudley, and Michael Kaspari. 2005. Directed aerial descent in canopy ants. *Nature* 433: 624-626.
+
+Lecturas recomendadas
+=========================
+
+Brodsky, A. K., 1994. *The Evolution of Insect Flight*. Oxford University Press.
+
+/////
+
+Anterior: :doc:`CB921_1` | Siguiente: :doc:`CB922`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

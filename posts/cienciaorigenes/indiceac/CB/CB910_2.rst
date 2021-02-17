@@ -1,0 +1,37 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB910_2
+.. link: http://talkorigins.org/indexcc/CB/CB910_2.html
+.. date: 2006-9-7
+.. type: afirmacrea
+.. title: CB910.2: Las polillas moteadas siguen siendo la misma especie
+.. description: Respuesta a la afirmación creacionista «Las polillas moteadas siguen siendo la misma especie»
+
+Las polillas moteadas son mencionadas con frecuencia como evidencia en favor de la evolución, pero eso es falso. Las polillas sólo cambiaron de color; siguieron siendo polillas moteadas.
+
+**Fuente:**
+
+Watchtower Bible and Tract Society, 1985. *Life--How Did It Get Here?* Brooklyn, NY, 105-107.
+
+Respuesta
+===========
+
+1. Las polillas moteadas nunca fueron usadas como prueba de una nueva especie. Muestran cambios evolutivos como resultado de la selección. Los mismos creacionistas admiten que la microevolución es real. Las polillas moteadas muestran la microevolución y una de sus causas.
+
+Enlaces
+=========
+
+Tamzek, Nic, 2002. Icon of obfuscation: Jonathan Wells' book *Icons of Evolution* and why most of what it teaches about evolution is wrong. http://www.talkorigins.org/faqs/wells/iconob.html#moths
+
+
+/////
+
+Anterior: :doc:`CB910_1` | Siguiente: :doc:`CB920`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

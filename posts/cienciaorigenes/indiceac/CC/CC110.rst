@@ -1,0 +1,40 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CC110
+.. link: http://www.talkorigins.org/indexcc/CC/CC110.html
+.. date: 2003-04-27
+.. title: CC110: El hombre de Moab se encontró en arenisca jurásica
+.. description: Respuesta a la afirmación creacionista «El hombre de Moab se encontró en arenisca jurásica»
+.. type: afirmacrea
+
+
+Dos esqueletos humanos verdosos se excavaron en sedimentos jurásicos en la Gran Mina de Cobre India cerca de Moab, Utah.
+
+**Fuente:**
+
+* Burdick, Clifford, 1973. Discovery of human skeletons in Cretaceous formation. *Creation Research Society Quarterly* 10: 109-110.
+* Barnes, F. A. 1975. The case of the bones in stone. *Desert Magazine* 38(2) (Feb.): 36-39.
+
+Respuesta
+============
+
+1. Los huesos se encontraron a cinco metros de profundidad en la arena, no en una matriz rocosa. Sus posturas eran similares a entierros indios conocidos. Los huesos no estaban fosilizados y estaban parcialmente descompuestos, y su datación arrojó una edad de 210 |plusmn| 70 años. En resumen, era un entierro bastante reciente ([Kuban_1998]_).
+
+Referencias
+============
+
+.. [Kuban_1998] Kuban, Glen J. 1998. The life and death of Malachite Man. http://members.aol.com/gkuban/moab.htm
+
+.. include:: <isonum.txt>
+
+/////
+
+Anterior: :doc:`CC102` | Siguiente: :doc:`CC111`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

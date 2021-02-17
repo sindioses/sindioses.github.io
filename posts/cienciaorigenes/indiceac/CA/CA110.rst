@@ -1,0 +1,45 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA110
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA110
+.. link: http://www.talkorigins.org/indexcc/CA/CA110.html
+.. date: 2003-06-15 02:00:00+00:00
+.. title: CA110: La evolución pronto será rechazada
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La evolución pronto será rechazada»
+
+La evolución es una teoría en crisis; pronto será ampliamente rechazada.
+
+Fuente
+=======
+
+Véase Morton_2002a, más abajo.
+
+Respuesta
+============
+
+1. La evolución es una de las teorías con soporte más fuerte de toda la ciencia. No es ni por asomo una teoría en crisis.
+
+2. Se ha venido haciendo esta afirmación incluso desde antes de Darwin. En todo ese tiempo, la teoría de la evolución sólo se ha vuelto más fuerte. Antes del desarrollo de la teoría evolutiva, casi el 100% de los científicos relevantes eran creacionistas. Ahora el número es :doc:`menos del 1 por ciento <CA111>`. Los números siguen bajando a medida que el cuerpo de evidencia que apoya a la teoría evolutiva continúa creciendo. Por lo tanto, las afirmaciones de que los científicos abandonan la teoría de la evolución en favor del creacionismo son falsas.
+
+3. Esta afirmación contradice otra afirmación que se hace habitualmente, la de que la evolución :doc:`no puede ser falsada <CA211>`.
+
+Enlaces
+=======
+
+Morton, G. R. 2002a. The imminent demise of evolution: The longest running falsehood in creationism, http://home.entouch.net/dmd/moreandmore.htm
+
+Morton, G. R. 2002b. Morton’s Demon (Post of the month, Feb. 2002). http://www.talkorigins.org/origins/postmonth/feb02.html
+
+/////
+
+Anterior: :doc:`CA100_1` | Siguiente: :doc:`CA111`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

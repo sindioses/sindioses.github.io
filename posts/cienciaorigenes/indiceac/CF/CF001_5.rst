@@ -1,0 +1,33 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CF, CF000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CF001_5
+.. link: http://talkorigins.org/indexcc/CF/CF001_5.html
+.. date: 2003-6-4
+.. type: afirmacrea
+.. title: CF001.5: La evolución necesita un mecanismo de conversión de energía para usar energía
+.. description: Respuesta a la afirmación creacionista «La evolución necesita un mecanismo de conversión de energía para usar energía»
+
+La entrada de energía en un sistema no es suficiente para hacer útil esa energía. También debe haber un mecanismo de conversión de energía. Si ese sistema, la evolución no puede funcionar.
+
+**Fuente:**
+
+Yahya, Harun, 1999. The evolution deceit: Thermodynamics falsifies evolution. http://www.evolutiondeceit.com/chapter12.php
+
+Respuesta
+============
+1. Cualquier átomo puede ser un mecanismo de conversión de energía. Los átomos hacen conversiones todo el tiempo entre energía lumínica, térmica y química potencial. El mecanismo de conversión de energía es ubicuo.
+
+2. La falta de un sistema de conversion de energía no sólo invalidaría la evolución; invalidaría la vida misma. La evolución sólo requiere reproducción, selección natural y variación heredable, todas las cuales se observan en la vida. La conversión de energía es una característica de la vida, de modo que el sistema de conversión para que la evolución funcione ya existe.
+
+
+/////
+
+Anterior: :doc:`CF001_4` | Siguiente: :doc:`CF002`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

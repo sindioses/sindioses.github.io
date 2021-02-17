@@ -1,0 +1,40 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA000
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA005_2
+.. link: http://www.talkorigins.org/indexcc/CA/CA005_2.html
+.. date: 2007-10-07 01:00:00+00:00
+.. title: CA005.2: La obra de Darwin se refiere a “la preservación de las razas favorecidas”
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La obra de Darwin se refiere a “la preservación de las razas favorecidas”»
+
+El subtítulo de "El origen de las especies" de Darwin se refiere a “la preservación de las razas favorecidas”, lo que muestra la naturaleza racista de las ideas de Darwin
+
+Fuente
+========
+
+Weston, Paula, 1997-1998. The fallacy of racism. Creation Ex Nihilo 20(1): 52-53, http://www.answersingenesis.org/docs/384.asp
+
+Respuesta
+============
+
+1. Raza, tal como usa Darwin la palabra, se refiere a las variedades, no a las razas humanas. Simplemente señala que algunas variaciones que se producen naturalmente sobreviven en mayor número. El origen de las especies raramente se refiere a seres humanos.
+2. La evolución no es racista.
+
+Otras lecturas
+=================
+
+*  Mayr, Ernst, 2000. *Darwin’s influence on modern thought.* Scientific American 283(1) (Jul.): 78-83.
+
+/////
+
+Anterior: :doc:`CA005_1` | Siguiente: :doc:`CA005_3`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

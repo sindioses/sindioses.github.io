@@ -1,0 +1,65 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. date: 2011-07-07 02:56:34
+.. type: nocie
+.. description: Un equipo de astrónomos del observatorio europeo ESO presenta una nueva imagen de la impresionante nebulosa de columnas y burbujas alrededor de la estrella
+.. tags: astronomía
+.. category: Noticias de la ciencia
+.. author: Glenys Álvarez
+.. title: Betelgeuse se deshace de la materia al morir
+
+.. figure:: betelgeuse.jpg
+   :alt:
+   :figwidth: 250
+   :figclass: align-right
+
+   **En la imagen**, cortesía de ESO, la gigantesca estrella se deshace de toda su materia, convirtiendo millones de kilómetros a su alrededor en esta bella nebulosa.
+
+..
+
+    **Astronomía.** Un equipo de astrónomos del observatorio europeo ESO presenta una nueva imagen de la impresionante nebulosa de columnas y burbujas alrededor de la estrella
+
+.. class:: primera
+
+*¡Beetlejuice, Beetlejuice, Beetlejuice!*
+
+Michael Keaton, el bioexorcista de la divertida y fantástica película, realmente se llamaba como la protagonista de la noticia, cuyo nombre es una transformación de una palabra árabe que hoy solemos pronunciar en inglés como “bítelyus”. Una gigante en el momento de su muerte.
+
+Ciertamente, una hermosa y nueva imagen de la estrella viene a saludarnos, y no sólo ella es enorme. Imaginen, por ejemplo, que si estuviera en el centro de nuestro Sistema Solar nos hubiese engullido y su superficie llegaría hasta Júpiter, quizá más allá. Una roja súper-gigante en la constelación de Orión con una temperatura en la superficie relativamente baja debido a que se encuentra en una de las últimas fases de su vida.
+
+Se llama Betelgeuse o Alfa Orionis y está entre las diez más brillantes en el cielo, no es la más luminosa en Orión, viene a ser la segunda después de Rigel, aunque a veces sí que es la más brillante.
+
+Los resultados provienen del ESO, siglas en inglés para el Observatorio del Sureste Europeo (European Southern Observatory) y su famoso telescopio que se encuentra en Paranal, Chile, el VLT, que son las siglas para este enorme telescopio (Very Large Telescope) con la más novedosa tecnología de los tiempos, de hecho, VTL son muchos telescopios, cada uno con un espejo que mide 8.2 metros en diámetro, esto corresponde a ver objetos que son cuatro mil millones de veces menos visibles que si los vemos con nuestros propios ojos. ¡Cuatro mil millones.!
+
+Pues bien, esta nueva imagen es una composición donde también se usaron los resultados obtenidos con NACO y VISIR, tecnologías que combinan la óptica con el infrarrojo. Un viaje fascinante muy lejos de aquí.
+
+|tit2|
+......
+
+.. |tit2| replace:: Espectaculares espacios
+
+Y así de espectaculares son las cantidades y las dimensiones que se desprenden de esta noticia sobre el masivo objeto. No podemos olvidar que la estrella está moribunda, por lo tanto, ha crecido bastante y lanza una cantidad impresionante de material para afuera, ahora que muere, se deshace de él. La estrella ha vomitado el equivalente de la masa solar desde que comenzó a sucumbir, hace unos diez mil años.
+
+“Dos fenómenos gobiernan el proceso por el que atraviesa una estrella como ésta. El primero es la formación de columnas de gas que se extienden por el espacio desde la superficie de la estrella. El segundo está detrás de las eyecciones de estas columnas y se trata del movimiento vigoroso, para arriba y para abajo, que existe en la atmósfera de Betelgeuse, es como agua hirviendo que circula en una olla”, escriben los astrónomos en la noticia para la ESO.
+
+Ciertamente, la imagen capturada y publicada hoy, muestra la nebulosa que rodea a Betelgeuse, mucho más grande que la gigantesca estrella y que se extiende por sesenta mil millones de kilómetros lejos de la estrella, es decir, “unas 400 veces la distancia del Sol a la Tierra”.
+
+|tit3|
+......
+
+.. |tit3| replace:: Esas gigantescas columnas
+
+La imagen muestra que las columnas que se ven cercanas a la estrella están probablemente conectadas con la superficie misma de la nebulosa, también indica que la estrella no emitió estos gases y burbujas de forma asimétrica ya que la nebulosa no tiene una forma regular. Es posible, dicen ellos, que tanto las burbujas como las columnas sean responsables de la forma que tiene la nebulosa alrededor de la estrella.
+
+“En la imagen es posible observar a las columnas en el disco central. El círculo pequeño en el centro tiene un diámetro de cuatro veces y medio la órbita terrestre y representa la locación de la superficie visible de Betelgeuse. El disco negro corresponde a una parte muy luminosa de la imagen que fue enmascarada para permitir que la parte menos visible de la nebulosa se viera. Las observaciones con infrarrojo se hicieron con filtros sensibles a la radiación para distintas ondas, con los azules que corresponden a ondas de longitudes cortas y las rojas a las más largas”, escriben.
+
+Los astrónomos también asumen que el material visible que se observa en la imagen está hecho de polvo de alúmina y silicato, que es el mismo material que conforma la corteza de los planetas rocosos como el nuestro.
+
+“Podemos decir que hace mucho, en el pasado distante, los silicatos de la Tierra fueron formados por una estrella masiva y ahora extinta, similar a la amiga Betelgeuse”.
+
+
+.. include:: includes/nocie_pie.inc
+.. meta::
+   :author: Glenys Álvarez
+   :keywords: astronomía
+   :description: Un equipo de astrónomos del observatorio europeo ESO presenta una nueva imagen de la impresionante nebulosa de columnas y burbujas alrededor de la estrella
+   :title: Betelgeuse se deshace de la materia al morir

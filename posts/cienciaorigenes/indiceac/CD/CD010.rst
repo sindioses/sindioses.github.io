@@ -1,0 +1,62 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CD
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CD010
+.. link: http://talkorigins.org/indexcc/CH/CD010.html
+.. date: 2001-2-18
+.. type: afirmacrea
+.. title: CD010: La datación radiométrica produce resultados no fiables
+.. description: Respuesta a la afirmación creacionista «La datación radiométrica produce resultados no fiables»
+
+**Fuente:**
+
+Brown, Walt, 1995. *In the Beginning: Compelling evidence for creation and the Flood*. Phoenix, AZ: Center for Scientific Creation, p. 24.
+
+Respuesta
+============
+
+1. Las mediciones independientes, usando técnicas radiométricas diferentes e independientes, arrojan resultados consistentes ([Dalrymple_2000]_; [Lindsay_1999]_; [Meert_2000]_). Tales resultados no pueden ser explicados ni por :doc:`azar <CD020>` ni por un error sistemático en los supuestos de las tasas de desintegración.
+
+2. Las fechas radiométricas son consistentes con varios métodos de fechado no radiométricos. Por ejemplo:
+
+   * El archipiélago hawaiano se formó por el movimiento de la placa oceánica del Pacífico sobre un punto caliente a un ritmo lento pero observable. Las fechas radiométricas de las islas son consistentes con el orden y el ritmo al que fueron posicionándose sobre el punto caliente ([Rubin_2001]_).
+
+   * El fechado radiométrico es consistente con los ciclos de Milankovitch, que dependen sólo de factores astronómicos tales como la precesión de la inclinación terrestre y la excentricidad orbital ([Hilgen_et_al_1997]_).
+
+   * El fechado radiométrico es consistente con el método de fechado por luminiscencia ([Thompson_n_d]_; [Thorne_et_al_1999]_).
+
+   * El fechado radiométrico da resultados consistentes com métodos de datación relativos como "más profundo es más antiguo" ([Lindsay_2000]_).
+
+3. La afirmación creacionista de que las fechas radiométricas son inconsistentes se basan en relativamente unos pocos ejemplos. Los creacionistas ignoran la vasta mayoría de fechas radiométricas que muestran resultados consistentes (p. ej. [Harland_et_al_1990]_).
+
+Enlaces
+=========
+
+Thompson, Tim, 2003. A radiometric dating resource list. http://www.tim-thompson.com/radiometric.html
+
+Wiens, Roger C., 1994, 2002. Radiometric dating: A Christian perspective. http://www.asa3.org/ASA/resources/Wiens.html
+
+Referencias
+=============
+
+.. [Dalrymple_2000]    Dalrymple, G. Brent, 2000. Radiometric dating does work! Some examples and a critique of a failed creationist strategy. *Reports of the National Center for Science Education* 20(3): 14-17. http://www.ncseweb.org/resources/rncse_content/vol20/6061_radiometeric_dating_does_work_12_30_1899.asp
+.. [Harland_et_al_1990]    Harland, W. B., R. L. Armstrong, A. V. Cox, L. E. Craig, A. G. Smith, and D. G. Smith, 1990. *A Geologic Time Scale 1989*. Cambridge: Cambridge University Press.
+.. [Hilgen_et_al_1997]    Hilgen, F. J., W. Krijgsman, C. G. Langereis and L. J. Lourens, 1997. Breakthrough made in dating of the geological record. *EOS* 78(28): 285,288-289. http://www.agu.org/sci_soc/eos96336.html
+.. [Lindsay_1999]    Lindsay, Don, 1999. Are radioactive dating methods consistent with each other? http://www.don-lindsay-archive.org/creation/crater_chain.html
+.. [Lindsay_2000]    Lindsay, Don, 2000. Are radioactive dating methods consistent with the deeper-is-older rule? http://www.don-lindsay-archive.org/creation/confirm.html
+.. [Meert_2000]    Meert, Joe, 2000. Consistent radiometric dates. http://gondwanaresearch.com/radiomet.htm
+.. [Rubin_2001]    Rubin, Ken, 2001. The formation of the Hawaiian Islands. http://www.soest.hawaii.edu/GG/HCV/haw_formation.html
+.. [Thompson_n_d]    Thompson, Tim, n.d. Luminescence and radiometric dating. http://www.tim-thompson.com/luminescence.html
+.. [Thorne_et_al_1999]    Thorne, A. et al., 1999. Australia's oldest human remains: Age of the Lake Mungo 3 skeleton. *Journal of Human Evolution* 36(6): 591-612.
+
+
+/////
+
+Anterior: :doc:`CD004` | Siguiente: :doc:`CD011`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,40 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC000
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CC001
+.. link: http://www.talkorigins.org/indexcc/CC/CC001.html
+.. date: 2004-03-05
+.. title: CC001: El hombre de Piltdown era un fraude
+.. description: Respuesta a la afirmación creacionista «El hombre de Piltdown era un fraude»
+.. type: afirmacrea
+
+En 1912, Charles Dawson y Arthur Smith Woodward anunciaron el descubrimiento de una mandíbula y parte de una calavera de un pozo de grava cerca de Piltdown, Inglaterra. La mandíbula parecía de simio salvo por desgaste humano en los dientes; la calavera era de un humano moderno. Estos huesos fueron la base de *Eanthropus dawsoni*, normalmente conocido como el Hombre de Piltdown, interpretado como un hombre mono británico de 500.000 años. Pero a principios de la década de 1950, se descubrió que la mandíbula había sido manchada y desgastada para darle su apariencia y que la calavera era un fósil humano reciente. En resumen, el Hombre de Piltdown era un fraude. Los científicos británicos lo creyeron porque quisieron. La falla en exponerlo antes muestra que los científicos tienden a guiarse por sus preconceptos.
+
+**Fuente:**
+
+Gish, Duane T., 1985. *Evolution: The Challenge of the Fossil Record*. El Cajon, CA: Creation-Life Publishers, pp. 188-190.
+
+Respuesta
+==============
+
+1. El hombre de Piltdown fue expuesto por científicos. El hecho de que hicieran falta cuarenta años no es, ciertamente, un ejemplo rutilante de la ciencia en acción, pero muestra que la ciencia corrige errores.
+
+   :doc:`Los preconceptos <CA230_1>` son un problema inevitable en casi cualquier investigación, pero son menos problemáticos en ciencia porque, primero, diferentes científicos con frecuencia tienen diferentes preconceptos, y segundo, la evidencia física siempre debe tenerse en cuenta. Muchos científicos de América y Europa no aceptaron acríticamente al Hombre de Piltdown, y el fraude se desbarató cuando los fósiles no pudieron reconciliarse con otros hallazgos de homínidos.
+
+2. Un único fraude no puede indicar la inferioridad de la arqueología convencional, porque los creacionistas tienen sus propios fraudes, incluyendo :doc:`las huellas de Paluxy <CC101>`, el :doc:`cráneo de Calaveras <CC112>`, :doc:`Moab <CC110>` y el Hombre de :doc:`Malachite <CC111>`, y otros. Es más revelador cómo la gente reacciona ante esos fraudes. Cuando se expuso a Piltdown, se dejó de usarlo como prueba. Los fraudes creacionistas, sin embargo, siguen siendo citados como si fueran reales. Piltdown ha sido superado hace décadas, pero la deshonestidad de los fraudes creacionistas continúa.
+
+Enlaces
+===========
+Harter, Richard, 1996. Piltdown Man: The bogus bones caper. http://www.talkorigins.org/faqs/piltdown.html
+
+
+/////
+
+Anterior: :doc:`CB990` | Siguiente: :doc:`CC001_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

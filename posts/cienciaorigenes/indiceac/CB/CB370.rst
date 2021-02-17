@@ -1,0 +1,38 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB370
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB370
+.. link: http://www.talkorigins.org/indexcc/CB/CB370.html
+.. date: 2004-1-22
+.. title: CB370: Las endorfinas al momento de la muerte indican un creador benéfico, no evolución
+.. description: Respuesta a la afirmación creacionista «Las endorfinas al momento de la muerte indican un creador benéfico, no evolución»
+.. type: afirmacrea
+
+El cuerpo secreta endorfinas al momento de la muerte, haciéndola menos traumática. La evolución no puede explicar esto, porque no hay presión selectiva para un mecanismo biológico que ayude a la gente a morir pacíficamente. Pero muestra evidencia de un creador misericordioso.
+
+**Fuente:**
+
+Easterbrook, Gregg, 9 Dec. 2003. NFL teams should hire psychics, and why, why, why are you punting?! http://www.nfl.com/nflnetwork/story/6908185
+
+Respuesta
+=============
+
+1. Incluso traumas relativamente menores elevan los niveles de endorfina. Aliviar el dolor y el estrés de una persona que ha sufrido un trauma puede mantenerlos en funcionamiento el tiempo suficiente para emprender acciones que le salven la vida, tales como restañar el sangrado o buscar ayuda. Que durante un trauma fatal también se liberen endorfinas es un efecto secundario.
+
+2. La liberación de endorfinas durante un trauma no es enteramente misericordioso. Si la persona sobrevive al trauma, la abstinencia de las endorfinas pueden producir sufrimiento emocional que puede contribuir al estrés postraumático o a la adicción al alcohol ([Volpicelli_et_al_1999]_).
+
+Referencias
+============
+.. [Volpicelli_et_al_1999] Volpicelli, J., G. Balaraman, J. Hahn, H. Wallace and D. Bux, 1999. The role of uncontrollable trauma in the development of PTSD and alcohol addiction. *Alcohol Research and Health* 23(4): 256-262. http://www.niaaa.nih.gov/publications/arh23-4/256-262.pdf
+
+
+/////
+
+Anterior: :doc:`CB365` | Siguiente: :doc:`CB381`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

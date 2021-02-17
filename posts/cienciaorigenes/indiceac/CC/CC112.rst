@@ -1,0 +1,46 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CC112
+.. link: http://www.talkorigins.org/indexcc/CC/CC112.html
+.. date: 2003-04-27
+.. title: CC112: Los cráneos de Castenedolo, Olmo y Calaveras se hallaron en estratos del Plioceno
+.. description: Respuesta a la afirmación creacionista «Los cráneos de Castenedolo, Olmo y Calaveras se hallaron en estratos del Plioceno»
+.. type: afirmacrea
+
+Los cráneos de Castenedolo y Olmo en Italia y el cráneo de Calaveras en California eran cráneos modernos, pero todos se hallaron en estratos del Plioceno sin alterar.
+
+**Fuente:**
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, p. 177.
+
+Respuesta
+=============
+
+1. Los huesos de Castendolo pertenecen a esqueletos de varios hombres, mujeres y niños. Son un entierro reciente en sedimentos del Plioceno, evidenciado por el hecho de que otros fósiles estaban impregnados de sal, pero no los huesos humanos.
+
+   La calavera de Olmo es de grava del Pleistoceno superior, lo que lo ubica en el Paleolítico Superior (la Edad de Piedra). No está fuera de lugar.
+
+   El cráneo de Calaveras fue un fraude deliberado y los científicos lo reconocieron inmediatamente ([Conrad_1982]_).
+
+Enlaces
+=========
+
+Matson, Dave E. 1994. How good are those young-earth arguments? http://www.talkorigins.org/faqs/hovind/howgood-gc.html#G4d
+
+Referencias
+=============
+
+.. [Conrad_1982] Conrad, Ernest C. 1982. Are there human fossils in the "wrong place" for evolution? *Creation/Evolution* 8: 14-22.
+
+
+/////
+
+Anterior: :doc:`CC111` | Siguiente: :doc:`CC120`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

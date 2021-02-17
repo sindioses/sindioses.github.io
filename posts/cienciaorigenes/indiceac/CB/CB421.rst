@@ -1,0 +1,42 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB400
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2004-5-27
+.. type: afirmacrea
+.. title: CB421: La evolución no explica la música
+.. description: Respuesta a la afirmación creacionista «La evolución no explica la música»
+.. slug: CB421
+.. link: http://www.talkorigins.org/indexcc/CB/CB421.html
+
+Respuesta
+=========
+
+1. Este esta es una :doc:`falacia de incredulidad personal <CA100>`. No saber cómo se explica algo no significa que sea inexplicable.
+
+2. Hay evidencias de que la música se relaciona con el lenguaje. Una disonancia en un acorde dispara una parte del cerebro que reconoce la sintaxis correcta ([Clarke_2001]_; [Maess_et_al_2001]_). Por lo tanto la apreciación musical podría haber surgido, al menos en parte, como efecto secundario de la evolución del lenguaje.
+
+   Otra hipótesis es que la música surgió en paralelo con la socialidad, como medio de unir a las personas por medio de actividades comunales como la danza y el ritmo ([Benzon_2001]_).
+
+Referencias
+===========
+.. [Benzon_2001]    Benzon, 2001. (v. infra).
+.. [Clarke_2001]    Clarke, Tom, 2001 (23 Abr). Chords strike a grammatical note. *Nature Science Update*, http://www.nature.com/nsu/010426/010426-4.html
+.. [Maess_et_al_2001]    Maess, B., S. Koelsch, T. C. Gunter and A. D. Friederici, 2001. Musical syntax is processed in Broca's area: an MEG study. *Nature Neuroscience* 4: 540-545.
+
+Otras lecturas
+==============
+
+Benzon, William L., 2001. *Beethoven's Anvil*: Music in mind and culture. New York: Basic Books.
+
+
+/////
+
+Anterior: :doc:`CB420` | Siguiente: :doc:`CB430`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

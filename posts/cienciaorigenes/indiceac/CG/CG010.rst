@@ -1,0 +1,47 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CG010: El ser vivo más joven tiene menos de 4.900 años
+.. description: Respuesta a la afirmación creacionista «El ser vivo más joven tiene menos de 4.900 años»
+.. slug: CG010
+.. link: http://www.talkorigins.org/indexcc/CG/CG010.html
+.. tags: CG, CG000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-05-08
+
+El ser vivo más antiguo (el pino longevo) tiene menos de 4.900 años, lo que respalda una fecha reciente de un cataclismo mundial.
+
+**Fuente:**
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, p. 193. 
+
+Respuesta
+=========
+
+1. La edad del ser vivo más antiguo no indica las fechas de los eventos que ocurrieron antes de él. Simplemente muestra que no hubo un cataclismo global hace menos de 4900 años.
+2. Tres anillos proporcionan un registro ininterrumpido desde hace 11.000 años ([Becker_y_Kromer_1993]_; [Becker_et_al_1991]_; [Stuiver_et_al_1986]_). Un cataclismo mundial durante ese tiempo hubiera interrumpido el registro de anillos en los árboles.
+3. El bosque de creosotas de King Clone en el Desierto del Mojave tiene 11.700 de antigüedad.
+   
+Enlaces
+=======
+
+Matson, Dave E., 1994. How good are those young-earth arguments? A close look at Dr. Hovind's list of young-earth arguments and other claims. http://www.talkorigins.org/faqs/hovind/howgood-yea2.html#proof27
+
+Referencias
+===========
+
+.. [Becker_y_Kromer_1993]    Becker, B. and B. Kromer, 1993. The continental tree-ring record -- absolute chronology, :sup:`14`\ C calibration and climatic change at 11 ka. *Palaeogeography Palaeoclimatology Palaeoecology* 103 (1-2): 67-71.
+.. [Becker_et_al_1991]    Becker, B., B. Kromer and P. Trimborn, 1991. A stable-isotope tree-ring timescale of the late glacial Holocene boundary. *Nature* 353: 647-649.
+.. [Stuiver_et_al_1986]    Stuiver, Minze et al., 1986. Radiocarbon age calibration back to 13,300 years BP and the :sup:`14`\ C age matching of the German oak and US bristlecone pine chronologies. *Radiocarbon* 28(2B): 969-979. 
+
+		
+/////
+
+Anterior: :doc:`CG001` | Siguiente: :doc:`CG020`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

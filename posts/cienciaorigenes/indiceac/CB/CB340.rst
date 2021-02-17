@@ -1,0 +1,45 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB300
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB340
+.. link: http://talkorigins.org/indexcc/CB/CB340.html
+.. date: 2003-4-9
+.. title: CB340: Los órganos y los sistemas de órganos habrían sido inútiles hasta que todas las partes estuvieran en su lugar
+.. description: Respuesta a la afirmación creacionista «Los órganos y los sistemas de órganos habrían sido inútiles hasta que todas las partes estuvieran en su lugar»
+.. type: afirmacrea
+
+Los órganos y los sistemas de órganos habrían sido inútiles hasta que todas las partes estuvieran en su lugar. La innovación coordinada que requieren es demasiado improbable para crearse en un solo paso.
+
+**Fuente:**
+
+Plantinga, Alvin, 1991. When faith and reason clash: Evolution and the Bible. En: *Intelligent Design Creationism and Its Critics*, ed. R. T. Pennock, Cambridge, MA: MIT Press, 2002, pp. 113-145. Orig. pub. en *Christian Scholar's Review* 21(1): 8-32.
+
+Respuesta
+===========
+
+1. Esta afirmación es una instancia de la :doc:`falacia de la incredulidad personal <CA100>`. En todas las instancias específicas de esta afirmación, hay formas en las que los órganos y sistemas de órganos podrían evolucionar gradualmente. La idea de que no podrían evolucionar normalmente surge de uno o más de los siguientes errores de razonamiento:
+
+   a. Que las partes de los órganos aparecen de pronto. Esto parece ser un remanente del pensamiento creacionista. La evolución, sin embargo, no es creacionismo; las partes cambian gradualmente.
+   b. Que los órganos menos desarrollados que lo que existe ahora deben ser completamente inútiles. Esto es un disparate. Una zona sensible a la luz en la piel puede no ser tan útil como los ojos que tenemos ahora, pero es mejor que nada. Y "sólo un poco mejor" es todo lo que hace falta para que evolucione un atributo.
+   c. Que las partes deben evolucionar separadamente. La innovación coordinada entre las partes de un órgano o un sistema de órganos es posible. De hecho, si las partes evolucionan gradualmente, es inconcebible que las partes que interactúan no coevolucionen de forma tal que los cambios sean coordinados por la selección natural.
+   d. Que las partes no cambian de función. Muchos órganos no se originan de la nada; más bien empiezan como una parte que sirve una función distinta y gradualmente es adoptada para una nueva función. Por ejemplo, las piernas de los tetrápodos evolucionaron a partir de aletas.
+
+   La invalidez de los ejemplos específicos de esta afirmación se ven en el :doc:`escarabajo bombardero <CB310>`, el :doc:`cuello de la jirafa <CB325>`, la :doc:`lengua del pájaro carpintero <CB326>` y los :doc:`colmillos de las serpientes venenosas <CB341>`.
+
+2. A veces varios cambios coordinados pueden producirse cuando hay una mutación en un gen regulador.
+
+Otras lecturas
+===============
+
+Dawkins, Richard, 1995. *River out of Eden*. New York: Basic Books.
+
+/////
+
+Anterior: :doc:`CB326` | Siguiente: :doc:`CB341`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,38 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC360
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CC360
+.. link: http://www.talkorigins.org/indexcc/CC/CC360.html
+.. date: 2003-08-22
+.. title: CC360: No se han formado nuevos fósiles
+.. description: Respuesta a la afirmación creacionista «No se han formado nuevos fósiles»
+.. type: afirmacrea
+
+Pocos o ningún fósil se están formando actualmente. Los fósiles deben haberse producido por condiciones radicalmente diferentes (un diluvio global) en el pasado.
+
+**Fuente:**
+
+* Whitcomb, John C. Jr. and Henry M. Morris, 1961. *The Genesis Flood*. Philadephia, PA: Presbyterian and Reformed Publishing Co., p. 129.
+* Wysong, Randy L. 1976. *The Creation-Evolution Controversy*. Midland, Mich.: Inquiry Press, p. 364.
+
+Respuesta
+===========
+
+1. Los mecanismos por los cuales se forman los fósiles aún están ocurriendo. No los observamos con frecuencia porque por lo general están fuera de la vista o son infrecuentes, pero aún ocurren.
+
+   * Los pozos de alquitrán La Brea han atrapado y preservado animales (y al menos una persona) en tiempos recientes.
+   * Pompeya preservó muchos cuerpos en 79 EC.
+   * Los sedimentos de los ríos aún cubren cadáveres en sus deltas.
+   * En los depósitos de los géiseres, se están cubriendo insectos y plantas.
+
+
+/////
+
+Anterior: :strong:`CC352` | Siguiente: :doc:`CC361`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

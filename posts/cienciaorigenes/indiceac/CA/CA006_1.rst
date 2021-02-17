@@ -1,0 +1,78 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA000
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA006_1
+.. link: http://www.talkorigins.org/indexcc/CA/CA006_1.html
+.. date: 2007-10-07 01:00:00+00:00
+.. title: CA006.1: Adolf Hitler basó sus ideas en el darvinismo
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Adolf Hitler basó sus ideas en el darvinismo»
+
+Adolf Hitler explotó las ideas racistas del darvinismo para justificar el genocidio
+
+Fuente
+========
+
+Weston-Broome, Sharon. 2001. Louisiana House Concurrent Resolution no. 74: CIVIL RIGHTS: Provides relative to racism and education about racism. HLS 01-2652 ORIGINAL.
+
+Respuesta
+===========
+
+1. Hitler no basó sus ideas en el darvinismo sino en una filosofía de “derecho divino”:
+
+    Por lo tanto, [la filosofía popular] no cree en la igualdad de las razas, sino que junto con sus diferencias reconoce su mayor o menor valor y se siente obligada, por este conocimiento, a promover la victoria del mejor y más fuerte, y exigen la subordinación del inferior o más débil de acuerdo con la voluntad eterna que domina este universo ([Hitler_1943]_, p. 383)
+
+   La primera edición de Mein Kampf sugiere que Hitler puede haber creído alguna vez en una tierra joven: “este planeta se moverá a través del éter, como lo hizo hace miles de años, vacío de hombres” (p. 65; la segunda edición dice “millones” en lugar de “miles”, y el capítulo 11 se refiere a “cientos de miles de años” de vida en otro contexto). Otros pasajes apoyan aún más sus opiniones creacionistas:
+
+     El socavamiento de la existencia de la cultura humana por la destrucción de su portador parece, a los ojos de la filosofía popular, el crímen más execrable. Cualquiera que se atreva a poner las manos en la más alta imagen del Señor comete sacrilegio contra el benevolente Creador de este milagro y contribuye a la expulsión del paraíso. ([Hitler_1943]_, p. 383)
+
+   y
+
+     Debemos luchar por la salvaguarda de la existencia y reproducción de nuestra raza y nuestra gente, [...] para que nuestra gente pueda madurar para el cumplimiento de la misión que le fue asignada por el creador del universo. ([Hitler_1943]_, 214).
+
+   Citas de Hitler invocando al cristianismo como base de sus acciones podrían multiplicarse hasta la náusea. Por ejemplo:
+
+     Por tanto hoy creo que actúo en concordanicia con la voluntad del Creador Todopoderoso: defendiéndome contra el judío, estoy luchando por la obra del Señor ([Hitler_1943]_, p. 65).
+
+     [L]a tarea de preservar y promover el progreso de la más alta humanidad, dada a esta tierra por la benevolencia del Todopoderoso, parece una misión verdaderamente elevada ([Hitler_1943]_, p. 398).
+
+     Una campaña contra el “movimiento sin dios” y un pedido de apoyo católico fueron lanzados el miércoles por las fuerzas del Canciller Adolf Hitler ([Associated_Press_1933]_).
+
+2. El Partido Nazi en general rechazaba el darvinismo y apoyaba el cristianismo. En 1935, Die Bücherei, la publicación nazi para las bibliotecas, publicó una lista de directivas de obras para rechazar, incluyendo:
+
+     Escritos de naturaleza filosófica y social cuyo contenido trate de la falsa iluminación científica del darvinismo primitivo y el monismo (Häckel) ([Die_Bucherei_1935]_, p. 279)
+
+   Por otro lado, una “Lista negra para bibliotecas públicas y de préstamo comercial”, sin fecha, incluye lo siguiente en una lista de literatura que “absolutamente debe retirarse”:
+
+     \c) Todos los escritos que ridiculicen, menosprecien o mancillen la religión cristiana y sus instituciones, la fe en Dios u otras cosas que sean sagradas para los sentimientos sagrados del Pueblo ([Lista_negra]_).
+
+3. El genocidio y el racismo existieron mucho antes de Darwin. Obviamente, no necesitaban ninguna ayuda del darvinismo. En muchos casos, como las Cruzadas y la conquista de Centroamérica por parte de España, se invocó explícitamente la religión para justificarlas.
+
+4. La evolución no promueve el :doc:`darvinismo social <CA002_1>` ni el :doc:`racismo <CA005>` ni la :doc:`eugenesia <CA006>`.
+
+Referencias
+==============
+.. [Lista_negra]	“Blacklist for Public Libraries and Commercial Lending Libraries.” Citado del libro de la Biblioteca de la Universidad de Arizona “Lists of Banned Books, 1932-1939”, trad. Roland Richter, http://www.library.arizona.edu/exhibits/burnedbooks/documents.htm
+.. [Die_Bucherei_1935]	*Die Bücherei 2:6* (1935) Citado del libro de la Biblioteca de la Universidad de Arizona “Lists of Banned Books, 1932-1939”, trad. Roland Richter, http://www.library.arizona.edu/exhibits/burnedbooks/documents.htm
+.. [Hitler_1943] Hitler, A. 1943. *Mein Kampf*. Trad. R. Manheim. Boston: Houghton Mifflin. http://www.stormfront.org/books/mein_kampf/ o http://www.crusader.net/texts/mk/
+.. [Associated_Press_1933]	Associated Press. 1933. Hitler aims blow at ‘Godless’ move, Lansing State Journal (Michigan), Feb. 23, 1933. Reprinted at http://www.infidels.org/library/historical/unknown/hitler.html
+
+Otras lecturas
+=================
+
+* Toland, John. 1976. Adolf Hitler. Garden City, NY: Doubleday.
+
+* http://www.antievolution.org/people/wre/evc/argresp/hitler.faq and http://www.antievolution.org/people/wre/evc/argresp/hitler.add
+
+/////
+
+Anterior: :doc:`CA006` | Siguiente: :doc:`CA006_2`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

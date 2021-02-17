@@ -1,0 +1,59 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2003-8-6
+.. type: afirmacrea
+.. title: CB904: No han surgido por evolución nuevas características ni funciones biológicas
+.. description: Respuesta a la afirmación creacionista «No han surgido por evolución nuevas características ni funciones biológicas»
+.. slug: CB904
+.. link: http://www.talkorigins.org/indexcc/CB/CB904.html
+
+.. _arsenobetaína: https://es.wikipedia.org/wiki/Arsenobeta%C3%ADna
+
+Respuesta
+=========
+1. La mayoría, si no todas, las "características totalmente nuevas" son modificaciones de características previamente existentes. Las alas de las aves, por ejemplo, son miembros delanteros de cuadrúpedos, modificados, las que a su vez son aletas pectorales de sarcopterigios, modificadas. Una característica compleja y enteramente nueva, que apareciera de la nada, sería evidencia en favor del creacionismo.
+
+2. Nuevas características han evolucionado a partir de características antiguas diferentes. Hay varios ejemplos de microorganismos en los que se ha producido la evolución de la capacidad de degradar o metabolizar compuestos nuevos creados por el hombre:
+   
+   * degradación de la arsenobetaína_ ([Jenkins_et_al_2003]_)
+   * degradación de la naftalina y los compuestos relacionados ([Annweiler_et_al_2002]_)
+   * degradación del clorocatecol ([Moiseeva_et_al_2002]_)
+   * degradación del 2,4-dinitrotolueno ([Johnson_et_al_2002]_)
+     
+   Además, un organismo unicelular ha evolucionado para formar colonias multicelulares ([Boraas_et_al_1998]_); véase también :doc:`CB101_2`.
+
+3. Una secuencia genética arbitraria puede evolucionar para adquirir funcionalidad ([Hayashi_et_al_2003]_).
+   
+Enlaces
+=======
+
+Harris, Adam Noel, 2000 (July). An observed example of morphological evolution. http://www.talkorigins.org/origins/postmonth/jul00.html
+
+Thomas, Dave, n.d. Evolution and information: The nylon bug. http://www.nmsr.org/nylon.htm
+
+Referencias
+===========
+
+.. [Annweiler_et_al_2002]    Annweiler, E., W. Michaelis y R. U. Meckenstock, 2002. Identical ring cleavage products during anaerobic degradation of naphthalene, 2-methylnaphthalene, and tetralin indicate a new metabolic pathway. *Applied and Environmental Microbiology* 68(2): 852-858.
+.. [Boraas_et_al_1998]    Boraas, M. E., D. B. Seale y J. E. Boxhorn, 1998. Phagotrophy by a flagellate selects for colonial prey: A possible origin of multicellularity. *Evolutionary Ecology* 12:153-164. (Cfr. Harris, 2000, arriba.)
+.. [Hayashi_et_al_2003]    Hayashi, Y., H. Sakata, Y. Makino, I. Urabe y T. Yomo, 2003. Can an arbitrary sequence evolve towards acquiring a biological function? *Journal of Molecular Evolution* 56: 162-168.
+.. [Jenkins_et_al_2003]    Jenkins, R. O. et al., 2003. Bacterial degradation of arsenobetaine via dimethylarsinoylacetate. *Archives of Microbiology* 180(2):142-150.
+.. [Johnson_et_al_2002]    Johnson, G. R., R. K. Jain y J. C. Spain, 2002. Origins of the 2,4-dinitrotoluene pathway. *Journal of Bacteriology* 184(15): 4219-4232. (Erratum in *Journal of Bacteriology* 184(21): 6084.)
+.. [Moiseeva_et_al_2002]    Moiseeva, O. V., I. P. Solyanikova, S. R. Kaschabek, J. Groning, M. Thiel, L. A. Golovleva y M. Schlomann, 2002. A new modified ortho cleavage pathway of 3-chlorocatechol degradation by Rhodococcus opacus 1CP: genetic and biochemical evidence. *Journal of Bacteriology* 184(19): 5282-5292. 
+
+		
+/////
+
+Anterior: :doc:`CB902_2` | Siguiente: :doc:`CB910`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+
+
+

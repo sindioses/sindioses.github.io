@@ -1,0 +1,459 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. date: 2006-06-16 00:00:00
+.. author: James Randi, traducción de Graciela Lorenzo Tillard
+.. category: Traducciones de James Randi
+.. title: La oficina de patentes en plena florecimiento — De pasada — Noticias calientes — Alguna verdad de hace mucho tiempo — Un gran progreso en Australia — Aykroyd en el límite — Intervención (a)divina — Grados de fe — Objetos corrientes no identificados — Garantía — Pensamiento crítico en España — Continuación — Más uvas verdes — En conclusión...
+.. type: randi
+
+.. contents:: Contenido
+   :class: sidebar
+   :local:
+
+La oficina de patentes en pleno florecimiento
+.............................................
+
+.. figure:: http://www.randi.org/images/commentary/200606/16flashlight.jpg
+   :alt:
+   :figwidth: 304
+
+   Mi invento: ¡VEAN!
+
+   ¡Una linterna que usa pilas recargables!
+
+   ¿O eso ya se inventó?
+
+El lector "Greg" señala que quizás mi alarma ante las operaciones de la Oficina de Marcas y Patentes de los Estados Unidos -un tema que he machacado de vez en cuando en esta columna- no está más allá de consideración. Cuando ustedes leyeron esta reclamación a la que habían concedido patente, creo que tendrán que estar de acuerdo en que el receptor se las ingenió para confundir su solicitud disfrazándola con la inclusión de alguna tecnología superior; la patente podría haber sido fácilmente concedida a una linterna común que usa un paquete recargable de baterías que -cuando se descarga- puede ser reemplazado por otro paquete de baterías similar -cargado. ¡Eso es todo lo que la descripción está diciendo!
+
+Pero les permitiré decidir por ustedes mismos. Consulten la URL al final del tercer párrafo más adelante, y hagan clic en "TEXTO COMPLETO" en la esquina izquierda superior. Léanlo completa y cuidadosamente, y sustituyan "linterna" por "estroboscopio" y verán lo que quiero decir. Escribe el lector Greg:
+
+    He leído sus recientes comentarios sobre patentes con gran interés. Aunque estoy de acuerdo en que las patentes para cosas que son completamente imposibles son ridículas y no deben ser concedidas, no estoy seguro de querer que un inspector de patentes sea el que decide lo que viola o no las leyes de la física. El mismo Einstein era inspector de patentes, pero mi experiencia es que el examinador corriente no es Einstein. Sus conocimientos en ciencia son mediocres como máximo, y el trabajo de un inspector de patentes es asegurar que algo no haya sido ya patentado, y que sea efectivamente novedoso y no obvio.
+
+    Mientras las patentes para cosas que hacen tostadas pueden ser vistas como una broma perpetrada tanto por el solicitante como por el examinador, he estado tropezando con más y más patentes completamente sin ningún valor, y aquí es donde pienso que yacen los problemas más grandes. Por ejemplo, tome la US patente #6.945.666 (tiene que adorar los últimos tres dígitos... ¿la patente de Satanás?). Fue archivada en 2003 para proteger un dispositivo de iluminación con "paquete removible de baterías". ¡Ésa es la única invención alegada: un paquete removible de baterías, y fue concedida en 2005!
+
+    Piense en eso: bien dentro del siglo XXI, y la oficina de patentes de EE.UU. concedió protección para algo comúnmente disponible a nivel de ventas al por menor, por lo menos durante los 25 años anteriores, en forma de linternas, taladros y lo que sea. Las ilustraciones son de un valor incalculable: una obvia implementación de un paquete removible de baterías, como el fabricado por Black & Decker, Dewalt y muchos otros. Puede verlos en `la página de esta patente en el sitio de la oficina de patentes <http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&d=PALL&p=1&u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&r=1&f=G&l=50&s1=7,056,616.PN.&OS=PN/7,056,616&RS=PN/7,056,616>`__.
+
+    Mientras se puede argumentar que un inspector de patentes no está suficientemente experimentado para discutir los méritos de cuestiones esotéricas de ciencia, seguramente identificar esto como claramente obvio no debería superar sus habilidades. No puedo evitar pensar que el esfuerzo que el solicitante puso en esto habría sido mejor usado en el diseño de un producto...
+
+Estoy de acuerdo, Greg. Si no tenemos suficiente personal experimentado dentro de la Oficina de Patentes, ¿por qué no? ¿No es importante para nuestra economía y prestigio nacional que tratemos de evitar parecernos a niños que juegan con palabras? Ésta es una situación vergonzosa. Por favor, miren la descripción original y oficial de la Oficina de Patentes de este "invento" descrito por Greg:
+
+    1. Un estroboscopio portátil que comprende:
+
+    (A) una caja, dicha caja comprende una fuente de luz, circuitos de control, un visor y un mecanismo de control del usuario;
+
+    (B) un par de terminales de potencia de la caja ubicado dentro de dicha caja;
+
+    (C) por lo menos un paquete removible de potencia recargable configurado y dimensionado para insertarse en dicha caja, dicho paquete de potencia incluye una pluralidad de terminales de paquete de potencia que se acoplan a dichas terminales de potencia de la caja cuando dicho paquete de potencia es conectado a dicha caja; y
+
+    (D) unos medios para directamente recargar dicho paquete de potencia removible cuando dicho paquete de potencia removible es conectado a dicha caja y cuando es desconectado de dicha caja;
+
+    (E) dichos circuitos de control proveen un pulso de control para encender dicha fuente de luz en un ritmo constante y periódico;
+
+    (F) dicho visor indica un estado del paquete de potencia recargable y removible; y
+
+    (G) dicho mecanismo de control del usuario incluye los medios de accionar dicho pulso de control y medios adicionales para ajustar dicho ritmo periódico.
+
+Ahora usemos la misma redacción -algo modificada y simplificada- para describir una linterna básica que usa pilas secas recargables:
+
+    1. Una linterna portátil que comprende:
+
+    (A) una caja, dicha caja comprende una fuente de luz, y un interruptor encender / apagar;
+
+    (B) un par de terminales de potencia de la caja ubicadas dentro de dicha caja;
+
+    (C) por lo menos un paquete de potencia recargable y removible configurado y dimensionado para insertar dentro de dicha caja, dicho paquete de potencia incluye un par de terminales de paquete de potencia que se conectan a dichas terminales de potencia de la caja cuando dicho paquete de potencia es insertado en dicha caja;
+
+    (D) unos medios para directamente recargar dicho paquete de potencia removible cuando dicho paquete de potencia removible es insertado dicha caja y/o cuando es retirado de dicha caja;
+
+    (E) un par de terminales a las que puede ser aplicada la apropiada corriente de carga para recargar el paquete de potencia removible en la caja, dichas terminales son accesible desde el exterior de la caja para propósitos de recarga; y
+
+    (F) un visor que indica el estado del paquete de potencia recargable removible.
+
+A decir verdad, si aquí la simplificación fuera un factor deseable -una circunstancia improbable, ante la vista del amor a la redundancia y la repetición demostrado por los abogados especialistas en patentes- el "paquete de potencia recargable" podía convertirse en "pilas secas recargables", la "caja" podría ser "tubo", y "terminales de potencia de la caja" podrían ser "contactos de potencia". Veo que se especifica aquí que el "paquete de potencia recargable" debe ser "configurado y dimensionado" para que quepa en la caja. ¡Duh! ¿De qué otro modo podría ser insertado? ¿Por qué tiene que ser especificado ese hecho descaradamente obvio? Para sumar más palabras, y por lo tanto añadir confusión. Simplifiquemos esta descripción un poco más, sin perder ningún significado, sólo quitando las redundancias:
+
+    1. Una linterna portátil que comprende:
+
+    (A) un tubo de plástico que contiene un bulbo y un interruptor encendido / apagado;
+
+    (B) dos contactos de potencia ubicados dentro de dicho tubo;
+
+    (C) al menos un par de pilas secas recargables removibles para que quepan en el tubo;
+
+    (D) unos medios para directamente recargar dichas pilas secas cuando son insertadas en dicho tubo y/o cuando han sido quitadas;
+
+    (E) un par de contactos a los que se pueda aplicar la corriente de carga apropiada para recargar las pilas secas del tubo, dichas terminales son accesibles desde el exterior del tubo para ese propósito; y
+
+    (F) un visor que indica el estado de las pilas secas.
+
+A modo de explicación, estos números se refieren a los artículos en la ilustración:
+
+.. figure:: http://www.randi.org/images/commentary/200606/16mine.jpg
+   :alt:
+   :figwidth: 516
+
+   Cómo se vería mi invento en los papeles de la patente
+
+| 14 Receptáculo para el paquete de baterías
+| 22 Paquete de baterías
+| 26 Contactos para baterías
+| 30 Receptáculo para el enchufe del cargador
+| 32 Recargador para pilas secas
+| 36 Contactos para el bulbo de linterna
+| 38 Grapas para asegurar el paquete de baterías
+| 40 Clips para enganchar las grapas, 38
+| 41 Botón interruptor encendido / apagado
+
+En una fracción de las palabras de la descripción al estilo de la Oficina de Patentes, he definido sucinta y adecuadamente una linterna que usa pilas secas recargables -y esa definición cubre la "invención" descrita en la patente #6.945.666. Como Greg señala, la idea de tener pilas secas recargables -o un paquete de potencia- que puedan ser cambiadas rápidamente por otras para no causar excesiva demora durante una situación de emergencia, es algo vieja. Las células eléctricas recargables han estado por aquí desde 1880, y la célula "seca" recargable desde 1950. En mi opinión, esta patente no es nueva, ni novedosa, ni ingeniosa, ni deja de ser obvia. El "inventor" ha obtenido una patente sobre la idea de usar baterías o paquetes de potencia recargables aplicados a un estroboscopio; mi idea, arriba, es usar baterías o paquetes de potencia recargables en una linterna... ¡o en cualquier otro dispositivo!
+
+
+De pasada
+.........
+
+La Saga de Uri Geller -¿lo recuerdan?- continúa adelante. A mediados de mayo, aparentemente pensaba que su triunvirato de gente adinerada había comprado, vía subasta en eBay, una antigua residencia de Elvis Presley, en Menfis. Entonces, fue anunciado que en realidad la había comprado otra persona, y que el grupo inversionista estaba excluido. Eso es extraño, porque cuando la puja en eBay fue cerrada, Geller expresó su satisfacción por la decisión, y anunció al Pravda News Service cómo sus poderes psíquicos -con la ayuda personal del difunto Elvis- le habían asegurado que sus inversionistas tendrían éxito. Dijo Pravda:
+
+    La celebridad psíquica Uri Geller dijo que recibió una señal de Elvis Presley, y el mensaje era fuerte y claro: "No te preocupes, tú tendrás mi casa".
+
+    Geller, que tenía la oferta ganadora de $905.100 para una casa donde Presley vivía cuando su carrera estaba tomando vuelo, dijo que estaba viajando a Londres en el momento del cierre de la subasta de eBay el domingo cuando la radio empezó a pasar, "Love Me Tender".
+
+    Dijo que entonces supo que era un trato hecho...
+
+Él había fijado un precio máximo de $ US1,11 millones, dijo Geller, que reconoce una fascinación paranormal con el número 11.
+
+    "Mientras el reloj cerraba la licitación ayer", dijo Geller, "sentí intuitivamente que tenía el precio. Le enviaba un mensaje de texto a Gleason [uno de los inversionistas] y era exactamente 11 en mi teléfono móvil y de repente la radio empezó a pasar una canción de Elvis. ¡Ése era Elvis diciéndome que teníamos la casa!"
+
+Les pregunto a ustedes, amigos, con tales pruebas fehacientes, ¿cómo podía nadie estar más seguro? Pensando que su grupo ahora estaba libre para explotar la compra, Geller anunció que iban a abrir un museo de maravillas paranormales en la casa. ¿Dijo qué? ¿Acaso esta persona extraña realmente creyó que la ciudad le daría un permiso alguna vez para permitir que unos autobuses llenos de turistas -atraídos por el nombre de Presley y por las cosas fantasiosas de adentro- anden paseando alrededor de esta zona residencial tan elegante? Esa idea estaba condenada al fracaso desde el mismo comienzo, ¡de modo que tal vez los actuales contratiempos sean en realidad a favor del grupo inversionista de Geller!
+
+Vaya con los números de suerte y la ayuda fantasmal, Sr. Geller. ¡Saque esas cartas del tarot y un péndulo, para adivinar qué salió mal!
+
+Geller, como era de esperar, ahora está rugiendo que este grupo inversionista demandará a eBay -por supuesto. Sus posibilidades de ganar una demanda judicial son tan buenas como de conseguir ese permiso atrapa-turistas. En mi opinión, deberían haber consultado con un psíquico profesional antes de meterse en este alboroto...
+
+La propietaria, Cindy Hazen, dice que las dos partes no pudieron llegar a un acuerdo sobre el contrato porque Geller y uno de sus socios, el abogado de Nueva York Peter Gleason, modificaron de repente los términos del trato de tal manera de que se volvió inaceptable para los vendedores. Cuando no escuchó respuesta del mago israelí de nacimiento durante dos semanas respecto a las alteraciones del contrato, optó por venderle la casa a Mike Curb, fundador de Curb Records de Nashville y famoso filántropo.
+
+Y, como nuestro lector del Reino Unido, Andrew Molloy observa:
+
+    Habría pensado que Uri les estaría enviando vibraciones positivas a los vendedores para cambiar sus mentes antes que recurrir a entablar una demanda en cada oportunidad disponible.
+
+Ah, pero no conoce a Geller, Andrew. Tanto tiempo atrás como 1994, la corte federal de apelaciones en Washington citó la historia litigiosa de Geller, y aunque ahora tendría dificultades para conseguir que algún juez acepte un juicio civil que él iniciara en este país, continúa agitándose desenfrenadamente, amenazando con acciones legales -generalmente vía cartas enviadas por su cuñado- contra los que se atrevan a herir de cualquier manera sus sensibilidades finamente afinadas. Ahora que dice, en nombre su grupo de aspirantes a inversionistas, "Estamos absoluta y alucinantemente enfadados", parece que para mantener este perfil furioso, tendrá que hacer que su cuñado haga ruidos legales que suenen más grandes, o el grupo podría incluso poner un abogado en acción.
+
+El lector Larry Thornton comenta:
+
+    Apenas podíamos imaginar a Geller con un "juguete" así [la casa de Presley] sin que la cubra con su propio ego por todos lados. Como tal vez una cartelera gigante en el frente con su cara como propietario, o una gran foto de él doblando una cuchara delante del asombrado Rey del Rock and Roll. Y por supuesto dejaría que se sepa que él y Elvis habían sido "amigos personales íntimos".
+
+    Esto es sólo otro ejemplo de Geller tratando de inflar más su imagen por asociación con otros más famosos que él. Noten cómo parloteó con Michael Jackson, y se hizo muy visible alrededor de la caja de vidrio de David Blaine en Inglaterra...
+
+Larry, el Sr. Geller ahora más bien se ha distanciado de Michael, y le negaron el acceso a David siguiendo ese acto desatinado de la caja en el aire...
+
+.. figure:: http://www.randi.org/images/commentary/200606/16partners.jpg
+   :alt:
+   :figwidth: 304
+
+   ¿Duelo con elección de varitas mágicas a veinte pasos?
+
+La más reciente declaración de Geller sobre el tema parece indicar que incluso se ha distanciado aun más de la realidad, si eso es posible. La semana pasada, le dijo a un periódico local de Menfis:
+
+    Si tengo que hacerlo, llevaré esto a la corte suprema. Si tengo que hacerlo, llevaré esto hasta el Papa.
+
+Duh. ¿Desde cuándo -en este siglo, por lo menos- Su Santidad ha servido como moderador en disputas de propiedad?
+
+Finalmente, Geller está optando por Johnny Depp para tenerlo en una biografía que fantasea estará apareciendo. Ahora les pregunto, ¿dónde están Federico Fellini y Jonathan Swift cuando uno realmente los necesita...?
+
+
+Noticias calientes
+..................
+
+Mientras estamos sobre el tema, acaba de aparecer un anuncio normal de una agencia de noticias calientes sobre el interés que dicen ha mostrado Peter Jackson, director de El Señor de los Anillos, con respecto a la novela de Uri Geller de 1998, "Ella". Buscando para ver por qué no había visto ni escuchado sobre esta epopeya, encontré una reseña en el Jerusalem Post que nos dice lo que necesitamos saber sobre los esfuerzos literarios del Sr. Geller. Bajo el encabezado "ELLA: UN THRILLER PSÍQUICO", dice -éstos son pasajes:
+
+    Sea lo que sea este libro, un thriller no es... Hay 340 páginas en Ella, pero hasta que se esfuma en el espacio después de tirarse desde la cima del Monte Sinaí, no sabemos nada sobre sus ideas más íntimas, sueños, fantasías, ambiciones -y todas las otras cualidades con las que cualquier novelista digno del pan que se gana colorea el personaje principal. Es incluso furtivamente sugerido que ella podría haberse convertido en un ángel, o tal vez llevada hacia el cielo por mensajeros de Dios... Ella puede levitar y sostenerse en el aire encima de su cama o silla por largos períodos. Unos ángeles con pelo plateado aparecen ante ella. Las luces en la casa de su familia de trabajadores se prenden y apagan inexplicablemente. Parece ser indirectamente responsable cuando las botellas de ginebra de su madre se desintegran en mil pedazos en sus escondites secretos por toda la casa. Los cierres de las bolsas se atascan o se abren solos. Se escuchan misteriosos estampidos alrededor de las orejas de su familia. Las ventanas se hacen añicos de repente sin razón cuando uno tiene la impresión de que está tratando de atraer la atención. Puede desaparecer y aparecer en otra habitación... Lleva a cabo actos de levitación a voluntad para los fotógrafos... Su hermano menor, que está quedando ciego y a punto de morir de cáncer cerebral, se recupera milagrosamente. Durante la noche el gran crecimiento canceroso desaparece. Puede ver otra vez. Está curado totalmente. Miles de casos similares son informados por todo el mundo... Ella vuela al desierto de Sinaí, cerca del monasterio de St. Catherine. Aquí, supuestamente donde Moisés y los israelitas caminaron, de repente levita -permanentemente al parecer. Sus partidarios la atan con una soga al suelo, en caso de que se esfume en el espacio como un globo cargado con gas...
+
+    ¿Pero qué está tratando de endosarnos Uri Geller? Nos dieron una pista del verdadero motivo de Uri Geller para escribir este libro. Su nombre salta cada vez que uno pasa una página. Toda la cosa huele a la máxima caricia para el ego.
+
+Si este evento alguna vez ocurre -y hasta ahora es sólo un comunicado de prensa- los potenciales inversionistas podrían querer rastrear "Mindbender", una película de 1996 sobre Geller que no fue a ningún lugar. Una reseña de 2003 de esta película en Internet por Richard Scheib decía -otra vez pasajes:
+
+    La estrella de [el director Ken] Russell ha caído de manera considerable y había luchado por el reconocimiento que una vez tuvo y fue eventualmente forzado a asumir un corto trabajo de bajo presupuesto como éste... la seria intención del esfuerzo parece ser luchar contra con las proclividades características de Russell a convertir todo eso en una casa de locos de exageración lunática... Y cuando llega la escena en la casa de Terence Stamp con Geller teleportando perros y moviendo pelotas de tenis y juguetes a cuerda, uno no está seguro de si se espera que uno lo tome con alguna seriedad en absoluto. Hay una escena histéricamente horrible fuera de un casino (que se parece sospechosamente a una piscina junto a una mansión) donde la puerta de la limusina de Geller es arrancada por una tormenta psíquica, el dinero que acaba de ganar en una mesa de juego vuela por todos lados y Geller empieza a dar vueltas en el aire, todo porque supuestamente usó sus poderes para beneficio personal. Incluso más graciosa es la escena donde Geller escapa de la custodia militar, que se ve más como una continuación de *Scanners* que algo que intenta ser una biografía seria. Aquí, Geller escapa del laboratorio, usa sus poderes para dejar sin sentido a soldados y científicos, doblando las armas de fuego que apuntan hacia él y las puertas en su camino, mientras al mismo tiempo conduce un automóvil con un casco de privación sensorial que le cubre los ojos, y conduce psíquicamente, antes de teleportarse finalmente a la sala de Stamp, aterrizando sobre el sofá y preguntando despreocupadamente, "¿Llego tarde para el almuerzo?"
+
+    Es la clase de escena que tiene un premio garantizado en cualquier futura colección de escenas cinematográficas realmente malas hasta el punto de la risa. *Mindbender* se hunde hasta un nivel de verdadera ineptitud. Es una película completamente ridícula en casi cada uno de sus aspectos. En unos pocos años probablemente va a ser revivida y juzgada digna del estado de Pavo de Oro.
+
+Bien, eso es mejor que lo que ha hecho hasta ahora. Los premios Pavo de Oro se originaron en un libro de 1980 del crítico de cine Michael Medved y su hermano Harry. Los premios eran asignados a las películas que los Medved encontraban de mala calidad, y a los directores y a actores que consideraban haber creado una obra crónicamente inepta y casi exclusivamente se adjudiaba a películas oscuras de bajo presupuesto y películas sensacionalistas. Pero la opinión de Geller sobre Mindbender es más comprensiva, como podíamos esperar. Dice, "Es el momento de una película seria. La versión de Ken Russell fue grandiosa pero muy exagerada". ¿La vida de Geller *exagerada*\ ? ¡Imposible!
+
+
+Alguna verdad de hace mucho tiempo
+..................................
+
+El lector Brian Miller ha encontrado algunas opiniones escépticas muy antiguas que merecen atención. Cita de un vasto documento escrito por Meera Nanda, una bien conocida escritora india:
+
+    .. image:: http://www.randi.org/images/commentary/200606/16nanda.jpg
+       :alt:
+       :align: right
+
+    *"Charaka Samhita"*, el antiguo libro de texto de Ayurveda (siglo II o III a.C.), no mide las palabras cuando se trata del tema de los curanderos. Charaka, el legendario sanador de la India antigua y editor del (compendio) Samhita que tiene su nombre, los llama "impostores que llevan la vestimenta de médicos... [que] recorren la tierra como mensajeros de muerte". Estos falsos médicos son "indoctos en escrituras, experiencia y conocimiento de operaciones curativas... pero les gusta jactarse de sus destrezas delante del que no tiene educación...". Los pacientes sabios, aconseja Charaka, "deberían evitar siempre a esos hombres tontos con una apariencia de saber... son como serpientes viviendo en el aire".
+
+    .. image:: http://www.randi.org/images/commentary/200606/16swami.jpg
+       :alt:
+       :align: right
+
+    Estas palabras, escritas hace más de dos mil años, traen a la mente a los que les gusta jugar al doctor en la TV india estos días. El más famoso de todos, Swami Ramdev, reparte consejo médico a millones de indios que sintonizan su programa de televisión, asisten a sus campamentos de yoga y compran sus drogas de Ayurveda. Ofrece "cura completa", "en semanas, si no en días", de "enfermedades desde la A a la Z", desde "resfrío común hasta el cáncer", incluyendo cólera, diabetes, glaucoma, enfermedad cardiaca, enfermedad renal, lepra, enfermedad hepática... y así sucesivamente. Prácticamente no hay nada que su método de Divya Yoga, solo o en combinación con sus formulaciones de Ayurveda, no prometa curar. Y todas sus curas "milagrosas" no son simplemente "confirmadas por la ciencia", sino que son, efectivamente, "ciencia en su forma más pura". Todas las citas son del sitio web oficial de Swami Ramdev. El swami no es el único en hacer tales afirmaciones fantásticas. El yoga y el Ayurveda están siendo masivamente comercializados a la creciente clase media de India, como nunca antes. El hecho de poner un "espectáculo de aprendizaje", "usando la vestimenta" de sanadores y científicos, parecer mejorar el tono de las ventas..."
+
+El texto completo de la Sra. Nanda puede ser visto en http://www.butterfliesandwheels.com/printer_friendly.php?num=190. Allí, todos ustedes encontrarán un relato instructivo sobre qué es realmente la medicina de Ayurveda, y cómo está en conflicto directo con lo que sabemos sobre la fisiología del cuerpo humano, y cómo tratar las dolencias. Mientras esta objeción a los curanderos expresada arriba puede ser apreciada, tengan en mente que todo el sistema Ayurveda es en sí mismo un vestigio de nociones medievales de cómo funciona el cuerpo. La filosofía "Védica" sobre la que se basa reconoce aire, tierra, fuego y agua como elementos, y atribuye la mayoría de las enfermedades y mala suerte a aspectos astrológicos, demonios, y diablos.
+
+Lo que estamos viendo aquí es que Charaka -quien inocentemente mal informaba a los de ese tiempo- advertía a los lectores de los *otros* curanderos...
+
+
+Un gran progreso en Australia
+.............................
+
+El lector australiano Corey Watts informa:
+
+    .. image:: http://www.randi.org/images/commentary/200606/16health.jpg
+       :alt:
+       :align: right
+
+    Con tanta basura que se ofrece a un público ávido, cada ejemplo de racionalidad es motivo de celebración. En el programa nacional sobre asuntos actuales "Today-Tonight", en una historia del 26 de mayo de 2006 sobre el curanderismo, el ministro de salud John Hatzistergos dijo:
+
+        Es muy penoso que miembros de la comunidad hayan sido aprovechados por estos "mercaderes de la miseria". Lo que estamos haciendo es presentar leyes que son las primeras de su clase en Australia, y estas leyes permitirán que la Health Care Complaints Commission [comisión de quejas de atención de salud] no sólo publique el nombre y deshonre a esas personas que comercian con las vulnerabilidades de los miembros angustiados de nuestra comunidad, sino que también permitirán que la comisión los saque del negocio. Lo que decimos a estas personas (las víctimas) es estamos haciendo todo lo posible para identificar a esos individuos que las explotaron y evitar que exploten a otras personas en circunstancias similares.
+
+    El curandero protagonista era Paul Herritt, que afirmaba curar pulmón, hígado y cáncer de hueso con una mezcolanza de polvos y medicinas chinas que les costaron miles de dólares a sus víctimas. Tiene condenas por fraude de impuestos y robo a mano armada, y ha cumplido una condena en la cárcel. Se ha hecho pasar como un bioquímico y un científico de la NASA. La investigación de la comisión descubrió que 17 pacientes (víctimas) murieron bajo su "cuidado".
+
+    En Australia tenemos más de 10.000 personas anotadas como "Especialistas en Terapias Alternativas", y la industria gana A$2 mil millones. "Today-Tonight" resumió a este curandero con una descripción muy apropiada: "charlatán, mentiroso, ladrón, y fraude".
+
+    Una victoria totalmente extraordinaria para los escépticos.
+
+De acuerdo, Corey, y el lector Kyle Smith añade:
+
+    Estaba mirando un programa de asuntos actuales (Channel 7, Sydney) esta noche llamado "Today-Tonight". Detalló ciertos curanderos que habían aliviado al enfermo y murieron, y a sus familias de dinero, con la promesa de una cura al SIDA, cáncer, etcétera. El relato acostumbrado.
+
+    De todos modos, aparentemente un ministro de salud del gobierno está pensando proponer una legislación mediante la cual estos "curanderos", el gobierno debería recibir quejas sobre ellos, pueden ser nombrados y "deshonrados" públicamente, y, además, aplicarles cargos penales. Aunque no tengo completas esperanzas de que la legislación alguna vez se pondrá en efecto, es por lo menos un paso en la dirección correcta, ¿no estaría usted de acuerdo?
+
+Sí, Kyle, estoy de acuerdo, pero comparto su duda de que tal legislación pueda pasar. También, como se opone a creencias firmemente fanáticas, no es forma de obtener votos...
+
+
+Aykroyd en el límite
+....................
+
+.. image:: http://www.randi.org/images/commentary/200606/16aykroyd.jpg
+   :alt:
+   :align: right
+
+Del lector John Banghart:
+
+    Mientras he disfrutado los esfuerzos cómicos de Dan Aykroyd a lo largo de los años, la información en este artículo sugiere con énfasis que debería seguir con su medio original: **[N. del E.: enlace removido, la noticia ya no está accesible.]** Esta cita hizo que mi té helado casi me saliera por la nariz:
+
+        Aykroyd dijo que ha tenido dos encuentros personales con lo desconocido. Uno ocurrió sobre Martha's Vineyard, dijo, donde divisó "brillantes discos de magnesio a gran altitud, viajando a 20.000 millas por hora a 100.000 pies (30.480 metros)... de ala a ala, de borde a borde".
+
+    Aparentemente, Dan tiene poderes de percepción que pueden calificar para el desafío del millón de dólares. A menos que alguien pueda explicar cómo a simple vista puede determinar cosas como "magnesio, 20.000 mph, y 100.000 pies", voy a suponer que sólo lo está inventando. No me molestaré en comentar sobre el resto del artículo, cuando es tan absurdo.
+
+¿Dan estaba viendo algunos "discos" a una distancia de 19 millas, y con todo podía ver que estaban hechos de magnesio? ¡Demonios! ¡Esa es una visión realmente poderosa! Debo decirles que incluso a 30 cm de distancia, ¡yo podría fácilmente confundir aluminio con magnesio! El lector John Swierkosz, que con orgullo anuncia que es un "Técnico en Ingeniería", de modo que no jueguen con él, comparte esta historia de Dan Aykroyd con nosotros:
+
+    Encontré su sitio web recientemente y sentí la necesidad de decirle cuánto lo disfruto. Soy prácticamente un escéptico nato, y disfruté especialmente la lectura de sus archivos. Pensé que usted podría disfrutar esta historia:
+
+    Hace muchos años, estaba observando una charla show cuyo invitado protagonista era Dan Aykroyd. Estaba promocionando la película Cazafantasmas. En un momento contó una historia graciosa sobre una fotografía que había llevado al espectáculo. La fotografía era de un anciano y había una mancha de alguna clase en el área de fondo. Dijo que el hombre era su abuelo, y que la mancha era un "fenómeno inexplicable". Entonces dijo que "la parte espeluznante es que 3 años después de que la fotografía fuera tomada, se cayó muerto inexplicablemente -y estamos hablando de un hombre de 86 años perfectamente sano". Yo pensé que eso era muy gracioso.
+
+    Algún tiempo después, un grupo de fantasiosos (adoro ese término) con que trabajaba, tenía una conversación sobre fantasmas o alguna tontería similar. Pensé que podría hacerles reír contando una versión de la historia de Aykroyd, como si le hubiera pasado a mi propio abuelo. Incluso la adorné poniendo la muerte cinco [#cinco]_ años después, a los 93 años de edad. Ante mi completo asombro, nadie se rió y una dama dijo, "Esa clase de cosas realmente me sorprenden", ¡y el resto asintió de acuerdo!
+
+    Qué fastidio.
+
+Sí, John, qué fastidio. Debemos recordar que esta gente -incluyendo a Dan Aykroyd- también votan...
+
+.. [#cinco] Así en el original. Sin embargo, entre 86 y 93 hay 7 años [N. del E.]
+
+
+Intervención (a)divina
+......................
+
+Parece que la fiebre de buscar con una varilla de zahorí -la que siempre ha sido una ilusión popular en el Reino Unido- está recibiendo aún más atención allí. El lector Ross van Gogh del Reino Unido:
+
+    He aquí una visión poco habitual:
+
+    Vivo en un pequeño pueblo en el nordeste de Inglaterra. Esto no tiene trascendencia en la historia, sólo estoy tratando de describir la escena. Es un lugar tranquilo, todo el mundo se conoce, etcétera, usted entiende la idea.
+
+    De todos modos vi unos ingenieros trabajando el camino, eran de la compañía de agua, buscando pérdidas, haciendo reparaciones de rutina, pero, y éste es un gran "pero", ¿qué imagina que estaban usando para buscar las cañerías? ¿Un mapa? Usted creería que sí, pero no, nada tan sencillo o sensato; estaban usando, ahora prepárese, varillas de zahorí.
+
+    No, de veras, no le estoy tomando el pelo, VARILLAS DE ZAHORÍ.
+
+    Quedé tan pasmado que olvidé mi pensamiento crítico y no paré a hacer preguntas, también estaba deprisa para coger un autobús. No tengo perdón, una perfecta oportunidad desaprovechada. Me disculpo y prometo hacerlo mejor en otro momento.
+
+Y, un lector anónimo del Reino Unido nos dice:
+
+    En el Reino Unido, el largo y caluroso verano de 1976 siempre se menciona cada vez que en algún verano el tiempo permanece caluroso más de un fin de semana. No recuerdo ese verano en particular, ya que no nací hasta fines del 76, pero he escuchado relatos de tubos de bombeo a presión al final de la calle, jardines arruinados y la prohibición de usar mangueras.
+
+    Por ser una nación de jardineros usted puede comprender por qué tal cosa quedó grabada en la conciencia británica. Este año no es diferente: mientras que llueve a cántaros al norte, los del sur otra vez temen lo peor. Las temidas prohibiciones de mangueras han impactado a algunas áreas del sur, con muchas más por seguir (de acuerdo con informes periodísticos).
+
+    Naturalmente, a alguien hay que echarle la culpa de esto, y quién más merecedor que las varias compañías de agua privatizadas. Esta culpa no es infundada, con una estimación de 3600 millones de litros de agua perdida (presumiblemente debido a pérdidas, no extraviada en algún lugar) diariamente entre las grandes compañías de agua. De modo que, ¿cuál es la respuesta de Southern Water? Adivinó, traer adivinos de agua.
+
+    Esto fue informado en un crédulo artículo del ejemplar del sábado 20 de mayo de 2006 del Daily Mail (un periodicucho conocido por su credulidad). El artículo fue escrito por un Danny Penman. Busqué en Google este nombre y encontré un Dr. Danny Penman, psicólogo y periodista, que estaba convencido del poder de la médium Sally Morgan. De modo que, si éste es el mismo Danny Penman, no es exactamente lo que uno llamaría un escéptico.
+
+    El artículo propugnaba las virtudes de buscar con una varilla de zahorí, basado en la riqueza en petróleo, oro y joyas encontradas vía su utilización. Se mencionaba el apoyo de Uri Geller al tema, y cómo lo usó para encontrar millones en petróleo (de modo que debe haber algo en esto después de todo). Lo que faltaba en todo el artículo de dos páginas era una explicación del efecto de ideomotor, o cualquier cosa remotamente escéptica sobre la práctica empleada por los trabajadores de Southern Water.
+
+    De todos modos, pensé que le permitiría saber cómo nosotros en el Reino Unido nos las arreglamos con la escasez de agua. ¿No es ninguna verdadera sorpresa, verdad? En un país que se está volviendo cada vez más obsesionado con lo místico (sobre la base de lo que nos vomitan continuamente la radio, la TV y los periódicos), me sorprendería si algo aparte de una varilla de zahorí fuera utilizado para solucionar la escasez de agua.
+
+    Muchas gracias por el trabajo que todos ustedes hacen en la |JREF|; usted es realmente una vela en la oscuridad.
+
+¿Que Geller "lo usó para encontrar millones en petróleo", dice? Bien, ésa era su afirmación, pero también dijo que debido a que era un contrato secreto, no podía revelar quién era el cliente con suerte. Conveniente... En mi opinión, usando una varilla de zahorí, Geller no podría encontrar una bola de bolos en una bañera aunque la bola estuviera ardiendo -tomando prestada la expresión de un jefe de policía que una vez me informó su evaluación de las destrezas de la "psíquica" Dorothy Allison...
+
+Grados de fe
+............
+
+Quedándose en el Reino Unido, el lector Ian MacMillan nos envía una noticia, seguida por sus comentarios sobre ella:
+
+    Más de la mitad de los britanos creen en poderes psíquicos como leer la mente y premoniciones, sugiere una encuesta. De los 1.006 adultos encuestados por la Readers Digest Magazine, el 43% informó leer los pensamientos de otros o que les leían los suyos. Más de la mitad había tenido un sueño o premonición de un evento antes de que ocurriera y el 26% dijo que habían sentido cuando un ser querido estaba enfermo o en un aprieto. Un quinto dijo que había visto un fantasma y el 29% creía que las experiencias cercanas a la muerte eran pruebas de que había una vida después de la muerte. De los encuestados, el 43% afirmó haber tocado los pensamientos de otras personas o que sus propias mentes habían sido leídas por otra persona. Más de los dos tercios dijeron que podían sentir cuando alguien los estaba mirando y el 62% podía decir quién estaba telefoneando antes de contestar la llamada. Más del 10% pensaba que podía influir en maquinaria o equipo electrónico usando la mente. Uno de cada 10 dijo que algo malo le había pasado a otra persona después de haber deseado que ocurra. Las mujeres eran más propensas a creer en lo paranormal que los hombres, aunque el 53% de los varones dijo que a veces sabía quién estaba telefoneando antes de contestar la llamada y el 45% había experimentado un sueño o premonición antes de un evento.
+
+    A pesar de la gran cantidad que decía que había experimentado tales fenómenos, sólo el 9% los describía como psíquicos. Las personas más viejas eran más propensas a creer en lo paranormal, con el 74% de 55 a 64 años que dijeron que pensaban que los poderes psíquicos eran posibles, comparado con el 52% de 18 a 24 años.
+
+    Simon Bacon, conferenciante en el College of Psychic Studies de Londres y un médium practicante, dijo:
+
+        Cuando usted dice psíquico, muchas personas tienen una imagen de una anciana con túnica y una bola de cristal. No se asocian a ellos mismos con eso.
+
+¿Entonces qué imagen debemos conjurar (el chiste es deliberado), Simon? ¿Un oportunista de edad madura sin otros medios de sostén, que ha asistido al College of Psychic Studies y aprendió cuán fácilmente puede ganarse la vida emitiendo malas conjeturas y generalidades para personas vulnerables que necesitan alguna ayuda y atención para hacer que sus vidas parezcan más fáciles temporalmente, pero que se conformarán con cualquier estafa?
+
+    Padraig Reidy, asistente editor de la revista New Humanist, publicada por la Rationalist Society, dijo que la idea de que las personas pudieran poseer poderes psíquicos era "basura". Dijo:
+
+        La mayoría de las personas encuentran médium, psíquicos y esas personas en la feria y mientras sea un espectáculo está bien, pero cuando empiezan a gobernar sus vidas con eso, es otra cosa muy distinta.
+
+    Él le dijo a la BBC News que la fe en muchos tipos de poderes psíquicos provenía de un deseo de control:
+
+        Implica que deseamos que haya alguna influencia que podamos explotar. Es oponerse contra la aleatoriedad de las cosas.
+
+    Dijo que era fácil recordar un evento con visión retrospectiva y decir, "Sabía que eso iba a ocurrir", y añadió:
+
+        A veces las personas que dicen, "Sabía que algo malo ocurriría" son sólo preocupadas empedernidas de todos modos, y les complace que finalmente se demuestre que tenían razón.
+
+    Un portavoz de la Iglesia de Inglaterra dijo que no era el tipo de tema sobre el que la iglesia podía comentar.
+
+Portavoz astuto; la Iglesia sólo se ocupa de espíritus, el Cielo, la transfiguración, la infestación demoníaca, la curación por la oración, los ángeles de la guarda, el Infierno, los milagros y otros hechos indiscutibles, ¿no? Ian comenta:
+
+    No hay nada muy nuevo aquí, pero plantea una pregunta interesante. ¿Alguna vez llegará el día en que las personas no crean en los poderes psíquicos, o está arraigado demasiado profundamente en la naturaleza humana para ser erradicado jamás? Desde el boom psíquico a comienzos de 1970, el interés de la ciencia convencional en evaluar a los psíquicos ha mermado, pero la creencia pública permanece intacta. ¿Qué deberían hacer los escépticos en respuesta a esto? ¿Decir las mismas cosas hasta que se pongan azules, o es mejor usar el tiempo en áreas donde es posible hacer una verdadera diferencia? A esto se lo llamó principio de selección, ya que un médico en un campo de batalla puede tener que decidir cuál de dos pacientes tratar primero e ignorar al otro incluso si significa que el otro morirá. Discutir con sanadores con cristales, etcétera, es seguramente una de las ocupaciones menos rentables de la vida me he prometido no meterme demasiado en esta área cuando hay tantas otras cosas que hacer. Es por eso que me considero un escéptico con una "e" pequeña en vez de una "E" mayúscula. Las mismas cosas todavía me frustran, pero a veces las cosas tienen que ser aceptadas como son, incluso cuando son insatisfactorias.
+
+De acuerdo, y está esa lluvia maldita. Pero podemos entrar, o llevar un paraguas. Contra la ingenuidad humana, hay muy poca protección...
+
+
+Objetos corrientes no identificados
+...................................
+
+El lector Peter Wohlmut de Santa Fe, Nuevo México, aporta esto:
+
+    Su reciente historia respecto a los OVNIs me recordó una historia que mi antiguo jefe, Luis Álvarez -ganador del Premio Nobel- me contó una vez. Estaba en una comisión del gobierno que investigaba los avistajes de OVNIs durante los mejores años de esa era. Había un conjunto sumamente bien documentado de observaciones en el Salt Lake en Utah, donde un oficial del Ejército vio un grupo de OVNIs volando en formación sobre el lago. Con buena presencia de ánimo, apuntó su cámara de 8 mm y grabó sus maniobras sin cambiar de lugar la cámara, calibró la lente tomando una torre de radio cercana, y envió la cámara y la película a las autoridades.
+
+    Unos expertos presentaron un informe final a la comisión llegando a la conclusión de que efectivamente debían haber sido OVNI volando en formación, y dieron resultados respecto a las imposibles G-fuerzas involucradas en las maniobras, y las extraordinariamente altas velocidades obtenidas. Luis echó un vistazo a la película y dijo: "No sé del resto de ustedes, pero vengo del área de la bahía de San Francisco, y me parecen gaviotas".
+
+    Se escuchó un indignado grito de "¿Gaviotas en Utah?", hasta que el grupo lo pensó. Está todo dicho.
+
+    Pienso que el episodio muestra cómo algunos científicos están muy sometidos a la desinformación (intencional o no). Ya que las películas originales fueron tomadas por un respetable oficial del ejército con experiencia en películas y que siguió todos los procedimientos para una rigurosa documentación, pudieron ignorar lo obvio y concentrarse en lo improbable.
+
+
+Garantía
+........
+
+Leyendo una historia del Daily Mail, el corresponsal John Atkinson del Reino Unido sintió que debía expresar su consternación porque su compañía de agua local parecía estar usando la técnica de la varilla de zahorí. Escribió a la compañía, y recibió esta respuesta:
+
+    Gracias por su correo electrónico del 21 de mayo de 2006 con respecto a las pérdidas de agua y los métodos de detección.
+
+    Puedo confirmar que Basil Frostick es un empleado de Southern Water y el Daily Mail le preguntó sobre la varilla de zahorí. Respondió que la compañía ofrecía demostraciones a sus clientes en jornadas a puertas abiertas en la reserva de agua Bewl. La afirmación de que "casi todo el equipo de detección de pérdidas de Southern Water ahora utiliza varillas de zahorí" no es, como usted sugirió, un verdadero reflejo de lo que en realidad ocurre.
+
+    Southern Water y todas las otras compañías de agua en Inglaterra y Gales utilizan lo que se considera la mejor práctica para la detección de pérdidas, por ejemplo, medidores de distrito, correlatores de sonidos de pérdidas, hidrófonos, varillas resonantes y definitivamente no varillas de zahorí.
+
+    Espero que encuentre provechosa esta respuesta.
+
+"Definitivamente no varillas de zahorí". Uno espera que esta declaración pueda recibir circulación más amplia...
+
+
+Pensamiento crítico en España
+.............................
+
+.. image:: ..\arp-grande.jpg
+   :alt:
+   :align: right
+
+Desde hace 21 años, la Sociedad para el Avance del Pensamiento Crítico (ARP-SAPC) ha trabajado largamente en España, con su publicación trimestral "El Escéptico" y la promoción de cursos en la universidad, conferencias, y talleres. Uno de sus principales portavoces ha sido su Director Ejecutivo, el astrofísico Javier Armentia, que es también el director del hermoso Planetario de Pamplona, donde una vez dicté una conferencia.
+
+Acabamos de recibir en la |JREF| un juego de tres libros que promete ser parte de un conjunto mayor de ocho sobre varios timos paranormales, médicos y religiosos. Lo que es más importante es que esta serie será el primer conjunto de tales libros editados y producidos en España. Uno de mis propios libros, "Flim-Flam", fue publicado -como "Fraudes Paranormales"- en España -y en español- en 1994 por Tikal, y aunque recibí unas 3 ó 4 copias por correo para autografiar, no tengo idea si se hizo otra edición.
+
+Todo eso me recuerda que ése es mi único libro traducido al español (excepto uno menor sobre trucos de magia) ¡y esta falta debe ser resuelta! ¡Editoriales españolas, tomen nota! ¡He sido traducido al braille / inglés, chino, francés, alemán, italiano, japonés, coreano, noruego, polaco, y punjabi, pero sólo un libro al español...!
+
+Los primeros tres libros de ARP-SAPC -sobre creacionismo, OVNI, y el sudario de Turín- están ahora en el mercado, y será de gran interés seguir las ventas, aunque me dicen que ya ha sido planificada una segunda edición. España es un país muy religioso y tradicional, y cuando di charlas allí -bajo la dirección de Javier- descubrí que cualquier cosa que tendía a poner en duda los temas religiosos, no era para nada bien recibida. Los futuros temas a ser manejados por APR-SAPC serán casas encantadas, influencias lunares, acupuntura, homeopatía, arqueoastrología, Atlántida, y criptobiología -entre otros.
+
+¡En todo caso, felicitaciones para ARP-SAPC y Javier! Pueden saber más yendo a http://www.escepticos.org/ y también a http://www.laetoli.net/. Pueden contactarse con la organización escéptica en arp@arp-sapc.org.
+
+[La Sociedad para el Avance del Pensamiento Crítico da alojamiento a SinDioses.org (N. del E.)]
+
+Continuación
+............
+
+Luego de la discusión del "gas HHO" de la semana pasada, recibí algunas notas de lectores que señalaban el problema muy obvio y el gran peligro de almacenar la mezcla de gases obtenidos por la electrólisis del agua, y esas advertencias estaban bien fundamentadas, por supuesto. Un tanque o recinto que contiene una mezcla de dos partes de hidrógeno con una parte de oxígeno, sería literalmente una bomba lista para estallar. En mi artículo debería haber enfatizado que los que predican la doctrina del HHO, crean la mezcla *al momento de usarla*; no se lleva a cabo ningún almacenamiento de la mezcla -aparte de la que se hace para una contención transitoria. Esto es: electrólisis, mezcla, y quema inmediata, de modo que se mantiene la seguridad. Debería haberlo aclarado más.
+
+Cualquier tanque de "HHO" sería una bomba sensible y mortal a la que le pica explotar. El menor raspón sobre esa picazón... Piénselo. La atracción entre el hidrógeno y el oxígeno es uno de los hechos fundamentales de nuestro mundo -¡sólo mire toda esa agua ahí afuera! Esos pequeños y maravillosos átomos están muy listos a unirse para formar una unión estable, liberando energía mientras lo hacen -que se llama "combustión". Cuando la combustión ocurre con demasiada euforia, como tendería a hacer una sensible mezcla de gases ya-proporcionada como el "HHO", la llamamos "explosión".
+
+O, más correctamente, creo, "implosión", que puede ser igualmente excitante y ruidosa.
+
+No, múdense de cualquier vecindario donde alguien trate de almacenar tal mezcla, y no usarla a medida que es preparada...
+
+¡Mejor aún, corran...!
+
+
+Más uvas verdes
+...............
+
+La semana pasada ustedes vieron aquí mi respuesta a un extraño hombre que vende un disco de epoxi que, según dice, transforma el vino sólo por estar cerca de él. Pensé que ustedes deberían ver las razones que Robert Catania ha dado ahora para no aceptar el desafío de un millón de dólares. Este texto fue recibido por un lector que simplemente le dijo, "Me encantaría que aceptara el desafío de James Randi por un millón de dólares. Por lo menos usted podría probar que su producto funciona. Compraría uno entonces". Catania le respondió:
+
+    1. La razón por la que no [acepto el desafío] es que James no es un experto en vinos.
+
+Duh. ¿Por qué tengo que ser un experto en vinos, Bob? ¡Yo no estaría juzgando el vino, sería USTED y sus expertos! ¿Es usted tan torpe, o sólo finge?
+
+    2. Ya tengo recomendaciones y pruebas de personas mucho mejores en vinos. Vea la página de testimonios.
+
+¡Exactamente ése es mi punto! ¡Y esas "personas expertas en vinos" -cualquiera o todas ellas- también son elegibles para ganar el millón de dólares, Bob! ¿Les contará sobre esta maravillosa oportunidad? No lo creo...
+
+    3. Muy pronto recibiré información de catadura de fabricantes de vino. James sólo está en el negocio de desacreditar.
+
+Qué tiene que ver este comentario tonto con la razón por la que Catania está rechazando un millón de dólares, me supera...
+
+    4. No establecerá una prueba, sólo la acción para obtener la reacción y la solución que quiere. No participaré de ese despliegue y me niego a rebajarme o a someterme a sus modos.
+
+Hey, Robert, ¿tiene problemas de comprensión? ¡Yo no establezco la prueba, lo hace *usted*\ ! ¡Usted y sus expertos, a menos que decida no compartir el millón de dólares con nadie más! ¡No tengo nada que ver con llevar la prueba! Entonces, por qué no se "rebaja", y gana el millón. ¡Podría hacer lo obvio, reírse todo el camino hasta el banco!
+
+    5. Los hechos son que Marvin Shankin *[sic]* (Wine Spectator, la más grande publicación sobre vinos del mundo) y 7 de sus catadores ya lo probaron antes de hacer su artículo sobre él. Pusieron más de 8 vinos sobre él y obtuvieron resultados cada vez. Jamás examinan accesorios para el vino. Hicieron una excepción con el mejorador de vino Catania porque era único entre ellos. Su artículo fue de bajo tono para evitar demasiada controversia como la Pandilla de James. Mat Shaffer del Boston Herald es el director editor de comidas y también el escritor regional para la Food and Wine Magazine. Sus comentarios hablan alto y claro de un escritor experto *[sic]* y muy respetado.
+
+Está bien, Bob. Por la presente ofrezco oficialmente el premio de un millón de dólares a Marvin Shanken, a todos sus siete catadores, a la Pandilla de James, a Mat Shaffer del Boston Herald, y a cualquiera en absoluto de la Food and Wine Magazine o de Wine Spectator, a su barbero, a su cajero local, a cualquiera de sus clientes -¡*a cualquiera*, Bob! Acabo de enviar cartas formales de invitación a Shanken y Shaffer, pero no puedo encontrar a la Pandilla de James, no conozco a su barbero ni a su cajero, y no tengo su lista de clientes...
+
+    6. En resumidas cuentas es un reembolso en 30 días, asegurado por su compañía de tarjeta de crédito. He anotado esta política de retorno con mi vendedor de tarjeta de crédito y estoy obligado a mantenerla o perdería mis privilegios de cuenta.
+
+¿Y qué? Esto es un *non sequitur*, Bob. Busque lo que significa.
+
+    7. Con todo esto, ¿acaso James Randi realmente significa tanto para usted? Si hubiera escuchado a todos los escépticos en los 2 años pasados o hubiera tenido miedo de ser engañado por cada idea cuestionable, nunca habría desarrollado este producto. Sólo seguí mis instintos y creencias, y hace lo que se alega, exactamente como afirman todas las personas que lo han comprado hasta ahora (que pronto alcanzarán la marca de mil). Pronto tendré nombres más grandes que dejarán enano a James Randi en el mundo del vino y de la venta al por menor.
+
+Oh, ¿"hace lo que se alega", Bob? ¿Entonces por qué no toma un par de horas de su ocupada agenda y gana nuestro millón? Y Bob, ya soy "un enano" "en el mundo del vino y de venta al por menor". A decir verdad, nunca *he estado* en el mundo del vino y la venta al por menor, de modo que no significa nada para mí, vea. El único "gran nombre" que quiero ver que se levante y acepte nuestro simple desafío, es el de ese presumido Robert de Catania. Pero realmente se ha asustado, de modo comprensible.
+
+    8. Gracias por su correo electrónico, de todos modos, y agradezco que se tomara el tiempo de escribirlo. No permita que los lanzadores de propagada eviten que crezcamos como raza, yo nunca lo haré. ¡Su trabajo es mantener a las personas dudando de todo!
+
+Sí, dudando de los timos, fraudes, complots, falsificaciones, estafadores, ladrones, y de esas personas que ofrecen productos falsos que no apoyarán lo bastante para ganarse un millón de dólares gratis. Bob, ¿conoce a alguien así?
+
+Lectores, les he mostrado este texto de modo que tengan una mejor comprensión de lo que combate la |JREF|. Enfrentamos la ignorancia y la estupidez todos los días, tratamos en vano de transmitir sentido común al engañado, e informamos a nuestros lectores. Uno de nuestros mayores obstáculos es la insistencia de los medios de comunicación en dar vuelo a las ideas locas -a menudo a través de sus "expertos", que a menudo son empleados por revistas muy importantes, y se supone que tengan conocimientos y habilidades que pueden no tener. En el ejemplo anterior, Catania, Shanken, y Shaffer -"expertos"- se están negando a mostrar que pueden distinguir la diferencia entre un vino que ha sido "tratado" con el disco de epoxi, y un vino que no lo ha sido. Afirman que pueden, y han aprobado el disco a sus confiados consumidores, sin embargo se esconden bajo la cama cuando alguien les pide que muestren su habilidad -¡una habilidad de la que depende su reputación profesional y validez! Mi dinero respalda mis afirmaciones. Todo lo que tienen que hacer es adelantarse y tomarlo, estableciendo al mismo tiempo y sin dejar dudas que merecen el respeto depositado en ellos por sus clientes y empleadores. ¿Lo harán?
+
+No, no lo harán. Seguirán adelante, esperando que el escándalo se apague... lo que no ocurrirá. Me estoy embargando a fondo, y sugiero que vayan rápidamente a sus caros abogados para obtener varias órdenes y mandatos judiciales para tratar de que esto se apague.
+
+La próxima semana, sigue este enfrentamiento continuo.
+
+Mientras publicamos, se recibió una carta de Thomas Matthews, editor ejecutivo de la revista Wine Spectator. Escribe:
+
+    Ha llegado a mi atención que Robert Catania está afirmando que Wine Spectator ha aprobado su producto llamado Wine Enhancer. Eso no es verdad. Recibimos un producto para prueba, y efectivamente lo evaluamos, de una manera informal, y escribimos nuestros resultados... Nuestra conclusión: el dispositivo parece afectar el vino, aunque nuestros catadores discreparon en que si los cambios eran positivos o negativos. En todo caso, no hacemos ninguna afirmación de que nuestras pruebas sean definitivas. Sin embargo, al menos lo probamos -que parece ser más que lo que algunos críticos hicieron. El Sr. Catania debe abstenerse de cualquier afirmación de que Wine Spectator haya de alguna manera verificado los efectos afirmados para el Wine Enhancer, o que lo aprobamos de alguna manera. Sin embargo, estaríamos interesados en conocer los resultados de cualquier otra prueba que haya sido realizada, por partidarios y escépticos por igual.
+
+Usted debería saber que Catania me desafió a citar a Wine Spectator. Complaciendo su pedido, ya he lo hecho, arriba.
+
+¿Otro pedido?
+
+
+En conclusión...
+................
+
+Felizmente, mi recuperación continúa bien, aunque más despacio que lo que deseo. Todos tratan de que disminuya la velocidad para ahorrar fuerzas, y aprecio su interés.
+
+Mi próximo libro, "Un Mago en el Laboratorio", está tomando forma con rapidez. La mayor parte del material está escondido en oscuros archivos y notas -de papel y electrónicas- y ahora están siendo armadas y aumentadas. Finalmente voy a tener la oportunidad de contar todo como ocurrió, desde Hasted hasta Benveniste, desde Toronto hasta Moscú, desde los niños vendados en China hasta la "policía psíquica" en el Reino Unido... He estado sentado sobre esas historias durante décadas hasta ahora, relatos de qué tan descuidados, ineptos, y mentirosos fueron tantos científicos cuando me enfrenté con ellos, y qué tan meticulosos fueron otros...
+
+Está a dos años de la imprenta...
+
+
+|firmarandi|
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: Traducido por Graciela Lorenzo Tillard
+    :description: La oficina de patentes en pleno florecimiento — De pasada — Noticias calientes — Alguna verdad de hace mucho tiempo — Un gran progreso en Australia — Aykroyd en el límite — Intervención (a)divina — Grados de fe — Objetos corrientes no identificados — Garantía — Pensamiento crítico en España — Continuación — Más uvas verdes — En conclusión...

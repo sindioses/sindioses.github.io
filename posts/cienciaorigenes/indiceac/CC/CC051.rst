@@ -1,0 +1,43 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC050
+.. author: Mark Isaac, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2003-6-24
+.. type: afirmacrea
+.. title: CC051: El hombre de Neanderthal estaba basado en un humano desfigurado
+.. description: Respuesta a la afirmación creacionista «El hombre de Neanderthal estaba basado en un humano desfigurado»
+.. slug: CC051
+.. link: http://www.talkorigins.org/indexcc/CC/CC051.html
+
+El hombre de Neanderthal fue reconstruido a partir de un esqueleto fósil muy deformado por la enfermedad. Los neanderthales en realidad no son muy diferentes de los humanos modernos.
+
+**Fuente:**
+
+Watchtower Bible and Tract Society, 1985. *Life--How Did It Get Here?* Brooklyn, NY, p. 95. 
+
+Respuesta
+=========
+1. Un estereotipo temprano de los neanderthales era representarlos encorvados, muy peludos y con los dedos de los pies grandes y separados. Straus y Cave ([Straus_y_Cave_1957]_) mostraron que tenían una postura otalmente humana. Sin embargo, los neanderthales tienen características distintivas que los separan de los humanos modernos ([Straus_y_Cave_1957]_). Algunas de estas características (huesos y músculos poderosos, en particular) no pueden atribuirse de forma creíble a patologías o lesiones.
+2. Los neanderthales se conocen a partir de muchos especímenes. Es extremadamente improbable que todos ellos hubieran sufrido exactamente la misma enfermedad.
+   
+
+Enlaces
+=======
+
+Foley, Jim. 2002. Creationist arguments: Neandertals. http://www.talkorigins.org/faqs/homs/a_neands.html
+
+Referencias
+===========
+.. [Straus_y_Cave_1957] Straus, W. L. Jr. and A. J. E. Cave, 1957. Pathology and the posture of Neanderthal man. *Quarterly Review of Biology* 32(4): 348-363. 
+
+      
+/////
+
+Anterior: :doc:`CC050` | Siguiente: :doc:`CC051_1`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

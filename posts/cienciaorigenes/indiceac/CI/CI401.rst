@@ -1,0 +1,54 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CI, CI400
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2005-10-7
+.. type: afirmacrea
+.. title: CI401: La metodología de la ciencia excluye hasta la mera consideración del diseño
+.. description: Respuesta a la afirmación creacionista «La metodología de la ciencia excluye hasta la mera consideración del diseño»
+.. slug: CI401
+.. link: http://www.talkorigins.org/indexcc/CI/CI401.html
+
+La metodología de la ciencia la limita a considerar sólo las causas naturales. Esto excluye la posibilidad de diseño como causa, incluso cuando inferir diseño, de forma consistente con los métodos científicos, se basa lógicamente en los datos observados en la naturaleza.
+
+**Fuente:**
+
+Calvert, John H., W. S. Harris and J. F. Sjogren, 2001. Science standards (letter to Kansas State Board of Education, 8 Feb. 2001). http://www.intelligentdesignnetwork.org/Feb8letterKSBE.htm
+
+Respuesta
+=========
+
+1. La afirmación es obviamente falsa, porque la ciencia puede detectar, y detecta, diseño en varios contextos, como la arqueología y la ciencia forense. Los mismos teóricos del diseño señalan tales ejemplos como pruebas de que puede detectarse diseño ([Dembski_2002]_). Considerar el diseño inteligente más allá del diseño humano, sin embargo, queda excluido por el hecho de que los proponentes no dicen nada concreto sobre lo que tal diseño inteligente implica.
+
+2. La ciencia no se limita a considerar sólo las causas naturales. Ha habido numerosas investigaciones científicas de fenómenos que presuntamente no tienen causas naturales, como el poder de la plegaria ([Astin_et_al_2000]_; [Cha_et_al_2001]_; pero véase [Flamm_2004]_, [Flamm_2005]_; [Krucoff_et_al_2005]_), la adivinación ([Enright_1999]_; [Randi_1982]_) y la vida después de la muerte ([Schwartz_et_al_2001]_). Lo que le importa a la ciencia no es que algo sea natural (signifique eso lo que significare) sino que las observaciones puedan verificarse de forma objetiva y confiable por otros.
+   
+Enlaces
+=======
+
+Isaak, Mark, 2002. A philosophical premise of 'naturalism'? http://www.talkdesign.org/faqs/naturalism.html
+
+Referencias
+===========
+
+.. [Astin_et_al_2000]    Astin, J. A., E. Harkness and E. Ernst. 2000. The efficacy of "distant healing": a systematic review of randomized trials. *Annals of Internal Medicine* 132(11): 903-910.
+.. [Cha_et_al_2001]    Cha, K. Y., D. P. Wirth, and R. A. Lobo. 2001. Does prayer influence the success of in vitro fertilization-embryo transfer? Report of a masked, randomized trial. *Journal of Reproductive Medicine* 46: 781-787. http://www.jreprodmed.com/abs/jrm1137.htm
+.. [Dembski_2002]    Dembski, William A. 2002. Becoming a disciplined science: Prospects, pitfalls, and reality check for ID. http://www.designinference.com/documents/2002.10.27.Disciplined_Science.htm
+.. [Enright_1999]    Enright, J. T. 1999. Testing dowsing: The failure of the Munich experiments. *Skeptical Inquirer* 23(1): 39-46.
+.. [Flamm_2004]    Flamm, Bruce. 2004. The Columbia University "miracle" study: Flawed and fraud. *Skeptical Inquirer* 28(5): 25-31.
+.. [Flamm_2005]    Flamm, Bruce. 2005. The bizarre Columbia University "miracle" saga continues. *Skeptical Inquirer* 29(2): 52-53.
+.. [Krucoff_et_al_2005]    Krucoff, Mitchell W. et al. 2005. Music, imagery, touch, and prayer as adjuncts to interventional cardiac care: the Monitoring and Actualisation of Noetic Trainings (MANTRA) II randomised study. *Lancet* 366: 211-217. http://home.infostations.net/srm/3204A.pdf
+.. [Randi_1982]    Randi, James. 1982. Australian Skeptics 1980 divining test. *The Skeptic* 2(1): 2-6. http://www.skeptics.com.au/journal/divining.htm
+.. [Schwartz_et_al_2001]    Schwartz, Gary E. R., Linda G. S. Russek, Lonnie A. Nelson and Christopher Barentsen. 2001. Accuracy and replicability of anomalous after-death communication across highly skilled mediums. *Journal of the Society for Psychical Research* 65(862): 1-25.
+.. [Wiseman_et_al_1996]    Wiseman, R., J. Beloff and R. L. Morris. 1996. Testing the ESP claims of SORRAT. *Skeptical Inquirer* 20(5): 45-46,61. 
+
+		
+/////
+
+Anterior: :doc:`CI302` | Siguiente: :doc:`CI402`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

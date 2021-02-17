@@ -1,0 +1,43 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH500
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH501
+.. link: http://talkorigins.org/indexcc/CH/CH501.html
+.. date: 2001-3-31 02:00:00+00:00
+.. title: CH501: Podemos esperar encontrar el arca de Noé en el Monte Ararat
+.. descripción: Respuesta a la afirmación creacionista: "Podemos esperar encontrar el arca de Noé en el Monte Ararat"
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Podemos esperar encontrar el arca de Noé en el Monte Ararat»
+
+**Fuente:**
+
+LaHaye, Tim y John Morris, 1976. *The Ark on Ararat*, Nashville: Thomas Nelson Inc. and Creation Life Publishers.
+
+Respuesta
+============
+
+1. El monte Ararat (conocido localmente como Agri Dagi) es muy probablemente el lugar equivocado en el cual buscar. El Génesis sólo dice que el Arca atracó en las montañas de Ararat, donde Ararat no es una única montaña sino una región ({{% biblia "2 Reyes 19:37; Isaías 37:38; Jeremías 51:27" DHH %}}). La región, conocida en los registros asirios como Urartu es, en líneas generales, delimitada al oeste por el río Éufrates, al sur por las Montañas de Taurus en Irak (Irak del norte), un poco al este de Lago Urmia, y al norte para incluir la llanura del río Araxes. "Las montañas de Ararat" no implica un pico único, sino una región montañosa dentro de esta área, como la región de Kardu (Kurdistán del norte) al oeste del Lago Urmia. Informes tampranos del arca la ubican en varias montañas diferentes, incluyendo algunas en la región de Kardu. El Monte Ararat no se menciona como sitio de descanso hasta el siglo XI o XII ([Bailey_1989]_, 61-82).
+
+2. No debería esperarse que ninguna estructura de madera, incluyendo el arca, se conservara intacta luego de 4.500 años. El clima en Ararat es duro y cambiante; hubiera destruido el arca si se hallara expuesta a los elementos. Algunas personas afirman que el arca hubiera sobrevivido en un glaciar, protegida por el hielo que la cubría, pero eso también es improbable. Primero, el hielo hubiera aplastado el arca. Segundo, los glaciares fluyen, arrastrando lo que tienen dentro. Distintas partes suelen desplazarse a distintas velocidades, lo que deformaría el arca. Y el arca empezó en tierra, así que se habría erasionado a medida que el glaciar la arrastraba sobre las rocas.
+
+Referencias
+==============
+
+.. [Bailey_1989] Véase abajo.
+
+Otras lecturas
+=================
+
+Bailey, Lloyd, 1989. *Noah: The Person and the Story in History and Tradition*. Columbia: University of South Carolina Press.
+
+
+/////
+
+Anterior: :doc:`CH500` | Siguiente: :doc:`CH502_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

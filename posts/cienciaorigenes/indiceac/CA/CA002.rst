@@ -1,0 +1,46 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA000
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA002
+.. link: http://www.talkorigins.org/indexcc/CA/CA002.html
+.. date: 2006-12-08 02:00:00+00:00
+.. title: CA002: La supervivencia del más apto implica que "la fuerza da la razón"
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La supervivencia del más apto implica que "la fuerza da la razón"»
+
+La supervivencia del más apto implica que "la fuerza da la razón" es una guía apropiada de conducta.
+
+
+Fuente:
+========
+
+Keyes, Alan, 7 July 2001. Survival of the fittest? *WorldNetDaily*, http://www.worldnetdaily.com/news/article.asp?ARTICLE_ID=23533
+
+Respuesta:
+===========
+
+Esta afirmación ejemplifica la falacia naturalista, alegando que la forma en que son las cosas implica cómo deberían ser. Es como decir que si alguien se rompió el brazo, debería seguir teniéndolo roto. Pero "es" no implica "debe ser". La evolución es descriptiva. Nos dice cómo son las cosas, no cómo deberían ser.
+
+Los seres humanos, al ser sociales, mejoran su aptitud por medio de la cooperación con otras personas. Incluso si la supervivencia del más apto se tomara como base de la moralidad, implicaría tratar bien a otros.
+
+Enlaces:
+========
+
+* Wilkins, John, 1997. Evolution and philosophy: Does evolution make might right? http://www.talkorigins.org/faqs/evolphil/social.html
+
+Otras lecturas:
+===============
+
+* Hume, David, (1779) 1947. *Dialogues Concerning Natural Religion*, N.K. Smith, ed., Indianapolis: Bobbs-Merrill. http://www.anselm.edu/homepage/dbanach/dnr.htm
+
+/////
+
+Anterior: :doc:`CA001_1` | Siguiente: :doc:`CA002_1`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

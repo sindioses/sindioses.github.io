@@ -1,0 +1,127 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: FAQ
+.. tags: comunicación, antes de escribirnos
+.. slug:
+.. author: Sin Dioses
+.. title: Lo que le pedimos que considere antes de enviarnos un mensaje
+
+Lo que le pedimos que considere antes de enviarnos un mensaje
+================================================================
+
+.. admonition:: Advertencia
+   :class: warning
+
+   Por favor, lea esta página en su totalidad antes de escribirnos. Si es usted creyente, tenemos `una página especial para que lea <creyentes.html>`_; si siente la necesidad de escribirnos por alguna de las razones que allí figuran, por favor, absténgase de hacerlo.
+
+   Recuerde asimismo que una vez recibidos los mensajes, los consideraremos propiedad de Sin Dioses y podremos publicar su contenido de forma parcial o total.
+
+Si bien el correo que recibimos se halla dentro de límites razonables, lo cierto es que en muchos casos su contenido no nos es útil. Como, en principio, asumimos que su intención al comunicarse con nosotros es buena, le comentamos lo que es probable que tenga buena recepción y lo que no. (Considere que todo aquello que está en la columna de lo que es preferible editar puede ir a la papelera sin mayores consideraciones.)
+
+.. list-table::
+   :header-rows: 1
+
+   * - Lo que es bienvenido
+     - Lo que sería preferible evitar
+
+   * - Correo electrónico en texto simple (consulte la ayuda de su programa de correo para saber cómo hacerlo)
+     - Correo electrónico con formato, colores, imágenes decorativas y `adjuntos en formato propietario`_.
+
+   * - Que `lea las preguntas frecuentes <faq.html>`_ antes de escribirnos, por si lo que quiere preguntar ya lo respondimos antes.
+     - Que pregunte las mismas simplezas que preguntan todos los creyentes, como si fueran ideas brillantes que no se nos hubieran ocurrido jamás.
+
+   * - Discurso racional, bien redactado y consistente con la temática del sitio.
+     - **Proselitismo religioso de cualquier tipo**. No nos importa si su intención es la mejor: ese tipo de envíos no nos interesa.
+
+   * - Comentarios bien redactados y respetuosos (no es necesario que sean a favor)
+     - Sugerencias que implican cambios visuales en la página, cambios de estilo en la redacción, que escribamos sobre lo que usted prefiere, cambio de nombre de la página, o uso de una tecnología web que Ud. considera apropiada
+
+   * - Direcciones de páginas con contenido que podría interesarnos, preferiblemente de temas con base científica seria y de los que no hayamos tratado ya en el sitio o el blog.
+     - Pedidos de que **nosotros** investiguemos temas sobre los que Ud. tiene interés y sabe poco.
+
+   * - Comentarios razonados sobre puntos en los que la ciencia todavía tiene hipótesis provisionales. Eso implica atenerse a las elementales reglas del debate_.
+     - - Afirmaciones de que como la ciencia no lo sabe todo, la religión está en lo cierto.
+       - Sermones en el que los únicos argumentos utilizados son citas bíblicas.
+       - Discursos que contengan falacias lógicas.
+
+   * - Comentarios *breves* del impacto que Sin Dioses pudo haber tenido en su acercamiento al pensamiento racional.
+     - Comentarios de cualquier tipo sobre el grave error de ser ateo y cómo su religión es el único camino a la salvación. Eso incluye el destino horrible que nos espera en el infierno por ser ateos, nuestra presunta afiliación con las fuerzas infernales, presuntas denuncias sobre las poderosas organizaciones que nos financiarían y otras zarandajas de similar catadura.
+
+   * - Previa consulta con nosotros, algún artículo que pueda interesar para su publicación. Le pedimos que tenga en cuenta nuestras `sugerencias de forma y contenido`_ antes de preguntarnos si nos interesa su artículo.
+     - - Archivos adjuntos de cualquier tipo sin previa consulta.
+       - Pedidos reiterados y exigentes de que acusemos recibo de envíos no solicitados y de que informemos de cuándo serán publicados.
+
+   * - Comentarios respetuosos.
+     - Insultos, amenazas, intentos de intimidación o afirmaciones disparatadas sobre nuestras personas o intenciones. Además de convertir su mensaje en candidato automático a las `Cartas de la Edad Media <cartas/cartas.html>`_ , tales mensajes son una invitación para que dictemos un curso acelerado de boxeo epistolar, con Ud. como el destinatario.
+
+
+Además considere lo siguiente si desea enviarnos un artículo para publicar
+..........................................................................
+
+.. |formato| replace:: Grabe el archivo que nos envíe en un formato editable y estándar
+
+|formato|
+---------
+
+.. admonition:: Nota
+
+   Esto se refiere exclusivamente a **artículos** que usted quiera someter a nuestra consideración para su publicación. No es necesario, si sólo desea enviarnos un mensaje, que lo escriba en un adjunto.
+
+
+.. _adjuntos en formato propietario:
+.. _formato:
+
+Los formatos propietarios (por ejemplo Microsoft Word) cambian cada cierto número de años y son incompatibles con las versiones anteriores. Esto impide que sean útiles por un tiempo prolongado (algunos gobiernos de Europa han dejado de usar Microsoft Office y han pasado a soluciones *open source* con formatos abiertos de documentos para garantizar que serán legibles en el futuro). El único formato propietario razonablemente aceptable (porque es, básicamente, texto, y porque la información que no se entiende en programas anteriores se descarta de forma útil) es el Rich Text Format (RTF_). **Recuerde que no alcanza con cambiarle el nombre al archivo; hay que elegir grabarlo en ese formato.**
+
+Por otro lado, es una grosera descortesía enviar un documento adjunto sin averiguar si el destinatario dispone del programa necesario para leerlo.
+
+Puede encontrar buenos y sólidos fundamentos sobre este tema en http://www.gnu.org/philosophy/no-word-attachments.es.html
+
+Si va a enviar documentos con sus colaboraciones, asegúrese de que al menos se encuentren en uno de los siguientes formatos:
+
+* Texto sin formato (\*.txt)
+* RTF_ (Rich Text Format)
+* Texto en formato OpenDocument_ (\*.odt), generado por OpenOffice y LibreOffice
+
+.. _RTF: http://en.wikipedia.org/wiki/Rich_Text_Format
+.. _OpenDocument: http://en.wikipedia.org/wiki/OpenDocument
+
+.. |articulovalioso| replace:: Si tiene un artículo para nosotros, procure que tenga un valor para la comunidad
+
+.. _sugerencias de forma y contenido:
+.. _sugerencias:
+.. _contenido:
+
+|articulovalioso|
+-----------------
+
+Son bienvenidos artículos en los que se refleje el impacto que la religión tiene en la sociedad, por ejemplo comentarios sobre noticias de ese tenor, y más aún si son de Latinoamérica; sin embargo no siempre alcanza con la buena voluntad, la buena redacción es imprescindible para que podamos publicar un artículo. También agradecemos reflexiones sobre el impacto positivo del pensamiento crítico en la sociedad y sobre el papel de las comunidades de librepensadores, ateos o *brights* en su país de origen, si tiene información que pueda compartir con nosotros. Confiamos en que la visibilidad que pueda tener el sitio ayudará a que noticias de primera mano sobre estos temas lleguen a audiencias más amplias.
+
+También recuerde que hay mucha gente que sufre porque en su país la opresión que le produce un ambiente religioso inescapable le resulta asfixiante. Hemos recibido mensajes emocionados de personas que dicen sentirse menos solos gracias a nosotros. Ayúdelos usted también; si sabe de alguna buena noticia referida al triunfo de la razón sobre la superstición, háganosla llegar.
+
+.. |no1persona| replace:: No escriba su artículo en primera persona
+
+|no1persona|
+------------
+
+Muchos artículos que recibimos son elaboraciones voluntariosas y esforzadas que intentan poner en palabras la experiencia personal de una persona que pudo sobreponerse a la tendencia de la sociedad de hacerlo creyente. Muchos pueden ver de forma palpable el daño que la religión produce en su comunidad y se esfuerzan en expresarlo en sus textos, en muchos casos incluyendo manifestaciones de ira. A veces los textos son enumeraciones de descubrimientos sencillos que toda persona que se desprende de la fe acaba realizando. En la mayoría de estos casos, la persona habla desde su punto de vista, con un tono más apropiado para un diario personal o un *blog*.
+
+Lamentamos no poder publicar ese tipo de artículos en el sitio, ya que Sin Dioses no se ocupa primordialmente de testimonios personales. En cambio, preferimos artículos que utilicen un tono neutro e informativo.
+
+Sin embargo, en caso de que se trate de textos *breves* de ficción (para su publicación en la sección `Literatura profana <http://sindioses.org/poesia>`_), por supuesto no se requiere un tono periodístico. En ese caso el requisito es un poco más subjetivo: el texto debe estar bien escrito y gustarle a los editores.
+
+
+¿Consideró todo esto?
+.....................
+
+Siéntase libre entonces de escribirnos a |email|. Disfrute del sitio.
+
+.. |email| image:: imagen/emailsindioses.png
+   :alt:
+   :align: middle
+
+-----
+
+`Volver a la página principal <principal.html>`__
+
+
+.. _debate: debate.html

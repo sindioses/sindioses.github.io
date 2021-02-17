@@ -1,0 +1,64 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA000
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA045
+.. link: http://www.talkorigins.org/indexcc/CA/CA042.html
+.. date: 2005-10-14 02:00:00+00:00
+.. title: CA045: "Heredarás el viento" es propaganda falsa
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «"Heredarás el viento" es propaganda falsa»
+
+La película *Heredarás el viento*, un relato ficcional del famoso juicio de Scopes, es propaganda engañosa. Se basa fuertemente en ideas anticristianas, y muestra que se censura la evolución, cuando de hecho es la evolucion la que censura.
+
+**Fuente:**
+
+Nesselroade, Paul. 2003. Winds of change? *Wedge Update* (July 1), http://www.arn.org/docs/wedge/pn_wedge_030701.htm
+
+Respuesta
+=============
+
+1. *Heredarás el viento* es ficción y se planeó desde el principio que lo fuera. Como *Las brujas de Salem*, de Arthur Miller, se inspiró en los eventos de la era McCarthy, especialmente la supresión de ideas habitual en esa época ([ClassicNote_1999]_). Los autores intentaron enfatizar su ficcionalidad usando nombres ficticios para los personajes. En la versión impresa de la obra, escriben:
+
+    *Heradarás el viento* no es historia. Los sucesos ocurridos en Dayton, Tennessee, durante el ardiente julio de 1925 claramente originaron esta obra. Tiene, sin embargo, un éxodo completamente propio [...].
+
+    La colisión de Bryan y Darrow en Dayton fue dramática, pero no era un drama.
+
+    Lo que es más, los temas de su conflicto han adquirido nuevas dimensiones y significado en los 30 años desde que se enfrentaron en la Corte del Condado de Rhea. De modo que *Heredarás el viento* no pretende ser periodismo. Es teatro. Las notas de la puesta establecen el tiempo de la acción como "No hace mucho". Podría haber sido ayer. Podría ser mañana. ([Laurence_and_Lee_1955]_)
+
+   Lamentablemente, otros han tratado la obra como si fuera historia, especialmente los promotores de la película. Esto desmerece tanto a la historia como a la obra de teatro. La historia está registrada en otra parte (p. ej. [Larson_1997]_). La obra es sobre actitudes e ideas. El hecho de que la obra siga siendo popular a lo largo de las décadas muestra que las ideas siguen siendo relevantes.
+
+2. Es común tomarse licencia dramática con los hechos históricos en muchas otras obras de teatro, como el *Galileo* de Bertolt Brecht y las películas *1776*, *Espartaco* y *La pasión del Cristo*, para nombrar sólo algunas.
+
+3. El creacionismo es un negocio multimillonario con muchos foros discursivos, de publicación y publicitarios. Las quejas de que está sufriendo de una propaganda injusta, ya ni digamos de que está sufriendo censura sistemática, son pura paranoia.
+
+Enlaces
+========
+
+ClassicNote. 1999-2003. ClassicNote on *Inherit the Wind*. http://www.gradesaver.com/ClassicNotes/Titles/inherit/about.html
+
+Referencias
+============
+
+.. [ClassicNote_1999] ClassicNote. 1999-2003. (Véase arriba.)
+.. [Larson_1997] Larson, E. J. 1997. (Véase abajo)
+.. [Laurence_and_Lee_1955] Lawrence, J. and R. E. Lee. 1955. (Véase abajo)
+
+Otras lecturas
+==============
+
+* Lawrence, J. and R. E. Lee. 1955. *Inherit the Wind*. New York: Bantam.
+
+* Larson, E. J. 1997. *Summer of the Gods: The Scopes Trial and America's Continuing Debate over Science and Religion.* Cambridge, MA: Harvard University Press.
+
+/////
+
+Anterior: :doc:`CA042` | Siguiente: :doc:`CA100`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

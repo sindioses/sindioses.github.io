@@ -1,0 +1,41 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH130
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2003-7-11
+.. type: afirmacrea
+.. title: CH135.2: Moisés revela que la sangre es la esencia de la vida
+.. description: Respuesta a la afirmación creacionista «Moisés revela que la sangre es la esencia de la vida»
+.. slug: CH135_2
+.. link: http://www.talkorigins.org/indexcc/CH/CH135_2.html
+
+La Biblia revela que nuestra sangre es la esencia de la vida ({{% biblia "Levítico 17:11" DHH %}}), atestiguando la exactitud científica de la Biblia.
+
+**Fuente:**
+
+Jeffrey, Grant R., 1996. *The Signature of God*. Toronto: Frontier Research Publications, p. 146.
+
+Morris, Henry M., 1986. *Science and the Bible*. Chicago: Moody Press, pp. 15-16.
+
+Respuesta
+=========
+1. La opinión de que la sangre es la esencia de la vida es anterior a la Bibliqa. El Código de Hammurabi de Mesopotamia (aproximadamente de 1727 AEC, antes de que se escribiera Levítico) tiene una frase que se traduce "volcar su sangre de vida como si fuera agua". En el Enuma Elish, la sangre era un ingrediente esencial a partir de la cual se creó la humanidad. Fuentes ugaríticas y egipcias también destacan la importancia de la sangre ([Meyers_2000]_).
+2. Que la sangre es esencial para la vida no es difícil de deducir, especialmente para un pueblo que mata ganado.
+3. La sangre no es **la** esencia de la vida. Tampoco sobreviviríamos mucho sin pulmones, linfa, músculos, nervios, etc.
+
+Enlaces/Referencias
+===================
+
+.. [Meyers_2000] Meyers, Stephen, 2000. The Signature of God by Grant R. Jeffrey (reseña). http://members.aol.com/ibss2/gospel.html
+
+
+/////
+
+Anterior: :doc:`CH135_1` | Siguiente: :doc:`CH181`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,46 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CB930.3: Puede que haya dinosaurios vivos en el Congo
+.. description: Respuesta a la afirmación creacionista «Puede que haya dinosaurios vivos en el Congo»
+.. slug: CB930_3
+.. link: http://www.talkorigins.org/indexcc/CB/CB930_3.html
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2001-02-17
+.. modified: 2004-02-03
+
+Un dinosaurio similar al apatosaurio podría estar vivo aún en los pantanos del Congo.
+
+Fuente
+======
+
+* Doolan, Robert. 1993. Are Dinosaurs alive today? Where Jurassic Park went wrong. *Creation Ex Nihilo* 15(4) (Sep.): 12-15. http://www.answersingenesis.org/docs/1302.asp
+* Hovind, Kent. 1998. Dr. Hovind's "Creation Seminar" part 3b: Dinosaurs alive today. http://www.algonet.se/~tourtel/hovind_seminar/seminar_part3b.html
+
+Respuesta
+=========
+
+1. El presunto "dinosaurio", Mokele-mbembe, es parte del folklore. (O'Hanlon (en [OHanlon_1997]_, p. 373) informó esta respuesta al preguntarle a un nativo si había visto a Mokele-mbembe:
+
+    —Qué pregunta estúpida —dijo Doubla, y pareció auténticamente sorprendido [...]. —Mokele-mbembe no es un animal como un gorila o  una pitón. Y Mokele-mbembe no es un animal sagrado. No se le aparece a la gente. Es un animal misterioso. Existe porque lo imaginamos. Pero verlo... jamás. Uno no lo *ve*.
+
+   Otros informes también son folclóricos, aunque algunos tratan a Mokele-mbembe como si fuera real; son buenas historias, pero no hay evidencia tangible. Es casi imposible que una población de animales terrestres muy grandes y muy llamativos hubieran escapado completamente a la exploración humana.
+
+2. Un dinosaurio vivo no sería un problema para la evolución :doc:`aunque existiera <CB930>`.
+
+Referencias
+===========
+
+.. [OHanlon_1997] O'Hanlon, Redmond. 1997. *No Mercy: A journey to the heart of the Congo.* New York: Knopf. See also: Book reviews. Smithsonian Magazine, 1998 (Aug.), http://www.smithsonianmag.com/smithsonian/issues98/aug98/bookreview_aug98.html
+
+
+/////
+
+Anterior: :doc:`CB930_2` | Siguiente: :doc:`CB930_4`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

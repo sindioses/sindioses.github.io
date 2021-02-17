@@ -1,0 +1,59 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA110
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA114_10
+.. link: http://www.talkorigins.org/indexcc/CA/CA114_10.html
+.. date: 2005-08-02 02:00:00+00:00
+.. title: CA114.10: Fabre era creacionista
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Fabre era creacionista»
+
+Jean-Henri Fabre (1823-1915) era creacionista y se oponía fuertemente a la evolución.
+
+**Fuente:**
+
+Morris, Henry M. 1982. Bible-believing scientists of the past. *Impact* 103 (Jan.), http://www.icr.org/index.php?module=articles&action=view&ID=185
+
+Respuesta
+============
+
+1. Jean-Henry Fabre rechazaba, efectivamente, la evolución (o transformismo). Sin embargo, sus puntos de vista no eran tampoco los de un creacionista bíblico. Reconocía que la vida cambió a lo largo de los varios períodos de la historia de la Tierra. Para la historia de la Tierra, él no consideraba su libro la Biblia sino la Tierra misma:
+
+     Partamos una losa y subdividámosla en láminas a punta de cuchillo, un trabajo tan fácil como separar los niveles superpuestos de un postre milhojas. Al hacerlo, estaremos examinando un volumen tomado de la biblioteca de las montañas, estaremos dando vuelta las páginas de un libro magníficamente ilustrado. Es un manuscrito de la naturaleza, muy superior a un papiro egipcio. En casi todas las páginas hay diagramas; para mejor decir, hay realidades transformadas en imágenes. ([Fabre_1914]_, p. 178)
+
+   Las "páginas" cuentan sobre distinta vida en diferentes tiempos.
+
+     La vida, al inicio, presentaba rarezas que serían ensordecedoras discordancias en la armonía actual de las cosas. Cuando inventó al Saurio, se regodeó al principio en monstruos de entre 15 y 20 metros de largo. Colocó cuernos en sus narices y ojos, empedró sus espaldas con fantásticas escamas, ahuecó sus cuellos volviéndolos bolsas espinosas, retirando sus cabezas dentro de una capucha. Luego de esos horrores, el ardor creativo se calmó y produjo el encantador lagarto verde de nuestros setos.
+
+     Cuando inventó el ave, llenó su pico con los dientes puntiagudos del reptil y le agregó unacola larga y emplumada a su trasero. Esas criaturas indeterminadas y asquerosamente feas eran el preludio distante al Petirrojo y la Paloma.
+
+     Todos esos primitivos son notables por tener una calavera muy pequeña, el cerebro de un idiota. La bestia de antiguo es, primero y principal, una máquina atroz de quebrar, con un estómago para digerir. El intelecto no aparece aún. Surgirá más adelante. ([Fabre_1914]_, p. 182)
+
+2. Fabre era excelente en la observación (Darwin lo llamó "el observador inimitable", pero no era científico. No tuvo capacitación científica formal, y se separó él mismo de la comunidad científica, actuando en lugar de ello como naturalista. Su vida difícil no le dejó tiempo ni el deseo para teorizar ([Favret_1999]_).
+
+Enlaces
+=========
+
+* www.efabre.net. 2000-2003. Jean-Henri Fabre, sa vie, son oeuvre. http://www.e-fabre.com/. Versión en inglés en http://www.efabre.net/
+
+Referencias
+==============
+
+.. [Fabre_1914]    Fabre, J. Henri. 1914. *The Life and Love of the Insect*, trad. de Alexander Teixeira de Mattos. (cap. 13: "The old weevils"). Londres: Adam y Charles Black.
+.. [Favret_1999]    Favret, Colin. 1999. Jean-Henri Fabre: His life experiences and predisposition against Darwinism. *American Entomologist* 45(1): 38-48.
+
+Otras lecturas
+=================
+
+Favre fue nominado dos veces al Premio Nobel de literatura; sus escritos son aún muy disfrutables.
+
+/////
+
+Anterior: :doc:`CA114_04` | Siguiente: :doc:`CA114_22`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

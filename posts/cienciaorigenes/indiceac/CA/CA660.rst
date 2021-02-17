@@ -1,0 +1,50 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA600
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA660
+.. link: http://www.talkorigins.org/indexcc/CA/CA660.html
+.. date: 2003-09-08 02:00:00+00:00
+.. title: CA660: La declaración del Papa sobre la evolución está mal traducida
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La declaración del Papa sobre la evolución está mal traducida»
+
+La declaración del papa Juan Pablo II sobre que la evolución es "más que una hipótesis" es una mala traducción; debería ser "más de *una* hipótesis", lo que implica falta de unanimidad entre los científicos.
+
+Respuesta
+=============
+
+1. El mensaje del papa fue mal traducido, en efecto, pero de forma opuesta a lo que se afirma. La frase que en el francés original significa "más que una hipótesis" fue mal traducida al inglés como "más de una hipótesis". Examinando el documento como un todo, está claro que el papa acepta la evolución como un hecho científicamente aceptado. Las frases que siguen a la que se menciona se refieren a una convergencia de aceptación por parte de los investigadores. El mensaje amplía lo dicho en *Humani Generis*, la cual "ya había afirmado que no había no oposición entre la evolución y la doctrina de la fe sobre el hombre y su vocación", siempre que ciertos temas espirituales no se dejaran de lado. La ciencia no se discute.
+
+2. La cuestión de la unanimidad entre científicos debe ser dirigida a los científicos, los que muestran unanimidad sustancial en su acuerdo con la teoría de la evolución ([NCSE_n_d]_).
+
+3. La verdad de la teoría de la evolución no la decidirá un :doc:`argumento de autoridad <CA112>`.
+
+Enlaces
+========
+
+Akin, James. 1996. Evolution: What the Pope said, http://www.cin.org/users/james/files/whatsaid.htm
+
+Thomas, Cal. 1997 (Jan. 25). We're all fallible: The pope, evolution, and the importance of good translation *World on the Web* 11(33) http://lordibelieve.org/twotw/pope.PDF
+
+Referencias
+===============
+
+.. [NCSE_n_d] NCSE. n.d., Voices for evolution: Statements from scientific and scholarly organizations, http://www.ncseweb.org/resources/articles/3053_statements_from_scientific_and_12_19_2002.asp
+
+Otras lecturas
+================
+
+Pope John Paul II. 1996. Magisterium is concerned with question of evolution for it involves conception of man: Message to Pontifical Academy of Sciences, October 22, 1996. http://www.cin.org/jp2evolu.html
+
+Gould, Stephen J. 1998. Non-overlapping magisteria. En: *Leonardo's Mountain of Clams and the Diet of Worms*. New York: Three Rivers Press, pp. 269-283. V. esp. nota al pie en p. 279.
+
+/////
+
+Anterior: :doc:`CA652` | Siguiente: :doc:`CA662`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

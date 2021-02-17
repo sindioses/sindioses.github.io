@@ -1,0 +1,66 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA500
+.. author: Mark Isaak, traducción de Paulina Madariaga
+.. nocomments: True
+.. slug: CA500
+.. link: http://www.talkorigins.org/indexcc/CA/CA500.html
+.. date: 2004-12-2 02:00:00+00:00
+.. title: CA500: La "supervivencia del más apto" es una tautología
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La "supervivencia del más apto" es una tautología»
+
+La selección natural o la "supervivencia del más apto" es una tautología (es decir, emplea un razonamiento circular), porque afirma que los individuos más aptos tienen mayor descendencia, pero define a los individuos más aptos como aquellos que tienen la mayor descendencia.
+
+**Fuente**
+
+Gish, Duane T., R. B. Bliss and W. R. Bird. 1981. Summary of scientific evidence for creation. *Impact* 95-96 (May/Jun.). http://www.icr.org/index.php?module=articles&action=view&ID=177
+
+Morris, Henry M. 1985. *Scientific Creationism*. Green Forest, AR: Master Books, p. viii.
+
+Respuesta
+===========
+
+1. La "supervivencia del más apto" es una manera mediocre de entender la evolución. Darwin mismo no empleó esta frase en la primera edición del *Origen de las especies*. Lo que Darwin afirmó es que las variaciones hereditarias llevan a diferentes éxitos reproductivos. Esto no es circular ni tautológico. Es una predicción que puede ser, y así ha sido, verificada experimentalmente ([Weiner_1994]_).
+
+2. La frase no puede ser tautológica si no es banalmente cierta. Y aún así, hay teorías que afirman que los individuos más aptos perecen:
+
+   - Alpheus Hyatt propuso que los linajes, como los individuos, inevitablemente pasan por las etapas de juventud, madurez, vejez y muerte. Hacia el final de este ciclo, los individuos más aptos tienen mayores probabilidades de perecer que otros. ([Hyatt_1866]_; [Lefalophodon_n_d]_).
+
+   - La teoría de la ortogenesis afirma que ciertas tendencias, una vez iniciadas, continúan progresando aunque a veces resulten perjudiciales y lleven a la extinción. Por ejemplo, se ha sostenido que los alces irlandeses, que tenían unas astas enormes, se extinguieron porque no podían resistir su tamaño.
+
+   - Se considera a los individuos "más aptos" como aquellos que están idealmente preparados para un ambiente determinado. Una adaptación tan ideal, sin embargo, conlleva el costo de estar mal adaptados respecto de otros ambientes. Si el ambiente cambia, los individuos más aptos en él ya no estarán bien adaptados respecto de ninguna clase de ambiente, y aquellos organismos menos aptos, pero adaptados de manera más general son los que sobrevivirán.
+
+3. Los más aptos, de acuerdo a Darwin, no eran aquellos que sobrevivían, sino aquellos cuya supervivencia era predecible en razón de sus atributos. Por ejemplo, los perros salvajes cazaban de manera selectiva a aquellos impalas que eran más débiles, de acuerdo a su índice de médula ósea ([Pole_et_al_2003]_). Con esa definición, la supervivencia del más apto no es una tautología. De forma similar, la supervivencia puede ser definida, ya no en términos de la esperanza de vida de un individuo, sino respecto de si deja o no una contribución significativa a la siguiente generación. Definida así, la supervivencia del más apto pasa a ser más o menos lo que Darwin afirmó, y no es en caso alguno una tautología.
+
+Enlaces
+========
+
+Lindsay, Don. 1997. Is "survival of the fittest" a tautology? http://www.don-lindsay-archive.org/creation/tautology.html
+
+Wilkins, John. 1997. Evolution and philosophy: A good tautology is hard to find. http://www.talkorigins.org/faqs/evolphil/tautology.html
+
+Referencias
+==============
+
+.. [Lefalophodon_n_d] Lefalophodon. n.d. Alpheus Hyatt (1838-1902). http://www.nceas.ucsb.edu/~alroy/lefa/Hyatt.html
+
+.. [Hyatt_1866] Hyatt, Alpheus. 1866. On the paralellism between the different stages of life in the individual and those in the entire group of the molluscous order Tetrabranchiata. *Memoirs Read Before the Boston Society of Natural History* 1: 193-209.
+
+.. [Pole_et_al_2003]  Pole, A., I. J. Gordon and M. L. Gorman. 2003. African wild dogs test the 'survival of the fittest' paradigm. *Proceedings of the Royal Society, Biological Sciences* 270(Suppl. 1): S57.
+
+.. [Weiner_1994] Weiner, Jonathan. 1994. *The Beak of the Finch*. New York: Knopf.
+
+Lecturas recomendadas
+=========================
+
+Gould, Stephen J. 1976. Darwin's untimely burial. In Michael Ruse, ed., *Philosophy of Biology*, New York: Prometheus Books, 1998, pp. 93-98. http://www.stephenjaygould.org/ctrl/gould_tautology.html
+
+/////
+
+Anterior: :doc:`CA350` | Siguiente: :doc:`CA510`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

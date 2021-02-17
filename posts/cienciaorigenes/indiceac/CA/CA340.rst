@@ -1,0 +1,40 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA300
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA340
+.. link: http://www.talkorigins.org/indexcc/CA/CA340.html
+.. date: 2001-02-18 02:00:00+00:00
+.. title: CA340: Los evolucionistas no están dispuestos a debatir con creacionistas
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Los evolucionistas no están dispuestos a debatir con creacionistas»
+
+**Fuente:**
+
+Brown, Walt. 1995. *In the Beginning: Compelling Evidence for Creation and the Flood.* Phoenix, AZ: Center for Scientific Creation, 212. http://www.creationscience.com/
+
+Respuesta
+==============
+
+1. El foro apropiado para debatir temas científicos es en conferencias científicas y en publicaciones científicas sujetas a revisión por pares. En tales foros, las afirmaciones pueden ser verificadas por cualquiera a su discreción. Los creacionistas, con muy raras excepciones, no están dispuestos a debatir allí.
+
+2. Los debates públicos habitualmente se preparan para que los ganadores los determine su capacidad para hablar en público, no la calidad de su material.
+
+3. Los formatos de debate, tanto verbales como escritos, normalmente no permiten tiempo o espacio para examinar suficientemente los temas. Una táctica común usada por algunos creacionistas notables es escupir docenas de conceptos desinformados en una rápida sucesión. Es imposible para quien responde referirse a cada uno de ellos en el tiempo o espacio asignados.
+
+4. Pese a los puntos antedichos, ha habido varios debates, tanto en vivo como en la red.
+
+Enlaces
+===========
+
+* Talk.Origins Archive. n.d. Debates and gatherings. http://www.talkorigins.org/origins/faqs-debates.html
+
+/////
+
+Anterior: :doc:`CA325` | Siguiente: :doc:`CA341`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

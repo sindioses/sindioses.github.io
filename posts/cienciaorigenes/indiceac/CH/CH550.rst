@@ -1,0 +1,58 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH540
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH550
+.. link: http://talkorigins.org/indexcc/CH/CH550.html
+.. date: 2003-09-06
+.. title: CH550: El Diluvio depositó la columna geológica
+.. description: Respuesta a la afirmación creacionista «El Diluvio depositó la columna geológica»
+.. type: afirmacrea
+
+Respuesta
+============
+
+1. Las varvas_ dentro de la columna geológica muestran capas estacionales a lo largo de muchos, muchos años. En muchos casos, tales como la formación del Río Verde, esas capas son demasiado finas para haberse asentado en menos de varios años por capa. Las varvas de Nueva Inglaterra muestran pruebas de cambio climático entre unos 17.500 y 13.500 años atrás, lo cual coincide con los patrones climáticos en otras partes del mundo ([Rittenour_et_al_2000]_). Esas capas prueban que el registro geológico no se produjo en un solo evento.
+
+.. _varvas: https://es.wikipedia.org/wiki/Varva
+.. _loess: https://es.wikipedia.org/wiki/Loess
+.. _paleosuelos: https://es.wikipedia.org/wiki/Paleosuelo
+
+2. Hay muchos tipos de características de superficie preservadas en medio de la columna geológica. Estas características incluyen suelos, rajaduras en el barro, depósitos de evaporita, impresiones de gotas de lluvia, cráteres de meteoros, túneles perforados por gusanos, sedimentos esparcidos por el viento, canales excavados por corrientes de agua y muchas otras. Por ejemplo:
+
+   * La Meseta de Loess en China tiene una capa de loess_ de más de 300 m de grosor. El loess es sedimento esparcido por el viento que no se produciría durante un diluvio global. La Meseta de Loess aparece en torno a los bordes que siguen la dirección del viento en los bordes del Desierto de Ordos, su fuente de sedimentos, y el tamaño del grano del loess disminuye mientras más uno se aleja del desierto ([Vandenberghe_et_al_1997]_).
+
+   * La Meseta de Loess incluye paleosuelos_, suelos fósiles enterrados, algunos de los cuales requerirían decenas de miles de años para formarse ([Kukla_y_An_1989]_; [Liu_et_al_1985]_).
+
+Enlaces
+=======
+
+Isaak, Mark, 1998. Problems with a global flood, 2nd ed. http://www.talkorigins.org/faqs/faq-noahs-ark.html
+
+Referencias
+==============
+
+.. [Kukla_y_An_1989]    Kukla, G. and Z. An, 1989. Loess stratigraphy in Central China. *Palaeogeography, Palaeoclimatology, Palaeoecology* 72(1): 203-225.
+.. [Liu_et_al_1985]    Liu, T., Z. An, B. Yaun and J. Han, 1985. Loess-paleosol sequence in China and climatic history. *Episodes* 8: 21-28.
+.. [Rittenour_et_al_2000]    Rittenour, T. M., J. Brigham-Grette and M. E. Mann, 2000. El Nino-like climate teleconnections in New England during the late Pleistocene. *Science* 288: 1039-1042. V. también Kerr, R.A., 2000. Viable but variable ancient El Nino spied. *Science* 288: 945.
+.. [Vandenberghe_et_al_1997]    Vandenberghe, J., A. Zhisheng, G. Nugteren et al., 1997. New absolute time scale for the Quaternary climate in the Chinese loess region by grain-size analysis. *Geology* 25(1): 35-38.
+
+Otras lecturas
+===============
+
+Harding, Ken, 1999. What would we expect to find if the world had flooded? http://www.creationism.ws/what_if_flood.htm [o Harding, Ken, 1999 http://web.archive.org/web/http://www.geocities.com/Tokyo/Temple/9917/flood.html via http://www.archive.org . El texto es blanco, de modo que puede que tenga que cambiar los colores de su navegador.]
+
+Miller, Hugh, 1857. The Testimony of the Rocks. Or, Geology in Its Bearings on the Two Theologies, Natural and Revealed. Edinburgh: Shepherd & Elliot. See also MacRae, Andrew, n.d. Hugh Miller -- 19th-century creationist geologist. http://home.tiac.net/~cri/1998/miller.html
+
+Strahler, Arthur N., 1987. Science and Earth History, Buffalo, NY: Prometheus Books.
+
+
+/////
+
+Anterior: :strong:`CH542` | Siguiente: :doc:`CH561_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

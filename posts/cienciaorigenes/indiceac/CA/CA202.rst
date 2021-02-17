@@ -1,0 +1,87 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA200
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA202
+.. link: http://www.talkorigins.org/indexcc/CA/CA201.html
+.. date: 2005-02-24 02:00:00+00:00
+.. title: CA202: La evolución no ha sido probada
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La evolución no ha sido probada»
+
+La evolución no ha sido, ni puede ser, probada. No podemos siquiera ver la evolución (más allá de cambios trivialmente pequeños), mucho menos comprobarla experimentalmente
+
+**Fuente:**
+
+Morris, Henry M. 1985. *Scientific Creationism*. Green Forest, AR: Master Books, pp. 4-6.
+
+Respuesta
+=============
+
+1. Nada en el mundo real puede probarse con certeza absoluta. Sin embargo, pueden alcanzarse altos grados de certeza. En el caso de la evolución, tenemos enormes cantidades de datos de distintas disciplinas.
+
+   Hay pruebas extensas en las siguientes formas ([Theobald_2004]_). Cada nueva porción de evidencia comprueba al resto.
+
+   * Toda la vida muestra una unidad fundamental en los mecanismos de replicación, heredabilidad, catálisis y metabolismo.
+
+   * La ascendencia común predice un diseño de jerarquía anidada, o grupos dentro de grupos. Vemos una distribución así en una jerarquía única, consistente y bien definida, el llamado "árbol de la vida".
+
+   * Distintas líneas de pruebas proporcionan la misma distribución del árbol de la vida. En esencia, obtenemos los mismos resultados ya sea que observemos atributos morfológicos, bioquímicos o genéticos.
+
+   * Los animales fósiles encajan en el mismo árbol de la vida. Encontramos varios casos de :doc:`formas transicionales <CC200>` en el registro fósil.
+
+   * Los fósiles aparecen en un orden cronológico, mostrando consistencia con la ascendencia común a lo largo de cientos de millones de años, e inconsistencia con una creación súbita.
+
+   * Muchos organismos muestran características rudimentarias y vestigiales, como ojos que no ven o alas inútiles para el vuelo.
+
+   * A veces ocurren atavismos. Un atavismo es la reaparición de una característica presente en un ancestro lejano pero perdida en los ancestros inmediatos del organismo. Sólo vemos atavismos consistentes con las historias evolutivas de los organismos.
+
+   * La ontogenia (biología embriológica y del desarrollo) brinda información sobre la ruta histórica de la evolución de un organismo. Por ejemplo, en su etapa embrionaria las ballenas y muchas serpientes desarrollan patas traseras que se reabsorben antes del nacimiento.
+
+   * La distribución de las especies es consistente con su historia evolutiva. Por ejemplo, los marsupiales se encuentran limitados en su mayoría a Australia, y las excepciones se explican por la deriva continental. Las islas remotas con frecuencia tienen grupos de especies que son altamente diversas en hábitos y apariencia general pero muy relacionadas genéticamente. La diversidad de las ardillas coincide con los cambios en tectónica y nivel del mar ([Mercer_y_Roth_2003]_). Tal consistencia persiste cuando se incluye la distribución de especies fósiles.
+
+   * La evolución predice que las nuevas estructuras se adaptan de otras estructuras que ya existen, y por lo tanto la similaridad en estructuras debería reflejar la historia evolutiva en lugar de la función. Vemos esto con frecuencia. Por ejemplo, las manos humanas, las alas del murciélago, las patas del caballo, las aletas de los delfines y los miembros delanteros de los topos todos tienen estructuras óseas simillares pese a sus funciones diferentes.
+
+   * El mismo principio se aplica a nivel molecular. Los seres humanos comparten un amplio porcentaje de sus genes, probablemente más del 70%, con la mosca de la fluta o el gusano nematodo.
+
+   * Cuando dos organismos evolucionan la misma función de forma independiente, con frecuencia se involucran diferentes estructuras. Por ejemplo, las alas de las aves, murciélogos, pterosaurios e insectos tienen todas distintas estructuras. La capacidad de :doc:`planear <CB921>` también ha sido implementada de  muchas formas adicionales. De nuevo, esto también se aplica a nivel molecular.
+
+   * Las limitaciones de la historia evolutiva a veces conducen a estructuras y funciones menos que óptimas. Por ejemplo, la garganta humana y el sistema respiratorio hacen imposible respirar y tragar al mismo tiempo y nos vuelve susceptibles al ahogamiento.
+
+   * También aparecen situaciones menos que óptimas a nivel molecular. Por ejemplo, mucho del ADN no tiene función.
+
+   * Parte del ADN sin función, como ciertos transposones, pseudogenes y virus endógenos muestran un patrón de herencia que indica ascendencia común.
+
+   * Se ha observado :doc:`especiación <CB910>`.
+
+   * Se ha visto que los aspectos cotidianos de la evolución —cambio genético heredable, variación y cambio morfológicos, cambio funcional y selección natural— ocurren en proporciones consistentes con la ascendencia común.
+
+   Lo que es más, las diferentes líneas de evidencia son consistentes; todas apuntan a la misma gran imagen. Por ejemplo, la evidencia de duplicación de genes en el genoma de la levadura muestra que su capacidad de fermentar glucosa evolucionó hace cerca de 80 millones de años. La evidencia fósil muestra que las frutas fermentables se hacen más notables alrededor del mismo período. La evidencia genética de cambios importantes cerca de ese tiempo también se encuentra en plantas que dan frutas y en moscas de la fruta ([Benner_et_al_2002]_).
+
+   Las pruebas son extensas y consistentes, y señalan sin ambigüedades a la evolución, incluyendo ascendencia común, cambio a lo largo del tiempo y adaptación influida por la selección natural. Sería absurdo decir que estos son otra cosa que hechos.
+
+Enlaces
+=========
+
+Theobald, Douglas. 2004. 29+ Evidences for macroevolution: The scientific case for common descent. http://www.talkorigins.org/faqs/comdesc/
+
+Colby, Chris. 1993. Evidence for evolution: An eclectic survey. http://www.talkorigins.org/faqs/evolution-research.html
+
+Moran, Laurence. 1993. Evolution is a fact and a theory. http://www.talkorigins.org/faqs/evolution-fact.html
+
+Referencias
+=============
+
+.. [Benner_et_al_2002] Benner, S. A., M. D. Caraco, J. M. Thomson and E. A. Gaucher. 2002. Planetary biology--paleontological, geological, and molecular histories of life. Science 296: 864-868.
+.. [Mercer_y_Roth_2003] Mercer, John M. and V. Louise Roth. 2003. The effects of Cenozoic global change on squirrel phylogeny. Science 299: 1568-1572.
+.. [Theobald_2004] Theobald, D. 2004. (véase arriba)
+
+/////
+
+Anterior: :doc:`CA201` | Siguiente: :doc:`CA210`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

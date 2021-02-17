@@ -1,0 +1,182 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. type: randi
+.. category: Traducciones de James Randi
+.. date: 2006-08-18 00:00:00
+.. author: James Randi, traducción de Marcelo Huerta San Martín
+.. title: Informe ridículo de la semana; Debilitando la paciencia; Que se venga la lluvia; Sobre los círculos de los cultivos; Maitreya... otra vez; Premio bien ganado; Pregunta técnica; Reacción de YouTube; Para cerrar...
+
+.. contents:: Contenido
+   :class: sidebar
+   :local:
+
+Informe ridículo de la semana
+.............................
+
+.. |mov| replace:: movimiento de basamento en la evidencia dentro de las ciencias de la salud
+
+.. image:: http://www.randi.org/images/commentary/200608/11calomel.jpg
+   :alt:
+   :width: 205
+   :height: 405
+   :align: right
+
+Bajo el encabezado presuntuoso de “Artículo erudito”, cuatro “científicos” canadienses (todos doctores o candidatos a serlo) han presentado al mundo el artículo más sorprendentemente ingenuo y absurdo al que pueden acceder en http://www.badscience.net/?p=277, aunque les advierto que es un desastre difícil de desentrañar. Mi amigo Bend Goldacre del periódico Guardian del Reino Unido me llamó la atención sobre ello.
+
+Se titula “Deconstruyendo el discurso basado en la evidencia de las ciencias de la salud: la verdad, el poder y el fascismo”. No, no lo inventé, aunque nuestro héroe Jonathan Swift podría haberlo hecho. Quizá sólo el Resumen y las primeras 70 palabras de la Introducción satisfarán a la mayoría de los lectores, que de otro modo podrían caerse de risa leyendo el artículo completo, si no fuera por el hecho de que estos académicos *parecen* hablar en serio. Decídanlo ustedes mismos:
+
+  Antecedentes
+
+  Basándonos en el trabajo de los difuntos filósofos franceses Deleuze y Guattari, el objetivo de este artículo es demostrar que el |mov| es escandalosamente excluyente y peligrosamente normativo en relación con el conocimiento científico. Como tal, afirmamos que el |mov| constituye un buen ejemplo de microfascismo en boga en la arena científica contemporánea.
+
+  Objetivo
+
+  El trabajo filosófico de Deleuze y Guattari prueba su utilidad al mostrar cómo las ciencias de la salud son colonizadas (territorializadas) por un paradigma científico de investigación que lo abarca todo (el post-positivismo) sino, y más importante, al mostrar el proceso por el cual una ideología dominante llega a excluir formas alternativas de conocimiento, actuando por lo tanto como una estructura *fascista*.
+
+  Conclusión
+
+  El Grupo Cochrane, entre otros, ha creado una jerarquía que aprobaron muchas instituciones académicas y que sirve para (re)producir la exclusión de ciertas formas de investigación. Dado que los “regímenes de la verdad” del tipo del movimiento basado en la evidencia actualmente gozan de un estatus privilegiado, los eruditos no sólo tienen el deber científico, sino también la obligación ética de analizar estos regímenes de poder.
+
+  Introducción
+
+  Ya nos imaginamos las objeciones. El término *fascismo* es un concepto tan cargado emocionalmente tanto en el área política como en la religiosa; es la expresión más desagradable de la vida en el siglo XX. Aunque se asocia con sistemas políticos específicos, este fascismo de las masas, tal como lo practicaron Hitler y Mussolini, hoy ha sido reemplazado por un sistema de microfascismos: intolerancias polimorfas que se revelan de formas más sutiles...
+
+Si esto en verdad es serio, es un ataque a la racionalidad, al método científico y a la razón de parte de personas que deberían estar mejor informado. Dice, en definitiva, que las formas “alternativas” de pensar (la intuición, las ideas que hacen sentir bien, las corazonadas, las adivinanzas y todo lo que suena bien) deberían aceptarse en lugar de la ciencia de la salud basada en la evidencia, porque (afirman) “esto constituye el 98% de los textos publicados”. ¿Qué entendí mal aquí? ¿La ciencia médica es un concurso de popularidad? ¿La nueva norma para que algo sea aceptable en lo que estos chapuceros consideran ciencia de la salud es una votación del volumjen de material publicado? Sangrías, homeopatía, imanes, acupuntura, moxibustión, cánticos y ruego mediante la plegaria parecerían ser (para ellos, simplemente porque son ideas muy viejas) mucho más efectivos que los métodos medicinales que está probado (interminablemente, una y otra vez) que funcionan ¡y lo hacen muy, muy bien!
+
+Pero estos místicos canadienses están alarmados la medicina verdadera está pasando por alto a su abracadabra favorito y escriben:
+
+  Desenmascarar la política oculta del discurso basado en la evidencia es fundamental, y esta tarea es la base de nuestra crítica.
+
+Luego de leer esto, incluso ignorando mi “política”, no permitiría que me llevaran a la Escuela de Enfermería de la Facultad de Ciencias de la Salud de la Universidad de Ottawa ni por un pellejo en un dedo o un dolor de cabeza. El personal (que incluye al autor principal de este extraño documento) podría terminar dándome calomel. ¿Por qué? Porque es cloruro mercurioso, Hg\ :sub:`2`\ Cl\ :sub:`2`\ , un veneno mortal, pero usado en medicina por más de cuatro siglos, adí que ciertamente aparecía en el 98% de la literatura médica de modo que esta gente lo aceptaría y celebraría con toda felicidad por esta pandilla. ¿O elegirían frotar imanes en mi cuerpo para estimular mi circulación? ¡Lo adoran los pseudomédicos y cae dentro del 98%!
+
+(Sólo para satisfacer al pequeño porcentaje de mis lectores que se deleitan en encontrar afirmaciones incorrectas en mi texto, dejé que se colara la frase sobre el Hg\ :sub:`2`\ Cl\ :sub:`2`\ en el texto anterior, esperando que los conocedores de la química hubieran corrido al teclado para reprenderme. Sé bien que el cloruro mercurioso no es directamente un veneno en sí mismo, pero se si ingiere oralmente, como se hizo durante más de 400 años con el calomel, se separa en mercurio y cloruro *mercúrico* (HgCl\ :sub:`2`\ )cuando llega al ácido hidroclorhídrico en el estómago. *Esa* veriedad de cloruro produce rápidamente falla drástica de los riñones y otros eventos dramáticos y dañinos que conducen a la muerte. ¡Ahí tienen!)
+
+Debilitando la paciencia
+........................
+
+El lector Ian MacMillan nos informa que los soldados hospitalizados desde Israel recibieron una visita pagada del llusionista Uri Geller, que parece estar aplicándoles la misma vieja técnia que les ha estado vendiendo a los equipos de rugby del Reino Unido, el mantra “cada día, en todos los sentidos, me siento mejor y mejor” originado en 1880 por Emil Coué, el farmacéutico francés. Uno espera que les funcione mejor a los soldados que a los futbolistas británicos. Su puntaje es lamentable.
+
+.. figure:: http://www.randi.org/images/commentary/200608/Gellerspoon.jpg
+   :alt:
+   :figwidth: 220
+
+   ¿Qué tan tonto puede ponerse un hombre adulto?
+
+Como era inevitable, Geller también les presentó a los soldados su famoso truco de frotar suavemente el mango de una cuchara hasta que parezca doblarse. Es parte de su repertorio de sólo una media docena de números en primer plano. Por favor noten que hablan claro en la gacetilla sobre esta aparición, la presentación se menciona normalmente como “truco” aunque Geller dice, como siempre: “No, doblar cucharas no es un truco, es una ciencia”. Me encanta que cada vez con más frecuencia los medios actualmente se refieren a Geller como a un mago y a sus presentaciones como “trucos”. Finalmente lo entendieron.
+
+Pero el punto destacado de este evento publicitario sucedió cuando Geller le entregó una cuchara doblada a un soldado herido de mirada divertida diciendo: “Esta es una cuchara oficial de Uri Geller. Véndela en eBay por mil dólares”. Parece no recordar que la última cuchara doblada por Geller que se ofreció en eBay sólo recaudó *un dólar del único postor*. Vea `nuestro artículo sobre ello <http://www.sindioses.org/randi/randi20051104.html#mi-peque-a-contribuci-n>`__.
+
+El artículo terminaba así:
+
+  Una mujer anciana comentó, mientras lo observaba alejarse del hospital: “Ese es Uri Geller. Es un mago muy ingenioso. Quizá podría doblar algunos cohetes Katyusha para que dieran vuelta en U y volvieran al Líbano”.
+
+¿Ven? Geller quisiera hacernos creer que hasta las ancianas de Israel están mal informadas... o quizá sólo son más inteligentes de lo que él piensa.
+
+Que se venga la lluvia
+......................
+
+.. image:: http://www.randi.org/images/commentary/200608/11mayor.jpg
+   :alt:
+   :align: right
+
+El lector Frank Ward de Toledo, Ohio, nos cuenta.
+
+  Cuando leí en su último comentairo sobre los esfuerzos para invocar la lluvia en Lubbock, Texas, en los que participó su alcalde, me recordó de una situación similar aquí en Toledo, Ohio.
+
+  Hace poco, luego de que una vecindad en particular fue afectada repetidamente con inundaciones serias, nuestro alcalde Carty Finkbeiner (no estoy inventando) visitó a los residentes del área afectada. Los condujo a una plegaria al Señor para detener la lluvia. Una fotografía en The Toledo Blade los muestra haciendo precisamente eso. De pronto, sólo ha habido problemas de inundaciones menores desde entonces, así que saque sus propias conclusiones. El Sr. Finkbeiner llamó la atención de todo el país hace unos años, durante un período anterior como alcalde, cuando sugirió, aparentemente con toda seriedad, que las casas adyacentes al aeropuerto, abandonadas por problemas de ruido, fueran puestas a disposición de los sordos. Me recuerda una vieja frase de George Carlin sobre el cartel en el boletín de anuncios de la reserva india que decía “El miércoles a la noche habrá una danza de la lluvia, si el tiempo acompaña”.
+
+Sobre los círculos de los cultivos
+..................................
+
+El lector británico Graham Peters:
+
+  El misterio de los círculos de los cultivos se resolvió para nosotros cuando vivimos en Inglaterra en la década de 1990. Nos encontramos deambulando por la autopista A34 hacia Newbury donde un exquisito círculo de los cultivos había aparecido en las colinas hacia el Este de donde estábamos. Examinándolo más de cerca, descubrimos un estacionamiento, con cajero y todo, que aceptaba billetes de |pound|\ 5 por el privilegio de estacionar en su tierra y aplastar su grano para examinar el fenómeno “natural”... ah, perdón, “extraterrestre”.
+
+  Pagamos conformes por el privilegio de examinar esto de cerca, habiendo notado que tales “círculos de los cultivos” habían llegado hacía poco a Gran Bretaña. La serie de círculos adyacentes exhibían una calidad artística exquisita, mucho más allá de lo que estaba al alcance de gente campesina de la zona (a 60 millas de Londres). Me impresionó especialmente la marca de la estaca en el centro de cada círculo (especialmente en las marcas de neumáticos de tractor que aparecen en todos esos cultivos y que ocultan las huellas de pies humanos) y la presión obvia de la parte superior de los tallos entre el centro de cada círculo y los anillos concéntricos que quizá podrían ocurrir si la ubicación de una tabla la estableciera un radio tirado a partir de una estaca central.
+
+  Hay algo exquisitamente bucólico en una tarde de verano transcurrida en un sembradío inglés con una mujer hermosa, algo que conduce bastante a una experiencia extraterrestre. Dicha mujer (que sabe demasiado sobre los antiguos ritos de fertilidad ingleses para su propio bien) objetó alegando que (a) había un bebé y (b) ¿no se le metería el rastrojo en los calzones?
+
+  El sentido de romanticismo de los círculos de los cultivos se nos pasó por alto al darnos cuenta de que el granjero paleto que recibió nuestro dinero tenía una apariencia claramente de feria y un cinturón para el dinero muy profesional (y muy bien llevado).
+
+  Pero estuvimos de acuerdo en que el efecto general era muy hermoso.
+
+  Los precios del grano aumentaron al año siguiente.
+
+Maitreya... otra vez
+....................
+
+El lector "Adolphus Smart" fue uno de más o menos una docena de lectores que mejoraron mi conocimiento admitidamente escaso de la literatura budista, aunque no sabemos con seguridad si los McElroy (http://www.randi.org/jr/2006-08/080406move.html#i3 {vertraduccion;randi20060804.html}) llegaron más lejos de lo que llegué yo buscando los ancestros de su gurú imaginario:
+
+  Siempre leo (y con frecuencia disfruto) su comentario semanal. Pero creo que Ud. y sus lectores deberían haber investigado más los orígenes de “Maitreya”. Aunque los amantes de lo mágico agitan su nombre (como hacen con la mayoría de las figuras espirituales respetables o al menos políticamente correctas) el nombre y el concepto de Maitreya es en verdad anterior a cualquier novela de ciencia ficción. Traducido de http://en.wikipedia.org/wiki/Maitreya:
+
+    La [historia de la] profecía de la llegada de Maitreya se halla en la literatura canónica de todas las sectas budistas [...] y la aceptan la mayoría de los budistas como una declaración de sobre un suceso real que tendrá lugar en el futuro distante [...]. Una de las menciones de Maitreya es un texto sánscrito, el |profecia| (La profecía de Maitreya), que afirma que los Dioses, los hombres y otros seres adorarán a Maitreya.
+
+  Leí y disfruté “El Señor de la Luz” hace décadas mientras tomaba un curso de verano en el sidhis de “levitación” de Meditación Trascendental de la Universidad Internacional Mahareshi en mi lejana juventud. Fue casi como un “clásico subterréaneo” pasado en secreto entre los pocos de nosotros que podían identificarse con estar fuera de sintonía con una “jerarquía hindú” predominante. En realidad, eramos más como los escolares rebeldes de la parroquia que hacían morisquetas a espaldas de las monjas.
+
+  El libro me llegó del mismo fulano que me mostró su libro “Fraudes paranormales” al principio de este año. Ni que decir tiene, con el tiempo me fui del lugar, aunque sólo considero al movimiento de la MT más estrafalario que insidioso.
+
+Adolphus, le hago notar que el Maitreya mitológico (como he descubierto con mi nuevo saber) invariablemente se representa sin barba, aunque a los amigos de lo mágico les guste darle una barbita a lo Darwin. Pero ¡hey, al diablo con la exactitud!
+
+Dominic López hizo un comentario parecido sobre los McElroy:
+
+    .. image:: http://www.randi.org/images/commentary/200608/11gm.jpg
+       :alt:
+       :align: right
+
+
+    Supongo que los McElroy usan el nombre para darle algún peso y autoridad al “espíritu” que dicen canalizar. Intentan legitimar sus afirmaciones usando un término que tiene significado y significación para cierta comunidad religiosa, no es que estén haciendo algo parecido a canalizar a Gandalf como parece insinuar usted.
+
+¿Hay mucha diferencia (en la realidad, que se inmiscuye constantemente en mi proceso de pensamiento) entre Gandalf y Maitreya? Piénselo. Ambos son hombres ficticios, ambos son mágicos, ambos son fantasías...
+
+Premio bien ganado
+..................
+
+El lector Larry Thornton nos recuerda al conductor del popular programa radial crédulo “De costa a costa”:
+
+  En 1988, Art Bello fue mencionado como receptor del premio de dudoso prestigio Vela Apagada. El Consejo para la Integridad de los Medios citó a Bell “por alentar la credulidad, presentar la pseudociencia como genuina y contribuir a la falta de comprensión del público de los métodos de investigación científica”.
+
+Apostaría que Bell tiene el premio en exhibición en su caja de premios...
+
+Pregunta técnica
+................
+
+Un lector me preguntó si cambiarían nuestras influencias astrológicas si viajáramos a Marte y nos estableciéramos allí. Eh... no. Dado que no existen tales influencias, no haría diferencia alguna... Pero eso causaría mucho nerviosismo entre los astrólogos, al igual que el descubrimiento de cualquier forma de vida extraterrestre le provocaría a un ataque de rabia a los fundamentalistas religiosos...
+
+Reacción de YouTube
+...................
+
+El lector Evan Miller está indignado con razón por una acción tomada por el sitio YouTube. Allí se halla una colección de fragmentos de video que pueden ser observados por navegadores de Internet, y tiene una función de búsqueda por medio de la cual se puede buscar por tema. Dice Evan:
+
+  Nunca hubiera pensado en contactarlo, Sr. Randi, ni en mis sueños más locos. Sin embargo, debido a mi indignación reciente, no puedo quedarme callado. Antes que nada, soy un gran fan suyo. Soy un aspirante a estudiante universitario y ateo solitario. Escucho con frecuencia *Point of Inquiry* y *Skepticality* y disfruto sus entrevistas en su totalidad. Lo han citado en un video en el sitio YouTube dicindo que el video *Atheist* era "Muy Cool".
+
+  Hace poco ese video era promocionado en YouTube. “Promocionado” es un término que usan que significa que literalmente lo promocionan en una lista que aparece en la página principal de su sitio. Esto permite que aumente la cantidad de visualizaciones para cualquier video que aparezca allí. Por lo general hace falta una semana o dos para que cualquier video pase por la lista. El video *Atheist* desapareció de la lista en más o menos un día. Parece que fue retirado intencionalmente de la lista por alguna razón. Originalmente me sorprendió mucho ver que el video aparecía promocionado, pero que lo retiraran reafirma mis creencias sobre cómo nos ve la gente. YouTube es una comunidad enorme y el escepticismo aparentemente no es una parte importante de ella.
+
+El video *Atheist* (antes de que desaparezca del todo) está en http://www.youtube.com/watch?v=fdVucvo-kDU. Quizá deberíamos asegurarnos de que nuestros amigos puedan ver y/o copiarlo antes de que se “pierda” de algún modo en el sistema.
+
+Para cerrar...
+..............
+
+¡Un hallazgo! ¡Esto es una verdadera sorpresa! ¡Haga clic aquí__ para escuchar la auténtica voz del legendario Harry Houdini, grabada por el propio Thomas Edison en un cilindro de cera, dando su discurso introductorio de la ilusión de la Celda de Tortura de Agua que él creó y presentó en su última gira teatral en 1929!
+
+Salimos a nuestro crucero al Triángulo de las Bermudas en una semana, y haré un gran esfuerzo para prepararles una nueva columna. Dependerá de la electrónica y la disponibilidad de instalaciones.
+
+Dos pruebas importantes, una de la homeopatía y una de la rabdomancia, saldrán dentro de poco, y tendremos informes detallados para ustedes los lectores, por supuesto. El millón de dólares quedará colgado, como siempre…
+
+Muy pronto, publicaré aquí el guión completo del fraude telefónico de la Srita. Cleo que ganó millones y verán lo inteligente e insidioso que era este fraude. ¡Sólo espero que no sea tan revelador que aparezcan más Sritas. Cleo!
+
+Mi recuperación sigue bien, gracias. Cada día, en todos los sentidos... Bueno, ya saben cómo es la frase.
+
+__ http://www.randi.org/media/HarryHoudini-Edisonmachinerehearsal.mp3
+
+|firmarandi|
+
+.. |profecia| raw:: html
+
+   Maitreyavy&acirc;kara&#326;a
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+.. include:: <isonum.txt>
+
+.. meta::
+    :author: Traducido por Marcelo Huerta San Martín
+    :description: Informe ridículo de la semana — Debilitando la paciencia — Que se venga la lluvia — Sobre los círculos de los cultivos — Maitreya... otra vez — Premio bien ganado — Pregunta técnica — Reacción de YouTube — Para cerrar...

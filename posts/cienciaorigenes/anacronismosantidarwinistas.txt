@@ -1,0 +1,121 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. title: Anacronismos antidarwinistas
+.. type: cienciaorigenes
+.. author: José María Hernández de Miguel
+.. description: "¿Que tiene Darwin que no tengan Copérnico o Hawkings? ¿A que tanto odio no sólo a la teoría, sino a la persona? ¿Fue porque dijo que el hombre descendía del mono? En parte sí, aunque el asunto es algo más complejo. Es necesario remontarnos a finales del siglo XVIII y principios del XIX para entender la situación de la biología de la época, y comprender porqué los actuales defensores del creacionismo (también llamado diseño inteligente) siguen anclados en aquella época."
+.. date: 2009-11-25 00:00:00
+.. category: Ciencia de los orígenes
+.. previewimage: caricaturadarwin.jpg
+
+Artículo publicado previamente en `La ciencia y sus demonios`__
+
+__ http://lacienciaysusdemonios.com/2009/08/09/anacronismos-antidarwinistas/
+
+.. class:: primera
+
+La figura de Charles Darwin despierta verdadera animadversión dentro de muchos círculos religiosos. Quizá, a primera vista, una persona pueda preguntarse el porqué de este odio a un naturalista que lo único que hizo fue contribuir notablemente al avance de nuestro conocimiento del mundo viviente, odio que no se expresa ante figuras como Lamarck, Einstein o Hawkings.
+
+En el caso del fundamentalismo religioso, Darwin es prácticamente demonizado y descrito como un ser malvado  responsable de los males de nuestra época, ya fuera por su propia mano o por la de sus “seguidores”, identificados poco menos que de sectarios satánicos al servicio del ateismo.
+
+En otros círculos de supuesto “antidarwinismo científico”, a pesar de hablar de “nuevos paradigmas en la biología” y “teorías alternativas silenciadas por el establismen neodarwinista”, surge de nuevo,  tras leer unas pocas líneas, ese mismo odio visceral a la figura de Darwin.
+
+¿Que tiene Darwin que no tengan Copérnico o Hawkings? ¿A que tanto odio no sólo a la teoría, sino a la persona? ¿Fue porque dijo que el hombre descendía del mono? En parte sí, aunque el asunto es algo más complejo.
+
+
+Es necesario remontarnos a finales del siglo XVIII y principios del XIX para entender la situación de la biología de la época, y comprender porqué los actuales defensores del creacionismo (también llamado diseño inteligente) siguen anclados en aquella época.
+
+La ilustración y las ciencias naturales
+---------------------------------------
+
+.. figure:: lamarck.jpg
+   :alt:
+   :figclass: align-right
+   :figwidth: 260
+   :align: center
+
+   **Jean-Baptiste-Pierre-Antoine de Monet, Caballero de Lamarck (1744-1829)**
+
+
+El siglo de las luces supuso un impresionante desarrollo de la ciencia, y la historia natural no fue una excepción. Los primeros intentos científicos de catalogación de los seres vivos, llevados a cabo por Carl Linne (1707-1778) se vieron continuados por numerosos naturalistas que se lanzaron a explorar los lugares más recónditos del planeta, describiendo un elevadísimo número de especies. Naturalistas como Humboldt, Bank o el español Cavanilles, suponen un ejemplo de los numerosos científicos que contribuyeron a ofrecer una visión globa de la gran biodiversidad de la Tierra, no limitándose a la simple descripción, sino ordenando y clasificando los organismos de acuerdo con sus similitudes.
+
+Esto, indiscutiblemente, contribuyó a afianzar una idea que ya había sido esbozada bastantes siglos atrás: el que las especies animales y vegetales se encontraban relacionadas entre sí con diferentes grados de parentesco. Los esbozos de clasificaciones según grupos estructurales y funcionales más importantes fueron las de Buffon (1707-1788) y Cuvier (1769-1832). Con todo ello, no tardaron en surgir naturalistas que se preguntaron sobre el origen de esta variabilidad, y que trataron de explicarla postulando variadas tesis dentro de una concepción evolucionista. El propio conde de Buffon, Monboddo (1714-1799) -que fue el primero en proponer que el hombre y los simios antropomorfos tenían un origen común- y especialmente Jean-Baptiste Lamarck (1744-1829), constituyeron las bases de la moderna idea de evolución. Erasmus Darwin (1731-1802), el abuelo de Charles, se contaba entre estos precursores de la teoría evolutiva.
+
+Una visión teísta del motor evolutivo
+--------------------------------------
+
+Entrando en el siglo XIX, se diferenciaban dos posturas sobre el origen de los seres vivos: el fijismo (según el cual las especies permanecían tal y como fueron creadas, sin evolucionar) enarbolado por los propios Linneo y Cuvier (seguido posteriormente por Louis Pasteur) y un incipiente evolucionismo, que proponía en mayor o menor medida que los seres vivos actuales procedían de formas primitivas, destacando sin duda Jean Baptiste Lamarck como proponente de la teoría más completa sobre la transmutación de las especies por la herencia de caracteres adquiridos o perdidos por el uso y desuso de los mismos.
+
+Aún así, no existía una explicación de cómo se había desarrollado toda esta variabilidad, ni siquiera en el caso del evolucionismo, dado que los mecanismos de variación eran totalmente desconocidos, y las explicaciones evolutivas, al ser muy imperfectas y poco explicativas, solían complementarse con tendencias internas a la complejidad u otras causas teleológicas.
+
+Ante esta situación, y debido a la importante influencia de la Iglesia, pocos científicos de la época descartaban la intervención de un Creador, fuera como origen de todas las formas vivas (fijismo) o como director del plan evolutivo, que invariablemente conducía al ser humano como meta final del proceso (idea de la que se desmarcó Lamarck en una de sus últimas obras, ridiculizando la interpretación teleológica del proceso evolutivo).
+
+La teoría más aceptada en todos los ámbitos durante la primera mitad del siglo XIX era que los seres vivos constituian productos de un diseño divino. El dogma central se encontraba constituido por la idea de que toda la variabilidad, las increibles formas y estructuras de animales y plantas, constituían una prueba de la existencia de un creador inteligente, de un diseñador que había realizado un exquisito plan, fuera de forma directa creando todas y cada una de las formas existentes o bien mediante cierta capacidad de variación, dando nuevas formas a partir de otras, pero siempre dentro de un plan bien definido.
+
+Paley y el diseño inteligente
+------------------------------
+
+.. figure:: paley.jpg
+   :alt:
+   :figclass: align-right
+   :figwidth: 200
+
+   **William Paley (1748-1805)**
+
+
+Sin duda alguna, la obra más importante sobre la evidencia de diseño en los seres vivos fue Natural Theology (1802), del teólogo británico William Paley (1743-1805). En ella, Paley (que era un gran conocedor de las ciencias naturales) se explaya en presentar ejemplos sobre la complejidad de numerosas estructuras, argumentanto que la misma representa una prueba irrefutable de haber sido diseñadas. Para ello, utiliza una analogía que ha llegado hasta nuestros días con el nombre de la “analogía del relojero”, según la cual, ante un ojo humano debemos pensar lo mismo que ante un reloj encontrado en el campo: que ambos son producto de un diseñador inteligente.
+
+Paley también introduce un concepto que denomina “relación” y que hoy conocemos como complejidad irreductible, consistente en argumentar que las complejas relaciones entre estructuras y procesos de los seres vivos sólo pueden explicarse si alguien diseñó el organismo en su conjunto.
+
+De esta forma, y pese a la poca gracia que le hacía a la Iglesia las ideas evolucionistas, el argumento del diseño de Paley lograba contener cualquier explicación puramente mecanicista de la biodiversidad observada, especialmente porque no se disponía de ninguna explición más convincente que la del diseño divino.
+
+La revolución de Darwin y Wallace
+----------------------------------
+
+.. image:: darwiningalapagos.jpg
+   :alt:
+   :align: left
+
+
+“El origen de las especies”, cuya primera edición vio la luz el 24 de noviembre de 1859, supuso una ruptura total con la situación de la época. Por primera vez se proponía un mecanismo que explicaba no solamente la variación observada, sino la evolución y ramificación de todos los organismos vivos a partir de un ancestro común.
+
+Lo más importante de la obra de Darwin no fue la confirmación del hecho evolutivo (aunque es digno de tener en cuenta), sino el ofrecer una teoría sobre cómo se produce esta evolución: el proceso de la Selección Natural, conclusión a la que llegó paralela e independientemente otro naturalista inglés: Alfred Russel Wallace (1823-1913).
+
+A pesar de no disponer de las explicaciones sobre los mecanismos de transmisión entre generaciones (algo que tuvo que esperar más de cincuenta años hasta el desarrollo de la genética), la Selección Natural explicaba correctamente cómo podía construirse una estructura tan compleja como el ojo humano sin la intervención de ningún diseñador, únicamente mediante el filtrado de las variaciones que surgen espontáneamente en la naturaleza.
+
+La tesis de Darwin fue la primera que se enfrentó con éxito al diseño inteligente de Paley, ofreciendo una explicación mejor y más ajustada a las pruebas empíricas. Es de imaginar el gran revuelo que supuso la publicación de “El origen…”, que agotó los 1.250 ejemplares de la primera edición durante el primer día de venta.
+
+Por primera vez, podía explicarse la enorme diversidad biológica por procesos naturales, sin dirección y sin conductor inteligente. Aún faltaba mucho para entender los procesos que producían la variación, la forma en que éstas se heredaban y otros variados aspectos que Darwin no pudo ni entrever, pero el salto cualitativo estaba dado: la naturaleza se podía construir a sí misma. Además, también por primera vez podían comprenderse las imperfecciones que se detectan en muchos seres vivos, algo que no podía explicar la creencia del diseño inteligente.
+
+Como era de esperar, esto incomodó grandemente a las mentalidades conservadoras y victorianas de la época. El concepto de un orden perfecto diseñado y mantenido por un creador se cambiaba por el de una naturaleza producida mediante procesos naturales, sin dirección ni plan previo, mediante la filtración de variaciones aleatorias con respecto al valor adaptativo que otorgaban al organismo. Y lo que es peor, el ser humano pasó de representar el fin y el cúlmen de la creación a ser una especie más, formada por mecanismos semejantes a los que habían originado las aves, los reptiles o el resto de mamíferos.
+
+La demonización del mensajero
+-----------------------------
+
+.. image:: darwinensimpsons.jpg
+   :alt:
+   :align: right
+
+
+El cristianismo siempre a culpado al Demonio de todos los males del mundo. La existencia del mal encarnado justifica las numerosas injusticias y crueldades del mundo que, de otra forma, solo podrían achacarse al propio creador. Aunque la lucha entre el bien y el mal es una constante en gran parte de las religiones, el cristianimso ha sabido explotarla especialente, usando el temor a Satán y a todo lo maligno para que el pueblo llano rechazase cualquier asunto peligroso para la cada vez más poderosa Iglesia.
+
+Y con Darwin y la Selección Natural se empleó, consciente o inconscientemente, la antigua técnica: la iglesia convirtió a Charles Darwin en la mismísima encarnación del Diablo, acusándole de tratar de expulsar a Dios del mundo y de la vida de los hombres. Nada más lejos de la mente del naturalista, pero la propaganda sabiamente útilizada caló en aquellos sectores de la sociedad más irracionales y religiosas. Sin entender más de dos palabras de su teoría, gran parte de la población ha rechazado, durante siglo y medio, una de las más importantes aportaciones a la biología de todos los tiempos.
+
+
+Antidarwinismo actual: o como no cambiar a lo largo de los siglos
+-----------------------------------------------------------------
+
+Por mucho que la mayor parte de los autoproclamados “antidarwinistas” actuales pretendan revestirse de un hábito cientifista, a poco que se examinen sus doctrinas se puede encontrar un extremado paralelismo a la posición de Paley y de los críticos coetáneos de Darwin. El discurso que se emplea hoy por parte de estos nuevos partidarios del “diseño inteligente” no deja de ser el mismo: la compeljidad irreductible, la evidencia del diseño. En fin, todo aquello que no solo con Darwin, sino con el siglo y medio de invetigaciones biológicas posteriores ha quedado totalmente refutado. No se trata de “una nueva visión de la biología”, ni del “nuevo paradigma”, sino de la misma doctrina decimonónica que, al igual que el resto del corpus de la religión cristiana, ha atravesado los siglos sin moverse un ápice de sus posiciones originales.
+
+Resulta curioso que precisamente estos “antidarwinistas” acusen a la biología evolutiva de ser una “ciencia caduca”, de estar anclados en los postulados de Darwin o de negarse a reconocer las nuevas “evidencias” genéticas. Y digo que es curioso, por no decir irritante, cuando tanto sus críticas como sus alternativas son las que se sitúan a mediados del siglo XIX, sin haber comprendido ni los postulados originales de Darwin, ni haber entendido que a lo largo de estos 150 años la biología evolutiva a cambiado muchísimo, y que no seguimos hablando de lo mismo que en las reuniones de la Royal Society de finales del 1800.
+
+El antidarwinismo del diseño inteligente no es ciencia. Es una forma de disfrazar la defensa del fundamentalismo religioso que sigue sintiéndose amenazado por que podamos explicar la maravilla de la biodiversidad sin recurrir a ningún relojero. Da igual lo que avancen los conocimientos humanos, da igual los fósiles o las evidencias genéticas que encontremos, estos movimientos seguirán disfrazando a Darwin de mono, pero no porque tengan ninguna base para pensar que se equivocó, sino porque les molesta profundamente saber que ambos, monos y hombres, compartimos un ancestro común. Tras mucho tiempo, aún no están preparados para realizar esa cura de humildad.
+
+Los tiempos de Darwin pasaron, el eslabón perdido ya se encontró (y no uno, sino cientos), el registro fósil ya muestra contundentemente una historia evolutiva de la vida, hoy conocemos casos de especiación en laboratorio y en el campo, sabemos cómo se produce gran parte de la variabilidad genética y cómo se filtra entre generaciones. Aunque aún queda mucho por descubrir, la teoría evolutiva ha sido tan modificada desde Darwin (y desde la nueva síntesis de mediados del siglo XX), que casi ni el propio naturalista la reconocería, si no fuera porque aún sigue vigente y de forma cada vez más incuestionada su principal e inestimable descubrimiento: la Ley de la Selección Natural.
+
+
+.. include:: includes/ciori_pie.inc
+
+
+
+
+

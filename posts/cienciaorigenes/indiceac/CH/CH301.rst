@@ -1,0 +1,42 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH300
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2000-9-16
+.. type: afirmacrea
+.. title: CH301: No había muerte ni descomposición antes de la Caída
+.. description: Respuesta a la afirmación creacionista «No había muerte ni descomposición antes de la Caída»
+.. slug: CH301
+.. link: http://www.talkorigins.org/indexcc/CH/CH301.html
+
+No había muerte ni descomposición antes de la Caída de Adán y Eva, cuando el pecado llegó al mundo.
+
+**Fuente:**
+
+Morris, John D., 2000. Creation's Easter message. *Acts & Facts* 29(4) (Apr.): 1-2.
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, p. 211.
+
+Respuesta
+=========
+
+1. Las referencias bíblicas a la muerte se refieren a la muerte espiritual. {{% biblia "Romanos 6:23" DHH %}}, por ejemplo, dice que Dios, a través de Cristo, ya nos dio vida eterna. Obviamente, la muerte física sigue produciéndose, así que Cristo no salvó a la humanidad de ella. Si la muerte de la que se suponía que Cristo nos salvara era la muerte física, entonces Cristo fue un fracaso.
+
+2. Un mundo sin muerte estaría lejos de ser edénico. O no habría posibilidad de nuevos nacimientos, en cuyo caso ninguno de nosotros estaría vivo hoy, o el mundo se sobrepoblaría tanto con seres vivos que la mayoría de la gente estaría enterrada viva debajo de otros seres. La muerte es una parte necesaria de la vida.
+
+Otras lecturas
+==============
+
+Larson, Gary, 1998. *There's a Hair in My Dirt!: A Worm's Story*. New York: Harpercollins.
+
+
+/////
+
+Anterior: :doc:`CH220` | Siguiente: :strong:`CH310`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

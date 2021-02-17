@@ -1,0 +1,54 @@
+﻿.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB200
+.. author: Mark Isaak. traducción de Samuel Martínez de la Iglesia
+.. nocomments: True
+.. slug: CB200_1_1
+.. link: http://talkorigins.org/indexcc/CB/CB200_1_1.html
+.. date: 2006-09-09
+.. title: CB200.1.1: El flagelo tiene aproximadamente 30 proteínas únicas (no-homólogas)
+.. description: Respuesta a la afirmación creacionista «El flagelo tiene aproximadamente 30 proteínas únicas (no-homólogas)»
+.. type: afirmacrea
+
+
+
+Los evolucionistas proponen que los sistemas irreduciblemente complejos pueden aparecer por la exaptación (utilización de una adaptación preexitente para una nueva función) de partes de otros sistemas existentes. Pero aproximadamente 30 de las proteínas que se necesitan para el correcto funcionamiento del flagelo le son únicas; proteínas similares no se encuentran en otros sistemas vivos. Por tanto, no es posible que apareciesen por exaptación.
+
+
+**Fuente:**
+
+Minnich, Scott A., 2003. *Unlocking the Mystery of Life* (video), Illusta Media. https://www.youtube.com/watch?v=tzj8iXiVDT8 ; http://www.discovery.org/a/2116/
+
+Minnich, Scott A. and Stephen C. Meyer. 2004. Genetic analysis of coordinate flagellar and type III regulatory circuits in pathogenic bacteria. Second International Conference on Design and Nature, http://www.discovery.org/a/2181
+
+Respuesta
+============
+
+1. Esta afirmación es simplemente falsa. De las 20 proteínas en el flagelo bacteriano de *Salmonella* que se requieren en todos los demás flagelos bacterianos, solo 2 de ellas no tienen proteínas homólogas conocidas, es decir, son *"únicas"*. Es, al menos, plausible esperar encontrar estas proteínas homólogas en un futuro. Al menos nueve proteínas flagelares son homólogas a las proteínas del complejo de secrección Tipo III (T3SS), sugirendo que evolucionaron de un ancestro común. De cualquier manera, la existencia de varias proteínas homólogas demuestra que las partes del flagelo pueden funcionar para otros propósitos aparte de la movilidad ([Pallen_and_Matzke_2006]_).
+
+2. No existe tal cosa como *"el"* flagelo bacteriano. Hay miles, quizá millones de variedades entre las diferentes bacterias, sin mencionar otros tipos completamente distintos de flagelo en arqueas y eucariotas. El flagelo de *Salmonella*, por ejemplo, tiene 22 proteínas adicionales que otras bacterias no tienen en sus respectivos flagelos. ¿Proponen los defensores del diseño que cada una fue una creación separada o que evolucionaron de un ancestro común? ([Pallen_and_Matzke_2006]_).
+
+Enlaces
+===========
+
+Matzke, Nick, 2006. Flagellum evolution in Nature Reviews Microbiology. http://www.pandasthumb.org/archives/2006/09/flagellum_evolu.html
+
+Referencias
+==============
+
+.. [Pallen_and_Matzke_2006]    Pallen, Mark J. and Nicholas J. Matzke. 2006, 5 Sept. From *The Origin of Species* to the origin of bacterial flagella. *Nature Reviews Microbiology*, (epub.)
+
+Otras lecturas
+================
+
+Matzke, N. J. 2003. Evolution in (Brownian) space: A model for the origin of the bacterial flagellum.  http://www.talkdesign.org/faqs/flagellum.html
+
+/////
+
+Anterior: :doc:`CB200_1` | Siguiente: :doc:`CB200_2`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

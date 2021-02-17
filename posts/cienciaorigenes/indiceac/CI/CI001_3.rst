@@ -1,0 +1,62 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CI001.3: El diseño inteligente es parte de la ciencia aceptada
+.. description: Respuesta a la afirmación creacionista «El diseño inteligente es parte de la ciencia aceptada»
+.. slug: CI001_3
+.. link: http://www.talkorigins.org/indexcc/CI/CI001_3.html
+.. tags: CI, CI000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-08-22
+.. modified: 2003-09-01
+
+
+El diseño inteligente ha sido aceptada como una teoría de la corriente principal de la ciencia. Se discute en los consejos de educación, científicos importantes han publicado artículos sobre ella; incluso sus videos promocionales han sido presentados en la televisión pública [estadounidense].
+
+
+Fuente
+======
+
+Winn, Pete, 2003 (Aug. 15). A new day, some new science. Citizen Link http://www.family.org/cforum/feature/A0027372.cfm
+
+
+Respuesta
+===========
+
+1. El diseño inteligente no es una teoría de la ciencia convencional. (De hecho, :doc:`no es ciencia en absoluto <CI001>`.) No ha generado ninguna investigación. No se ha escrito ningún artículo científico al respecto. La mayoría de los escasos artículos que llegan a mencionarlo lo hacen de forma crítica ([Gilchrist_1997]_; [Lane_2003]_).
+2. El movimiento del DI ha sido llamado "máquina propagandística para obtener la apariencia de respetabilidad" ([Forrest_2002]_; [Forrest_y_Gross_2004]_). El movimiento se basa en engaños para llegar a ser aceptado como ciencia convencional.
+
+   * Una encuesta de 2003 informó respaldo a la enseñanza del diseño inteligente, pero los resultados de la encuesta se informaron de forma falsa y desde su inicio carecí de valor ([NMSR_2003]_; cfr [Mooney_2003]_).
+   * Los miembros del Discovery Institute presentaron a la Junta Educativa de Ohio una bibliografía de científicos respetados cuyas "publicaciones representan puntos de vista divergentes". Pero los científicos, al contactárselos, dijeron que su trabajo no respaldaba el diseño inteligente ni contradecía la evolución. Muchos dijeron que su trabajo es prueba que contradice el diseño inteligente ([Branch_2002]_).
+   * Para que su video promocional fuera emitido en televisión, el movimiento del DI ocultó deliberadamente el hecho de que se trataba de diseño inteligente ([Evans_2003]_).
+
+   Los recursos del Discovery Instituto y otros proponentes del diseño inteligente están dedicados a conferencias, publicaciones accesibles al gran público y cabildeo político. Hay mucho aire en torno al DI, pero ninguna sustancia.
+
+3. El diseño inteligente puede ser convencional, en algún sentido, en cuanto al público en general se refiere. Mucha gente cree en algún tipo de creación divina. Sin embargo, esto no puede considerarse aceptación del diseño inteligente porque incluye la evolución teísta, una noción que disgusta a muchos de los impulsores del DI. Cerca de la mitad de los estadounidenses creen en el creacionismo, lo cual puede considerarse "diseño inteligente convencional", pero ese número probablemente haya disminuido desde la popularización del concepto del DI hace 200 años. En una encuesta, el 84% de la población de Ohio no sabía lo que significa "diseño inteligente" ([Bishop_2002]_).
+
+   Es más, la popularidad del diseño inteligente entre la población es una falacia argumentativa. La astrología, por dar un ejemplo, es al menos igual de popular y es igual de errónea.
+
+
+Referencias
+===========
+
+.. [Bishop_2002] Bishop, George, 2002. Majority of Ohio science professors and public agree: "Intelligent design" mostly about religion. http://www.ncseweb.org/resources/articles/733_ohio_scientists39_intellige_10_15_2002.asp
+.. [Branch_2002] Branch, Glenn. 2002. Analysis of the Discovery Institute's "Bibliography of Supplementary Resources for Ohio Science Instruction." *Reports of the National Center for Science Education* 22(4): 12-18,23-24. http://www.ncseweb.org/resources/rncse_content/vol22/4583_analysis_of_the_discovery_inst_12_30_1899.asp
+.. [Evans_2003] Evans, Skip, 2003. Unlocking the mystery of Illustra Media. http://www.ncseweb.org/resources/articles/6786_unlocking_the_mystery_of_illus_7_1_2003.asp Véase también http://www.ncseweb.org/article.asp?category=19 para hallar enlaces a artículos relacionados.
+.. [Forrest_2002] Forrest, Barbara, 2002. The Wedge at work: How intelligent design creationism is wedging its way into the cultural and academic mainstream. En Pennock, Robert T. (ed.), *Intelligent Design Creationism and its Critics*, MIT Press.
+.. [Forrest_y_Gross_2004] Forrest, Barbara and Paul R. Gross, 2004. *Creationism's Trojan Horse*, Oxford University Press.
+.. [Gilchrist_1997] Gilchrist, George W., 1997. The elusive scientific basis of intelligent design theory. *Reports of the National Center for Science Education* 17(3) (May/Jun): pp. 14-15. http://www.ncseweb.org/resources/articles/2083_the_elusive_scientific_basis_o_3_16_2001.asp
+.. [Lane_2003] Lane, Les, 2003. Intelligent design in the scientific literature. http://www.geocities.com/lclane2/idlit.html
+.. [Mooney_2003] Mooney, Chris, 2003. John Zogby's creative polls. *The American Prospect*, 1 Feb. 2003. http://www.prospect.org/print/V14/1/mooney-c.html
+.. [NMSR_2003] NMSR, 2003. Sandia National Laboratories says that the Intelligent Design Network (IDNet-NM/Zogby) "Lab Poll" is BOGUS! http://www.nmsr.org/id-poll.htm
+
+
+/////
+
+Anterior: :doc:`CI001_2` | Siguiente: :doc:`CI001_4`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

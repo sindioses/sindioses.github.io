@@ -1,0 +1,34 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CF, CF000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2003-6-4
+.. type: afirmacrea
+.. title: CF002.1: Un tornado en una chatarrería no construye cosas
+.. description: Respuesta a la afirmación creacionista «Un tornado en una chatarrería no construye cosas»
+.. slug: CF002_1
+.. link: http://www.talkorigins.org/indexcc/CF/CF002_1.html
+
+El orden no se forma espontáneamente a partir del desorden. Un tornado que atraviesa una chatarrería nunca construiría un 747.
+
+**Fuente:**
+
+Hoyle, Fred, 1983. *The Intelligent Universe*. New York: Holt, Rinehart and Winston, pp. 18-19. 
+
+Respuesta
+============
+
+1. Esta afirmación es irrelevante en relación con la teoría de la evolución en sí misma, porque la evolución no se produce armando algo a partir de partes individuales, sino por medio de modificaciones graduales y selectivas en estructuras existentes. El orden puede surgir, y de hecho surja, a partir de procesos evolutivos de ese tipo.
+2. Hoyle aplicó su analogía a la abiogénesis, donde se aplica mejor. Sin embargo, el principio general que la sustenta es erróneo. El orden surge espontáneamente a partir del desorden todo el tiempo. El tornado mismo es un ejemplo de orden que surge espontáneamente. Algo tan complicado como las personas no surgiría espontáneamente a partir de sustancias químicas puras, pero no hay razón para creer que algo tan simple como una molécula autorreplicante no podría formarse de ese modo. Desde allí, la evolución puede producir más y más complejidad.
+   
+		
+/////
+
+Anterior: :doc:`CF002` | Siguiente: :doc:`CF003`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

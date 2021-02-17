@@ -1,0 +1,49 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CC102
+.. link: http://www.talkorigins.org/indexcc/CC/CC102.html
+.. date: 2003-04-27
+.. title: CC102: Se encontraron huellas de sandalias asociadas con trilobites
+.. description: Respuesta a la afirmación creacionista «Se encontraron huellas de sandalias asociadas con trilobites»
+.. type: afirmacrea
+
+William J. Meister encontró huellas de zapatos aparentemente humanas en una losa con obvios fósiles de trilobites en 1968 en Antelope Springs, a setenta kilómetros al noroeste de Delta, Utah. La suela de una de las huellas estaba gastadas, al igual que las suelas de zapatos se gastan hoy.
+
+**Fuente:**
+
+Brown, Walt, 1995. *In the beginning: Compelling evidence for creation and the Flood.* Phoenix, AZ: Center for Scientific Creation, p. 25. http://www.creationscience.com/onlinebook/AstroPhysicalSciences34.html
+
+Respuesta
+=============
+
+1. Los trilobites son reales (*Elrathia kingii*), pero la "huella de sandalia" es un patrón de desconchadura. El talón de la huella de Meister no está gastado sino producido por una rajadura larga que atraviesa la roca. Carece de las características diagnósticas que tiene una verdadera huella de sandalia. Hay muchas otras muestras de desgaste en el área idénticas en características a las supuestas huellas de sandalias pero en diversas formas. No aparecen como una huella de caminata sino como huellas aisladas ([Conrad_1981]_).
+
+2. Se ha documentado bien que los procesos geotérmicos tales como penetración de soluciones, desconchamientos y otros desgastes producen tales características en los esquistos de la Formación Wheeler, donde se hallaron las huellas ([Stokes_1986]_).
+
+Enlaces
+===========
+
+Kuban, Glen J., 1998. The "Meister Print": An alleged human sandal print from Utah. http://paleo.cc/paluxy/meister.htm or http://www.talkorigins.org/faqs/paluxy/meister.html
+
+Referencias
+============
+.. [Conrad_1981]    Conrad, Ernest C., 1981. Tripping over a trilobite: A study of the Meister Tracks. *Creation/Evolution* 6: 30-33.
+.. [Stokes_1986]    Stokes, William Lee, 1986. Alleged human footprint from Middle Cambrian strata, Milliard County, Utah. *Journal of Geological Education* 34: 187-190.
+
+Otras lecturas
+===================
+
+Strahler, Arthur N., 1987. Chapter 48: Out-Of-Order Fossils. *Science and Earth History--The Evolution/Creation Controversy*. Buffalo, New York: Prometheus Books, pp. 459-472.
+
+
+/////
+
+Anterior: :doc:`CC101` | Siguiente: :doc:`CC110`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

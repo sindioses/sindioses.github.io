@@ -1,0 +1,35 @@
+﻿.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC210
+.. author: Mark Isaak. traducción de Samuel Martínez de la Iglesia
+.. nocomments: True
+.. slug: CC213
+.. link: http://www.talkorigins.org/indexcc/CC/CC213.html
+.. date: 2003-06-13
+.. title: CC213: Existe una laguna entre anfibios y reptiles
+.. description: Respuesta a la afirmación creacionista «Existe una laguna entre anfibios y reptiles»
+.. type: afirmacrea
+
+
+No ha sido encontrado ningún fósil transicional claro y no ambiguo entre anfibios y reptiles. Distinguir fósiles transicionales entre estos dos grupos es problemático porque su estructura ósea es similar. Sólo porque sea dificil decir si un fósil perteneció a un reptil o a un anfibio no significa que sea el transicional de los dos.
+
+**Fuente:**
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, p. 83
+
+Watchtower Bible and Tract Society, 1985. *Life--How Did It Get Here?* Brooklyn, NY, p. 73.
+
+Respuesta
+============
+
+1. La principal característica que separa anfibios (tetrápodos primitivos) de reptiles (amniotas) es la posesión de amnios, que no fosiliza. Tenemos muchas criaturas del Pérmico; algunos son amniotas tempranos y otros más probablemente no lo son. No hay intermedios claros y no ambiguos entre los dos grupos como :doc:`Acanthostega <CC212>` entre peces y tetrápodos, o :doc:`Morganucodon <CC215>` entre reptiles y mamíferos. Sin embargo, la propia incertidumbre indica que tampoco hay una clara brecha entre anfibios y reptiles
+
+
+/////
+
+Anterior: :doc:`CC212` | Siguiente: :doc:`CC214`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

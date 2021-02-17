@@ -1,0 +1,57 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Noticias de la ciencia
+.. type: nocie
+.. author: Glenys Álvarez
+.. date: 2011-08-30 01:53:40
+.. title: Una supernova que se podrá ver con binoculares
+.. tags: astronomía
+.. description: No sólo las computadoras han capturado la explosión horas antes de que ocurra sino que saben está a una distancia cercana de sólo 21 millones de años luz
+
+.. figure:: supernovacerca.jpg
+   :alt:
+   :figwidth: 360
+   :figclass: align-right
+
+   En la imagen, cortesía de Peter Nugent en Palomar, vemos tres noches de esta explosión. La imagen de la izquierda fue tomada el 22 de agosto de 2011 y muestra el evento antes de que explotara, aproximadamente un millón de veces menos visible al ojo humano. La imagen del centro fue obtenida el 23 y muestra al supernova 10,000 veces menos visible. La imagen de la derecha fue tomada el 24 y muestra el evento seis veces más brillante que el día anterior. En dos semanas será visible con un par de binoculares. (EurekAlert)
+
+..
+
+    **Astronomía.** No sólo las computadoras han capturado la explosión horas antes de que ocurra sino que saben está a una distancia cercana de sólo 21 millones de años luz
+
+.. class:: primera
+
+
+La comunidad astronómica involucrada está tan emocionada que desea poner hasta al telescopio Hubble en ello. No sólo es una explosión ‘cercana’; son 21 millones de años luz pero eso lo más cercano que hemos estado a un supernova, sino que también ha sido descubierta horas antes de que hiciera el enorme estallido. Esas son las características que han sido registradas en PTF 11kly, como se llama la joven estrella en detonación.
+
+PTF 11kly se encuentra en un lugar que conocemos bien. La galaxia es reconocida como Molinete y está en lo que llamamos la Osa Mayor o El Carro, una constelación visible durante todo el año en al hemisferio norte que parece una carretilla. Por supuesto, es casi imposible hablar del verdadero poder de una de estas explosiones, un astrónomo explicaba el otro día sobre el supernova 1987A y decía que su energía era equivalente a un octillón de la artillería nuclear existente. ¡Un octillón!
+
+“Atrapamos a esta supernova muy pronto después de la explosión. PTF 11kly se pone más brillante con cada minuto que pasa. Ahora mismo es 20 veces más brillante de lo que era ayer. Observar esta explosión promete ser un paseo increíble. Es un clásico cósmico al instante”, observa Peter Nugent, del Laboratorio Berkeley y quien primero notó la explosión utilizando a PTF, un aparato de reconocimiento astronómico (Palomar Transient Factory) diseñado, precisamente, para descubrir fenómenos astronómicos mientras ocurren. De hecho, los astrónomos aseguran que han sido las supercomputadoras detrás de estos telescopios de reconocimiento las verdaderas responsables de manifestar el evento.
+
+“PTF usa un telescopio robótico en California para escanear el cielo todas las noches, esta información, tan pronto es recopilada, viaja casi mil kilómetros a través de tecnología inalámbrica de NERSC y otras organizaciones, estas computadoras utilizan algoritmos que les permite reconocer cuando un fenómeno interesante está ocurriendo. Este sistema automatizado envía las coordenadas a telescopios alrededor del mundo. Tres horas después de que PTF encontrara el supernova, telescopios en las islas Canarias de España lo capturaban, doce horas después, el Keck de Hawai y el Lick de California también lo observaban”, explica.
+
+|tit2|
+......
+
+.. |tit2| replace:: Miles observados desde el 2008
+
+Estas observaciones determinaron que la supernova se trata del tipo Ia, una categoría especial que son los usados para medir la expansión del universo y que a pesar de ser conocidos por 70 años todavía deja perplejo a los científicos. En varias ocasiones se ha dicho que este tipo de explosión, que ocurre en una enana blanca, acontece por la unión de un sistema binario.
+
+“A pesar de haber observado miles de supernovas yo nunca había visto algo así antes. Estamos encontrando nuevas pistas que responden nuestras preguntas sobre el origen de estas supernovas. Además, la habilidad de procesar, transmitir y compartir todos estos datos de forma global y en poco tiempo con profesionales que han estudiado estos fenómenos durante décadas nos provee con beneficios varios y muy significativos”, dice Andrew Howell de la Universidad de California en Santa Bárbara y del telescopio global Las Cumbres.
+
+|tit3|
+......
+
+.. |tit3| replace:: Binoculares o telescopio pequeño
+
+Los 21 millones de años luz que nos separan no corresponden a una distancia larga en el cosmos y la explosión se vuelve cada vez más brillante, es decir, que muy pronto se podrá ver con simples binoculares en el cielo. Necesitarás una noche oscura y buenos binoculares o un pequeño telescopio, nos dicen, y puedes ver la explosión en unas dos semanas (como en la segunda o tercera semana de septiembre 2011).
+
+“Aparecerá más brillante que ningún otro supernova de su tipo en 30 años”.
+
+Los investigadores afirman que a pesar de haber descubierto en el Palomar más de mil supernovas en el espacio desde el 2008, 11kly es el más significativo.
+
+.. include:: includes/nocie_pie.inc
+.. meta::
+   :author: Glenys Álvarez
+   :keywords: astronomía
+   :description: No sólo las computadoras han capturado la explosión horas antes de que ocurra sino que saben está a una distancia cercana de sólo 21 millones de años luz
+   :title: Una supernova que se podrá ver con binoculares

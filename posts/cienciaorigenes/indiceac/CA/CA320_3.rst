@@ -1,0 +1,57 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA300
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA320_3
+.. link: http://talkorigins.org/indexcc/CA/CA320_3.html
+.. date: 2006-08-23 02:00:00+00:00
+.. title: CA320.3: Los darwinistas hicieron que echaran a Dembski de su puesto en Baylor
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Los darwinistas hicieron que echaran a Dembski de su puesto en Baylor»
+
+El presidente de la Universidad Baylor, Robert Sloan, invitó en 1998 a William Dembski a establecer un centro de investigación cuyo foco sería el diseño inteligente. Dembski creó el Centro Michael Polanyi (CMP) y planeó una conferencia importante, "Nature to Nurture" (*"De la naturaleza a la crianza"*), sobre el diseño en el universo. Los docentes de biología de Baylor boicotearon la conferencia de abril de 2000 y unos pocos días después de la misma, el senado del cuerpo docente votó para cerrar el Centro Michael Polanyi. Sloan resistió por un tiempo, pero el cuerpo docente lo forzó a modificar la situación del Centro, y el comité nombrado para la revisión de la situación, compuesto en su mayoría por profesores hostiles hacia Dembski, confirmó la recomendación de cerrar el Centro. Dembski fue despedido, y Sloan posteriormente perdió su puesto. "La lección de Baylor es clara: los darwinistas no tolerarán ninguna discusión abierta sobre el diseño inteligente" ([Wells_2006]_, 91).
+
+**Fuente:**
+
+.. [Wells_2006] Wells, Jonathan, 2006. *The Politically Incorrect Guide to Darwinism and Intelligent Design*. Washington DC: Regnery, 89-91.
+
+Respuesta
+=============
+
+1. Wells distorsiona en gran medida los sucesos en torno al Centro Polanyi. La versión breve es que los profesores objetaron que Sloan relacionara al departamento de biología con un Centro que promueve el creacionismo. Al CMP se le cambió el nombre, no se lo cerró, y Dembski quedó extremadamente complacido con el informe de la comisión revisora. Dembski fue expulsado por su propia arrogancia, y Sloan renunció años después.
+
+   La versión extensa...
+
+   El presidente Robert Sloan estableció unilaterialmente el centro y nombró a William Dembski, quien lo llamó Centro Michael Polanyi. En 2000 estalló una polémica pública sobre el CMP, al dictarse la conferencia "Nature to Nurture", cuando los docentes de Baylor, especialmente los departamentos de ciancias, se preocuparon por que el CMP atrayera publicidad negativa hacia los departamentos de ciencia. También señalaron que el CMP nunca había pedido la opinión de los científicos ([Martin_2000a]_). El senado docente votó 27 a 2 para abolir el CMP. Sloan rechazó la idea, y como concesión, se estableció un comité de ocho estudiosos de todo el país que analizarían al CMP y su operatoria. Contrariamente a lo escrito por Wells, el comité expresó que el DI era un campo legítimo de estudio para el CMP, aunque recomendaba que el centro se ubicara bajo los auspicios del Instituto de la Fe y el Aprendizaje de Baylor y se le cambiara el nombre, que un comité consultor de profesores de Baylor fuera nombrado para el Centro, y que expandiera su ámbito ([Martin_2000c]_). Dembski anunció que el informe marcaba "el triunfo del diseño inteligente como una forma legítima de investigación académica" y publicó un comunicado de prensa que decía, entre otras cosas:
+
+     Los oponentes dogmáticos del diseño que exigían que el Centro fuera cerrado han encontrado su Waterloo. La Universidad de Baylor debe ser felicitada por mantenerse firme frente a los ataques intolgerantes contra la libertad de pensamiento y expresión. ([Dembski_2000]_).
+
+   Sloan, que creía que el email era provocativo y nada académico, le pidió a Dembski que lo retirara. Cuando Dembski se negó, fue despedido como director del Centro. El Centro, siguiendo las recomendaciones del comité, cambió su nombre por "Programa de ciencia, filosofía y religión". Sloan renunció cinco años después; no hay indicios de que su renuncia se debiera a los incidentes en torno al CMP.
+
+2. La intolerancia vino del lado creacionista. Lewis Barker, profesor saliente de psicología y neurociencia, dijo en un artículo citado por Wells:
+
+     Los docentes no están protestando porque Sloan puede hacerles la vida imposible. No hablan porque temen por sus salarios y porque temen que la administración los discrimine. Sé que no consigue muchas respuestas del cuerpo docente, pero las que tiene representan a la mayoría de los docentes. Los demás están demasiado asustados para hablar y quieren conservar sus trabajos. ([Martin_2000b_]_).
+
+Referencias
+=================
+
+.. [Dembski_2000]    Dembski, William. 2000. Polanyi Center Press Release. Oct. 17, 2000. http://www.antievolution.org/people/dembski_wa/wad_20001018_mn.txt
+.. [Martin_2000a]    Martin, Blair. 2000a. BU science-religion center draws critics. *Lariat*, Apr. 6, 2000. http://www3.baylor.edu/*Lariat*/Archives/2000/20000406/art-front01.html
+.. [Martin_2000b]    Martin, Blair. 2000b. Professors debate legitimacy of Polanyi. *Lariat*, Apr. 12, 2000. http://www3.baylor.edu/*Lariat*/Archives/2000/20000412/art-front01.html
+.. [Martin_2000c]    Martin, Blair. 2000c. Polanyi committee suggests compromise. *Lariat*, Oct. 18, 2000. http://www3.baylor.edu/*Lariat*/Archives/2000/20001018/art-front04.html
+
+Otras lecturas
+==================
+
+Scott, Eugenie C. 2000. Baylor's Polanyi Center in turmoil. *Reports of the National Center for Science Education* 20(4): 9-11, http://www.ncseweb.org/resources/rncse_content/vol20/8550_baylor39s_polanyi_center_in_12_30_1899.asp
+
+
+/////
+
+Anterior: :doc:`CA320_2` | Siguiente: :doc:`CA321`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

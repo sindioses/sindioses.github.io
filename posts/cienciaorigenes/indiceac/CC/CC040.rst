@@ -1,0 +1,43 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC040
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CC040
+.. link: http://www.talkorigins.org/indexcc/CC/CC040.html
+.. date: 2003-09-17
+.. title: CC040: Los antropólogos están en desacuerdo
+.. description: Respuesta a la afirmación creacionista «Los antropólogos están en desacuerdo»
+.. type: afirmacrea
+
+Los antropólogos están en desacuerdo en el aspecto del árbol familiar humano. Cada nuevo descubrimiento parece dar una razón para redibujar el árbol, cuando uno esperaría que el árbol se volviera más claro a medida que se acumulan los descubrimientos.
+
+**Fuente:**
+
+Watchtower Bible and Tract Society, 1985. *Life--How Did It Get Here?* Brooklyn, NY, p. 88.
+
+Respuesta
+============
+
+1. Señalar los desacuerdos es una estratagema para distraer de las áreas en donde hay acuedo. No hay desacuerdo significativo entre profesionales sobre el hecho de que los humanos modernos evolucionaron a partir de los australopitecos africanos o que otros homínidos a veces coexistieron con el linaje que condujo a los humanos.
+
+2. Mucho de ese desacuerdo es bombo publicitario. Cuando alguien discubre otro fósil de *Homo erectus* de la misma región y era que otros fósiles de *Homo erectus*, los periódicos no proclaman el titular "Otro fósil apoya el linaje humano". Tales fósiles no son noticia salvo para los paleoantropólogos que trabajan en ellos. Los titulares anuncian los hallazgos verdaderamente novedosos.
+
+3. El desacuerdo y la incertidumbre son rutinarios en las áreas abiertas por los nuevos descubrimientos científicos. La paleoantropología es un campo en el cual nuevos descubrimientos no son raros, de modo que al principio habrá incertidumbre sobre esos descubrimientos. Sin embargo, en su fundamento la paleoantropología es una ciencia madura; la incertidumbre y el desacuerdo en ella son mínimos.
+
+4. Los desacuerdos se resueven. Esta es una característica importante de la ciencia que nunca se encuentra en el creacionismo. A medida que se descubren más datos, los datos responden las preguntas que tenemos. Por ejemplo, alguna vez se ignoraba si los neanderthales y los humanos modernos eran especies separadas. La evidencia molecular ahora sugiere que lo eran ([Krings_et_al_2000]_). El registro puede ser insuficiente para responder algunas de nuestras preguntas, como por ejemplo cuándo comenzó el lenguaje, pero en su mayor parte nuestras preguntas reciben respuesta.
+
+Referencias
+=============
+
+.. [Krings_et_al_2000] Krings, M. et al., 2000. A view of Neandertal genetic diversity. *Nature Genetics* 26: 144-146.
+
+
+/////
+
+Anterior: :doc:`CC030` | Siguiente: :doc:`CC041`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

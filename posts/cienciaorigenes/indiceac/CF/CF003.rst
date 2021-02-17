@@ -1,0 +1,43 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CF, CF000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2003-6-24
+.. type: afirmacrea
+.. title: CF003: ¿Cómo puede ordenarse sola la información, por ejemplo el ADN?
+.. description: Respuesta a la afirmación creacionista «¿Cómo puede ordenarse sola la información, por ejemplo el ADN?»
+.. slug: CF003
+.. link: http://www.talkorigins.org/indexcc/CF/CF003.html
+
+**Fuente:**
+
+Brown, Walt, 1995. *In the Beginning: Compelling evidence for creation and the Flood.* Phoenix, AZ: Center for Scientific Creation, p. 13. 
+
+Respuesta
+=========
+1. Esta pregunta está basada en varios serios errores de concepto (que se responden más abajo). Sin embargo, su error lógico principal es que se trata de un :doc:`argumento ad ignorantiam <CA100>`. La incapacidad propia de encontrar la respuesta a una pregunta no implica que la pregunta no tenga respuesta.
+   
+2. La información no es significado y no implica, en sí misma, ninguna estructura o función especial. Cualquier distribución implica información; la información está en cómo se describe la distribución. Si se produce una nueva distribución, ya sea espontáneamente o desde el exterior, se genera nueva información en el proceso. Incluso si la distribución consiste en destrozar un cristal en piezas diminutas, eso significa generar nueva información.
+
+3. Nada requiere ordenarse por sí mismo. La evolución y la abiogénesis no excluyen influencias externas, por el contrario, tales influencias externas son esenciales. EN la abiogénesis, se observa que las moléculas orgánicas complejas se forman con facilidad :doc:`espontáneamente <CB010_2>` debido a poco más que química básica y energía del sol o del interior de la tierra. En la evolución, la información del entorno se comunica a los genomas indirecamente por medio de la acción de la selección natural en contra de las variedades que no funcionan bien en ese ambiente.
+   
+Enlaces
+=======
+
+Musgrave, Ian et al., 2003. Information theory and creationism. http://www.talkorigins.org/faqs/information/infotheory.html
+
+Otras lecturas
+==============
+Musgrave, Ian, 1998. Re: Abiogenesis (Publicación del mes: Abril de 1998) http://www.talkorigins.org/origins/postmonth/apr98.html
+
+		
+/////
+
+Anterior: :doc:`CF002_1` | Siguiente: :doc:`CF005`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

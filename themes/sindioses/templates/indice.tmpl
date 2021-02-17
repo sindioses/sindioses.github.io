@@ -1,0 +1,68 @@
+## -*- coding: utf-8 -*-
+## <!-- :mode=html:wrap=soft:maxLineLen=115:folding=soft:-->
+<%namespace name="helper" file="post_helper.tmpl"/>
+<%namespace name="pheader" file="post_header.tmpl"/>
+<%namespace name="comments" file="comments_helper.tmpl"/>
+<%inherit file="base.tmpl"/>
+
+<%block name="content">
+<div class="indice">
+    <div class="contenidoindice">
+    ${post.text()}
+    </div>
+    <div class="colfb">
+          <a class="twitter-timeline" data-width="350" data-height="800" data-theme="light" href="https://twitter.com/sindioses_org?ref_src=twsrc%5Etfw">Tweets by sindioses_org</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+</div>
+  <div id="pie">
+    <div id="busquedas">
+        <hr style="clear: both;" />
+        <div class="logopie">
+          <a target="_blank" href="http://www.facebook.com/pages/Sin-Dioses/115097879246"><img width="144" height="44" border="0" alt="Sin Dioses en Facebook" src="logos/logoFB.png" /></a>
+        </div>
+        <!-- div class="logopie">
+          <div align="center"><a href="http://outcampaign.org/" target="_blank"><img src="http://cdn.cloudfiles.mosso.com/c116811/A-100-v3.png" border="0" alt="The Out Campaign: Scarlet Letter of Atheism" /></a><br /></div>
+        </div -->
+        <div class="logopie">
+          <!-- a target="_blank" href="http://www.europalaica.com/"><img width="103" height="50" border="0" alt="Asociaci&oacute;n Europa Laica" src="laica.jpg" /></a -->
+          <a href="http://redatea.net/index.php" title="Red de blogs Ateos" ><img src="http://redatea.net/imagenes/red_de_blogs_ateos_az.png" alt="Red de blogs Ateos" title="Red de blogs Ateos" border="0" /></a>
+        </div>
+        <div class="logopie">
+          <a target="_blank" href="http://www.darwinday.org/spanishSA/home/index.html"><img width="70" height="70" border="0" alt="The Darwin Day Program" src="dday.jpg" /></a>
+        </div>
+        <div class="logopie">
+          <a target="_blank" href="http://www.eff.org/blueribbon"><img width="150" height="41" border="0" title="Libertad de Expresi&oacute;n en L&iacute;nea - Campa&ntilde;a del List&oacute;n Azul" alt="Libertad de Expresi&oacute;n en L&iacute;nea - Campa&ntilde;a del List&oacute;n Azul" src="brstrip.gif" /></a>
+        </div>
+        <div class="logopie">
+          <a target="_blank" href="http://www.anybrowser.org/campaign/anybrowser_es.html"><img width="88" height="31" border="0" alt="Se ve bien con cualquier navegador" src="http://www.anybrowser.org/campaign/bvgraphics/mejorcualquier.gif" /></a>
+        </div>
+    </div>
+    <div id="pie1">
+      <p>
+        Editores:
+        <b>Glenys &Aacute;lvarez</b> <img title="Rep&uacute;blica Dominicana" style="width: 22px; height: 15px;" align="bottom" alt="Rep&uacute;blica Dominicana" src="do-flag.jpg" /> -
+        <b>Marcelo Huerta San Mart&iacute;n</b> <img title="Argentina" style="width: 22px; height: 15px;" align="bottom" alt="Argentina" src="ar-flag.jpg" /> -
+        <b>Ferney Yesyd Rodr&iacute;guez</b> <img title="Colombia" style="width: 22px; height: 15px;" align="bottom" alt="Colombia" src="co-flag.jpg" /> -
+        Si tiene comentarios, dudas o sugerencias, <a href="antesdeescribir.html">comun&iacute;quese con nosotros</a>. <b>El contenido de sus cartas podr&aacute; ser usado en este sitio web.</b>
+        El contenido de los art&iacute;culos es responsabilidad de sus autores y no necesariamente representa las opiniones de los editores de este sitio.</p>
+      ${helper.mathjax_script(post)}
+      <p>
+        <!-- Start of StatCounter Code -->
+        <script type="text/javascript">
+        var sc_project=3914508;
+        var sc_invisible=0;
+        var sc_partition=47;
+        var sc_click_stat=1;
+        var sc_security="ea35a46b";
+        </script>
+
+        <script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div class="statcounter"><a href="http://www.statcounter.com/" target="_blank"><img class="statcounter" src="http://c.statcounter.com/3914508/0/ea35a46b/0/" alt="counter easy hit" ></a></div></noscript>
+        <!-- End of StatCounter Code -->
+      </p>
+    </div>
+    <div id="pie2">
+      <a target="_blank" href="http://www.editoraneutrina.com"><img width="217" height="100" border="0" src="imagen/neutrina_mini.jpg" alt="Editora Neutrina" align="left" /></a>
+    </div>
+  </div>
+</div>
+</%block>

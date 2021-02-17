@@ -1,0 +1,33 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA510
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA510_1
+.. link: http://www.talkorigins.org/indexcc/CA/CA510_1.html
+.. date: 2006-10-30 02:00:00+00:00
+.. title: CA510.1: Los problemas con la evolución son pruebas en favor del creacionismo
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Los problemas con la evolución son pruebas en favor del creacionismo»
+
+Respuesta
+===========
+
+1. Esta afirmación asume que creacionismo y evolucionismo son los dos únicos modelos posibles, lo que es claramente falso. :doc:`Muchos otros modelos <CA510>`, científicos o no, han sido propuestos.
+
+   Los problemas, aunque los hubiera en todos los modelos salvo uno, no implican que ese modelo restante es verdadero. Otra alternativa es que la explicación correcta es otra distinta, aún no descubierta.
+
+2. Si la afirmación es verdadera, su inversa debería ser cierta por la misma razón. ¿Los creacionistas están preparados para aceptar que los problemas del creacionismo (que son legión) son pruebas en favor de la evolución?
+
+3. La mayoría de los supuestos :doc:`problemas con la evolución <CA112>` no son tales. La mayoría de estas páginas están dedicadas a mostrar por qué.
+
+
+/////
+
+Anterior: :doc:`CA510` | Siguiente: :doc:`CA520`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

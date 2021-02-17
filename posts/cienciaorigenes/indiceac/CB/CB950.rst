@@ -1,0 +1,34 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2004-3-1
+.. type: afirmacrea
+.. title: CB950: A veces ocurre sobreespecialización sin valor adaptativo
+.. description: Respuesta a la afirmación creacionista «A veces ocurre sobreespecialización sin valor adaptativo»
+.. slug: CB950
+.. link: http://www.talkorigins.org/indexcc/CB/CB950.html
+
+La evolución dice que las estructuras complejas no se formarían sin tener una ventaja selectiva. Pero a veces se produce sobreespecialización sin valor adaptativo. Un ejemplo son los enormes cuernos del alce irlandés. Pese a las aparentes desventajas, los animales con características tan extremas parecen vivir tan bien como otros animales.
+
+**Fuente:**
+
+Macbeth, Norman, 1971. *Darwin Retried*. Boston: Delta, pp. 70-73 
+
+Respuesta
+=========
+1. No hay casos establecidos de sobreespecialización que no tuvieran valor adaptativo. En algunos casos, el valor adaptativo puede no ser obvio, pero no hay ninguno donde su ausencia sea creíble. En particular, la selección sexual puede producir características exageradas y aparentemente perjudiciales, como los pedúnculos de las moscas de ojos pedunculados y los enormes cuernos del alce irlandés.
+
+2. Una adaptación se puede convertir en una sobreespecialización no adaptativa cuando cambia el entorno. Si una flor se vuelve dependiente de un polinizador, por ejemplo, la pérdida de ese polinizador puede producir la extinción de la flor.
+   
+		
+/////
+
+Anterior: :doc:`CB941` | Siguiente: :doc:`CB951`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

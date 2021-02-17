@@ -1,0 +1,37 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2003-04-06
+.. type: afirmacrea
+.. title: CB090: La evolución no tiene base sin una teoría de abiogénesis
+.. description: Respuesta a la afirmación creacionista «La evolución no tiene base sin una teoría de abiogénesis»
+.. slug: CB090
+.. link: http://www.talkorigins.org/indexcc/CB/CB090.html
+
+La evolución no tiene base sin una buena teoría de la abiogénesis, la cual no tiene.
+
+**Fuente:**
+
+Mastropaolo, J., 1998 (2 Nov.). Re: The evolutionist: liar, believer in miracles, king of criminals. http://www.asa3.org/archive/evolution/199811/0040.html
+
+Respuesta
+=========
+1. La teoría de la evolución se aplica siempre que exista vida. Cómo llegó a existir esa vida no es relevante para la evolución. Afirmar que la evolución no se aplica sin una teoría de abiogénesis tiene tanto sentido como afirmar que los paraguas no funcionan sin una teoría de la meteorología.
+
+2. La abiogénesis es un hecho. Independientemente de cómo se imagine uno que ocurrió (nótese que la creación es una teoría de la abiogénesis), es un hecho que en algún momento no hubo vida en la tierra y ahora la hay. Por lo tanto, incluso si la evolución necesita la abiogénesis, ya la tiene.
+   
+		
+/////
+
+Anterior: :doc:`CB050` | Siguiente: :doc:`CB100`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+
+
+

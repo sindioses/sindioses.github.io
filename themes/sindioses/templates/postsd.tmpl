@@ -1,0 +1,33 @@
+## -*- coding: utf-8 -*-
+## <!-- :mode=html:wrap=soft:maxLineLen=115:folding=soft:-->
+<%namespace name="helper" file="post_helper.tmpl"/>
+<%namespace name="pheader" file="post_header.tmpl"/>
+<%namespace name="comments" file="comments_helper.tmpl"/>
+<%inherit file="post.tmpl"/>
+
+<%block name="content">
+<article class="post-${post.meta('type')} h-entry hentry postpage" itemscope="itemscope" itemtype="http://schema.org/Article">
+    ${pheader.html_post_header()}
+    ${addtoany}
+    <div class="e-content entry-content" itemprop="articleBody text">
+    %if post.meta('type') in dictimg:
+    <img alt="" class="align-right" src="${dictimg[post.meta('type')]}">
+    %endif
+    ${post.text()}
+    </div>
+    <aside class="postpromonav">
+    <nav>
+    ${helper.html_tags(post)}
+    ${helper.html_pager(post)}
+    </nav>
+    </aside>
+    % if not post.meta('nocomments') and site_has_comments:
+        <section class="comments hidden-print">
+        <h2>${messages("Comments")}</h2>
+        ${comments.comment_form(post.permalink(absolute=True), post.title(), post._base_path)}
+        </section>
+    % endif
+    ${helper.mathjax_script(post)}
+</article>
+${comments.comment_link_script()}
+</%block>

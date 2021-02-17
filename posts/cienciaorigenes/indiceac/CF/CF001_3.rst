@@ -1,0 +1,47 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CF, CF000
+.. author: Mark Isaak, traducción de Paulina Madariaga
+.. nocomments: True
+.. slug: CF001_3
+.. link: http://talkorigins.org/indexcc/CF/CF001_3.html
+.. date: 2003-6-4
+.. type: afirmacrea
+.. title: CF001.3: Para producir orden se necesitan instrucciones
+.. description: Respuesta a la afirmación creacionista «Para producir orden se necesitan instrucciones»
+
+Incrementar el orden es posible, de forma local y temporal, sólo si hay un programa para regular el crecimiento y un conversor de potencia.
+
+**Fuente:**
+
+Morris, Henry M. 1985. *Scientific Creationism*. Green Forest, AR: Master Books, pp. 43-45.
+
+Respuesta
+============
+
+1. Esa afirmación es pura fantasía. La segunda ley de la termodinámica no dice absolutamente nada sobre programas para regular el crecimiento, y el único "conversor de potencia" al que se refiere es un cambio en la entropía. Puede verse el surgimiento de crecimiento y orden sin un programa en muchos lugares. Las nuves forman patrones ordenados y complejos. Los arroyos ordenan el tamaño de las piedras a lo largo de su lecho. El basalto que se enfría forma un patrón hexagonal de grietas. Todos estos casos muestran un aumento de organización, y ninguno de ellos involucra programa alguno.
+
+2. Incrementar el orden no es una violación de la :doc:`segunda ley de la termodinámica <CF001>`, incluso temporalmente. Una violación sería un descenso de la entropía sin un aumento de la entropía que lo acompañe. Ni el crecimiento ni la evolución violan la segunda ley de la termodinámica porque ambos obtienen ventajas de las diferencias locales de entropía para lograr su objetivo.
+
+3. La evolución tiene un programa; se llama el entorno. La selección natural sirve para comunicar información del entorno a las poblaciones de organismos ([Adami_et_al_2000]_).
+
+4. Un incremento en complejidad organizada no es lo mismo que una disminución de la entropía. La segunda ley sólo se aplica a la entropía; no dice nada sobre la complejidad organizada como tal.
+
+Referencias
+============
+.. [Adami_et_al_2000] Adami, C., C. Ofria and T. C. Collier, 2000. Evolution of biological complexity. *Proceedings of the National Academy of Science* USA 97(9): 4463-4468. http://www.pnas.org/cgi/content/full/97/9/4463
+
+Otras lecturas
+===============
+
+Kauffman, Stuart A., 1993. *The Origins of Order*. New York: Oxford. (Técnico)
+
+
+/////
+
+Anterior: :doc:`CF001_2` | Siguiente: :doc:`CF001_4`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,40 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CC080: El Australopithecus era puramente simio, cercano al chimpancé
+.. description: Respuesta a la afirmación creacionista «El Australopithecus era puramente simio, cercano al chimpancé»
+.. slug: CC080
+.. link: http://www.talkorigins.org/indexcc/CC/CC080.html
+.. tags: CC, CC050
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-05-10
+.. modified: 2003-10-06
+
+**Fuente:**
+
+* Watchtower Bible and Tract Society, 1985. *Life--How Did It Get Here?* Brooklyn, NY, pp. 93-94.
+* Yahya, Harun, 2003. *Darwinism Refuted*, The origin of man. http://www.darwinismrefuted.com/origin_of_man_02.html
+
+Respuesta
+=========
+
+1. *Australopithecus africanus* y *robustus* son mucho más similares a los humanos que a los simios. *A. afarensis* se encuentra en alguna parte entre humano y simio, quizá más cercano al simio. *A. ramidus* es incluso más simiesco.
+
+   Las afirmaciones de que *africanus* y *robustus* son totalmente simiescos están basadas en relatos antiguos y desacreditados de sólo un par de *papers*. Oxnard mismo consideraba que *Australopitecus* era un ancestro humano ([Groves_1999]_). Los creacionistas ignoran, distorsionan o descartan sin base las pruebas mucho mayores de que esas especias eran totalmente bípedas y tenían otras características humanas ([Foley_1997]_).
+
+Referencias
+===========
+
+.. [Foley_1997] Creationist arguments: Australopithecines. http://www.talkorigins.org/faqs/homs/a_piths.html
+.. [Groves_1999]  Getting desperate. http://www.talkorigins.org/faqs/homs/desperate_cg.html
+
+
+/////
+
+Anterior: :doc:`CC061` | Siguiente: :doc:`CC101`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

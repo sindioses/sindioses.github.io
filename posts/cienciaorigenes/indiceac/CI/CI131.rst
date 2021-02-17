@@ -1,0 +1,59 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CI131: Cuando puede determinarse, el origen de cada máquina es una voluntad inteligente
+.. description: Respuesta a la afirmación creacionista «Cuando puede determinarse, el origen de cada máquina es una voluntad inteligente»
+.. slug: CI131
+.. link: http://www.talkorigins.org/indexcc/CI/CI131.html
+.. tags: CI, CI100
+.. author: Mark Isaak, traducción de Marcelo Huerta
+.. date: 2006-02-08
+
+En todos los casos en los que puede determinarse el origen de una máquina, es el resultado de una voluntad inteligente. (Una máquina es un dispositivo para transmitir o modificar fuerza o energía.) Entre miles de millones de observaciones, no hay excepciones. Debería considerarse una ley de la naturaleza que las máquinas, incluyendo aquellas que existen en los organismos vivos, tienen una causa inteligente.
+
+Fuente
+======
+
+Scot, Dave. 2006. Machines are the result of intelligent agency. http://www.uncommondescent.com/index.php/archives/778
+
+Respuesta
+=========
+
+1. La afirmación es un argumento por analogía. La vida se parece a los objetos fabricados por el hombre en que contienen máquinas, por lo tanto se parece a los objetos fabricados por el hombre en que tienen una causa inteligente. En particular, el argumento ignora las :doc:`diferencias <CI100>` entre la vida y el diseño, y la similitud tiene dudosa relevancia en lo que a la inteligencia se refiere.
+
+   Si el argumento fuera válido, podría argüirse que, en todos los casos en que puede determinarse el origen de una máquina, la máquina fue creada por seres humanos, y que por lo tanto toda la vida fue creada por seres humanos.
+
+2. Muchas máquinas aparecen en la naturaleza sin que participe ninguna inteligencia o, de hecho, sin que haga falta ningún tipo de vida. La siguiente lista no es ni con mucho exhaustiva:
+
+   * Los planos inclinados, quizá la máquina más simple, existen en todas partes en la Tiera. Sus funciones incluyen hacer de rompeolas y facilitar a los animales el ascenso a lugares altos.
+   * Las cuñas de hielo, otra forma de cuña, contribuyen significativamente a la erosión.
+   * Los enlaces moleculares funcionan como resortes, dado que transmiten y distribuyen fuerzas en los materiales.
+   * Las nubes cargadas generan fuerzas eléctricas.
+   * La tierra en su conjunto es un dínamo que convierte movimiento mecánico de la convección en un campo magnético.
+   * Los géiseres producen erupciones predecibles y muy regulares. Si el reloj de Paley se considera una máquina, seguramente el géiser "Viejo Fiel" de Yellowstone también es una máquina, pero nunca vi ninguna insinuación de que lo diseñaron.
+
+3. Otras máquinas las crea la vida pero no la inteligencia. Los algoritmos genéticos diseñan o ayudan a diseñar muchos tipos de máquinas, como antenas o motores de chorro ([Marczyk_2004]_). Uno podría intentar argumentar que los elementos diseñados por un algoritmo genético heredan la voluntad inteligente del diseñador del algoritmo, pero esto no tiene en cuenta que no hay actividad mental humana que dirija la operación inmediata del algoritmo. En algunos casos, por ejemplo en algunos circuitos electrónicos, los resultados diseñados algorítmicamente no se parecen en absoluto a sus versiones diseñadas por humanos y, de hecho, no pueden explicarse por medio de métodos de diseño humanos ([Koza_et_al_2003]_).
+
+   Hay animales no inteligentes que crean una amplia variedad de máquinas, como las telarañas esféricas de ciertas arañas, los pozos-trampa de las hormigas león, y los nidos de termitas con aire acondicionado. De nuevo, uno podría apelar a que el diseñador del diseñador puede ser inteligente, pero eso hace surgir la posibilidad de que quizá la inteligencia se inicia en el diseñador de ese otro diseñador, o aún más atrás.
+
+Enlaces
+=======
+
+Camp, Robert. 2005. Very like a... machine? http://www.csicop.org/intelligentdesignwatch/analogy.html
+
+Referencias
+===========
+
+.. [Koza_et_al_2003]    Koza, John R., Martin A. Keane and Matthew J. Streeter, 2003. Evolving inventions. *Scientific American* 288(2) (Feb.): 52-59.
+.. [Marczyk_2004]    Marczyk, Adam. 2004. Genetic algorithms and evolutionary computation. http://www.talkorigins.org/faqs/genalg/genalg.html
+
+
+/////
+
+Anterior: :doc:`CI130` | Siguiente: :doc:`CI141`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

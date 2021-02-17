@@ -1,0 +1,42 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB901_2
+.. link: http://talkorigins.org/indexcc/CB/CB901_2.html
+.. date: 2003-09-03 02:00:00+00:00
+.. title: CB901.2: No han aparecido nuevos filos, clases ni órdenes
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «No han aparecido nuevos filos, clases ni órdenes»
+
+No se ha visto que aparezcan nuevos filos, órdenes o clases. La macroevolución sigue sin observarse.
+
+Respuesta
+============
+
+1. La evolución funciona casi exclusivamente mediante cambios graduales. Ha llevado cientos de millones de años de divergencia evolutiva producir los filos existentes, y probablemente al menos cientos de miles de años para que se desarrollen las clases. Que surgiera súbitamente un nuevo filo, orden o clase sería creacionismo, no evolución.
+
+2. La macroevolución es evolución a nivel de especie o superior, lo cual :doc:`ha sido observado <CB901>`.
+
+3. La evidencia no se limita a ver que algo ocurre ante nuestros ojos. La evidencia en favor de la macroevolución incluye el patrón de homología entre organismos, la secuencia fósil (que incluye abundantes fósiles transicionales), la biogeografía y otras pruebas. Lo que es más, no hay mecanismos verosímiles que impidan la macroevolución, dada la variación que observamos. De hecho, existen mecanismos plausibles que llevan a la diversidad ([Lee_et_al_2003]_).
+
+Enlaces
+=========
+
+Theobald, Douglas, 2004. 29+ Evidences for macroevolution: The scientific case for common descent. http://www.talkorigins.org/faqs/comdesc/
+
+Referencias
+=============
+
+.. [Lee_et_al_2003] Lee, P. N., P. Callaerts, H. G. de Couet and M. Q. Martindale, 2003. Cephalopod *Hox* genes and the origin of morphological novelties. *Nature* 424: 1061-1065
+
+
+/////
+
+Anterior: :doc:`CB901_1` | Siguiente: :doc:`CB901_3`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

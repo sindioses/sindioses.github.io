@@ -1,0 +1,59 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CB600
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2004-2-16
+.. type: afirmacrea
+.. title: CB621.1: Eva Mitocondrial vivió hace sólo 6500 años
+.. description: Respuesta a la afirmación creacionista «Eva Mitocondrial vivió hace sólo 6500 años»
+.. slug: CB621_1
+.. link: http://www.talkorigins.org/indexcc/CB/CB621_1.html
+
+.. include:: <isonum.txt>
+
+Investigaciones recientes muestran que la tasa de mutación de mitocondrias es mucho más alta de lo que se pensaba previamente ([Loewe_y_Scherer_1997]_; [Gibbons_1998]_). La fecha de "Eva Mitocondrial", el ancestro materno común de toda la humanidad, se basaba en esa tasa de mutación. El reloj molecular revisado indica que vivió hace unos 6500 años, no hace 200.000 como se afirmaba con anterioridad.
+
+**Fuente:**
+
+Wieland, Carl. 1998. A shrinking date for 'Eve'. *Creation Ex Nihilo Technical Journal* 12(1):1-3. http://www.answersingenesis.org/docs/4055.asp
+
+Respuesta
+=========
+1. La afirmación se basa principalmente en el trabajo de Parsons et al. ([Parsons_et_al_1997]), quienes descubrieron que la tasa de sustitución era cerca de 25 veces más alta en la región de control de las mitocondrias, que es menos del 7% del genoma mitocondrial (ADNmt). Estudios revisados de todo el ADNmt descubrieron que la región de control varía en gran medida en tasas de sustitución en distintas poblaciones, pero que el resto del ADNmt no muestra tales variaciones ([Ingman_et_al_2000]_). Usando ADNmt excluyendo la región de control, ubicaron la edad del ancestro mitocondrial común más reciente en 171.500 años |plusmn| 50.000 años.
+
+   [Gibbons_1998]_ se refiere a las mutaciones que causan heteroplasmia (herencia de dos o más secuencias de ADNmt). Esto no se aplica a la investigación de Eva Mitocondrial, que se basa solamente en la tasa de mutaciones de sustitución.
+
+2. Se realizó un estudio similar a la investigación de Eva\ :sub:`mt` en una región del cromosoma X que no se recombina con el cromosoma Y más pequeño; ubicó el ancestro común más reciente hace 535.000 |plusmn| 119.000 ([Kaessmann_et_al_1999]). Dado que el tamaño de la población de cromosomas X es efectivamente tres veces más grande que las mitocondrias (dos cromosomas X de las mujeres y uno de los hombres pueden heredarse), el ancestro común más reciente debería ser cerca de tres veces más antiguo que el de la Eva Mitocondrial, y lo es.
+   
+
+Enlaces
+=======
+
+MacAndrew, Alec. n.d. Misconceptions around Mitochondrial Eve. http://www.evolutionpages.com/Mitochondrial%20Eve.htm
+
+Referencias
+===========
+
+.. [Gibbons_1998]    Gibbons, A. 1998. Calibrating the mitochondrial clock. *Science* 279: 28-29.
+.. [Ingman_et_al_2000]    Ingman, M., H. Kaessmann, S. Pääbo and U. Gyllensten. 2000. Mitochondrial genome variation and the origin of modern humans. *Nature* 408: 708-713.
+.. [Kaessmann_et_al_1999]    Kaessmann, H., F. Heissig, A. von Haeseler and S. Pääbo. 1999. DNA sequence variation in a non-coding region of low recombination on the human X chromosome. *Nature Genetics* 22: 78-81.
+.. [Loewe_y_Scherer_1997]    Loewe, L. and S. Scherer. 1997. Mitochondrial Eve: the plot thickens. *Trends in Ecology and Evolution* 12(11): 422-423
+.. [Parsons_et_al_1997]    Parsons, T. J. et al. 1997. A high observed substitution rate in the human mitochondrial control region. *Nature Genetics* 15: 363-368. 
+		
+/////
+
+Anterior: :doc:`CB621` | Siguiente: :doc:`CB630`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+
+
+
+
+
+
+

@@ -1,0 +1,37 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA009
+.. link: http://www.talkorigins.org/indexcc/CA/CA009.html
+.. date: 2003-04-02 02:00:00+00:00
+.. title: CA009: La evolución enseña que somos animales y a comportarnos como tales
+.. description: Respuesta a la afirmación creacionista «La evolución enseña que somos animales y a comportarnos como tales»
+.. type: afirmacrea
+
+La evolución enseña que las personas son animales. No debería sorprendernos cuando la gente a la que se le enseña evolución empieza a comportarse como animales.
+
+Fuente
+=======
+
+Rendle-Short, J., 1980. What should a Christian think about evolution? *Creation* 3(1): 15-17. http://www.answersingenesis.org/home/area/magazines/docs/v3n1_prof.asp
+
+Respuesta
+=============
+
+1. La evolución no enseña que los humanos son animales: lo enseña la biología en general (y también lo hace la Biblia, en {{% biblia "Eclesiastés 3:18-21" DHH %}}). Más específicamente, los humanos son una especie de primate, que es una categoría de mamífero, que es una categoría de vertebrado, que es una categoría de animal. Esto se sabía hace más de 2000 años.
+
+2. “Comportarse como animales” no significa nada, porque distintos animales se comportan de distintas maneras. Parte de la conducta humana es la capacidad de la gente de aprender y modificar su conducta de acuerdo con normas culturales. La evolución enseña que la gente se comporta como humanos.
+
+3. El creacionismo enseña que las similaridades están diseñadas, que Dios diseñó nuestros cuerpos para que sean como animales. Si Dios nos diseñó para ser como animales, entonces (el creacionismo enseña que) deberíamos comportarnos como animales.
+
+/////
+
+Anterior: :doc:`CA008` | Siguiente: :doc:`CA010`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

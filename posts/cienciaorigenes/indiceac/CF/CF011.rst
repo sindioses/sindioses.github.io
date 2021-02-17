@@ -1,0 +1,53 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CF, CF000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2005-4-14
+.. type: afirmacrea
+.. title: CF011: Los algoritmos evolutivos cuelan el diseño en la función de aptitud
+.. description: Respuesta a la afirmación creacionista «Los algoritmos evolutivos cuelan el diseño en la función de aptitud»
+.. slug: CF011
+.. link: http://www.talkorigins.org/indexcc/CF/CF011.html
+
+Se afirma que los algoritmos genéticos demuestran que los procesos evolutivos pueden crear diseño, pero en tales algoritmos, se cuela el diseño por medio de la función de aptitud. Los algoritmos evolutivos no crean complejidad especificada.
+
+**Fuente:**
+
+Dembski, William A., 1999. Why evolutionary algorithms cannot generate specified complexity. Metaviews 152 (Nov. 1). (www.meta-list.org). http://www.leaderu.com/offices/dembski/docs/bd-algorithms.html
+
+Respuesta
+=========
+1. La función de aptitud de los algoritmos genéticos no necesitan incluir ninguna información nueva. Una función de aptitud puede expresarse como la determinación de si el algoritmo funciona mejor o peor en un entorno en particular. La única información la proporciona el ambiente, que habitualmente es un modelo del mundo real. La afirmación sólo tiene sentido si el diseño se define como lo que ya está en la naturaleza.
+
+   Uno puede argumentar que la naturaleza y el diseño son inseparables (y Dembski parace argumentar precisamente eso; [Dembski_2002]_, xiv), pero esto invalida el argumento del diseño. El diseño sólo tiene significado si se lo compara con la falta de diseño, y definir el diseño como toda la naturaleza vuelve la falta de diseño inexistente.
+
+2. Los algoritmos genéticos con frecuencia obtienen soluciones nuevas que a veces incluso sobrepasan los diseños creados directamente por humanos ([Koza_et_al_2003]_) y que no se basan en la experiencia humana ([Chellapilla_y_Fogel_2001]_). Los humanos pueden haberles dicho a los algoritmos qué hacer, pero es el *cómo* lo que define el diseño.
+3. Los algoritmos genéticos no son simulaciones perfectamente evoluivas porque tienen una meta predefinida que se usa para calcular la aptitud. Demuestran la potencia de la variación aleatoria, la recombinación y la selección para producir soluciones novedosas a los problemas, pero no son una simulación completa de la evolución (y no están pensados para serlo). En simulaciones de la evolución biológica, la aptitud solo se evalúa localmente; la supervivencia y la reproducción sólo se basa en información sobre las condiciones locales, no en metas finales. Sin embargo, las simulaciones demuestran que las cimas distantes de aptitud se alcanzarán si hay condiciones de aptitud intermedia ([Lenski_et_al_2003]_). Los procesos evolutivos no "buscan". Responden a la topografía de aptitud local solamente. El hecho de que la evolución (de vez en cuando) alcance cimas de aptitud es un subproducto de evolucionar en entornos de aptitud correlacionados usando una evaluación de aptitud puramente local, no una consecuencia buscada.
+   
+Enlaces
+=======
+
+Marczyk, Adam, 2004. Genetic algorithms and evolutionary computation. http://www.talkorigins.org/faqs/genalg/genalg.html
+
+RBH. 2003. Untitled. (5 July). http://www.iscid.org/boards/ubb-get_topic-f-6-t-000384.html#000013
+
+
+Referencias
+===========
+
+.. [Chellapilla_y_Fogel_2001]    Chellapilla, K. and D. B. Fogel, 2001. Evolving an expert checkers playing program without using human expertise. *IEEE Transactions on Evolutionary Computation* 5: 422-428. http://www.natural-selection.com/Library/2001/IEEE-TEVC.pdf
+.. [Dembski_2002]    Dembski, William A., 2002. *No Free Lunch*, Lanham, MD: Rowman & Littlefield.
+.. [Koza_et_al_2003]    Koza, John R., Martin A. Keane and Matthew J. Streeter, 2003. Evolving inventions. *Scientific American* 288(2) (Feb.): 52-59.
+.. [Lenski_et_al_2003]    Lenski, R. E., C. Ofria, R. T. Pennock and C. Adami, 2003. The evolutionary origin of complex features. *Nature* 423: 139-144. http://myxo.css.msu.edu/papers/nature2003/ Véase también: National Science Foundation, 2003. Artificial life experiments show how complex functions can evolve. http://www.sciencedaily.com/releases/2003/05/030508075843.htm 
+
+		
+/////
+
+Anterior: :doc:`CF010` | Siguiente: :doc:`CF011_1`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

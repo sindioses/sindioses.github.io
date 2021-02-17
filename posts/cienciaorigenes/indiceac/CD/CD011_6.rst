@@ -1,0 +1,46 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CD011.6: Carbón y petróleo antiguos fueron fechados como de sólo 50.000 años
+.. description: Respuesta a la afirmación creacionista «Carbón y petróleo antiguos fueron fechados como de sólo 50.000 años»
+.. slug: CD011_6
+.. link: http://www.talkorigins.org/indexcc/CD/CD011_6.html
+.. tags: CD, CD010
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-05-25
+.. modified: 2004-10-25
+
+Se supone que el carbón y el petróleo tienen millones de años de antigüedad. Efectivamente todo el carbono 14 de una muestra habría desaparecido en ese tiempo. Pero en el carbón todavía hay carbono 14, lo que implica una edad de sólo unos 50.000 años.
+
+**Fuente**
+
+* Baumgardner, John, 2003. Carbon dating undercuts evolution's long ages. *Impact* #364 (Oct.), http://www.icr.org/index.php?module=articles&action=view&ID=117
+* Baumgardner, J. R., D. R. Humphreys, A. A. Snelling, and S. A. Austin, 2003. Measurable 14C in fossilized organic materials: Confirming the young earth creation/Flood model. In *Proceedings of the Fifth International Conference on Creationism*, R. E. Walsh, ed., Pittsburgh, PA: Creation Science Fellowship, pp. 127-142.
+
+Respuesta
+=========
+
+1. Nuevo :sup:`14`\ C se forma a partir de la radiación de fondo, por ejemplo la radiactividad en las rocas circundantes. En algunos casos, :sup:`14`\ C de la atmósfera puede contaminar una muestra. Unos pocos procesos que pueden agregar :sup:`14`\ C "moderno" al carbón son:
+
+   * Bacterias del azufre, que crecen normalmente en el carbón.
+   * Carbonatos secundarios de las napas freáticas que se forman en superficies de fractura.
+   * Oxalato de calcio hidratado, un mineral que contiene carbono y se forma con frecuencia cuando el carbón sufre la acción de los elementos.
+
+   Pequeñas cantidades de contaminación de esos orígenes pueden causar edades aparentes de cerca de 50.000 años, que es cerca de la máxima antigüedad que puede medir la datación por carbono.
+
+Enlaces
+=======
+
+* Hunt, Kathleen, 2002. Carbon-14 in coal deposits. http://www.talkorigins.org/faqs/c14.html
+
+
+/////
+
+Anterior: :doc:`CD011_5` | Siguiente: :strong:`CD012`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+.. include:: <isonum.txt>

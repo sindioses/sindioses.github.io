@@ -1,0 +1,337 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Traducciones de James Randi
+.. date: 2005-04-22 00:00:00
+.. type: randi
+.. author: James Randi, traducción de Marcelo Huerta San Martín
+.. title: Tecnología moderna aplicada a superstición antigua. BBC se monta a la ola de irracionalidad. Aparición de la virgen en Chicago. Esa tonta película. Magia real a la venta. Jomanda finalmente es llevada a la corte. La situación de "EFT". El Toque Tellington. Más ropa interior. Sueco sobrio. De dónde vienen esas voces. Bruja inmortal. Un competidor para el Pigasus. Método a prueba de balas. Acorah continúa la tradición. Por fin. En conclusión.
+
+.. contents:: Contenido
+   :class: sidebar
+   :local:
+
+Tecnología moderna aplicada a superstición antigua
+..................................................
+
+.. image:: http://www.randi.org/images/042205-PrayerWheel.jpg
+   :alt:
+   :align: right
+
+El lector Richard Smith de Ottawa, Canadá, nos cuenta sobre una aplicación de la última tecnología para mejorar una vieja porción de cháchara religiosa: el lanzamiento masivo de plegarias por medio de ruedas giratorias que contienen recitaciones impresas. En http://www.earthsanctuary.org/s_pray.html vemos la historia de "Tibet-Tech" que alarmó tanto a Richard. Escribe:
+
+  Parece que también hicieron la cuenta.
+
+    Recitando una plegaria por segundo, llevaría aproximadamente 42.776 años recitar 1.300.000.000.000 [1,3 billones] de plegarias.
+
+  Esa es una plegaria muy corta. No creo que ni siquiera los católicos más devotos puedan recitar un Ave María en un segundo. ¿Y el gran secreto de cómo 1,3 billones de plegarias entraron en una rueda de plegarias?
+
+    Las ruedas de plegaria de Tibet-Tech son las primeras en usar DVDs (la nueva generación de tecnología de almacenamiento de discos ópticos) para almacenar plegarias dentro de una rueda de plegarias. Cada una de las ocho plegarias contenidas en la rueda de plegarias se copió en 16 DVDs de modo que cada rueda contiene 128 DVDs.
+
+  Vuelve todo el asunto algo... bueno... impersonal. Aparentemente, al menos las ruedas de plegarias antiguas estaban llenas de papel estrechamente apretado con un montón texto impreso con las plegarias. Ah, bueno, ¡la ciencia avanza!
+
+Pero a veces cojea e incluso se cae de bruces intentando mantenerse delante del disparate, y no siempre se las arregla para lograrlo... Sí, este tipo de historia corresponde al repertorio de un cómico de café, y deberíamos reírnos de ello. Pero millones no ríen; lo toman en serio.
+
+BBC se monta a la ola de irracionalidad
+.......................................
+
+.. image:: http://www.randi.org/images/042205-BBC.jpg
+   :alt:
+   :align: right
+
+Nuestro lector el doctor Mark Corbett señala una aparente huida de la racionalidad por parte de la British Broadcasting Corporation (BBC):
+
+  La BBC aquí en el Reino Unido, que por un lado produjo el programa de televisión de Horizon que afirmó poner a prueba científica a la homeopatía (que falló) parece por el otro lado apoyar sin cuestionamientos a Samuel Hahnemann [originador de la homeopatía] como una figura significativa y valiosa.
+
+  Llamo la atención de usted a "Malaria row inspired homeopathy" (*"Brote de malaria inspiró la homeopatía"*), un artículo sobre la celebración del 250º aniversario del nacimiento de Hahnemann (http://news.bbc.co.uk/1/hi/health/4423303.stm). Todo el artículo esencialmente es una aceptación acrítica del "más grande descubrimiento" de Hahnemann durante sus pruebas con la quinina como antimalárico:
+
+    El doctor Hahnemann llegó a la conclusión de que el mismo hecho de que la quinina producía síntomas tan similares a la malaria misma lo que la convertía en una medicina útil; en efecto descubrió que lo "semejante" puede usarse para combatir lo "semejante".
+
+  Esta oda a la irracionalidad aparece en el sitio de Salud de la BBC; me he quejado de que el artículo carece de objetividad, y señalé que la homeopatía, pese a lo que dicen sus adherentes, es rechazada por la ciencia racional; es decir, es curanderismo y fraude. Lamentablemente, no responden a las quejas, así que está por verse si hacen algo.
+
+  Este tipo de informes me resulta muy molesto, y bastante deprimente. Esto sucede especialmente porque, por ley, tengo que pagar una suscripción anual a este servicio nacional para que se me permita tener un televisor. Parte de mi tasa de licencia está pagando por este disparate.
+
+Aunque comparto la inquietud del doctor Corbett en este asunto, tengo que reconocer que una organización tan grande como la BBC de vez en cuando pierde el control del articulista ocasional que publica material vergonzoso en su página web. Al mismo tiempo, reconocemos que puede haber habido tantas respuestas negativas luego del programa de Horizon del 26 de noviembre de 2002 que estuvieran tratando de calmar a los televidentes en una pequeña medida. Esta necesidad, para mí, no es razón suficiente para abandonar la razón y la realidad, pero la BBC es un negocio, y lucha por sobrevivir. Nunca subestime la capacidad con la que la gente defiende su derecho a ser ingenua y/o estúpida.
+
+El anuncio original de la BBC y un resumen del programa de Horizon se encuentran en http://www.bbc.co.uk/science/horizon/2002/homeopathy.shtml
+
+Aparición de la virgen en Chicago
+.................................
+
+.. figure :: http://www.randi.org/images/042205-virgin.jpg
+   :alt:
+   :align: right
+
+   **¿"Virgen"?**
+
+El mundo aparentemente está lleno de vírgenes sagradas que compiten buscando atención. Una noticia reciente glorifica una mancha de agua en un pasaje subterráneo de Chicago como otra manifestación más de la Virgen María. Multitudes de adoradores de ojos lagrimeantes están dejando flores y rosarios en el sitio donde agua subterránea de dudoso origen se ha filtrado a través de una fractura en la pared de concreto, y los ingenieros de la ciudad han prometido que preservarán la mancha para que pueda seguir entreteniendo a los fieles. Incluso tienen policía para manejar a la frívola multitud las veinticuatro horas.
+
+Quizá no tenemos que ir muy lejos para encontrar peregrinaciones igualmente tontas. ¿Recuerdan el emparedado de queso a la parrilla que se vendió por US$ 28.000? Vean `nuestro artículo sobre el tema`_ si lo han olvidado. Los medios por supuesto están aprovechándose del fuerte frenesí religioso en el que actualmente estamos inmersos. Los editores revuelven los archivos para encontrar milagros y visiones? Para esta mente sensata, esta última fijación en una imagen borrosa es simplemente otro ejemplo de lo que se conoce como pareidolia.
+
+.. _nuestro artículo sobre el tema:
+   http://www.sindioses.org/randi/randi20041126.html#s-se-puede-vender-cualquier-cosa-en-ebay
+
+El Diccionario Escéptico de Bob Carroll en http://skepdic.com/ define pareidolia como "un tipo de ilusión o error en la percepción en el que un estímulo confuso se percibe como algo claro y definido". También nos han presentado grandes cantidades de imágenes de Cristo en todas partes: en una torta o tortilla, en el grano de la madera aglomerada, en huellas de pisadas sobre papel, nubes, papas, manchas de humo y otros lugares improbables para que el Hijo de Dios elija aparecer.
+
+.. image:: http://www.randi.org/images/042205-virginschmoo.jpg
+   :alt:
+   :align: right
+
+Mi percepción es que una de las más famosas de estas figuras de la Virgen María o de Roschach, una colorida mancha de agua de pozo depositada por un sistema de rociado en la ventana de un bamco en Clearwater, Florida, junta con una o dos figuras de Buda para completar la historia (vean http://www.sindioses.org/randi/randi20040312.html#milagro-descubierto) son en realidad la imagen de un *schmoo*. ¿Se acuerdan de los *schmoos*? En agosto de 1948, el dibujante de historietas Al Capp presentó a este personaje en su historieta "Li'l Abner". De acuerdo con la leyenda del *schmoo*, esta adorable criatura ponía huevos, daba leche y moría de puro éxtasis cuando lo miraban con hambre, le encantaba que se lo comieran, y sabía como cualquier comida que se deseara. Si uno freía un *schmoo*, sabía a pollo. Si se lo asaba, resultaba un bistec.
+
+El lector Lang Hames me escribió sobre su propio combate con la pareidolia:
+
+  En marzo del año pasado estaba de vacaciones navegando por la zona del Pacífico Sur y visitando algunas de las islas. En una isla que visité caminaba por una playa cuando vi a Jesucristo. Más exactamente mi promer pensamiento que "¿Quién diablos puede estar parado solo en una playa tropical usando una capa?", seguido de cerca por "¡Ésa parece una de las estatuas de Jesús que he visto!". Esto sucedió en la Isla Misteriosa. A pesar de su nombre, con el que estoy seguro de que los nuevaera se entusiasmarían mucho, es una islita totalmente falta de misterio, aunque muy hermosa.
+
+  En cuanto a mi vision: vi un hombre con largo pelo oscuro y una capa gris liviana, ligeramente jorobado y con su cabaez inclinada como si estuviera en contemplación solemne o rezando, parado completamente solo muy cerca de un madero traído a la playa. Me di cuenta my rápidamente de que debía ser una ilusión así que le pedí a mi novia Tara que sacara algunas fotos mientras caminábamos hacia él.
+
+.. figure:: http://www.randi.org/images/042205-Figure01.jpg
+   :alt:
+   :align: left
+
+   **Más y más cerca...**
+
+Lang adjuntó cuatro efectivas fotos, tres de las cuales mostramos aquí. Luego de haberlas examinados con cuidado, vayan al final de la página de esta semana y vean cómo se ve esta figura cuando se ve en primer plano y desde un ángulo diferente. Lang agrega:
+
+  No estoy seguro de si ya ha puesto un enlace allí, pero la página **Bad Astronomy** de Phil Plait también tiene una buena discusión sobre la pareidolia: http://www.badastronomy.com/bad/misc/lenin.html
+
+Sí, habitualmente enviamos a los lectores a varias partes de ese gran sitio web. Por favor vayan allí para encontrar otro ejemplo de este interesante efecto ilusorio de la experiencia del Tío Phil. ¡Gracias por esta secuencia y por la historia, Lang!
+
+Para cerrar este artículo estúpido, el lector Dwayne Horton de Wilmore, Kentucky, hace una pregunta pertinente:
+
+  ¿La gente no ve formas extrañas que les recuerden a su maestra de tercer grado? ¿Por qué siempre es María, cuando nadie sabe siquiera cómo era?
+
+Esa tonta película
+..................
+
+En lugar de embarcarme en una larga crítica de la película reciente que ganó un Premio Pigasus hace poco (vean http://www.sindioses.org/randi/randi20050401.html#anunciamos-los-premios-anuales-pigasus, categoría 3) les recomiendo a un excelente análisis de la película [en inglés] en http://skeptico.blogs.com/skeptico/2005/04/what_the_bleep\_.html. Esto me evitó tener que crujir los dientes en un cine, y puede lograr lo mismo con ustedes.
+
+Magia [#magick]_ real a la venta
+................................
+
+.. image:: http://www.randi.org/images/042205-enchant.jpg
+   :alt:
+   :align: right
+
+El lector Tyson Haverkort encontró una oferta irresistible en Internet que comparte con nosotros:
+
+  Me encontré por accidente con este sitio que vende "software mágico" [#magick]_, y pensé que querría visitarlo: http://www.enchanterx.com/. Al principio pensé que era broma, hasta que llegué a la parte donde realmente puede comprarse este software... ¡una bicoca por sólo US$ 117! Un par de mis citas favoritas del sitio:
+
+    Necesito un milagro - Envía una baliza que causará que bandadas de ángeles listos para hacer milagros vuelven a rescatarlo.
+
+  Vuelan en bandadas, supongo que como las gaviotas.
+
+Randi: ¿O más bien como los buitres? Otra cita:
+
+    La Energía Radiónica es el "ingrediente secreto" que debe agregarse a todas las obras mágicas, o 99,9% de ellos terminarán fallando... ¡garantizado! Puede que haya oído sobre la energía radiónica mencionada con otro nombre, *maná*, y este es el secreto que los magos y hechiceros exitosos rehúsan absolutamente contarle a nadie. ¿Por qué? Porque si alguna vez se revelara el secreto de la Energía Radiónica... bueno, podría terminar con un producto de software como EnchanterX que podría transformar mágicamente las vidas de todos los que lo poseen.
+
+Tyson me pregunta:
+
+  ¿Nos ha estado ocultando este secreto todo este tiempo?
+
+.. image:: http://www.randi.org/images/042205-catalog.jpg
+   :alt:
+   :align: right
+
+Em, tendré que reunir US$ 117 para ver si es el mismo conjuro que yo uso, Tyson. Obtuve el mío del catálogo John Smith... Primero uno se desnuda, luego recita: "Uga bu, uga bu-bu uga"... Seguro que sabes el resto...
+
+.. [#magick] *Magick* en el original. Según el `Diccionario Escéptico <http://www.skepdic.org/magick.html>`__, esta palabra se refiere a *los supuestos arte y ciencia de causar cambios de acuerdo con el deseo por medios no físicos*. [N. del T.]
+
+Jomanda finalmente es llevada a la corte
+........................................
+
+El lector Gard Simons en los Países Bajos escribe:
+
+  En los Países Bajos tampoco podemos escapar de los fraudes. Quisiera llamar su atención sobre una persona particularmente molesta, Joke Damman, quien se da a conocer con el nombre "Jomanda". Es una "sanadora". Lleva a cabo supuestas reuniones de sanación que atraen grandes multitudes de gente enferma y discapacitada.
+
+  Hace poco cometió un grave error. A una celebridad televisiva neerlandesa muy conocida, Sylvia Millecam, se le diagnosticó cáncer de mama. La Millecam, que no era demasiado inteligente, no quiso tener nada que ver con los doctores normales. El tumor era relativamente pequeño y perfectamente tratable con alta probabilidad de éxito, como es común al tratar el carcinoma mamario hoy en día. La Millecam, sin embargo, se dirigió al "circuito alternativo".
+
+    Cito del informe del Inspector de Salud Neerlandés:
+
+      Lo importante de esto es que en las filas de la comunidad alternativa el diagnóstico de cáncer de mama fue contraindicado, y se le dijo a la paciente que podría curarse con métodos no probados de tratamiento.
+
+    .. figure:: http://www.randi.org/images/042205-Jomanda.jpg
+       :alt:
+       :align: left
+
+       *Jomanda y su víctima más reciente*
+
+    Joke Damman [Jomanda] fue una de estas personas. Le dijo a Millecam que era una bacteria, no cáncer de mama en absoluto. Pero hubo otros involucrados, como el señor Broekhuyse, un médico y "homeópata". El doctor Rigo van der Meer, psiquiatra, comentó:
+
+      La señorita Millecam cayó en manos de este hombre [Broekhuyse] quien debido a su educación médica piensa que sabe exactamente cuál es el problema. Trata a la gente con cáncer con bebidas homeopáticas y ondas electromagnéticas y, cuando están muriendo, los manda a un hospital donde los doctores no pueden hacer más que inyectar morfila para facilitar el fallecimiento del pobre diablo.
+
+    Estas dos personas, Damman y Broekhuyse, junto con algunos otros, tienen que aparecer en una corte neerlandesa por cargos de asesinato. El juicio probablemente comience a fin de año. Un médico neerlandés (no recuerdo su nombre) dijo:
+
+      Joke Damman fácilmente podría alegar locura porque eso es lo que es: una loca.
+
+    Esto revela cuán importante es su trabajo, señor. Esta gente probablemente amenaza la vida de otros. Quizá no hace falta decirlo, pero la señorita Millecam murió sufriendo. Tenía 45 años de edad.
+
+Gard, yo cubrí el principio de esta tragedia (http://www.sindioses.org/randi/randi20041112.html#la-cremaci-n-duele) el año pasado, y me entristece saber que la señorita Millecam siguió confiando en el curanderismo de Jomanda hasta que murió. Nos interesa saber qué deciden las cortes neerlandesas sobre este tema, pero esperamos que emitan una restricción inmediata para que estos curanderos no continúen su estafa, antes de testificar. La pregunta obvia: *¿por qué tuvo que morir una famosa a manos de estos curanderos para que las autoridades se dignaran entrar en acción?* ¿Es porque ninguna de las otras víctimas de los curanderos era lo bastante "importante"?
+
+La situación de "EFT"
+.....................
+
+Como quizá debí haber esperado, mi diálogo con "Sam" sobre el disparate del "EFT" la semana pasada recibió varias críticas. Creo que podría haber aclarado más mi situación y mi reacción, y me gustaría remediar eso aquí y ahora. Tengan en cuenta que sólo publiqué un extracto del diálogo total; hubo muchas repeticiones y explicaciones de lo muy obvio, lo que les evité a los lectores. No quería que ustedes se aburrieran y frustraran tanto como yo sólo para demostrar mi punto de vista.
+
+Un lector escribió:
+
+  El declarante preguntó inicialmente: "Si pudiera demostrar que EFT (Técnica de Libertad Emocional) funciona, ¿ganaría el millón de dólares?". Aunque entiendo que en la JREF son presa constante de afirmaciones extrañas, creo que hubiera sido mejor responder sencillamente cerrando con "Claro, si esta noción de EFT demuestra funcionar, ganará el premio de la JREF" y luego seguir aclarando las condiciones propuestas para la prueba, como por ejemplo buscar una condición que pueda ser medida más científicamente que un dolor de cabeza. Creo que eso era todo lo que el declarante buscaba, alguna confirmación de que su declarac ión entraba en los límites del desafío del millón de dólares.
+
+Primero, el aspirante (no "declarante", como dice este corresponsal) sólo preguntó sobre algo que llamó "EFT", ¡sin darme *ninguna noción* de lo que es, proporcionar ninguna referencia, o alguna descripción! ¡Su declaración: "Se refiere a tocar puntos cuando se trabaja en un problema", no dice a qué se refería con "puntos" ni cuál puede ser el "problema" sobre el que está escribiendo! Simplemente no había información en su pregunta. Mi respuesta: "¿Qué 'puntos', qué 'problema'?" fue un intento comprensible por hacerlo explicar ambos términos. ¿Era pedir demasiado?
+
+¡El lector Josh W. escribió que debí "haber dicho simplemente 'sí'" a la primera pregunta de Sam! *¿Cuando yo no tenía ni idea de cuál era la pregunta?*
+
+No podría haberle presentado la frase de cierre de ningna manera antes de saber de lo que estaba hablando este hombre. ¿Por qué esto no es evidente?
+
+El aspirante no declaró NINGUNO de los tres hechos básicos que las reglas del desafío piden claramente: qué puede hacer, en qué circunstancias, y con qué exactitud. De hecho, no parecía entender (ni responder) ninguna de las generalidades que le presenté. No estaba pensando en la situación, para nada, lo que lógicamente me impulsó a recomendarle "Intente pensar, para variar". Incluso esa sugerencia no lo condujo a intentar ese enfoque.
+
+En cuanto a buscar otro fenómeno "más científicamente medible" que un dolor de cabeza para hacer la prueba, no podía hacerlo en ese momento, porque *esa era su afirmación*. Si alguien declara que sabe tocar el violín, no puedo insistir en que haga patinaje acrobático en patineta para probar tal afirmación.
+
+Otro lector sugirió:
+
+  Probablemente hubiera usted llegado mucho más lejos con él con unas pocas palabras más al principio: "No podría decirle si EFT calificaría para el desafío sin información más específica. Sería más claro si me dijera (¡brevemente!) qué es EFT y me diera un ejemplo de cómo lo probaría o usaría en una situación específica".
+
+*¿Ese hecho no debería ser perfectamente obvio?* Si yo le preguntara a usted: "¿Puedo poner un porsnoft en mi dreft?", usted tendría que preguntarme qué son un porsnoft y un dreft? Y esta persona no sólo tenía el formulario de solicitud de la JREF y un extenso listado de preguntas frecuentes disponibles, sino siempre tuvo la oportunidad clara y el requisito explícito de leer y estudiar esos materiales, ¿no cree? Este lector continuó:
+
+  Si respondiera con el ejemplo del dolor de cabeza, usted podría replicarle: "Me temo que eso no es lo bastante específico. Le sugiero que lea las preguntas frecuentes del desafío y el *enlace* siguiente sobre verificación "doblemente ciega" para darle alguna idea del proceso, de por qué se exige verificación doblemente ciega, y de la naturaleza de los controles adecuados. Si todavía le parece que sus supuestas capacidades pueden ser verificadas siguiendo esta normal, con gusto aceptaremos su solicitud.
+
+Las obligaciones no son todas de *mi* parte; el aspirante también tiene que hacer algunas cosas básicas. Él no respondió a mis preguntas, fue vago y no podía construir oraciones claras. En la JREF no nos ocupamos de temas de escuela primaria. Tratamos con adultos.
+
+El Toque Tellington
+...................
+
+En relación con `el artículo de la semana pasada sobre tocar para divertirse y ganar dinero <randi20050415.html#revisando-el-tt>`__, la lectora Betsy Hutchins nos dice:
+
+  Sólo una nota, ya que no he visto a nadie mencionarlo en su sitio (o en ningún otor lugar que haya leído). Linda Tellington "inventó" esto hace muchos años para los caballos. Era estrictamente algo para caballos y me enteré de ello apenas salió al mercado. Me di cuenta de que funcionaría muy bien en caballos y usé algo así luego de leer sobre ello. Después de todo, realmente es sólo frotamientos y caricias rítmicos y hace que los caballos (y, se supone, todos los demás) se sientan seguros y relajados. Pensé que todo lo demás era tonto pero muchos de mis amigos que se ocupan de caballos gastaron buen dinero para tomar cursos sobre este procedimiento y obtener licencias para enseñárselo a otros. Pasó de caballos a perros y perdí la cuenta, porque no me interesaba.
+
+  Es interesante ver que de pronto lo aplican a personas... ¡donde está el dinero grande! A propósito, fui directora ejecutiva de la Sociedad Estadounidense de Burros y Mulas por 35 años y entrené a muchos burros y mulas, y puedo asegurarle que el toque también funciona muy bien con los asnos...
+
+Sobre el mismo tema, los lectores Bill y Marsha Hackett también comentaron:
+
+  Sólo un comentario rápido sobre el Toque Tellington; lo creó Linda Tellington Jones.
+
+  Tenemos un servicio de rescate de aves y alguien nos comentó sobre el Toque Tellington, una supuesta técnica de calmar a un págaro inquieto acariciándolo suavemente con una de sus propias plumas. Lo probé en varias de nuestras aves y sólo a una pareció gustarle. Decidí intentar una prueba doblemente a ciegas y de hecho cambié las plumas de pájaro a pájaro. Ninguno de ellos percibió malicia [!] y llegué a la conclusión de que lo mismo podría estar usando una cuchara, así que intenté eso y varios otros objetos. Obviamente es la estimulación y el contacto a lo que las aves responden, no al objeto específico que uno usa. Ahora, aparentemente Linda tiene un método del Toque Tellington para toda clase de criaturas desde gatos y perros a, supongo, criaturas más exóticas. Las probabilidades son asombrosas.
+
+Aquí en la JREF mi mente y la de Kramer son asombradas periódicamente. Esto fue sólo un 1,5 en nuestra Escala de Asombro...
+
+Más ropa interior
+.................
+
+.. figure:: http://www.randi.org/images/042205-underwear.jpg
+   :alt:
+   :align: right
+
+   Ropa interior
+   oficial mormona
+
+El lector australiano Jason Brown nos asegura que la ropa interior mística (vea http://www.sindioses.org/randi/randi20050415.html#un-drag-n-en-sus-cajones) no es inusual en lo absoluto. Nos dirige a http://www.luciferlink.org/mugarments.htm para que nos informemos sobre ropa interior mormona, que tienen símbolos secretos ubicados en lugares apropiados de la anatomía que pueden requerir atención especial. Verán lo que quiero decir. ¡Retorcido! Agrega:
+
+  Si pueden obtener una copia del DVD "John Safran vs. God" de SBS televisión en Australia, hay una sección bastante divertida dedicada a la ropa interior mística, entre otras cosas chifladas.
+
+Me ocuparé de la charla sobre calzones aquí. Gracias, Jason.
+
+Sueco sobrio
+............
+
+El lector Kai-Mikael Jää-Aro, de Estocolmo, Suecia, comparte esto con nosotros:
+
+  En [un número reciente] de *Mitt i Kungsholmen* (un periódico local) salió un artículo de Mia Dahlgren sobre una mujer a la que una adivina le estafó más de 400.000 SEK (aproximadamente US$ 60.000). La historia es la habitual, pero el final es algo interesante:
+
+    No hay supervisión pública de las personas que cobran por adivinar. "Pero lo que uno afirma en su publicidad debe ser probado, de acuerdo con la ley de publicidad. De lo contrario podemos prohibir la publicidad o cobrar una tarifa por alteración del mercado, que es una especie de multa", dice Barbro Turesson de la Agencia del Consumidor. "¿Pero no es difícil exigir que se prueben las predicciones? Mientras más vagas son las promesas de la adivina, más difícil para nosotros es hacer algo".
+
+¡Están aprendiendo!
+
+De dónde vienen esas voces
+..........................
+
+Ian Boothby de Vancouver, Canadá, probablemente resolvió parte de un misterio menor para nosotros:
+
+  Mi novia y yo estábamos escuchando anoche un programa de radio que se ocupaba de Fenómenos Electrónicos Vocales (FEV). Asuntos propios de historias tenebrosas de fantasmas, con niños que decían "Tengo frío", "tengo hambre" y "tengo miedo". Siendo como somos seguidores de su sitio y del program de televisión *Bullshit*, siempre intentamos hallar la explicación más simple para estas cosas y ella lo descubrió. Esas "palabras del más allá" son monitores para bebés. Cuando trabajaba como técnica en una compañía teatral con frecuencia levantaban en sus auriculares señales de monitores para bebés de las cercanías. Y casi todas las cosas que se decían eran cosas que un niño diría ante un monitor para que Mamá y Papá fueran a su habitación. Verifiqué esto en la red y no he visto a nadie más que use esto como una explicación y quería presentársela a usted.
+
+Veo la relación. Radio Shack fabrica una línea de dispositivos de corto alcance en el rango de los 39 megaciclos utilizando frecuencias específicas asignadas a ellos. Los simples comunicadores, micrófonos para babés, intercomunicadores y juguetes habitualmente pueden estar en las mismas frecuencias. Hace años, mientras probaba un micrófono inalámbrico de Radio Shack a altas horas de una noche, descubrí que escuchaba claramente los sonidos de un bebé roncando, así que asumí que había sintonizado un monitor para bebés de la zona. Me imaginé a los padres jugando una mano de bridge en el departamento de un vecino, seguros sabiendo que escuchaban lo que pasaba en casa. La tentación de conectar el micrófono y murmurar "¡Toma al chico y larguémonos!" fue fuerte, debo admitir, pero la combatí...
+
+Por una extraña, extraña coincidencia (!), la novia de Ian, Pia, también me escribió, diciendo:
+
+  Siento no haber revisado su sitio para confirmar esto (estoy por hacerlo) pero estaba demasiado entusiasmada. Después de escuchar anoche el programa de Art Bell sobre FEV se me ocurrió, especialmente después de escuchar su fragmento sobre un niño al que supuestamente estaban ahogando en una bañera o una piscina, que era tan obvio lo que los grabadores de los sistemas de información geográfica estaban levantando: ¡monitores para bebés!
+
+  Una vez trabajé en un programa como técnica de iluminación y tenía usar esos micrófonos con auricular para comunicarme con los otros operadores, y el mío siempre captaba un monitor para bebé en las cercanías. No muchos se dan cuenta de lo poderosos que son esos transmisores. Estábamos en un gran edificio pero aún así casi me ensordecían los sonidos de un niño llorando y los arrullos de una madre casi cada noche del programa. La gente de Sistemas de Información Geográfica explica que ellos mismos nunca escuchan esas "voces de los muertos" cuando graban en sitios tenebrosos como cementerios y asilos psiquiátricos, pero que de algún modo aparecen claramente en los equipos de grabación. Creo que esta teoría se confirma doblemente por la cantidad de fragmentos espeluznantes que tienen con niños que dicen cosas como "tengo frío" o "tengo miedo" o "tengo sed". ¡Están captando niños que no se duermen!
+
+  Me apresuré a compartir esta teoría con Art Bell pero no la mencionaron al aire. Ah, bueno, supongo que alguna gente no acepta la Navaja de Occam.
+
+Pia e Ian, Art Bell prefiere con mucho la explicación irracional, y rechaza cualquier solución lógica a tales preguntas, estén seguros de ello. Ey, si sólo gente normal apareciera en su programa y lo llamara, ¡se quedaría sin trabajo en una semana! Las mentiras, los rumores, las ilusiones y los errores venden; los hechos no...
+
+Bruja inmortal
+..............
+
+El lector Karl Lean, en Australia, nos dice:
+
+  Básicamente, vivo a unos minutos del negocio que tiene una tal Kerry Kulkens, una autodenominada bruja blanca y "la astróloga psíquica más importante de Australia". También tiene un sitio web, http://www.kerrykulkens.com.au/, donde ofrece lecturas telefónicas a A$ 5,50 el minuto.
+
+  Como sea, el periódico ha informado que murió hace casi dos meses; citan como fuente principal la reserav para un servicio funerario en un cementario cercano. Lo interesante es que aunque murió el 6 de febrero y la enterraron el 11 de febrero, ¡su sitio web todavía publica horóscopos semanales y acepta reservas para lecturas! Vean el horóscopo de la semana que viene para Géminis. Bueno, supongo que si la astrología fuera cierta entonces de hecho uno podría hacer predicciones para semanas, meses o incluso años de anticipación, ya que los cursos de los planetas y las estrellas son fijos y conocidos. ¿Quizá Kerry sensatamente anticipó su propia muerte y dejó unos cuantos años de horóscopos listos para publicar?
+
+  Su hija Sarah dirije el negocio (local y sitio web), y cuando fue interrogada por el periódico en marzo pasado para obtener un comentario sobre la (posible) muerte de su madre ella la negó, diciendo que su madre estaba en Cairns (a 3000 kilómetros) y que le pasaría el mensaje a su madre para que se comunicara con el periódico. Varios días más tarde la hija se puso en contacto con el periódico e hizo pública una declaración que confirmaba que su madre ¡había estado muerta por seis semanas! ¿Quizá fracasó su intento de hacer que su madre se pusiera en contacto con el periódico desde "el otro lado"?
+
+  Como sea, si yo fuera suspicaz pensaría que los intentos de la hija de ocultar la muerte de su madre puede haber sido un intento de mantener funcionando el negocio de las lecturas, horóscopos y predicciones telefónicas. Pero eso sembraría dudas sobre todo el asunto, ya que eso implicaría que las lecturas, horóscopos y predicciones no tienen nada que ver con los "talentos" de su madre y nunca lo tuvo. Pero eso no puede ser verdad... ¿no es así?
+
+Uno se pregunta... Con Kerry prediciendo póstumamente eventos tan inesperados como "Más escándalos para la familia real" y precisamente que "Podremos ver un plato volador tener un accidente dentro de los próximos dos años", ¡más nos vale seguir atentos!
+
+Un competidor para el Pigasus
+.............................
+
+El lector Mike Wavada observa:
+
+  Un competidor fuerte para el Premio Pigasus del año que viene tiene que ser el "Padre" Andrew Wingate, un autodenominado místico que predijo en el programa [radial] de George Noory hace poco que el Papa sobreviviría a su enfermedad y se iría al "exilio" por ocho meses. No recuerdo una predicción que se demostrara falsa tan rápido. Wingate dijo que si se equivoca, se vería forzado a repensar todas sus creencias. ¿Qué quiere apostar?
+
+  A propósito, también predijo que Rusia y China unirían fuerzas para atacar a los EE.UU., pero que finalmente los podríamos rechazar al sur de Omaha. Ya he advertido a mi padre, que vive en Kansas City, que salga y compre todas las armas que pueda conseguir.
+
+¡Seamos serios, amigos! Teniendo en mente la predicción de Wingate de que los terroristas islámicos "atacarán los EE.UU antes de febrero de 2005 con otro impacto importante que siente que será al menos tan mortal como el 11-S", ¡tenemos que tomarlo al menos tan seriamente como tomamos a Kerry Kulkens!
+
+Método a prueba de balas
+........................
+
+La lectora Karen nos remite a http://msn.foxsports.com/mlb/story/3537764, donde las primeras 55 palabras [del original inglés] nos dicen que no tenemos que ir más lejos para ver cuán tonto e ingenuo es el Sr. Baker:
+
+  Los Cachorros de Chicago no han ganado una Serie Mundial desde 1908, y las lesiones del equipo actual han empezado a sumarse. De modo que el director técnico Dusty Baker ha tomado medidas drásticas, de acuerdo con el Chicago Tribune. El Tribune informó el miércoles que Baker ha empezado a frotar agua bendita en las partes corporales de los jugadores lesionados.
+
+Acorah continúa la tradición
+............................
+
+El lector Graeme Hill, de Sunderland, Reino Unido, nos tiene al tanto sobre las continuas aventuras de Derek Acorah.
+
+  Acaba de ocurrírseme enviarle una actualización sobre las actividades del Sr. Acorah luego de su comentario del 15 de abril. El incidente de "Kreed Kafer" fue bastante gracioso por sí mismo, pero tres episodios más tarde tenemos otro más. Esta vez "recogió" el espíritu de un pirata del asfalto llamado "Rik Eedles". Se mencionó con frecuencia a este personaje, aunque no pudo encontrarse registro histórico alguno de él. Quizá esto no es sorprendente cuando uno considera que Rik Eedles es un anagrama de Derek Lies ("Derek Miente").
+
+  Los espectadores habituales de la serie Most Haunted ("Las más encantadas") han tenido amplias oportunidades de darse cuenta de los incontables errores del desventurado Acorah. Parece posible, sin embargo, que ahora tengamos algunos miembros del programa que tienen sentido del humor y las pelotas para mostrar a Derek en su verdadera condición.
+
+Estoy esperando que se ponga en contacto con el fantasma del mercado de "Comidas Griegas"...
+
+Por fin
+.......
+
+.. image:: http://www.randi.org/images/042205-DickF.jpg
+   :alt:
+   :align: right
+
+¡Hey! ¡Se acerca el día en el que el Servicio Postal Estadounidense (solía ser la Oficina de Correos) lanzará la nueva estampilla honrando a Dick Feynman! Escribí sobre esto en http://www.randi.org/jr/090704bad.html#11. ¡Y hay más! El 11 de mayo de 2005, a las 10 de la mañana, en la Oficina Postal Far Rockaway, de Avenida Mott 18-36, Nueva York NY 116961, se presentará un matasellos especial basado en un diagrama de Feynman junto con la estampilla de Feynman. También escucharán bongós y lecturas de libros populares de Feynman. Es libre y gratuito para el público. ¡Luego, habrá un renombramiento oficial de una calle, de Avenida Cornaga a Camino Richard Feynman, a dos cuadras de la Oficina Postal!
+
+Quiero agradecer personalmente a David Failor, director ejecutivo de los Servicios de Estampillas del Servicio Postal Estadounidense, quien se aseguró de que este pedido llegara a completarse.
+
+En conclusión
+.............
+
+.. figure:: http://www.randi.org/images/042205-Figure02.jpg
+   :alt:
+   :align: left
+
+   *La revelación...*
+
+Esto es lo que Lang Hames vio cuando se acercó al madero flotante. ¡Qué decepción!
+
+La semana que viene, traficantes de drogas homeopáticos y el éxito norcoreano en curanderismo...
+
+|firmarandi|
+
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: Traducido por Marcelo Huerta San Martín
+    :description: Tecnología moderna aplicada a superstición antigua. BBC se monta a la ola de irracionalidad. Aparición de la virgen en Chicago. Esa tonta película. Magia real a la venta. Jomanda finalmente es llevada a la corte. La situación de "EFT". El Toque Tellington. Más ropa interior. Sueco sobrio. De dónde vienen esas voces. Bruja inmortal. Un competidor para el Pigasus. Método a prueba de balas. Acorah continúa la tradición. Por fin. En conclusión.

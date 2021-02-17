@@ -1,0 +1,49 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB102_1
+.. link: http://talkorigins.org/indexcc/CB/CB102_1.html
+.. date: 2005-4-27
+.. title: CB102.1: Dawkins no pudo dar un ejemplo de aumento de información
+.. description: Respuesta a la afirmación creacionista «Dawkins no pudo dar un ejemplo de aumento de información»
+.. type: afirmacrea
+
+En una entrevista en 1997, se le pidió a Richard Dawkins que "diera un ejemplo de una mutación genética o proceso evolutivo que pudiera mostrar un aumento en la información del genoma". Aparentemente incapaz de responder, hizo una larga pausa y finalmente respondió cambiando de tema.
+
+**Fuente:**
+
+AIG, 1998. Skeptics choke on Frog: was Dawkins caught on the hop? http://www.answersingenesis.org/docs/3907.asp
+
+Keziah Films, "From a Frog to a Prince" (video)
+
+Respuesta
+===========
+1. De acuerdo con Dawkins, hizo una pausa porque la pregunta reveló que los entrevistadores eran creacionistas, que lo habían engañado respecto a sus motivos. Hizo una pausa para pensar cómo manejarlos, y el cambio de tema se debió a que se omitieron varios minutos del video en los cuales los enfrentó ([Dawkins_2003]_).
+
+2. La pregunta era equivalente a preguntar cómo puede evolucionar la complejidad, lo cual Dawkins ha cubierto en al menos cuatro libros (*El relojero ciego*, *El río del Edén*, *Escalando el Monte Improbable* y *El capellán del Diablo*). Ha respondido la pregunta extensamente.
+
+3. La capacidad de una única persona para responder una pregunta es en su mayor parte irrelevane. La literatura científica está repleta de ejemplos de :doc:`aumentos de información <CB102>`.
+
+Referencias
+===============
+
+.. [Dawkins_2003] Dawkins, Richard, 2003. The information challenge. En: *A Devil's Chaplain*, Boston: Houghton Mifflin Co. http://www.skeptics.com.au/journal/dawkins1.htm
+
+Otras lecturas
+==================
+
+Dawkins, Richard, 2003. The information challenge. En: *A Devil's Chaplain, Boston*: Houghton Mifflin Co. http://www.skeptics.com.au/journal/dawkins1.htm
+
+Williams, Barry, 1998. Creationist deception exposed, *The Skeptic* 18(3): 7-10. http://www.tccsa.tc/video/creationist_deception_exposed.pdf
+
+
+/////
+
+Anterior: :doc:`CB102` | Siguiente: :doc:`CB110`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

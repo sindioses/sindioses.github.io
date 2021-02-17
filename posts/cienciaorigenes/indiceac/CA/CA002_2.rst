@@ -1,0 +1,50 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA000
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA002_2
+.. link: http://www.talkorigins.org/indexcc/CA/CA002_2.html
+.. date: 2006-12-08 02:00:00+00:00
+.. title: CA002.2: Marx admiraba a Darwin y se carteaba con él
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Marx admiraba a Darwin y se carteaba con él»
+
+Marx le envió a Darwin una copia firmada por él de la segunda edición de Das Kapital y quería dedicársela, pero Darwin se negó cortésmente
+
+Fuente
+=======
+
+Humber, Paul G. 1987. Stalin's brutal faith. Impact 172. http://www.icr.org/index.php?module=articles&action=view&ID=276
+
+Respuesta
+==========
+
+Darwin escribió una carta rechazando la dedicatoria de un libro sobre ateísmo que no se menciona, pero se la escribió a Edward Aveling. La concubina de Aveling era Eleanor Marx, la hija de Karl, y ella heredó sus papeles. Se mezclaron con los papeles de Karl Mark, y la carta se asumió como perteneciente a Marx. Esta posición fue la preferida en Rusia por razones ideológicas, de modo que fue ampliamente repetida. Posteriormente, una carta de Aveling, pidiendo permiso para dedicarle a Darwin su libro *The Student's Darwin* se encontró entre los papeles de Darwin. Éste negó el permiso alegando que la ciencia no debía tratar directamente sobre temas religiosos ([Colp_1982]_, [Carter_2000]_).
+
+Darwin tenía una copia de *Das Kapital*, pero sus páginas no habían sido cortadas al momento de su muerte, de modo que nunca lo leyó.
+
+Nada de esto tiene relevancia para la ciencia de la evolución.
+
+Referencias
+==============
+
+.. [Carter_2000] Carter, Richard. 2000. Marx of Respect. http://www.gruts.com/darwin/articles/2000/marx/index.htm
+.. [Colp_1982] Colp, Ralph Jr. 1982. The myth of the Darwin-Marx letter. History of Political Economy 14(4): 461-482.
+
+Otras lecturas
+======================
+
+* Colp, Ralph Jr. 1982. The myth of the Darwin-Marx letter. History of Political Economy 14(4): 461-482.
+* Dawkins, Richard. 2000. There's more to books than titles. http://archive.workersliberty.org/wlmags/wl61/dawkins.htm
+
+
+/////
+
+Anterior: :doc:`CA002_1` | Siguiente: :doc:`CA005`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

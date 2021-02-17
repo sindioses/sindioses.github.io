@@ -1,0 +1,96 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. tags: genética
+.. description: «[E]n los últimos años la carrera de la investigación genómica se ha enfocado en distinguir lo que nos separa de las demás especies. La dificultad yace en localizar esa minoría diferente entre miles de millones de bases iguales, esa minoría que nos apartara millones de años atrás del chimpancé e iniciara un camino donde el cerebro resultara el gran beneficiado.»
+.. date: 2009-04-28 12:00:00
+.. type: lupa
+.. title: El gen que convirtió al mono en filósofo
+.. author: Glenys Álvarez
+.. category: La lupa herética
+
+
+.. |tit| replace:: El gen que convirtió al mono en filósofo
+
+.. class:: primera
+
+Fijar la mirada en alguna de mis perras me ubica en el Universo. Las imágenes de chimpancés y bonobos, tanto en el mundo silvestre como en cautiverio, no permiten que olvide que soy parte de un formidable proceso ocurrido sobre el globo terráqueo y sentirme parte del Reino Animal es uno de los sentimientos más profundos y vitales de mi existencia, una impresión que me desliza hacia aquella conocida frase de Carl Sagan referente a si existe o no vida inteligente fuera de nuestro Sistema Solar, donde el astrónomo concluía que, exista o no, en ambos casos el resultado sería extraordinario.
+
+
+.. image:: ../fotos/carlsagan.jpg
+   :alt:
+   :align: left
+   :width: 200
+
+Y me parece sorprendente ser mamífero. Las similitudes en nuestras biologías son hechos indiscutibles, lo que me hace parte del impulso que genera y desarrolla vida sobre la Tierra. Me voy más lejos aún. En mis años de lectura científica, he tenido el placer de leer sobre el fabuloso mundo de los insectos y una serie de experimentos sobre el apareamiento de las moscas precipitó en mis neuronas los nombres de personas conocidas, debido, insólitamente, a las similitudes que descubrí entre sus comportamientos. Algunos de estos estudios involucraron alcohol y otras drogas, dándole al momento un poco de humor, tal vez en el sentido más oscuro de la palabra.
+
+En fin, que participar en la sorprendente diversidad de la vida terrestre acompañada de todos estos genomas que son también el mío, me produce un delicioso placer intelectual y por ello me resulta tan absurda esa división que el humano ha creado entre su especie y las demás.
+
+“El ser humano es capaz de alejarse de su propia especie, inventando muros originados en clases, razas, géneros y/o zonas geográficas, no debe sorprenderte que se desligue de los demás animales también”, argumenta una amiga socialista, con otros problemas en la cabeza.
+
+Y tiene razón, creo que es uno de los efectos secundarios de poseer un cerebro grande y más complejo: no siempre estaremos preparados para lidiar con las consecuencias.
+
+Por supuesto que comprendo la razón de manipular y controlar las demás especies; sería un desperdicio de nuestras proezas no hacerlo, no tomar ventaja de ello para sobrevivir, sin embargo, una vez establecida esta supervivencia un poco de respeto no vendría mal; especialmente, como observamos en el presente, porque la coexistencia de todos determina el balance final de la vida como la conocemos ahora.
+
+.. image:: glenys20090428_adn.jpg
+   :alt:
+   :align: left
+   :width: 200
+
+Ingenuamente pensé que la era del genoma invertiría un poco este distanciamiento. Recuerdo cuando leí por primera vez la comparación entre el genoma del chimpancé o Pan trogloditas, nuestro familiar vivo más cercano, y el del ser humano, Homo sapiens: pasmoso, conmovedor, un momento prodigioso. Compartimos más del 99%. De las tres mil millones de bases (letras) en nuestro ADN, (molécula pedestal de toda la vida terrestre, por cierto, incluyendo las plantas, las bacterias y otros microorganismos), sólo 15 millones de estas letras han cambiado en nuestros genomas desde que hace seis millones de años estas dos especies tomaron diferentes rutas y separaron sus caminos biológicos de aquel ancestro en común. Menos de un 1% es distinto.
+
+Más bases me separan de mis perras. Aún así, la mayor parte de mi ADN ancestral coincide más con el de ellas que con el de los ratones. Aunque no dejo pasar el hecho de compartir la mayoría de mis genes con los roedores también. Ciertamente, la decodificación de los genomas de varias especies nos muestra que la evolución de los mamíferos ha conservado intacto, en los últimos 100 millones de años, por lo menos un 5% de nuestro ADN. Un dato significativo para la medicina, pues los genes allí deben ser bastante importantes para la vida (esencialmente en la codificación de proteínas) para que la evolución los conservara sin mutaciones a través del tiempo y las especies.
+
+De hecho, en los últimos años la carrera de la investigación genómica se ha enfocado en distinguir lo que nos separa de las demás especies. La dificultad yace en localizar esa minoría diferente entre miles de millones de bases iguales, esa minoría que nos apartara millones de años atrás del chimpancé e iniciara un camino donde el cerebro resultara el gran beneficiado.
+
+En ello han estado trabajando varios equipos de científicos en el mundo y en uno se encuentra la bioestadista de la Universidad de California en San Francisco, Catherine S. Pollard, quien diseñó un programa de computación motivada, precisamente, en descubrir estas pequeñas diferencias que nos dieron una red neuronal más grande que la de nuestros otros familiares primates, entre otras divergencias.
+
+El equipo de Pollard descubrió así el gen HAR1 o ‘Human accelerated region 1’ (región humana acelerada 1), un pedazo de ADN de 118 bases que viene jugando el papel principal en “eso que nos hace humanos”, desde que conclusiones del equipo fueron publicadas en el diario Nature entre el 2002 y el 2005.
+
+“Estudiamos esa pieza genética en las ratas, las gallinas, los chimpancés y los humanos y observamos que esta región cambió muy poco en los vertebrados, es decir, hasta que llegamos al hombre. Por ejemplo, entre las gallinas y el chimpancé, cuyo último ancestro en común ocurrió hace 300 millones de años, sólo dos bases del gen son distintas”, explicó Pollard en la revista Scientific American.
+
+Pero al comparar la región entre el Pan trogloditas y el Homo sapiens, las cosas se ven muy distintas. En los seis millones de años que nos separan de un ancestro común, 18 bases han cambiado en el HAR1 humano, por eso se le conoce como una región acelerada, porque la evolución ha sido bastante marcada en poco tiempo.
+
+“Durante cientos de millones de años, una presión evolutiva impidió cambios significativos en esta área, sin embargo, algo ocurrió que activó, apresuró y aligeró mutaciones importantes en la región”, escribe Pollard.
+
+.. image:: glenys20090428_chimp.jpg
+   :alt:
+   :align: left
+   :width: 200
+
+La bioestadista también identificó otra área de evolución acelerada en los humanos a la que llamó el gen FOXP2 y que ha sido identificada por otros grupos como parte importante de la evolución del habla. De hecho, en una de esas noticias que me incitan a exaltar la naturaleza intelectual humana, científicos en el Instituto Max Planck en Alemania, extrajeron ADN del fósil de un neandertal y secuenciaron este gen, el FOXP2; sus conclusiones aseguran que esta especie de homínido poseía la versión moderna. “Es posible que eso les permitiera enunciar tan bien como nosotros”, explican.
+
+Es una cuestión de genes. Pollard dice que no hay que cambiar mucho del genoma para producir una nueva especie. “La clave de todo el asunto es dónde realizar los cambios y no cuántos genes cambiar”, escribe.
+
+Toda esta información certifica en mí esa espectacular impresión de ser parte de un proceso extraordinario en el planeta Tierra, una diminuta bola azul ubicada en una galaxia más, entre miles de otras.
+
+Parafraseando a Sagan otra vez, no es un requerimiento que el Cosmos esté en armonía con las ambiciones humanas. De hecho, HAR1 y otras secuencias aceleradas le dan significado al proceso evolutivo aquí en la Tierra, al permitir la formación de una más compleja y organizada maraña neuronal en el Homo sapiens. Una maraña que se autoexamina y busca su lugar en un Cosmos sin sentido. Los animales sin estas regiones carecen de aparentes problemas existenciales.
+
+Desde aquí, la Tierra, son esos evolucionados cerebros humanos, impulsados por mutaciones aceleradas del ADN, que le otorgan sentido a la vida en el Universo.
+
+
+HAR1 y un grupo de particulares neuronas
+----------------------------------------
+Eso que te arruga el cerebro
+.............................
+
+Y a lo mejor los neandertales estaban capacitados para enunciar, pero la pregunta es, ¿tendrían además el potencial cognoscitivo para elaborar un lenguaje complejo? Al fin y al cabo, es en la transformación del órgano gris y blanco donde se encuentra la gran diferencia.
+
+El cerebro humano es tres veces más grande que el cerebro chimpancé y es obvio lo que somos capaces de hacer, pero no es en el tamaño donde nace la habilidad, más bien habría que estudiar ciertas áreas neuronales para comprender mejor lo que cualquier tipo de animal es capaz de hacer o no. Por ello, descubrir que el HAR1 está vinculado al desarrollo de un grupo de neuronas especiales ha sido uno de los bloques más importantes en la investigación sobre las unidades genéticas que nos distinguen de los demás animales.
+
+Pierre Vanderhaeghen, de la Universidad Libre de Bruselas, fue el primero en reconocer una relación entre este gen y el cerebro. El investigador utilizó químicos fluorescentes para “taggear” o etiquetar el gen y así distinguir su actividad dentro de los cerebros de fetos de varias edades. El científico descubrió que el gen está presente en un grupo de neuronas con un trabajo bastante particular.
+
+Si te fijas en algún cerebro notarás que la corteza, la parte externa y arrugada del órgano, está compuesta de surcos y giros. Pues bien, estas arrugas son el producto del trabajo de esas células nerviosas. Cuando algo daña estas neuronas, los bebés nacen con una condición conocida como Lisencefalia, o cerebro liso, con síntomas que van desde problemas cognitivos hasta motores, además de afectar la salud en general y acortar la expectativa de vida. Problemas en este grupo de neuronas también han sido vinculados a la aparición de la esquizofrenia en adultos.
+
+Para Pollard, HAR1 se encarga de la formación de una corteza saludable. Otras evidencias sugieren, además, que el gen juega un papel fundamental en la producción de esperma. Por otro lado, el gen no codifica ninguna proteína, dato que lo coloca entre el porcentaje genético mayoritario, muchas veces llamado ADN basura, genes que contienen secuencias reguladoras que se encargan de especificar a los demás lo que tienen que hacer.
+
+En general, la ciencia se ha encargado de estudiar los genes que codifican proteínas, que son los bloques constructores de células, pero que sólo forman el 1.5% del genoma. Ahora, la investigación se ha volcado en el estudio del genoma basura, donde han encontrado no sólo lo que nos hace humanos sino los lugares donde yacen las diferencias entre individuos.
+
+Indiscutiblemente, estas divergencias entre personas son tan insignificantes (en cuanto al porcentaje) como las que nos separan del chimpancé. Y es que estamos enlazados por genes añejos que no han mutado en más de 100 millones de años y que nos conectan a la gallina, a mi perra, al bonobo, a ti y a mí.
+
+
+
+
+.. include:: includes/colgl_pie.inc
+
+.. meta::
+   :description: "[E]n los últimos años la carrera de la investigación genómica se ha enfocado en distinguir lo que nos separa de las demás especies. La dificultad yace en localizar esa minoría diferente entre miles de millones de bases iguales, esa minoría que nos apartara millones de años atrás del chimpancé e iniciara un camino donde el cerebro resultara el gran beneficiado."
+   :author: Glenys Álvarez

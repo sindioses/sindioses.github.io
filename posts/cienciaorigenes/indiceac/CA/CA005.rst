@@ -1,0 +1,86 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA000
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA005
+.. link: http://www.talkorigins.org/indexcc/CA/CA005.html
+.. date: 2007-10-07 01:00:00+00:00
+.. title: CA005: La evolución es racista
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La evolución es racista»
+
+La evolución promueve el racismo.
+
+Fuente
+=======
+
+Morris, Henry M. 1985. Scientific Creationism. Green Forest, AR: Master Books, p. 179.
+
+Respuesta
+===========
+
+1. Cuando se la entiende correctamente, la evolución refuta el racismo. Antes de Darwin, la gente usaba un pensamiento tipológico para los seres vivos, considerando las distintas plantas y animales como de diferentes “tipos”. Esto dio origen a una concepción equivocada de las razas humanas, en la cual las diferentes razas se consideraban separadas y distintas. El darwinismo ayudó a eliminar el pensamiento tipológico y, con él, la base del racismo.
+
+2. Los estudios genéticos muestran que los humanos son notablemente homogéneos genéticamente, de modo que todos los humanos somos sólo una raza biológica. La evolución no enseña racismo; enseña precisamente lo contrario.
+
+3. El racismo es miles de años anterior a la teoría de la evolución, y su importancia probablemente ha disminuido desde la época de Darwin; ciertamente hoy en día hay mucha menos esclavitud. Eso es lo opuesto de lo que deberíamos esperar si la evolución promoviera el racismo.
+
+4. Darwin mismo era mucho menos racista que la mayoría de sus contemporáneos.
+
+5. Aunque el creacionismo no es inherentemente racista, está basado en el prejuicio religioso y es inseparable de él, y el prejuicio religioso no es menos odioso ni dañino que el racismo.
+
+6. El racismo ha estado muy fuertemente asociado con el creacionismo a lo largo de la historia [Moore_2004]_, como es evidente en los siguientes ejemplos:
+
+   * George McCready Price, que es al creacionismo de la tierra joven como Darwin es a la evolución, era mucho más racista que Darwin. Escribió:
+
+      | The poor little fellow who went to the south
+      |   Got lost in the forests dank;
+      |  His skin grew black, as the fierce sun beat
+      |  And scorched his hair with its tropic heat,
+      |   And his mind became a blank.
+
+      |  El pobre fulano que fue al sur
+      |  se perdió en los bosques húmedos y fríos;
+      |  la piel se le puso negra, por el fuerte impacto del sol
+      |  y se le quemó el pelo con el calor tropical
+      |  y la mente le quedó en blanco.
+
+     En *The Phantom of Organic Evolution* (El fantasma de la evolución orgánica), se refirió a los negros y a los mongólicos como humanos degenerados ([Numbers_1992]_, 85).
+
+   * Durante gran parte de la larga historia del apartheid en Sudáfrica, no se permitió enseñar la evolución. El sistema de Educación Nacional Cristiana, formalizado en 1948 y aceptado como política nacional desde 1967 hasta 1993, afirmaba, entre otras cosas,
+
+       que los niños blancos debían ‘recibir una educación separada de los niños negros para prepararlos por sus respectivas posiciones superior e inferior en la vida social y económica sudafricana, y toda la educación deberá ser basada en principios nacionales cristianos’ [Esterhuysen_y_Smith_1998]_
+
+     La política excluyó el concepto de evolución, enseñó una versión de la historia que caracterizaba negativamente a quien no fuera blanco y volvió obligatoria la educación bíblica, incluyendo la enseñanza del creacionismo y las reuniones religiosas.
+
+   * El Cinturón Bíblico del sur de los Estados Unidos fue el que más luchó para mantener la esclavitud.
+
+   * Henry Morris, del Institute for Creation Research (Instituto de Investigación de la Creación), ha hallado racismo en su interpretación de la Biblia:
+
+      A veces los hamitas, especialmente los negros, han llegado a convertirse en verdaderos esclavos de los otros. Poseídos por un carácter genético preocupado principalmente por asuntos mundanos y prácticos, con frecuencia han sido desplazados por la perspicacia intelectual y filosófica de los jafetitas y el celo religioso de los semitas ([Morris_1976]_, 241).
+
+7. Nada de esto tiene la menor relevancia para la ciencia de la evolución.
+
+Enlaces
+========
+
+* Trott, Richard and Jim Lippard, 2003. Creationism implies racism? http://www.talkorigins.org/faqs/racism.html
+
+Referencias
+============
+
+.. [Esterhuysen_y_Smith_1998]	Esterhuysen, Amanda and Jeannette Smith, 1998. Evolution: ‘the forbidden word’? South African Archaeological Bulletin 53: 135-137. Citado en Stear, J., 2004. It’s official! Racism is an integral part of creationist dogma. http://noanswersingenesis.org.au/aig_and_racism_response.htm
+.. [Moore_2004]	Moore, R., 2004. (ver abajo)
+.. [Morris_1976]	Morris, Henry M., 1976. The Genesis Record: A Scientific and Devotional Commentary on the Book of Beginnings. San Diego: Creation-Life Publishers.
+.. [Numbers_1992]	Numbers, Ronald L., 1992, The Creationists, New York: Knopf.
+
+/////
+
+Anterior: :doc:`CA002_2` | Siguiente: :doc:`CA005_1`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

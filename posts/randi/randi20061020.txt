@@ -1,0 +1,1010 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Traducciones de James Randi
+.. date: 2006-10-20 00:00:00
+.. type: randi
+.. title: La cubertería sensible; Quebec se traga un timo; Curación remota de las mascotas; Otro Fin del Mundo; Milagroso orador; Licencia perdida; Otro nuevo fan; Mi ignorancia al descubierto; Más sobre el Limbo; ¿En Conclusión?
+.. author: James Randi, traducción de Juan Ignacio Rodríguez de León
+
+.. contents:: Contenido
+   :class: sidebar
+   :local:
+
+La cubertería sensible
+......................
+
+.. image:: http://www.randi.org/images/commentary/200610/20lloyd.jpg
+    :align: right
+    :width: 214
+    :height: 281
+
+
+Discutiamos la semana pasada las afirmaciones de Peter B. Lloyd (Véase
+http://www.peterblloyd.org/), uno de los componentes del grupo
+Coppens / Lloyd / Osborn / Pilkington / Sarfatti, admiradores del
+prestidigitador Uri Geller, a la vez que de todo tipo de conceptos
+extravagantes y filosofías exóticas. A veces se acuerdan de mi en sus
+ocasionales periodos de lucidez. En el mensaje que me reenviaron la
+semana pasada, bajo el encabezado: "Doblar cucharas/telequinesis", Peter
+B. Lloyd escribe (El texto a continuación es sólo un extracto):
+
+    Aunque mi colega Susan Waitt me avisó de que llevara una cuchara a
+    nuestro encuentro [con Uri Geller], me daba la sensación que era
+    un poco pasado de moda. Después de todo, se han doblado
+    ya multitud de cucharillas telequinéticamente, y el mismo acto de doblarlas
+    se ha convertido en un tópico habitual en la cultura popular (por ejemplo, la
+    escena en la película **Matrix**, donde su pupilo doblador de cucharas
+    le dice a Neo que "no hay cuchara"). Así que imaginé que Uri estaría
+    mortalmente aburrido de doblar cucharillas, y que preferiría no tener
+    que doblar ninguna más. Así que me sorprendió cuando lo hizo
+    voluntariamente. Nunca lo había visto tan de cerca. Seguramente la
+    última vez que vi este fenómeno fue por televisión, en la década
+    de los setenta.
+
+¡Lloyd parece realmente sorprendido de que Geller, que prácticamente sólo se sabe
+ese truco, se ofreciera para doblar la cucharilla! ¡A mi me habría sorprendido
+que *no* lo hiciera! Esa actuación es la base de su espectáculo, poco más
+tiene para ofrecer. A continuación, Lloyd se pregunta donde se podría
+encontrar una base para la ciencia de los fenómenos psíquicos:
+
+    Incluso la teoría [de Jack Sarfatti] sólo puede abarcar una parte del
+    problema. Si se me permite usar una analogía con el mundo de la
+    informática, debe de haber al menos dos niveles superpuestos
+    en lo que respecta a los fenómenos psi. Un "nivel físico", que permitiría
+    que la señal viajara desde una mente consciente, que actúa como
+    agente, hasta otra que actué como objetivo, o viceversa, y un "nivel
+    de aplicación" que define el significado semántico de la señal. En la
+    demostración que todos pudimos ver en casa de Uri, (A) una señal de algún
+    tipo viajó de alguna manera desde la mente de Uri hasta la cuchara -un trabajo
+    a nivel físico- y (B) la cuchara interpretó dicha señal doblándose a un ritmo
+    constante hasta alcanzar un ángulo recto -este trabajo realizado a nivel
+    de aplicación.
+
+Atención a la frase: ¿"la cuchara interpretó
+dicha señal doblándose"? Esta gente ha visto demasiadas películas de
+efectos especiales. O sea que ahora sus cucharas ejecutan procesos mentales y poseen
+libre albedrío. En cualquier caso, si de verdad crees en las diabólicas
+fuerzas ignotas detrás de los estudios de Hollywood, estas filmaron
+*Matrix* ¿Para informar, o por el contrario, para confundir? Sólo
+puedes elegir una. Además, las cucharillas también pueden bailar y escribir
+poesía. ¿Qué fuma esta gente? El señor Lloyd escribe a continuación:
+
+    Se puede hacer una analogía con Internet. Desde la perspectiva
+    del usuario, funciona *automágicamente*; escribes un correo
+    electrónico, pulsas "ENVIAR" y el mensaje aparece en la
+    pantalla del destinatario. Pero, ente bambalinas, hay un
+    nivel físico compuesto por cables, conexiones
+    inalámbricas e incluso satélites, que transportan en mensaje
+    desde el punto A al punto B. Encima de todo ello, reside
+    el nivel de aplicación, que es donde está el cliente
+    de correo electrónico que muestra y almacena los correos (En
+    Internet hay otros cinco niveles: nivel de enlace, nivel de
+    red, nivel de transporte, nivel de sesión y nivel de transporte. El que
+    estos niveles tengan alguna correspondencia con los niveles
+    intermedios que podamos encontrar en los fenómenos psíquicos
+    se me escapa)
+
+    Nota del traductor: No es lo único que se le escapa. Soy
+    ingeniero informático, y casi se me caen los ojos de las
+    cuencas cuando traducía el párrafo anterior. Obviamente
+    ha leído algún texto de introducción al tema sin
+    entenderlo demasiado.
+
+    De acuerdo, Jack es un físico, interesado sobre todo en el nivel
+    físico de los fenómenos psi. Pero desde el punto de vista de un
+    desarrollador de *software*, me intriga lo que llamaré "nivel
+    de aplicación" psi.
+
+    En otras palabras, incluso cuando las señales lleguen a la
+    cuchara desde la mente de Uri (mediante las señales no localizada de
+    Jack, o por cualquier otra vía), cómo infiernos sabe la cuchara
+    qué es lo que debe hacer con la señal?
+
+Señor Lloyd, aunque admito claramente que soy profundamente ignorante
+en lo que respecta a cómo funciona Internet, nunca he considerado, ni siquiera
+por un breve instante, que tenga nada que ver con la magia. Sir Arthur C. Clarke
+dijo una vez, y con bastante sabiduría: "Cualquier tecnología lo suficientemente
+avanzada es indistinguible de la magia". Esto implica, en cualquier caso, que el
+observador sea incapaz de aceptar o admitir que, sencillamente, no entiende
+esa tecnología; que ignora los hechos, sistemas y herramientas que pueden
+estar implicadas en los resultados observados. Simplemente, no procede
+asumir que toda tecnología no identificada es realmente magia.
+
+
+.. image:: http://www.randi.org/images/commentary/200610/20jacob.jpg
+    :align: right
+    :width: 200
+    :height: 266
+    :target: http://www.jacobspinney.com/
+
+Debemos preguntarnos si alguno de los presentes en el grupo que
+asistió a la demostración del señor Geller tenía alguna
+experiencia en trucos de magia o ilusionismo. No me refiero a
+lo mejor o peor que pueden hacer algún truco de cartas, sino a
+si poseen un buen conocimiento de las técnicas físicas y psicológicas
+usadas por los ilusionistas o prestidigitadores (Prefiero estos términos
+antes que "magos") para realizar su "suficientemente avanzada tecnología". Les
+pediría que se sentaran conmigo y viéramos juntos una actuación
+de Penn & Teller, que tomaran notas, y que después me explicaran cómo
+se hicieran cada una de las aparentes maravillas realizadas. de hecho, les
+desafío ahora a explicarme -sin recurrir a la tienda de magia e ilusionismo
+más cercana para que se los explique- cómo hace `Jacob Spinney`_ para realizar
+la proeza que pueden ver en este vídeo: http://www.randi.org/images/081304-ForkBend.mpg.
+Estoy muy interesado en que me envíen sos cuidados análisis científicos.
+
+Esta gente ha asumido que: (1) es imposible que puedan ser
+engañados por un prestidigitador habilidoso, y/o (2) que durante
+la reunión, Uri Geller no los engaño usando trucos de ilusionismo. En
+realidad, cualquiera de las dos presunciones puede ser falsa, pero ellos han decidido que
+al menos una _no_ lo es. Y esta es una decisión puramente personal, tomada
+sin la información necesaria, dado que no son expertos en la materia.
+Lo que ellos vieron en esa presentación es, en su
+ignorancia, "indistinguible de la magia".
+
+
+Y de nuevo tenemos, en la última frase de la cita anterior, la
+afirmación de que las cucharillas tienen autoconciencia y libre
+albedrío, y que pueden obedecer órdenes. Volvamos a estas
+mal digeridas reflexiones:
+
+    Estaba muy interesado por las explicaciones de Uri de que (a)
+    la cuchara continua doblándose después de que se haya iniciado
+    la acción, algo que todos pudimos presenciar, (b) la cuchara
+    siempre se dobla en ángulo recto y (c) siempre parece doblarse
+    a la misma velocidad; no oscila ni se balancea. Es como si
+    se estuviera ejecutándose un paquete preprogramada en respuesta
+    a la señal mental de Uri. Por lo que puedo concluir de los
+    comentarios de Uri, este no tiene ningún control sobre los
+    detalles del proceso. Parecía tan sorprendido como cualquiera de
+    nosotros de que el doblez fuera siempre de 90 grados. Esto me
+    hace pensar que las especificaciones del proceso no están incluidas
+    en el mensaje transmitido, sino predefinidas en la cuchara.
+
+¡Esta gente realmente se creen absolutamente todo lo que Geller les diga!
+No se cuestionan absolutamente nada, aunque desafíe todo aquello que
+sepan del mundo real, e incluso simpatizan con su aparente perplejidad
+antes sus fabulosos poderes. ¿Se pueden imaginar las risas que se habrán
+oído en el comedor de Geller, después de haberse ido estas "eminencias"? Debía
+ser un escándalo. Pero regresemos con el señor Lloyd, que sigue haciéndose
+preguntas cada vez más tontas, más aun de las que hubiéramos imaginado posibles
+en una persona que suponemos capaz de realizar las cuatro operaciones básicas y
+de atarse el mismo los cordones de los zapatos:
+
+    ¿Pero por qué posee una simple cucharilla la capacidad intelectual
+    necesaria para saber que debe doblarse exactamente 90 grados
+    a una velocidad uniforme, al recibir una determinada señal? Creo
+    que, para poder tener una oportunidad de responder a estos
+    interrogantes, necesitamos una nueva teoría, fundamentalmente
+    diferente de la convencional.
+
+
+Si, Peter, claro que la necesitas. Las viejas teorías convencionales
+nos dicen que una cuchara es un nada inteligente objeto de metal, incapaz
+de pensar por si mismo, y que los prestidigitadores son perfectamente
+capaces de engañar a científicos presuntuosos simplemente usando sus
+dedos. Y tu nos dices  que es la hora de librarnos de esta molesta
+percepción de la realidad, que juntemos nuestras manos y vayamos en pos
+del Camino de las Ladrillos Dorados. Y, por favor, intenten ignorar
+a ese Hombre Detrás De La Cortina, si son tan amables...
+
+
+
+.. image:: http://www.randi.org/images/commentary/200610/20matrix.jpg
+    :align: right
+    :width: 170
+    :height: 170
+
+
+En este momento de su extravagante discurso, el señor Lloyd especula
+con que el mundo podría ser esencialmente una realidad virtual, al estilo
+de _Matrix_. Lo compara con el mapa del mundo de la doctrina Vedanta, que
+fue presentada por Adi Shankara en el siglo octavo. Así de avanzados
+son sus conocimientos. Y sigue:
+
+
+    En principio, deberíamos ser capaces de hacer ingeniería inversa sobre
+    esta simulación, y descubrir la arquitectura del software en que estamos
+    inmersos. Un punto de partida plausible podría ser el asumir que esta
+    RV global [Realidad Virtual a lo *Matrix*] es un sistema orientado
+    a objetos. Cada objeto material que tenemos a nuestro alrededor -cada
+    mesa, silla o cucharilla- se corresponde con un objeto software, es
+    decir, una estructura encapsulada de datos y métodos. Estos *objetos* se comunican
+    entre si mediante una serie de mensajes predefinidos. Un mensaje se referirá
+    a un determinado método, y el objeto receptor contendrá la
+    inteligencia necesaria para saber que ejecutar en respuesta a
+    cada mensaje que reciba. En el caso de la cuchara de Uri, esta ya
+    sabe que debe doblarse en ángulo recto, porque así lo dicta su
+    método interno, y el mensaje enviado por la mente de Uri sólo actúa
+    como un disparador de dicho método.
+
+Perfecto. Ahora tenemos no solo cucharas, sino también mesas y sillas
+inteligentes y comunicándose entre si. No se ustedes pero yo ya apenas
+puedo seguir. ¿Pueden imaginarse que clase de vida lleva esta gente, siempre
+esquivando e intentando no ver al Hombre Detrás De La Cortina.
+
+    Este enfoque de los fenómenos psi nos proporciona un entorno
+    teórico para la visión remota. Por ejemplo, al ver un objeto
+    remotamente, digamos una mesa en un cuarto contiguo, *ves*
+    el objeto como si lo estuviera viendo físicamente, como si
+    lo vieras a través de una lente. Solo que no hay ninguna lente, así
+    que tampoco hay una imagen que ver, ni tampoco un receptor
+    con las características espectrales de la retina humana.
+    Así que hay **algo** en el receptor que es capaz de reconstruir la imagen
+    **como si** el ojo estuviera allí. ¿Qué es ese "algo"? Bien, si el
+    mundo que nos rodea es una construcción a lo **Matrix**, entonces
+    cuando vemos una mesa, en realidad hay un objeto software ejecutando una
+    simulación física de una mesa. Y ese objeto posee un método predefinido
+    para representar una imagen de cómo se vería la mesa por un observador
+    externo, colocado en una determinada posición.
+
+Señor Lloyd, toda esta teoría suya se basa en la presunción de que la
+visión remota existe. En caso contrario, todo serían palabras en
+el viento, ¿No? Le sugiero que intente realizar alguna visión remota
+para el JREF, y llevarse por fin ese millón de dolares que llevamos
+tanto tiempo intentado entregar. O Bien conseguir a alguien que lo
+haga, cómo por ejemplo el propio Geller. ¡Oh! Lo siento, parece que acabo de
+molestar al Hombre Detrás De La Cortina. ¡Shhh!
+
+Señores, les dejo ahora leer los últimos párrafos
+de esta farsa horripilante de Sarfatti. Cuando acaben, pueden volver
+al mundo real por el procedimiento de lavarse la cara y abrazar a un
+bebe o a una mascota. Funciona siempre, y todos seguirán estando
+allí al acabar. Lloyd y compañía seguirán salivando sobre su mundo **Matrix**
+mucho después de que ustedes hayan dejado atrás estos delirios.
+
+    Saqué brevemente el tema de los mecanismos del doblamiento de
+    cucharas en nuestra reunión con Uri, pero básicamente su
+    perspectiva es la de un *usuario* de los fenómenos psi, más
+    que la de un científico intentando entender el funcionamiento
+    de los mismos. Simplemente recrea en su mente la sensación
+    de la cuchara doblándose, y *algo* pasa. Parece, por tanto, que
+    su mente consciente no está involucrada en los detalles
+    internos del fenómeno.
+
+    También le pregunté porqué necesitaba frotar la cucharilla, y porqué
+    funcionada mejor cerca de la escultura de Salvador Dalí. Según entendí
+    por su respuesta, tanto el frotamiento como el situarse cerca de
+    la estatua consisten básicamente en un ritual para facilitar
+    la actividad psicológica de enviar el mensaje a la cuchara.
+
+    Algo que hablé con Jack en París, pero que olvidé preguntar a
+    Uri, es la forma de adquirir poderes telequinéticos. Existe
+    aquí un problema análogo al que se le plante a un recién
+    nacido para usar su propio cuerpo.  El bebé empieza como una
+    mente recién creada, encerrada dentro de un cráneo en la oscuridad, y
+    cuyo único mecanismo de comunicación con el mundo externo consiste
+    en las señales que vienen y van por sus fibras nerviosas. Al principio, no
+    tiene ni idea de lo que hace o deja de hacer cada nervio, así que no tiene
+    prácticamente ningún control sobre sus extremidades. El bebe mueve
+    sus brazos y sus piernas al azar. De forma gradual, va descubriendo que ciertos
+    nervios están conectados, por ejemplo, a la mano, y que un determinado
+    patrón de estímulos en esos nervios provocan que la mano se cierre, mientras
+    que otro provocan que se abra.
+
+    El mismo proceso debe de ocurrir con la telequinesis. El cerebro debe
+    aprender a percibir la retroalimentación producida por el envió de determinadas señales
+    a la cuchara. Una pregunta interesante sería como hace la mente
+    para empezar a trasmitir estas señales, y porqué es tan infrecuente obtener
+    éxito en  el dominio de estas técnicas.
+
+¡Shhhhh!
+
+
+Quebec se traga un timo
+.......................
+
+Anne Mussar, una lectora de Ottawa, Ontario, en Canadá, nos informa
+que la empresa Econoco Inc. con sede en Prevost, Quebec, cerca de Montreal, ha
+recibido una sanción que le impide seguir vendiendo un fraudulento "ahorrador
+de gasolina", un artefacto que prometía, y no cumplía, reducir el consumo de energía
+de los automóviles. Sin duda, un paso adelante. Desgraciadamente, este paso
+sólo se ha dado después de que una agencia federal se gastara una pasta
+gansa en equipar su flota de vehículos con este cacharro (A 750 US$ la
+unidad) y proclamara orgullosamente que estaba contribuyendo al plan federal
+para la reducción de emisiones de gases de efecto invernadero.
+
+La compañía promocionaba su estafa anunciándola como un artefacto
+que, una vez conectado al automóvil, produciría un ahorro de
+"al menos un 10 por ciento", eliminaría emisiones e incluso
+mejoraría el rendimiento general del motor. Este tipo de afirmaciones
+son muy habituales, y su sola presencia debería haber
+alertado a cualquier agencia de la naturaleza fraudulenta del dispositivo;
+especialmente considerando que existe literalmente centenares de artefactos
+similares, disponibles para cualquier crédulo en todo el mundo.
+
+Pero la promoción y publicidad de Econoco fue suficiente para convencer
+al Departamento de Desarrollo Económico de la Región de Quebec (Canadá
+Economic Development for Quebec Regions) de dotar a su flota de vehículos
+con el dispositivo, a pesar de que en realidad no existía evidencia
+alguna que apoyara esas extraordinarias afirmaciones. Obviamente, las
+autoridades buscaban desesperadamente maneras de reducir
+las emisiones y de recortar gastos en el consumo
+de carburante, de forma que eligieron aceptar todas las
+afirmaciones, por extravagantes que fueran, hachas por Econoco. Lo
+que hace todo este asunto aun más embarazoso para esta agencia es
+que en un boletín informativo sobre medio ambiente de Canadá, publicado
+en el año 2004, ¡se les dio una mención honorífica por el aporte hecho
+en la reducción de combustible logrado gracias a este truculento
+artefacto! Aun peor es que ocho de los coches de la agencia continúan
+con el "ahorrador de gasolina" instalado. ¿Qué hay que hacer para que
+a esta gente aprenda la lección?
+
+De los 1.900 dispositivos vendidos en Canadá, la mayoría lo fue en la región
+de Quebec. Econoco está obligada ahora a publicar en los periódicos anuncios
+en los que informe a sus clientes de que el producto es una farsa, y pagar
+una multa de 15.000 US$. ¡Guau! ¿Este es el castigo? Estoy seguro de que
+Econoco estará muy contenta con el. Veamos: Vendemos por valor de un par
+de millones de euros, luego, acordamos retirarnos del negocio, pagamos
+una penalización, que no llega ni a un 1 por ciento de lo facturado, y después
+nos vamos. ¡A mi me parece un buen negocio!
+
+Curación remota de las mascotas
+...............................
+
+Jeff Salzmann, de Lancaster, Nueva York, nos informa:
+
+    Quizás esté equivocado. Quizá hubiera sido mejor que
+    no estudiara ciencias puras, y especialmente tantas
+    matemáticas. Quizás debería haberme puesto a curar mascotas
+    por teléfono y, posteriormente, por Internet. La siguiente
+    conversación hace que me replantee tantas
+    cosas: http://tinyurl.com/nrn8e
+
+    Este viernes llevamos a nuestro perro Sushi a un veterinario
+    holístico situado a casi 50 kilómetros de casa. Tenía
+    un problema de hígado (El perro, no el veterinario) y habíamos
+    empezado un tratamiento con bromuro de potasio para la epilepsia.
+    Mi madre vino con nosotros en este viaje, y menudo
+    viaje resulto ser. Pensaba que iba a ser como cualquier
+    otra visita sobre medicina alternativa y nutrición. ¡Nada de
+    eso! No fue así en absoluto. El veterinario empezó con una comprobaciones
+    musculares, unas pruebas que ya había vista hacer antes, y antes
+    de terminar lo dejó y empezó a hablarnos de la ausencia de vitaminas
+    en la dieta. Esta era la razón de la enfermedad del perro. Al final,
+    nos dio una relación de todos los órganos que tenían virus, así como
+    de los nutrientes que necesitaba tomar el perro para curarse.
+
+    Teníamos tres formas distintas de administrar estas vitaminas:
+
+    1) En forma de cápsulas.
+
+    2) Enviando a Sushi un correo electrónico, que escucharía durante una
+       media hora. Recibiría la cura a través de Internet. No es broma.
+
+    3) Ellos tomarían una muestra de pelo de Sushi, le harían una fotografía
+       y trasmitirían las vitaminas mediante Internet a donde quiera que estuviera
+       el perro. ¡Yupi!
+
+    Mi padre alucinó y se fue con el perro. Mi madre y yo nos quedamos
+    y empezamos un debate acerca de cómo podía funcionar aquello. ¿Dónde
+    estaba la lógica? Lo compararon con la televisión en Color. Así que
+    miramos las páginas web de este, ejem, veterinario ... y encontramos
+    varias rarezas que citamos a continuación:
+
+        El servicio veterinario de Cache Creek
+
+        ATENCIÓN: Aunque usted resida lejos de Woodland, California, seguramente
+        podamos ayudarle utilizando las técnicas de diagnóstico telefónico
+        que hemos ido desarrollando durante años. Si tiene interés en aprender
+        más detalles del diagnóstico telefónico, simplemente pulse en el teléfono [Cuyo
+        enlace viene a continuación]: http://www.yolodirect.com/ccv/page15.html
+
+        Si, sabemos que parece extraño. Sin embargo, hemos conseguido
+        realizar un análisis completo de deficiencias nutricionales
+        por teléfono. Podemos detectar y eliminar "alergias" durante
+        años ¡mediante el teléfono!
+
+        Lo que hemos descubierto es que las pruebas de Análisis de
+        Contacto Reflejo (CRA - *Contact Reflex Analysis*) dependen
+        de una clase de energía que puede ser conducida por el metal. Un
+        amigo nuestro, que tiene un montón de letras después de su
+        nombre (Doctorado en psicología y Master en nutrición), insistió
+        durante mucho tiempo, y finalmente logró convencernos para
+        hacer el diagnóstico por teléfono. Nos decía "Debería funcionar". Y
+        tenía razón. Desde entonces hemos estado tratando a pacientes muy
+        alejados de nuestro hogar y oficina aquí, en Woodland, California.
+        Aunque la mayoría está en California, tenemos clientes en Canadá, en
+        todo el territorio de los Estado Unidos de América, en Europa e incluso
+        en Israel. Podemos ahorrarles a nuestros clientes y a sus mascotas
+        la molestia de tener que acercarse aquí. ¿Les parece extraño?  ¡Eso
+        esperamos! (en caso contrario, tendríamos que poner en duda su
+        capacidad racional). Desde luego, no pensábamos que era algo que
+        acabaríamos haciendo [Supongo que con esto se refieren a estafar a
+        sus clientes]. El caso es que algo que empezamos a probar para
+        beneficiar a clientes que estaban a 30 kilómetros ha terminado trayéndonos
+        clientes situados a miles de kilómetros.
+
+        El día de la cita, debe mantener al animal dentro de una jaula de
+        metal (o en una caja de plástico con papel de aluminio en el suelo
+        que termine debajo de la parte delantera, debajo de la puerta). Después
+        de indicarnos la información de su tarjeta de crédito, procederemos al
+        examen. Debe colocar el teléfono en contacto con la jaula de metal o con
+        el papel de aluminio que sobresalga, y nosotros haremos el resto.
+
+        Los Teléfono celulares o móviles pueden conectarse directamente a las bridas
+        de los caballos, etc...
+
+Gracias por esta fantástica web y por los comentarios. ¡Sigue haciendo
+tan buen trabajo!
+
+Otro Fin del Mundo
+..................
+
+.. image:: http://www.randi.org/images/commentary/200610/202012.jpg
+    :align: right
+    :width: 168
+    :height: 270
+
+¿Han oído hablar del nuevo pánico que recorre las filas de los
+aficionados a las catástrofes? Lo llaman el cambio de ciclo del año 2012.
+Lo cosa es así: como el calendario Maya actual consiste en ciclos sucesivos, y
+dado que el ciclo actual abarca desde el año 3.113 A.C. hasta el 2.012 D.C., los
+catastrofistas ha decidido que en este último año se producirá un *eclipse total del
+tiempo*, y que nuestra especie entrara en la *posthistoria* (Lo siento, yo sólo
+informo del asunto, no me pidan que lo explique).
+
+Uno de los creadores de esta teoría, Patrick Geryl, nos explica con
+mayor detalle qué va a pasar en el 2012:
+
+    Enormes terremotos y olas de alturas kilométricas atormentarán
+    la superficie de la Tierra. Simultáneamente, los polos de la tierra
+    cambiarán. En cuestión de horas, la corteza de la Tierra se
+    desplazará miles de kilómetros. En ese corto periodo de tiempo, tanto
+    los Estados Unidos de América como Europa quedarán completamente
+    destruidos.
+
+    A lo largo y ancho de todo el planeta se producirán miles
+    de millones de accidentes; sólo unos pocos seres humanos tendrán
+    alguna oportunidad de sobrevivir. Estos son los horribles
+    hechos. ¿Cómo sobrevivir a este *Armageddon*, a este escenario
+    definitivo del fin de los tiempos?
+
+¿Necesito añadir que Patrick les dice a sus lectores lo que deben hacer?
+¿Les suena el nombre de Noé? Oye, si funcionó una vez, ¿Por qué no
+una segunda? Yo lo leí en otro libro...
+
+Dado que estos cabezas de chorlito insisten en que "todas las predicciones"
+hechas por el calendario Maya han sido confirmadas -signifique esto
+lo que signifique- y que el planeta Tierra "entrará en sincronía con el
+Universo en el año 2012 D.C.", no es de extrañar que Amazon.com (¡Qué
+apropiado!) disponga de más de 100 libros sobre el tema, con títulos
+como "El día del Juicio Final 2012" y "2012: Tienes una oportunidad". Por
+toda la superficie de nuestro desahuciado planeta se están convocando "conferencias
+espirituales". En Nuevo Méjico, de forma nada sorprendente, los chiflados
+se acumulan en el "Simposio de la Ascensión 2012", que promete "ofrecer
+consuelo global a la humanidad y cambiar la conciencia del mundo". El autor
+de panfletos esotéricos Geoff Stray está realizando una serie de conferencias
+sobre el 2012 durante el 2006 y el 2007, incluyendo una en la conferencia
+sobre ovnis que se organizará en Nevada en febrero, y una "conferencia de
+curación" en Jericó, Cisjordania, en mayo. Suponemos que Geoff estará impaciente
+por gastar el dinero que gane con estas conferencias, que dentro de unos cuantos
+años será completamente inútil.
+
+En realidad, es cierto que se aproxima una alineación astronómica
+inusual, tan rara que sólo ocurre una vez cada 870 años. El Sol
+realizará su paso anual a través del ecuador celeste el mismo día
+del solsticio de invierno. Al parecer esto altera bastante a nuestros
+muchachos. Aunque hay literalmente miles de eventos astronómicos
+igual de raros para elegir, un "investigador" Belga afirma que esta
+coincidencia disparará
+
+    ...Una inversión en el campo magnético del Sol, lo que hará que incremente
+    su temperatura entre 10 y 20 veces, y dará la vuelta a la rotación de la
+    Tierra sobre su propio eje e inundará a su habitantes.
+
+La verdad es que estoy bastante tranquilo sobre esta nueva catástrofe, como lo
+estuve del otro centenar o así de veces que los agoreros de la destrucción
+nos han prometido un desastre. Me preocupa mucho más las próximas elecciones
+en los Estados Unidos de América que las ideas de los largo tiempo extintos Mayas, aun
+cuando sus logros en matemáticas y en astronomía siguen despertando mi
+admiración.
+
+
+
+Milagroso orador
+................
+
+No hay duda de que en la actualidad la curación espiritual es, de lejos, el
+remedio alternativo más practicado. La evidencia a su favor, sin embargo, sigue
+ausente.
+
+.. image:: http://www.randi.org/images/commentary/200610/20walach.jpg
+    :align: right
+    :width: 119
+    :height: 161
+
+
+¿De verdad? El profesor Harald Walach, un psicólogo de la Universidad
+de Northampton, Reino Unido, opina lo siguiente:
+
+    Debemos tomarnos este fenómeno [la curación espiritual] en serio
+    aun cuando no la entendamos. Ignorarlo sería anticientífico. Nuestros
+    trabajos demuestran que existe un efecto significativo.
+
+Al parecer, Walach cree que puede demostrar que la oración y la curación
+espiritual no son simples chorradas, después de todo. Parece pensar que
+los científicos y médicos de verdad simplemente han asumido que estas
+cosas no funcionan. No es así, profesor. No hay ninguna suposición:
+simplemente han *comprobado* que no funciona. Los amplios y detallados
+estudios realizados  para determinar el efecto de la oración sobre la
+enfermedad han fracaso estrepitosamente.
+
+El profesor Peter Fenwick, consultor de neuro-psiquiatría en el
+*King's College* de Londres, salta en medio de la controversia
+y ofrece cuatro posibilidades que pueden explicar los informes
+de efectos positivos de las oraciones:
+
+    1) Fraude
+
+    2) Los investigadores están equivocados
+
+    3) Los informes que refutan las curaciones permanecen inéditos
+
+    4) El efecto es real
+
+Fenwick opina que los tres primeros escenarios son "poco
+probables". No estoy de acuerdo. Tomémoslos en orden:
+
+    1) "Fraude". El fraude no solo es muy probable, se puede demostrar que
+    ha sido empleado en algunos de los casos más aireados y publicitados. ¿Por qué
+    pasa esto? Porque los experimentadores sufren una presión muy fuerte
+    para obtener resultados positivos. El mundo académico se sustenta
+    en las publicaciones, y en el prestigio que proporcionan. Sólo los
+    resultados positivos suelen ser publicados o publicitados. Los editores
+    de los noticiarios se lanzan sobre cualquier resultado extravagante, especialmente
+    si hay académicos detrás.
+
+    2) "Los investigadores están equivocados". En sus observaciones se aprecian
+    los prejuicios de Fenwick. Se refiere a ellos como "un gran número de
+    investigadores dotados y de talento", aislándolos así de cualquier
+    crítica o reproche. Recordemos el follón que montaron los investigadores
+    Russell Targ y Hal Puthoff en los 70, cuando creyeron a pie juntillas lo
+    que les decía un prestidigitador que ellos creían dotado de poderes
+    mágicos. Sin duda eran "dotados y de talento", pero abandonaron su experiencia
+    y su campo de conocimientos en el momento en que en enfrentaron con el
+    saber hacer y las técnicas de manipulación psicológicas de un mago
+    profesional. En la actualidad rechazan todas sus antiguas
+    declaraciones. Los científicos pueden equivocarse, y de hecho lo
+    hacen; son humanos igual que el resto de nosotros.
+
+    3) "Los informes que refutan las curaciones permanecen inéditos". Las
+    editoriales y sus editores, enfrentados a un informe de resultados negativos,
+    para experimentos en los cuales se esperaban resultados positivos, tienden
+    a relegar dichos informes al limbo. Sus clientes/lectores quieres
+    resultados positivos, no fallos. Consideremos además la situación apremiante
+    de los investigadores que aparecen con  resultados negativos: es muchísimo más
+    fácil para ellos archivar los resultados. El espectro de la financiación, además, es
+    omnipresente, y obtener fondos para obtener resultados negativos
+    no suele ser tarea fácil.
+
+    4) "El efecto es real". Aquí es donde entra la JREF. Si hay algo de verdad
+    en esto, entonces o bien Walach o Fenwick deberían estar ya optando
+    al premio, y la bola podría empezar a correr. La única pega es que
+    Walach ha llegado a esta conclusión usando la cada vez más extendida técnica
+    de examinar el conjunto de todos los datos relevantes y extrayendo de ellos
+    lo que necesita para llegar a la conclusión que deseaba.
+    Lo siento, pero esto no funciona así. Como he dicho repetidas veces antes, un gran
+    conjunto de datos cuestionables no prueban nada. Para probar algo se necesita
+    un buen conjunto de datos, obtenidos mediante un método experimental adecuado, y capaz
+    de ser replicado por otros.
+
+Mientras tanto, seguiremos esperando ese experimento...
+
+Licencia perdida
+................
+
+Nuestra lectora Catherine Neelon, de Allentown, Pensilvania, ha vuelto. Habíamos
+leído de ella un comentario la semana pasada, en
+http://www.randi.org/jr/2006-04/041406schwartz.html#i9. Comentábamos allí
+el extravagante -incluso para estas páginas- quiropráctico James Burda, quien
+decía poseer la capacidad de curar a sus clientes mediante unas técnicas
+bautizadas por el como "Bahlaqeem Vina" y "Bahlaqeem Jaqem". Inventó estos términos
+para describir su habilidad de viajar atrás en el tiempo hasta
+la fecha en que se produjo la herida, y alinear los huesos y las articulaciones
+usando vibraciones telequinéticas. Seguro.
+
+Bueno, según la señora Neelon, parece que el mundo real finalmente ha
+alcanzado a Burda:
+
+    Quería llamar su atención sobre una reciente noticia que creo podría
+    serles de interés. Por extravagante que sea la medicina quiropráctica,
+    parece que este hombre ha ido demasiado lejos incluso para
+    sus compañeros quiroprácticos. Lean la noticia completa en
+    http://tinyurl.com/yahkc4.
+
+Burda fue acusado de mala praxis médica por cobrar 60 US$ la hora a sus
+pacientes para curarles sus dolores mediante telepatía, y ha perdido su
+licencia. Eso si, no se ha explicado porqué la investigación de este
+chanchullo ha ocupado 15 años. El Consejo de Quiroprácticos del Condado
+de Ohio ha determinado que se trata de curandería a larga distancia, y
+que un examen psicológico del acusado ha determinado que esta mentalmente
+enfermo y que sufre de "ilusiones de grandeza". ¿Hacía falta un
+quiropráctico para descubrir esto?
+
+La página web de Burda incluía un "testimonio" de un perro basset hound
+de 10 años de edad. Con esto acabo.
+
+Otro nuevo fan
+..............
+
+Hay dos aspectos en los que las conferencias TAM de los que podemos
+estar orgullosos. En primer lugar, atraemos a un gran número de personas
+jóvenes. La mayoría de las organizaciones escépticas, y hay muchas en
+el mundo, organizan conferencias que suelen ser descritas por la prensa
+y, sobre todo, por los enemigos del pensamiento crítico, como "un
+conjunto de viejos". Hemos de admitir que esto es,
+desgraciadamente, cierto. Pero los encuentros TAM nos enseñan que
+los jóvenes aprecian y se benefician de reunirse con el tipo
+de personas que hemos sido capaces de traer cada año, y esto nos
+anima bastante. En segundo lugar. incluso un vistazo superficial a la
+audiencia que asiste al TAM muestra una proporción mucho mayor de
+mujeres de lo que solía ser habitual en presentaciones de este tipo.
+Eso nos anima bastante, también.
+
+Hemos leído con alegría una carta muy refrescante enviada
+por una lectora que sólo se identifica como Geetah. Es una
+mujer India que lee nuestros comentarios habitualmente, y estas
+son sus observaciones:
+
+    Soy de La India. Me encontré casualmente su página web y la encontré
+    extremadamente interesante. Me alegra haberme topado con con
+    una comunidad de ideas similares a las mías. He sido una escéptica
+    durante años, pero generalmente me guardaba mis ideas para
+    mi, excepto cuando estaba en un reducido círculo de amigos, por miedo
+    a ofender a otras personas (Las ideas radicales provenientes de una
+    mujer se consideran incluso más extravagantes). No obstante, Richard
+    Dawkins me ha inspirado para tener el coraje de ofender, si resulta
+    ser necesario (http://www.randi.org/jr/040805how.html#8). En
+    la India tenemos supersticiones en abundancia, y hay multitudes
+    de hombres-dioses (como se describen a si mismos) que están preparados
+    para hacer pasar por caja a los inocentones que disfrutan revolcándose
+    en su ignorancia. La mayor parte de ellos, cuando se les hacen preguntas
+    incómodas, toman la postura de que el destino lo explica todo. Una especie
+    de mecanismo de defensa, supongo.
+
+    La gente no se da cuenta de la sensación de libertad que se
+    siente cuando te das cuenta de que ser una persona
+    sencilla, buena y honesta no tiene nada que ver con la religión.
+    Muchas veces he oído describir a alguien como una persona muy
+    buena, solo porque es *temerosa de Dios* y acude con frecuencia
+    a la iglesia. Ahora mismo estoy ocupada recurriendo todo
+    vuestro archivo y sorprendiéndome de la cantidad de engaños
+    y estafas que se producen en todo el mundo.
+
+    Estoy intentando popularizar vuestro sitio entre mis amigos. También
+    ha planeado confeccionar una lista de supersticiones habituales
+    en la India, así como escribir sobre *Nadi josiyam*, que afirma
+    que hay antiguas hojas de palmeras escritas con información de todos
+    y cada uno de las personas de todo el mundo, y que pueden se
+    pueden obtener simplemente con una impresión de una huella
+    digital. ¡Siempre me sorprende cuan crédula puede ser la gente! Por
+    favor, incluyelo  en tus comentarios si consideras que puede
+    ser pertinente, para que la gente pueda estar prevenida de
+    esta estafa.
+
+
+
+    Una cita del comentario del 6 de octubre de 2006:
+
+        No pasa a menudo que se le presenten tan fácilmente a uno
+        las soluciones a fenómenos aparentemente extraños. Quizá
+        sea solo que tengo suerte en ese aspecto.
+
+    Estoy sorprendida. ¿En qué contexto usa la palabra suerte? Espero
+    que sea con el significado de azar. Pero la palabra suerte [1]_ tiene
+    muchas connotaciones diferentes, así que me sentiría más cómoda si pudiéramos
+    evitar esa palabra y usáramos la mas simple "azar". ¿Qué opina usted?
+
+    Saludos y los mejores deseos de su nueva admiradora india. Siga
+    con su excelente trabajo. Por supuesto, queda mucho por hacer. Sería
+    tan agradable si pudiera ayudar de alguna manera.
+
+    Recuerdo un poema de Robert Frost:
+
+        Los bosques son deliciosos, oscuros y profundo
+        Pero hice una promesa que debo mantener
+        Y quedan muchas millas antes de poder dormir
+        Y quedan muchas millas antes de poder dormir
+
+Por supuesto, le respondo a Geetha, después de asegurarle que usé la
+palabra *suerte* irónicamente.
+
+
+    respondiendo a tus tres preguntas:
+
+        1. ¿Tienen los científicos características comunes que
+           les hacen susceptibles al engaño?
+
+    Sí. Piensan lógicamente, basándose en el paradigma de causa-efecto.
+    Un profesional del engaño se preocupa de ofrecer todas la parafernalia,
+    los elementos que cabría esperar por una inferencia lógica, los
+    diferentes aspectos que conllevan a identificar una situación como
+    normal. Después usa una aproximación diferente, una serie de acciones, un
+    escenario que conduce a la víctima a aceptar que las expectativas han
+    sido alcanzadas. Pero no. La conclusión del científico es que la
+    naturaleza (que el sabe perfectamente que nunca cambia las reglas
+    del juego) ha sido de alguna manera abolida. En otras palabras: magia.
+
+    Un mago o un timador pueden ser una gran fuente de
+    información. Proporciona grandes cantidades de datos, por
+    inferencia o directamente, pero son datos falsos. Los
+    científicos no están acostumbrados a este
+    escenario. Un electrón o una galaxia no actúan
+    caprichosamente, ni engañan, pero un humano puede hacer
+    ambas cosas.
+
+        2. Para un mago, ¿Los científicos son más difíciles
+           de engañar que la gente corriente? ¿O son más
+           fáciles?
+
+    Son bastante más fáciles de engañar, porque piensan como
+    científicos (véase la respuesta anterior) y también
+    porque creen que alguien que no piensa lógicamente
+    nunca podrá engañarles, porque no tiene su mismo
+    nivel intelectual. Piensan que son más inteligentes
+    que un estafador, sin darse cuenta que la capacidad
+    de engañar es el punto fuerte del estafador, su
+    *única* ocupación.
+
+    Un ejemplo. Durante una visita a los famosos `Fermi Labs`_, en
+    las afueras de Chicago, hace ya algunos años, sufrí un
+    pequeño dolor de muelas. Aunque estaba rodeado de doctorados
+    un física, algunos premiados con un Nobel, ni se me ocurrió
+    pedirle a ninguno de ellos un tratamiento, ni tampoco
+    su opinión. Estaría fuera de su campo de trabajo. Cuando
+    regresé a casa, corrí a ver a mi dentista: ella resolvió el
+    problema en un periquete. Pero no le pregunté nada acerca
+    de la física cuántica ni de los fotones.
+
+        3. Si uno estuviera interesado en engañar a los
+           científicos, ¿Qué debería hacer? ¿Qué podrían
+           hacer los científicos para prevenir el engaño?
+
+    Actúa con naturalidad, pero dales la oportunidad de interrumpir.
+    Por ejemplo, si estamos haciendo el número del doblado de
+    cucharillas, indícales que la cucharilla es perfectamente
+    normal. Eso les hará examinarla cuidadosamente, por si acaso, e
+    incluso sustituirla por otra, cuando la verdad es que
+    la cucharilla en sí no tienen la más mínima
+    importancia. Estarán tranquilos y relajados, seguros de haber
+    hecho todo lo posible, como científicos, para garantizar
+    la seguridad de la demostración. Más tarde, cuando
+    la cucharilla está doblada, concluirán que la magia era
+    la única manera de hacerlo.
+
+    Sir Arthur Clarke dijo una vez (Como ya cité en el artículo
+    principal de esta columna): Cualquier tecnología lo suficientemente avanzada
+    es indistinguible de la magia. Pero esta observación implica que el
+    observador es incapaz de aceptar o de admitir que no es capaz
+    de entender esa tecnología, que ignora los hechos, herramientas
+    o sistemas que podrían producir los resultados observados. Un
+    científico ignora las mecanismos físicos y psicológicos que
+    usa un mago -prefiero el término "prestidigitador"- para ejecutar
+    su "suficientemente avanzada tecnología". Asumen que (1) es imposible
+    que puedan ser engañados por un prestidigitador, o que (2) en
+    esa actuación en concreto, el mago, *no uso* ninguno de sus trucos.
+    En realidad, cualquiera de las dos presunciones puede ser falsa,
+    pero ellos han decidido que al menos una *no* lo es. Y esta es,
+    pura y simplemente, una decisión arbitraria, dado que no disponen
+    de ninguna experiencia en estos temas. Lo que ellos
+    pueden ver en una demostración hecha por un ilusionista, es
+    indistinguible de la magia.
+
+    Para ir preparados, lo mejor que pueden hacer es ir acompañados
+    de un prestidigitador o ilusionista, *competente y experimentado*, en
+    calidad de consejero.
+
+Por favor, perdona mi uso de dos citas de Clarke en una misma
+columna. Siempre me estoy refiriendo a el.
+
+Mi ignorancia al descubierto
+............................
+
+.. image:: http://www.randi.org/images/commentary/200610/20catechism.jpg
+    :align: right
+    :width: 300
+    :height: 300
+    :target: http://www.amazon.com/Baltimore-Catechism-Mass-No-Summarizations/dp/0965602400/sr=8-4/qid=1161276784?ie=UTF8&tag2=thejamesrandi-20
+
+La semana pasada teníamos una noticia sobre la futura cancelación
+del Limbo (Véase http://www.randi.org/jr/2006-10/100613who.html#i3). Parece
+ser que necesito asistencia en estos asuntos: Judy Wyatt, partiendo de algo
+llamado el catecismo de Baltimore, ha compilado una serie de reglas
+que parecen, al menos para mi, las instrucciones de Dragones y Mazmorras:
+
+    Las almas de los "justos" que aguardaban en el Limbo la
+    redención de Cristo, ascendieron con el.
+
+Ah, entonces mis idea del tema, todas esas almas anteriores al año 1
+apiladas allí, son erróneas. Que alivio. Volvamos al catecismo:
+
+    El bautismo es necesario para la salvación, porque sin
+    alma no se puede entrar en los reinos de los cielos. Las personas,
+    como por ejemplo los bebes, que no han cometido ningún crimen y que,
+    sin ser culpables de ello, mueren sin bautizar, no pueden
+    entrar en el cielo. Sin embargo, es creencia común que irán
+    a un lugar similar al Limbo, donde permanecerán libres
+    de sufrimiento, aunque privados de la ventura del cielo.
+
+Espera un momento: ¡Si que pueden! Por un pequeño donativo,
+se puede adquirir una indulgencia para el chico, es decir,
+para su sombra, y entonces entra. Esto es lo bueno, siempre hay
+una manera, si tenemos el talonario de cheques a punto. La
+señorita Wyatt comenta:
+
+    No creo que deba preocuparse por las pobres almas desahuciadas
+    del Purgatorio. Se ha escrito mucho sobre el tema en el
+    catecismo de Baltimore, y se desprende de la lectura del mismo
+    que la Iglesia está mucho mas segura de la existencia del
+    purgatorio que de la del Limbo.
+
+Bueno, no es que eso signifique mucho. Pero dado que los vivos
+podemos pagar por las "indulgencias" para difuminar las
+fronteras del purgatorio, el sitio es una auténtica
+mina, mientras que el Limbo no. ¿Sería una decisión
+inteligente desmantelar el purgatorio? Veamos que más
+dice el catecismo:
+
+    El Purgatorio es un estadio en el que  sufren, durante
+    un tiempo, aquellos que son culpables de un pecado
+    venial (es decir, perdonable), o que no han completado
+    el castigo debido a sus culpas. Se le llama Purgatorio
+    porque en él, las almas son purgadas y purificadas
+    de todos sus defectos. No es, por tanto, un estadio
+    permanente del alma.
+
+Uf, que alivio. Durante un momento estuve preocupado.
+
+    Los creyentes en la Tierra pueden ayudar a las almas del purgatorio
+    con sus oraciones, ayunos, exvotos y ofrendas; con indulgencias
+    y con una misa en su nombre.
+
+Ya veo. Tenemos hasta una lista de precios. Si la indulgencia nos
+parece un poco cara, se puede ir bajando poco a poco por las tarifas
+hasta que encuentres alguna que se ajuste al presupuesto. Parece
+bastante práctico.
+
+    Aunque Dios ama a las almas que están en el purgatorio, las
+    castiga porque, en su santidad, no quiere que nada profano pueda
+    entrar en el Cielo, y su Justicia requiere que todo el mundo
+    sea castigado o recompensado según su merecido.
+
+Okey. Amor condicionado, ¿no?  Las reglas son las reglas, después
+de todo, y estamos hablando aquí de una deidad llena de ira, celosa,
+vengativa y caprichosa. Ya me hago una idea. Y lo rechazo
+todo: ángeles, demonios, fantasmas, *banshees*, el Cielo y el
+Infierno, los pecados, las arpas y los milagros.
+
+Como nos aclara nuestra lectora Wyatt:
+
+    Sólo puedo leer breves fragmento del catecismo cada vez; me sube
+    la bilis.
+
+¿Villis? Espera, ese es otro asunto. En el ballet, cuando
+Giselle_ muere, se reúne con las Villis, mujeres muertas que fueron
+traicionadas por su amado. Pero creo que esto es de un
+libro diferente...
+
+Más sobre el Limbo
+..................
+
+Will Bratby, de Kettering, Inglaterra, nos escribe sobre el
+mismo tema.
+
+    Hace tiempo que soy un ávido lector de su columna, y un
+    miembro activo del foro de su página web, y puedo
+    asegurarle, con toda la certeza que un escéptico puede
+    mostrar, que a pesar de la terrible sensación que muchos
+    tenemos de estar viviendo en tiempo oscuros, el mundo
+    sería un lugar muy diferente -para peor, evidentemente- sin
+    usted y su trabajo.
+
+    Sólo quería comentar sobre el artículo de esta semana en SWIFT
+    acerca de la reciente demolición del Limbo efectuada
+    por el nuevo Papa, Benny. De esta demolición comentaba
+    usted "¿Donde está el Purgatorio en este nuevo mapa
+    de nunca-nunca-landia? Es otra enorme sala de espera, cuyos
+    habitantes puedes verse desalojados en cualquier momento
+    si Ratzinger se termina aburriendo de las tareas de
+    mantenimiento".
+
+    Dejando aparte el absurdo inherente al Limbo, al purgatorio, el cielo,
+    el infierno y el resto de castillos en el aire de la Religión
+    Católica, estoy bastante seguro de que podemos asumir que
+    borrarán el mismísimo Cielo en los Planos Celestiales antes
+    que pensar siquiera en desmontar el Purgatorio. Porque si,
+    después de todo, el Purgatorio no existiera, ¿Cómo podrían
+    explicar los católicos todas las indulgencias que se vendieron
+    entre los siglos XII y XIV, así como el montante generado
+    tanto por el clero como por la misma iglesia, en base a la
+    promesa de liberar rápidamente las almas de nuestros parientes
+    y amigos atrapados en el Purgatorio.
+
+    En uno de los `cuentos de Canterbury`_, Chaucer_ hace que un
+    bulero (Vendedor de indulgencias o bulas) describa su profesión:
+
+
+.. image:: http://www.randi.org/images/commentary/200610/20pardoner.jpg
+    :align: right
+    :width: 203
+    :height: 300
+
+(Comentario de Randi: Esta es mi propia reescritura del extracto
+de Chaucer, una versión algo más clara -creo yo- del original, escrito
+en `ingles medio`_)
+
+    ... Aquel que se descubra ante sí mismo como culpable, vendrá
+    a mi y me hará un ofrecimiento en el nombre de Dios, y yo lo
+    absolveré, por la autoridad que me confiere este edicto.
+
+    Desde que soy bulero, gano anualmente, mediante esta
+    artimaña,  un buen centenar de piezas. Me alzo como el
+    cura en su púlpito, y cuando la plebe ignorante se
+    sienta, rezo como nunca antes hayas podido oír, y les
+    digo cien mentiras y más.
+
+    Luego estiro el cuello fuertemente, y a mi derecha y a mi izquierda
+    la gente empieza a suplicar, como haría una paloma en un granero. Mis
+    manos y mi boca chasquean tan vivamente, que es un placer verme
+    entregado a mis negocios. Todas mis arengas tratan de la avaricia y de la
+    horrorosa codicia, para quitarles del peso de sus peniques, y mejor que mejor
+    si me los dan a mí. Porque mi único interés es mi lucro personal, y no
+    la corrección de sus pecados.
+
+    Siempre fue así.
+
+Así que mi predicción sobre esta *hipótesis teológica* en particular
+es que sí, el Purgatorio se queda. Como bien indica nuestro
+amigo Bratby, no querríamos que la Iglesia Católica tuviera que
+desembolsar un dinerillo a los pobres para compensar
+todas esas bulas vendidas en el medievo basándose
+en falsa afirmaciones, ¿no?
+
+
+¿En Conclusión?
+...............
+
+A la luz de la actual y horrorosa guerra que se está llevando a cabo en
+Iraq, no puedo evitar dejar caer la siguiente cita:
+
+    Aquellos que pueden hacerte creer en absurdos, te
+    harán cometer atrocidades. Voltaire
+
+Aquellos que estén preocupados por nuestra compañera
+en el JREF, Linda, que estén tranquilos. La llevamos
+al hospital después de su desvanecimiento, donde
+auténticos doctores dictaminaron una apendicitis. Ya
+esta de regreso en casa, casi toda ella menos un
+apéndice. Si no es una cosa, es otra, y estoy seguro
+de que Sylvia Browne también predijo esto, por
+supuesto. Nuestra querida Linda se está recuperando, y volverá
+con nosotros muy pronto. Sin necesidad de imanes, hoemopatía
+ni vibraciones.
+
+Tendremos que seguir esperando una semana más para la actualización
+del desafío, estamos esperando a que alguien pueda revisar
+toda la información.
+
+La próxima semana, nuestro amigo Scot Morris pondrá a prueba
+nuestros cerebros, y sabremos más de la caja Toftness. Seguro que
+no puedes esperar.
+
+
+.. [1] *lucky* en el original (N. del T.)
+.. _Fermi Labs: http://www.fnal.gov/
+.. _Giselle: http://es.wikipedia.org/wiki/Giselle
+.. _Chaucer: http://es.wikipedia.org/wiki/Chaucer
+.. _cuentos de Canterbury: http://es.wikipedia.org/wiki/Cuentos_de_Canterbury
+.. _ingles medio: http://es.wikipedia.org/wiki/Ingl%C3%A9s_medio
+.. _Jacob Spinney: http://www.jacobspinney.com/
+
+|firmarandi|
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: James Randi (traducido por Juan Ignacio Rodríguez de León)
+    :description: La cubertería sensible; Quebec se traga un timo; Curación
+        remota de las mascotas; Otro Fin del Mundo; Milagroso orador; Licencia
+        perdida; Otro nuevo fan; Mi ignorancia al descubierto; Más sobre el Limbo;
+        ¿En Conclusión?;

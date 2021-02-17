@@ -1,0 +1,57 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CB600
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2004-2-16
+.. type: afirmacrea
+.. title: CB621: La humanidad fue rastreada hasta una Eva africana
+.. description: Respuesta a la afirmación creacionista «La humanidad fue rastreada hasta una Eva africana»
+.. slug: CB621
+.. link: http://www.talkorigins.org/indexcc/CB/CB621.html
+
+Analizando el ADN de muchas personas diferentes, es opsible encontrar la fecha y ubicación aproximadas de sus ancentros comunes. Los científicos han hecho esto con ADN mitocondrial (ADNmt) de diferentes poblaciones humanas. Dado que el ADNmt se hereda sólo de la madre, esto remonta a la humanidad a una "Eva mitocondrial" común. Los científicos dicen que vino de África hace unos 200.000 años ([Cann_et_al_1987]_), pero la edad puede estar errada, y también se ha sugerido que la ubicación es Asia o Europa, lo que sería consistente con un origen cerca del Monte Ararat. La Eva mitocondrial es consistente con la Eva bíblica.
+
+**Fuente:**
+
+Brown, Walt, 2001. Have new scientific and mathematical tools detected Adam and Eve? de *In the Beginning*. http://www.creationscience.com/onlinebook/FAQ13.html
+
+Respuesta
+=========
+
+1. La "Eva mitocondrial" a la que se refiere esta afirmación es el ancentro femenino común más reciente, no el ancestro femenino original. Habría habido otros humanos viviendo con anterioridad y al mismo tiempo. Los linajes de ADNmt de otras mujeres contemporáneas con ella con el tiempo se extinguieron. La Eva mitocondrial era simplemente el ancestro común más joven de todo el ADNmt de hoy. Puede que ni siquiera haya sido humana.
+
+2. Los mismos principios establecen que el ancestro común masculino humano más reciente ("Adán del cromosoma Y") se estima que vivió hace 84.000 años después que la "Eva mitocondrial" y también vino de África ([Hawkes_2000]_; [Underhill_et_al_2000]_; [Yuehai_et_al_2001]_).
+
+3. Los resultados asumen herencia paternal insignificante de ADN mitocondrial, pero este supuesto ha sido cuestionado. El ADNmt masculino reside en la cola del espermatozoide; la cola habitualmente no entra al óvulo que el espermatozoide fertiliza, pero de vez en cuando se introduce una porción. También es posible que haya alguna recombinación de ADNmt entre linajes, lo que también afectaría los resultados ([Awadalla_et_al_1999]_; [Eyre-Walker_et_al_1999]_). Pero estos cuestionamientos mismos han sido cuestionados ([Kivisild_et_al_2000]_).
+   
+Enlaces
+=======
+
+Kunchithapadam, Krishna, 1995, 2000. What, if anything, is a Mitochondrial Eve? http://www.talkorigins.org/faqs/homs/mitoeve.html
+
+Referencias
+===========
+
+.. [Awadalla_et_al_1999]    Awadalla, P., A. Eyre-Walker y J. Maynard Smith, 1999. Linkage disequilibrium and recombination in hominid mitochondrial DNA. *Science* 286: 2524-2525.
+.. [Cann_et_al_1987]    Cann, R. L., M. Stoneking y A. C. Wilson, 1987. Mitochondrial DNA and human evolution. *Nature* 325: 31-36. Cfr. Wainscoat, Jim, 1987. Out of the garden of Eden. *Nature* 325: 13.
+.. [Eyre-Walker_et_al_1999]    Eyre-Walker, A., N. H. Smith y J. Maynard Smith, 1999. How clonal are human mitochondria? *Proceedings of the Royal Society of London*: B 266: 477-483. http://www.biols.susx.ac.uk/CSE/members/aeyrewalker/pdfs/EWPRS99a.pdf
+.. [Hawkes_2000]    Hawkes, Nigel, 2000. Even early man was late for first date. Times (UK), 31 Oct. 2000, http://groups.yahoo.com/group/TNUKdigest/message/708
+.. [Kivisild_et_al_2000]    Kivisild, T. et al., 2000. Questioning evidence for recombination in human mitochondrial DNA. *Science* 288: 1931, www.sciencemag.org/cgi/content/full/288/5473/1931a
+.. [Underhill_et_al_2000]    Underhill, P. A. et al., 2000. Y chromosome sequence variation and the history of human populations. *Nature Genetics* 26(3): 358-361.
+.. [Yuehai_et_al_2001]    Yuehai Ke et al., 2001. African origin of modern humans in East Asia: A tale of 12,000 Y chromosomes. *Science* 292: 1151-1153. http://www.sciencemag.org/cgi/content/full/292/5519/1151 Cfr. Gibbons, A., 2001. Modern men trace ancestry to African migrants. *Science* 292: 1051-1052. 
+
+		
+/////
+
+Anterior: :doc:`CB620` | Siguiente: :doc:`CB621_1`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+
+
+
+

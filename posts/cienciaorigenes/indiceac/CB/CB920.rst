@@ -1,0 +1,39 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción por Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB920
+.. link: http://www.talkorigins.org/indexcc/CB/CB920.html
+.. date: 2003-7-28
+.. title: CB920: La evolución de nuevas partes del cuerpo nunca se ha observado
+.. description: Respuesta a la afirmación creacionista «La evolución de nuevas partes del cuerpo nunca se ha observado»
+.. type: afirmacrea
+
+**Fuente:**
+
+Kepler, Christian, n.d. Another false link discovered in the theory of evolution. http://www.canadianheritagealliance.com/channels/articles/kepler/evolution.html
+
+Respuesta
+===========
+
+1. No esperaríamos observar directamente la evolución de nuevas partes del cuerpo. Muchos cambios ocurren gradualmente durante largos períodos. Hallar una parte corporal nueva de un día para otro, o incluso de una generación a la otra, sería mejor evidencia de creacionismo que en favor de la evolución.
+
+2. ¿Qué es exactamente una nueva parte del cuerpo? La mayoría de los cambios evolutivos son cambios en estructuras existentes, no adiciones *de novo*. Tenemos secuencias transicionales que muestran transición evolutiva de aletas a piernas, además de alguna comprensión de los cambios genéticos involucrados ([Zimmer_1998]_, 57-85). ¿Las piernas califican como una parte del cuerpo nueva?
+
+   A veces también vemos duplicación de partes corporales. No es común que los gatos tengan dedos extras en las patas, por ejemplo. ¿No deberían considerarse nuevas partes corporales?
+
+Referencias y lecturas adicionales
+=====================================
+
+.. [Zimmer_1998] Zimmer, Carl, 1998. *At the Water's Edge: fish with fingers, whales with legs, and how life came ashore but then went back to sea*. New York: Touchstone.
+
+
+/////
+
+Anterior: :doc:`CB910_2` | Siguiente: :doc:`CB921`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

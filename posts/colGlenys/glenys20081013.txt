@@ -1,0 +1,72 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. tags: religión, tradición, dioses, abuso infantil, epilepsia, alucinaciones
+.. description: «Su nombre es Matani Shakya y recién cumplió tres años de edad. La semana pasada, Matani dejó de ser una niña para convertirse temporalmente en una diosa llamada Taleju. Como en una macabra lotería espiritual, donde ceremonias antiguas y quién sabe qué otras cosas, determinan el futuro de cualquier persona, la niña ganó divinidad momentánea; pero el precio a pagar hace del premio un verdadero castigo.»
+.. date: 2008-10-13 12:00:00
+.. category: La lupa herética
+.. type: lupa
+.. title: Taleju, otra ilusión del lóbulo temporal
+.. author: Glenys Álvarez
+
+
+.. |tit| replace:: Taleju, otra ilusión del lóbulo temporal
+
+.. image:: glenys20081013_MataniShakya.jpg
+   :alt:
+   :align: right
+   :class: primera
+
+
+.. class:: primera
+
+Su nombre es Matani Shakya y recién cumplió tres años de edad. La semana pasada, Matani dejó de ser una niña para convertirse temporalmente en una diosa llamada Taleju. Como en una macabra lotería espiritual, donde ceremonias antiguas y quién sabe qué otras cosas, determinan el futuro de cualquier persona, la niña ganó divinidad momentánea; pero el precio a pagar hace del premio un verdadero castigo.
+
+Matani es ahora la nueva Kumari, una diosa viviente que hindúes y budistas adoran y cuya veneración y elección está atada a tradiciones de lazos profundos con la monarquía (abolida en Nepal en mayo pasado) y que llevan siglos perpetuándose.
+
+Ahora, la vida ha cambiado para Matani y su familia. El padre de la niña asegura estar triste pero a la misma vez honrado. Pero yo no consigo distinguir la honra en enclaustrar a Matani: hasta que alcance la pubertad, la pequeña estará encerrada en un monasterio donde será adorada por los siervos de estas creencias.
+
+A pesar de que hay peores formas de vivir, no creo que Matani se sienta muy contenta con el arreglo, del que estoy segura, nadie le pidió su inocente opinión. De hecho, las niñas que antes han sido diosas emergen de estos monasterios con graves problemas de adaptación.
+
+.. image:: glenys20081013_ritoreligioso.jpg
+   :alt:
+   :align: left
+
+Y me pregunto, ¿cómo puede cualquier cerebro potencialmente racional someter a una niña a ritos tan primitivos como éstos?
+
+Por supuesto que las cosas tienen sus grados. Aún así, mi raciocinio sólo concibe una minúscula distinción entre el ritual que encarcela a Matani y las conductas que observo en las iglesias modernas. Cada rito está anclado en creencias arcaicas carentes de axiomas demostrables. De hecho, la fe, para que sea fe, renuncia a ellos, por lo tanto, las explicaciones para estas ocurrencias no sólo vienen en distintos sabores y colores sino que cada cual es libre de interpretarlas como quiera. Igual ocurre con los libros sagrados que engendran religiones de filosofías tan opuestas que no parecen nacidas del mismo texto.
+
+Por eso quise referirme directamente a estudios sobre el cerebro porque las explicaciones neurológicas satisfacen mi curiosidad y están basadas en casos clínicos y experimentos. Y aunque el futuro moldeará el conocimiento presente con la presentación de nuevas evidencias, por lo menos las que poseemos ahora ostentan coherencia y sensatez.
+
+A los catorce años algo extraño comenzó a sucederme, especialmente si escuchaba música y otros ruidos fuertes, como alguien martillando, llamaban mi atención. De repente los sonidos se aceleraban, sentía las notas musicales precipitarse por mi maraña neuronal y todo lo demás tomaba un matiz caótico que, irremediablemente, me llevaba a la desesperación. En alguna ocasión hasta llegué a pensar que era testigo de una pelea entre entes diabólicos o ángeles del infierno. Pero mis padres no son fanáticos de explicaciones sobrenaturales y una resonancia magnética descubrió una pequeña cicatriz en el lóbulo temporal. Aquel detalle provocaba ese tipo de epilepsia que generaba los deslumbramientos auditivos y una droga conocida como Tegretol se encargó de erradicarla.
+
+.. image:: glenys20081013_epilepsia.jpg
+   :alt:
+   :align: right
+
+Saco a relucir esta anécdota personal porque la epilepsia del lóbulo temporal ha sido vinculada con alucinaciones religiosas. En un programa presentado por la BBC llamado Dios en el cerebro *(God on the Brain)*, los casos de Rudi Affolter (ateo) y Gwen Tighe (cristiana) son analizados ya que ambos han experimentado fuertes alucinaciones religiosas, los dos también tienen otra cosa en común: Affolter y Tighe sufren de epilepsia en el lóbulo temporal. La primera vez que sintió uno de estos ataques él pensó que había muerto, ella razonó que estaba dando a luz a Cristo.
+
+Gregory Holmes, del centro médico de Dartmouth, ha sugerido en varias ocasiones, junto a muchos otros, que Elena White padecía de este tipo de epilepsia (Sin Dioses ha publicado `elaborados artículos sobre este tema`_\ ).
+
+Por otro lado, el doctor Michael Persinger ha realizado varios experimentos donde una potente carga magnética cercana a los lóbulos temporales, detrás de los oídos, provocaba que los voluntarios sintieran una presencia en la habitación y se creyeran “acompañados”. Más aún, otros experimentos han logrado replicar el sentimiento de que “se sale uno del cuerpo” mediante la manipulación de regiones neuronales específicas.
+
+Al paso que va la neurología, es mucho lo que entenderemos sobre los procesos cerebrales  que producen estas alucinaciones y esos dudosos relatos que nuestro “intérprete” hila de manera constante. Decididamente, este conocimiento valdría aún más si sirviera para liberar a niñas como Matani que continúan siendo ofrendadas gracias a creencias arcaicas productos de la unión de un presuntuoso cerebro y la perpetuación de culturas ignorantes que llenan los espacios en blanco con lo que sea y transforman alucinaciones en relatos que ocasionan dolor a personas como los Shakya, despojados ahora de su pequeña.
+
+Neuroteología
+-------------
+La búsqueda de dioses en el cerebro
+...................................
+
+El estudio de estos casos ha dado paso a la “neuroteología”. El profesor de neurología y autor de varios libros y artículos, Vilayanur Ramachandran, de la Universidad de California en San Diego, también ha observado la relación entre esta epilepsia y los sentimientos religiosos. “Estos pacientes son más propensos a desarrollar creencias religiosas”, aseguró.
+
+De hecho, la religión despierta en ellos más emociones que el sexo. En uno de los primeros estudios clínicos sobre el tema, los científicos midieron la reacción en grupos de voluntarios frente a palabras neutras, como mesa, y palabras sexuales y religiosas. El grupo control siempre se excitaba más con las palabras sexuales, pero a los epilépticos del lóbulo temporal los emocionaban más las palabras con significado religioso, de hecho, los términos sexuales los excitaban aún menos que los neutrales.
+
+Decididamente, la posibilidad de explicar cualquier conducta humana a través de la neurología, la genética y el medio en que la persona creció, se hace cada vez más tangible y precisa.
+
+
+
+.. _elaborados artículos sobre este tema: http://www.google.com/cse?cx=013014139757898556923%3Audqi_1gk5yk&q=Elena+White+epilepsia&sa=Buscar
+
+.. include:: includes/colgl_pie.inc
+
+.. meta::
+   :description: "Su nombre es Matani Shakya y recién cumplió tres años de edad. La semana pasada, Matani dejó de ser una niña para convertirse temporalmente en una diosa llamada Taleju. Como en una macabra lotería espiritual, donde ceremonias antiguas y quién sabe qué otras cosas, determinan el futuro de cualquier persona, la niña ganó divinidad momentánea; pero el precio a pagar hace del premio un verdadero castigo."
+   :author: Glenys Álvarez

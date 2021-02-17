@@ -1,0 +1,64 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA600
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA611
+.. link: http://www.talkorigins.org/indexcc/CA/CA611.html
+.. date: 2004-02-15 02:00:00+00:00
+.. title: CA611: La teoría de la evolución se ha vuelto sacrosanta
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La teoría de la evolución se ha vuelto sacrosanta»
+
+La teoría evolutiva, por una variedad de razones no científicas, ha alcanzado el estado de revelación sagrada. Expresar dudas trayendo a colación la evidencia que la contradice es marcarse uno mismo como un infiel intelectual.
+
+**Fuente:**
+
+Wiker, Benjamin D. 2003. Does Science Point to God? Part II: The Christian Critics. http://www.crisismagazine.com/julaug2003/feature1.htm
+
+Respuesta
+============
+
+1. La evolución está lejos de ser sacrosanta. Desde que Darwin la formuló, ha habido varias revisiones importantes de aspectos importantes de la misma:
+
+   * Herencia mendeliana: Darwin pensaba que los genes se mezclaban [como la pintura] (en lugar de estar formados por partículas), y que los influía el ambiente del organismo, un tipo de herencia lamarckiana que llamó "pangénesis".
+
+   * Especiación: por un largo período la opinión del mismo Darwin sobre lo que causaba el surgimiento de nuevas especies (la selección natural) fue rechazada por la mayoría de los biólogos en favor del aislamiento geográfico. Sólo en tiempos recientes la opinión de Darwin ha vuelto a ser aceptada como una de muchas causas.
+
+   * Genes "saltarines": Barbara McClintock ganó el Premio Nóbel por mostrar que los genes se pueden mover de un lugar a otro del genoma.
+
+   * Orígenes simbióticos de los orgánulos: Lynn Margulis propuso que los antepasados de las células eucariotas surgieron de células procariotas unidas en "consorcios simbióticos" ([Margulis_1981]_).
+
+   * Deriva genética: Esta idea de Sewall Wright dice que muchos cambios genéticos en las poblaciones se deben a deriva aleatoria en lugar de selección natural.
+
+   * Teoría neutral, que propone que la mayoría de las variaciones genéticas son neutrales y no están sujetas a la selección (o casi neutrales, en la extensión de Ohta para la teoría; [Kimura_1983]_; [Ohta_1992]_).
+
+   * Priones: El descubrimiento de un tipo totalmente nuevo de forma de "vida" que se replica sin material genético por medio de un cambio catalítico de configuración molecular. Esto también le ganó un Premio Nóbel a Stanley B. Prusiner.
+
+   * Transferencia genética lateral: Algún material genético no se hereda de un ancestro inmediato pero de organismos relacionados de manera distante (p. ej. [Woese_2000]_).
+
+   Las objeciones a partes de la teoría evolutiva continúan hoy. Sin embargo, son del tipo raramente hallado debajo del nivel de graduado.
+
+   La evolución ha sido sometida a una tremenda cantidad de verificaciones, algunas de las cuales han mostrado que eran necesarias correcciones. Corregir una teoría científica vuelve más fuerte a la teoría (corregida). La verificación y la corrección explican la fuerte reputación que tiene la evolución hoy. Si la evolución fuera sacrosanta, no sería sometida a pruebas y revisiones, y perdería su reputación entre los científicos.
+
+3. A los críticos de la evolución se los trata como marginados intelectuales no porque critiquen la evolución sino porque no saben de lo que hablan. Answers in Genesis (AIG) reconoce el problema de los creacionistas con escasa educación que hacen más daño que bien a la reputación de los creacionistas, de modo que dedican una página a los argumentos que los creacionistas no deberían usar ([AIG_n_d]_). Aún así, es extremadamente común escuchar a los creacionistas hablar con ignorancia sobre la :doc:`segunda ley de la termodinámica <CF001>`, que :doc:`no existen fósiles transicionales <CC200>`, mencionar la :doc:`complejidad irreducible <CB200>` y otros temas, y la lista de malos argumentos publicada por AIG apenas araña la superficie. Los verdaderos infieles de la evolución, como Barbara McClintock y Stanley Prusiner, son aclamados.
+
+3. Las obras creacionistas invariablemente citan a la ciencia establecida en sus intentos de desacreditar a la evolución. Si la evolución es sacrosanta, ¿cómo hacen los creacionistas para encontrar artículos científicos que usar contra ella?
+
+Referencias
+============
+.. [AIG_n_d]    AIG. n.d. Arguments we think creationists should NOT use. http://www.answersingenesis.org/home/area/faq/dont_use.asp
+.. [Kimura_1983]    Kimura, M. 1983. *The Neutral Theory of Molecular Evolution*, Cambridge: Cambridge University Press.
+.. [Margulis_1981]    Margulis, Lynn. 1981. *Symbiosis in Cell Evolution*, San Francisco: W. H. Freeman & Co.
+.. [Ohta_1992]    Ohta, Tomoko. 1992. The nearly neutral theory of molecular evolution. *Annual Review of Ecology and Systematics* 23: 263-286.
+.. [Woese_2000]    Woese, Carl R. 2000. Interpreting the universal phylogenetic tree. *Proceedings of the National Academy of Science* USA 97(15): 8392-8396 http://www.pnas.org/cgi/content/abstract/97/15/8392
+
+
+/////
+
+Anterior: :doc:`CA610` | Siguiente: :doc:`CA612`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

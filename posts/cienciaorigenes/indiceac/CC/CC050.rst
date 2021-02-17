@@ -1,0 +1,93 @@
+.. title: CC050: Todos los fósiles homínidos corresponden a humanos o a simios, totalmente desarrollados.
+.. slug: CC050
+.. date: 2004-9-30 02:00:00+00:00
+.. tags: CC
+.. category: Afirmaciones de los creacionistas
+.. link: http://talkorigins.org/indexcc/CC/CC050.html
+.. description: Respuesta a la afirmación creacionista «Todos los fósiles homínidos corresponden a humanos o a simios, totalmente desarrollados.»
+.. type: afirmacrea
+.. author: Mark Isaac, traducción de Paulina Madariaga
+.. has_math: yes
+.. nocomments: True
+
+Todos los fósiles homínidos corresponden a humanos o a simios, totalmente desarrollados.
+
+Respuesta
+===========
+
+1. Hay una fina transición entre los humanos modernos y los australopitecinos y otros homínidos. La transición es tan gradual que no está del todo claro dónde establecer la línea entre lo que es humano y lo que no lo es.
+
+   Los fósiles intermedios incluyen:
+
+   * El *Australopithecus afarensis*, que data de hace 3.9 a 3.0 millones de años atrás. Su cráneo es similar al del chimpancé, pero con dientes más similares a los humanos. La mayoría de (y tal vez todos) los creacionistas lo llamarían un simio, pero es bípedo.
+     
+   * El *Australopithecus africanus* (3 a 2 millones de años); el tamaño de su cerebro, de 420-520 cc, era ligeramente mayor que el *A. Afarensis*, y sus dientes eran aún más similares a los humanos.
+     
+   * El *Homo habilis* (2.4 a 1.5 millones de años), que era similar a los australopitecinos, pero que usaba herramientas y tenía un cerebro más grande (650 cc en promedio) y un rostro más pronunciado.
+
+   * El *Homo erectus* (1.8 a 0.3 millones de años); el tamaño de su cerebro tenía en promedio unos 900 cc en los *H. Erectus* más tempranos y 1.100 cc en los más tardíos. (Los cerebros humanos modernos tienen en promedio un tamaño de 1350 cc).
+     
+   * Un *Homo Sapiens* pleistoceno, que era "morfológica y cronológicamente un intermedio entre los arcaicos fósiles africanos y los humanos posteriores, anatómicamente modernos, del Pleistoceno Tardío" ([White_et_al_2003]_, 742).
+     
+   * Un homínido que combinaba los rasgos, y era posiblemente el ancestro de los Neandertales y los humanos modernos. ([Bermudez_de_Castro_et_al_1997]_).
+     
+   * Y hay fósiles intermedios entre todos ellos ([Foley_1996-2004]_).
+    
+2. Los creacionistas mismos no están de acuerdo respecto a cuáles homínidos intermedios son humanos y cuáles son simios. ([Foley_2002]_).
+
+3. Hay abundante evidencia genética sobre la similitud entre humanos y otros simios:
+
+   - Los humanos tienen veintitrés pares de cromosomas; los simios tienen veinticuatro. Veintidós de esos pares son similares entre humanos y simios. El par restante de los cromosomas de los simios parece haberse fusionado; son similares a cada mitad del restante cromosoma humano (Cromosoma 2; [Yunis_y_Prakash_1982]_).
+    
+   - Los extremos de los cromosomas tienen secuencias teloméricas repetitivas y una distintiva región telomérica. Dichas secuencias se encuentran en la mitad del cromosoma humano 2, tal como se esperaría si dos cromosomas se hubieran fusionado ([Ijdo_et_al_1991]_).
+    
+   - La región similar a un centrómero del cromosoma humano 2 corresponde al centrómero del cromosoma simio ([Avarello_et_al_1992]_).
+    
+   - Los humanos y los chimpancés tienen innumerables similitudes secuenciales, incluyendo pseudogenes compartidos tal como el material genético de los ERV (retrovirus endógenos; [Taylor_2003]_; [Max_2003]_).
+    
+Enlaces
+========
+
+Foley, Jim. 1996-2004. Fossil hominids: The evidence for human evolution. http://www.talkorigins.org/faqs/homs/
+
+Drews, Carl, 2002. Transitional fossils of hominid skulls. http://www.theistic-evolution.com/transitional.html
+
+Referencias
+==============
+
+.. [Avarello_et_al_1992] Avarello, R., A. Pedicini, A. Caiulo, O. Zuffardi, M. Fraccaro, 1992. Evidence for an ancestral alphoid domain on the long arm of human chromosome 2. *Hum Genet* 89(2): 247-249. 
+
+.. [Bermudez_de_Castro_et_al_1997] Bermudez de Castro, J. M. et al., 1997. A hominid from the Lower Pleistocene of Atapuerca, Spain: Possible ancestor to Neandertals and modern humans. *Science* 276: 1392-1395. 
+
+.. [Foley_1996-2004] (Ver arriba)
+
+.. [Foley_2002] Foley, Jim, 2002. Comparison of all skulls, http://www.talkorigins.org/faqs/homs/compare.html
+
+.. [Ijdo_et_al_1991]  IJdo, J. W., A. Baldini, D. C. Ward, S. T. Reeders and R. A. Wells, 1991. Origin of human chromosome 2: an ancestral telomere-telomere fusion. *Proceedings of the National Academy of Science USA* 88(20): 9051-9055. http://www.pnas.org/cgi/reprint/88/20/9051.pdf 
+
+.. [Max_2003] Max, Edward E., 2003. Plagiarized errors and molecular genetics. http://www.talkorigins.org/faqs/molgen/ 
+
+.. [Taylor_2003]  Taylor, D. M. 2003. Alignment of Chimp_rp43-42n4 against human chromosome 15. http://www-personal.umich.edu/~lilyth/erv/ Ver también Taylor, D. M. 2003 (Jun 3). Re: Evolutionary Misconceptions on Evolution. http://www.google.com/groups?as_umsgid=75200cbc.0306031846.50b2bda5%40posting.google.com 
+
+.. [White_et_al_2003] White, Tim D. et al., 2003. Pleistocene *Homo sapiens* from Middle Awash, Ethiopia. *Nature* 423: 742-747. 
+
+.. [Yunis_y_Prakash_1982] Yunis, J. J. and O. Prakash, 1982. The origin of man: a chromosomal pictorial legacy. *Science* 215: 1525-1530. 
+
+
+Lecturas recomendadas
+=========================
+
+Johanson, D. C., and B. Edgar, 1996. *From Lucy to Language*. New York: Simon and Schuster. 
+
+Leakey, M. and A. Walker, 1997. Early hominid fossils from Africa. *Scientific American 276(6)* (June): 74-79.
+
+Tattersall, Ian, 1995. *The Fossil Trail*. New York: Oxford. 
+
+/////
+
+Anterior: :doc:`CC041` | Siguiente: :doc:`CC051`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

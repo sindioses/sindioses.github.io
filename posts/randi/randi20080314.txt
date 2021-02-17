@@ -1,0 +1,417 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Traducciones de James Randi
+.. type: randi
+.. date: 2008-03-14 00:00:00
+.. title: Placas moradas. Otra retirada. No os perdáis esto. Una petición. Noticias de Airborne. Una tarea.... Otra médium de mascotas. ¡No me extraña!. Muy cierto. Avanzando - tal vez. La PBS ofende. Resuelto el caso Lilieci. Un perdedor ha ganado. Aquel hombre de la olla en la cabeza. Insólitos pingüinos. Charlatanería en Adelaida. Alerta homeopática. En conclusión
+.. author: James Randi, traducción de Lucía Sierra
+
+.. contents:: Contenido
+   :class: sidebar
+   :local:
+
+Placas moradas
+..............
+
+Dice el lector Dean Malandris:
+
+ .. image:: http://www.randi.org/images/commentary/200803/tesla.jpg
+    :alt:
+    :align: left
+
+ Aquellos de nosotros que intentamos mantener a flote nuestra balsa de cordura en el mar de la estupidez, seguro que ya hemos desarrollado una técnica para permanecer "cómodamente atontados", como una vez dijeron Pink Floyd. Si representamos la racionalidad como una masa de tierra a nivel del mar, y la charlatanería como el océano, entonces, cuanto más miro a mi alrededor, más convencido estoy de que estamos sufriendo un Calentamiento Global Intelectual.
+
+ Yo pensaba que ésta era una página web que describiría, en gran detalle, el contenido de las alacenas de la cocina o el aparador de Nikola Tesla, pero en absoluto: http://www.tesla-energy.com
+
+ Lo único razonable que encontré fue en la página "Acerca de las placas", donde dice:
+
+  Las placas llevan usándose más de 30 años (1971) y todavía tienen los mismos efectos que el primer día.
+
+ Eso sí que me lo creo.
+
+
+Otra retirada
+.............
+
+`La semana pasada <randi20080307.html#el-viejo-problema-de-la-hip-tesis-cero>`__ mencioné que una importante prueba de homeopatía en Grecia había resultado como cabía esperar, siendo abandonada por la comunidad homeopática. Ahora nos llega este aviso de 1000 palabras, de parte de Gábor Hraskó, Presidente Ejecutivo de la Sociedad Escéptica de Hungría:
+
+ Parece que nos hemos detenido en los preparativos para traer la prueba de homeopatía a Hungría. La Junta Directiva de la Asociación Médica Homeopática Húngara (http://www.homeopata.hu/staff.html) tomó la semana pasada la decisión de no respaldar la prueba.
+
+ Yo había organizado un pequeño, pero entusiasta, grupo de científicos dentro y alrededor de la Academia Húngara de Ciencias para apoyar la prueba. También llevé a cabo comprobaciones preliminares sobre qué tipo de permisos necesitaríamos por parte de las autoridades. Visité, junto con un doctor bastante conocido en Hungría, a la junta de homeópatas. El encuentro fue afable, pero sentí que me había encontrado con la misma actitud de anteriores defensores de terapias alternativas. Son legítimos doctores, con lo que daba bastante miedo que no tuvieran idea de ninguna prueba farmacéutica. Utilizaron los típicos argumentos de que su deber era sanar, y no analizar. También dijeron que era mucho más injusto no tratar a la mitad de los pacientes por el bien de la ciencia.
+
+Randi comenta: Sí, este problema de "tratar a la mitad de los pacientes" es una queja muy justificada. Sin embargo, yo creo que existen otras formas posibles de llevar a cabo una prueba como ésta, y a un tiempo evitar poner en peligro la atención médica necesaria.
+
+ También tienen otro problema que no se atevieron a comentar en exceso, pero que yo creo que es una de las razones fundamentales para su retirada. Practican la llamada "homeopatía clásica" (a la manera del Señor Vithoulkas), a diferencia de la "homeopatía clínica", cuyos practicantes pasan por el tradicional largo proceso de exploración del paciente, y tratan de encontrar el remedio adecuado a través de múltiples visitas. Su repertorio consta de más de 1000 remedios (tengo aquí una pequeña colección que incluye Moon light (Luz de Luna) 100C, Berlin wall (Muro de Berlín) 40C, Oxigen (Oxígeno) 200C etc.) y sólo unos 300 de ellos, en estos momentos, están registrados legalmente en Hungría. Lo cual quiere decir que su [sistema de recetado] es... en fin, al menos cuestionable, si no completamente ilegal.
+
+ En realidad, me parece que éste debe de ser el caso en la mayoría de los países. A pesar de las reglas simplificadas que se aplican para el registro de remedios homeopáticos - se registran como drogas auténticas, no suplementos dietéticos, pero no se requiere que pasen ningún tipo de pruebas de toxicidad y eficacia - la mayoría de ellos no están registrados. Los importan cuando es necesario o les piden a sus pacientes que los consigan directamente de los fabricantes.
+
+ Conocen a Vithoulkas y, de alguna manera, se fían de él. Fue reconocido en Hungría hace algunos años, a petición de la asociación, pero, como ellos mismos dicen, su reputación está ahora en declive. Lo único que realmente preguntaron fue por qué Vithoulkas no había podido encontrar una institución anfitriona alternativa en Grecia. Es una buena pregunta, y yo no pude responderla. En parte por ello se inclinaron a pensar que teníamos algún tipo de "planes secretos".
+
+ La lista actual en la que basaron su decisión fue la siguiente (mis comentarios van entre paréntesis):
+
+ • El fondo ético del experimento no está claro, ya sea del lado del experimentador, o del paciente. (GH: no tienen ni idea de las normas éticas que rigen las pruebas sobre drogas normales);
+
+ • No existe un soporte institucional en Hungría como para garantizar la equidad y efectividad de la prueba. (GH: no se fían de nadie);
+
+ • No hay fabricantes locales de remedios. (GH: esto sí que sería un reto, aunque, como ellos dijeron, utilizarían fabricantes "de calidad" en sus consultas);
+
+ • Creemos que una prueba como ésta debería incluir a muchos más pacientes. (GH: para que sea más fácil no hacer ninguna prueba).
+
+ La mayor parte de esto es, por supuesto, absurdo, pero no hay nada que yo pueda hacer al respecto. Sé que el Señor Randi lleva años diciendo que los homeópatas nunca se pondrían de acuerdo para una prueba semejante, y creo que va siendo hora de abandonar este proyecto.
+
+ Durante estos últimos años he aprendido mucho sobre CAM [Medicina Complementaria/Alternativa]; he leído la documentación, he investigado sus pruebas y ensayos clínicos, y he seguido las interpretaciones escépticas. Ahora sé que este tipo de pruebas no es el adecuado para evaluar CAM en general. Los profesionales de la homeopatía, u otras terapias, como la acupuntura, pueden referirse a pruebas clínicas positivas reales que incluso se han publicado en revistas de prestigio. Se hace más y más evidente que la búsqueda de "evidencia" - pruebas clínicas positivas - de un tratamiento es importante, pero no suficiente para probar que un tratamiento es de verdad efectivo. Incluso si la credibilidad física de un tratamiento es cero, como en el caso de la homeopatía, las pruebas clínicas arrojarían resultados positivos de tanto en tanto; los llamados "falsos positivos". Esto sucede incluso si las pruebas se realizan de forma perfecta, con arreglo a criterios científicos. Los métodos estadísticos típicos - intervalos significativos, etc - que se usan en las pruebas, sólo arrojan resultados válidos si éstas se realizan sobre métodos relativamente verosímiles. Cada vez más científicos insisten en que la verosimilitud en la evaluación de estudios clínicos debe jugar un papel más importante del que tiene en la actualidad, que es prácticamente nulo. Es por esto que los expertos tratan de no utilizar el término "medicina basada en la evidencia", sino el más reciente "medicina basada en la ciencia"].
+
+ Dado que la homeopatía y otras disciplinas de la CAM pueden presentar pruebas clínicas positivas, el hecho de conseguir una nueva prueba negativa no haría diferencia alguna. Un falso positivo tampoco probaría nada. La cuestión, en realidad, es que no existe ninguna teoría verosímil sobre cómo la homeopatía podría funcionar. Durante bastante tiempo, yo mantuve también que, sepamos o no sepamos cómo algo funciona, si funciona, es que existe. Ahora comprendo que este enfoque falla si examinamos fenómenos completamente inverosímiles de manera rutinaria.
+
+ Este resultado no me parece inesperado, pero sí me entristece. Es mucha la energía que se pone en ello. Yo hice todo lo que pude, incluso durante la última fase, y ahora hemos vuelto al punto de partida otra vez.
+
+ Estoy listo para participar en proyectos o actividades similares en el futuro. La Sociedad Escéptica Húngara también sigue adelante. Estamos progresando, y parece posible que superemos los problemas en nuestras relaciones con los "viejos escépticos". Hemos empezado a reunir a todas las fuerzas escépticas en Hungría. Nuestro siguiente objetivo es Uri Geller, que llegará este mes a nuestro país. Si tienes alguna idea de cómo darle la bienvenida, por favor háznoslo saber.
+
+Gracias por esta información. Una vez más, no sorprende, pero sí decepciona. Ilustra - de nuevo - hasta qué punto la comunidad charlatana teme someter sus argumentos infundados a pruebas reales. Y sí, tengo unas cuantas excelentes ideas sobre cómo darle al Sr. Geller la bienvenida a su tierra natal. Ya lo discutiremos, Gábor.
+
+
+No os perdáis esto
+..................
+
+.. image:: http://www.randi.org/images/commentary/200803/india.jpg
+   :alt:
+   :align: right
+
+
+El 3 de Marzo del 2008, Sanal Edamaruku, el presidente de la conocida Rationalist International [Racionalista Internacional] de la India, retó a Pandit Surinder Sharma, que dice ser el más poderoso "mago negro" - tántrico de la India, a demostrarle sus poderes. Se trataba de un experimento sin precedentes. Después de que todos los cánticos de mantras - palabras mágicas - y todas las ceremonias fallaron, Sharma decidió matar a Edamaruku mediante la "ceremonia final de destrucción", en directo por televisión. La supuesta victima accedió, y se sentó voluntariamente en el altar para el ritual de magia negra. Nos han dicho que, a causa de esto, se alcanzaron cifras insólitas de audiencia en la India. Nadie quiere perderse un asesinato en directo.
+
+Visitad http://tinyurl.com/2ehs4m, donde encontraréis un informe de "El Gran Reto Tantra". Por si os preocupa, Edamaruku todavía está con nosotros, y goza de una salud increible, a pesar de todas las influencias malignas que le arrojaron. Los detalles de esta farsa son fascinantes. Charlatanería, superstición, fiebre religiosa, todo en uno. Por supuesto, las fuerzas de Sharma se pelean por ofrecer excusas, pero cabe esperar que algunos creyentes hayan visto la realidad.
+
+
+Una petición
+............
+
+Alguien llamado simplemente "Nick", nos pide que pubiquemos esta nota:
+
+ Me gustaría que me ayudaras y apoyaras informando a tus lectores sobre mi nuevo video blog, Critical Critique. Es nuevo aún, pero va camino de convertirse en el mejor video blog con la mayor colección de los artículos más informativos y educativos que fomenten el pensamiento crítico y la investigación basada en hechos frente a la vida con base en la fé y el pensamiento emocional. Puedes verlo en http://www.criticalcritique.com
+
+ Critical Critique reunirá y ofrecerá la colección de videos más educativa, informativa, relevante e intelectualmente estimulante disponible en internet. Todo junto en el mismo lugar abierto a la consulta de cualquiera, y etiquetado por categorías. De modo que, en cualquier momento que alguien quiera ver un video en particular, podrá regresar al video blog y recuperarlo simplemente pulsando sobre las categorías.
+
+ Los subscriptores, además, recibirán estos videos, que contribuirán a su conocimiento de cualquier tema concreto, todos presentados por buenos escépticos, científicos, pensadores críticos y ateos en internet, incluyéndote a ti. Junto con mi descripción y crítica del contenido de cada video, agradecería críticas de los lectores en la sección de comentarios del blog, acerca de lo que consideran bueno o malo en el contenido de los videos.
+
+ La razón por la que hago esto es que he visto un montón de estupendos videos en sitios como YouTube, Google Video y los demás, pero no están clasificados como yo desearía, especialmente en cuanto a lo que Critical Critique representa. A la larga, estos videos se olvidan, y se pierden entre la multitud. Me gustaría que estos estupendos videos fueran vistos y recordados por todos, tanto creyentes como escépticos, de todas las generaciones. Y me gustaría escuchar la reacción de la gente ante ellos también. Las críticas y los comentarios son importantes y valiosos para Critical Critique. Me gustaría saber si le ha cambiado en algo la vida a la gente, o si ha modificado su comprensión de la realidad, para bien o para mal; si están de acuerdo o no; si tienen una recomendación que quieren compartir con todo el mundo, etc.
+
+ Esta es otra manera de cambiar algo en el mundo con respecto a las creencias y diferencias religiosas. Atraerá indirectamente también a los creyentes en la religión y lo sobrenatural, que visitarán el sitio y verán los videos, y estoy seguro de que, a lo largo de ese proceso, también cambiará unas cuantas ideas.
+
+
+Noticias de Airborne
+....................
+
+.. image:: http://www.randi.org/images/commentary/200803/ab2.jpg
+   :alt:
+   :align: right
+
+
+La semana pasada incluímos `un artículo sobre el revés que sufría un producto fraudulento <randi20080307.html#otro-tir-n-de-orejas>`__, pero ahora nos enteramos de que es posible que sobreviva a dicho tirón de orejas.
+
+La compañía se ha comprometido a pagar más de 23 millones de dólares en un acuerdo legal conjunto sobre publicidad engañosa, pero puede que eso sea todo. También han accedido a devolver el dinero a los clientes (quienes compraron Airborne bajo promesa de que combatía los resfriados), y a pagar por anuncios en publicaciones de primer orden, notificando a los consumidores acerca del litigio. Airborne ha negado alegaciones de intenciones maliciosas. Según un representante:
+
+ Tenemos miles de clientes satisfechos que continúan comprando Airborne. Desde sus comienzos, Airborne ha ofrecido una garantía de satisfacción del 100%. Aceptamos el acuerdo legal para evitar seguir acumulando costes relativos al litigio. Airborne niega rotundamente las acusaciones y continúa en su postura de no asumir responsabilidades relativas a ellas.
+
+Sin embargo, hay otra demanda pendiente en el juzgado federal de Nueva Jersey. Los demandantes en este caso están representados por un grupo de abogados especialistas en derechos del consumidor, que consideran que el acuerdo monetario no es suficiente. Como yo señalé la semana pasada, tienen toda la razón. El litigio debería haber sido para impedir que la empresa hiciese publicidad engañosa de sus productos. Esta iniciativa refleja la actitud general sobre este tipo de publicidad en los últimos tiempos. Pfizer Pharmaceutical, Merck & Co. y Schering-Plough han retirado anuncios que eran igualmente cuestionables.
+
+
+Una tarea...
+............
+
+He aquí un ejercicio para aquellos de mis lectores que quieran ofrecer una explicación a un cabalero que me escribió en Agosto de 1991. Revisando viejas cartas en una caja que encontré, apareció una pregunta en tres páginas de este hombre en el Reino Unido, que es posible que no haya recibido una respuesta de mi parte, aunque suelo tener bastante cuidado en atender tales asuntos. En cualquier caso, no recuerdo la pregunta, ni ningún tipo de respuesta que pueda haberle enviado. Encuentro, sin embargo, que esto es un excelente ejemplo de cómo alguien puede tener serias dudas acerca de su escepticismo después de que le haya sucedido algo que considera inexplicable. Aquí está la parte relevante de la carta. Leedla, por favor, y enviadme vuestros análisis:
+
+ Debo confesar una experiencia para la cual no tengo explicación. Por favor, haz lo que puedas para rescatarme de esta posición intelectualmente absurda que me he visto obligado a mantener durante 35 años.
+
+ El incidente ocurrió durante mi primer año en el Merton College [Universidad de Oxford]. [Un empleado doméstico] sugirió que [a mi amigo y a mí] quizá nos pareciera interesante acompañarle a una reunión de su iglesia espiritista. No recuerdo por qué; tal vez nos oyó por casualidad discutiendo sobre religión, como los estudiantes solían hacer entonces (puede que ahora no sea el caso). Acudimos, por curiosidad intelectual: dos socialistas ateos deseosos de experimentar de primera mano un opio del pueblo de distinta clase, mucho más excitante que ir a misa.
+
+ En total creo que fuimos, a intervalos irregulares, unas cuatro o cinco veces, y no recuerdo en cuál de ellas sucedió el incidente. Sin duda no fue en la primera. La "rutina" te resultará familiar: La médium (generalmente, aunque no siempre era una mujer), pide a cada miembro de la congregación que deposite un objeto personal en una bandeja. La bandeja pasa luego al estrado, donde la médium escoge un objeto al azar, lo muestra a todos y pregunta a quién pertenece.
+
+ La víctima grita "es mío", y ahí comienza la descripción de personas amadas fallecidas, con todo detalle de rasgos faciales, físicos en general y de vestuario, para finalizar con el reconfortante mensaje.
+
+ En aquel entonces yo fumaba, y mi objeto personal era un mechero. Cuando fue seleccionado, hice lo propio y lo confesé, y entonces la médium (recuerdo que era una mujer de mediana edad procedente de Leytonstone, en el este de Londres) me hizo una pregunta de lo más asombrosa: "¿El nombre de Dearlove significa algo para ti?". Sí que significaba; entonces no mucho, pero tras algunas investigaciones descubrí más.
+
+ Ted Dearlove fue un agente de seguros cuyo trabajo era pasar por las casas de los pobres (la mía era una de ellas) para recaudar los pagos de dos peniques de las pólizas diseñadas para que Pridential [compañía de seguros del Reino Unido - http://www.pru.co.uk/] ganase una fortuna dejando lo justo para un entierro decente de los contribuyentes. Quisiera hacer hincapié en que, en el momento que pasó lo que estoy contando, yo no sabía más que su nombre, que había muerto y que había sido "amigo de mi madre". Todo lo demás lo descubrí después. Dearlove vino a casa durante varios años mientras yo era pequeño, antes de dejar su trabajo y convertirse en dueño de un bar en la misma ciudad. Según mi hermano mayor, mi madre estaba enamorada de él. A causa de esta supuesta relación, y a causa de su súbita intervención en mi vida, aquella tarde de Martes en Oxford, se me pasó por la cabeza la idea de que yo era hijo de Dearlove. Ahora tiendo a rechazar esa posibilidad, porque la similitud física y fisiológica entre mi hermano y yo es tal, que debo aceptar que tenemos padres comunes. Cuando contesté "sí", se me ofreció el consabido mensaje tranquilizador: "Él cuida de ti". Eso fue todo.
+
+ Debo añadir lo siguiente:
+
+ 1) No recuerdo necesitar el mensaje, aunque entonces estaba terrible y desesperadamente enamorado y había incluso pensado en el suicidio.
+
+ 2) Sólo conocía el nombre de Dearlove, y no sabía nada de él. Nunca le había conocido en persona.
+
+ 3) Sabía que estaba muerto hacía quince años o más, pero esto no era nada significativo para mí.
+
+ 4) La médium a) no podía saber que yo iba a ir a su reunión, b) no me conocía, c) no podía haber sacado el nombre de mí por transferencia de pensamiento (en la cual creo, porque ocurre demasiado a menudo en el día a día para que dude de ella) porque yo no me pasaba el tiempo pensando en una persona a la que no había conocido y que no tenía ninguna importancia para mí, d) incluso aunque alguien le hubiera dado el nombre de "Dearlove" como asociado a mi familia (¿el empleado doméstico? Mi familia vivía en Oxford y es concebible que él los conociera, tanto a ellos como a Dearlove, pero no se me ocurre ninguna razón por la que esto podía haber sucedido, y además vivíamos en extremos opuestos de la ciudad), ella no conocía mi nombre, y se arriesgaba a parecer un fraude si suponía erroneamente y le preguntaba a mi amigo.
+
+ Le escribía a la médium, cuya tarjeta me habían dado, en un intento de clarificar el incidente, pero, por supuesto, no obtuve respuesta.
+
+ Por favor, Señor Randi, ¿cómo lo hizo? No se trató de un comentario general o al azar, sino directo y específico. ¿Conoces alguna experiencia paralela?
+
+Quedo a la espera - con gran interés - de los comentarios por parte de los lectores de la columna, sobre en qué punto la percepción de este espectáculo no consiguió dar una respuesta.
+
+
+Otra médium de mascotas
+.......................
+
+El lector Matthew Stikeman informa desde Canadá:
+
+ Ha vuelto a pasar. ¡Pero esta vez es una afirmación absoluta de un éxito del 100% de un "médium de animales"! Esta misma mañana, en la edición de hoy del diario National Post - en Toronto, Ontario - en la página A6, en la cabecera nada menos, aparece el titular:
+
+  Medium de mascotas de Nueva Escocia localiza a una perra desaparecida hace siete meses.
+
+ Vaya, bastante específico, sin posibilidad de diferentes lecturas. O el psicópata [#psycho]_ encontró a la perra, o no lo hizo. Nada de medias palabras como "ayudar", "asistir", o cosas semejantes. ¡Caramba! No me lo podía creer. He aquí la historia, textualmente:
+
+  Una perra desaparecida hace siete meses ha sido localizada con la ayuda...
+
+ Ah, ahora flaqueamos un poco - "ayuda", esa vieja palabra engañosa, levanta su furtiva cabeza...
+
+  ... de una "comunicadora animal" de Darmouth, Nueva Escocia, que dice que tuvo una visión de dónde se podría encontrar a la perra. Según la dueña de la perra, Josee Poulin, Maggie Carruthers tuvo una visión de Lady Belle hace tres semanas:
+
+  Dijo, "Puedo ver a Lady Belle. Veo a dos shelties [perros pastores de Shetland] corriendo y jadeando, y están [en un prado]."
+
+  La señora Carruthers dijo que normalmente es difícil comunicarse con perros perdidos...
+
+ Para no hablar de intentar hacerlo con los presentes, nada menos
+
+  ... pero mencionó que el espíritu de Lady Belle era tan fuerte que le hacía ver lo que la perra estaba viendo.
+
+ ¡Vaya! ver a través de los ojos de la perra. ¡Increíble! ¿Cómo se le transmite a la médium esa señal visual?
+
+  La señora Poulin había contactado a la médium de mascotas hace varios meses. Según la señora Poulin:
+
+   Me pidió que le mandara una pequeña foto de Lady Belle por correo electrónico. Yo lo hice, y empezó a comunicarse con ella.
+
+  La SPCA [Sociedad para la prevención de la crueldad contra los animales] capturó a Lady Belle el miércoles por la noche, en el mismo prado donde la señora Carruthers dice que estaba en su visión, y la devolvió a la señora Poulin.
+
+ Entre otros problemas con esta alegación y esta historia, me preguntó... ¿Alguien ha pensado que hay una increíble dosis de fantasía en esto? ¡La médium ve a través de los ojos de la perra lo que todavía no ha ocurrido! Hace tres semanas, vio a través de los ojos de Lady Belle - según dice - dónde iba a estar la perra el miércoles, en lo que entonces era el futuro, cuando iba a ser encontrada. Todavía no estaba en el prado, y no tenía ni idea de que iba a estar en el prado. Sin embargo, la médium lo vió, oteando el futuro, ¡a través de los ojos de la perra! Por otro lado, se trata de una perra asombrosa: ¡sus ojos veían el futuro y transmitían esa imagen visual a la psicópata [#psycho]_!
+
+ Qué sarta de tonterías. Es asombroso pensar que la gente se cree esta estupidez, y aún más asombroso verlo publicado de esta manera. Sin duda, la perra o la médium serían estupendas candidatas al reto del millón de dólares - poder psíquico, clarividencia, precognición y, probablemente, unas cuantas tentadoras habilidades más añadidas por si acaso. Sería fantástico sacar a la luz el fraude que esto representa.
+
+ El asunto hace agua por todas partes.
+
+
+¡No me extraña!
+...............
+
+El lector Jason Colavito -y otros- han ofrecido una explicación para la bastante sesgada actitud "de presentador de noticias" que aparece en `la columna de la semana pasada <randi20080307.html#esa-reportera-de-la-salud>`_:
+
+ Seguro que otros lectores ya han mencionado esto, pero hay una buena razón para que el presentador de televisión Tim White haya estado tan firmemente en contra de los escépticos en el artículo sobre homeopatía que apareció en la columna. El señor White fue presentador de Sightings, que se emitió entre 1992 y 1997 en la Fox y más tarde en cadenas menores, así como el Sci-Fi Channel. Para aquellos que lo recuerden, Sightings trataba asuntos que iban desde abducciones alienígenas al Bigfoot, pasando por los fantasmas. A su favor, hay que decir que el programa trató de desacreditar el video de la autopsia alienígena de la Fox, pero aquel fue un momento escéptico poco frecuente en un programa por lo demás completamente simplista. No sorprende, por tanto, que el señor White todavía apoye el mismo sistema de creencias que le hizo famoso hace años.
+
+
+Muy cierto
+..........
+
+El lector Tim Norfolk escribe desde la Universidad de Akron:
+
+ Me encantó el manual para profetas de la columna de esta semana. Mientras lo leía, vi que la palabra profeta podría sustituirse por "economista", "experto", "científico político" o "experto en educación" en todos los casos, sin que el texto dejara de ser válido.
+
+Pero librémonos primero de los profetas, Tim. Los economistas más tarde.
+
+
+Avanzando - tal vez
+...................
+
+.. image:: http://www.randi.org/images/commentary/200803/bob.jpg
+   :alt:
+   :align: right
+
+
+Un juzgado federal de Cincinnati ha fallado que el dueño de una empresa que vende falsas píldoras y otros suplementos a base de hierbas, para el "aumento de la virilidad", es culpable de "conspiración para la comisión de fraude postal", "fraude bancario" y "blanqueo de capital". Todos hemos visto los ñoños anuncios de "Enzyte" por televisión, con "Smiling Bob" [Bob el risueño], un personaje tontorrón cuya vida mejora con Enzyte, un producto que se supone que ha aumentado su potencia sexual.
+
+Steve Warshak, de 40 años, fundador y presidente de Berkeley Premium Nutraceuticals, que distribuye Enzyte y otros productos que, supuestamente, potencian la energía, regulan el peso, reducen la pérdida de memoria y ayudan a conseguir un sueño reparador, podría enfrentarse a más de 20 años de prisión, y su empresa podría verse obligada a pagar millones de dólares en multas. Antes de echar las campanas al vuelo, pensad en Airborne, por favor.
+
+Los cargos son muchos. La fiscalía alega que los clientes fueron estafados por valor de 100 millones de dólares, a través de una serie de anuncios engañosos, pagos a crédito manipulados y la negativa de la compañía a aceptar devoluciones o cancelar pedidos. El gobierno allega también que los acusados obstruyeron las investigaciones de dos agencias federales. Varios ex-empleados de Enzyte han testificado que la compañía creo falsos doctores para promocionar las píldoras, se inventó una encuesta de satisfacción del cliente, y se sacó de la manga unos números que atestiguaban la efectividad del producto.
+
+
+La PBS ofende
+.............
+
+El lector Thomas Skala informa:
+
+ Me desperté esta mañana ansioso por encender la televisión para ver mi grabación en video de la entrevista que Charlie Rose hizo anoche a Stephen Hawking. Mi televisor, todavia sintonizando la cadena local de PBS (WVIZ-Cleveland), se encendió en un programa de Deepak Chopra. Llevaba siete minutos cuando yo empecé a verlo, pero no creo que me perdiera gran cosa.
+
+ Todavía estoy viéndolo (llevamos 11 minutos), y sigo a la espera del final del chiste. La verdad es que me molesta que PBS - mi única fuente fiable de información mundial televisada (no tengo cable) no sólo esté emitiendo esto, sino que también lo utilice para conseguir donaciones por parte del público. Yo he contribuído en el pasado, pero no para ESTO. Aunque quizá no debería sorprenderme, depués de la serie de Wayne Dyer.
+
+ En cualquier caso, pensé que debería contártelo porque, si pudieras ver el programa, te darías cuenta y estarías de acuerdo con la idea de que el "Doctor" Chopra ha aceptado su condición de estrella del rock: lleva botas, tejanos gastados, americana sobre una camiseta, y - la razón de este comentario - gafas con una montura que emite reflejos rojos. No creo que sean lentejuelas, pero aún así llaman la atención con él ahí en la pasarela, y los oyentes sentados en alfombrillas detrás de él.
+
+ Gracias por leer esto, y siento no haberme resistido a compartirlo esta vez.
+
+
+Resuelto el caso Lilieci
+........................
+
+.. figure:: http://www.randi.org/images/commentary/200803/romania.jpg
+   :alt:
+   :figwidth: 204
+
+   Eucaristía en Lilieci
+
+La siguiente revelación nos llega desde Rumanía, de parte del lector Mihai Amariutei, acerca de los fenómenos fantasmales en la ciudad de Lilieci, `de los que hablamos la semana pasada <randi20080307.html#f-cil-soluci-n>`__:
+
+ La historia de fantasmas de Lilieci no fue muy comentada en los medios aquí - yo no la había oído antes de leer sobre ella en la columna, a pesar de que vivo sólo a 60 km de allí, apenas una hora por carretera. Por otra parte, puede que yo no lea el tipo de prensa adecuado para mantenerme al tanto de estas cosas. Por lo que busqué más información en la red.
+
+ Algunos parientes creían que el culpable era el sobrino nieto de la anciana, que, aparentemente, estaba siempre presente cuando aparecían los fenómenos extraños. Para mucha gente, sin embargo, la explicación más convincente era la reciente muerte de un familiar al que no se le había administrado la extremaunción - la Eucaristía.
+
+ Así que se llevó a cabo un ritual de exorcismo, con un equipo completo de siete sacerdotes y un arcipreste al frente.
+
+ El poderoso demonio resultó ser el muchacho - finalmente admitió ser el autor de los hechos, como venganza hacia su abuelo, que amenazó con denunciarlo por el robo de 40 dólares. El asustó a la policía dándole una simple patada a un cubo bajo la mesa.
+
+ Por cierto que, en Rumano, "Lilieci" quiere decir "Murciélagos", así que la asociación con los vampiros que hiciste fue bastante acertada. Lilieci no es una ciudad de por sí, sino un pueblo en la comunidad de Hemeiusi, cerca de la ciudad de Bacau.
+
+Mihai pasa a describir el ambiente en su país:
+
+ La situación general por aquí mejorará indudablemente, puesto que la ley ha requerido específicamente a nuestras autoridades educativas para que ofrezcan enseñanza en materias religiosas en el total de la educación primaria y secundaria. Las respectivas iglesias proveerán instructores cualificados a los que se pagará con presupuesto de educación. Obviamente, no es bueno enseñar a los niños visiones opuestas del mundo dentro de la misma institución. Hay quien piensa que este enfoque es erróneo, y busca ayuda para revocarlo.
+
+ Tales iniciativas tracasarán, por supuesto, dado que la mayoría de la población aquí (un 99,9%) es religiosa, y para un personaje público, apoyar una acción que pueda interpretarse como opuesta a la religión sería un suicidio político, más o menos como en los Estados Unidos de A. A diferencia de los estados Unidos de A., donde la secularización del estado y la educación es, por el momento, ensalzada por la constitución, en Rumanía sucede lo contrario, puesto que una crítica a la religión puede incluso acarrear problemas legales.
+
+ Los libros de texto enseñan que los niños serán atropellados si pecan, y presentan cualquier cosa no ortodoxa como obra del demonio. GRID, una organización ad hoc, lanzó una irónica propuesta para incluir la Alquimia y la Astrología en el curriculum también. Burlándose del grito de guerra utilizado por los estamentos religiosos - "Ningún Liceo sin Dios" - las consignas que propusieron fueron "Ningún Liceo sin Panacea" y "Ningún Plan de estudios sin Horóscopo".
+
+¿Qué tal "Ningún Sentido sin Sinsentido..."?
+
+
+Un perdedor ha ganado
+.....................
+
+Un comentario sobre el reciente show alemán del "sucesor de Uri Geller", de parte del lector Marc Studtmann:
+
+ Señor Randi, muchas gracias por venir a Alemania y aparecer en el programa de televisión "Welt der Wunder", desacreditando algunos de los trucos de Uri Geller y los autoproclamados concursantes psíquicos de este show.
+
+ Ya tenemos ganador y sucesor de Uri, quien me temo que ahora no se retirará. Y el ganador es... tadaa: Vincent Raven. Cuando me enteré, me quedé pasmado. Probablemente este sea el tipo que falló la mayor parte de sus trucos. O tal vez por eso es por lo que ganó, porque es gracioso ver a un tipo tan raro. Quién sabe.
+
+ Vincent Raven es un tipo que lleva a cabo su espectáculo acompañado por un cuervo, con el que está casado, según se dijo cuando apareció por primera vez en el show. Y ese mismo animal es su ojo al "Anderswelt", el "Otro mundo". Ya sabéis, ese donde hay gente muerta y esas cosas. El cuervo estaba casi siempre sobre una barra en forma de T, y a veces soltando sobre el escenario sus excrementos, ¡muy misterioso!. El tipo en sí no es menos extraño, con su curioso acento - en realidad es de Suiza, creo, de donde han salido un montón de charlatanes - y hablando con el animal en un idioma inventado.
+
+ Este es el nombrado sucesor de Uri Geller, ¿o será uno de los ganadores del show en los otros 3 o 4 países? No lo sé.
+
+ No he visto el programa a menudo, porque era demasiado vergonzoso, pero todo lo que vi era obviamente farsa vendida como realidad.
+
+ Con lo que, gracias por arrojar algo de luz sobre esto para aquellos que se lo creen. En el programa "Welt der Wunder" me gustó el hombre que hace seminarios en los que se puede aprender telequinesis y telepatía. Me gustó la parte en la que decía poder alterar la consciencia de una placa de metal y decirle que él es magnético, con lo que la placa se pegará a su pecho. En fin, no soy un experto en "psicología de metales", pero no creo que las placas de metal realmente tengan consciencia. Después de decirle a la placa que sería bueno que se pegase a él, caminaba tan tieso y echado hacia atrás, que incluso la placa de metal - en toda su consciencia - debió de pensar que era un idiota.
+
+
+Aquel hombre de la olla en la cabeza
+....................................
+
+.. figure:: http://www.randi.org/images/commentary/200803/mm.jpg
+   :alt:
+   :align: right
+   :figwidth: 210
+
+   ¡Y ésta es su PROFESIÓN!
+
+
+Marc acaba de mencionar a otro "hombre magnético", lo que me lleva a explicar una adivinanza que os planteé la semana pasada. Os pedimos que adivinarais quién era el hombre de la olla pegada a la cabeza. Este tipo - Miroslaw Magola - lleva años por ahí, adornado con ollas y cacerolas, aerosoles y diversos utensilios del hogar. Es incluso posible que sea un ingenuo, y realmente se crea que es "magnético". Oí hablar de él por primera vez en Octubre de 1996, cuando sólo ofrecíamos como premio la voluntad de quienes nos la entregaban, y en aquel momento estaba en 776.000 dólares. Magola, entonces, encargó a unos abogados de Londres que nos escribieran, pero no nos dijo cuál era su supuesto "poder". después su representante legal, Victor Romiszewski, nos informó de que:
+
+ Nuestro cliente confirma que puede levantar objetos de un sitio a otro sin sujetarlos. Puede mover la mano (y el brazo) vigorosamente con el objeto adosado, para demostrar lo fuertemente que éste está atraído por su mano. También puede levantar objetos del suelo con el uso de su frente (o sea, siendo el objeto atraído por, o estando adosado el objeto a la frente). Todo esto se consigue sin truco alguno (como adhesivo, pegamento, etc) y es capaz de atraer objetos de un peso de hasta 1 kg. Su habilidad fundamental consiste en que, al levantar los objetos, desafía a las actuales leyes de la gravedad, lo cual es probablemente un hecho muy interesante, al menos para el mundo de la ciencia. También puede atraer objetos con el pecho, hombros y estómago.
+
+ Por la presente, nos gustaría recibir confirmación de su parte acerca de si reúne las condiciones necesarias como candidato a su Reto Psíquico. Obviamente no tiene [ningún] sentido continuar con este asunto si usted no está interesado en nuestro cliente.
+
+ Esperamos noticias suyas.
+
+Yo respondí:
+
+ La recompensa en este momento es de 971.000 dólares. Aumenta prácticamente cada día. Y sí, definitivamente estamos interesados en su cliente. Sin embargo, basándonos en su descripción, esto suena como la típica alegación de "poder bio-magnético" que yo he examinado ya varias veces en distintas partes del mundo, particularmente en Rusia. Si es así, no entra dentro de la designación de "paranormal" o "sobrenatural".
+
+ Deje que le explique. Todas las demostraciones de este argumento que he visto incluyen la colocación de varios objetos (monedas, placas de hierro, libros, botellas, etc) sobre una superficie corporal como la mano, el pecho, la frente, los brazos o la espalda. La superficie utilizada está inclinada con respecto a la vertical, y los objetos se mantienen simplemente por fricción y la adhesión que produce la sudoración natural. En todos los casos, he aplicado polvos de talco a la superficie, y los objetos han resbalado. No hay nada sobrenatural, paranormal, o en forma alguna inusual en ello. Entra por completo dentro de los parámetros de la física. En cuanto a levantar objetos "del suelo con el uso de su frente", esto lo puede hacer fácilmente cualquiera, utilizando objetos planos como monedas o pequeñas placas, y los aceites naturales presentes.
+
+ Su carta menciona la frase "puede atraer objetos de hasta 1 kg de peso". Le recuerdo que "atraer" significa (según el diccionario Webster) "arrastrar por medio de una fuerza física, provocando un acercamiento". Esto sería similar a la forma en que un imán arrastra pequeños objetos de hierro hacia sí, sin tocar los objetos. ¿Puede el Señor Magola hacer esto? Sin tocarlo primero, puede arrastrar hacia sí un peso de 1 kg?
+
+Fueron las últimas noticias que tuve del Señor Magola o sus abogados, hasta que volvió a escribir en el 2003 - con el premio entonces en 1 millón de dólares - desde Munich, en Alemania. Nos regaló otra incoherente discusión sobre sus supuestos poderes, y un video que claramente mostraba que utilizaba los mismos métodos que yo había visto tantas y tantas veces antes. Ver http://www.randi.org/jr/082704gluton.html#7 (aún sin traducción) para otra mención de los polvos de talco, que aparentemente produce serias reacciones alérgicas a la gente "magnética".
+
+Esto es sólo una parte de lo que los acólitos de Magola dicen sobre él en su página web:
+
+ "El hombre magnético" Miroslaw Magola desafía las leyes de la gravedad con una habilidad extraordinaria - utilizando el poder de psicópata kinesis [sic] [#pk0]_, puede levantar desde cacerolas de metal hasta estatuas de mármol, y transportarlas por el aire hasta que se pegan a su cuerpo. Después crea una fuerza que las mantiene allí - con sólo el control de su mente.
+
+ Un ávido entusiasta del fenómeno de la energía psíquica, Miroslaw ha desarrollado su habilidad para manipular objetos inanimados en el aire y hacer que le obedezcan, incluso forzándolos a girar o agitarse. Sus poderes mentales son tan fuertes que puede saltar con un objeto pegado a su frente, sin perder la sujección mental del objeto. Miroslaw explica cómo usa la psicopatía cinética [sic] [#pk]_ para conseguir estos misteriosos resultados, "Funciona porque me cargo de energía (me conecto a ella) y, al mismo tiempo, deseo que el objeto levante [sic]. Miroslaw ha superado numerosas pruebas de su desconcertante habilidad, que hasta ahora continúa siendo inexplicable para la ciencia convencional.
+
+ El Señor James Randi, de la americana James Randi Education Foundation (J.R.E.F), que ha dedicado buena parte de su vida a desacreditar fenómenos y ocurrencias paranormales por todo el mundo, no discute la autenticidad de los talentos de Magola.
+
+ En Enero de 1997, el Doctor M. Karger, del Instituto Max Plank alemán, examinó las habilidades de Magola. Durante una prueba utilizando objetos en parte suministrados por él, pudo en todo momento tocar los objetos e incluso aplicarlos él mismo a Miroslaw. Sin contacto físico, Magola levantó una taza, inclinándola sobre los ejes horizontal y vertical. La mantuvo flotando en el aire, la desplazó y la dejó de nuevo en su lugar. A pesar de que Miroslaw Magola es internacionalmente reconocido, la atención pública no le ha cambiado. Su pasión es la investigación científica de la psicopatía cinética [sic] [#pk]_ y las habilidades paranormales, y conseguir que éstas sean comunmente aceptadas.
+
+ "La clave del avance de la humanidad es el estudio de nuestros propios cuerpos" dice Magola.
+
+Ese comentario sobre mi relación con Magola es - dicho finamente - una maldita mentira. Para dejarlo claro, Miroslaw Magola es un hombre que no se lava y tiene la piel pegajosa, y que hace un sencillo, infantil truco que se puede desmontar con unos cuantos gramos de polvos de talco, Es un farsante, un estafador, un mentiroso. Me pregunto cuándo veré esto mencionado en su sitio web, y cuándo nos deleitará Magola con una taza flotante, o transportará una estatua de mármol por los aires. ¡Me muero de ganas!
+
+Y no os olvidéis de visitar el divertidísimo sitio web de levitación: http://tinyurl.com/2sa8kj. Leyendo los comentarios, ¡parece evidente que nadie se ha dado cuenta! La primera foto, sin más, debería ser suficiente.
+
+
+Insólitos pingüinos
+...................
+
+El lector Matt Maddock nos cuenta lo que piensa...
+
+ Randi, ¡eres un héroe y tu barba avergüenza a la mía! Sigue haciéndolo así de bien, abogando por la razón y la realidad ante el creciente montón de locura con el que nos enfrentamos.
+
+ He perdido la cuenta de la cantidad de veces que he visto a algún credófilo lanzar el desafío a que alguien pruebe la no existencia de su favorita alternativa mágica. Como científico que he sido toda mi vida, la idea de que no se puede probar una negativa está firmemente arraigada en mí, pero parece que, para muchos, este principio básico es un anatema. Pensé, entonces, que podría intentar ofrecer una sencilla explicación de ese principio, y de por qué el peso de la evidencia debe caer sobre los charlatanes. Una vez que la escribí, me di cuenta de que no sabía qué hacer con ella, así que pensé que, quizás, podría encontrar su sitio en la |JREF|.
+
+ Esperando aún al pingüino de cuadros escoceses, Matt.
+
+Lo que sigue es algo que todos deberíamos recordar, cuandoquiera que se presente esta discusión, si se presenta. Que sepáis que algunas negativas pueden probarse, como "Yo no estoy hecho de litio". Se necesita la definición de litio, lo que constituye la propia masa y unas cuantas definiciones más, pero creo que puedo probar la negativa de manera bastante concluyente. También puedo discutir a lo tonto sobre "personales experiencias sensoriales". Nosotros los magos las proporcionamos a menudo, y puede que no representen la realidad. Sin embargo, Matt trata aquí de las cosas más importantes y básicas con las que nos topamos en el día a día; no muchos de nosotros nos encontramos con magos... Escribe:
+
+ No creo en los pingüinos de cuadros escoceses.
+
+ No tengo experiencia directa con pingüinos y no soy zoólogo, pero conozco a unos cuantos (zoólogos, no pingüinos), y comprendo una buena parte de los principios básicos que pueden afectarles (a los pingüinos, no a los zoólogos). Adoro la idea de pingüinos de cuadros escoceses, no me malinterpretéis; nada me haría más feliz que ver a un pequeño mayordomo tambaleante adornando un poco la Antártida con un pequeño gorro de cuadros.
+
+ Sin embargo, no creo en los pingüinos de cuadros escoceses, y sí, esto me pone un poco triste.
+
+ Las razones de mi incredulidad son multitud. Sobre todo, y en primer lugar, nunca he visto un pingüino de cuadros escoceses. Soy consciente de que hay un montón de cosas que nunca he visto y en las cuales creo, pero la experiencia sensorial directa es mi línea de razonamiento fundamental. No es, en cambio, la única línea de razonamiento. Si viera un pingüino de cuadros escoceses, my primera reacción sería ir a buscar a otra persona, preferiblemente alguien de confianza, y preguntarle si también podía ver a tan elegante pájaro. Me gustaría verlo de cerca, para comprobar que no olía a pintura secándose, para buscarle las cremalleras y, en última instancia, para analizar mi sangre y comprobar que no estaba bajo los efectos de ningún alucinógeno. Si después de todo eso todavía tengo un pingúino de cuadros escoceses, entonces empezaría seriamente a creer en él.
+
+ Sin embargo, no puedo probar que no existen. Podría pasar un vida entera en la Antártida recogiendo pingüinos, e incluso si (como me atrevo a predecir) ninguno de ellos tuviera una coloración de cuadros escoceses, no podría dar por seguro que no hubiera uno justo detrás de la siguiente roca.
+
+ Si alguien viniera a decirme que tiene un pájaro semejante... bueno ¡qué maravilla! ¡Por supuesto que me gustaría verlo! Todo lo que se necesitaría para probar que existe sería que esa persona lo presentara.
+
+ Podrían aportar fotografías, pero éstas podrían ser falsas. Podrían tener un montón de testigos, pero todos podrían estar equivocados, comprados, locos o simplemente buscando divertirse. Sin embargo, si me trajeran un - sólo uno - ejemplo de un genuino pingüino de cuadros escoceses - uno que siguiera siendo un pingüino de cuadros escoceses en las condiciones arriba mencionadas - entonces lo creería. Todos mis anteriores argumentos serían revocados. Humildemente me resignaría y admitiría ante el mundo que, de hecho, hay un clan de pájaros acuáticos del Black-Watch [Royal Highland Regiment, conocido regimiento escocés] entre nosotros.
+
+ Nunca, jamás podré probar sin ningún género de duda que no existen, pero todo lo que sé sobre la evolución, la conservación de la energía, la cadena alimentaria, el camuflage y la entropía (y otras cosas más), respaldado por el rigurosamente documentado trabajo y experimentación de un gran número de personas que son más inteligentes que yo, me dice que, simplemente, un pingüino natural de cuadros escoceses no tiene sentido. El peso de la evidencia en su contra es aplastante.
+
+ Pero, ¡imaginad que alguien afirme que ha encontrado una comunidad entera de tales criaturas! Naturalmente, me encontraría en una postura escéptica ante tal afirmación, teniendo en cuenta el peso de la evidencia de mi lado. Y aún así, todo lo que esta persona tendría que hacer para destruir completamente mi punto de vista y probar el suyo propio, sería mostrar uno solo, un solo ejemplo del género. Eso es todo.
+
+ Pero entonces comenzarían las excusas; a los pingüinos no les gusta viajar (de acuerdo, yo iré a su encuentro) - los pingüinos sólo son de cuadros escoceses el primer martes de cada mes, y es miércoles 4 (¡Vale! No me importa esperar 30 días para ver a este pájaro) - El pingüino sólo es de cuadros escoceses cuando nadie lo observa...
+
+ ... no hace falta esperar mucho para que las excusas se vuelvan increibles. Incluso cuando se ofrece un millón de dólares a cambio de evidencia concreta de los pingüinos de cuadros escoceses, nadie puede aportarla.
+
+ Con lo cual, me temo que sigo sin creer en los pingüinos de cuadros escoceses. Todo lo que pido para cambiar de opinión es un solo ejemplo, sólo uno, para contrarrestar el aplastante peso de la evidencia que respalda mi posición; sin embargo, nadie lo aporta.
+
+ Quizás veais a dónde quiero llegar.
+
+Matt, tampoco he yo visto ninguna declaración de qué pautas aceptarías para que este pájaro se ajustase a la definición, pero puede que esté siendo descortés...
+
+
+Charlatanería en Adelaida
+.........................
+
+El personal de la biblioteca del barrio en Adelaida informó a sus superiores de que se sentían "incómodos" por la noche cuando estaban solos en el edificio. Esto, obviamente, sólo podía significar que había algo sobrenatural tras esa sensación, dado que los viejos y tranquilos edificios siempre son sitios agradables y acogedores para trabajar por la noche. Claro. Así que los pudientes (el ayuntamiento local), naturalmente actuaron con la razón por delante y llamaron a un cazafantasmas para salvar a los empleados de su mortal carne de gallina. El Tea Tree Gully Council, en los suburbios de Adelaida, reclutó a un "consejero espiritual" para librar de espíritus al edificio - pero el ayuntamiento ha asegurado a todo el mundo que no se trata de un exorcismo, a pesar de que eso es para lo que un exorcismo está específicamente diseñado. ¿Aconsejo el consejero simplemente a los espíritus que se fueran?
+
+No, se dice que el cuidadosamente aconfesional consejero llevó a cavo una sesión de espiritismo en uno de los aseos de la biblioteca. El por qué de que el ayuntamiento no contratase a un fontanero directamente no ha sido discutido, ni tampoco tenemos informes del éxito o fracaso del no-exorcismo. El director de marketing del ayuntamiento, Mark Horton, ha dijo:
+
+ Los jefes de la biblioteca, deseosos de que el personal estuviese contento y a gusto en su lugar de trabajo, pagaron este servicio de su propio bolsillo, en su tiempo libre y con el absoluto respaldo del personal.
+
+En este caso, todo el mundo fue parte de la charada.
+
+
+Alerta homeopática
+..................
+
+La lectora (y miembro de `Skepchick <http://skepchick.org/blog/>`__) Tracy King escribe:
+
+ Me llegan avisos regulares sobre encuestas de mercado, y hoy recibí noticias acerca de un nuevo estudio de Global TGI (Target Group Index) [Indice de Grupos Objeto] sobre el mercado global de alt.med, con énfasis en la homeopatía. Un impresionante 94% de la gente en la India confía en la homeopatía, con los Estados Unidos en el 18% y el Reino Unido en el más bajo porcentaje al 15%. La entrada en mi blog está aquí: http://skepchick.org/blog/?p=1082.
+
+ A juzgar por el número de puntos de venta homeopáticos que he visto en el Reino Unido, y el hecho de que la Familia Real - especialmente Carlos, por supuesto - la apoye, ese 15% me sorprende...
+
+
+En conclusión
+.............
+
+Debido a circunstancias varias, todavía tenemos un espacio limitado disponible en nuestro crucero por las Galápagos este Agosto entre el 8 y el 18. ¡Antes estábamos completos! Esta es una segunda oportunidad para aquellos que querían ir pero no se apuntaron. Tenemos hasta el primero de Mayo para llenar este hueco, así que no lo dejéis pasar. Hay más información disponible en http://www.amazingmeeting.com.
+
+Una vez más, tengo mucho trabajo. Estoy preparando un viaje al reino Unido, Penn Satet, y el laboratorio de medios del MIT...
+
+|firmarandi|
+
+.. [#psycho] El original juega con el parecido entre "psychic" (psíquico, médium) y "psycho" (psicópata) [N. de la T.]
+.. [#pk0] *Psycho kinesis* en el original [N. de la T.]
+.. [#pk] *Psycho kinetics* en el original [N. de la T.]
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: Traducido por Lucía Sierra
+    :description: Placas moradas — Otra retirada — No os perdáis esto — Una petición — Noticias de Airborne — Una tarea... — Otra médium de mascotas — ¡No me extraña! — Muy cierto — Avanzando - tal vez — La PBS ofende — Resuelto el caso Lilieci — Un perdedor ha ganado — Aquel hombre de la olla en la cabeza — Insólitos pingüinos — Charlatanería en Adelaida — Alerta homeopática — En conclusión

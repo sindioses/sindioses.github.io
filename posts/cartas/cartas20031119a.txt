@@ -1,0 +1,78 @@
+:mode=rest:encoding=UTF8:
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. title: "Diseño inteligente vs. Evolución biológica"
+.. category: Cartas de la Edad Media
+.. tags: Cartas de la Edad Media
+.. slug:
+.. date: 2003-11-19
+.. description: «La evolución no sólo es una teoría no probada, sino que tiene demasiada evidencia en contra como para sustentarse. El mecanismo de adaptación que evidentemente opera en los seres vivos jamás ha registrado cambios radicales como de transformarse una especie en otra.»
+.. author: Daniel E. Vera Monardes (responde: Ferney Yesyd Rodríguez)
+
+.. container:: mensaje
+
+   .. Escribe: Daniel E. Vera Monardes <danikaze7@hotmail.com> 19.11.2003
+
+   | Escribe: **Daniel E. Vera Monardes**
+   | Fecha: 19.11.2003
+
+   Hola,
+
+   Les escribo porque quisiera realizar algunos descargos, y lo haré lo más respetuosamente que pueda.
+
+   Yo creo que Dios existe, pero no por imposición de un dogma religioso, Sino por razones que tengo para creer son indesmentibles bajo todo punto de vista.
+
+   1° Es un principio de la lógica que nadie puede dar lo que no tiene.  Así como el pobre no puede dar los millones que no posee, la vida no puede proceder sino de vida anterior o pre-existente. En laboratorio se puede lograr mutar o modificar la vida, pero no se puede crear vida a partir de aquello que nunca ha sido vida. Sé que se han logrado crear ciertos compuestos orgánicos artificialmente, pero estos compuestos no son vida. La vida es un misterio que va mucho más allá de la materia y de las probabilidades matemáticas, aunque le concediéramos millones de años. La vida es de una naturaleza distinta de la materia.
+
+   2° Es imposible que el azar haya intervenido en el origen de la vida.  El azar, por su misma naturaleza hace imposible la existencia de la vida. El azar no acepta ni admite leyes de ninguna clase. El azar hace y deshace. Si la vida se creó por azar, ¿cómo por azar se mantiene en equilibrio constante? Un azar que acierta con tanta frecuencia, es un azar dirigido. O en otras palabras, no es azar, es poder inteligente.
+
+   3° La vida se rige por leyes inteligentes que permiten su equilibrio y orden. El azar no puede explicar el origen de estas leyes. Las leyes precisan de un legislador. Más aún, cuando hablamos de leyes "inteligentes". Muchos se apresuran a hablar de la "sabia naturaleza", pero yo me pregunto ¿es la sabiduría un atributo propio del azar o de los seres inteligentes? Obviamente, de lo segundo. La vida inteligente, con un diseño inteligente y leyes inteligentes, me proponen necesariamente un Diseñador inteligente.
+
+   4° Es sabido que sólo hay dos posibilidades para explicar el origen de la vida: azar o intervención sobrenatural. No existe una tercera posibilidad.
+
+   La evolución no sólo es una teoría no probada, sino que tiene demasiada evidencia en contra como para sustentarse. El mecanismo de adaptación que evidentemente opera en los seres vivos jamás ha registrado cambios radicales como de transformarse una especie en otra.
+
+   Y muchas razones más...
+
+   Espero respuesta.
+
+Respuesta
+---------
+
+Hola Daniel:
+
+Muchas gracias por escribir a Sindioses.org. Veo que su principal argumento es el de la necesidad de un diseñador para los seres vivos. Esta idea no es nueva, de hecho Santo Tomás de Aquino fue uno de los primeros en afirmar que los seres vivos son prueba de la existencia de un creador, de la misma manera que una artefacto revela la existencia de alguien que concibió y creó tal objeto. El argumento del diseño no fue necesario en biología desde la publicación del “Origen de las especies”.
+
+Hace poco (julio de 2002), apareció en la revista Scientific American un interesante artículo que responde justo las objeciones que usted plantea. En parte contestaré a sus argumentos citando partes del artículo de John Renie titulado “15 respuestas al sin sentido creacionista”. Primero se tratará el tema del origen de la vida y  luego el del Diseño inteligente.
+
+Para empezar quiero manifestar que la afirmación que haces de “La vida es de una naturaleza distinta de la materia” es falsa. Todos los seres vivos estamos formados por materia, solo que esta se encuentra organizada en niveles (molecular, celular, tejidos, etc.) de complejidad.
+
+Respecto al argumento creacionista que sostiene que la evolución no puede explicar como la vida apareció por primera vez en la Tierra, John Renie responde en su artículo de la siguiente manera:
+
+    *El origen de la vida permanece como un buen misterio, pero los bioquímicos han aprendido como los primitivos ácidos nucleicos, aminoácidos y otros bloques de construcción de la vida podrían haberse formado y auto-organizado en unidades autoreplicantes y auto-sustentables, colocando la base para la bioquímica celular.  Los análisis astroquímicos sugieren que cantidades de estos componentes podrían haberse originado en el espacio y caído a la Tierra en cometas, lo cual es un escenario que soluciona el problema de cómo estos constituyentes se formaron  bajo las condiciones que prevalecían cuando nuestro planeta era aún joven.*
+
+    *Los creacionistas algunas veces intentan invalidar toda la evolución apuntando a la corriente inhabilidad para explicar el origen de la vida. Pero aún si la vida sobre la Tierra tuviese un origen no evolutivo (por ejemplo, si los alienígenas introdujeron las primeras células hace millones de años), la evolución a partir de entonces estaría ampliamente confirmada por los incontables estudios micro y macroevolutivos.*
+
+Bueno, ahora miremos el tema del “diseño inteligente”.  En palabras de John Renie:
+
+    *Este “argumento del diseño” es la columna vertebral de los más recientes ataques contra la evolución, pero también es uno de los más antiguos.  En 1802 el teólogo William Paley escribió que si uno se encontraba un reloj de bolsillo en un campo, la conclusión más razonable es que alguien lo dejo caer, no que fue creado allí por fuerzas naturales. Por analogía, Paley argenta, que las estructuras complejas de los seres vivos deben ser obra directa de una intervención divina. Darwin escribió en El origen de las especies como una respuesta a Paley: él explicó como las fuerzas de la selección natural, actuando sobre las características heredadas, podrían gradualmente dar forma a la evolución de estructuras orgánicas.*
+
+    *Generaciones de creacionistas han intentado contradecir a Darwin citando el ejemplo del ojo como una estructura que no podría haber evolucionado. La habilidad del ojo para proveer visión depende del arreglo perfecto de sus partes, dicen los críticos. La selección natural nunca podría haber favorecido las formas transicionales necesarias durante la evolución del ojo ¿Qué tan bueno es medio ojo? Anticipándose a esta crítica, Darwin sugirió que aún un ojo “incompleto” podría conferir beneficios (como ayudar a las criaturas a orientarse hacía la luz) y de ese modo sobrevivirían permitiendo futuros refinamientos evolutivos. La biología ha vindicado a Darwin: los investigadores han identificado ojos primitivos y órganos sensibles a la luz a través del reino animal y han ayudado a trazar la historia evolutiva del ojo a través de comparaciones genéticas. (Ahora parece que en varias familias de organismos los ojos han evolucionado independientemente.)*
+
+    *Los defensores del diseño inteligente de hoy son más sofisticados que sus predecesores, pero sus argumentos y propósitos no son fundamentalmente diferentes. Ellos critican la evolución intentando demostrar que esta no podría explicar la vida como nosotros la conocemos y entonces insisten que la única alternativa defendible es que la vida fue diseñada por una inteligencia inidentificable.*
+
+    *“La complejidad irreducible” es el grito de batalla de Michael J. Behe de la Universidad de Lehigh, autor de La caja negra de Darwin: El desafío bioquímico a la evolución. Como ejemplo familiar de complejidad irreducible, Behe optó por una trampa de ratones – una maquina que no podría funcionar si una de sus piezas faltara y estas piezas no servirían sino como parte de un todo.  Como esto es cierto para la trampa de ratón, dice él, es más cierto para el flagelo de las bacterias, un organelo celular en forma de látigo usado en la propulsión y que opera como un motor fuera de borda. Las proteínas que conforman el flagelo están extrañamente dispuestas dentro de los componentes del motor, una bisagra universal y otras estructuras como aquellas que los ingenieros humanos podrían especificar. La posibilidad que este intrincado arreglo pudiese haberse originado a través de modificaciones evolutivas es virtualmente ninguna., argumenta Behe. Él hace apuntes similares sobre los mecanismos de coagulación de la sangre y otros sistemas moleculares.  Sin embargo, los evolucionistas han respondido a estas objeciones. Primero, existen flagelos con formas más simples que el que cita Behe, por lo que no es necesario que estén presentes todos aquellos componentes para que un flagelo pueda funcionar. Todos los componentes sofisticados de este flagelo tienen precedentes por doquier en la naturaleza, tal como lo describió Keneth R. Miller y otros investigadores de la Universidad de Brown. De hecho, el montaje entero del flagelo es extremadamente similar a un organelo que Yersinia pestis, la bacteria de la plaga bubónica, usa para inyectar sus toxinas en la célula.*
+
+    *La clave es que los componentes estructurales del flagelo, los cuales Behe sugiere que no tienen valor aparte de permitir la propulsión, pueden servir en múltiples funciones que podrían haber ayudado a favorecer su evolución. La evolución final del flagelo podría entonces haber resultado de nuevas recombinaciones de partes sofisticadas que inicialmente evolucionaron permitiendo otros propósitos. De forma similar, el sistema de coagulación de la sangre involucra la modificación y elaboración de proteínas que fueron originalmente usadas en la digestión, de acuerdo con los estudios de Russell F. Doolittle de la Universidad de California en San Diego. Así algunas de las complejidades que Behe llama pruebas de diseño inteligente no son irreductibles del todo.*
+
+    *La complejidad de una forma diferente –“complejidad especificada” – es la piedra angular del argumento del diseño inteligente de William A. Dembski de la Universidad Baylor en sus libros El diseño inferido y No hay un almuerzo gratis. Esencialmente es que los seres vivos son complejos en una vía que indirectamente, los procesos azarosos nunca podrían producir. La única conclusión lógica, afirma Dembski, es un eco de Paley 200 años atrás, es que alguna inteligencia superhumana creó y formó la vida.*
+
+    *El argumento de Dembski contiene numerosos huecos. Es erróneo afirmar que el campo de las explicaciones consiste únicamente de procesos aleatorios y diseño inteligente. Los investigadores de sistemas no lineales y maquinas celulares del Instituto Santa Fe y en otras partes han demostrado que simples procesos indirectos pueden producir extraordinariamente patrones complejos.  Algo  de la complejidad vista en los organismos puede emerger a través de fenómenos naturales que nosotros escasamente alcancemos a comprender.  Pero esto es diferente a decir que la complejidad no pudo originarse naturalmente.*
+
+Por último creo que tienes una gran confusión conceptual al afirmar que la evolución es una teoría no probada. Los biólogos definen evolución como “cambio en las frecuencias de alelos de una población al pasar el tiempo” (entendiendo alelos como las diversas formas de un gen). Esta definición al tener elementos matemáticos (la frecuencia) es perfectamente medible lo cual facilita enormemente su comprobación. Innumerables estudios han confirmado que las poblaciones cambian su composición genética al pasar el tiempo como resultado de la mutación, la selección natural y la deriva genética, por lo tanto la evolución no solo se ha comprobado, sino que es un concepto integrador de las ciencias biológicas.
+
+Lo invito a que lea completo el artículo de John Renie “15 answers to creationist  Nonsense”. Aunque creo que debería empezar con la unidad de evolución de cualquier texto universitario de biología (sugiero la Biología de Helena Curtis).
+
+| Atte.
+| Ferney Yesyd Rodríguez.
+
+

@@ -1,0 +1,50 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH190
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH190
+.. link: http://talkorigins.org/indexcc/CH/CH190.html
+.. date: 2005-4-19
+.. type: afirmacrea
+.. title: CH190: La Biblia es armoniosa en toda su extensión
+.. description: Respuesta a la afirmación creacionista «La Biblia es armoniosa en toda su extensión»
+
+La armonía interna de la Biblia en torno a un tema central testifica su autoría divina. Son sesenta y seis libros escritos a lo largo de dieciséis siglos por cuarenta y tantos autores de diversas culturas, pero cada parte de ella sigue el mismo tema.
+
+**Fuente:**
+
+Watchtower Bible and Tract Society. 1985. *Life--How Did It Get Here?* Brooklyn, NY, p. 215.
+
+Respuesta
+===========
+
+1. La armonía de la Biblia también puede atribuirse al hecho de que sus contenidos fueron elegidos y editados, por personas, para volverla armoniosa ([Friedman_1987]_).
+
+2. La Biblia no es armoniosa en varios aspectos muy importantes.
+
+   * Mucha gente ha notado la diferencia entre el Dios del Antiguo Testamento, vengativo y sangriento (p. ej.: {{% biblia "Génesis 6-8; Éxodo 7-11" DHH %}}) y que ordena y ayuda a la masacre de los enemigos propios (p. ej.: {{% biblia "Éxodo 32:27-28; Deuteronomio 3:6; Números 31:1-18" DHH %}}) en oposición al Dios del Nuevo Testamento, que predica paz y ordena a la gente que ame a sus enemigos.
+
+   * Algunas partes de la Biblia dicen que los pecados del padre son heredados por las futuras generaciones (p. ej.: {{% biblia "Éxodo 20:5; Deuteronomio 5:9" DHH %}}). Otras partes ({{% biblia "Ezequiel 18" DHH %}}) dicen que no lo son.
+
+   * Buena parte de la Biblia enfatiza la unidad de Dios. {{% biblia "Génesis 1" DHH %}}, por ejemplo, destaca que toda la creación vino del mismo Dios, no de diferentes dioses como enseñaban otras religiones contemporáneas. Sin embargo, el Nuevo Testamento, en especial el Apocalipsis, introduce un dualismo entre el bien y el mal similar al zoroastrianismo, que se ha vuelto particularmente común en la tradición cristiana.
+
+Referencias
+=============
+
+.. [Friedman_1987]    Friedman, R. E. 1987. (ver abajo)
+
+Otras lecturas
+===============
+
+Friedman, Richard Elliott. 1987. *Who Wrote the Bible?* New York: Summit Books.
+
+
+/////
+
+Anterior: :doc:`CH184` | Siguiente: :doc:`CH200`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,47 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA600
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA602_2
+.. link: http://www.talkorigins.org/indexcc/CA/CA602_2.html
+.. date: 2003-06-28 02:00:00+00:00
+.. title: CA602.2: Los científicos aspiran a hacer innecesario a Dios
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Los científicos aspiran a hacer innecesario a Dios»
+
+La meta de muchos científicos, especialmente de evolucionistas y cosmólogos, es explicar el universo sin Dios. Quieren hacer que Dios sea innecesario.
+
+**Fuente:**
+
+Morris, Henry M. 2003. The bounds of the dominion mandate. *Back To Genesis* 175 (July), b.
+
+Respuesta
+==========
+
+1. La meta de los científicos es explicar el universo, punto. Si eso se pudiera hacer mejor incluyendo a Dios en las ecuaciones, lo incluirían. Sin embargo, Dios es inescrutable, incluso de acuerdo con los creacionistas, de modo que Dios es inútil como explicación.
+
+2. Explicar cosas sin Dios no vuelve innecesario a Dios. Mucha gente cree que Dios es necesario en sus vidas personales, independientemente de sus implicaciones científicas. La afirmación de Morris, en cambio, implica que Dios no tiene valor como dios personal.
+
+3. Muchos científicos están firmemente comprometidos con Dios. Muchos interpretan que sus hallazgos glorifican a Dios ([Campagna_2002]_; [Livingstone_1984]_).
+
+Referencias
+==============
+
+.. [Campagna_2002]    Campagna, Tony. 2002. Bob Bakker on creationism. http://www.prehistoricplanet.com/features/articles/bakker/index.htm
+.. [Livingstone_1984]    Livingstone, D. N. 1984. (Veáse abajo)
+
+Otras lecturas
+==================
+
+Livingstone, David N. 1984. *Darwin's Forgotten Defenders: The Encounter Between Evangelical Theology and Evolutionary Thought*. Vancouver, BC: Regent College Publishing.
+
+
+/////
+
+Anterior: :doc:`CA602_1` | Siguiente: :doc:`CA603`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

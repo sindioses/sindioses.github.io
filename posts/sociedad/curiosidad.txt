@@ -1,0 +1,28 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. type: socre
+.. author: Malcolm Cartagena
+.. tags: humanismo, ateísmo
+.. category: Sociedad y religión
+.. date: 2002-01-01 00:00:00
+.. description: En el camino de curiosear, el ateo aprende, entiende, se vuelve consciente de su existencia y del lugar que ocupa en el Universo.  Por supuesto, en ese momento llega a la conclusión de la inexistencia de los dioses, de su total inutilidad.
+.. title: Curiosidad, ante todo
+
+.. class:: primera
+
+Amanece en Benarés, India.  Un viejo se desliza lentamente, casi arrastrándose, hacia la orilla del Ganges, el río milenario donde durante muchos años, millones de hindúes llegan, por lo menos una vez en la vida, a bañarse en sus cálidas aguas como parte de una tradición sagrada.  Aquel viejo por fin ha cumplido su sueño, ha esperado muchos años para llegar ahí, y en su cuerpo se nota el cansancio, el peso de cada día vivido.  Se desnuda lentamente, como si cada prenda fuera de plomo, y sus gestos son los de una persona que por fin se libera de su carga.  Al cabo de unos minutos, desnudo ya, entra cuidadosamente al agua, mientras la corriente acaricia sus artríticas piernas, y se lava la cara, confundiéndose el agua que lleva en las manos con la que surge de sus ojos.  Su cara, presa de la emoción, denota la alegría de cumplir las exigencias de sus dioses.  Unos dioses en los que confía compensarán el largo trayecto recorrido, el penoso caminar por montañas y valles, de día y de noche, limpiándolo de todo pecado. Cerca de ahí, un recién nacido se entretiene con las cuentas del collar que su madre ostenta.  Ingenuo, inocente, feliz, ignorante de lo que pasa a su alrededor, se deja llevar por las aventuras que el movimiento de las cuentas le proponen.  Para él, que no es siquiera consciente de su propia existencia, que ni siquiera sabe adónde está, no existe más mundo que el que tiene enfrente.  En cuanto a sus dioses, parece que ni siquiera sabe que existen, a pesar que su madre está esperando el turno para poderlo sumergir en el río sagrado, y a la vez, comenzar a introducirlo, desde pequeño, en el mar de ideas, dogmas y creencias que lo acompañarán a lo largo de toda su vida.  El viejo termina de bañarse.  Se viste, y lentamente pasa cerca del recién nacido.  Finalmente se aleja, perdiéndose entre la multitud de hindúes que abarrotan la orilla del río.
+
+La Iglesia de la Merced luce iluminada por las lámparas de la plaza.  La indígena, camina apresurada entre los pocos turistas que todavía deambulan por las calles de Antigua Guatemala.  Distraída por lo divertido del atuendo de uno de ellos, tropieza con una anciana gorda, ataviada con un rosario entre sus manos y un chal cubriéndole la cabeza.
+
+El reverendo limpia esmeradamente la ventana del cuarto donde vive, mientras pasan frente a él unos señores de negro con largas trenzas colgando bajos sus sobreros. En el templo baptista lo esperan ansiosamente sus seguidores, por lo que deja a medio limpiar la ventana ensuciada sin duda por niños armenios de la localidad.
+
+Y mientras el médico agradece a su dios por haber traído exitosamente al bebé en la sala de partos del Hospital Metropolitano de Zaragoza, el viejo lucha contra la muerte en su carpa, solo, sin nadie que lo auxilie, víctima de la picada de un escorpión que buscaba alimento en el Sahara, y abandona este mundo descreyendo de los dioses inventados por la humanidad, sin el más mínimo arrepentimiento y sintiéndose en paz consigo mismo.
+
+¿Por qué somos tan diferentes?, ¿Acaso somos más inteligentes?.  La respuesta parece ser negativa.  Pero entonces, ¿Por qué nosotros los ateos podemos vivir sin creer en ninguna deidad?, ¿Cómo podemos ir por el mundo sin necesidad de los dioses?.  Probablemente la respuesta está en nuestra curiosidad.  Es ahí donde estriba la diferencia.  El ateo curiosea, vive la vida, queriendo conocer a fondo cómo funciona este mundo; no se conforma con el simple hecho de existir.  En el camino de curiosear, el ateo aprende, entiende, se vuelve consciente de su existencia y del lugar que ocupa en el Universo.  Por supuesto, en ese momento llega a la conclusión de la inexistencia de los dioses, de su total inutilidad.  No puede la creencia en un dios, ser compatible con el entendimiento al que llega el ateo.  Por otra parte, el creyente cree entender su mundo.  Encuentra “lógica” la existencia de su dios, y cree que éste es el único capaz de darle sentido al mar de ideas que llenan su mente.
+
+En este sentido, el creyente no es tan diferente a nosotros los ateos: tenemos las mismas preguntas que hacernos, las mismas dudas.  Pero nuevamente la curiosidad nos diferencia.  El creyente, reprime su curiosidad –si es que acaso la tiene – y se entrega dócilmente al dios que él mismo ha inventado.  Se automutila el cerebro, y deja de interesarse por su provenir y por su devenir.  Le llama milagro o divino a todo lo que no entiende, y cree que no tiene sentido indagar más.  Su curiosidad muere, aplastada por la maravillosa ignorancia escogida.
+
+El ateo, en cambio, es consciente que no todos los fenómenos son explicables con los mecanismos y conocimientos que la humanidad posee en este momento.  Sin embargo, no renuncia a su curiosidad y continúa ávido de conocer, de entender, de vivir, y de saber cómo inició y acabará esta novela que la materia recrea.
+
+
+.. include:: <isonum.txt>
+.. include:: includes/socre_pie.inc

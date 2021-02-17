@@ -1,0 +1,82 @@
+﻿.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB200
+.. author: Mark Isaak. traducción de Samuel Martínez de la Iglesia
+.. nocomments: True
+.. slug: CB200_1
+.. link: http://www.talkorigins.org/indexcc/CB/CB200_1.html
+.. date: 2003-12-15
+.. title: CB200.1: El flagelo bacteriano es irreduciblemente complejo
+.. description: Respuesta a la afirmación creacionista «El flagelo bacteriano es irreduciblemente complejo»
+.. type: afirmacrea
+
+El flagelo bacteriano y los cilios eucariotas son :doc:`irreduciblemente complejos <CB200>`. Como las formas intermedias no funcionales no pueden ser preservadas por la selección natural, estos sistemas solo pueden ser explicados mediante el diseño inteligente.
+
+**Fuente:**
+
+Behe, Michael J. 1996. Darwin's Black Box, New York: The Free Press, pg: 59-73.
+
+Respuesta
+============
+
+1. Este es un ejemplo del :doc:`argumento de incredulidad personal <CA100>`, porque la complejidad irreducible puede evolucionar de forma natural. Muchas de las proteínas que se encuentran en el flagelo bacteriano o en el cilio eucariota son similares entre sí y con proteínas con otras funciones. Sus orígenes pueden ser facilmente explicados por una serie de duplicaciones génicas seguidas por un proceso de modificación y/o exaptación de la extructura, ocurriendo esto gradualmente a través de estados intermedios diferentes y más simples que el flagelo final.
+
+   La posible ruta evolutiva del flagelo puede haber seguido las siguientes etapas (recordad que es un resumen, y cada proceso importante de cambio de función de una adaptación biológica es seguido de largos períodos de optimización gradual de la función):
+
+   a. Un poro en la membrana plasmática (transporte pasivo y no específico) evoluciona en un poro más específico por la adición de proteínas *compuerta*. Posteriormente el transpore pasivo se convierte en transporte activo por adición de una ATPasa que usa la energía de la hidrólisis del ATP para exportar moléculas fuera del interior de la célula. Este complejo forma un complejo de secrección tipo III primitivo.
+
+   b. El complejo secretorio tipo III primitivo se convierte en el complejo de secrección tipo III (T3SS o inyectisoma) por la adición de proteínas del poro de la membrana externa (secretina y chaperona) desde el complejo de secrección tipo II. Esto, eventualmente forma los anillos P y L, respectivamente, del flagelo moderno. El complejo de secrección tipo III moderno tiene una estructura sorprendentemente similar a las estructuras de la viela y el anillo del flagelo ([Hueck_1998]_; [Blocker_et_al_2003]_).
+
+   c. El T3SS secreta varias proteínas, una de ellas es una adhesina (una proteína que sirve para que la célula se adhiera a otras células o a un substrato). La polimerización de esta adhesina forma un pilus primitivo, una extensión que aumenta la capacidad de adhesión de la célula. Después de la esta gradual evolución del pilus T3SS, este, mediante duplicación y subfuncionalización de las proteínas que lo componen (pilinas) adquiere varias nuevas tareas más especializadas.
+
+   d. Un complejo de bomba de iones con otra función en la célula, se asocia fortuitamente con la base de la estructura de secrección, convirtiendo el pilus en un protoflagelo primitivo (protofilamento).  La función inicial del protoflagelo es mejorar la dispersión. Actuamente, se sabe que proteínas homólogas de las proteínas motoras MotA y MotB se encuentran y tienen función en varios organismos procariotas independientemente de si tienen flagelo o no.
+
+   e. La unión de una proteína de transducción de señales a la base del sistema de secrección regula la velocidad de rotación dependiendo del estado metabólico de la célula. Esto promueve una deriva (de movimiento) hacia las regiones favorables y lejos de las regiones pobres en nutrientes, tales como en los que hay superhábit de bacterias. Esto supone el principio de la movilidad quimitáctica.
+
+   f. Varias mejoras siguieron después del origen de esta función incipiente. Notablemente, muchas de las diferentes proteínas axiales (el filamento, el engranaje, los conectores, el capuchón) se originaron por la duplicación y subfuncionalización de las pilinas de la estructrua axial primitiva del flagelo. Estas proteínas acabaron formando la familia de proteínas axiales.
+
+   El cilio eucariota (también llamado flagelo o undulipodio) es sustancialmente diferente del flagelo bacteriano. Probablemente se originó como una extensión del huso mitótico en un eucariota primitivo (ambas estructuras hacen uso de los microtúbulos y las dineinas). Cavalier-Smith ([Cavalier_Smith_1987]_; [Cavalier_Smith_2002]_) ha debatido acerca del origen de estos sistemas en varias ocasiones.
+
+2. El flagelo bacteriano no es irreducible. Algunos flagelos bacterianos funcionan sin los anillos L y P. En experimentos con varias bacterias, se ha descubierto que algunos componentes (como el FliH, FliD (cap) y el dominio muramidasa (o lisozima) de FlgJ) son útiles pero absolutamente imprescindibles ([Matzke_2003]_). Un tercio de los 497 aminoácidos del flagelo fueron eliminados sin dañar su función ([Kuwajima_1988]_). Además, muchas bacterias tienen proteínas adicionales que se necesitan para su propio flagelo pero no se requieren en el flagelo "estándar" de *Escherichia coli*. Bacterias diferentes tienen diferente numero de proteínas flagelares (en *Helicobacter pylori*, por ejemplo, solo son necesarias 33 proteínas para producir un flagelo funcional), así que el ejemplo favorito de Behe de complejidad irreducible en realidad parece exhibir bastante variabilidad en términos de cantidad de partes necesarias ([Ussery_1999]_).
+
+   El cilio eucariota está formado por más de 200 proteínas distintas, pero incluso aquí la irreducibilidad es solo una ilusión. Behe (1996) insinuó y, previamente, Denton ([Denton_1986]_, 108) expuso explícitamente que la estructura común de la tubulina 9+2 del cilio no podría ser simplificada de forma sustancial. No obstante, se conocen cilios funcionales 3+0, sin muchos de los microtúbulos ni de las dineínas (que sirven de unión) ([Miller_2003]_; [Miller_2004]_).
+
+3. El flagelo de las bacterias, el de las arqueas y el cilio tienen configuraciones completamente distintas para la misma función. Este hecho es de esperar si se considera que evolucionaron de forma separada, pero no tendría ningún sentido si se tratase del trabajo del mismo diseñador.
+
+Enlaces
+===========
+
+Matzke, N. J. 2003. Evolution in (brownian) space: a model for the origin of the bacterial flagellum. http://www.talkdesign.org/faqs/flagellum.html o también http://www.talkreason.org/articles/flag.pdf (ver también 'Background to "Evolution in (Brownian) space"', http://www.talkdesign.org/faqs/flagellum_background.html o también  http://www.talkreason.org/articles/flagback.cfm)
+
+Dunkelberg, Pete. 2003. Irreducible complexity demystified. http://www.talkdesign.org/faqs/icdmyst/ICDmyst.html
+
+Musgrave, Ian. 2000. Evolution of the bacterial flagella. http://www.health.adelaide.edu.au/Pharm/Musgrave/essays/flagella.htm
+
+Referencias
+==============
+
+.. [Blocker_et_al_2003]    Blocker, Ariel, Kaoru Komoriya, and Shin-Ichi Aizawa. 2003. Type III secretion systems and bacterial flagella: Insights into their function from structural similarities. *Proceedings of the National Academy of Science USA* 100(6): 3027-3030  http://www.pnas.org/cgi/content/full/100/6/3027
+.. [Cavalier_Smith_1987]    Cavalier-Smith, T. 1987. The origin of eukaryote and archaebacterial cells. *Annals of the New York Academy of Sciences* 503: 17-54.
+.. [Cavalier_Smith_2002]    Cavalier-Smith, T. 2002. The phagotrophic origin of eukaryotes and phylogenetic classification of Protozoa. *International Journal of Systematic and Evolutionary Microbiology* 52: 297-354.
+.. [Denton_1986]    Denton, M. 1986. *Evolution: A Theory in Crisis.* Bethesda, MD: Adler & Adler.
+.. [Hueck_1998]    Hueck, C. J. 1998. Type III protein secretion systems in bacterial pathogens of animals and plants. *Microbiology and Molecular Biology Reviews* 62: 379-433.
+.. [Kuwajima_1988]    Kuwajima, G. 1988. Construction of a minimum-size functional flagellin of Escherichia coli. *Journal of Bacteriology* 170: 3305-3309.
+.. [Matzke_2003]    Matzke, N. J. 2003. (vide supra)
+.. [Miller_2003]    Miller, K. 2003. Answering the biochemical argument from design. in: Manson, N. (Ed.), *God and design: the teleological argument and modern science*, Routledge, London, pg. 292-307.
+.. [Miller_2004]    Miller, K. 2004. The flagellum unspun. En *Debating Design: from Darwin to DNA*, 81-97, eds. Dembski, W., and M. Ruse, New York: Cambridge University Press. http://www.millerandlevine.com/km/evol/design2/article.html
+.. [Ussery_1999]    Ussery, David. 1999. (vide infra)
+
+Otras lecturas
+================
+
+Ussery, David. 1999. A biochemist's response to "The biochemical challenge to evolution". *Bios* 70: 40-45. http://www.indiana.edu/~ensiweb/behe.rev.html
+
+/////
+
+Anterior: :doc:`CB200` | Siguiente: :doc:`CB200_1_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

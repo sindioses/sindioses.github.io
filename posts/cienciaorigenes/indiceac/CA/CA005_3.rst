@@ -1,0 +1,58 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA000
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA005_3
+.. link: http://www.talkorigins.org/indexcc/CA/CA005_3.html
+.. date: 2007-10-07 01:00:00+00:00
+.. title: CA005.3: T. H. Huxley era racista
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «T. H. Huxley era racista»
+
+Thomas H. Huxley era racista. Dijo:
+
+    Ningún hombre racional, que conozca los hechos, cree que el negro promedio es igual [...] al hombre blanco. Y si esto es cierto, es simplemente increíble que, cuando se retiran todas sus discapacidades [...] sea capaz de competir exitosamente con su rival de cerebro más grande y mandíbula más chica, en un concurso que se lleve a cabo con pensamientos y no con mordiscos.
+
+Fuente:
+=========
+
+* Morris, Henry M. 1973. Evolution and modern racism. Impact 7 (Oct.). http://www.icr.org/index.php?module=articles&action=view&ID=55
+* Foust, Scott, 2005. Evolution perpetuates racist ideologies. The News Record (Cincinnati), Feb. 14, 2005.
+
+Respuesta
+===========
+
+1. La opinión de Huxley sobre la inferioridad de los negros no era un producto de la evolución, sino la actitud predominante de la época. Era menos racista que la mayoría de sus contemporáneos. Abraham Lincoln, por ejemplo, tenía prácticamente la misma opinión que Huxley:
+
+    No tengo el propósito de introducir la igualdad política y social entre las razas blanca y negra. Hay una diferencia física entre las dos, la cual, a mi juicio, impedirá probablemente para siempre que vivan juntos en un plano de perfecta igualdad, y en vista de que es una necesidad que haya una diferencia, estoy, al igual que el Juez Douglas, en favor de que la raza a la que pertenezco tenga la posición superior. Nunca he dicho nada en contrario, pero sostengo que a pesar de esto, no hay razón en el mundo para que los negros no gocen de todos los derechos enumerados en la Declaración de Independencia: el derecho a la vida, la libertad y la búsqueda de la felicidad. Sostengo que tiene igual derecho que el hombre blanco a esas cosas. Estoy de acuerdo con el Juez Douglas en que no son mis iguales en muchos aspectos, ciertamente no en el color; quizá no lo son en atributos intelectuales; pero en el derecho de comer sin pedir permiso a nadie el pan ganado con sus propias manos, es igual a mí y es igual al Juez Douglas, y es igual a cualquier otro hombre [Lincoln_1858]_.
+
+2. En el sentido en que el racismo promueve el tratamiento preferencial de un grupo sobre otro, Huxley no era racista. La cita que antecede viene de un ensayo en el que Huxley argumenta contra la esclavitud y en favor de igual tratamiento de los negros y las mujeres ([Huxley_1865]_, pp. 66-67). Para su época, era un reformista radical.
+
+   La Sra. P. A. Taylor, de la Ladies London Emancipation Society (Sociedad Londinense Femenina por la Emancipación) dijo de Huxley:
+
+     Cree en la doctrina de la libertad, o iguales derechos para todos los hombres, y declara que el sistema de la esclavitud es una abominación hasta las raíces, volviendo así su definición fisiológica del lugar de los negros entre los hombres el equivalente a una entusiasta declaración en favor de la emancipación de los negros. Es más, como se ha señalado, va más allá y, en virtud de la fuerza de sus sentimientos en relación con la esclavitud, reconoce un estado de opinión respecto de la Guerra Estadounidense en en cual muchos que comparten su opinión respecto de la esclavitud se niegan a acompañarlo [Taylor_1864]_.
+
+3. Las opiniones de Huxley o cualquier persona son irrelevantes con respecto al hecho de la evolución. La evolución se basa en evidencia, no en la opinión de las personas.
+
+Enlaces
+===========
+
+* Hurd, Gary. 2005. Creationist hate mongering. http://www.pandasthumb.org/pt-archives/000828.html
+
+Referencias
+============
+
+.. [Huxley_1865]	Huxley, T. H. 1865. Emancipation – Black and white. http://aleph0.clarku.edu/huxley/CE3/B&W.html
+.. [Lincoln_1858]	Lincoln, Abraham. 1858. Sixth debate with Stephen A. Douglas, at Quincy, Illinois, Oct. 13. http://www.nps.gov/liho/debate6.htm
+.. [Taylor_1864]	Taylor, P. A. 1864. Professor Huxley on the Negro question. http://aleph0.clarku.edu/huxley/comm/Books/Taylor.html
+
+/////
+
+Anterior: :doc:`CA005_2` | Siguiente: :doc:`CA006`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

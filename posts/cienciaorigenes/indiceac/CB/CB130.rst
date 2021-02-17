@@ -1,0 +1,55 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB130
+.. link: http://talkorigins.org/indexcc/CB/CB130.html
+.. date: 2003-09-25
+.. title: CB130: El ADN "basura" no es realmente basura
+.. description: Respuesta a la afirmación creacionista «El ADN "basura" no es realmente basura»
+.. type: afirmacrea
+
+El ADN llamado "basura" no es realmente basura. Se han encontrado funciones para el ADN no codificante que previamente se consideraba basura, y no podemos estar seguros de que el resto del ADN basura no es también funcional.
+
+**Fuente:**
+
+Behe, Michael J., 2003. A functional pseudogene?: An open letter to Nature. http://www.arn.org/docs2/news/behepseudogene052003.htm
+
+Respuesta
+==============
+
+1. Se ha sabido desde hace mucho que algún ADN no codificante tiene funciones importantes. (Esto se sabía incluso antes de que se acuñara la frase "ADN basura".) Sin embargo, hay evidencia fuerte de que mucho ADN no tiene función:
+
+   * Pueden cortarse o reemplazarse secciones de ADN con secuencias aleatorias sin efecto evidente en el organismo ([Nobrega_et_al_2004]_).
+   * Algunas secciones del ADN son copias corruptas de ADN codificante funcional, pero las mutaciones en ellas, tales como codones de parada tempranos en la secuencia, muestran que no pueden haber retenido la misma función que la copia codificante.
+   * Los peces fugu tienen un genoma que es un tercio más grande que el de sus parientes más cercanos.
+   * Las mutaciones en las regiones funcionales del ADN muestran evidencias de selección: cambios con expresión se producen menos frecuentemente de lo que se esperaría por azar. En otras secciones de ADN, no hay evidencia de que que haya habido cambios contra los cuales seleccionar.
+
+Enlaces
+========
+
+EvoWiki, 2004. Junk DNA. http://www.evowiki.org/wiki.phtml?title=Junk_DNA
+
+Referencias
+=============
+
+.. [Nobrega_et_al_2004] Nóbrega, Marcelo A., Yiwen Zhu, Ingrid Plajzer-Frick, Veena Afzal and Edward M. Rubin, 2004. Megabase deletions of gene deserts result in viable mice. *Nature* 431: 988-993.
+
+Otras lecturas
+==================
+
+Knight, J., 2002. Evolutionary genetics: All genomes great and small. *Nature* 417: 374-376, http://www.nature.com/cgi-taf/DynaPage.taf?file=/nature/journal/v417/n6887/full/417374a_r.html
+
+CHI, 2003. DNA glossary. http://www.genomicglossaries.com/content/DNA.asp (se necesita registrarse)
+
+
+/////
+
+Anterior: :doc:`CB121` | Siguiente: :doc:`CB141`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

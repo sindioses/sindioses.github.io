@@ -1,0 +1,51 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2005-6-18
+.. type: afirmacrea
+.. title: CB035: Los experimentos de Miller hacían una presunción incorrecta sobre el tipo de atmósfera
+.. description: Respuesta a la afirmación creacionista «Los experimentos de Miller hacían una presunción incorrecta sobre el tipo de atmósfera»
+.. slug: CB035
+.. link: http://www.talkorigins.org/indexcc/CB/CB035.html
+
+En el experimento de Miller que demostraba la formación de compuestos orgánicos complejos a partir de compuestos simples, la composición atmosférica usada era una atmósfera reductora, sin oxígeno libre. La tierra temprana probablemente tenía una atmósfera más oxidante.
+
+**Fuente:**
+
+Watchtower Bible and Tract Society. 1985. *Life--How Did It Get Here?* Brooklyn, NY, pp. 40-41. 
+
+Respuesta
+=========
+
+1. Desde su primer experimento, Miller y otros también han experimentado con otras composiciones atmosféricas ([Chang_et_al_1983]_; [Miller_1987]_; [Schlesinger_y_Miller_1987]_; [Stribling_y_Miller_1987]_). Las moléculas orgánicas complejas se forman en un amplio rango de condiciones prebióticas.
+2. Es posible que :doc:`la vida surgiera <CB010_2>` muy lejos de la atmósfera; por ejemplo, cerca de respiraderos hidrotérmicos en el mar profundo. Esto podría hacer que el contenido atmosférico fuera generalmente irrelevante.
+3. La atmósfera temprana, incluso si era oxidante, :doc:`no era tan oxidante <CB035_1>` como lo es hoy. Era ligeramente elevada en nitrógeno, lo que facilita la formación de moléculas orgánicas ([Tian_et_al_2005]_).
+   
+Enlaces
+=======
+
+Gishlick, Alan D. n.d. Icons of evolution? Miller-Urey experiment. http://www.ncseweb.org/icons/icon1millerurey.html
+
+Tamzek, Nic. 2002. Icon of obfuscation. http://www.talkorigins.org/faqs/wells/iconob.html#Miller-Urey
+
+Referencias
+===========
+
+.. [Chang_et_al_1983]    Chang, S., D. DesMarais, R. Mack, S. L. Miller, and G. E. Strathearn. 1983. Prebiotic organic syntheses and the origin of life. En: Schopf, J. W., ed., *Earth's Earliest Biosphere: Its Origin and Evolution*. Princeton, NJ: Princeton University Press, pp. 53-92.
+.. [Miller_1987]    Miller, S. L. 1987. Which organic compounds could have occurred on the prebiotic earth? *Cold Spring Harbor Symposia on Quantitative Biology* 52: 17-27.
+.. [Schlesinger_y_Miller_1987]    Schlesinger, G. and S. L. Miller. 1983. Prebiotic synthesis in atmospheres containing CH4, CO, and CO2. I. Amino acids. *Journal of Molecular Evolution* 19: 376-382.
+.. [Stribling_y_Miller_1987]    Stribling, R. and S. L. Miller. 1987. Energy yields for hydrogen cyanide and formaldehyde syntheses: the HCN and amino acid concentrations in the primitive ocean. *Origins of Life and Evolution of the Biosphere* 17: 261-273.
+.. [Tian_et_al_2005]    Tian, F., O. B. Toon, A. A. Pavlov and H. De Sterck. 2005. A hydrogen-rich early Earth atmosphere. *Science* 308: 1014-1017. Cfr. Chyba, C. F. 2005. Rethinking Earth's early atmosphere. *Science* 308: 962-963. 
+
+		
+/////
+
+Anterior: :doc:`CB030_1` | Siguiente: :doc:`CB035_1`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

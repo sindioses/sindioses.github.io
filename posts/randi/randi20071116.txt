@@ -1,0 +1,337 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. title: La dinámica de Machina Dynamica. El regreso de Yahweh. Trucos viejos. ¿Un gran fantasioso homeopático?. De regreso a la superstición. Oficialmente tonto. Respeto a la mitología étnica. Ron divaga. Nuevo partido en Australia. Astrología. Cosas borrosas. Comparta nuestro problema
+.. author: James Randi, traducción de Graciela Lorenzo Tillard
+.. date: 2007-11-16 00:00:00
+.. type: randi
+.. category: Traducciones de James Randi
+
+.. contents:: Contenido
+   :class: sidebar
+   :local:
+
+La dinámica de Machina Dynamica
+...............................
+
+.. figure:: http://www.randi.org/images/commentary/200711/HMV.jpg
+   :alt:
+   :figwidth: 254
+
+   Hum... A mí me suena a cháchara...
+
+Vean `la columna del 9 de noviembre de 2007 <randi20071109.html#tienen-que-ver-esto>`__ para refrescar su memoria acerca de una gran estafa absurda usada para sacarles efectivo a los ingenuos fanáticos del audio. Como les he dicho antes a los lectores, a menudo me involucro en tratar de establecer una correspondencia con los estafadores, y a veces eso resulta en prolongados intercambios. Con eso en mente, lean los siguientes correos electrónicos entre el lector Matt Schaffner y Geoff Kait, el genio detrás de toda esta farsa de Machina Dynamica. Matt me escribió:
+
+    Enseño tecnología musical en una reconocida universidad en Louisville, Kentucky. Cuando leí su anuncio sobre las invenciones en Machina Dynamica, quedé pasmado ante sus impresionantes afirmaciones. Sabiendo perfectamente que son un fraude total, estuve atormentando al creador de la compañía con mensajes de correo. Todos los signos clásicos de lo fantasioso están aquí: no hay referencias reputadas, no hay pruebas externas, los dispositivos trabajan por misteriosos aprovechamientos de las leyes de la mecánica cuántica, etcétera. Pensé que usted podría estar interesado en nuestro actual intercambio de correo. Este hombre le está robando dinero a las personas. Por favor permítame saber si puedo contribuir a su causa ayudando a exponer a este hombre.
+
+Sigue el intercambio de mensajes. Primero, Matt se acercó al ejecutivo en jefe de Machina Dynamica:
+
+    Geoff, doy clases sobre tecnología musical en una reconocida universidad. Me gustaría probar algunos de sus productos y publicar material sobre ellos. Estoy muy excitado ante la posibilidad de ver y escuchar algunos de sus dispositivos. ¿Hay alguna manera en que podamos discutirlo?
+
+Sigue una pronta respuesta de Geoff Kait:
+
+    Hola, Matt, gracias por su interés en Machina Dynamica. Con todo respeto declino presentar alguno de nuestros productos para hacer pruebas.
+
+Persistiendo, Matt contestó:
+
+    ¿Tiene usted material publicado sobre las pruebas y rendimiento de sus productos?
+
+Geoff contestó con una desesperada excusa:
+
+    Matt - Toda la información de pruebas es reservada. Los datos de rendimiento son también reservados. Toda la información que consideramos relevante está publicada en el sitio web de Machina Dynamica.
+
+Traduciendo: "No". Matt, siempre paciente, preguntó:
+
+    De acuerdo, lo comprendo. Quería desarrollar una comparación en clase de sus artículos con otros bien conocidos productos de audio. Además, iba a publicar algún trabajo con respecto a la comparación entre tecnologías de audio de máxima prestación. ¿Cómo puedo conseguir la información sobre sus datos? ¿Hay alguna crítica de sus productos en revistas o en línea?
+
+En un tono algo ominoso, Machina Dynamica respondió:
+
+    No creo que usted se dé cuenta en qué se está metiendo. Hay tanta información disponible en línea que no tendrá tiempo suficiente en un año o dos para revisarlo totalmente, mucho menos para llegar a conclusiones sobre la eficacia de estos productos o cómo se comparan con otros.
+
+    Había una crítica de Chip Inteligente por 2 PhDs en 6 Moons en enero 07: http://www.6moons.com/audioreviews/photoncannons/photoncannons.html. Había una crítica de Clever Little Clock en Positive Feedback el año pasado: http://www.positive-feedback.com/Issue23/clock_nespa.htm. Tengo un documento oficial en Brilliant Pebbles en: http://www.machinadynamica.com/machina17.htm. Tengo un trabajo sobre el Chip Inteligente en: http://www.machinadynamica.com/machina64.htm. Una crítica de la Caja Inteligente por 2 PhDs en http://www.6moons.com/audioreviews/machinadynamica2/ib.html.
+
+A pesar de la masa de datos contenidos en estas referencias, nuestro único interés en la |JREF| es: *¿funciona la cosa?* De forma semejante, Matt le aseguró a Geoff que no se dejaba intimidar:
+
+    Tengo estudiantes que pueden filtrar gran parte de esta información. También, leer cosas así es lo que hago para ganarme la vida. Tengo abundante tiempo para leer, y si sólo paso un año haciendo una investigación entonces me siento feliz. Cualquier material adicional que tenga sería provechoso. ¿Tiene algún otro sitio web?
+
+Geoff contraatacó:
+
+    Matt, mi sitio web tiene muchas páginas; hay navegación arriba de la página principal. http://www.machinadynamica.com/
+
+Siempre gentil, Matt escribió:
+
+    Gracias, las páginas en su sitio ayudaron. Ninguno de los materiales escritos parece describir el mecanismo de sus invenciones. ¿Tiene el número de patente de estos dispositivos para que pueda ver exactamente cómo trabajan? Estoy muy interesado en la Caja Inteligente y la Tarjeta. No veo exactamente qué hacen, y especialmente cómo trabajan. Soy curioso sobre qué exactamente se cambia en un CD para mejorar su sonido, cuando un CD contiene la información en la forma de una tintura. ¿Cambia la tintura de algún modo?
+
+    ¡Gracias por toda su ayuda!
+
+Entonces este ataque verbal fue respondido por Geoff:
+
+    Las patentes son demasiado costosas, además no deseo revelar cierta información así que no voy por esa ruta. Irónicamente, es mucho más seguro no tener patentes en estos casos.
+
+    La Caja Inteligente / Tarjeta Inteligente es la evolución del Chip Inteligente, que hace lo mismo que la Caja. La caja duplica el reproductor láser de los CD y pone el material activo muy cerca del CD, algo que el Chip Inteligente no hacía -el Chip estaba ubicado en la tapa del chasis del reproductor mientras el CD sonaba durante 2 segundos. Pero los efectos del Chip y de la Caja son los mismos. La explicación de la Caja es la misma que la del Chip -mecánica cuántica- interacción fotónica con el material del CD. Todo está explicado al detalle agudísimo en mi trabajo sobre el Chip Inteligente.
+
+Esto es tonterías, sin factor científico en absoluto, sólo palabras zumbonas y farsa. Y, obviamente, una patente de tales dispositivos no sería demasiado costosa, en absoluto... si trabajaran... La USPTO [Oficina de patentes y marcas de los Estados Unidos] tiende a otorgar patente a cualquier dispositivo mencionado, tanto si en realidad existen o no, y si trabajan o no. Sin embargo, encuentro dos cosas aquí con las que yo -y Matt Schaffner- podemos acordar con entusiasmo. Primero, estoy seguro, como Geoff Kait escribió, que "los efectos del Chip y de la Caja son los mismos". El Chip Inteligente hace exactamente lo mismo que la Caja Inteligente -exactamente nada. Segundo, sí, estoy seguro de que hay "detalle agudísimo" en ese erudito "trabajo".
+
+Ah, pero mientras "entrábamos en prensa", Matt informa:
+
+    Aquí está lo último de Geoff Kait en Machina Dynamica. Aparentemente ahora ha creado un limpiador de CD usando átomos "falsos" -los átomos de marca son muy costosos. Ésta es su respuesta a mi mensaje:
+
+Empieza la respuesta:
+
+    La Caja tiene un rayo láser único adentro (de modo que la caja simula la "caja" del reproductor de CD y rayo láser). La ventaja de la Caja Inteligente es que el material activo en la tarjeta es insertado en el interior de la Caja de modo que el ingrediente activo está muy cerca del rayo láser y del CD, que está ubicado en la tapa de la Caja Inteligente cuando se reproduce. La tapa de la Caja es clara de modo que el CD queda expuesto a los fotones del rayo láser y a los fotones emitidos por la tarjeta cuando el rayo láser la golpea. El ingrediente activo es contenido en una delgada capa esparcida en el interior de la tarjeta, como un sándwich. La interacción simultánea de los fotones de rayo láser y los fotones de la tarjeta con la capa de policarbonato del CD mejoran la transparencia de la capa de modo que cuando el CD es reproducido el rayo láser del reproductor de CD "lee" los datos grabados con más exactitud.
+
+Matt comenta:
+
+    ¡El ingrediente activo en la Tarjeta -y en el Chip- es en realidad átomos artificiales! Muy innovador para un producto de audio, ¿no diría?
+
+Oh, mucho...
+
+
+El regreso de Yahweh
+....................
+
+¿Recuerdan al "Profeta Yahweh"? Si no, vean `randi.org/jr/062405silly.html#7 <http://www.randi.org/jr/062405silly.html#7>`__ (aún sin traducción). Bien, está otra vez haciéndolo en Las Vegas. Nos han dicho que...
+
+    .. figure:: http://www.randi.org/images/commentary/200711/Yahweh.jpg
+       :figwidth: 316
+       :alt:
+
+       ¿Globo? ¿Qué globo?
+
+    El vidente de Yahweh, Maestro Llamador de OVNIs, fue bendecido para descubrir el antiguo arte perdido de convocar a OVNIs y naves espaciales. El Profeta Yahweh está disponible para entrevistas para que él pueda explicar cómo convoca a los OVNIs, quién son estos sobrenaturales seres del espacio, de dónde son, y por qué están aquí.
+
+Vaya, no puedo esperar. Tengo que darle crédito de una técnica bastante nueva, sin embargo. Enviar varios globos en la dirección del viento a tiempo para-notificar-y-reunir a los medios de comunicación para verlos flotar contra el viento, es algo ingenioso. Y al parecer ahora está preparando un nuevo globo para ser lanzado el próximo mes:
+
+    El Profeta predice que, en el mes de noviembre de 2007, los Ángeles de YAHWEH desembarcarán en una espectacular nave espacial, en el Desierto de Mojave, para que él los filme y los ponga en su canal de difusión de YouTube para que el mundo los vea, lo descargue, y/o lo pongan en sus sitios web.
+
+Yahweh -su nombre legal, a propósito- nos recuerda que ha estado viendo OVNIs desde 1979, y en caso de que no seamos capaces de calcular, nos cuenta que es "más de un cuarto de siglo atrás". No deseando ignorar la posibilidad de que algunos ingenuos confundidos puedan realmente creerle sobre las próximas manifestaciones, el Profeta Yahweh, Maestro Llamador de OVNI, alegremente tomará su dinero:
+
+    El Profeta también enseña a la gente cómo invocar observaciones en su Escuela de Convocación de OVNI ubicada en: http://groups.yahoo.com/group/ufosummoningschool.
+
+Echen un vistazo y vean la estafa trabajando.
+
+
+Trucos viejos
+.............
+
+En respuesta a las preguntas que he recibido, aquí tienen un resumen del repertorio de Uri Geller, que he mencionado frecuentemente. Como verán, es muy limitado...
+
+En marzo de 2006, la BBC -al parecer cometiendo el error de conectar a Uri Geller con la ciencia verdadera- llevó a cabo una "prueba" de sus supuestos poderes -diseñada por el mismo Geller, por supuesto- durante el Festival Anual de Ciencia de Wrexham. ¡Y adivinen qué, amigos! ¡Geller hizo la misma, vieja y esperada demostración de escoger-un-símbolo-ESP, la misma que utilizó en el reciente programa "Fenómeno", excepto que sustituyó un triángulo por el símbolo de "líneas onduladas"! Es uno del puñado de trucos que hace. Aquí pueden ver el juego de dibujos que hizo, de los que los participantes debían elegir. ¿Les parece familiar?
+
+.. image:: http://www.randi.org/images/commentary/200711/ESP.jpg
+   :alt:
+   :align: right
+
+De modo que, ¿exactamente cuánta investigación hizo en realidad la NBC sobre Geller y su muy limitado repertorio antes de contratarlo para que se siente y haga comentarios inanes sobre este programa estadounidense de primera línea? Apostaría a que no hicieron ninguna en absoluto, porque todos estos datos estaban fácilmente disponibles vía Google -o llamando a la |JREF|. En 2006, por ejemplo, la BBC presentó un informe, respecto a esa "prueba":
+
+    Las personas que tomaron parte en nuestra divertida prueba de percepción extrasensorial con el gurú paranormal Uri Geller adivinaron correctamente lo que él estaba pensando -la forma de una estrella. Uri había dibujado a mano cinco formas y le dijo a las personas que "sintonizaran" sus pensamientos utilizando su poder de concentración. Asombrosamente, el 53% de las personas adivinaron la respuesta correctamente con un 15% para el cuadrado y otro 15% para el triángulo.
+
+No, no hay nada "asombroso" en eso, en absoluto; vean `la columna del 2 de noviembre de 2007 <randi20071102.html#m-s-fen-meno>`__ para darse cuenta. Volviendo al elogio de la BBC:
+
+    La clave, dijo Uri, era hacer que las personas enfoquen sus pensamientos en el mismo momento del día. De modo que a las 11.11 a.m. y a las 11.11 p.m., diariamente durante la semana del Festival de Ciencia de Wrexham, Uri "transmitió" sus pensamientos. Uri dice que no hay ninguna base científica respecto a por qué la gente adivina la forma correctamente, en ésta y otras pruebas similares, pero tiene su propia teoría. Uri cree que existe un hilo invisible entre todas las personas a lo largo del cual puede transmitirse información, tal como pensamientos y emociones.
+
+Umm, no. Hay una razón perfectamente sensata, Uri, y usted lo sabe. Olvide el hilo invisible...
+
+    [Geller] dijo: "Dirijo estos experimentos todas las semanas. Cada vez que escojo una forma diferente, las personas lo captan. No tengo explicación científica para eso, pero lo hago espiritualmente. Creo que estamos comunicados unos con otros por un hilo invisible a través del cual podemos transmitir información a los demás. Nuestro cerebro puede transmitir una forma de ola o de energía que puede viajar hacia otros".
+
+Otra vez, umm, no. Geller *no* escoge formas diferentes. ¡\ *Siempre* escoge la *misma* forma -la estrella- en la *misma* posición, cada vez que hace este truco! Ah, ¿pero quizás la tensión de sentarse en una silla en NBC-TV una vez a la semana y plantear sus profundas observaciones, haya causado tensión sobre su memoria?
+
+    Uri dijo que creía que la prueba funcionaba porque la gente había participado en el momento asignado y había "ingresado en" la mente de Uri.
+
+No, Uri, ellos -y la NBC- sólo se tragaron el mismo truco que había hecho por todo el mundo...
+
+Como mencioné, el repertorio de Geller es pequeño. Consta de:
+
+1. Doblar cuchara -o llave- y / o romperla.
+2. Duplicar un dibujo "secreto".
+3. Mover la aguja de una brújula.
+4. Cambiar la hora en un reloj.
+5. El truco de escoger la tarjeta ESP, mencionada arriba.
+
+Todos estos cinco han sido totalmente expuestos como simples trucos.
+
+En épocas anteriores, Geller llevó a cabo otros trucos de mentalismo, alguno tomado directamente de la obra de Ted Annemann (1907 - 1942), por lo menos uno de "Abracadabra", una revista por suscripción y enviada por correo del Reino Unido, y algunos hechos en laboratorios como el Laboratorio de Investigación Stanford -ahora conocido como Investigación Internacional Stanford. Éstos incluían:
+
+1. La clásica Conducción Vendada -que ofreció hacer para los genios SRI, Targ y Puthoff, hasta que le dijeron que ya la conocían.
+
+2. El truco del objeto en una lata de película, que hizo en SRI y trató de hacer en el programa de Johnny Carson / Tonight Show pero que falló debido a alguna interferencia de alto nivel. Yo podría haber estado involucrado...
+
+3. La demostración del dado en una caja, que hizo en SRI.
+
+4. Ayudar a los equipos de fútbol americano para que ganen enviándoles buenos pensamientos y con "charlas para infundir ánimos" -no un éxito, sino un fracaso, a juzgar por los resultados.
+
+
+¿Un gran fantasioso homeopático?
+................................
+
+¡Increíble! El Dr. David Colquhoun, un visitante frecuente de nuestro sitio, nos señala una historia espeluznante del AFSSAPS [Agencia Francesa de Seguridad Sanitaria de Productos de la Salud] el organismo francés responsable de asegurar la eficacia, la calidad y el uso correcto de todos los productos de atención sanitaria para el uso humano. Están retirando dos preparados homeopáticos que han sido mal rotulados, sin embargo -como esperábamos- sin repercusiones potencialmente peligrosas. El error de rotulación estaba en un grupo de "tintura madre de *Gingko biloba*" y "tintura madre de *Equisetum arvense*". La Sociedad de Homeópatas tuvo esto para decir ante un examen del selecto comité sobre este tema:
+
+    Pregunta de Lord Broers: Tengo una pregunta simple y técnica sobre homeopatía y drogas. ¿Es posible distinguir entre drogas homeopáticas después de que han sido diluidas? ¿Hay medios de distinguir una de las demás?
+
+    Respuesta de la Sra. Chatfield: Sólo por la etiqueta.
+
+Debe haber habido muchas sonrisas alrededor de la habitación cuando esa respuesta fue escuchada...
+
+Laboratorios Boiron -la agencia responsable de este lamentable error- ha pedido a los farmacéuticos que tienen reservas de estos medicamentos homeopáticos que informen sobre la inversión de etiquetas para cualquier médico que pueda haber recetado estos artículos en su vecindario. El agua de *Equisetum arvense* se supone que soluciona problemas de vejiga, mientras que el *Gingko biloba* es usado para los lapsos de memoria. No puedo resistir expresar dos posibilidades que cruzaron mi mente malvada: Primero, "Equisetum arvense" me sonó -con mi abismal ignorancia del latín- como otra parte de un caballo, mientras que en realidad se refería a "cola de caballo" -una botánica. Segundo, la mezcla de estos dos tratamientos podría resultar en una víctima que olvide si tiene un trozo de Equisetum arvense...
+
+Se ha sugerido que la AFSSAPS está -apropiadamente- sólo siguiendo las reglas. Esto muestra los absurdos que pueden ocurrir cuando la "regulación" de la brujería se vuelve oficial. Un observador, un Doctor en Medicina, comentó:
+
+    Lo siento, no tengo respuesta significativa a esto, estoy demasiado ocupado alternativamente golpeando mi cabeza sobre el escritorio y rodando sobre el piso con carcajadas inútiles. Para citar un popular cliché periodístico: usted no podría inventarlo.
+
+*Zut alors! Vraiment touché!* [#fr]_
+
+
+De regreso a la superstición
+............................
+
+.. image:: http://www.randi.org/images/commentary/200711/Perdue.jpg
+   :alt:
+   :align: right
+
+El lector James Vinton nos cuenta que el gobernador Sonny Perdue del Estado de Georgia, alarmado ante una seria sequía allí, ordenó restricciones del agua, inició una batalla legal, y pidió ayuda al presidente Bush. Pero el martes, el Gobernador convocó a un Poder Más Alto, reuniendo a legisladores y ministros sobre los escalones del Capitolio estatal para rezar por lluvia. En el Cinturón Bíblico, recurrir al cielo para obtener ayuda es común y a veces incluso políticamente conveniente, como vemos.
+
+Recordamos -vean `la columna del 15 de junio de 2007 <randi20070615.html#rezadores-descontrolados>`__- cuando el Primer Ministro australiano John Howard le pidió a los practicantes que rezaran por lluvia con la esperanza de terminar rápidamente una sequía que había devastado cultivos y hecho quebrar a agricultores australianos. Los resultados de ese esfuerzo fueron algo mezclados...
+
+Ah, pero *sí* llovió el día después de que la oración fuera ofrecida, pero no sólo que ese evento había sido pronosticado por meteorología antes de que la oración fuera enviada, sino que la precipitación no fue suficiente para hacer alguna diferencia, de todos modos. Mire, Sonny, fue una pequeña broma de Dios...
+
+Pregunta Jim Vinton:
+
+    ¿Y qué opina de una Danza de Lluvia India? ¿O un sacrificio humano?
+
+Si es lo último, Jim, sugiero que empecemos con los políticos...
+
+
+Oficialmente tonto
+..................
+
+.. raw:: html
+
+   <object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/iEwCsBWO_1o&rel=1&border=0"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/iEwCsBWO_1o&rel=1&border=0" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+
+No puedo mostrarles a ustedes más elocuentemente qué tan tontas son las personas que tienen estas extrañas ilusiones, que enviarlos a http://www.youtube.com/watch?v=iEwCsBWO_1o. Este tipo es serio, amigos. Lo que está tratando de hacer o demostrar, involucrando el qi gong [#qigong]_, se me escapa, lo admito, pero traten de pasar este video sin el audio, y tendrán una risa acorde...
+
+¡Asegúrense de leer el comentario debajo del video respecto a los sonidos que hace -incluso cuando está durmiendo!
+
+
+Respeto a la mitología étnica
+.............................
+
+El lector Jonathan King nos informa:
+
+    Una historia vergonzosa está saliendo a la luz en Nueva Zelanda en  este momento, después de que muriera una mujer como consecuencia de lo que debió haber sido una muerte horrenda a manos de un grupo familiar tratando de limpiarla de "espíritus" perjudiciales. Una muchacha de 14 años está en el hospital después de la misma "ceremonia".
+
+    Una de las cosas más horrorosas sobre la historia es la sensibilidad y el respeto que los medios de comunicación en Nueva Zelanda prestan a las prácticas maoríes tradicionales, y la cantidad de personas -citadas en las historias enlazadas aquí- que aprueban estas prácticas si son hechas "correctamente".
+
+Bien, Jonathan, nosotros en los Estados Unidos apenas podemos afirmar ser algo más cultos. Aquí, tenemos fanáticos religiosos que rechazan transfusiones de sangre a sus niños y vacunaciones, todo en nombre de la superstición. Y los niños mueren... Jonathan nos envía a http://www.stuff.co.nz/4269877a8153.html y a http://www.stuff.co.nz/4271124a8153.html.
+
+
+Ron divaga
+..........
+
+.. figure:: http://www.randi.org/images/commentary/200711/LRH.jpg
+   :alt:
+   :figwidth: 254
+
+   Bla, bla, hum, bla, er, acuerdos, discusiones, bla, grupo, divergencia, relaciones...
+
+Uno no puede hacer que la Cienciología se vea más absurda de lo que ya es. Para demostrar ese argumento, les pido que lean las siguientes siete frases escritas por L. Ron Hubbard, extraídas de sus conferencias "Ruta al infinito" -cuyo título, solo, muestra la necedad del hombre y sus palabras. Abrí un libro de Hubbard al azar sólo para mostrar a un consultante en la |JREF| que nada de Hubbard tenía sentido, y obtuve esto:
+
+    En las relaciones interpersonales, usted notará que cuando tiene una persona que coincide en una decisión, usted se pone en acción. [1]_ Si una persona coincide en una decisión, usted se pondrá en acción si es una decisión de acción, y si es una de "no ser" o una decisión de inactividad, usted también quedará inactivo. [2]_ En otras palabras, usted consigue lo que quiere aprobando un acuerdo. [3]_ Esto es muy, pero muy importante en las relaciones interpersonales y es en realidad el único problema de las relaciones interpersonales. [4]_ Usted descubrirá que todas las discusiones están basadas en una incapacidad para ponerse de acuerdo. [5]_ Usted descubrirá que todas las fricciones que ocurren entre un individuo y un grupo, un individuo y otro individuo, o un grupo y otro grupo, simplemente están sobre esta base de desacuerdo. [6]_ Y este desacuerdo sucede debido a una divergencia de decisión. [7]_
+
+Un análisis simple, por los números:
+
+.. [1] Bien, tal vez. Pero apenas sorprendente.
+.. [2] Sí, eso es muy verdadero, pero creo que usted acaba de decir que...
+.. [3] También muy verdadero, pero usted también acaba de decir que...
+.. [4] ¿Quiere decir que sólo hay un problema en las relaciones interpersonales? ¡Vaya, ésa es una verdadera noticia!
+.. [5] Me parece que yo también ya lo sabía.
+.. [6] También, tal vez.
+.. [7] ¡Bien! ¡Sabía que llegaríamos a una conclusión trascendental, después de todo!
+
+(Notas del autor.)
+
+(Como una acotación al margen, creo que en este texto y en el que sigue, L. Ron realmente quería decir "relaciones en sentido humano", *relationships*, más que "relaciones lógicas", *relations* [que en inglés se expresan con palabras distintas, y Hubbard usó la segunda], -pero él fue el autor, no yo.)
+
+Amigos, aunque parezca una técnica muy infantil, es muy eficaz. Los evangelistas descubrieron este sistema muy elemental hace mucho tiempo: Decir a las personas cosas que son perfectamente obvias, cosas con las que indudablemente estarán de acuerdo, decirles las mismas cosas más de una vez, y entonces cuando esta persona se presenta a ellos con su opinión concluyente, ésta parece haber sido lograda basándose en las declaraciones previas, mientras que en realidad no tiene más nivel o importancia que las inútiles opiniones dichas para conducirle a ella. El siguiente párrafo de Hubbard, aun más oscuro que el citado previamente, dice:
+
+    Ahora, una decisión es muy difícil, a veces, de tomar. Pero es una de estas cosas escondidas, en realidad, en una discusión. Usted discute con alguien. Si separara de la discusión las decisiones por acción o inactividad -mire, una decisión puede ser por la acción o una decisión puede ser por la inactividad- y si usted ha seleccionado las decisiones de acción o inactividad que quiere efectivizar, la discusión será mínima porque usted ha aclarado el problema de las relaciones interpersonales antes de tratar de practicar las relaciones interpersonales sobre este problema. Usted ha aclarado el problema. "¿Qué quiero exactamente que esta persona haga?" O "¿Qué quiero exactamente que esta persona no haga?" Y desde allí usted propone sus discusiones...
+
+Esto es típico de lo que encontrarán en las divagaciones de Hubbard, trivialidades casi incoherentes que dan una apariencia superficial de profundidad, pero son excelentes ejemplos de los que Shakespeare describió en Macbeth:
+
+    Es un relato contado por un idiota, lleno de ruido y furia, que no significa nada.
+
+
+Nuevo partido en Australia
+..........................
+
+El lector australiano y candidato a senador Ian Bryce escribe que ahora hay un nuevo partido político en Australia, el "Partido Secular - libre de religión" (no relacionado con los escépticos) que puede ser visto en secular.org.au. Ian cree que éste es uno de los primeros partidos políticos en el mundo, basado en esta posición. Se están presentando en la próxima elección del 24 de noviembre, con dos candidatos en cada estado, un total de doce candidatos. Él lidera Nueva Gales del Sur, el estado australiano más grande.
+
+Ian también tiene una conferencia titulada "Moralidad sin Dios", que está atrayendo alguna atención. Informa que no hay ningún problema hasta ahora, y sí muchas respuestas positivas a la nueva entidad.
+
+Será realmente interesante ver cómo le va a esta valiente incursión en territorios infestados de religión. ¿Quizás nosotros en los Estados Unidos estamos listos para intentar un movimiento así...? Bien, con las presentes iniciativas basadas en la fe, no.
+
+
+Astrología
+..........
+
+Desde Australia hasta Austria en un solo salto, tenemos noticias del lector Michael Gruberbauer:
+
+    Para empezar, por favor permítame agradecerle por ser una inspiración. Es muy reconfortante saber que allí afuera hay personas que ven cómo el curanderismo está ganando impulso. Soy estudiante postgraduado y representativo en la Universidad de Viena, Departamento de Astronomía, y quería informarle sobre nuestro reciente esfuerzo por poner en público conocimiento la abominación que es la astrología.
+
+    Mire, aquí en Austria tenemos una institución semi-académica semi-privada llamada WIFI, que está ofreciendo cursos para el público (principalmente en el campo de la economía) que resultan en un título académico, o, en la mayoría de los casos, un certificado de haber aprobado el examen final exitosamente (por ejemplo, para mostrar en las entrevistas por trabajo).
+
+    Este año, 2007, el WIFI ha hecho su máximo esfuerzo a la fecha -ha dado muchos cursos que cubren temas esotéricos como Feng Shui etc.- para aventurarse en el campo del curanderismo, ofreciendo un curso de astrología, que según publicita dará una educación práctica completa a sus asistentes para abrir su propia empresa de astrología. El curso está programado para ser dictado en unos 5 meses, cubriendo temas como "medicina astral", "conversación orientada a procesos", "retórica", y mucha jerga estúpida y disparatada de astrología como, "casas kármicas", "elementos", y "Saturno, el amo del tiempo". El costo del curso es -tiene que sentarse para esto- 1.980 euros (2.900 dólares estadounidenses).
+
+    Ahora, la parte "pesada" es que el WIFI está en realidad sostenido y financiado por la Cámara de Comercio austriaca -de modo que hay dinero público en el respaldo de estos cursos. También, las personas interesadas en este curso pueden incluso solicitar dinero en el servicio público de empleo de Austria.
+
+[logo de la öga           logo.jpg]
+    Es por eso que organizamos una protesta pública, preparado en cooperación con la "Sociedad Austriaca para la Astronomía y la Astrofísica" (ÖGAA) y observatorios públicos, que tuvo lugar recientemente, y a pesar del mal tiempo, había unas 50 personas en el lugar, principalmente académicos. Fue cubierto por la televisión pública austriaca y algunos periódicos. También estuvo presente un corresponsal europeo de "Science", con quien estamos preparando un artículo para esa revista.
+
+    Ya podemos informar sobre un pequeño éxito: el sitio web del WIFI (http://www.wifi.at/) ha quitado todo contenido vinculado con el curso de astrología.
+
+    Ya que el anuncio de la protesta ha sido cubierto por las páginas web de ingreso de la mayoría de los periódicos más grandes en Austria, esperamos que la misma protesta genere mucho interés público, también. También pensamos continuar la presión ofreciendo conferencias que describan los problemas con la astrología, dictadas por estudiantes en observatorios públicos. También, representando el Departamento de Astronomía, actualmente están en estado de planificación unos ensayos para periódicos y discusiones públicas.
+
+    Por lo tanto, aunque -estadísticamente- los europeos parecen estar a favor de la homeopatía, de las varillas de zahorí y la astrología, nuestro caso muestra que todavía es posible que los académicos y pensadores críticos en general tomen una posición por sus principios.
+
+Eso es alentador, Michael. Ahora, si usted pudiera organizar un equipo de austriacos que visiten los Estados Unidos, la India, y Sudáfrica, ¡estaríamos sumamente agradecidos...!
+
+
+Cosas borrosas
+..............
+
+Si tienen un poco menos de seis minutos mientras esperan la lasaña, o lo que sea, pueden echar un vistazo a este insulso ejemplo de ilusión de YouTube sobre "orbes" y una variedad de rocas. En particular, lean los comentarios que siguen, en particular uno de "GRIDKEEPER", que tiene la solución justo enfrente de él / ella, pero la pierde completamente. Esta gema está en youtube.com/watch?v=LOfstUtvGbs
+
+
+Comparta nuestro problema
+.........................
+
+De vez en cuando, les estaré mostrando ejemplos de qué tan difícil puede ser la vida en las oficinas de la |JREF|. La mayor parte de esta clase de material aparece en la pantalla de mi computadora, y siento que debería manejarlo. Sin embargo, a veces la tarea es más formidable que la que puedo manejar fácilmente. Consideren lo siguiente, enviado a mí por una persona que sólo puede ser descrita como una perdedora múltiple. Por supuesto, los verdaderos villanos son los buitres como Browne que pican los huesos de estos desafortunados, pero debemos reconocer que algunas víctimas ya vienen desolladas, disecadas, y listas para el escabeche... Aquí está, exactamente como fue recibido:
+[Nota: imposible reproducir los errores gramaticales y ortográficos]
+
+    Querido James,
+
+    Este correo electrónico se refiere a la mentirosa productora del millón de dólares que tima a las personas por todo el mundo con sus conferencias y engaña a las personas. La razón por la que ella no acepta su desafío de un millón de dólares es porque ella hace un millón invitando a 100 personas a su salón espiritual todos los meses. Todos los meses tiene un salón espiritual en Campbell, California, e invita a unas 50 personas en una sala y charla un montón de mierda, luego permite que las personas le hagan 3 preguntas y reciben 3 mentiras de ella. Estuve en su salón el año pasado y pagué 100 dólares para sentarme en esa sala y escuchar sus sandeces. Le hice mis 3 preguntas y básicamente me contó el nombre de mis guías espirituales y que tendré 2 niños y que encontraré un marido en un futuro próximo, y ella también me dijo su nombre. Bien, para acortar la historia, encontré un tipo de la Internet con un noviazgo inicial como ella me dijo, pero desafortunadamente el tipo era del exterior y empezó a pedirme dinero ya que yo estaba viviendo en los Estados Unidos y él vivía en un país pobre. Al final, terminé enviándole 1.000 dólares a este tipo y después descubrí que estaba casado y me estaba usando para que le enviara dinero. Bien, tenía roto el corazón, no sólo que Sylvia Browne me mintió y me cobró 1.000 dólares por su mentira, sino que además de eso fui engañada por un ladrón de la Internet pensando que Sylvia Browne es una gran psíquica y que este tipo tenía que ser mi marido. Bien, Sylvia Browne hace un par de millones de dólares sólo en su salón espiritual de Campbell, California. Sin mencionar que hace miles en sus conferencias y cruceros y anuncios en una sola presentación. También Sylvia Afirma y Recomienda a su hijo como el mejor y más exacto psíquico. Y su hijo cobra 450 dólares por una lectura de 20 minutos de teléfono por mentir. Estoy preocupada porque esto seguirá y seguirá incluso cuando Sylvia se muera su hijo continuará engañando al público. Si Sylvia es tan espiritual entonces por qué cobra 1.000 dólares por persona en su salón espiritual, por qué no difunde sus dones y espiritualidad por menos dinero. Alguien tiene que llevar a Sylvia y a Montel ante la justicia. Montel está engañando a las personas estadounidenses llevando a una mentirosa a su programa. El programa de Montel debería ser cancelado. Estoy realmente furiosa por haber malgastado 2.000 dólares por Sylvia Browne, 1.000 por su salón espiritual y 1.000 para ese tipo al que envié dinero a ultramar siguiendo el consejo de Sylvia. Le mandé un correo electrónico al programa de Montel y le pedí que me reembolsara 1.000 dólares porque es responsable de traer a esa mujer a su programa y nosotros personas inocentes vemos el programa y le creemos al principio hasta que somos engañados, y entonces averiguamos la verdad. Estoy muy desilusionada. Por eso, para acortar mi historia, Sylvia Browne no acepta su asunto del millón de dólares porque ella hace millones de dólares sólo con su salón espiritual donde les cobra 1.000 dólares a cada persona y esto ocurre todos los meses, y todos los meses tiene unas 40 personas en sus clases, y 40 personas significan 40 mil dólares, me pegunto si está pagando impuestos por todo ese dinero.
+
+No -para anticiparme a un diluvio esperado de cartas con quejas- no estoy en ningún sentido riéndome de esta desafortunada mujer por su ortografía o su gramática; puedo manejarlo, y a menudo lo hago. Estoy señalando que su falta de educación en los temas de la realidad la ha llevado a la aceptación general de lo fantasioso y le ha embotado su capacidad de percibir lo que es tan obvio para la mayoría de los demás: las personas como Sylvia Browne son despiadadas, predadoras, e intocables bajo nuestro actual sistema de justicia. Ningún político se atreve a actuar en contra de tales personas porque constantemente invocan creencias religiosas y por ello resultan atractivas para mucho más público que lo que los organismos seculares -como la |JREF|- puedan alguna vez esperar.
+
+Esta mujer -la corresponsal- es precisamente la clase de víctima que buscan los psíquicos, espiritualistas, adivinos, astrólogos, y otros artistas de la estafa. Pueden ignorar a las personas racionales, y sólo atacar a los ingenuos, de quienes pueden, y lo hacen, extraer grandes cantidades de efectivo.
+
+Nuestro amigo Robert Lancaster, que administra el poderoso sitio web stopsylvia.com, comentó sobre esta desafortunada escritora:
+
+    Esta clase de personas son pan y mantequilla para Browne... Por lo menos al final despertó y olió el café. Muchos no lo hacen.
+
+Aquellos de ustedes que asistan a la próxima Amaz!ng Meeting 5.5 aquí en Fort Lauderdale, a fines de enero de 2008, escucharán a Bob extenderse sobre este tema, y con toda autoridad responderá a sus preguntas y sus comentarios. Vean los detalles en: TAM 5.5 [http://www.randi.org/joom/content/view/48/39/]
+
+|firmarandi|
+
+**Notas**
+
+.. [#fr] En francés en el original [N. del E.]
+.. [#qigong] Disciplina tradicional china, también llamada Chi Kung. “Chi Kung [...] refiere a una diversidad de técnicas habitualmente relacionadas con la medicina china tradicional, que comprenden a la mente, a la respiración y al ejercicio físico. El chi kung se practica, generalmente, con objetivos orientados al mantenimiento de la salud, pero también en algunos casos, especialmente en China se puede prescribir con objetivos terapéuticos específicos.” (Wikipedia_)
+
+.. _Wikipedia: http://es.wikipedia.org/wiki/Chi_Kung
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: Traducido por Graciela Lorenzo Tillard
+    :description: La dinámica de Machina Dynamica — El regreso de Yahweh — Trucos viejos — ¿Un gran fantasioso homeopático? — De regreso a la superstición — Oficialmente tonto — Respeto a la mitología étnica — Ron divaga — Nuevo partido en Australia — Astrología — Cosas borrosas — Comparta nuestro problema

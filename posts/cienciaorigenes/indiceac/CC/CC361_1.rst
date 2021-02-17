@@ -1,0 +1,37 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC360
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2004-3-18
+.. slug: CC361_1
+.. link: http://www.talkorigins.org/indexcc/CC/CC361_1.html
+.. title: CC361.1: El carbón y el petróleo se pueden formar rápidamente
+.. description: Respuesta a la afirmación creacionista «El carbón y el petróleo se pueden formar rápidamente»
+.. type: afirmacrea
+
+El petróleo y al carbón se pueden formar rápidamente. Su formación es más una cuestión de calor y presión que de tiempo. No se necesitan millones de años para explicarlos.
+
+**Fuente:**
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, pp. 109-110.
+
+Respuesta
+===========
+
+1. Los depósitos de carbón muestran evidencias de una historia. La mayoría de los carbones se encuentran en rocas sedimentarias depositadas en planicies de aluvión. Con frecuencia contienen canales de corrientes, raíces y horizontes de suelo. Puede que no se necesite mucho tiempo para formar el carbón mismo, pero se necesita para explicar el contexto en el que se encuentra el carbón.
+
+Enlaces
+============
+
+MacRae, Andrew, 1994. Could coal deposits be explained by a global flood? http://www.talkorigins.org/faqs/polystrate/coal.html
+
+
+/////
+
+Anterior: :doc:`CC361` | Siguiente: :doc:`CC361_2`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

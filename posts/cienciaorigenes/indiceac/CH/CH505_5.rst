@@ -1,0 +1,39 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH500
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH505_5
+.. link: http://talkorigins.org/indexcc/CH/CH505_5.html
+.. date: 2003-5-7 02:00:00+00:00
+.. title: CH505.5: El aviador ruso Roskovitsky fotografió el arca
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «El aviador ruso Roskovitsky fotografió el arca»
+
+En 1916, una historia de Vladimir Roskovitsky contaba cómo él y otros aviadores rusos avistaron el arca, casi intacta, anclada en la costa de un lago en el Ararat. Una expedición llegó al arca cerca de un mes más tarde. Se enviaron fotografías y planos al zar, pero los bolcheviques derrocaron al zar unos días más tarde, y se perdieron las pruebas.
+
+Testimonios posteriores revelaron que el relato —incluso el nombre Roskovitsky— era 95 por ciento ficción, pero otros soldados rusos han contado que escucharon hablar de una expedición montada en 1917 para descubrir el arca de Noé, basada en algo que avistaron desde el aire en un lago.
+
+**Fuente:**
+
+LaHaye, Tim y John Morris, 1976. *The Ark on Ararat*, Nashville: Thomas Nelson Inc.
+
+Respuesta
+===========
+
+1. Se admite que la historia original es falsa. Sin embargo, el supuesto núcleo histórico de la historia tampoco soporta un examen. Se informó que un pantano lleno de serpientes impidió que la expedición llegara al arca, pero los únicos pantanos están en la base del Ararat ([Bailey_1989]_, 87).
+
+Referencias
+===============
+
+.. [Bailey_1989] Bailey, Lloyd, 1989. *Noah: The Person and the Story in History and Tradition*. Columbia, SC: University of South Carolina Press.
+
+
+/////
+
+Anterior: :doc:`CH505_4` | Siguiente: :doc:`CH505_6`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

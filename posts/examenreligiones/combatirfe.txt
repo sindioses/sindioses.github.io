@@ -1,0 +1,36 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. type: exrel
+.. author: Anahí Seri
+.. date: 2007-05-01 00:00:00
+.. tags: religión
+.. description: Sam Harris nos abre los ojos sobre las religiones en general y el Islam en particular
+.. title: Combatir la fe, salvar la humanidad
+.. category: Examinando las religiones
+
+  Sam Harris nos abre los ojos sobre las religiones en general y el Islam en particular
+
+.. class:: primera
+
+La lectura de *The End of Faith* (El final de la fe), del filósofo Sam Harris, no dejará a nadie indiferente. A algunos cristianos creyentes se les atragantará  el tercer capítulo;  los musulmanes se llevarán su varapalo más adelante. Pero todos tenemos algo que aprender de este libro, con independencia de nuestras ideas religiosas, filosóficas o políticas; y somos justamente los que nos situamos en ese espacio denominado "izquierda" quienes nos vamos a ver  más obligados a "cambiar de chip", como le ha ocurrido a quien esto suscribe.
+
+Hay una imagen poderosa e inquietante que resume muy bien la idea principal de la obra. La situación en la que nos encontramos en nuestros días, nos explica el autor, es como si se hubiera abierto un túnel del tiempo a la Europa del siglo XV, por el cual desfilan los que ejecutaban a herejes y paganos, quemaban a brujas y torturaban a librepensadores, con la diferencia de que ahora tienen a su alcance armas de destrucción masiva.
+
+El ataque frontal que Sam Harris lanza contra la fe, apunta sobre todo al Islam. Es un hecho incontestable que hay ahora mismo muchos musulmanes dispuestos a morir matando a los infieles, y la inspiración para cometer estos actos les viene del Corán. Se ha generalizado un discurso según el cual el problema de los terroristas suicidas es su fundamentalismo, dando a entender que todos los fundamentalismos son peligrosos, trátese del fundamentalismo musulmán, cristiano o hinduista. Pero las religiones no son todas iguales. Si los jainistas nos impusieran sus creencias fundamentalistas,  su respeto absoluto hacia toda la vida animal (incluida la humana, claro),  sería un duro revés para los amantes del jamón de Jabugo, e incluso los agricultores tendrían  problemas, pues habrían de prescindir de los plaguicidas. Pero no cabe duda de que viviríamos en un mundo más pacífico y armonioso que el que propugnan los islamistas.
+Mantener que el Islam es una "religión de paz", como hacen algunos, obliga a desechar un volumen muy considerable de suras, que Harris documenta de forma minuciosa. Por supuesto que también los cristianos seleccionan determinados pasajes de la Biblia, como lo de poner la otra mejilla y el "no matarás",  en detrimento de ciertos preceptos del Deuteronomio, como el de lapidar a las mujeres que no llegan vírgenes al matrimonio. Pero el musulmán pacifista lo tiene francamente difícil si quiere fundamentar su pacifismo sobre la base del Corán.
+
+El autor dedica gran parte de su libro a criticar el Islam, pues ve con claridad la amenaza que supone en estos momentos para la civilización. Pero para él, la raíz del mal está en aquello que tienen en común todas las variantes del adoctrinamiento religioso: su modo de anular la razón. La mente de la persona a la que desde su tierna infancia se ha persuadido de que ciertas cosas hay que aceptarlas porque sí, sin cuestionarlas, sin pasarlas por el filtro del entendimiento, se convierte en terreno abonado para cualquier tipo de ideología peligrosa, religiosa o política.
+
+El planteamiento de Sam Harris, más que oponerse diametralmente al "diálogo de las civilizaciones" de Rodríguez Zapatero o al "choque de las civilizaciones" de Huntingdon, se sitúa en ángulo recto con respecto a ellos. Para la izquierda europea, el Islam parece un tema tabú. La izquierda española, en particular, lo trata con mucho miramiento, arropándolo entre los algodones de la corrección política.  No quiero pensar que sea por miedo, o porque el "enemigo de mi enemigo (la derecha ultra católica) es mi amigo"; tal vez es porque muchos ven el terrorismo islámico como una respuesta al imperialismo de USA, y quieren creer que a los terroristas suicidas los mueven motivaciones económico-políticas, olvidando que los que estrellaron los aviones contra las Torres Gemelas no eran palestinos pobres ni afganos hambrientos, sino ciudadanos con gran poder adquisitivo, con estudios superiores, perfectamente integrados en Occidente. Simplemente, eran personas infectadas por la cepa más peligrosa del virus de la religión.
+
+Como es natural, Sam Harris también vierte vitriolo sobre el fundamentalismo religioso que se está adueñando de la política en USA. En el capítulo *West of Eden* (Al oeste del Edén), muestra cómo este país se ha convertido, de facto, en una teocracia, traicionando así las ideas que guiaron a los fundadores de la patria (Thomas Jefferson era ateo), alejándose de los principios de la Revolución Francesa que le sirvieron de inspiración en sus inicios.
+
+Se está apagando la antorcha de la Estatua de la Libertad.
+
+"El final de la fe" nos puede quitar el sueño en algún momento; pero su crítica, aunque demoledora, es también constructiva.  En el capítulo 6,  *A Science of Good and Evil* (Una ciencia del bien y del mal), plantea la posibilidad y la necesidad de basar nuestra moralidad en la ciencia y el conocimiento,  pensando las cosas hasta sus últimas consecuencias, y sin caer tampoco en un ingenuo pacifismo a ultranza.
+
+Apostar por la razón y desprenderse de la fe no significa renunciar a la espiritualidad. Sam Harris, gran conocedor de las filosofías orientales, en la actualidad está trabajando sobre una tesis doctoral en neurobiología,  y en el último capítulo,  dedicado a la conciencia,  tiende un puente desde la ciencia hacia la sabiduría oriental. "El misticismo es una empresa racional", afirma.
+
+Ojalá que este libro se traduzca pronto al español. Difícilmente les cambiará el modo de pensar a los creyentes fervientes. Pero puede convertir a muchos agnósticos moderados en ateos militantes, por el bien de la humanidad.
+
+.. include:: ../biografias/sam_harris.inc
+.. include:: includes/exrel_pie.inc

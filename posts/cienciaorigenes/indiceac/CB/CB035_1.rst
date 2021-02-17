@@ -1,0 +1,57 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2004-11-22
+.. type: afirmacrea
+.. title: CB035.1: La atmósfera temprana de la Tierra tenía abundante oxígeno
+.. description: Respuesta a la afirmación creacionista «La atmósfera temprana de la Tierra tenía abundante oxígeno»
+.. slug: CB035_1
+.. link: http://www.talkorigins.org/indexcc/CB/CB035_1.html
+
+El oxígeno libre es fatal para los escenarios de abiogénesis como aquellos con los que experimentó Stanley Miller. Las pruebas indican que la tierra temprana tenía una significativa cantidad de oxígeno.
+
+**Fuente:**
+
+Ankerberg, John, Steve Austin, Duane Gish and Kurt Wise. 1990. The creation debate: oxygen -- the deathblow to life? http://www.johnankerberg.org/Articles/science/SC1202W3.htm
+
+Respuesta
+=========
+
+1. Hay bastante evidencia de que la atmósfera temprana no tenía una cantidad significativa de oxígeno ([Turner_1981]_).
+   * Las formaciones de hierro en franjas son capas de hematita (Fe\ :sub:`2`\ O\ :sub:`3`) y otros óxidos de hierro depositados en el océano en un período entre hace 2500 millones de años y 1800 millones de años. La interpretación convencional es que el oxígeno apareció en la atmósfera por primera vez en cantidades significativas hace 2500 millones de años cuando evolucionó la fotosíntesis. Esto causó que el hierro libre disuelto en el agua del océano se oxidara y precipitara. Por lo tanto, las formaciones de hierro en franjas marcan la transición de una tierra temporana con poco oxígeno libre y mucho hierro disuelto en el agua, a las condiciones actuales, con mucho oxígeno libre y poco hierro disuelto.
+   * En rocas más antiguas que las formaciones con hierro en franjas, hay uranita y pirita en forma de granos de detrito, o granos sedimentarios que estaban rodando en lechos y playas de corrientes de agua. Estos mineraales no son estables por períodos largos en las condiciones actuales de alto oxígeno.
+   * Los "lechos rojos", que son sedimentos terrestres con muchos óxidos de hierro, necesitan una atmósfera oxigenada para formarse. No se encuentran en rocas mayores de 2300 millones de años, pero después se vuelven cada vez más comunes.
+   * Las firmas de isótopos de azufre de los sedimentos antiguos muestran que el desgaste oxidativo era muy bajo hace 2400 millones de años ([Farquhar_et_al_2000]_).
+     
+   El punto de vista científico dominante es que la atmósfera temprana tenía 0,1% de oxígeno o menos ([Copley_2001]_).
+
+2. El oxígeno libre en la atmósfera hoy es principalmente el resultado a la fotosíntesis. Antes de que aparecieran las plantas y bacterias fotosintéticas, esperaríamos poco oxígeno en la atmósfera por falta de una fuente. Los fósiles más antiguos (más de mil millones de años más antiguos que la transición a una atmósfera de oxígeno) eran bacterias; no encontramos fósiles de peces, almejas u otros organismos que necesitan oxígeno en los sedimentos más antiguos.
+   
+Enlaces
+=======
+
+Tamzek, Nic. 2002. Icon of obfuscation. http://www.talkorigins.org/faqs/wells/iconob.html#Miller-Urey
+
+Referencias
+===========
+.. [Copley_2001]    Copley, Jon. 2001. The story of O. *Nature* 410: 862-864.
+.. [Farquhar_et_al_2000]    Farquhar, J., H. Bao and M. Thiemens. 2000. Atmospheric influence of earth's earliest sulfur cycle. *Science* 289: 756-758.
+.. [Turner_1981]    Turner, G. 1981. The development of the atmosphere. En: *The Evolving Earth*, ed. L. R. M. Cocks. London: British Museum, 121-136. 
+
+Otras lecturas
+==============
+
+Wiechert, Uwe H. 2002. Earth's early atmosphere. *Science* 298: 2341-2342. 
+
+		
+/////
+
+Anterior: :doc:`CB035` | Siguiente: :doc:`CB035_2`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

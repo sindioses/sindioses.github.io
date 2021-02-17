@@ -1,0 +1,44 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA600
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA662
+.. link: http://www.talkorigins.org/indexcc/CA/CA662.html
+.. date: 2003-09-08 02:00:00+00:00
+.. title: CA662: No es cierto que la iglesia enseñara que la tierra era plana
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «No es cierto que la iglesia enseñara que la tierra era plana»
+
+Sólo dos teólogos cristianos (Lactancio y Cosmas Indicopleustes) lo enseñaron, y eran en general ignorados y carentes de influencia. El mito de la tierra plana es un producto del darwinismo, pensado para hacer parecer que la religión era enemiga de la ciencia, cuando no era el caso.
+
+**Fuente:**
+
+Wells, Jonathan, 1999 (Oct. 20). "Evolution: Teaching the Controversy", debate at Burlington-Edison High School, sponsored by Skagit Parents for Scientific Truth in Education.
+
+Respuesta
+============
+
+1. Wells, que tiene un doctorado en teología, desconoce a Teófilo de Antioquía, Ireneo, Tertuliano, Metodio, Teodoro de Mopsuestia, Juan Crisóstomo, Cirilo de Jerusalén, Efraín Siro, Atanasio de Alejandría, Diodoro de Tarso, Epifanio de Salamina, Hilario de Poitiers y Severiano de Gabala. Es verdad que la noción de la Tierra plana nunca fue una posición mayoritaria u oficial de la iglesia temprana, y que se convirtió en prácticamente inexistente entre la gente instruida durante y después de la Edad Media, pero muchos de los primeros Padres eran partidarios de la Tierra plana ([Schadewald_1999]_).
+
+2. No se necesita fabricar mitos para mostrar la hostilidad de la religión hacia la ciencia. La reacción de la iglesia al heliocentrismo es otro ejemplo bien conocido, al igual que lo es el propio Wells.
+
+Enlaces
+========
+
+Ethical Atheist. 2001. The flat earth: A detailed study of personal bias and historical thinking. http://www.ethicalatheist.com/docs/flat_earth_myth.html
+
+Referencias
+=============
+
+.. [Schadewald_1999] Schadewald, Robert. 1999 (Oct. 24, 16:15). "Re: Wells speech at Burlington Edison High School", USENET post to talk.origins, Message-Id <3.0.1.32.19991024161523.01174958@gold.tc.umn.edu>.
+
+
+/////
+
+Anterior: :doc:`CA660` | Siguiente: :doc:`CB000`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

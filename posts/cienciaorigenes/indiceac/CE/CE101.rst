@@ -1,0 +1,46 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CF, CE100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CE101
+.. link: http://talkorigins.org/indexcc/CE/CE101.html
+.. date: 2000-7-29
+.. title: CE101: No hay bastante polvo lunar para un universo antiguo
+.. description: Respuesta a la afirmación creacionista «No hay bastante polvo lunar para un universo antiguo»
+.. type: afirmacrea
+
+Basándose en las tasas de acumulación de polvo planetario registradas, hay demasiado polvo en la luna para una luna antigua. Antes de los aterrizajes lunares, se tenía un gran temor de que los astronautas se hundieran en el polvo.
+
+**Fuente:**
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, p. 152.
+
+Respuesta
+===========
+
+1. El número más elevado para la acumulación de polvo (14 millones de toneladas por año en la Tierra) deriva de la estimación más alta de una única medida preliminar que ha sido obsoleta desde hace mucho tiempo. Otras estimaciones más elevadas vienen de fuentes aún más obsoletas, aunque a veces se las cita incorrectamente como si fueran más recientes. El influjo actual varía entre 22.000 y 44.000 toneladas por año en la tierra y cerca de 840 toneladas por año en la luna.
+
+   La historia de que los astronautas se preocupaban de que los astronautas se hundieran en el polvo lunar es totalmente inventada. Ya en 1965 los científicos confiaban, basados en las propiedades ópticas de la superficie lunar, en que el polvo no estaría muy extendido. Surveyor I, en mayo de 1966, lo confirmó.
+
+Enlaces
+=========
+
+Thompson, Tim, 1996. Meteorite dust and the age of the earth. http://www.talkorigins.org/faqs/moon-dust.html
+
+Matson, Dave E., 1994. How good are those young-earth arguments? http://www.talkorigins.org/faqs/hovind/howgood-yea.html#proof2
+
+Otras lecturas
+=================
+
+Thompson, Tim, n.d. Is the Earth young?, http://www.tim-thompson.com/young-earth.html
+
+
+/////
+
+Anterior: :doc:`CE020` | Siguiente: :strong:`CE110`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

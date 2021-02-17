@@ -1,0 +1,299 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. title: Del museo de la JREF — Eslovenia retrocede a la Edad Media — Una pizca de Chesterton — Se presentan racionalizaciones — Criss Angel habla — Una reseña del programa &quot;El Cielo&quot; — Defienden a &quot;Juan de Dios&quot; — Pseudociencia en la Universidad McGill — Más malditas hadas — Petro está de vuelta — En conclusión
+.. type: randi
+.. category: Traducciones de James Randi
+.. date: 2005-12-30 00:00:00
+.. author: James Randi, traducción de Marcelo Huerta San Martín
+
+.. contents:: Contenido
+   :class: sidebar
+   :local:
+
+Del museo de la |JREF|
+......................
+
+.. image:: http://www.randi.org/images//commentary/dec2005/30acdhoudini.jpg
+   :alt:
+   :align: right
+
+Este artículo es un original de la colección de la |JREF|, una carta de 1923 de Sir Arthur Conan Doyle a J. Malcolm Bird, secretario de un comité especial establecido por la revista Scientific American par ainvestigar los fenómenos exhibidos por una tal Margery Crandon, una médium espiritista en Boston. Sir Arthur en ese momento se encontraba en un recorrido por los Estados Unidos. La carta está fechada el 9 de mayo en Denver, Colorado, y dice:
+
+  Mi estimado Bird
+
+  Tuve una charla con Houdini hoy y me asegura que los periódicos representan su actitud del modo equivocado y que no es intolerante en lo absoluto; así que eso puede facilitar las cosas con la Comisión. Lo que realmente quiere es evidencia, en lo que ha tenido una especial mala suerte, pero mi experiencia con mi esposa me lleva a pensar que puede que él rechace evidencia válida cuando se la ponen delante. Me dijo que podía ver la foto de la señora Towson en la foto que sacaron con él en Chicago pero él claramente nunca supo de una transformación. Debo pensar que el argumento real es que si un médium está fingiendo entonces debería darse cuenta de que su pie *no era* visible. Le he dado a H la dirección de Gary Kemp [?] con el control ruidoso, en Chicago, a donde él irá la próxima semana. Si puede obtener resultados allí eso podría ayudarlo. Pero está obsesionado con la idea de que pueden engañar, y engañan, a todos menos a él.
+
+  .. image:: http://www.randi.org/images//commentary/dec2005/30acdletter_small.jpg
+     :alt:
+     :align: right
+     :target: http://www.randi.org/images/commentary/dec2005/30acdletter_large.jpg
+
+  Suyo muy sinceramente, A\. C\. D\.
+
+Este documento es interesante en muchos aspectos. Primero, demuestra la ingenuidad de Sir Arthur en su razonamiento de que un farsante no sería atrapado con tanta facilidad. Muchos de ellos lo eran y aún lo son. Sir Arthur realmente expresa la opinión de que a Houdini lo “ayudaría” que se le exhibieran fenómenos espiritistas genuinos, como si fuera la meta más elevada imaginable. En este punto los dos no estaban muy lejos de un cisma, dado que Houdini publicaría en seis meses su reseña negativa de una reunión y sesión espiritista con Lady Conan Doyle que ocurrió en junio (en la que produjo lo que para Houdini fueron conjeturas carentes de significado y desconectadas pero fue muy convincente para Conan Doyle, lo que no sorprende). No conozco a ningún medium llamado Gary Kemp, si ese es el nombre que vemos en esta carta.
+
+Creo que publicaré de vez en cuando algún artículo de nuestra colección en este sitio, para producir comentarios y quizá valiosas deducciones de nuestros lectores. Después de todo, eso es lo que Sherlock Holmes hubiera hecho.
+
+Eslovenia retrocede a la Edad Media
+...................................
+
+El lector Jan Kalin, de Eslovenia, nos informa:
+
+  Pensé que podría interesarle que el gobierno y legislatura eslovenos se han vuelto chiflados en parte. Está en proceso de aprobación una ley que permitirá registrar legalmente medicamentos homeopáticos. El párrafo relevante, el tercero, se traduce como:
+
+    La ley creará un procedimiento especial y más rápido para registrar medicamentos tradicionales basados en hierbas y medicamentos homeopáticos con prioridad para el uso de medicamentos homeopáticos en medicina veterinaria y granjas ecológicas.
+
+  Aparentemente los homeópatas ahora le venden su vudú a animales y plantas, una fantástica manera de aumentar las ganancias sin quejas. Y los legisladores lo aceptaron (y probablemente ellos mismos usan los productos).
+
+  No quiero influir sus decisiones, pero publicar esta noticia en su página de comentarios, con algún comentario adecuadamente ácido, me daría munición para cuando escriba a los diarios y a un médico que conozco y quizá ayudaría a avergonzar a los legisladores para que, con suerte, eliminen esta desafortunada parte de la ley.
+
+Jan, aquí sería apropiada una explicación de la treta de las pruebas en animales. Hace años, los homeópatas empezaron a hacer pruebas con caballos, esperando mostrar que dado que los animales no saben cuáles serían los resultados de los experimentos, esas pruebas en efecto se considerarían doblemente ciegas. Error. Fallaron en iniciar la precaución más fundamental, que es absolutamente esencial para tal procedimientos. Por supuesto, no podría echársele la culpa a los caballos, pero los operadores (los que distribuyeron, administraron y manejaron las sustancias utilizadas y llevaban los registros) no fueron “cegados” y por supuesto podían torcer los resultados, ya que fueron los que les preguntaron a los granjeron si algún animal estaba mejor o sin cambios y dependía en gran medida de cómo se hicieron las preguntas. Y los torcieron.
+
+Dado que los resultados que informaron luego de estas extensas pruebas fueron positivas (lo que no sorprendió a los científicos “verdaderos” que conocían el protocolo deficiente) este procedimiento fallido se ha usado muchas veces desde entonces. Este es otro ejemplo más de un procedimiento científico que *casi* se aplica al charlatanismo. Debo admitir que no he sabido de procedimientos similares utilizados con plantas, pero quizá se están haciendo planes ahora mismo para incluir a esta variante de vida tan fácil de influir para “probar” las descabelladas afirmaciones de los homeópatas.
+
+Espero que el gobierno esloveno piense de nuevo antes de caer en esta trampa de aceptar la pseudociencia; esta es una oportunidad para que muestren su resistencia a una forma de tratamiento méidco que, aunque es inmensamente popular, sin embargo es inútil y corresponde a épocas medievales. Recuerden, no hace mucho la sangría era un procedimiento normal en la práctica médica. Se descubrió que no sólo no tenía efecto sino que era dañina en extremo. Una larga historia de uso no es una calificación suficiente para aceptar algo.
+
+Este extracto de una carta al editor del Daily Mail del 27 de diciembre publicada por un tal Derek Metson de Brightlingsea, Essex, en el Reino Unido, es típico de la crítica no informada que se presenta contra la medicina verdadera.
+
+  ¿Qué sabe el ganado sobre placebos? Está claro que los científicos pagados por las compañías farmacéuticas no desean “destrozar los libros de texto de física y química”; eso los dejaría sin trabajo.
+
+  ¿Qué es más “convencional”? ¿Algo que ha sido probado y comprobado por más de 200 años, o algo que apareció y cambió a lo largo de una cuarta parte de ese tiempo?
+
+Lo que el señor Metson no entiende es que la homeopatía (en su historia de 200 años) también ha hecho cambios, pero cada uno de ellos (¡como el más reciente de enviar “vibraciones” homeopáticas por medio de Internet!) han sido retiradas más profundas a la pre-ciencia medieval, mientras que la medicina real ha desarrollado cosas tales como vacunas, antibióticos, operaciones y transplantes de corazón, nuevas tecnologías de diagnóstico con mínima invasividad y muchos cientos de otras innovaciones que literalmente han salvado decenas de millones de vidas en todo el mundo. La homeopatía sigue siendo un intento de combatir la realidad con mitología. El aspecto “cambiante” de la medicina verdadera es lo que la hace grande: se desarrolla y crece, mejorando a paso firme, mientras que el charlatanismo revolotea tratando de parecer ciencia y no va a ninguna parte. El señor Metson también considera que los “científicos” son el enemigo. Me pregunto si llamará a una bruja o un homeópata en lugar de un médico la próxima vez que se enferme.
+
+.. figure:: http://www.randi.org/images//commentary/dec2005/30ernst.jpg
+   :alt:
+   :figwidth: 125
+
+   **Ernst el acosado**
+
+En la misma columna del periódico Daily Mail había una carta de un tal Brian Godfrey de Londres. Repitió la afirmación normal de que “Cualquiera que intente someter a la medicina complementaria a las pruebas científicas normales siempre obtendrá resultados fallidos”. En otras palabras, es alguna clase de arte mágica, una excepción al resto del mundo real, un aspecto del universo que el señor Godfrey inventa para justificar el hecho de que incluso una de las mayores autoridades en el mundo de la medicina complementaria, el profesor Edzard Ernst, fue incompetente porque usó métodos reales de observación al comprobar medicinas homeopáticas populares. El señor Godfrey no señala sus propias calificaciones para hacer esta afirmación, lamentablemente. Sin embargo, rebusca en su bolsa de ideas brillantes y sugiere que el doctor Ernst sostenga “una charla con el Príncipe Carlos, quien ciertamente comprende mejor el tema”. Todos sabemos que los miembros de la familia real se eligen para esa elevada posición luego de exámenes rigurosos de sus calificaciones y que también deben pasar procedimientos para evaluar el CI y el sentido común, de modo que el señor Godfrey obviamente ha apelado a una fuerte autoridad para apoyar la homeopatía. ¿O estoy equivocado sobre lo inteligente que es en realidad la Casa de Windsor?
+
+Alguna gente tiene una obstinada determinación para seguir siendo ignorantes de la realidad. Esta enfermedad tampoco se encuentra sólo en el Reino Unido. Aquí en los EE. UU. ... ah, pero eso ustedes ya lo saben...
+
+Una pizca de Chesterton
+.......................
+
+.. image:: http://www.randi.org/images//commentary/dec2005/30hesterton.jpg
+   :alt:
+   :align: right
+
+El lector Scott Mange nos recuerda esto:
+
+  —Se lo juro, entonces... —dijo Maclan—. Lo juro por el dios que has negado, por Nuestra Señora a la que has blasfemado; lo juro por las siete espadas en su corazón. Lo juro por la Isla Sagrada donde están mis padres, por el honor de mi madre, por el secreto de mi gente, y por el cáliz de la Sangre de Dios.
+
+  El Ateo levantó la cabeza.
+
+  —Y yo —dijo— le doy mi palabra.
+
+  --“La bola y la cruz”, G. K. Chesterton
+
+Se presentan racionalizaciones
+..............................
+
+Más o menos cada semanas, me presentan racionalizaciones ingeniosas los aspirantes al premio de la |JREF| que fallaron sus pruebas o personas en su nombre. El espectro de coartadas es amplio. Escuchamos cosas como: la habitación estaba muy caliente, Júpiter estaba en Sagitario, esta mañana comí azúcar refinada, los polos magnéticos de la Tierra se movieron, tuve indigestión, vino un frente de alta presión, hay luna llena, interfirieron los demonios, las vibraciones negativas de randi cancelaron el efecto, era jueves... ¡Éstas son algunas de las quejas reales que nos han presentado! Y de vez en cuando recibo una queja más generalizada (aunque vaga) para la falla colectiva de *todos* los cientos de aspirantes al premio. Prepárense: ¡es por *la misma existencia del premio*\ !
+
+Un veterinario francés, André Wassen, de Saint Privé, Yonne, Francia, quien se describe a sí mismo como un fan de los “campos bioenergéticos” y la acupresión para el tratamiento de animales, presenta su versión de ese último misterio. Escribe, con verdadera certeza gala:
+
+  El simple hecho de que se ofrezca dinero hace que el desafío de [la JREF] sea imposible de ganar. A veces actúo como zahorí para mis pacientes pero siempre tiene que ser por un bien mayuor. Cuando uno lo hace por un millón de dólares, participa el cerebro izquierdo y el ego y como sea la respuesta será falsa porque se lo hace para satisfacer el propio ego, para mostrar cuán bueno se es...
+
+  Así que [Randi] no corre ningún riesgo, nadie ganará nunca ese desafío.
+
+  Pero díua con día, lejos de las candilejas, algunas personas hacen rabdomancia, curan a distancia, etc... con pacientes que sufren y mientras menos se exhiben, más éxito tienen... usando esos métodos que describe usted como paranormales.
+
+Bien, felizmente para el doctor Wassen, le tengo la solución perfecta:
+
+1. Retiraremos el dinero del panorama. En lugar de mandarle el premio, lo donaré a su beneficencia favorita sin decirle nada, en el caso de que tenga éxito.
+
+2. De común acuerdo diseñaremos una prueba para que el doctor Wassen en la cual ganará el premio un resultado *negativo*; me refieron con esto a una prueba en la cual el perder en contra de las probabilidades resultará en que se pague el premio. Esto, por supuesto, hará que sea “por el bien mayor”.
+
+3. Acordaremos no mencionar a nadie ningún éxito que pueda tener el doctor Wassen para que no tenga intervención su ego.
+
+4. Aceptaremos rabdomancia, “curación a distancia”, la existencia de un “campo bioenergético”, acupresión u otro poder extraño que el doctor Wassen quiera especificar y, sólo para salvar la objeción inevitable que me imagino, acordaremos no describir ninguna de dichas capacidades como extraña, paranormal, mágica, milagrosa o sobrenatural.
+
+Por favor noten que el doctor Wassen ha construido aquí una perfecta puerta de escape: si falla, simplemente invoca la cláusula de “exhibicionismo” o la influencia del “dinero maligno” y todo queda explicado. Cuando tiene éxito, es porque pudo suprimir su ego y su sentido del espectáculo, ignoró el premio y actuó “por el bien mayor”. Catch-22 al ataque nuevamente... *No hay forma en que su afirmación pueda examinarse*, ¡ya que inventó esas útiles “reglas” imaginarias para ocultar todas las fallas!
+
+Este artículo escrito para nuestra página web se envió al doctor Wassen el 24 de diciembre a las 10:00 hora del Este. Esperamos su respuesta. Pero no habrá respuesta. Esta increíble racionalización cita elementos como “el bien mayor”, intención, ego y orgullo como razones por las que no se ha ganado el premio de la |jref|. Le presento al doctor Wassen mi propio razonamiento sobre el tema basado en la experiencia: en mi opinión, luego de haber investigado a cada tipo de aspirante engreído, santurrón, pomposo grandilocuente y despreciativo, concluyo que las habilidades que afirman tener son imaginarias o fraudulentas. Cientos de pruebas cuidadosas, definitorias y concienzudas en los últimos sesenta años indican que eso es verdad.
+
+El doctor Wassen (si es que responde) vendrá con más excusas espurias de por qué ni él ni nadie pueden presentarse por el premio de la JREF. *Debe* hacer esto, porque sabe muy bien que no puede hacer realmente lo que afirma que puede hacer. Continuará chachareando sobre los milagros que realiza, quizá creyendo que su proceso de pensamiento está a la altura del desafío.
+
+¿No es de agradecer que sólo puede trabajar en animales que no son el *homo sapiens*\ ?
+
+**NOTA:** La primera parte de este artículo fue escrita y enviada por e-mail al doctor Wassen hace pocos días, antes de publicarla en esta página. Recibimos de él la siguiente respuesta. Yo estaba muy equivocado en una de mis expectativas: él *respondió*, como sigue. Los puntos suspensivos son suyos:
+
+  Por qué tendría yo la necesidad de responder a algún desafío... el hecho de que tenemos resultados es suficiente. Somos un grupo de veterinarios que practicamos medicina alternativa diariamente usando cualquier herramienta disponibles, incluyendo las que usted llama paranormales (que no son paranormales en lo absoluto dado que niños de 4 años pueden hacerlo con éxito). Felizmente todavía tenemos algo de libertad y no le debemos a las grandes farmacéuticas y sus estudios doblemente ciegos... y todavía consideramos que curar es un arte...
+
+  Esas herramientas “paranormales” son regalos del Universo que deben ser usadas para sanar y armonizar a otros, y están disponibles a los que intentan ser lo bastante espirituales como para conectarse con la divinidad dentro de cada uno de nosotros... No son herramientas para exhibirlas en ferias y circos... para convencer a nadie.
+
+  ¡Caray, un día incluso tendrá usted la idea de instar a Jesucristo para que vaya a su sitio web a que pruebe lo que puede hacer y eso por un millón de dólares... y eso en el nombre de la ciencia!
+
+.. figure:: http://www.randi.org/images//commentary/dec2005/30esus.jpg
+   :alt:
+   :figwidth: 128
+
+   **“Quiero presentarme para el premio de la JREF. Puedo caminar sobre el agua...”**
+
+Esta es una evasión clásica, lanzada por alguien que obviamente tiene experiencia en escapar a las confrontaciones directas y a hablar en lenguaje místico. La respuesta simple a la primera pregunta que hace el doctor Wassen más arriba es: *para ganar un millón de dólares*, el cual podrá emplear como lo deseare, tal como lo afirmo en el punto 1, más arriba. Lo que dice es que está convencido de su posición hasta el engreimiento, pero no la comprobará, ¡ni siquiera por un millón de dólares! Y nos revela que las “grandes farmacéuticas” (con las que se refiere a la industria farmacéutica que ha salvado miles de millones de vidas y el futuro de humanos y otros animales) son las enemigas que combaten estos veterinarios “espirituales” por medio de su chispa individual de “divinidad” y sus “dones del universo”. También menosprecia ese extraño procedimiento científico del “doble ciego”; tiene demasiada lógica y realidad, supongo. ¿Y dónde están esos niños de cuatro años que también pueden salirse con este truco? ¿Sus padres también están desinteresados en ganar un millón de dólares, doctor? Dígales que se presenten, ¿quiere?
+
+Doctor Wassen, no le estaba proponiendo que se pusiera una nariz roja, zapatones y un traje de payaso para hacer trucos chistosos para una audiencia en una feria o un circo, como parece creer. En cambio, había imaginado una configuración básica de laboratorio, una situación que parece resultarle ajena, pero no debería. Estoy seguro de que su biblioteca local puede proveerle libros sobre ciencia básica y cómo se lleva a cabo.
+
+En cuanto a la sugerencia sobre Jesús, debe entender que la |jref| no busca a los posibles aspirantes al premio; esperamos que se pongan en contacto. Si Jesús (quien seguramente sabe del premio, siendo Omnipotente y Omnisciente) desea presentarse, ciertamente es admisible. Incluso puede traer a su papá y a una bandada de ángeles para ayudarlo, si quiere.
+
+Criss Angel habla
+.................
+
+.. figure:: http://www.randi.org/images//commentary/dec2005/30angel.jpg
+   :alt:
+   :figwidth: 300
+
+   **Criss Angel levitando...**
+
+   **¡Parece que perdió a su audiencia!**
+
+El lector Greg Zaino informa:
+
+    Acabo de oír una entrevista a Criss Angel en un programa de radio matinal aquí en Nueva Inglaterra (FM 100.3 WHEB) y me alegró mucho escuchar comentarios favorables de su parte hacia su fundación y el desafío del millón de dólares. Estaba contestando una pregunta sobre qué pensaba la gente de sus demostraciones aparentemente sobrenaturales. Dice que le da placer y satisfacción hacer que la gente hable y discuta entre sí sobre cómo puede haber realizado ciertos trucos o ilusiones, sin embargo, sin vacilar, advirtió inmediatamente al oyente sobre las afirmaciones de ciertos individuos que se aprovechan del público crédulo (no son sus palabras exactas).
+
+    ... pero mencionó por su nombre a John Edward. En resumen, afirmó que él no posee ninguna capacidad sobrenatural ni la posee nadie más. En mi opinión esto NO le resta efecto a sus presentaciones en lo más mínimo. ¡Bravo, Criss Angel! Antes de escuchar esta entrevista era un fan, y ahora lo soy más!
+
+No espero nada menos Criss, Greg. ¡Es uno de los buenos!
+
+Una reseña del programa "El Cielo"
+..................................
+
+El lector Michael McCarron:
+
+  Hola, James, este es un artículo que publiqué en mi sitio (http://www.mikesweeklyskepticrant.blogspot.com) sobre el especial de Barbara Walters “El Cielo”, emitido hace poco:
+
+    Bueno, eso fue deprimente. Acabo de ver el especial “El Cielo: ¿Dónde está? ¿Cómo llegamos a él?” de BabaWaba y, caray, qué espectáculo triste. Cuánta gente vive para una vida futura, para la “vida siguiente” o sólo para matar a otros por la falta de fe de esa gente. La gente que se cree el chantaje espiritual de “haz el bien o sufre las consecuencias”. Los tres minutos de la presidenta de Ateos Estadounidenses, Ellen Johnson, era sólo el escéptico de compromiso para que dijera: “No, no hay Cielo, todo es superstición, creer es reconfortante pero no hay racionalidad que lo respalde”.
+
+    Hubo dos cortos de un campamento ateo para niños y un investigador que mostró que las experiencias cercanas a la muerte son explicables por medio de la química cerebral, pero fueron olvidados rápidamente cuando las fábulas anecdóticas de luces blancas, pensamientos agradables y parientes muertos pasaron al frente. Me entristece cuántos adultos se consuelan con lindezas tan básicas como “luces blancas”, “escaleras con perros y gatos felices” y “todo era verde y compasivo”. Pensar así degrada la vida y lo hace a uno vivir sólo para obtener una recompensa personal, así que cualquier cosa que uno haga aquí es un medio para obtener un fin. Un fin egoísta.
+
+    Considerar que la vida es finita, como cree un ateo, hacen que las acciones tengan consecuencias. Uno es responsable por sus acciones y uno debe asumirlas, no ante una figura paternal invisible, sino ante sus pares. El recuerdo estará manchado para siempre si uno mata, defrauda o saca ventaja de otro modo de los menos afortunados. Los ateos se dan cuenta de que esto es lo que tenemos y de que tenemos suerte de tenerlo; ayudamos a los que lo necesitan porque es lo correcto para hacer que nuestra sociedad progrese.
+
+    ¿Por qué los creyentes quieren tanto más? Si una persona, por ejemplo un ateo, vive una buena vida, ayuda a la gente, es compasivo, tiene un trabajo que ayuda otros (un doctor, psicólogo o bombero), eso puede no ser suficiente para que uno entre en su visión particular del Cielo. Tiene uno que creer en su libro. Todas las otras cosas buenas carecen de significado si uno no cree. Un hombre que mata a diez personas puede ir a prisión y “hallar a Dios”, pedir perdón e ir al cielo, pero un ateo no. Eso no tiene una pizca de sentido.
+
+    Hay esperanza, sentido de conexión y se puede exigir asumir responsabilidad si uno tiene una visión racionalista del mundo. Hay mucho que aprender de cómo viven y trabajan los no teístas, pero Barbara Walters no nos buscó, tomó la ruta fácil. Como se esperaba, eso no sorprende a nadie.
+
+No vi el programa, quizá porque esperaba lo que Michael informa aquí. Mi experiencia con PrimeTime Live fue una desilusión tal que no puedo creer que ABC-TV abandone el enfoque de promoción de lo paranormal. Para otro ejemplo vean el artículo que sigue...
+
+Bob Park, en su comentario semanal, opinó sobre el programa “El Cielo”:
+
+  La única información concreta [que presentó ABC] fue el 90% de la gente cree en [el Cielo], sea lo que fuere. Eso da miedo, pero ¿cómo ABC pudo dedicar dos horas a algo para lo que no hay evidencia alguna? Fácil: que Barbara Walters entreviste a expertos que incluyen al megaevangelista Ted Haggard (que explica que el Cielo es sólo para cristianos renacidos) y a un bombardero suicida fallido en una prisión de Jerusalén que estaba seguro de que sólo es para los musulmanes.
+
+¿Preguntas cómo pueden hacer esto, Bob? ¡Lo han hecho antes y se amontonaron los auspiciantes! ¡Es una fórmula ganadora!
+
+Defienden a "Juan de Dios"
+..........................
+
+Un lector furioso (Chris Webster) objeta a un artículo que publicamos en `la página original en inglés del 18 de febrero`_, más concretamente `la parte de los testimonios`_ [#juandedios]_. Allí relaté la experiencia de una de las víctimas de Juan de Dios, un “sanador” de Brasil que fue cubierto en detalle y sin precaución por las Noticias de ABC-TV en su programa “Primetime Live”. Por favor vaya al segundo enlace mencionado más arriba y relea la segunda entrada que aparece allí.
+
+.. _la página original en inglés del 18 de febrero: http://www.randi.org/jr/021805a.html
+.. _la parte de los testimonios: http://www.randi.org/jr/021805a.html#13
+
+Este lector es un creyente conformado, furioso por los hechos que revelamos sobre este farsante, y que repite los mitos difundidos por la amplia organización publicitaria que promociona viajes turísticos para que los desesperados, vulnerables e ingenuos vayan a Brasil y se sometan a los alarmantes procedimientos que presenta Juan. Esto es lo que me escribió el lector:
+
+  Creemos que estas afirmaciones de más arriba [en http://www.randi.org/jr/021805a.html#13] son totalmente ficticios o una mentira lisa y llana, por nuestras propias experiencias personales y los siguientes HECHOS:
+
+  1. ¡Juan de Dios NO COBRA POR SUS SERVICIOS!
+  2. ¡Sólo la gente que DE VERDAD QUIERE cirugía visible la recibe!
+  3. ¡NO SE ACEPTAN TARJETAS DE CRÉDITOS en la ÚNICA tiendita de regalos que hay allí! (Sólo dinero en efectivo = reales brasileños)
+  4. ¡NUNCA ha habido ninguna infección informada JAMÁS en 35 años!
+
+  Si realiza una investigación científica verdadera personalmente sobre Juan de Dios, lo que han hecho muchas veces otras instituciones, como el estudio de 2 (dos) años que hizo un equipo de la Facultad de Medicina de Brasil, la Universidad Federal de Juis *[sic]* de Fora en Minas Gerais, Brasil, sólo para mencionar uno, descubrirá que LOS RESULTADOS SON REALES, sólo que nuestra comprensión científica actual no lo explica con facilidad.
+
+  Así que hasta que haya hecho una INVESTIGACIÓN REAL DE LOS HECHOS SOBRE “Juan de Dios” por favor deje de perorar sobre cosas que NO CONOCE y obviamente teme.
+
+  P.D.: Seguramente no publicará esta respuesta en su sitio web tendencioso, ¿no?
+
+Bueno, examinemos esas febriles afirmaciones suyas, Chris. Nº 1: Es cierto. Nunca afirmé que Juan cobraba. Como con casi todos estos charlatanes, se aclara muy bien a las víctimas que este noble “sanador” aceptará donaciones, las que se dan con prontitud. De esa forma, él puede arguir que nunca pide realmente que le paguen. Y los creyentes por supuesto se apresuran a exponer esto, como ha hecho usted. Nº 2: Aparentemente no, como vemos con el lector que relató su experiencia. Hemos visto que otras personas (probablemente las que parecen especialmente sugestionables) son seleccionadas del grupo para que se las “opere”. Recuerde, todos los que van *ya están convencidos* de la realidad de la farsa, igual que usted; todos ustedes son blancos fáciles y elegibles. Nº 3: ni siquiera sugerí que tienda de regalos alguna aceptara tarjetas de crédito. La víctima relató que su tarjeta de crédito (que había usado para el hotel) recibió un cargo por una compra de joyería cuando él no había hecho ninguna compra. ¡De forma misteriosa, cuando volvió a casa desde Brasil, este cargo espurio apareció en su resumen mensual! Ha hecho usted suposiciones, Chris, como esperábamos. Nº 4: Me parece notable que usted personalmente haya hecho seguimiento de *cada uno* de los miles de asaltos con escalpelo que esta operación llevó a cabo en 35 años y pueda informar con confianza este sorprendente valor investigado. No, bobo, *¡eso es lo que le dijeron los que manejan el espectáculo!*
+
+En cuanto a la Universidad de Juiz de Fora, esa institución ofrece cursos en matemáticas y ciencia de la computación, calificaciones que no son muy útiles para una investigación médica (o sobre magia). Esforzando sus capacidades de evaluar probabilidades, piense si alguna organización local brasileña con fondos federales va a publicar información negativa para esta gallina de huevos de oro que atrae millones de dólares de turistas. ¿Y dónde se publicó esa convincente “investigación”? Usted no sabe, nosotros tampoco. Usted ha optado por creer que existe en alguna parte. Recuerde, la |jref| le ofreció a este farsante nuestro premio del millón de dólares y no respondió. Me pregunto por qué. ¿Usted también se lo pregunta? No lo creo.
+
+Busqué nuestro sitio web “tendencioso” al que usted se refiere y ni siquiera Google lo conoce. Decidí publicar su respuesta aquí, porque usted sirve como perfecto ejemplo del tipo de creyente que no sabe leer o no lee lo que publicamos, decide creer toda la propaganda que le venden e ignora los comentarios que hacemos porque amenazan su falsa seguridad. Estoy seguro de que sintoniza ABC-TV con frecuencia; esa operación siempre satisfará su necesidad de fantasía y noticias de la Tierra de Nunca Jamás.
+
+Pseudociencia en la Universidad McGill
+......................................
+
+El lector “Ethan” de Montreal:
+
+  Vivo en Montreal y me gustaría informar que un programa en la Universidad McGill exhibe “What the Bleep Do We Know” (vea http://www.randi.org/jr/052005la.html#4) {vertraduccion;randi20050520.html}. El programa responsable es http://www.mcgill.ca/wholepersoncare/. A continuación transcribo la carta que les envié. Aparentemente, las tres personas principales que participaron en la realización de la película son miembros de la organización Ramtha. Pero no he podido verificarlo, así que no lo mencioné en la carta.
+
+    He visto esta película y debo decir que no es del calibre que esperaría de una institución como McGill. Tengo una maestría en física y me indignó cómo se retorció la física cuántica para los fines de la película. Sólo investigue a JZ (Judy) Knight, a quien se entrevista en la película. Es la fundadora del Culto Ramtha y afirma que canaliza a Ramtha, un espíritu guerrero de 35.000 años.
+
+    Mucho de los que los físicos respetables dicen en la película se cita fuera de contexto para ajustarse a las ideas ridículas de la misma sobre cómo funciona la mecánica cuántica. Esto es lo que algunos científicos británicos tienen que decir sobre la película: http://film.guardian.co.uk/features/featurepages/0,4120,1484925,00.html.
+
+    No discutiré la importancia del mensaje central de la película: que la gente tiene más control sobre su vida de lo que piensa. Pero no es porque puedan influir el resultado de eventos de la mecánica cuántica con sus propios pensamientos.
+
+Un artículo en el periódico Montreal Gazette, que se encuentra en http://www.canada.com/montrealgazette/story.html?id=61d43548-b0fb-4433-a447-996828723b9c&k=84807, cita al director del programa McGill diciendo que el objetivo de mostrar la película es “hacer que el público piense”. Bueno, cuando sigue describiéndola como “una película que abre la mente e incluye péptidos, proteínas, una boda polaca como ninguna otra y física cuántica”, me hace pensar que no está en lo absoluto preparado para manejar el proyecto que se le confió. Dice que la película
+
+  Habla sobre neurofisiología y la manera de funcionar del cerebro e incluso sobre física cuántica y cómo eso podría explicar algunas de nuestras conexiones. No significa que lo entienda todo o lo crea todo con seguridad, pero me abre la mente a muchas más posibilidades.
+
+Señor, hay una clara diferencia entre tener una mente abierta y tener un agujero en la cabeza desde el que chorrea el cerebro. Señalo que el orador invitado que se anuncia para la discusión de esa noche es William Tiller del Departamento de Ciencias de Materiales de la Universidad de Stanford, quien también aparece en el documental. Bien, eso lo redondea del todo; Tiller es un devoto de la “psicoenergética”, ha escrito sobre “el poder de las pirámides” y casi cualquier otra noción mágica imaginable. En http://tillerfoundation.com/tillermodel.htm vemos un excelente resumen (por él mismo) de cómo ve el mundo.
+
+Más malditas hadas
+..................
+
+El lector Andrew Battye, de Yorkshire, Inglaterra, se refiere al `artículo del 25 de noviembre sobre las hadas <randi20051125.html#un-sindicato-de-hadas-fuerte>`_:
+
+  La historia en [un comentario reciente] sobre las hadas que viven bajo una roca en St. Fillans en Escocia me recordó un caso similar en el que tuve alguna participación.
+
+  Estaba trabajando como consultor para la Ciudad de Bradford aquí en Inglaterra, para aconsejar sobre cuestiones de transporte durante la adopción del Plan de Desarrollo de la ciudad. Este Plan determina las áreas de la ciudad en las que se podrán hacer construcciones para hogares, lugares de empleo, instalaciones recreativas, etc., durante los próximos diez años. Como la mayoría de los otros gobiernos locales, Bradford tuvo que encontrar terrenos dentro de la ciudad que fueran adecuados para la construcción de nuevos hogares y las áreas halladas por el gobierno por lo general eran controvertidas porque se hallaban en las pocas áreas de la ciudad que no habían sido afectadas por su crecimiento. Las personas que vivían cerca de los sitios propuestos para la construcción estaban preocupadas, en mi opinión justificadamente, porque cualquier nueva construcción arruinara las características de sus localidades.
+
+  .. image:: http://www.randi.org/images//commentary/dec2005/30fairies.jpg
+     :alt:
+     :align: right
+
+  Como sea, el gobierno local identificó como área apropiada para la construcción un área cercana a la cañada donde se “fotografió” a las “Hadas de Cottingley”. Se realizó una investigación pública para que el gobierno y los objetores locales presentaran sus puntos de vista ante un inspector designado por el gobierno nacional.
+
+  Luego de la investigación, el inspector falló a favor de los objetores locales en este caso. Como parte de su razonamiento, escribió:
+
+    En cuanto el interés histórico mencionado, entiendo que el sitio está en la localidad del “avistamiento de hadas” y los emprendimientos inmobiliarios recientes han afctado el área más directamente relacionada con este suceso. Aunque un episodio de esta naturaleza no es suficiente en sí mismo para otorgar la protección del sitio ante futuras construcciones, sería una lástima si se perdieran más tierra asociadas con el evento debido a construcciones innecesarias [...]. En términos de uso futuro [...] considero que sería apropiado utilizarlo como espacio verde.
+
+  Aunque la presencia (o lo contrario) de hadas en el áreas no es la razón para que se detenga la construcción, imagino que los residentes actuales del área están agradecidos a esas dos niñas que se las arreglaron para generar tanto entusiasmo hace todos esos años.
+
+Andrew, debo admitir que yo también hubiera optado por conservar la cañada y su arroyito tal como están. Es un lugar hermoso, lleno de historia e idéntico a como se hallaba en 1917 cuando Elsie Wright y su prima Francis tomaron la cámara de su papá y sacaron una foto que engañó a Sir Arthur Conan Doyle y tantos otros “expertos” que eran demasiado inteligentes.
+
+Vean http://www.randi.org/library/cottingley/ [en inglés] para encontrar más detalles...
+
+Petro está de vuelta
+....................
+
+.. figure:: http://www.randi.org/images//commentary/dec2005/30petro.jpg
+   :alt:
+   :figwidth: 108
+
+   **Robert Petro**
+
+   **Especialidad: suposiciones obvias y cuestiones generales de “bienestar”**
+
+Allá por mayo de 1981, ofrecí hacer pruebas de las afirmaciones psíquicas de un tal Robert Petro par ala estación WIND Radio 560, en Chicago. Trabajaron conmigo para obtener algunas fotos de oyentes que Petro dijo que podía “leer” tan bien que cada individuo reconocería su propia lectura. Intentamos por un mes que Petro aceptara ser evaluado y finalmente lo canceló. Por entonces, el premio que yo ofrecía era de sólo USD 10.000. Un lector acaba de preguntar por Petro, quien aparentemente sigue trabajando. Fui a mis archivos y encontré algo de material interesante.
+
+He aquí los análisis que realizó para tres de esas fotografías de mujeres del área de Chicago. Nótese las cualidades “desinteresadas” que le asigna a las tres, los peligros que, les advierte, enfrentan todas por parte de sus enemigos, los obstáculos que otros han puesto en su camino y la vaguedad general de las lecturas, reveladas en lo indeterminado de las frases: expresiones como “Puede que usted...”, algo “puede” ser —que aparece cinco veces— y “siento que” —ésta se usó 18 veces—.
+
+  1. Siempre estará en una posición de autoridad. Su vida transcurrirá en una preocupación constante por su currículum. Siempre será una persona en constante movimiento, intentando lograr algo, dejándolo de lado hasta mañana. Descubrirá que mucho de su vida deberá quedar a un lado porque estará preocupada por ayudar a otra persona. Usted es una mujer en la que un hombre puede confiar en lo que se refiere a su vida personal. Lo mantendrá en la dirección correcta. Para hablar claro, usted será su soporte principal. Ahora bien, usted está considerando hacer una inversión seria, hacer inversiones. Está pensando en algo relacionado con un terreno. Me parece que usted tiene opiniones fuertes sobre la economía, sobre el gobierno, sobre la política una fuerte opinión sobre el molde y la integridad del país. Usted es un amujer que participa en paneles, en juntas directivas, y no obtiene la cooperación que necesita para completar el trabajo. Usted es de la vieja escuela en cuanto a los logros y el trabajo (un día honesto de trabajo), usted es una mujer que se creó a sí misma. Tiene excelentes antecedentes educativos. Planea hacer un viaje largo en los próximos dos meses.
+
+  2. Usted se involucra... tiene un gran interés en el pasado, la historia, los artículos de colección, las antigüedades, los cuadros, pero siempre se siente atraída hacia el pasado. Bien. Alguna gente se enamora de personas. Usted se encuentra enamorándose del campo, el arte, la arquitectura, los artículos de conlección. Usted es autosuficiente. Siento que usted ha tenido dificultades hace unos tres o cuatro años, hasta el punto en que literalmente empezó su vida de nuevo. Siento que durante es período particular, no sabía si podría superar esta crisis. Siento que la ha superado. También siento que tiene aptitud para recuperarse muy rápidamente. Raramente muestra lo que siente con honestidad, así que siempre intenta alegrar a quienes la rodean. Es su naturaleza básica. Es una persona divertida. Cuando planea algo, lo planea con mucho detalle y no le gustan las desilusiones. Siento que sus posesiones personales pueden estar en peligro, así que le recomiendo que las ponga en lugar seguro. También siento que está preocupada sobre una persona joven en sus veintes. La persona que veo tiene 25 ó 26 años, así que veo a la persona y siento que el problema de esta persona serán las relaciones personales. “Sí, lo haré, no, no lo haré”. Y siento que va a haber vacilaciones sobre una relación y también siento que la persona iniciará algún tipo de eduacación formal, porque siento que cuando esta persona fue a la universidad puede no haberla apreciado, pero siento que la enviarán de nuevo a alguna clase de programa de enseñanza especial. También siento que usted se comunicará a distancia con una mujer que tiene un ligero problema de salud. Y creo que puede durar hasta mediados del mes próximo, al menos. Después, siento que el problema de salud se desvanecerá.
+
+  3. Usted como persona es frugal en extremo. Tiene muchos problemas familiares porque por momentos tiene una personalidad u opinión muy francas. La familia de esta mujer (la familia en la que nació) no la aprecia, por el tipo de personalidad que tiene, así que tiende a tener conflictos. También siento que ha invertido algún dinero y está en un punto en el que va a madurar muy pronto y van a preocuparle los impuestos y el dinero ganado. También siento que es una mujer que ha tenido algún tipo de carrera durante mucho tiempo. Su mejor profesión hubiera sido enseñar o gestión comercial, pero ha participado en una carrera. Siento que ahora quiere replegarse, huir. Quiere algo de paz mental. También siento que firmará papeles, documentos legales de un abugado que serán inquietantes en alguna medida, porque este año muestra desilusiones para ella. Descubrirá que amigos poco fiables de los que ella tenía una excelente opinión la desilusionarán este año. Reaparecerá en su vida gente del pasado, causando una reacción en cadena. Este año mostrará dónde quiere retirarse y vivir una vida sencilla. Y su mejor aptitud también tendrá que ver con el crecimiento. Granjas, flores... Ella sería excelente en una profesión que se refiera a plantas y la naturaleza.
+
+Percibiendo que se avecinaba un experimento, saqué copias de estas lecturas para una clase que estaba dictando en un colegio comunitario en Nueva Jersey. Había tres mujeres en la clase que aceptaban con mucho entusiasmo los poderes psíquicos y en especial las “lecturas” que les habían hecho. Luego de leerlas, las estudiantes les dieron puntajes de 10, 10 y 9 (de un total de 10) en referencia a lo bien que se aplicaban a ellas. Recuerden, estas eran lecturas para *otras* mujeres, de *distinta edad*, en *otro momento*, ¡y aún así las creyentes pudieron encontrar esta fuerte correlación con sus propias vidas!
+
+En conclusión
+.............
+
+Nos despedimos del 2005 y nos volvemos con cautela hacia el 2006, sabiendo que el mundo puede ser un poquito más racional gracias a nuestros esfuerzos. Han pasado 246 semanas (¡o sea 1722 días, un total de cinco años!) desde que Sylvia Browne aceptó ser evaluada por la |jref|, y aparentemente todavía no sabe cómo comunicarse con nosotros.
+
+Nuestros mejores deseos para el año nuevo, amigos. En varios sentidos, este no ha sido tan buen año para algunos de nosotros, pero seguimos en la lucha. Y las cosas están mejorando: los árboles en mi casa (los que dejó el huracán Wilma) están dando nuevos brotes, los techistas están trabajando, y la naturaleza sana las heridas que nos produjo. En el edificio de la |jref| instalarán una nueva cerca trasera, y los faisanes (un poco agotados pero aún hermosos) están volviendo para alimentarse. Ey, como dicen en esa película, es una vida maravillosa...
+
+|firmarandi|
+
+**Notas**
+
+.. [#juandedios] En `la traducción de esa página <randi20050218.html>`_ no se incluyeron los testimonios debido a su extensión. Los enlaces del artículo llevan a la página original de Randi [N. del T.]
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: Traducido por Marcelo Huerta San Martín
+    :description: Del museo de la JREF — Eslovenia retrocede a la Edad Media — Una pizca de Chesterton — Se presentan racionalizaciones — Criss Angel habla — Una reseña del programa "El Cielo" — Defienden a "Juan de Dios" — Pseudociencia en la Universidad McGill — Más malditas hadas — Petro está de vuelta — En conclusión

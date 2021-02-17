@@ -1,0 +1,50 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH130
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2004-8-27
+.. type: afirmacrea
+.. title: CH135.1: La biblia especifica el mejor momento para la circuncisión
+.. description: Respuesta a la afirmación creacionista «La biblia especifica el mejor momento para la circuncisión»
+.. slug: CH135_1
+.. link: http://www.talkorigins.org/indexcc/CH/CH135_1.html
+
+La Biblia, notablemente para su tiempo, señala que el octavo día luego del nacimiento es el momento más seguro para realizar circuncisiones ({{% biblia "Génesis 17:12; Levítico 12:2-3" DHH %}}). Cuando nace un bebé, no tienen bacterias en los intestinos durante los primeros días. Al séptimo día, las bacterias se multiplican y producen vitamina K. Sin vitamina K y protrombina (que produce el hígado usando vitamina K), la sangre no se coagulá correctamente y la posibilidad de severo desangramiento así como de infección volvería peligrosa la circuncisión en un entorno médico primitivo.
+
+**Fuente:**
+
+Watchtower Bible and Tract Society, 1985. *Life--How Did It Get Here?* Brooklyn, NY, p. 205-206.
+
+Respuesta
+=========
+1. Aunque el peligro de desangramiento severo es peor durante la primera semana, puede ocurrir en cualquier momento del primer mes ([Zipursky_1999]_). De acuerdo con la mayoría de los expertos médicos, el mejor momento para la circuncisión es **nunca** ([Ritter_y_Denniston_1996]_). El procedimiento es innecesario en el mejor de los casos. Es doloroso, y hay alguna evidencia de que el dolor en la temprana infancia lo vuelve a uno más sensible al dolor a lo largo de la vida ([Ruda_et_al_2000]_).
+
+2. Requerir algún conocimiento especial para esta revelación asume que los antiguos hebreos eran estúpidos. La enfermedad hemorrágica clásica del recién nacido normalmente aparece entre el segundo y quinto día ([Zipursky_1999]_); no requeriría demasiada observación ni pensamiento concluir que sería mejor esperar hasta que el peor peligro ha pasado.
+
+   Se dice que los susus cerca de Timbuctú y los guemos de Sudamérica también realizan el ritual el octavo día ([Hirsch_et_al_nd]_).
+
+3. La exactitud en un punto no indica exactitud en general.
+
+Referencias
+===========
+
+.. [Hirsch_et_al_nd]    Hirsch, Emil G. et al. n.d. Circumcision. JewishEncyclopedia.com http://www.jewishencyclopedia.com/view.jsp?artid=514&letter=C&search=circumcision
+.. [Ritter_y_Denniston_1996]    Ritter, T. J. and G. C. Denniston. 1996. (v. más abajo)
+.. [Ruda_et_al_2000]    Ruda, M. A., Q-D. Ling, A. G. Hohmann, Y. B. Peng and T. Tachibana. 2000. Altered nociceptive neuronal circuits after neonatal peripheral inflammation. *Science* 289: 628-630. Cfr. Helmuth, L., 2000. Early insult rewires pain circuits. *Science* 289: 521-522.
+.. [Zipursky_1999]    Zipursky, Alvin. 1999. Prevention of vitamin K deficiency bleeding in newborns. *British Journal of Haematology* 104: 430-437.
+
+Otras lecturas
+==============
+Ritter, Thomas J. and George C. Denniston. 1996. Say *No to circumcision!*, 2nd ed. Aptos, CA: Hourglass Book Publishing.
+
+
+/////
+
+Anterior: :strong:`CH135` | Siguiente: :doc:`CH135_2`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

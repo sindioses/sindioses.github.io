@@ -1,0 +1,31 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. date: 2008-09-23 00:00:00
+.. category: Noticias de la ciencia
+.. title: Aumentan las zonas muertas en el mar
+.. description: Las conversaciones sobre ecología son, por lo general, negativas. Los científicos no esconden los conmovedores resultados de décadas de estudios que muestran que nuestros océanos y mares están enfermos y somos los seres humanos los que sufriremos las nefastas consecuencias.
+.. type: nocie
+.. author: Glenys Álvarez
+.. tags: medio ambiente
+
+    **Medio Ambiente.** Las conversaciones sobre ecología son, por lo general, negativas. Los científicos no esconden los conmovedores resultados de décadas de estudios que muestran que nuestros océanos y mares están enfermos y somos los seres humanos los que sufriremos las nefastas consecuencias.
+
+.. class:: primera
+
+Jeremy Jackson goza de un porte calmado que no concuerda con las noticias y las advertencias que expondrá en unos minutos durante su charla. Decenas de periodistas latinoamericanos se han dado cita en este pequeño salón de conferencias del Instituto de Oceanografía Scripps, justo al lado del Océano Pacífico, para escuchar los escalofriantes resultados que el profesor de la Universidad de California en San Diego (UCSD) ha obtenido a través de décadas de estudios, observaciones y análisis.
+Las noticias son perturbadoras. Las fotos que Jackson nos muestra, junto a sus estadísticas, indican que ya nos queda muy poco para terminar con los corales, esos bosques costeros de intensos colores donde habita una cantidad enorme de vida marina. Los corales en las imágenes del profesor de oceanografía están caracterizados por puntos blancos que adornan sus crestas, como si cáscaras de pequeños huevos hubiesen sido situadas sobre sus puntas. Jackson nos explica que se trata de un síntoma. Los corales del mundo atraviesan por un sinnúmero de daños con orígenes diferentes. Estos organismos necesitan, por ejemplo, de algas para sobrevivir, también requieren de oxígeno rico y limpio, sin embargo, la contaminación de las aguas ha enturbiado, literal y figurativamente, estos vitales ecosistemas costales.
+“Hemos estudiado diversos tipos de islas en el Pacífico, islas con diferentes cantidades de habitantes, algunas completamente deshabitadas, y lo que observamos fue, precisamente, el daño que hace el humano. En las islas sin personas, los corales y la vida marina en las costas estaban en perfectas condiciones”, explicó Jackson.
+Ciertamente, de acuerdo con David E. Vaughan, director del Centro para la Investigación de Arrecifes de Corales en Mote, hemos perdido el 25% de los corales del mundo en los últimos 25 años. Pero lo peor no es eso. Según el oceanógrafo, “25% más se espera morirá en los próximos dos años. A veces las personas no quieren hablar con nosotros porque sólo tenemos malas noticias, desafortunadamente, es la verdad”.
+De hecho, un nuevo estudio publicado ayer, agrega nuevos datos negativos sobre nuestros océanos y mares. De acuerdo con investigadores del Instituto de Ciencias Marinas de la Universidad William and Mary, en Virginia, y de la Universidad de Gotemburgo, en Suecia, las zonas muertas en los océanos del mundo, donde la ausencia de oxígeno impide el desarrollo de vida marina, aumentaron más de un tercio entre 1995 y 2007.
+Los factores más importantes de esa catástrofe oceánica son el vertido de fertilizantes y la quema de combustibles fósiles, según científicos.
+
+La importancia de las algas
+..............................
+Las advertencias de Jackson se tornan más reales cuando las noticias confirman sus amonestaciones. Sus imágenes de corales enfermos debido a la contaminación son un efectivo recordatorio sobre la condición de nuestras aguas. Ahora, el aumento de las zonas muertas en el mar se ha convertido en el principal agente de presión sobre los ecosistemas marinos, en el mismo nivel de la pesca excesiva, la pérdida de hábitat y otros problemas ambientales. “Este aumento se debe a que ciertos nutrientes, especialmente nitrógeno y fósforo, entran en las aguas costeras y su exceso mata las algas. Al morir, esas plantas microscópicas se hunden hasta el fondo marino y se convierten en alimento de bacterias que en el acto de la descomposición consumen el oxígeno circundante”, explica la agencia Efe. Ese proceso se llama "hipoxia" y ya lo habíamos explicado antes aquí en El Caribe, precisamente en otro artículo sobre estas zonas muertas.
+
+Cambio abrupto en poco tiempo
+..............................
+Según información obtenida de las agencias Efe y EurekaAlert, Robert Díaz, profesor del Instituto de Ciencias Marinas, y Rutger Rosenberg, científico de la Universidad de Gotemburgo, existen en la actualidad 405 zonas muertas en aguas cercanas a las costas en todo el mundo, lo que supone una superficie de más de 26,500 kilómetros cuadrados. Díaz, quien comenzó a estudiar estas zonas muertas desde mediados del decenio de 1980 tras advertir el problema en las aguas de la Bahía de Chesapeake, en la región atlántica de EE.UU., señala que en 1995 ya había 305 zonas muertas en todo el mundo. De acuerdo al científico, el número de zonas muertas en el mundo a comienzos del siglo pasado era de sólo cuatro, aumentó a 49 a mediados del decenio de 1960, a 87 en el de 1970 y a 162 en el de 1980. "No existe otra variable de tanta importancia para los ecosistemas marinos costeros que haya cambiado tan drásticamente y en un lapso tan corto", señalan Díaz y Rosenberg en el estudio.
+
+
+
+.. include:: includes/nocie_pie.inc

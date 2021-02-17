@@ -1,0 +1,41 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB500
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB501
+.. link: http://www.talkorigins.org/indexcc/CB/CB501.html
+.. date: 2005-2-15
+.. title: CB501: La dendrocronología es dudosa porque pueden crecer dos o más anillos por año
+.. description: Respuesta a la afirmación creacionista «La dendrocronología es dudosa porque pueden crecer dos o más anillos por año»
+.. type: afirmacrea
+
+Durante un año se producen dos o más períodos de crecimiento por año, de modo que las fechas derivadas de los anillos de los árboles (dendrocronología) son dudosas.
+
+**Fuente:**
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, 193.
+
+Respuesta
+===========
+
+1. Para algunos árboles, incluyendo el pino de Balfour, el pino real americano y el pino de Oregón, los anillos dobles son raros y fáciles de detectar con un poco de práctica. Un problema mayor son los anillos perdidos; un pino de Balfour puede tener hasta el 5 por ciento de sus anillos perdidos. Por lo tanto, las fechas derivadas de la dendrocronología, si es que son dudosas, es por indicar edades demasiado jóvenes.
+
+   Para la mayoría de los registros dendrocronológicos, las fechas se determinan a partir de más de un único origen, de modo que se puede detectar y corregir los errores.
+
+2. La dendrocronología está de acuerdo a grandes rasgos con la datación con carbono 14, de modo que aunque esté errada, no lo está por mucho; ciertamente no hay errores en varios órdenes de magnitud, como lo requerirían las nociones de una tierra joven.
+
+Enlaces
+===========
+
+Matson, Dave E., 1994. How good are those young-earth arguments? A close look at Dr. Hovind's list of young-earth arguments and other claims. http://www.talkorigins.org/faqs/hovind/howgood-yea2.html#proof27
+
+
+/////
+
+Anterior: :doc:`CB440` | Siguiente: :doc:`CB510`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

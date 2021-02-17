@@ -1,0 +1,28 @@
+@echo off
+*setlocal
+call ba:GetOpt.btm %$
+
+iff defined Option_H then
+ text
+ openlinks [/N:navegador] [/L]
+
+ Abrir los enlaces indicados en openlinks.lst
+
+ /N   Elegir navegador alternativo
+
+ endtext
+ quit 1
+endiff
+
+iff defined Option_N then
+ set cmd=D:\UTIL\k-meleon\k-meleon.exe
+ : set cmd=C:\Users\Kilroy\AppData\Local\Vivaldi\Application\vivaldi.exe
+else
+ set cmd=firefox
+endiff
+
+set pid=%@pid[nikola.exe]
+if %pid==0 start nikola serve
+do lnk in @openlinks.lst
+  %cmd %lnk
+enddo

@@ -1,0 +1,53 @@
+.. title: CB620: El crecimiento de la población humana indica una Tierra joven
+.. slug: CB620
+.. date: 2003-07-05 02:00:00+00:00
+.. tags: CA, CB600
+.. category: Afirmaciones de los creacionistas
+.. link: http://www.talkorigins.org/indexcc/CB/CB620.html
+.. description: Respuesta a la afirmación creacionista «El crecimiento de la población humana indica una Tierra joven»
+.. type: afirmacrea
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. has_math: yes
+.. nocomments: True
+
+Una asunción razonable de tasa de crecimiento de población (0,5 por ciento) coincide con una población que comenzó con dos personas hace unos 4000 años, no con una historia humana de millones de años.
+
+**Fuente:**
+
+Morris, Henry M. 1985. *Scientific Creationism*. Green Forest, AR: Master Books, pp. 167-169.
+
+Respuesta
+===========
+
+1. Esta afirmación asume que la tasa de crecimiento de la población siempre fue constante, lo cual es una asunción falsa. Las guerras y las plagas habrían causado que las poblaciones descendieran de tanto en tanto. En particular, los tamaños poblacionales anteriores a la agricultura habrían estado severamente limitadas y hubieran tenido un crecimiento poblacional promedio de cero por un nùmero indeterminado de años.
+
+2. No hay razón particular para elegir una tasa de crecimiento de población de 0,5 por ciento para el cálculo. El crecimiento de población de 1000 a 1800 ha sido más cercano a 0,1227 por ciento por año ([Enciclopedia_Britanica_1984]_). En esa proporción, la población habría crecido hasta su tamaño actual a partir de ocho sobrevivientes del Diluvio en 16.660 años.
+
+3. La tasa de crecimiento poblacional propuesta en esta afirmación implicaría poblaciones irrazonables en la historia temprana. Seremos mas generosos en nuestros cálculos y empezaremos con ocho personas en 2350 AEC (una fecha tradicional para el Diluvio). Luego, asumiendo una tasa de crecimiento de 0,5 por ciento por año, la población luego de *N* años está dada por
+
+   .. math::
+
+      P_N = 8 \\times {1.005}^N
+
+   Las Pirámides de Giza se construyeron ants de 2490 AEC, incluso antes de la fecha propuesta para el Diluvio. Incluso si asumimos que se construyeron 100 años antes del diluvio, entonces la población mundial para su construcción eran 13 pesonas. En 1446 AEC, cuando se decía que Moisés lideraba a 600.000 hombres (más las mujeres y los niños) en el Éxodo, este modelo de crecimiento de población resulta en 726 personas en el mundo. en 481 AEC, Jerjes reunión un ejército de 2.641.000 (de acuerdo con Heródoto) cuando la población mundial, de acuerdo con el modelo, sería de 89.425. Incluso aceptando números exagerados, el modelo de población no tiene sentido.
+
+Enlaces
+========
+
+Elsberry, Wesley R., 1998. Population size and time of creation or Flood. http://www.rtis.com/nat/user/elsberry/evobio/evc/argresp/populate.html
+
+Referencias
+============
+
+.. [Enciclopedia_Britanica_1984] Encyclopaedia Britannica, 1984, Population. *Encyclopaedia Britannica* vol. 14: 816.
+
+
+/////
+
+Anterior: :doc:`CB610` | Siguiente: :doc:`CB621`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

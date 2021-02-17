@@ -1,0 +1,37 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA000
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA042
+.. link: http://www.talkorigins.org/indexcc/CA/CA042.html
+.. date: 2005-10-14 02:00:00+00:00
+.. title: CA042: Se puede enseñar biología sin enseñar evolución
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Se puede enseñar biología sin enseñar evolución»
+
+No hace falta enseñar evolución en las aulas. Las partes importantes de la biología, tales como el funcionamiento de los organismos, cómo se clasifican y cómo interactúan entre sí, no dependen de la evolución.
+
+Respuesta:
+
+1. La biología sin evolución es historia natural, no biología. Hay gran cantidad de información importante en la historia natural que hay que enseñar, pero la evolución es la idea unificadora que lo une todo, permitiéndonos no sólo conocer los hechos sino entenderlos y saber de dónde vienen. Enseñar biología sin evolución sería como enseñar química sin la tabla periódica de los elementos.
+
+2. Para citar a un corresponsal anónimo que escribió a TalkOrigins.org (comunicación del 15 de junio de 2003):
+
+    La evolución importa porque la ciencia importa, y demasiada gente (incluyendo a algunos presidentes) está dispuesta a creer que la ciencia es algo en lo que uno puede elegir lo que le gusta, donde la ciencia "buena" es la que apoya tus opiniones y la ciencia "mala" es la que no lo hace. Los físicos son grandiosos porque no dicen nada que nos ofenda, los biólogos son científicos locos que nos llevan por el camino de la perdición entrometiéndose en los genes, los evolucionistas son tontos ilusos y cualquiera que estudie la ciencia del medio ambiente es un izquierdista amante de los árboles cuya única meta es destruir la economía estadounidense y llevarnos a un gobierno mundial. Si los científicos en una disciplina dada discuten sobre cualquier conclusión, el que dice lo que uno quiere escuchar ese el que tiene razón. Demasiada gente es incapaz de aceptar que aunque los científicos no son perfectos y se equivocan (a veces seriamente), la ciencia no es algo de lo que se puede elegir como si fuera un menú, aceptando sólo lo que nos gusta y afirmando que el resto es incomible. Si la gente se siente libre de rechazar la base científica de la evolución, se sienten libres de rechazar cualquier ciencia con fundamentos igual de malos. El que mis estudiantes aceptan o no la evolución puede tener poco efecto directo en mi futuro. El que entiendan o no acerca de biología, ecología, geología ambiental (en mi comunidad el agua es un tema muy importante) y otros temas, y puedan tomar decisiones informadas sobre cuestiones científicas, *sí* importa. Si se sienten libres de rechazar la evolución como parte de una actitud de "menú" hacia la ciencia, sus otras decisiones no habrán sido tomadas con mejores argumentos
+
+Enlaces
+========
+
+Dobzhansky, Theodosius, 1973. Nothing in biology makes sense except in the light of evolution. The American Biology Teacher 35: 125-129. http://people.delphiforums.com/lordorman/light.htm or http://www.2think.org/dobzhansky.shtml o http://www.pbs.org/wgbh/evolution/library/10/2/text_pop/l_102_01.html
+
+/////
+
+Anterior: :doc:`CA041` | Siguiente: :doc:`CA045`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

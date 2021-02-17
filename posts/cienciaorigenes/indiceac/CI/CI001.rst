@@ -1,0 +1,62 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CI, CI000
+.. author: Mark Isaac, traducción de Paulina Madariaga
+.. nocomments: True
+.. date: 2005-4-15
+.. type: afirmacrea
+.. title: CI001: La teoría del diseño inteligente es científica
+.. description: Respuesta a la afirmación creacionista «La teoría del diseño inteligente es científica»
+.. slug: CI001
+.. link: http://www.talkorigins.org/indexcc/CI/CI001.html
+
+**Fuente**
+===========
+
+Dembski, William A., 1998. *The Design Inference*. Cambridge University Press.
+
+
+Respuesta
+===========
+
+1. Los términos usados en la teoría del diseño no están definidos. El "diseño", en la teoría del diseño, no tiene nada que ver con el "diseño" como es normalmente entendido. El diseño es definido en términos de un agente que intencionalmente ordena algo, pero un concepto como ese no aparece en ninguna parte del proceso de distinguir diseño en el sentido de "diseño inteligente". Dembski definió diseño en términos de lo que no es (regularidad conocida y azar), lo que vuelve al diseño inteligente un :doc:`argumento de incredulidad <CA100>`; nunca dijo lo que el diseño es.
+
+   Una solución a un problema debe abordar los parámetros del problema, o es solo un gesto irrelevante. Cualquier teoría sobre el diseño debe abordar al agente y su propósito, o no es realmente sobre el diseño. Ningún teórico del diseño inteligente ha incluido nunca un agente o propósito en sus intentos de expresar una teoría científica del diseño, y algunos explícitamente dicen que no pueden ser incluidos ([Dembski_2002]_, p. 313). Más aún, incluso si la teoría del diseño inteligente pudiera probar el diseño, no significaría  prácticamente nada; ciertamente, nada diría sobe el diseño en el sentido usual.
+
+   La :doc:`complejidad irreductible <CB200>` también falla como ciencia, porque también es un argumento de incredulidad que no tiene nada que ver con el diseño.
+
+2. El diseño inteligente es subjetivo. Incluso en la intrincada formulación matemática de Dembski, las especificaciones de su complejidad especificada pueden ser determinadas a posteriori, haciendo que la "especificación" sea un concepto subjetivo. Dembski ahora habla de "complejidad especificada aparente" en oposición a "complejidad especificada real", de las cuales solo la última indica diseño. Sin embargo, en principio, es imposible distinguir entre los dos ([Elsberry_n_d]_).
+
+3. El diseño inteligente infiere resultados que son contrarios al sentido común. Las telas de araña, en apariencia, satisfacen los estándares de la complejidad especificada, lo cual insinúa que las arañas son inteligentes. Uno podría, en vez de eso, afirmar que la complejidad fue diseñada en la araña y en sus habilidades. Pero si se hace esa afirmación, uno podría simplemente decir que el diseñador de la araña no era inteligente, sino que fue inteligentemente diseñado, o quizás que el diseñador del diseñador de la araña era inteligente. Más aún, o bien las arañas son inteligente o la teoría del diseño inteligente se reduce a un débil deísmo, donde todo el diseño entró en el universo solo una vez al comienzo, o términos como la "complejidad especificada" no tienen una definición útil.
+
+4. El movimiento del diseño inteligente no pretende ser sobre ciencia. Phillip Johnson, quien encabezó y lideró el movimiento, dijo en términos bastante claros que se trataba de religión y filosofía, pero no sobre ciencia ([Belz_1996]_).
+
+
+Referencias
+============
+
+.. [Belz_1996] Belz, Joel. 1996. Witnesses for the prosecution. *World Magazine* 11(28): 18. http://www.leaderu.com/pjohnson/world2.html
+
+.. [Dembski_2002] Dembski, William A., 2002. *No Free Lunch*. Lanham, MD: Rowman & Littlefield.
+
+.. [Elsberry_n_d] Elsberry, Wesley R., n.d. What does "intelligent agency by proxy" do for the design inference? http://www.talkreason.org/articles/wre_id_proxy.cfm
+
+
+Lecturas recomendadas
+=========================
+
+Elsberry, Wesley, 2000. The anti-evolutionists: William A. Dembski. http://www.antievolution.org/people/dembski_wa/sc.html
+
+Frank, Patrick, 2004. On the assumption of design. *Theology and Science* 2(1): 109-130.
+
+Pennock, Robert T., 2003. Creationism and intelligent design. *Annual Review of Genomics and Human Genetics* 4: 143-163.
+
+/////
+
+Anterior: :doc:`CH910` | Siguiente: :doc:`CI001_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

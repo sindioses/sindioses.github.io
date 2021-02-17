@@ -1,0 +1,42 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2003-4-21
+.. type: afirmacrea
+.. title: CB101.1: Las mutaciones son accidentes, y nada se construye por accidente
+.. description: Respuesta a la afirmación creacionista «Las mutaciones son accidentes, y nada se construye por accidente»
+.. slug: CB101_1
+.. link: http://www.talkorigins.org/indexcc/CB/CB101_1.html
+
+**Fuente:**
+
+Watchtower Bible and Tract Society. 1985. *Life--How Did It Get Here?* Brooklyn, NY, pg. 102.
+
+Morris, Henry M. 1985. Scientific Creationism. Green Forest, AR: Master Books, p. 55. 
+
+Respuesta
+=========
+
+1. Hay más factores en la evolución además de la mutación. un porcentaje pequeño de mutaciones son benéficas, y la selección puede causar que las mutaciones benéficas persistan y las dañinas desaparezcan. La combinación de mutación y selección puede crear nuevas adaptaciones útiles
+   
+   A veces las cosas se construyen por accidente. Muchos descubrimientos empiezan siendo accidentes para los que la gente reconoce utilidad. La selección ha operado en contra de muchos otros diseños (accidentales o no), es decir, han sido descartados. El diseño mismo es un proceso evolutivo.
+
+2. Los experimentos y el análisis genético muestran que las mutaciones, más la selección, explican las nuevas adaptaciones ([Max_1999]_)
+   
+Enlaces y referencias
+=====================
+
+.. [Max_1999] Max, Edward E. 1999. The evolution of improved fitness by random mutation plus selection. http://www.talkorigins.org/faqs/fitness/
+
+		
+/////
+
+Anterior: :doc:`CB101` | Siguiente: :doc:`CB101_2`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

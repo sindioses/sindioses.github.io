@@ -1,0 +1,65 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. tags: escepticismo, vacunación, autismo
+.. description: «Muchos han relacionado el autismo con las vacunas porque comienzan a notar los síntomas a la misma edad en que fueron administradas. Esto ha cambiado en los últimos años porque los médicos son capaces de diagnosticar el autismo antes de que el niño haya sido vacunado. Lo que descarta la culpabilidad de la vacuna.»
+.. date: 2008-10-05 12:00:00
+.. title: Autismo: de la preocupación a la "conspiranoia"
+.. category: La lupa herética
+.. type: lupa
+.. author: Glenys Álvarez
+
+
+.. |tit| replace:: Autismo: de la preocupación a la "conspiranoia"
+
+.. class:: primera
+
+A los humanos nos encanta buscarle una explicación a todo. Odiamos las ambigüedades, las respuestas a medias y carecemos de la paciencia suficiente para esperar que se formen las evidencias. Inventamos, aunque quedemos como reticentes y obstinadas mulas después. Curiosamente, nuestros inventos están, por lo general, tan desconectados de la realidad que es impresionante que todavía en el siglo XXI tengamos que defender la razón y los hechos frente a lo extraordinariamente absurdo.
+
+El otro día publiqué los resultados del más grande estudio realizado sobre el tema y se lo envié. Su respuesta: “el problema no está ahí solamente, sino en el uso de mercurio (timerosal) para la conservación de las vacunas”. Un punto sumamente importante en países donde no se manufacturan estas vacunas y hay que protegerlas. De hecho, retirar el mercurio, como se ha hecho en algunos lugares, podría causar mayores problemas. Y ni hablar de no vacunar a los niños, eso sí sería un error descomunal.
+
+Pero no tuve que ir muy lejos para descubrir detalladas respuestas y, así leí, cómo una manzana podrida puede poner en peligro a aquellos cuyos pensamientos saltan con destreza de la suposición, a la conspiración y la paranoia. Síganme en esta escalera indicativa del peligro en la ignorancia empecinada.
+
+Todo comenzó con un fraude científico publicado en The Lancet, un respetado diario. Son cosas que ocurren, por eso, como decía en la columna pasada, el quehacer científico se ha dotado de normas para disminuir estas bufonadas. Parte de mis respuestas las descubrí en este detallado artículo (http://www.csicop.org/si/2007-06/novella.html) publicado en la edición de noviembre-diciembre del 2007 por Skeptical Inquirer y escrito por el profesor de neurología de la escuela de medicina en la Universidad de Yale, `Steven Novella`_.
+
+.. class:: izquierda
+.. figure:: glenys20081005-wakefield.jpg
+   :alt: Andrew Wakefield
+   :align: center
+
+   Andrew Wakefield
+
+Novella explica primero ciertos intereses nacidos de una verdadera preocupación. Un grupo de ocho familias estadounidenses con niños autistas demanda a las farmacéuticas basado en el estudio de Andrew Wakefield y sus colegas. El experimento aseguraba que los virus en las vacunas causaban un problema gastrointestinal que, a su vez, provocaba las complicaciones neuronales. El estudio de Wakefield nunca fue corroborado por otros. Más aún, cuando las evidencias en su contra comenzaron a ser publicadas, The Lancet enseguida le retiró su apoyo.
+
+Pero la cosa se puso peor. Según Novella, el reportero investigador Brian Deer descubrió que Wakefield tenía, más que autismo, dinero en mente. El hombre había aplicado para comprar patentes de nuevas vacunas triples (MMR, en inglés, SRP en español) que protegieran contra ese autismo que él se empeñaba en asegurar las demás producía. También descubrieron que el laboratorio donde trabajó ya estaba contaminado con el sarampión, lo que pudo impurificar sus muestras.
+
+.. image:: glenys20081005-defensawakefield.jpg
+   :alt:
+   :align: right
+
+Es posible que Wakefield pierda su licencia muy pronto, pero las familias no ceden. Tercamente, este grupo ha convertido a Wakefield en un mártir y su fraude científico es ahora una teoría de conspiración, más bien “conspiranoica”, contra las casas farmacéuticas, las que ya, de todas formas, gozan de mala reputación y, como el actual gobierno estadounidense, no importa lo que hagan, son culpables de todo.
+
+El autismo y el Asperger son causados por problemas neurológicos complejos. De hecho, investigaciones recientes continúan abriendo ventanas hacia el conocimiento consumado de estos problemas sociales y de comunicación. Con el diagnóstico temprano y las evidencias de decenas de experimentos que últimamente apuntan hacia un origen genético de esta condición, no hay de qué preocuparse, los riesgos de vacunar a sus bebés son mínimos en comparación con lo que podría ocurrir si no lo hace.
+
+Todo lo demás es un ejemplo claro de lo que urde el pensamiento irracional cuando desea aferrarse a sus creencias: lo primero es descartar o desacreditar todas las evidencias para luego acusar a los grandes de tener agendas escondidas con las que desean perjudicar a toda la humanidad.
+
+El programa de vacunación es uno de los más exitosos en toda la historia de la medicina, no permita usted que una minoría incongruente eche por el suelo medidas que han salvado durante décadas a miles de millones de vidas.
+
+Cuando una cosa parece causar otra
+----------------------------------
+No más mercurio
+...............
+
+Muchos han relacionado el autismo con las vacunas porque comienzan a notar los síntomas a la misma edad en que fueron administradas. Esto ha cambiado en los últimos años porque los médicos son capaces de diagnosticar el autismo antes de que el niño haya sido vacunado. Lo que descarta la culpabilidad de la vacuna.
+
+Por otro lado, aunque las dosis de mercurio usadas para conservar las vacunas eran mínimas, las familias decidieron aferrarse a la hipótesis del timerosal y continuar con sus demandas a pesar del diagnóstico temprano y los estudios que descartaban el peligro. Tanto se empeñaron que la FDA en Estados Unidos retiró el mercurio de las vacunas en el 2002. Era la última prueba. Lo lógico sería que la cantidad de diagnósticos disminuyera en ese país, ¿no? Al contrario, seis años sin mercurio y los casos de autismo siguen en aumento.
+
+Aún así no tengo muchas esperanzas de que mi amiga cambie de opinión, sólo espero que sus hijos tengan suerte y no tengan que pagar caro la intransigencia de su madre.
+
+
+
+.. _Steven Novella: http://www.weirdsciencecolumn.com/site_weirdsciencecolumn/weirdscience-authorbio.htm
+
+.. include:: includes/colgl_pie.inc
+
+.. meta::
+   :author: Glenys Álvarez
+   :description: "Aquí les ofrezco dos ejemplos distintos en el mismo espectro del pensamiento irracional. Tengo una tía que se convirtió del catolicismo al evangelismo (no tengo idea la denominación) y en seguida se empeñó en arrebatarle a mi católica abuela su veneración por la “virgencita de la Altagracia”, para ella más importante que el mismísimo Dios. Por otro lado, una amiga no ha vacunado a sus dos hijos porque teme que las vacunas les causarán autismo."

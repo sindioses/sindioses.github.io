@@ -1,0 +1,49 @@
+﻿.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB200
+.. author: Mark Isaak. traducción de Samuel Martínez de la Iglesia
+.. nocomments: True
+.. slug: CB200_3
+.. link: http://www.talkorigins.org/indexcc/CB/CB200_3.html
+.. date: 2003-09-03
+.. title: CB200.3: El transporte de proteínas dentro de una célula es irreduciblemente complejo.
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «El transporte de proteínas dentro de una célula es irreduciblemente complejo.»
+
+
+La bioquímica en el transporte de proteínas del interior de la célula es irreduciblemente compleja, indicando que debe haber sido deiseñada.
+
+**Fuente:**
+
+Behe, Michael J. 1996. Darwin's Black Box, New York: The Free Press, páginas 98-116
+
+Respuesta
+============
+
+1. A pesar de la complejidad del sistema que describe Behe, el transporte proteíco no tiene por qué ser tan complejo. Algunas proteínas dirigen su propia secrección de tal forma que no se necesita ningún mecanismo de transpore (ver referencias en [Ussery_1999]_). Ciertamente, son posibles otros sistemas más simples que pudiesen servir como precursores al transporte vesicular.
+
+2. Muchas de las proteínas del transporte en células eucariotas tienen ''ancestros'' moleculares en bacterias. Estas moléculas, los transportadores ABC, tienen función en un sistema mucho más simple. Si Behe estuviese interesado en los sistemas más simples que tienen función, ¿por qué ni siquiera los menciona?
+
+3. La complejidad irreducible no supone un :doc:`obstáculo para la evolución <CB200>` y no :doc:`implica diseño <CI102>`.
+
+
+Referencias
+==============
+
+.. [Ussery_1999]    Ussery, David. 1999. A biochemist`s response to ``The biochemical challenge to evolution``. *Bios* 70: 40-45. http://www.indiana.edu/~ensiweb/behe.rev.html
+
+Otras lecturas
+================
+
+Ussery, David. 1999 (vide supra).
+
+
+/////
+
+Anterior: :doc:`CB200_2` | Siguiente: :doc:`CB200_4`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

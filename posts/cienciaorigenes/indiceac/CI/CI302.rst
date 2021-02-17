@@ -1,0 +1,66 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CI, CI300
+.. author: Mark Isaak, traducción de Marcelo Huerta
+.. nocomments: True
+.. date: 2004-6-30
+.. type: afirmacrea
+.. title: CI302: El cosmos está finamente ajustado para permitir el descubrimiento científico
+.. description: Respuesta a la afirmación creacionista «El cosmos está finamente ajustado para permitir el descubrimiento científico»
+.. slug: CI302
+.. link: http://www.talkorigins.org/indexcc/CI/CI302.html
+
+Las condiciones que permiten que exista la vida también proporcionan el mejor entorno para el descubrimiento científico. Por ejemplo, la luna existe con el tamaño y la distancia apropiados para que sea observable un perfecto eclipse solar total, y el eclipse total solar de 1919 fue crucial en la comprobación de la relatividad general.
+
+**Fuente:**
+
+Gonzalez, Guillermo and Jay W. Richards, 2004. *The Privileged Planet*. Washington DC: Regnery. 
+
+Respuesta
+=========
+
+1. La gente tiende a empezar con las cosas fáciles, y los científicos no son distintos. Los descubrimientos que han realizado tenderán naturalmente a producirse en áreas donde es más fácil realizar descubrimientos.
+   
+   Cuando el tráfico aéreo fue detenido por tres días luego del ataque del 11-S, los científicos aprovecharon la oportunidad para medir el efecto de los *contrails* ([Travis_et_al_2002]_). Eso no significa que el ataque del 11-S haya sido diseñado para hacer descubrimientos científicos. De igual modo, el hecho de que los científicos en general hayan hecho las mediciones que han hecho no significa que el universo haya sido diseñado para permitirles hacerlo.
+
+2. El argumento se reduce a la tautología "si las cosas hubieran sido diferentes, hubieran sido diferentes". No hay pruebas de que un universo diferente hubiera sido mejor o peor. Condiciones diferentes podrían hacer difícil observar lo que es fácil observar ahora, pero habría hecho más fáciles otras observaciones, probablemente llevando al descubrimiento de cosas que todavía no sabemos. La filosofía detrás de esta afirmación fue satirizada por Voltaire ([Voltaire_1759]_):
+
+    Demostrado está, decía Pangloss, que no pueden ser las cosas de otro modo, porque habiéndose hecho todo con un fin, éste no puede menos de ser el mejor de los fines. Nótese que las narices se hicieron para llevar anteojos; por eso nos ponemos anteojos; las piernas notoriamente para las calzas, y usamos calzas; las piedras para ser talladas y hacer castillos; por eso su señoría tiene un hermoso castillo: el barón principal de la provincia ha de estar mejor aposentado que ninguno; y como los marranos nacieron para que se los coman, todo el año comemos tocino: en consecuencia, los que afirmaron que todo está bien, han dicho una tontería; debieron decir que nada puede estar mejor.
+
+3. En muchas formas, la configuración del universo dificulta el descubrimiento científico. Por ejemplo:
+
+   * Es muy difícil llegar a objetos en el espacio. Están muy lejos; el vacío intermedio es hostil hacia la vida; nuestro pozo gravitacional vuelve costoso dejar la Tierra.
+   * La velocidad de la luz dificultaría las comunicaciones en el supuesto de que llegáramos a explorar la galaxia.
+   * Nuestras vidas son demasiado cortas para registrar individualmente muchos cambios importantes en la naturaleza.
+   * Nadie conoce una forma´fácil de conocer la estructura de las proteínas.
+   * Parece no haber vida en otro planeta con la cual comparar la vida terrestre.
+   * La exploración submarina nos resulta bastante inconveniente.
+   * Nuestros cerebros pueden estar estructurados de forma tal que algunas cosas sean difíciles de entender. Mucha gente, por ejemplo, no parece entender que la pregunta "¿Qué hay afuera del universo?" no tiene sentido. La mecánica cuántica y la relatividad también son dificiles de conceptualizar. Y la tendencia a categorizar las cosas en distintos "tipos" puede ser biológica. (Es útil para el lenguaje, pero dificulta la comprensión de la evolución.)
+     
+4. Un universo cuyas leyes son fáciles de descubrir implica un universo simple, pero los teóricos del diseño siguen diciéndonos lo complicadas que son las cosas.
+
+5. La importancia del eclipse de 1919 en establecer la verdad sobre la relatividad puede haber sido exagerada ([Collins_1998]_; cfr. [Stanley_2003]_). La relatividad general, como la mayoría de las teorías, se estableció por una multitud de observaciones consistentes.
+   
+Referencias
+===========
+
+.. [Collins_1998]    Collins, Harry, 1998. Hit or myth? *New Scientist* 159(2151) (12 Sep.): 36-39.
+.. [Stanley_2003]    Stanley, Matthew, 2003. "An expedition to heal the wounds of war": The 1919 eclipse and Eddington as Quaker adventurer. *Isis* 94: 57-89.
+.. [Travis_et_al_2002]    Travis, D. J., A. M. Carleton and R. G. Lauritsen, 2002. Contrails reduce daily temperature range. *Nature* 418: 601.
+.. [Voltaire_1759]    Voltaire, 1759. (v. abajo) 
+
+Otras lecturas
+==============
+
+Voltaire, 1759. *Cándido o el optimismo*. http://ciudadseva.com/texto/candido-o-el-optimismo/
+
+		
+/////
+
+Anterior: :doc:`CI301` | Siguiente: :doc:`CI401`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

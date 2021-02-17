@@ -1,0 +1,86 @@
+﻿.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB300
+.. author: Mark Isaac, traducción de Paulina Madariaga
+.. nocomments: True
+.. slug: CB310
+.. link: http://talkorigins.org/indexcc/CB/CB310.html
+.. date: 2004-2-19 02:00:00+00:00
+.. title: CB310: El escarabajo bombardero es demasiado complejo como para haber evolucionado.
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «El escarabajo bombardero es demasiado complejo como para haber evolucionado.»
+
+El escarabajo bombardero no puede ser explicado a través de la evolución. Debió haber sido diseñado.
+
+**Fuente**
+===========
+
+AIG, 1990. The amazing bombardier beetle. *Creation Ex Nihilo* 12(1): 29.
+
+Gish, Duane T., 1977. *Dinosaurs: Those Terrible Lizards*. El Cajon, CA: Master Book, pp. 51-55.
+
+
+Respuesta
+===========
+
+1. Este es un :doc:`argumento de incredulidad <CA100>`. Se basa, en parte, en una :doc:`descripción imprecisa <CB310_1>` de cómo funciona el mecanismo del escarabajo bombardero, pero incluso así el argumento descansa exclusivamente en el total desinterés de buscar evidencia. De hecho, idear un camino evolutivo que se haga cargo del escarabajo bombardero no es algo difícil (Isaak, 1997). Una secuencia plausible (muy abreviada) es esta:
+
+   a. Los insectos producen quinona para oscurecer su cutìcula. La quinona los vuelve poco agradables de sabor, por lo que los insectos evolucionan para producir más quinona y otros químicos defensivos, incluyendo la hidroquinona.
+
+   b. Los insectos han evolucionado para tener cavidades donde guardar la quinona y músculos que la expulsan hacia su superficie cuando hay riesgo de que sean devorados. La cavidad se convierte en una reserva con glándulas secretoras que los abastecen de hidroquinona. Esta configuración existe en muchos escarabajos, incluso en parientes cercanos del escarabajo bombardero ([Forsyth_1970]_).
+
+   c. El peróxido de hidrógeno se mezcla con la hidroquinina. Las catalasas y los peroxidasas aparecen en el pasaje de salida de la reserva, asegurando que más quinona esté disponible en el producto exudado.
+
+   d. Se producen más catalasas y peroxidasas, generando oxígeno y produciendo una secreción espumosa, como ocurre con el escarabajo bombardero *Metrius contractus*. ([Eisner_et_al_2000]_).
+
+   e. Cuando el pasaje de salida se convierte en una cámara reactiva endurecida, se producen incluso más catalasas y peroxidasas, lo que nos lleva gradualmente a los actuales escarabajos bombarderos.
+
+   Todos esos pasos son pequeños o pueden ser fácilmente separados en otros incluso más pequeños, y es probable que todos sean selectivamente ventajosos. Se sabe que varias de esas etapas intermedias son posibles por el simple hecho de que existen en otras especies vivas.
+
+2. Los escarabajos bombarderos ilustran, de diferentes formas, que la vida no parece haber sido diseñada:
+
+   - Si hubiera diseño, esperaríamos que se creen formas similares para funciones similares y formas diferentes para funciones diferentes ([Morris_1974]_, p. 70). Sin embargo, lo que vemos son diferentes formas para las mismas funciones. Muchos escarabajos de tierra tienen hábitos y habitats similares por ser centípedos, pero sus formas difieren enormemente. Diferentes grupos de escarabajos bombarderos usan mecanismos diferentes para la misma función de lanzar su espray ([Eisner_1958]_; [Eisner_y_Aneshansley_1982]_).
+
+   - Algunas formas no tienen una función. Algunas escarabajos bombarderos tienen alas vestigiales ([Erwin_1970]_, pp. 46,55,91,114-115,119).
+
+   - Si los escarabajos bombarderos tienen un propósito, entonces la muerte es una parte importante de él, dado que los escarabajos son depredadores (algunos, como las larvas, son parasitarios, y devoran gradualmente la carne de otros escarabajos [Erwin_1967]_), y su espray es una defensa frente otros depredadores. Muchos creacionistas afirman que la muerte no era parte del plan de Dios.
+
+Enlaces
+========
+
+Isaak, Mark, 1997. Bombardier beetles and the argument of design. http://www.talkorigins.org/faqs/bombardier.html
+
+Referencias
+==============
+
+.. [Erwin_1967] Erwin, Terry L., 1967. Bombardier beetles (Coleoptera, Carabidae) of North America: Part II. Biology and behavior of *Brachinus pallidus* Erwin in California. *Coleopterists' Bulletin* 21: 41-55.
+
+.. [Erwin_1970] Erwin, Terry L., 1970. A reclassification of bombardier beetles and a taxonomic revision of the North and Middle American species (Carabidae: Brachinida). *Quaestiones Entomologicae* 6: 4-215.
+
+.. [Eisner_1958] Eisner, T., 1958. The protective role of the spray mechanism of the bombardier beetle, *Brachynus ballistarius* Lec. *Journal of Insect Physiology* 2: 215-220.
+
+.. [Eisner_y_Aneshansley_1982] Eisner, T. and D. J. Aneshansley, 1982. Spray aiming in bombardier beetles: jet deflection by the Coanda effect. *Science* 215: 83-85.
+
+.. [Eisner_et_al_2000] Eisner, T., D. J. Aneshansley, M. Eisner, A. B. Attygalle, D. W. Alsop and J. Meinwald, 2000. Spray mechanism of the most primitive bombardier beetle (Metrius contractus). *Journal of Experimental Biology* 203: 1265-1275.
+
+.. [Forsyth_1970] Forsyth, D. J., 1970. The structure of the defence glands of the Cicindelidae, Amphizoidae, and Hygrobiidae (Insecta: Coleoptera). *Journal of Zoology, London* 160: 51-69.
+
+.. [Morris_1974] Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books.
+
+Lecturas recomendadas
+======================
+
+Weber, C. G., 1981. The bombardier beetle myth exploded. *Creation/Evolution* 2(1): 1-5.
+
+Angier, N., 1985. Drafting the bombardier beetle. *Time* (Feb. 25), 70.
+
+
+/////
+
+Anterior: :doc:`CB303` | Siguiente: :doc:`CB310_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

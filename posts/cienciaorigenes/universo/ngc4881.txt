@@ -1,0 +1,20 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. author: American Astronomical Society y Astronomical Society of the Pacific
+.. date: 2004-04-25 00:00:00
+.. description: Una Edición Especial de: The Universe in the Classroom, Un Boletín de Prensa para enseñar Astronomía en los Grados 3-12
+.. title: Galaxias
+.. category: Ciencia de los orígenes
+.. type: ciori
+
+.. image:: NGC4881.jpg
+   :alt:
+   :align: center
+
+.. class:: primera
+
+Esta fotografía del Telescopio Espacial Hubble muestra una selección de grandes "islas" de galaxias de miles de millones de estrellas vistas en cada dirección en que nuestros telescopios puede ver. El área de cielo vista aquí es tan pequeña como el ojo del presidente Roosvelt en la moneda de diez centavos de dólar de EUA, cuando ésta es sostenida con el brazo extendido. La galaxia que parece tan grande arriba a la izquierda se encuentra a 300 millones de años luz de distancia - tan lejos que su luz se tarda 300 millones de años en llegar a nosotros. Algunas de las galaxias que se miran más pequeñas están aun más lejos. De hecho, todo lo que no es circular en esta imagen es una galaxia de estrellas. (Cortesía de William Baum, Space Telescope Science Institute, y NASA.)
+
+`<< Volver <universo1.html>`__
+
+
+.. include:: includes/ciori_pie2.inc

@@ -1,0 +1,51 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB360_1
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB360_1
+.. link: http://www.talkorigins.org/indexcc/CB/CB360_1.html
+.. date: 2007-2-20
+.. title: CB360.1: El apéndice humano es funcional, no vestigial
+.. description: Respuesta a la afirmación creacionista «El apéndice humano es funcional, no vestigial»
+.. type: afirmacrea
+
+El apéndice humano no es realmente vestigial. Tiene una función inmunológica como parte del sistema linfático. Sus folículos linfoides producen anticuerpos.
+
+**Fuente:**
+
+Ham, Ken, and Carl Wieland, 1997. Your appendix: It's there for a reason. *Creation Ex Nihilo* 20(1):41-43. http://www.answersingenesis.org/docs/357.asp
+
+Respuesta
+=============
+
+1. :doc:`Vestigial no significa carente de función <CB360>`. El apéndice surge como parte de los tegidos del sistema digestivo; es homólogo al final del ciego de los mamíferos. Dado que no funciona como parte del aparato digestivo, es una parte vestigial de dicho sistema, sin importar que otras funciones pueda tener.
+
+2. El apéndice humano puede no ser funcional. Su ausencia no produce efectos dañinos conocidos (además de las complicaciones quirúrgicas de extirparlo). Cuando está presente, hay un 7 por ciento de riesgo de apendicitis aguda durante toda la vida; dicho cuadro es fatal sin técnicas quirúrgicas modernas ([Hardin_1999]_).
+
+3. Cooptar un órgano para una función enteramente diferente, como en el caso de convertir una parte de los intestinos en parte del sistema linfático, es enteramente compatible con (e incluso esperable de) la evolución. Sin embargo, es un argumento contra el diseño porque
+
+   a. Raramente ocurre con diseños conocidos (humanos), y
+   b. invalida argumentos a favor del diseño, como la :doc:`complejidad irreducible <CB200>`.
+
+Enlaces
+=========
+
+Theobald, Douglas, 2003. The vestigiality of the human vermiform appendix A modern reappraisal. http://www.talkorigins.org/faqs/vestiges/appendix.html
+
+Schwab, Sid. 2007. God of the Appendix: Of truth and worms. Surgeonsblog, Feb. 18, http://surgeonsblog.blogspot.com/2007/02/god-of-appendix-of-truth-and-worms.html
+
+Referencias
+==================
+
+.. [Hardin_1999] Hardin, D. M. Jr., 1999. Acute appendicitis: review and update. *American Family Physician* 60(7): 2027-2034.
+
+
+/////
+
+Anterior: :doc:`CB360` | Siguiente: :doc:`CB361`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

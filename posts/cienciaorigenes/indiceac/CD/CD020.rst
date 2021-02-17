@@ -1,0 +1,47 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CD, CD020
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CD020
+.. link: http://talkorigins.org/indexcc/CH/CD020.html
+.. date: 2004-9-8
+.. type: afirmacrea
+.. title: CD020: La consistencia en el fechado radiométrico se debe a información sesgada
+.. description: Respuesta a la afirmación creacionista «La consistencia en el fechado radiométrico se debe a información sesgada»
+
+El uso del fechado radiométrico en geología requiere una aceptación muy selectiva de los datos. Las fechas que más discrepan no se publican. Esta información sesgada puede explicar la consistencia en los datos; la consistencia interna, las concordancias de pares de minerales y la concordancia entre los distintos métodos de fechado pueden ser ilusorias.
+
+**Fuente:**
+
+Woodmorappe, John, 1979. Radiometric geochronology reappraised. *reation Research Society Quarterly* 16(2): 102-129.
+Woodmorappe, John. 1999. *The Mythology of Modern Dating Methods*. El Cajon, CA: ICR.
+
+Respuesta
+=============
+
+1. Los geólogos no pueden ser selectivos para elegir resultados porque las mediciones habitualmente cuestan cientos de dólares por muestra. Fechar múltiples muestras y elegir un conjunto concordante entre ellas requeriría descartar cerca de USD 100.000 de datos si los métodos de fechado dieran resultados aleatorios ([Henke_n_d]_).
+
+2. Como los creacionistas gustan de señalar, el fechado radiométrico se complica debido a procesos geológicos como el metamorfismo y las inclemencias del tiempo, las cuales pueden interferir con los supuestos que usan los métodos de fechado. Lo que los creacionistas no señalan, sin embargo, es que los geólogos lo saben. Examinan el contexto geológico del origen de las muestras para determinar si una técnica es probablemente válida, y experimentan con distintas técnicas en diferentes minerales sujetos a diferentes condiciones para determinar cuáles combinaciones de técnicas, minerales y condiciones son válidas y cuáles no. Muchas supuestas fechas discordantes son resultados de experimenos de ese tipo presentados de forma deshonesta como medidas de campo ordinarias.
+
+   Todas las técnicas de medición, sean reglas o detectores de neutrinos, son inválidas en algunos contextos. Eso no los vuelve inválidos en todos los contextos. Woodmorappe y otros que citan fechas radiométricas discordantes afirman que el método es enteramente inútil porque no se aplica a algunos contextos.
+
+3. Woodmorappe ignoró los factores que uno debe considerar cuando hace fechado radiométrico. Ignoró el contexto geológico y las limitaciones bien conocidas de los métodos de fechado. Su análisis tiene otros fallos porque:
+
+   * usa datos obsoletos, como datos de años en los que la técnica todavía estaba en desarrollo
+   * su tratamiento de los casos individuales es extremadamente superficial
+   * su informe está escrito como propaganda, no como un análisis técnico. Si cree en lo que escribe, debería presentarlo en publicaciones para geólogos profesionales, no para creacionistas
+
+Enlaces
+=========
+.. [Henke_n_d] Schimmrich, Steven H., 1998. Geochronology *kata* John Woodmorappe. http://www.talkorigins.org/faqs/woodmorappe-geochronology.html
+
+
+/////
+
+Anterior: :strong:`CD016` | Siguiente: :strong:`CD031`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

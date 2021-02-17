@@ -1,0 +1,56 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA300
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA343
+.. link: http://www.talkorigins.org/indexcc/CA/CA343.html
+.. date: 2006-06-28 02:00:00+00:00
+.. title: CA343: Los evolucionisas se niegan a participar del desafío "Life Science Prize" de Mastropaolo
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Los evolucionisas se niegan a participar del desafío "Life Science Prize" de Mastropaolo»
+
+Muchos prominentes evolucionistas han rechazado participar en el desafío "Life Science Prize" de Mastropaolo. De acuerdo con los términos de este desafío, el evolucionista y el creacionista pone cada uno 10.000 dólares en depósito; presentan sus pruebas en un tribunal ante un juez acordado por ambas partes; el juez decide cuál parte es científica y cuál es religión; la posición considerada científica gana los 20.000 dólares.
+
+**Fuente:**
+
+Mastropaolo, Joseph. 2003. Life science prize. http://www.csulb.edu/~jmastrop/prize.html
+
+Respuesta
+============
+
+1. Nunca pelee con un cerdo; ambos terminan sucios, y usted descubrirá pronto que el cerdo lo disfruta. El desafío mismo revela que Mastropaolo es científicamente inepto. (Un científico sabría que uno no necesita una corte para :doc:`debatir <CA340>` pruebas. Y una de las condiciones establece que "Las pruebas debe ser científicas, es decir, objetivas, válidas, confiables y calibradas". La calibración se aplica al equipamiento, no a las pruebas.) A la gente que ignora el desafío se la etiqueta como "esquivadores de debates" que practican una "religión profética pagana" ([Brayton_2004]_). Tales afirmaciones establecen que el desafío no pertenece al campo de las ciencias de la vida, sino al de la chifladura.
+
+   Alfred Russel Wallace, codescubridor de la teoría de la evolución, aceptó en cierto momento el desafío de otro chiflado, John Hampden, para demostrar la curvatura de la Tierra. Wallace lo hizo, pero el posterior acoso legal y por otras vías por parte de Hampden convenció a Wallace de que considerar aceptar el desafío había sido un grave error. ([Raby_2001]_, 206-207)
+
+2. El desafío es legalmente inválido. Dos personas no pueden decidir simplemente que un tribunal resuelva su caso. Los casos llegan al tribunal sólo cuando una parte demanda a la otra, y en tal caso no pueden elegir el juez.
+
+3. Un desafío equivalente ya ha sido realizado. El caso McLean vs. Arkansas giraba en torno a si el creacionismo es religión o ciencia, y el Juez Overton falló que es religión.
+
+4. De acuerdo con el desafío, la religión es *siempre* la parte perdedora, lo cual vuelve a Mastropaolo inapropiadamente hostil contra la religión.
+
+Enlaces
+=========
+
+Brayton, Ed. 2004 (1/13, 1/19, and 1/22). The JoMo Creationist Challenge. http://stcynic.blogspot.com/2004_01_01_stcynic_archive.html#107402699155391517 http://stcynic.blogspot.com/2004_01_01_stcynic_archive.html#107454241882316945 http://stcynic.blogspot.com/2004_01_01_stcynic_archive.html#107479393621065262
+
+Referencias
+=================
+
+.. [Brayton_2004]    Brayton, Ed. 2004 (Jan. 22). (ver arriba)
+.. [Raby_2001]    Raby, Peter. 2001. *Alfred Russel Wallace: A Life*. New Jersey: Princeton University Press.
+
+Otras lecturas
+==================
+
+Zimmerman, Michael. 2005. The Life Science Prize. *Reports of the National Center for Science Education* 25(5-6): 33-34.
+
+
+/////
+
+Anterior: :doc:`CA342` | Siguiente: :doc:`CA350`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

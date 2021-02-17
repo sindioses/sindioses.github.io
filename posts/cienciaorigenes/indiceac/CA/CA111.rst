@@ -1,0 +1,53 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA110
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA111
+.. link: http://www.talkorigins.org/indexcc/CA/CA111.html
+.. date: 2003-06-15 02:00:00+00:00
+.. title: CA111: Muchos científicos actuales rechazan la evolución
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Muchos científicos actuales rechazan la evolución»
+
+Muchos científicos rechazan la evolución y apoyan el creacionismo.
+
+**Fuente:**
+
+Morris, Henry. 1980. The ICR scientists. Impact 86 (Aug.). http://www.icr.org/index.php?module=articles&action=view&ID=163
+
+Respuesta
+=============
+
+1. De los científicos e ingenieros de los Estados Unidos, sólo cerca del 5% son creacionistas, de acuerdo con una encuesta de Gallup de 1991 ([Robinson_1995]_, [Witham_1997]_). Sin embargo, este número incluye a aquellos que trabajan en campos no relacionados con los orígenes de la vida (como científicos de la computación, ingenieros mecánicos, etc.). Teniendo en cuenta sólo aquellos que trabajan en los campos relevantes de las ciencias de la tierra y la vida, hay cerca de 480.000 científicos, pero sólo unos 700 creen en la “ciencia de la creación” o la consideran una teoría válida [Robinson_1995]. Esto significa que menos del 0,15% de los científicos relevantes creen en el creacionismo. Y eso es sólo en los Estados Unidos, que tiene más creacionistas que cualquier otro país industrializado. En otros países, el número de científicos relevantes que aceptan el creacionismo desciende a menos de un décimo del 1 por ciento.
+
+   Además, muchas organizaciones científicas creen tan firmemente en la evidencia que han emitido declaraciones públicas a tal efecto [NCSE_sd]_. La National Academy of Sciences, una de las organizaciones científicas más prestigiosas, dedica un sitio web a este tema [NAS_1999]_. Un panel de setenta y dos premios Nóbel, diecisiete academias estatales de ciencia y siete otras organizaciones científicas crearon un escrito amicus curiae que presentaron ante la Suprema Corte [Edwards_v_Aguillard_1986]_. Este informe aclaraba lo que hace que la ciencia sea distinta de la religión y por qué el creacionismo no es ciencia.
+
+2. Lo que hay que examinar no es cuántos científicos y profesores creen en algo, sino en qué está basada su convicción. La mayoría de los que rechazan la evolución lo hacen por convicción religiosa personal, no porque exista evidencia. La evidencia apoya la evolución. Y las conclusiones objetivas deben basarse en la evidencia, no en la autoridad personal.
+
+3. Con frecuencia, las afirmaciones de que los científicos rechazan la evolución o apoyan el creacionismo son exageradas o fraudulentas. Muchos científicos dudan de algunos aspectos de la evolución, especialmente las hipótesis recientes sobre ella. Todos los buenos científicos son escépticos sobre la evolución (y todo lo demás) y están abiertos a la posibilidad, aunque remota, de que pueden aparecer desafíos serios para ella. Los creacionistas suelen aprovechar tales expresiones de escepticismo saludable para insinuar que la evolución es altamente cuestionable. No entienden que el hecho de que la evolución haya soportado muchos años de tales cuestionamientos realmente significa que es tan cierta como los hechos que la respaldan.
+
+Enlaces
+=========
+
+* NAS. 1999. Science and creationism. http://www.nap.edu/html/creationism/
+* NCSE. 2003. Project Steve, http://www.ncseweb.org/article.asp?category=18
+* Schafersman, Steven. 2003. Texas Citizens for Science responds to latest Discovery Institute challenge. http://www.texscience.org/files/discovery-signers.htm
+
+Referencias
+=============
+.. [Edwards_v_Aguillard_1986]	Edwards v. Aguillard. 1986. U.S. Supreme Court amicus curiae brief of 72 Nobel laureates (and others). (Case 482 U.S. 578, 1987) http://www.talkorigins.org/faqs/edwards-v-aguillard/amicus1.html
+.. [NAS_1999]	NAS. 1999. (ver arriba)
+.. [NCSE_sd]	NCSE. n.d., Voices for evolution. http://www.ncseweb.org/article.asp?category=2
+.. [Robinson_1995]	Robinson, B. A. 1995. Public beliefs about evolution and creation. http://www.religioustolerance.org/ev_publi.htm
+.. [Witham_1997]	Witham, Larry. 1997. Many scientists see God’s hand in evolution. *Reports of the National Center for Science Education* 17(6): 33. http://www.ncseweb.org/resources/rncse_content/vol17/5319_many_scientists_see_god39s__12_30_1899.asp
+
+/////
+
+Anterior: :doc:`CA110` | Siguiente: :doc:`CA111_1`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

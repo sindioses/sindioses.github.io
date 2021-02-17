@@ -1,0 +1,12 @@
+@echo off
+*setlocal
+set fn=metadata.yml
+echo --- >> %fn
+do ar in CerdoAteo_*.jpeg
+  set fecha=%@word["_",1,%ar]
+  set titulo=%@replace[-, ,%@replace[.jpg,,%@word["_",2,%ar]]]
+  set titulo=%@upper[%@instr[0,1,%titulo]]%@instr[1,,%titulo]
+  echo name: %ar >> %fn
+  echo caption: %titulo >> %fn
+  echo --- >> %fn
+enddo

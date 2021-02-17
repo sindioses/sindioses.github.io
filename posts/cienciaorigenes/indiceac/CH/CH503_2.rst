@@ -1,0 +1,38 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH500
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH503_2
+.. link: http://talkorigins.org/indexcc/CH/CH503_2.html
+.. date: 2001-2-18
+.. title: CH503.2: El gobierno turco reconoció oficialmente el sitio del Arca de Noé
+.. description: Respuesta a la afirmación creacionista «El gobierno turco reconoció oficialmente el sitio del Arca de Noé»
+.. type: afirmacrea
+
+El gobierno turco ha reconocido oficialmente la estructura cerca de Dogubayazit como el arca de Noé. Ha convertido el área en un parque nacional y está construyendo un centro de visitantes y una autopista que conduce a él, lo que agrega credibilidad a la afirmación de que :doc:`se ha encontrado el arca de Noé <CH503>`.
+
+**Fuente:**
+
+Wyatt, R. E., 1989. *Discovered - Noah's Ark*. Nashville, TN: World Bible Society.
+
+Respuesta
+===========
+
+1. Hay razones por las cuales un gobierno puede reconocer el sitio como el arca de Noé incluso si hay pocas pruebas de que es el caso. Primero, convertir el área en un parque impediría que se la explotara. Segundo, le permite al gobierno obtener los beneficios de los dólares de los turistas. Reconocer el sitio como el arca de Noé indica que el gobierno turco espera que el sitio sea famoso, no necesariamente genuino.
+
+2. No hay pruebas de que las autoridades turcas hicieran ninguna investigación independiente del sitio. Si no lo hicieron, su reconocimiento del sitio es meramente una repetición de las afirmaciones de Wyatt, Fasold y los otros "arcólogos". No le brinda autoridad adicional a la afirmación.
+
+Otras lecturas
+===============
+
+Collins, L. G. and D. F. Fasold, 1996. Bogus "Noah's Ark" from Turkey exposed as a common geologic structure. *Journal of Geoscience Education* 44(4): 439-444. http://www.csun.edu/~vcgeo005/bogus.html
+
+/////
+
+Anterior: :doc:`CH503_1` | Siguiente: :doc:`CH504_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

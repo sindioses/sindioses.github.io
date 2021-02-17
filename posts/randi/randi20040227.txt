@@ -1,0 +1,220 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. title: Georgia en mi mente, foto familiar, ¿psíquicos prohibidos?, una sorpresa de John Cleese, Jim Thomas abandona su demanda, Schwartz seguro en su casa, productos para tontos, no era el grupo KISS, esoterismo elóptico, este lápiz no tiene plomo
+.. author: James Randi, traducción de Marcelo Huerta San Martín
+.. category: Traducciones de James Randi
+.. type: randi
+.. date: 2004-02-27 00:00:00
+
+
+.. |tit| replace:: Georgia en mi mente,
+        foto familiar,
+        ¿psíquicos prohibidos?,
+        una sorpresa de John Cleese,
+        Jim Thomas abandona su demanda,
+        Schwartz seguro en su casa,
+        productos para tontos,
+        no era el grupo KISS,
+        esoterismo elóptico,
+        este lápiz no tiene plomo
+
+.. |autor| replace:: **Marcelo Huerta San Martín**
+
+.. .. include:: randi20040227.links
+
+
+.. #Dane se arrepiente
+.. #..................
+.. #
+.. #|beeth| He aquí la correspondencia completa entre yo mismo y un hombre danés que en principio parece querer presentarse para el premio de un millón de dólares de la JREF. He realizado unas pocas correcciones ortográficas y unos pequeños cambios como cortesía para este hombre, quien escribe en su segunda lengua. Comienza:
+.. #
+.. #  No sé si esto se ajusta al desafío paranormal. Para mí esto no es paranormal, es matemática. Y además lo más importante para mí es probar que mi invento funciona, en lugar de ganar un premio.
+.. #
+.. #  Me enorgullece anunciar que mi investigación con redes neurales (=inteligencia artificial que emula el cerebro biológico en un programa de computadora) en el campo de la astrología finalmente ha producido algunos resultados significativos. He trabajado con este proyecto desde 1976. He crado una red neural, que llamo Astromate, y la he entrenado para discriminar cartas natales de dos grupos profesionales diferentes, compositores y políticos. Este proyecto de investigación es un proyecto en curso, que aún no ha sido terminado, pero cuando ello ocurra (probablemente en primavera o a principios del verano del 2004) los resultados finales serán publicados en la revista británica *Correlation*, por supuesto, siempre y cuando el editor acepte el trabajo.
+.. #
+.. #Randi comenta: Lo que se asume aquí es que la astrología funciona, y este es otro ejemplo más de un intento de simplificar la resolución de ese viejo problema: es complicado y lleva mucho trabajo juntar los datos y analizarlos, así que aplicaremos nueva tecnología (en este caso un programa de computadora) para ayudarnos a hacer el trabajo pesado. Recuerdo, allá en los '60, que la esposa de un bueno amigo intentó reducir la "ciencia" de la lectura de las manos a un sistema automatizado en el cual las líneas y otras características de la palma humana se intresarían en unca computadora y se arrojaría una preducción para el sujeto de la lectura. No tuvo éxito. Este astrólogo tiene un plan más simple pero no menos fútil: clasificar por computadora los datos de nacimietno generados para dos profesiones, una proposición 50/50.
+.. #
+.. #Los lectores deberían saber que "Correlation", la revista británica mencionada, es el Diario Oficial de Investigación Astrológica de la Asociación Astrológica. Publica artículos como éstos: "La creciente presencia de la astrología en la universidad", "Gane la lotería con la astrología", "Experiencias de astrología Nadi (con hojas de palma)", y "Presentaciones de investigación incluyendo trabajos sobre astrología y la incidencia de la prostitución en las mujeres de Nepal". Para que lo sepan. Mi corresponsal continúa:
+.. #
+.. #  El conjunto de entrenamiento consiste de 176 compositores y 176 políticos. Cualquier trabajo con redes neurales consume tiempo, pero este proyecto lo consume de forma notable. Puedo procesar como promedio una o dos cartas por día. Luego de haber procesado 150 cartas del conjunto de entrenamiento (75 de cada grupo), Astromate sólo cometió tres errores; ¡eso es una eficacia del 98%! Lo que es más, la precisión todavía puede mejorarse, dado que sigo calibrando la red durante el entrenamiento. Sin embargo, no hay garantía de que Astromate podrá generalizar del conjunto de entrenamiento a las nuevas cartas con las cuales la red no está familiarizada. Luego de terminar el entrenamiento, tendré que hacer una serie de pruebas con datos "desconocidos" para verificar que Astromate es capaz de generalizar. Y finalmente sería bueno tener a gente independiente que me proveyera datos para hacer ensayos ciegos; y esa es la razón por la que le escribo este mensaje.
+.. #
+.. #Randi: Por favor nótese que según él mismo admite, esas 150 coincidencias *¡no fueron hechas en un ensayo ciego!* Ya su trabajo no sobrevivirá el examen crítico. Continúa:
+.. #
+.. #  He aquí mi sugerencia para la prueba: Deme 20 conjuntos de datos anónimos, entre los cuales 10 titulares de cartas tendrán una carrera profesional en la música (pero sin ser directores ni cantantes) y los otros 10 tendrán una carrera profesional en política, y permítame (o más bien a Astromate) determinar qué cartas pertenecen a qué grupos. Cada conjunto de datos debe consistir de una fecha de nacimiento, hora exacta tomada del certificado de nacimiento, un lugar de necimiento con longitud y latitud y 5 eventos de rectificación distintos: qué pas´so, dónde pasó, cuándo pasó (una fecha o incluso el mes y el año alcanza). Un evento de rectificación puede ser cualquier cosa que una persona crea que fue un evento importante, típicamente el nacimiento de niños casamiento, eventos de carrera, adquisición de inmuebles, viajes, eventos educativos, etc., pero también el nacimiento de hermanos o incluso padres. Garantizo que hará las deducciones correctas en al menos el 90% de los casos.
+.. #
+.. #Randi comenta: Primero, no veo razón para que las dos proporciones se encuentren en una proporción 50/50 en lasp profesiones representadas. Me gustaría ver una proporción a la que se llegara por azar. Más importante, creo que los lectores se darán cuenta de lo dofícil de obtener una base de datos de este tipo, pero ese es la clase de cosas en las que nos ponemos de acuerdo cuando aceptamos tal desafío. Pueden ver que hay posibilidades para que se discuta si un sujeto determinado realmente tiene una "carrera profesional" en cualquiera de esas categorías; si el político no está ejerciendo un cargo público, ¿todavía es un político profesional? ¿Una persona en el área de ingeniería de la industria musical un "profesional" de la música? ¿Y qué pasa si un músico se presenta a elecciones por un cargo público? Todo eso habría que resolverlo antes de que pudiéramos avanzar. Pero estamos deseosos de hacerlo. Nuestro corresponsal continúa:
+.. #
+.. #  Por supuesto ustedes tienen que poder verificar las fechas de nacimiento
+
+Georgia en mi mente
+...................
+
+El mes pasado, el estado de Georgia dio un paso en la misma dirección que Kansas probó hace no mucho: decidieron que, entre otras cosas, las clases de ciencia y los libros de texto de Georgia no usarán la palabra "evolución". Luego de que se hicieron públicos los cambios propuestos, la superintendente de escuelas del estado, Kathy Cox, explicó que "evolución" es "una palabra de moda que causa muchas reacciones negativas". Decidió reemplazarla con "cambios a lo largo del tiempo". Pero unos pocos días mása tarde, luego de una ola de críticas, estaba recomendando que se restableciera el uso de la palabra "evolución". Agregó que la gente asocia con frecuencia la evolución con "eso de los monos convirtiéndose en hombres". Aún así, la Sra. Cox dijo que el concepto se enseñaría, al igual que los "modelos emergentes de cambio" que desafían las teorías de Darwin. "Galileo no fue considerado respetable cuando presentó su teoría", dijo. Uno debe preguntarse dónde se educó la Sra. Cox. Lo de "los monos convirtiéndose en hombres" es un concepto y una visión inválidos de la teoría evolutiva que espero que ella no acepte, y la mayor parte de los intelectuales de la época pensaban que Galileo tenía razón; fue la iglesia la que lo condenó, atacando a la ciencia más o menos del mismo modo que los creacionistas lo hacen hoy.
+
+.. image:: 022704-Cox.jpg
+   :alt:
+   :align: right
+
+El ex presidente Jimmy Carter dijo que le daba vergüenza por el estado, y el gobernador Sonny Perdue dijo que restaurar la palabra "evolución" era "lo correcto". Los educadores dijeron que tal censura podría dejar en desventaja a los graduados de las escuelas públicas del estado. El biólogo David Bechler dijo: "Han eliminado un componente fundamental de la biología y actuado como si no existiera. Haciendo esto, estamos dándole al público menos educación de la que deberían tener". Y en un estado donde se cree ampliamente en conceptos de la creación basados en la religión, muchos maestros dijeron que un currículum en el que no se mencione "evolución" haría más difícil divulgar el concepto en el aula.
+
+Pero el Departamento de Educación de Georgia ha censurado otros fragmentos de material, incluyendo referencias a la edad de la Tierra y el concepto de que todos los organismos de la Tierra están relacionados por medio de ancestros comunes. En una frase que se refería a la "larga historia de la Tierra", los autores removieron la palabra "larga", ya que los creacionistas dicen que la Tierra tiene como mucho miles de años, basados en su lectura literal de la Biblia. La bióloga Sarah L. Pallas dijo: "Eliminando los hitos que se refieren a la vida evolutiva, no tenemos oportunidad de estar a la par con el resto del mundo".
+
+La actitud de la Sra. Cox debería haber sido evidente desde el principio. Durante su campaña política, felicitó a los padres que querían que se enseñaran en las escuelas de Georgia conceptos cristianos de la "creación" de la Tierra y el hombre.
+
+El Dr. Francisco J. Ayala, autor de un informe de 1999 de la Academia Nacional de Ciencias titulado "Ciencia y creacionismo", en una efectiva frase, le dijo a los medios: "El creacionismo no es ciencia, de modo que no debería enseñarse en la clase de ciencia. No enseñamos astrología en lugar de astronomía ni brujerías en lugar de medicina".
+
+Hay más sobre esta reescritura de la ciencia en Georgia. La teoría del Big-Bang --la teoría científica dominante sobre el origen del universo-- también sería eliminada de los libros de texto y del currículum. Esa teoría sostiene que el universo fue creado hace diez o veinte mil años cuando una explosión cósmica arrojó materia en todas direcciones. A medida que el universo se expandía, se formaron las partículas comunes. Estas partículas se convirtieron en la base para la construcción de la materia y la vida. La teoría explica la presencia observada de radiación y movimiento en el universo que cuando se extrapolan hacia atrás muestra la probabilidad de que todo se origine en un punto. Es un tratamiento bien razonado de los hechos observados. Asimismo, las lecciones sobre la tectónica de placas ha sido escalada hacia el pasado. Este aspecto de la geología niega la popular pero errónea noción de que la Tierra tiene unos 6000 años de edad. Conceptos como el Big-Bang, la evolución y la tectónica de placas ofrecen explicaciones seguras científicamente de cómo funciona el mundo, conceptos que o se corresponden con algunas creencias religiosas sobre cómo una deidad simplemente creó el universo, incluyendo la Tierra y los humanos.
+
+Según la revisión que ahora Cox ha aprobado, la evolución ha vuelto al currículum. Se trata la teoría del Big-Bang y la tectónica de placas "en la escuela media", dice, como si eso aislara a los estudiantes de algún modo.
+
+El elemento anticientífico ha estado ocupado en otra parte. En Ohio, los creacionistas buscan nuevamente forzar sus prejuicios religiosos dentro de las aulas escolares. Los planes para las lecciones por aprobarse en una reunión reciente del Comité de Educación de Ohio incluía "diseño inteligente", así como creacionismo de la Tierra joven.
+
+El lector John Weber comenta:
+
+  Para que no los supere la gente de Georgia, los legisladores del estado de Missouri apoyarán el proyecto de ley HB 911 auspiciado por el diputado republicado Wayne Cooper de St. Louis (y 5 otros legisladores republicanos) que ordenaría la ensañanza del "diseño inteligente" en las escuelas públicas. Bajo la pretensión de presentar tiempo iguan para las teorías "científicas" contrapuestas, el proyecto afirma que "si se enseña la teoría científica en relación con el origen biológico, deben enseñarse tanto la evolución biológica como el diseño inteligente y debe dárseles igual tratamiento". Para estar seguro de que las escuelas públicas provean este tratamiento "igual", el proyecto también prevé que "la falla voluntaria de cualquier superintentente, director o maestro en observar o cumplir los requisitos de este párrafo serán caula de terminación de su contrato"...
+
+  El proyecto también especifica los requisitos para nuevos libros de texto que serán obligatorios para el año 2016, que serán escritos por un comité compuesto al menos por 5 personas que apoyan el diseño inteligente. Sólo puedo asumir que también habrá un comité de 5 partidarios de la astrología para reescribir las secciones sobre astronomía, 5 partidarios de la homeopatía para reescribir las secciones sobre ciencia médica y 5 partidarios de la Sociedad de la Tierra Plana para reescribir los libros de geografía.
+
+  Que un estado con un déficit de US$ 750.000, que podría impedir que las escuelas proveyeran incluso educación básica a los niños que asisten a las escuelas públicas en Missouri, puedan gastar valioso tiempo legislativo en un asunto como este es absurdo, irracional y engañoso.
+
+  El diseño inteligente parece haber pasado por alto la legisladora del Estado de Missouri.
+
+Sugiero fuertemente que los lectores vayan a http://www.petitiononline.com/gasci04/ y firmen la petición que allí se encuentra. Por favor...
+
+Foto familiar
+.............
+
+Jason van den Elzen, en Christchurch, Nueva Zelandia, nos cuenta sus intentos de traer la razón a la vida de un compañero de trabajo...
+
+  Recientemente empecé un trabajo nuevo en una pequeña compañía que me ubicó en una oficina con una mujer de mediana edad ("L") y mucho tiempo para hablar. Ella cree en muchas de las cosas místicas habituales, y aunque me encantaría lanzarme en mi habitual desmembramiento de su punto de vista, tengo que mostrar tolerancia de las cosas que ella aprecia, para mantener la paz de nuestro lugar de trabajo. De vez en cuando, sin embargo, consigo hacerla pensar en lo que cree, aunque siga aferrándose a ello.
+
+  Después de una de nuestras más marcadas discusiones sobre una foto suya (resultado de una mancha por obturador lento, más el deseo de nuestro cerebro de encontrar caras en todo) que trajo para que yo la viera. La sostuvo frente a mí y dijo: "Parece que sólo nuestra familia puede ver la cara en el borrón, lo que me dice que sólo se suponía que nosotros la viéramos. Pensamos que tiene la nariz de (apellido)". Por supuesto, no pude ver cara alguna. Resulta que su hermana trabaja en la misma compañía, de modo que sugerí una paqueña prueba para ver si se daba el caso de esta "visión restringida a la familia". Convencí a L de poner un trozo de acetato y dibujar la cara que vio. Tomé esto y lo guardé, y luego, con L fuera de la habitación, a lo que ella accedió con sorprendente facilidad (es bastante abierta a mis pruebas, probablemente porque los círculos en los que se mueve nunca la han cuestionado antes, de modo que nunca tuvo que defenderse) le pedí a A (su hermana) que dibujara la cara que *ella vio*.
+
+  Cuando las superpuse, habían dibujado sobre una porción bastante parecida de la foto. L las miró y dijo: "¡Qué tal resultó eso como prueba científica!". El problema para ellas era que para que hubieran dibujado en verdad la misma cara, un ala de sombrero debería haber sido una nariz; la nariz, una boca; la boca, un mentón, etc. Obviamente, esto cambia completamente la forma de la nariz...
+
+  Cuando le dije que luego de que morimos no somos más que comida para gusanos, se conmovió. Y cuando le dije que en verdad hay más personas por ahí que tienen el mismo punto de vista, ella tuvo serios problemas para creerlo. Ella no podía comprender que yo estuviera en paz conmigo mismo sabiendo que llegaría a mi fin. Traté de convencerla de examinar el sitio de usted, pero no quiere descubrir que de verdad hay más gente que cree lo mismo que yo. Prepárate, arena, aquí viene mi cabeza...
+
+¿Psíquicos prohibidos?
+......................
+
+.. image:: 022704-Edward.jpg
+   :alt:
+   :align: right
+
+El lector George White hace una pregunta pertinente:
+
+  Seguramente ha hecho usted esta pregunta muchas veces, pero si los poderes psíquicos fueran reales, ¿no tendrían los casinos signos en la puerta prohibiendo la entrada a "contadores de cartas y psíquicos"? ¿No estarían indignadas las loterías porque los psíquicos ganarían cada semana? ¡El público estadounidense está tan poco educado en el pensamiento crítico!
+
+Una sorpresa de John Cleese
+...........................
+
+De Vincent Jorgensen viene esta observación:
+
+  John Cleese, famoso por los Monty Python, aparentemente es un creyente de las artes paranormales, para decirlo amablemente. Respeto mucho al hombre por su genio cómico, pero en un beneficio para Esalen (http://www.esalen.org), decidió convertir el segundo acto en una digresión sobre misticismo, vida después de la muerte y frotamiento cósmico del vientre. Cuando compré tickets para el evento, no sabía qué era Esalen, y no me importaba. Quería ver hablar a uno de mis héroes cómicos. Después del cierre del evento, sin embargo, me fui un poco entristecido de que un hombre de tal inteligencia pudiera desperdiciar su preciosa potencia mental en cosas como esas evidentes burradas. Atacó a los sospechosos de siempre, las universidades que "sofocan" la investigación paranormal; los científicos a los que el árbol no les deja ver el bosque (en su metáfora, la topología que se extiende ante ellos debido a los detalles que no figuran en el mapa); la religión organizada (bueno, ok, en un punto tuvo razón); y los mentalmente (y espiritualmente) enfermos que tienen nociones mal concebidas sobre lo divino.
+
+  .. image:: 022704-Cleese.jpg
+     :alt:
+     :align: right
+  
+  Esalen, convenientemente, proporciona un centro de descanso en la costa en Big Sur, California, para que las mentes inquisitivas discutan abiertamente lo que está prohibido en nuestra sociedad sofocadora de lo místico. Por alguna raón, esta religiosa anti-religión de la nueva era no es tan divertida como "La vida de Brian" o "El Santo Grial". Desbarró un poco diciendo que los místicos quizá estaban más en sintonía con el universo que el resto de nosotros, y que eran gente inofensiva que existen en su mayor parte para irritar a las religiones organizadas. (Ya que estamos, no son inofensivos.) Pero se fue completamente al cuerno cuando asimiló la experiencia mística con acariciar a un gato. El gato sale mejorado de la experiencia, y el Sr. Cleese espera que el universo algún día lo acaricie a él también entre las orejas.
+
+  John Cleese tiene muchos talentos, pero el pensamiento crítico, aparentemente, no es uno de ellos.
+
+Este es un duro contraste con el colega de Cleese, Eric Idle, quien es bastante abierto sobre su escepticismo en tales temas. Me imagino que los dos no discuten sus diferencias con frecuencia, si es que lo hacen en lo absoluto.
+
+Jim Thomas abandona su demanda
+..............................
+
+Los lectores recordarán los relatos hechos aquí del zahorí y vendedor de una porquería de "alta tecnología" que se suponía estaba "sintonizada" con varias sustancias: Jim Thomas. No sólo ignoró mi oferta de pagarle un millón de dólares, sino que incluso rehusó aceptar la carta certificada que le envié precisamente para eso. (Vea http://www.sindioses.org/randi/randi20031017.html, http://www.sindioses.org/randi/randi20031107.html y http://www.sindioses.org/randi/randi20031205.html.) Thomas inició un juicio por calumnias contra el bien informado crítico Carl Moreland, y se fijó fecha para una audiencia en la corte para el 23 de enero. Ahora Carl nos dice que la audiencia se demoró hasta el 13 de febrero, y:
+
+  Mi abogado también había enviado una larga lista de pedidos de verificación, exigiendo pruebas de sus afirmaciones. Thomas rápidamente retiró todas las afirmaciones (sin prueba, ya que las afirmaciones eran falsas) con la única excepción de su afirmación de que yo había usado su imagen en mi informe, que era lo único cierto. Luego ofreció retirar la demanda si yo dejaba de usar su imagen. Dije: "Ni se le ocurra, nos vemos en la corte", y un día antes de la audiencia, retiró la demanda de todos modos. En las palabras del Rey Arturo de Monty Python, "¡Corran, corran!"
+
+  Nunca  escuché ninguna mención de su oferta directa a Thomas (por medio de Agnew), así que asumo que tampoco obtuvo respuesta. Sospecho fuertemente que, entre su oferta y nuestra moción para probar las afirmaciones del demandante, el abogado de Thomas empezó a entender la verdadera naturaleza del negocio de su cliente, y convenció a Thomas de que no podría ganar. Ahora que la demanda se acabó, he publicado un informe completo del dispositivo "Treasure Scope" que le envié a usted... es, por supuesto, el mismo viejo disparate que los otros.
+
+Yo había enviado una copia de la oferta de la JREF a un tal Randy Agnew, el abogado de Thomas, dado que Thomas estaba rechazando mi correo certificado (como hace Sylvia Browne) pero tampoco recibí ninguna respuesta del abogado. Me parece que este es el caso clásico de una demanda frívola, en la cual Thomas accionó contra Carl, quien respondió rápida y correctamente, luego de lo cual Thomas no pudo cumplir *sus* obligaciones y finalmente abandonó la acción luego de causarle a Carl muchos problemas y gastos. Una pregunta para ustedes: tengo que encontrar un abogado en Carolina del Norte que acepte iniciar una acción por demanda frívola...
+
+Schwartz seguro en su casa
+..........................
+
+El lector Kile Baker nos cuenta que tiene un doctorado un Astrofísica de Stanford y ha estado activa en la investigación de la física del espacio desde que recibió su grado. Es un agnóstico jurado, un término que prefiere al de "bright". Escribe:
+
+  Precisamente anoche pasé una hora releyendo algunos de los ensayos de Thomas Huxley sobre el agnosticismo y de nuevo me impresionó con cuanta claridad vio las cosas hace cien años. Por otro lado, es deprimente que cien años después parece que hicimos tan poco impacto en la percepción pública. La página web de usted es una luz brillante de sensatez en un mar de necedad. Siga con el buen trabajo.
+
+El Dr. Baker escribó a la Universidad de Arizona en relación con algunas de las recientes morisquetas públicas de su Dr. Gary Schwartz, un profesor titular de allí a quien hemos visto con frecuencia en estas páginas:
+
+  Déjeme encabezar este *e-mail* diciendo que mis comentarios y puntos de vista son enteramente míos y no debe considerarse que reflejan una política oficial de mi empleador, la Fundacion Nacional de Ciencia.
+
+  Hace poco me encontré con una página web que indicaba que un investigador de la Universidad de Arizona, el Dr. Gary Schwartz, ¡ha estado brindando entrevistas televisivas afirmando que había probado científicamente la existencia de la vida después de la muerte (vea la nota al pie desde el sitio web de la Fundación Educativa James Randi, ht\ tp://www.randi.org)! Aparentemente la Universidad de Arizona no ha hecho ninguna declaración desligándose de las afirmaciones del Dr. Schwartz y por lo tanto se le hace creer a la gente que las afirmaciones del Dr. Schwartz son aceptadas por la Universidad y por la comunidad científica. Como miembro de la comunidad científica, puedo asegurarle que mi reacción ante las afirmaciones del Dr. Schwartz son del más profundo escepticismo. Entiendo que James Randi ha contactado a la Universidad de Arizona y ofreció verificar las afirmaciones del Dr. Schwartz y que si las afirmaciones se verifican, la universidad (y el Dr. Schwartz) recibirían el premio de un millón de dólares del Desafío Paranormal. También entiendo que la Universidad de Arizona se ha rehusado a tener en cuenta la oferta del Sr. Randi. Pienso que es inconcebible para una institución de investigación con una reputación supuestamente sólida que le permitan a un miembro de su personal docente hacer afirmaciones tan grotescamente heterodoxas sin molestarse en hacer un estudio serio de su validez. Apoyo completamente la libertad académica, pero sostengo que sin embargo la Universidad tiene la obligación de verificar la validez de las declaraciones de un profesor a la prensa. Creo que la Universidad de Arizona es cómplice de una seria confusión del público y que hay que hacer algo para corregir la situación.
+
+El Dr. Baker citó a Jon Herron de Tucson, de nuestra página web de hace dos semanas, quien escribió:
+
+  ¡Parece que aquí hay un profesor obviamente titular, el Dr. Schwartz, quien de algún modo obtiene dinero de subvención para traer médiums para hacer lecturas y llega a la conclusión de que esos estudios muestran de modo concluyente vida después de la muerte! Este artículo ocupó un bloque entero con el sonriente Dr. Schwartz vanagloriándose de que cualquiera que alguna vez observó los datos ha llegado a la conclusión de que hay algo en ellos, y con fotos de una lectura que se realizó con una mujer sorprendida por su exactitud. Hay menciones de tasas de éxito del 80% que eran demasiado altas para ser explicadas por el azar. Por supuesto lo que ellos registran como éxito es cualquier tenue conexión a referencias vagas. Predeciblemente, no se menciona ni un solo escéptico, ni nadie que pueda discrepar con las conclusiones y métodos del Dr. Schwartz.
+
+Y, caballeros, la Universidad de Arizona, aunque está bien consciente de estos diálogos (¡los que lee gente de todo el mundo!) sigue ignorando la situación. No responderán a sus requisitorias, aunque la cortesía académica apropiada exigiría tal acción. Mi opinión personal es que Gary Schwartz es una vergüenza para la universidad.
+
+Esto quizá crea una nueva imagen del retiro de los académicos: entierran la cabeza en la arena, en la bodega de una Torre de Marfil. Ambos están desperdiciando sus esfuerzos tratando de hacerlos bizquear ante la luz del sol. Aunque podrían (y deberían) avergonzarse de esta situación, están en una segura retirada de cualquier acción sobre el tema.
+
+Productos para tontos
+.....................
+
+El lector Bob Pagani nos pide que vayamos a http://www.belt.demon.co.uk/product/redxpen/rxp.html para ver cuán ridículos pueden ser los pseudomédicos. ¡Y tengan en cuenta que tienen partidarios y sicofantes a montones! Dice Bob:
+
+  Revise éste y otros "productos" en la página web. Ahora bien, admito que no he probado yo mismo estos productos, pero ya que en estos días vivo cerca de muchas granjas, creo que conozco el sutil aroma del estiércol cuando lo huelo. Y prepárense para la doblehabla "científica" al enésimo grado.
+
+No era el grupo KISS
+....................
+
+El lector Jeff Mink, junto con varios otros, me señala:
+
+  Sólo para aclarar, la "Guía KISS para la astrología" [mencionada la semana pasada] no tiene nada que ver con la banda de rock KISS, sino que es parte de la serie "Keep It Simple Stupid" (*"Consérvalo simple, estúpido*), que incluye títulos tan informativos como "La guía KISS para el masaje", "La guía KISS para el Kamasutra" y "La guía KISS para el Feng Shui". Bueno, al menos algunos de los títulos son potencialmente informativos.
+
+También descubrí que el músico de KISS Gene Simmons tiene un punto de vista bastante escéptico sobre lo paranormal y otros asuntos. Aunque en su página web dice que a Nostradamus le dispararon en lugar de morir en su cama de causas naturales, por lo demás parece bien informado sobre estos temas. Verán, las armas de fuego no se usaban en 1566, cuando Michel murió. Creo que Gene estaba pensando en el monje Grigori Efimovich Rasputin; en 1916 a este "místico" le dispararon, lo envenenaron, lo apuñalaron, lo ahogaron y lo congelaron antes de que perdiera la vida. Ya no hacen monjes tan durables.
+
+Esoterismo elóptico
+...................
+
+El lector Craig Harman parece poseer conocimiento bastante esotérico. Refiriéndose al artículo de la semana pasada sobre "Miracle II", me dice:
+
+  La palabra "elóptico" es otra palabra pseudomédica proveniente de "eléctrico" y "óptico" y fue usada por un tipo que obtuvo una patente de los examinadores en 1956 para detectarla (no usó la palabra en la patente): http://www.rexresearch.com/hieronym/1hieron.htm
+
+Saben, esa palabra "elóptico" me molestó cuando me la encontré. Pensé que la recordaba, pero no podía ubicarla. Entonces recordé la "Máquina Hieronymus". Ese fue un "invento" ridículo al que se le otorgó una patente estadounidense allá por 1949. Consulten la patente número 2.482.773. Los seguidores de la "radiónica" (vean el sitio que Craig sugiere más arriba) adoran tales cosas, aceptando también las ideas extrañas de gente como Ruth Drown, Thomas De La Warr y Albert Abrams. Thomas Galen Hieronymus era promocionado por John W. Campbell, escritor de ciencia ficción y editor de "Astounding stories", la que luego se convirtió en "Astounding Science Fiction" y luego "Analog". Campbell creía en cada idea ridícula que se le ocurría a Hieronymus. Campbell, al momento de morir, llegó a buscar clientes descaradamente para un sistema para fertilizar campos de granja rociando el fertilizante sobre una fotografía de la propiedad...
+
+.. image:: 022704-Tedeton.jpg
+   :alt:
+   :align: right
+
+Y el lector Jerry Shaver nos informa que la FDA hace poco le envió al Hermano Clayton Tedeton, el creador de la familia de productos Miracle II, una carta de advertencia que puede verse en http://www.fda.gov/foi/warning_letters/g4153d.htm. Esto apareció simultáneamente con nuestra publicación del artículo. ¡Uno debería preguntarse si la FDA está empezando a prestar atención de verdad a lo que aparece aquí!
+
+Este lápiz no tiene plomo
+.........................
+
+Hitos: Jack Temple, un autodenominado "sanador zahorí homeopático" del Reino Unido cuyos clientes incluían a Diana, Princesa de Gales, la Duquesa de York, la modelo Jerry Hall, y la esposa del Primer Ministro, Cherie Booth, murió a sus 86 años. Temple vendía una mezcla "New Age" de cristales, rabdomancia, círculos neolíticos que mejoran la energía, enseñanza del hebreo, herbalismo, homeopatía y medicina oriental. Su tasa de consulta de 40 libras se agregaba al costo de los remedios que ofrecía de un conjunto de pociones exóticas con nombres tales como Tronco de Banana, Palos de Mono, Manteca Rancia, Memoria Volcánica, y Esfínter. El último me preocupaba; pero ya que esas sustancias y objetos no se ingerían sino que se fijaban al cuerpo de la víctima, el único daño era a la billetera. El CI y el autorespeto ya había abandonado a los pacientes.
+
+Con Diana, Temple halló que su problema era envenenamiento con plomo, una condición que pudo diagnosticar simplemente mirándola en una entrevista en televisión. Notó que inclinaba la cabeza, lo que todos sabemos es un signo seguro de envenenamiento con plomo. Informada de su hallazgo, Diana lo llamó personalmente y confirmó el problema. Cuando estudiaba, le dijo, se había pinchado la mejilla derecha con un lápiz, y la punta se quebró dentro de su cara. Afortunadamente, Temple pudo extraer de modo místico el veneno y la princesa pudo sostener nuevamente su cabeza en alto. Ni él ni Diana supieron jamás, por lo que parece, que un lápiz no contiene plomo, ya que el ingrediente activo es el grafito, una variedad inofensiva del carbón.
+
+Pero ¡ey! Funcionó, así que ¿quién se va a quejar?
+
+En conclusión...
+................
+
+La semana pasada me equivoqué. Recordé haber visto videos de noticias en los cuales el Beatle George Harrison estaba alabando las virtudes del Yogui Maharishi Mahesh y su partido político, pero George nunca se postuló para ningún cargo. En 1992 hizo campaña para el partido de la "Ley Natural", cuyo candidato perdió dramáticamente. Mea culpa.
+
+Sylvia Browne está en ello de nuevo (o debería decir, sigue en ello), hablando mal de mí en su habitual modo mendaz, difamatorio y amargo. Me ocuparé de ello la próxima semana, el tercer aniversario de cuando la Clarividente de las Garras estuvo de acuerdo en someterse a una prueba de la JREF. ¡Qué mal miente! ¡Y ha tenido tanta experiencia en el arte! Este examen será brutal, descortés y directo, ¡así que prepárense!
+
+|firmarandi|
+
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: Traducido por Marcelo Huerta
+    :description: Georgia en mi mente,
+        foto familiar,
+        ¿psíquicos prohibidos?,
+        una sorpresa de John Cleese,
+        Jim Thomas abandona su demanda,
+        Schwartz seguro en su casa,
+        productos para tontos,
+        no era el grupo KISS,
+        esoterismo elóptico,
+        este lápiz no tiene plomo

@@ -1,0 +1,41 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC000
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CC001_1
+.. link: http://www.talkorigins.org/indexcc/CC/CC001_1.html
+.. date: 2004-03-05
+.. title: CC001.1: Se escribieron 500 tesis doctorales sobre el Hombre de Piltdown
+.. description: Respuesta a la afirmación creacionista «Se escribieron 500 tesis doctorales sobre el Hombre de Piltdown»
+.. type: afirmacrea
+
+**Fuente:**
+
+Parker, Gary, 1981. Origin of mankind. *Impact* 101 (Nov.), http://www.icr.org/index.php?module=articles&action=view&ID=183
+
+Respuesta
+===========
+
+1. La afirmación es falsa. Con toda probabildiad, no hubo disertaciones doctorales sobre el Hombre de Piltdown. La afirmación probablemente surge de un editorial de *Nature* que dice: "Se dice que se escribieron más de quinientos artículos y memorias sobre el hombre de Piltdown" ([Editores_Nature_1954]_; [Harter_1996]_).
+
+Enlaces
+===========
+
+Harter, Richard, 1996. Piltdown Man: The bogus bones caper. http://www.talkorigins.org/faqs/piltdown.html#doctoral_theses
+
+Referencias
+============
+
+.. [Harter_1996]    Harter, 1996. (V. arriba)
+.. [Editores_Nature_1954]   Nature editors, 1954. The Piltdown bones and 'implements'. *Nature* 274(4419): 61-62.
+
+
+/////
+
+Anterior: :doc:`CC001` | Siguiente: :doc:`CC002`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

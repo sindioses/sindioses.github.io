@@ -1,0 +1,44 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2003-09-25
+.. type: afirmacrea
+.. title: CB141: La cantidad de cromosomas difiere mucho y sin patrón entre especies
+.. description: Respuesta a la afirmación creacionista «La cantidad de cromosomas difiere mucho y sin patrón entre especies»
+.. slug: CB141
+.. link: http://www.talkorigins.org/indexcc/CB/CB141.html
+
+La cantidad de ADN y cromosomas difiere ampliamente entre distintos organismos. Esta disimilitud contradice la similitud que esperaríamos de una ascendencia común. La cantidad de cromosomas debería ser o bien la misma porque las distintas formas de vida descendieron de un ancestro común ([Pathlights_n_d]_) o más complejas a medida que los organismos se vuelven más complejos ([Thompson_y_Butt_2001]_). Por ejemplo, los seres humanos tienen 46 cromosomas, algunos helechos tienen 512 y algunas gaviotas tienen 12.
+
+**Fuente:**
+
+.. [Thompson_y_Butt_2001] Thompson, Bert y Kyle Butt, 2001. Creation vs. evolution—[Part II], Lesson 6. Apologetics Press, Montgomery, AL. http://www.apologeticspress.org/rr/reprints/hsc0106.pdf
+.. [Pathlights_n_d] Pathlights, n.d. Chromosome comparisons. http://www.pathlights.com/ce_encyclopedia/15sim03.htm
+.. [Williams_2003] Williams, Alexander, 2003. Copying confusion. Creation 25(4) (Sept.): 15. http://www.answersingenesis.org/creation/v25/i4/DNAduplication.asp
+  
+Respuesta
+=========
+
+1. La cantidad de cromosomas es una mala indicación de similitud; puede variar ampliamente dentro de un único género o incluso de una única especie. El género vegetal *Clarkia*, por ejemplo, tiene especies con cantidades de cromosomas de n=5, 6, 7, 8, 9, 12, 14, 17, 18 y 26 ([Lewis_1993]_). La cantidad de cromosomas en la especie de ratón doméstico (*Mus domesticus*) tiene valores que varían entre 2n=22 hasta 40 ([Nachman_et_al_1994]_).
+   
+   Los cromosomas pueden dividirse o unirse con poco efecto en los genes mismos. Un cromosoma human, por ejemplo, es muy similar a dos cromosomas de chimpancé puestos lado a lado; probablemente se formó por la fusión de dos cromosomas ([Yunis_y_Prakash_1982]_). Dado que los genes aún pueden alinearse, un cambio en el  número de cromosomas no impiden la reproducción. La cantidad de cromosomas también puede cambiar debido a poliploidía, en la que el genoma completo se duplica. La poliploidía, de hecho, es un mecanismo común de especiación en las plantas.
+
+Referencias
+===========
+
+.. [Lewis_1993]    Lewis, Harlan, 1993. "Clarkia", En: *The Jepson Manual: Higher Plants of California*, J. C. Hickman, ed., Berkeley: University of California Press, pp. 786-793.
+.. [Nachman_et_al_1994]    Nachman, M. W., S. N. Boyer, J. B. Searle y C. F. Aquadro, 1994. Mitochondrial DNA variation and the evolution of Robertsonian chromosomal races of house mice, *Mus domesticus*. *Genetics* 136(3): 1105-1120.
+.. [Yunis_y_Prakash_1982]    Yunis, Jorge, y Om Prakash, 1982. The origin of man: A chromosomal pictorial legacy. *Science* 215: 1525-1530. V. http://www.indiana.edu/~ensiweb/lessons/chr.bk1.html para Fig. 2a: Human and chimpanzee chromosomes 1-4. 
+
+		
+/////
+
+Anterior: :doc:`CB130` | Siguiente: :strong:`CB144`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

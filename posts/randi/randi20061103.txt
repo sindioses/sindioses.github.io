@@ -1,0 +1,283 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Traducciones de James Randi
+.. date: 2006-11-03 00:00:00
+.. type: randi
+.. title: Relajando las reglas. Noticias que nos han llegado. Para no perdérselo. Corrección. Esto es un test. Ventas. Conocimiento mal informado, una vez más. Para terminar...
+.. author: James Randi, traducción de Lucía Sierra
+
+.. contents:: Contenido
+   :class: sidebar
+   :local:
+
+
+Relajando las reglas
+....................
+
+.. figure:: http://www.randi.org/images/commentary/200611/03mhra.gif
+   :alt:
+   :figwidth: 271
+
+   Agencia reguladora de productos medicinales y de salud
+
+Recientemente recibimos la reconfortante noticia de que las principales instituciones científicas británicas habían declarado que cambios imprudentes en la regulación de la medicina homeopática estaban poniendo en riesgo a los pacientes. Más de 700 doctores y científicos han firmado un exhaustivo comunicado oponiéndose a nuevas reglas que permiten a los homeópatas atribuir propiedades médicas a sus "preparados". Rebatiendo esta bien documentada objección, la MHRA (Agencia reguladora de medicamentos y productos sanitarios), Agencia reguladora de fármacos en Gran Bretaña, sostiene que las nuevas reglas que han aprovado beneficiarían en realidad a los pacientes. En la práctica, la regulación de medicamentos en Gran Bretaña se ha separado oficialmente más de la ciencia, en lugar de acercarse a ella.
+
+En Septiembre, la MHRA introdujo reglas para permitir a los homeópatas especificar las dolencias para las que sus "remedios" podían usarse, sin necesidad de evidencia alguna en su apoyo. El Royal College of Pathologists (Real Colegio de Patólogos), el Medical Research Council (Consejo de Investigaciones Científicas), la BioSciences Federation (Federación de BioCiencias), la Physiological Society (Sociedad de Fisiología), la British Pharmacological Society (Sociedad Farmacológica Británica), la Society for Applied Microbiology (Sociedad para la Microbiología Applicada), la Royal Society (Sociedad Real), la Academy of Medical Sciences (Academia de Ciencias Médicas), junto con otras cuatro sociedades de ámbito nacional, están alarmadas de que de pronto se pueda afirmar la eficacia de estos productos sin evidencia rigurosa y objetiva. Parece que, con esta decisión, la MHRA se ha rendido ante poderosas presiones de la industria de la charlatanería. Y sospechamos que este retorno a la mitología estará siendo aplaudido por Su Majestad el Príncipe Carlos.
+
+La homeopatía es un sistema de terapia basada en la creencia de que las enfermedades se pueden tratar con drogas diluídas hasta el punto de que su presencia no sea perceptible, y puede tener su efecto. Bajo estas nuevas reglas de la MHRA, los productos homeopáticos recibirán una licencia con tal de que se pruebe que el tratamiento es seguro, lo cual es evidente, dado que se trata de disoluciones de billones a uno. Efectivamente, las concentraciones de algunos compuestos utilizados en "remedios" homeopáticos son en ocasiones inferiores a las cantidades de los mismos presentes en el agua con la que se toman las píldoras. Un estudio reciente en el Lancet - una de las más importantes publicaciones de medicina general en el Reino Unido - sugiere que los beneficios de la homeopatía son pura imaginación, y que los remedios alternativos producen resultados equivalentes a los placebos usados en pruebas clínicas.
+
+Ah, pero hay un requisito que los homeópatas deben cumplir: deben probar que el producto ha sido previamente recetado para tratar esas precisas enfermedades dentro de la industria homeopática. Si se ha obtenido mejora o alivio alguno, no necesitan desvelarlo. Lo cual es como referirse al Macbeth de Shakespeare para establecer que, como "ojo de tritón y anca de rana" se utilizaban en la medicina escocesa en torno al 1040 C.E., debería respaldarse el uso de tales sustancias - y semejante referencia tiene la misma autoridad que la de la MHRA.
+
+Lord Dick Taverne, presidente de Sense About Science (Sentido sobre la Ciencia) - una fundación benéfica independiente que se ocupa de la tergiversación de la ciencia y la evidencia científica - en un debate sobre el cambio de las normas, en la Cámara de los Lores, dijo:
+
+  Como muchos de los especialistas médicos que se han puesto en contacto con nosotros han señalado, la medicina basada en la evidencia ha representado un beneficio público fundamental del siglo XX. Esta es la primera vez, desde la tragedia de la talidomida y el Acta de Medicamentos de 1968, que la normativa sobre medicamentos se ha apartado de la ciencia, en lugar de acercarse a ella.
+
+.. image:: http://www.randi.org/images/commentary/200611/03fisher.jpg
+   :alt:
+   :align: right
+
+Obviamente, una atoridad como el Doctor Peter Fisher, homeópata de la Reina Isabel II y director clínico del Real Hospital Homeopático de Londres, se ha apresurado a enmascarar el asunto. Alega que:
+
+  El reglamento simplemente concreta la situación afirmando "este medicamento homeopático se ha utilizado tradicionalmente para", y la pone en paralelo con el reglamento sobre medicina natural
+
+Remito al Doctor Fisher a Macbeth, y al "uso tradicional" de ojos de tritón y ancas de rana. Él añade, en un típico menosprecio a tan poderosa oposición:
+
+  Me parece un poco una tormenta en una taza de té [#taza]_.
+
+Me imagino que el té estará hecho con el más ínfimo vestigio de hoja de té diluída millones de veces, ¿no, doctor? Oh, ¿demasiado fuerte?
+
+El Doctor Edzard Ernst, catedrático de medicina complementaria en la Universidad de Exeter, ha dicho sobre esto:
+
+  La normativa es una burla hacia la medicina basada en la evidencia. Debo recalcar que esto es un error muy serio. Si se presentan alegaciones, debe haber evidencia al respecto. Llevada al extremo, esta normativa podría costar vidas.
+
+Michael Baum, catedrático de cirugía en el Colegio Universitario de Londres, ha acusado a la industria homeopática de jugar con las creencias de la gente acerca de la magia y la superstición:
+
+  Las páginas web sobre homeopatía defienden el uso del muérdago para curar el cáncer de mama. La [prueba de la eficacia] del muérdago consiste en que éste crece en arbustos, de forma parecida a cómo el cáncer crece en las personas. Es absolutamente descabellado.
+
+Pero un representante de la MHRA ha afirmado que la calidad y seguridad estaban "fuertemente controladas" por la industria:
+
+  El etiquetado y/o empaquetado deben indicar claramente la naturaleza homeopática del producto, junto con una advertencia ordenando al paciente que consulte a su médico si los síntomas persisten.
+
+¿Esto es lo que significa "fuertemente controladas"? Parece que los diccionarios de Oxford y Webster contradicen esta afirmación.
+
+.. [#taza] Expresión inglesa más o menos equivalente a la española "ahogarse en un vaso de agua" [N. de la T.]
+
+
+Noticias que nos han llegado
+............................
+
+.. figure:: http://www.randi.org/images/commentary/200611/02afilani.jpg
+   :alt:
+   :figwidth: 167
+
+   ¿Desafío? ¿Y eso qué es?
+
+   --Thomas Afilani
+
+El corresponsal Carl Moreland, incansable investigador/crítico de varillas de zahorí/mecanismos adivinatorios, nos informa:
+
+  Nuestro buen amigo Thomas Afilani (Electroscopios y Salvavidas DKL, también conocidos como varillas de zahorí) tiene ahora una página web propia: http://www.thomasafilani.com. La frase más prominente, con diferencias, en dicha página es "La Prueba está en las Patentes". Esto constituye un excelente ejemplo de por qué la USPTO [United States Patent & Trade Mark Office (Oficina de Patentes y Marcas Registradas de los Estados Unidos)] debería ser reprendida por hacer lo que se supone que es su trabajo. Demasiada gente, incluso gente inteligente, asume que una patente constituye una prueba real.
+
+Podéis visitar `nuestra columna del 6 de mayo de 2005 <randi20050506.html#h-galo-y-gane>`__ para acceder a uno de nuestros artículos sobre el señor Afilani, y sabed que a uno de los satisfechos usuarios de este aparato se le ofreció, como veréis, el premio del millón de dólares de la |JREF| si conseguía probar su argumento de que la varilla de zahorí funcionaba. Curiosamente, nunca supimos más de él. Debemos preguntarnos si tan entusiasta cliente era familia de Afilani, o quizás ocupaba su cuerpo... Ambos tipos rehusaron aceptar el millón.
+
+Afortunadamente, no todos los países cuentan con agencias tan simplistas como la USPTO. Un científico francés, el Profesor Yuly Zagyansky, afirma haber descubierto una nueva fuerza magnética que, en apariencia, sostiene a un tiempo alfombras voladoras y movimiento perpetuo. La primera vez que solicitó una patente fue hace cinco años, pero la Oficina Europea de Patentes (EPO) rechazó su solicitud por no haber conseguido describir un invento susceptible de ser patentado. Zagyansky apeló, alegando que la EPO no había logrado encontrar evidencia alguna de un diseño anterior - y que, por tanto, su invención debería ser patentable. La EPO razonó que la ausencia de diseño anterior es irrelevante en el caso de una solicitud que no tiene sentido. Simplemente no consiguieron comprender a qué se refería el Profesor Zagyansky con lo que él llamaba textualmente una "teoría científica revolucionaria de siglo" ("revolutionary scientific theory of century *[sic]*")
+
+Judgad por vosotros mismos. El título del invento de Zagyansky es:
+
+  El fin de Einstein-Bohr: nueva física de escala atómica, campo eléctrico: neutrinos y electrones en conversión, movimiento perpetuo. Desarrollo: los seísmos extinguieron volcanes, crearon islas, energía de big-bang.
+
+¿Cómo funciona este trascendental invento? Afirma él, en un lenguaje que todos podemos entender:
+
+  El proceso de eliminación de los campos eléctricos y gravitacionales caracterizado por el hecho de que uno elimina (o prácticamente elimina) el campo eléctrico o gravitatorio al eliminar los neutrinos y antineutrinos electrónicos del correspondiente espacio circundante con ayuda de los Rayos T, transformándolos en los electrones y positrones, fácilmente eliminables/por, por ejemplo, la Máquina de Movimiento Perpetuo al separar las cargas sin el trabajo y re-poner el campo o para las "Alfombras voladoras" del transporte/de acuerdo a las Afirmaciones 4 (6,7).
+
+Evidentemente. Una sollicitud anterior del profesor discutía "Alfombras Aeroplanas", movimiento perpetuo y evidencia de otros universos. El Tribunal de Apelación de la EPO - demasiado rígido, en mi opinión - decidió que su oficina estaba allí para conceder patentes, y no para servir como foro de discusión de nuevas teorías físicas, a no ser que éstas fueran probadas de forma inequívoca, tuvieran naturaleza técnica, y fueran susceptibles de aplicación industrial. Así que, como veis, hay esperanza.
+
+Continuando con noticias esperanzadoras sobre la invasión de las altas instancias por parte de la cordura, debemos informar de que una alemana en Munich acaba de ganar un juicio contra una "bruja del amor" que falló en su intento de conseguir que su ex-novio volviera a sus brazos por medio de rituales escenificados bajo la Luna llena, y que habían sido diseñados para hechizarlo. La bruja fue condenada a devolver sus honorarios de €1000 (US$ 1300), y a pagar "varios cientos de euros" de costes fiscales. El tribunal falló que este servicio era
+
+  ... objetivamente imposible de ser ejecutado... y un ritual no capaz de influenciar a una persona a larga distancia.
+
+Tenemos que preguntarnos: ¿existen rituales capaces de influenciar a una persona a larga distancia? ¿O es esto una particularidad de la traducción? El lector Kale Gannan comenta, refiriéndose a un artículo publicado sobre esta historia:
+
+  Mi frase favorita es la del final: "La bruja dijo que nunca había garantizado que el hechizo fuera a funcionar". Y por esa razón sólo deberíamos acudir a brujas autorizadas y colegiadas para nuestros hechizos amorosos, en lugar de recurrir a estas operaciones de escobas pasajeras.
+
+¡Por supuesto!
+
+
+Para no perdérselo
+..................
+
+.. image:: http://www.randi.org/images/commentary/200611/03wiseman.jpg
+   :alt:
+   :align: right
+
+¡Se acerca el show del Theatre of Science (Teatro de la Ciencia)! Los que viváis en la zona de Nueva York - o estéis dispuestos a desplazaros para asistir a un show espectacular, con representaciones limitadas, que os mantendrá en vilo en vuestros asientos con autenticas maravillas extraídas de una enorme bolsa científica de sorpresas - deberíais tomar nota de este evento. En el "Theatre for the New City" ("Teatro para la nueva ciudad"), entre el Jueves 9 de Noviembre y el Domingo 12 de noviembre, el Profesor Richard Wiseman, del Departamento de Psicología de la Universidad de Hertfordshire, y su colega Simon Singh, Físico de particulas y periodista científico, ofrecerán un show patrocinado por la revista Skeptical Inquirer y el CUNY Graduate Center, Programa de Ciencias y Artes.
+
+Hay una escena final en este extraordinario show en la que se coloca a un desafortunado voluntario en una Jaula de Faraday - buscad el término en Google -, con lo que éste se somete a la deliciosa experiencia de un millón de voltios - descargas eléctricas de aproximadamente 2 metros - lanzados contra él con la esperanza de no achicharrarlo en el intento. Tengo algo de experiencia con este procedimiento, y por lo que he constatado, la inmensa mayoría de voluntarios sobrevive sin problemas. James Dillon, miembro de la |JREF|, ha apostado más de $500 - destinados a nuestros fondos para becas - para meterse en la jaula en el show de las 3 de la tarde del Sábado 11 de noviembre. El señor Dillon desearía la asistencia de el mayor número de mienbros de la |JREF| posible para presenciar su hipotético fallecimiento. La asistencia incluirá una invitación para la posible ceremoria obituaria resultante.
+
+Por favor, absteneos de comentar "¡Muy bien!" despues de la representación.
+
+.. figure:: http://www.randi.org/images/commentary/200611/03cage.jpg
+   :alt:
+   :figwidth: 404
+
+   ¡Comprueben sus conexiones!
+
+Los detalles están disponibles en http://www.theatreofscience.co.uk, y la foto que incluímos muestra la Jaula de Faraday durante una de las representaciones - en este caso, con éxito.
+
+Los afortunados espectadores verán también lo que Richard describe como
+
+  ... la extraordinaria anatomía de Delia Du Sol, una de las principales contorsionistas del Reino Unido, durante su show en directo, en el que muestra imposibles flexiones de su cuerpo, y consigue comprimirse en un diminuto cubo de Perspex (Lucite, o Plexiglas, para nosotros).
+
+Este vertiginoso grupo incluirá también impresionantes ilusiones ópticas, una demostración de detección de mentiras mediante polígrafo, y una explicación del Big Bang reducida a dos minutos. El popular show ha sido puesto en escena en el West End de Londres, y en el Edinburgh Fringe Festival, con críticas muy favorables. Quienes han asistido a cualquier función del TAM ya saben lo divertido qu es el doctor Wiseman.
+
+Se trata de una excelente - aunque breve - oportunidad para que la gente de la |JREF| conozca a los artistas del Teatro de la Ciencia, y apoye una buena causa: la educación científica. Este estilo único de presentar datos sobre el universo de manera que entusiasmen a la audiencia debería fomentarse. Nunca he olvidado a un profesor de la Universidad de Toronto, que solía impartir charlas menos comprometidas, pero ciertamente entretenidas. Podéis consultar http://tinyurl.com/y2tj4p.
+
+
+Corrección
+..........
+
+Nos ha llegado una nota anónima sobre un comentario mío en el SWIFT de la semana pasada, bajo el título "Conocimiento mal aplicado"
+
+  Cuando leí tu último comentario, me pareció que existía la posibilidad de que hubiera un malentendido por tu parte acerca de que que había escrito Dan Thompson.
+
+  En tu respuesta a él, dices: *"Dan, me da la sensación de que aquí existe una implicación de que hay algo en los mediums [psíquicos] aparte de trucos y subterfugios..."* Yo no fui capaz de ver nada que implicase tal cosa en lo que él había escrito, y me preguntaba si quizás habrías malinterpretado la frase en la que escribe *"Por supuesto, tal analogía sería completamente absurda y no tiene nada que ver con la forma en la que los* **físicos** *reales trabajan [o "la forma en que funciona la física real", según se lea]* como *"... y no tiene nada que ver con la forma en la que los mediums (psíquicos) reales trabajan..."*
+
+  Abrí `un hilo sobre esto en la JREF`_, y después me di cuenta de que quizás hubiera sido más razonable escribirte directamente para preguntar si podías haber cometido este error. Así que (más vale tarde que nunca) he decidido escribirte para preguntártelo (y para llamar tu atención sobre ello, en caso de que hubieras interpretado mal lo que Thompson había escrito).
+
+  Gracias por los muchos años que has dedicado a combatir el fraude y a los estafadores. He sido un admirador de tus escritos y tu trabajo desde mediados de los 70, y te estoy muy agradecido por haber creado la |JREF| (y por el foro que allí se aloja).
+
+.. _un hilo sobre esto en la JREF: http://forums.randi.org/showthread.php?t=67323
+
+Convenientemente amonestado y halagado, respondí:
+
+  La expresión "mediums (psíquicos) reales" habría implicado que existen mediums (psíquicos) genuinos... Sí, parece que leí mal, probablemente por el uso de la forma plural del verbo. Debería decir: "... la forma en que la física real funciona", dado que "física" es un nombre singular, al que le corresponde un verbo en singular. Y también he encontrado que frecuentemente se utiliza "físicos" / "física" y/o "fisíquicos" ["phsychics"] en lugar de "psíquicos". Pero son dos excusas bastante pobres.
+
+Mea culpa...
+
+
+Esto es un test
+...............
+
+.. image:: http://www.randi.org/images/commentary/200611/03aa.jpg
+   :alt:
+   :align: right
+
+Esto está directamente tomado de la edición de Septiembre del American Atheist - http://www.americanatheists.org. Simplemente he añadido un par de retoques propios.
+
+    | **P: ¿Cuántos Teístas se necesitan para cambiar una bombilla?**
+
+    | **Carismáticos**: Sólo 1
+    | Ya tienen las manos en el aire.
+
+    | **Pentecostales**: 10
+    | Uno para cambiar la bombilla, y nueve para pedir protección contra el espíritu de la oscuridad.
+
+    | **Presbiterianos**: Ninguno
+    | Las luces se encenderán y apagarán en momentos predeterminados.
+
+    | **Católicos Romanos**: Ninguno
+    | Sólo velas. Dejen algo en la colecta.
+
+    | **Baptistas**: Por lo menos 15
+    | Uno para cambiar la bombilla, y tres comisiones para aprovar el cambio y decidir quién trae la ensaladilla y el pollo frito el domingo siguiente.
+
+    | **Episcopalistas**: 3
+    | Uno para llamar al electricista, otro para mezclar las bebidas, y otro para hablar de cuánto mejor era la anterior bombilla.
+
+    | **Mormones**: 5
+    | Un hombre para cambiar la bombilla, y cuatro mujeres para decirle cómo hacerlo convenientemente.
+
+    | **Unitarios**: ?
+    | Hemos decidido no pronunciarnos a favor o en contra de la necesidad de una nueva bombilla. Sin embargo, si en vuestro propio viaje habéis encontrado que las bombillas funcionan para vosotros, estáis invitados a escribir un poema o componer una danza moderna acerca de vuestra bombilla para el servicio del próximo Domingo, en el que exploraremos varios tipos de bombillas, incluyendo las incandescentes, fluorescentes, de tres tubos, de larga duración y tintadas - todas las cuales constituyen caminos igualmente válidos hacia la luminiscencia.
+
+    | **Metodistas**: Indeterminado
+    | Esté vuestra bombilla brillante, apagada, o completamente fundida, se os ama. Podéis ser una bombilla, un nabo o un tulipán. Traed al servicio luminoso del Domingo una bombilla de vuestra elección y un plato cubierto para pasar de mano en mano.
+
+    | **Cienciólogos**: Tom Cruise
+    | Puede que tengamos suerte y se caiga de la escalera, o sea secuestrado por Xenu.
+
+    | **Nazarenos**: 6
+    | Una mujer para cambiar la bombilla mientras cinco hombres revisan la política de iluminación de la iglesia.
+
+    | **Luteranos**: Ninguno
+    | Los Luteranos no creen en el cambio.
+
+    | **Amish**:
+    | ¿Qué es una bombilla?
+
+
+Ventas
+......
+
+.. image:: http://www.randi.org/images/commentary/200611/03chart.jpg
+   :alt:
+   :align: right
+
+Mientras examinaba cifras de ventas recientes de libros de la |JREF|, noté una tendencia interesante. Estas ventas son una fuente menor de ingresos para nosotros; las mantenemos más bien como servicio para nuestros miembros y admiradores, con lo que este gráfico no representan las ventas exteriores de nuestros libros. Sólo dos - "Flim-Flam!" [#flim]_ y "La Verdad sobre Uri Geller" - están incluidos aquí, pero es bastante evidente que apenas existe interés por el libro sobre Geller en la actualidad. Es probable que no volvamos a pedirlo. "Flim-Flam!" sigue funcionando bien, tanto desde nuestra oficina, como el las librerías.
+
+La Facultad de Henniker, N.H., en Nueva Inglaterra, ha pedido varias copias del libro sobre Geller a la |JREF| - 150 en los últimos años - para utilizarlas como libros de texto en su curso "The Way of Science" ("El camino de la ciencia"), que fue inaugurado hace 25 años por Michael Wirth. En la actualidad lo imparte Sachie Howard. Podéis leer más sobre el particular en http://www.wayofscience.info/unit1part1.html, en el sitio web de la Facultad, donde también encontraréis las pertinentes preguntas que se formulan acerca del doblador de cucharas y sus pretensiones. Recordad que Geller siempre ha mantenido que no le importa lo que la gente diga sobre él con tal que escriban su nombre correctamente - aunque ha denunciado a un par de tipos cuya actitud no le gustaba. ¡Sospecho que esta Facultad de Nueva Inglaterra quizás atraiga su embelesada atención...!
+
+Las líneas de puntos rojos en el gráfico representarían las ventas actuales del libro sobre Geller por parte de la |JREF|, con las ventas de las copias para libros de texto añadidas.
+
+.. [#flim] Traducido al castellano como "Fraudes paranormales" [N. del E.]
+
+Conocimiento mal informado, una vez más
+.......................................
+
+Reader Ken Dauer observes:
+
+  Las recientes discusiones acerca de embaucar a gente, en general, inteligente y con una educación adecuada me recordaron algo que me pasó hace algunos años. Los marcadores que proporcionaba mi empresa estaban hechos de plástico y tenían tapas curvas, con puntas pronunciadas. Uno de mis compañeros (un ingeniero electrónico) descubrió que apretando la tapa lo suficientemente fuerte entre el dedo índice y el pulgar, ésta saldría disparada con cierta fuerza, como una pipa de calabaza.
+
+  Dan le ensañaba uno de estos marcadores a un ingeniero más joven, y le explicaba que el material de polietileno de que estaba hecho podía almacenar un potencial eléctrico estático significativo cuando se cargaba convenientemente. Colocaba la parte trasera del marcador contra la pantalla de un monitor de computadora (los cuales, obviamente, se sabe que desarrollan cargas electricas) y sujetaba la tapa entre el pulgar y el índice a corta distancia de la punta del marcador. De pronto, la tapa saltaba de entre sus dedos con fuerza suficiente para encajarse firmemente en su sitio sobre la punta del marcador; supuestamente la carga eléctrica del marcador había atraído a la tapa.
+
+  Con este truco, tenía bastante éxito engañando a ingenieros bien entrenados, incluyendo doctores (PhDs / postgraduados). Si hubiera explicado que era cosa de magia, o que la culpa era de "los espíritus", nadie en semejante audiencia le hubiera creído, pero establecía una conexión lo suficientemente buena con sus conocimientos reales de ingeniería como para que el supuesto fenómeno resultara enteramente convincente. Las barras de plástico son un componente básico en demostraciones sobre electricidad estática, y los monitores a veces, en efecto, desarrollan una carga estática notable.
+
+  .. image:: http://www.randi.org/images/commentary/200611/03snapper.jpg
+       :alt:
+       :align: right
+
+  Probablemente me hubiera engañado a mí también, pero yo le conocía lo suficiente como para saber que Dan tenía (y todavía tiene) algo de bromista. Si aparecía con una "demostración" semejante, había ua posibilidad importante de que te estuviera tomando el pelo.
+
+Pues bien, Ken, exmina el ejemplo de la foto. Este es un típico truco de bolsillo conocido como el Red Snapper (Pargo del Golfo) - sin relación alguna con el pez - que podrás encontrar en cualquier tienda de ilusionismo. Funciona igual que el truco de Dan, pero tiene una banda de goma verde encajada en la punta, para dar la impresón de que el la persona que lo maneja está de alguna forma activando la banda para causar este efecto.
+
+.. figure:: http://www.randi.org/images/commentary/200611/03snapper2.jpg
+   :alt:
+   :figwidth: 230
+
+   ¿Cómo?
+
+Ahora que he captado tu atención, te diré que existe otra versión disponible del Red Snapper - la cual incluso la mayoría de los magos desconocen. Generalmente está hecha de metal, pero la segunda ilustración muestra una versión de plástico que valdría igualmente. ¿Cómo funciona? Según un principio completamente distinto: Nada de imanes, trucos añadidos, muelles o bandas de goma. Y es muy sencillo. ¡Tan sencillo como el Snapper de siempre! ¡Mándame tu mejor solución!
+
+
+Para terminar...
+................
+
+Uno de nuestros fieles voluntarios, Chris, ha estado trabajando duramente y organizando la biblioteca de la |JREF|. Ha añadido otros 150 libros, llevando el total - sin contar las enciclopedias (tenemos cinco) y los 67 periódicos que recopilamos - a 1899 volúmenes. Hemos tenido que ampliar las estanterías de la biblioteca más allá de su habitación y a lo largo del corredor hacia la entrada. Escondida en mi oficina se encuentra la biblioteca de magia - material demasiado bueno y secreto como para que los campesinos tengan acceso a él. En ella hay otros 60 libros. Nuestra colección de videos, que pasó del formato de cinta ¾” a VHS, y ahora a DVDs, llega a 762 discos, algunos de los cuales contienen hasta 5 o 6 unidades. Eso es un montón de información, chicos, y toda ella disponible para almacenar este estraño período de la historia en el que el público optó por ignorar lo que había aprendido desde el inicio de la ciencia, y decidió prestar atención a los artistas del timo y a los locos religiosos que se les acercaron.
+
+Los voluntarios Keith y Elena has estado cuidadosamente arreglando, peinando y aseando a las nuevos muñecos Randi a la venta. Esperamos una buena reacción a este artículo, sobre todo ahora que ofreceremos 3 - contadlos - 3 - resistentes alfileres de vudú con los que sus propietarios podrán atormentar al muñeco. Las esposas incluídas son obvias, pero habrá un asunto oculto que sólo aparecerá cuando el muñeco sea cuidadosamente examinado.
+
+.. figure:: http://www.randi.org/images/commentary/200611/03hulk.jpg
+   :alt:
+   :figwidth: 359
+
+   Efecto luminoso simulado
+
+Estoy viendo ahora mismo un spot publicitario anunciando aparatos de televisión Philips en los que se muestra a un actor mirándose en el espejo de su aseo y transformándose en un monstruo verde, a là Hulk/Bill Bixby. Cuando el efecto verde se vuelve obvio, aparece un subtítulo: "Efecto luminoso simulado". Vaya, amigos, no me habíais engañado, ni por un instante. ¡Me di cuenta al momento! ¿Qué pasa aquí? ¿Requieren las normas publicitarias que se informe a los espectadores de que el actor realmente no se transformó por arte de magia, que esto no es un milagro "basado en la fé"?
+
+El viejo amigo Ken Hughes me remitió a http://www.thepregnancytester.com e introduje los datos requeridos. Probadlo.
+
+Pensamiento del día:
+
+    Ninguna teoría es demasiado falsa, ninguna fábula tan absurda, ninguna superstición demasiado degradante para ser aceptada cuando se ha vuelto parte integrante de la creencia común. Los hombres se someterán a torturas y muerte, las madres inmolarán a sus hijos, a petición de creencias aceptadas de esta manera.
+
+    --Henry George, "Social Problems" ("Problemas Sociales"), 1883.
+
+
+
+|firmarandi|
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: Traducido por Lucía Sierra
+    :description: Relajando las reglas — Noticias que nos han llegado — Para no perdérselo — Corrección — Esto es un test — Ventas — Conocimiento mal informado, una vez más — Para terminar...

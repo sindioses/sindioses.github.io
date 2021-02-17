@@ -1,0 +1,44 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. author: Glenys Álvarez
+.. title: Cómo la influenza nos mata
+.. description: Investigadores en Pensilvania buscan los mecanismos que utiliza el virus de la gripe para paralizar nuestro sistema de defensa y permitir que otras enfermedades, como las infecciones bacterianas, tomen control de nuestro cuerpo y nos maten.
+.. tags: virología
+.. type: nocie
+.. category: Noticias de la ciencia
+.. date: 2009-06-27 00:00:00
+
+    **Virología.** Investigadores en Pensilvania buscan los mecanismos que utiliza el virus de la gripe para paralizar nuestro sistema de defensa y permitir que otras enfermedades, como las infecciones bacterianas, tomen control de nuestro cuerpo y nos maten.
+
+.. class:: primera
+
+Nuestro organismo tiene un sistema defensor de evidente importancia. Nuestro desarrollo sobre el planeta Tierra se ha caracterizado por la convivencia con microorganismos que luchan también por el derecho a sobrevivir, aún cuando esa supervivencia dependa de otros seres vivos. En este sentido, todos compartimos el momento de ser predador o ser la víctima; los virus, en millones de ocasiones, nos han obligado a tomar esta segunda posición.
+
+La historia lo demuestra sin tapujos. Miles de millones de seres humanos han sucumbido a los virus, otras especies también. En la actualidad, estos microorganismos todavía se encargan de enfermarnos con distintas condiciones que van desde la benigna gripe hasta el letal VIH. Las noticias de hoy están protagonizadas por un nuevo tipo de estas enfermedades oportunistas y, si no fuera por el exitoso programa de vacunación, todavía muchos niños estarían sin andas por causa del polio.
+
+Pero ahora el mundo lidia con la gripe porcina. Los investigadores tienen bajo la lupa del laboratorio a este nuevo microorganismo en busca de pistas que puedan eliminarlo. En esta ocasión, científicos del Hospital Infantil de Pensilvania, han descubierto pistas interesantes sobre la forma en que este tipo de influenza afecta a unos organismos y a otros no. En una pregunta, ¿por qué algunas personas mueren al ser infectadas por el H1N1 y otras no?
+
+El equipo estadounidense ha observado el problema con el sistema de defensa, nuestro propio centro de inmunología se ve comprometido al ser atacado por este virus.
+
+“Es entonces cuando otras infecciones se valen de la oportunidad de un sistema inmunológico débil y enferman aún más al organismo con condiciones como la neumonía”, explicó la doctora Kathleen Sullivan, autora principal del experimento. “No sabemos muy bien por qué algunas personas son infectadas con el virus y sólo padecen de una simple gripe, sin embargo, otras más pueden hasta morir. Con estos experimentos hemos visto cómo problemas bacteriales sobre problemas virales, comprometen el sistema de defensa y la vida del paciente”.
+
+Los investigadores investigaron pacientes que estaban completamente saludables antes de ser infectados por el virus de la influenza y desarrollaron un método para medir el nivel de las citoquinas (o citocinas), células que llegan enla primera respuesta del sistema inmunológico.
+
+.. |tit2| replace:: Una respuesta de las defensas
+
+|tit2|
+......
+
+Cuando algo extraño entra en nuestro cuerpo, alarmas moleculares se activan por todo el organismo y un proceso automático y antiguo comienza a defender nuestra vida. Desafortunadamente, no siempre podemos ganar estas batallas, pero la ciencia ha logrado desarrollar formas de ayudar a nuestro cuerpo a combatir estos letales y microscópicos depredadores. Las vacunas han sido uno de los proyectos más exitosos de la medicina moderna frente a los virus, sin embargo, estos microorganismos mutan, cambian y evolucionan, convirtiéndose en un problema mayor para los seres humanos. Además, hemos observado como los virus saltan de una especie a otra, fortaleciendo su forma de infectar al huésped. El estudio de las células citoquinas, como la primera señal de defensa, ha llevado a los científicos a la solución de un problema inmenso: ¿cuáles mecanismos se encargan de silenciar a nuestro sistema de defensa?
+
+.. |tit3| replace:: Los receptores subyugados
+
+|tit3|
+......
+
+Además de las citoquinas, en el sistema de defensa existen unos receptores que se encargan de dar la alarma a otros, digamos, células soldados para que se encarguen de atacar al intruso. Al observar la aparición de las citocinas, los investigadores notaron también que estos receptores estaban extrañamente callados, no activaban el sistema para que lucharan contra los microbios, como si los intrusos hubiesen desactivado la alarma y nos dejara indefensos a los invasores. “Esto nos sugiere que la disminución de la respuesta de los receptores mantiene al sistema vulnerable, sin poder llamar a sus defensores y proveer la situación perfecta para infecciones de bacterias. La influenza viene mutando desde hace siglos, en 1918 tuvimos la primera epidemia, ahora sabemos cómo es que nos paraliza y por eso un cuarto de los niños que la padecen mueren de infección bacterial y no por el virus”, explicó la doctora.
+
+.. include:: includes/nocie_pie.inc
+.. meta::
+   :author: Glenys Álvarez
+   :keywords: virología
+   :description: Investigadores en Pensilvania buscan los mecanismos que utiliza el virus de la gripe para paralizar nuestro sistema de defensa y permitir que otras enfermedades, como las infecciones bacterianas, tomen control de nuestro cuerpo y nos maten.

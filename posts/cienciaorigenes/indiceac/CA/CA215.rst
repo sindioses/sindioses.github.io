@@ -1,0 +1,111 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA200
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA215
+.. link: http://talkorigins.org/indexcc/CA/CA215.html
+.. date: 2005-10-04 02:00:00+00:00
+.. title: CA215: La evolución es una teoría inútil
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La evolución es una teoría inútil»
+
+La teoría de la evolución es inútil, sin aplicación práctica.
+
+**Fuente:**
+
+* Lindsey, George. 1985. Evolution -- Useful or useless? Impact 148 (Oct.). http://www.icr.org/index.php?module=articles&action=view&ID=252
+* Wieland, Carl. 1998. Evolution and practical science. Creation 20(4) (Sept.): 4. http://www.answersingenesis.org/creation/v20/i4/evolution.asp
+
+Respuesta
+============
+
+1. La teoría evolutiva es el marco que une la biología en un todo. Explica similitudes y diferencias entre organismos, fósiles, biogeografía, resistencia a las drogas, características extremas como la cola del pavo real, la virulencia relativa de los parásitos, y muchas otras cosas. :doc:`Sin la teoría de la evolución <CA042>`, aún sería posible conocer muchas cosas sobre biología, pero no entenderla.
+
+   Este marco explicativo es útil en un sentido práctico. Primero, una teoría unificada es más fácil de aprender, porque los hechos se conectan entre sí en lugar de ser muchos fragmentos aislados de datos triviales. Segundo, tener una teoría hace posible ver los huecos en la teoría, lo que sugiere áreas productivas para futuras investigaciones.
+
+2. La teoría evolutiva se ha usado de forma práctica en muchas áreas ([Futuyma_1995]_, [Bull_y_Wichman_2001]_). Por ejemplo:
+
+   * Bioinformática, una industria milmillonaria, consiste en su mayor parte en la comparación de secuencias genéticas. Descendencia con modificación es uno de sus axiomas más básicos.
+
+   * Las enfermedades y las plagas evolucionan resistencia a las drogas y los pesticidas que usamos contra ellas. La teoría evolutiva se usa en el área de la gestión de resistencia tanto en medicina como en agricultura ([Bull_y_Wichman_2001]_).
+
+   * La teoría evolutiva se usa para manejar pesquerías de modo de obtener mayores cantidades de ejemplares ([Conover_y_Munch_2002]_).
+
+   * La selección artificial se ha usado desde la prehistoria, pero se ha vuelto mucho más eficiente con la adición del mapeo cuantitativo de los locus de atributos.
+
+   * El conocimiento de la evolución de la virulencia parasitaria en las poblaciones humanas puede ayudar a guiar las políticas de salud pública ([Galvani_2003]_).
+
+   * La teoría de asignación de sexo, basada en la teoría de la evolución, se usó para predecir las condiciones en las cuales el pájaro kakapo, una especie en grave peligro, produciría más descendencia femenina, lo que le permitió recuperarse de una virtual extinción ([Sutherland_2002]_).
+
+   La teoría evolutiva se aplica (y tiene potenciales aplicaciones) en muchas otras áreas, tan variadas como la evolución de las amenazas producidas por los cultivos modificados genéticamente y la psicología humana. Es seguro que surgirán nuevas aplicaciones.
+
+3. El análisis filogenético, que usa el principio evolutivo de la ascendencia común, ha probado su utilidad:
+
+   * Rastrear genes de función conocida y comparar cómo se relacionan con genes desconocidos ayudan a predecir las funciones desconocidas de los genes, lo cual es fundamental para el descubrimiento de drogas ([Branca_2002]_; [Eisen_y_Wu_2002]_; [Searls_2003]_).
+
+   * El análisis filogenético es una parte normal de la epidemiología, dado que permite la identificación de reservorios de enfermedades y a vece sel seguimiento de la transmisión paso a paso de la enfermedad. Por ejemplo, el análisis filogenético conformó que un dentista de Florida estaba infectando a sus pacientes con VIH, que VIH-1 y VIH-2 fueron transmitidos a los humanos por chimpancés y mangabeyes en el siglo XX y, cuando se estaba erradicando la polio del continente americano, que no estaban surgiendo casos nuevos de reservorios ocultos ([Bull_y_Wichman_2001]_). Se usó en 2002 para ayudar a condenar a un hombre de infectar intencionalmente a alguien con VIH ([Vogel_1998]_). El mismo principio se puede usar para rastrear el origen de armas biológicas ([Gaschen_et_al_2002]_).
+
+   * La ribotipia es una técnica para identificar a un organismo o al menos hallar a su familiar más cercano conocido mapeando su ARN ribosómico dentro del árbol de la vida. Puede usarse incluso cuando no se puede hacer un cultivo de los organismos ni reconocérselos por otros métodos. Se han usado la ribotipia y otros métodos de genotipia para hallar agentes infecciosos previamente desconocidos de enfermedades humanas ([Bull_y_Wichman_2001]_; [Relman_1999]_).
+
+   * El análisis filogenético ayuda a determinar pliegues de proteínas, dado que las proteínas que divergen a partir de un ancestro común tienden a conservar sus pliegues ([Benner_2001]_).
+
+4. La evolución dirigida permite "criar" moléculas o rutas moleculares para crear o mejorar productos, incluyendo:
+
+   * enzimas ([Arnold_2001]_)
+   * pigmentos ([Arnold_2001]_)
+   * antibióticos
+   * sabores
+   * biopolímeros
+   * cepas bacterianas para descomponer materiales dañinos
+
+   La evolución dirigida también se puede usar para estudiar el plegado y la función de las enzimas naturales ([Taylor_et_al_2001]_).
+
+5. Los principios evolutivos de la selección natural, la variación y la recombinación son la base de los algoritmos genéticos, una técnica de ingeniería que tiene muchas aplicaciones prácticas, incluyendo ingeniería aeroespacial, arquitectura, astrofísica, minería de datos, descubrimiento y diseño de drogas, ingeniería eléctrica, finanzas, geofísica, ingeniería de materiales, estrategia militar, reconocimiento de patrones, robótica, gestión de tiempo e ingeniería de sistemas ([Marczyk_2004]_).
+
+6. Las herramientas desarrolladas para la ciencia evolutiva se han utilizado en otros ámbitos. Por ejemplo:
+
+   * Muchas técnicas estadísticas, incluyendo el análisis de varianza y la regresión lineal, fueron desarrolladas por biólogos evolutivos, especialmente Ronald Fisher y Karl Pearson. Esas técnicas estadísticas tienen una aplicación mucho más amplia hoy en día.
+
+   * Las mismas técnicas de análisis filogenético desarrolladas para la biología también pueden rastrear la historia de múltiples copias de un manuscrito ([Barbrook_et_al_1998]_; [Howe_et_al_2001]_) y la historia de los lenguajes ([Dunn_et_al_2005]_).
+
+7. La buena ciencia no necesita tener otra aplicación que satisfacer la curiosidad. La mayor parte de la astronomía, geología, paleontología, historia natural y otras ciencias no tienen aplicación práctica. Para mucha gente, el conocimiento es un fin valioso por sí mismo.
+
+8. La ciencia con poca o ninguna aplicación hoy puede hallar aplicación en el futuro, especialmente a medida que la disciplina madura y nuestro conocimiento al respecto se completa. Las aplicaciones prácticas con frecuencia se construyen sobre ideas que no parecían aplicables originalmente. Lo que es más, los avances en un área de la ciencia pueden ayudar a iluminar otras áreas. La evolución proporciona un marco para la biología, un marco que puede apoyar otros avances biológicos útiles.
+
+9. Las ideas antievolucionistas han existido por milenios y aún no han contribuido con ninguna aplicación práactica.
+
+Referencias
+==============
+
+.. [Arnold_2001]    Arnold, Frances H. 2001. Combinatorial and computational challenges for biocatalyst design. *Nature* 409: 253-257.
+.. [Barbrook_et_al_1998]    Barbrook, Adrian C., Christopher J. Howe, Norman Blake, and Peter Robinson, 1998. The phylogeny of *The Canterbury Tales*. *Nature* 394: 839.
+.. [Benner_2001]    Benner, Steven A. 2001. Natural progression. *Nature 409*: 459.
+.. [Branca_2002]    Branca, Malorye. 2002. Sorting the microbes from the trees. *Bio-IT Bulletin*, Apr. 07. http://www.bio-itworld.com/news/040702_report186.html
+.. [Bull_y_Wichman_2001]    Bull, J. J. and H. A. Wichman. 2001. Applied evolution. *Annual Review of Ecology and Systematics* 32: 183-217.
+.. [Cherry_y_Fidantsef_2003]    Cherry, J. R., and A. L. Fidantsef. 2003. Directed evolution of industrial enzymes: an update. *Current Opinion in Biotechnology* 14: 438-443.
+.. [Conover_y_Munch_2002]    Conover, D. O. and S. B. Munch. 2002. Sustaining fisheries yields over evolutionary time scales. *Science* 297: 94-96. Cfr. pp. 31-32.
+.. [Cummings_y_Relman_2002]    Cummings, C. A. and D. A. Relman. 2002. Microbial forensics-- "cross-examining pathogens". *Science* 296: 1976-1979.
+.. [Dunn_et_al_2005]    Dunn, M., A. Terrill, G. Reesink, R. A. Foley and S. C. Levinson. 2005. Structural phylogenetics and the reconstruction of ancient language history. *Science* 309: 2072-2075. See also: Gray, Russell. 2005. Pushing the time barrier in the quest for language roots. *Science* 309: 2007-2008.
+.. [Eisen_y_Wu_2002]    Eisen, J. and M. Wu. 2002. Phylogenetic analysis and gene functional predictions: Phylogenomics in action. *Theoretical Population Biology* 61: 481-487.
+.. [Futuyma_1995]    Futuyma, D. J. 1995. The uses of evolutionary biology. *Science* 267: 41-42.
+.. [Galvani_2003]    Galvani, Alison P. 2003. Epidemiology meets evolutionary ecology. *Trends in Ecology and Evolution* 18(3): 132-139.
+.. [Gaschen_et_al_2002]    Gaschen, B. et al.. 2002. Diversity considerations in HIV-1 vaccine selection. *Science* 296: 2354-2360.
+.. [Howe_et_al_2001]    Howe, Christopher J. et al. 2001. Manuscript evolution. *Trends in Genetics* 17: 147-152.
+.. [Marczyk_2004]    Marczyk, Adam. 2004. Genetic algorithms and evolutionary computation. http://www.talkorigins.org/faqs/genalg/genalg.html
+.. [Nesse_y_Williams_1994]    Nesse, Randolph M. and George C. Williams. 1994. *Why We Get Sick*. New York: Times Books.
+.. [Relman_1999]    Relman, David A. 1999. The search for unrecognized pathogens. *Science* 284: 1308-1310.
+.. [Searls_2003] Searls, D., 2003. Pharmacophylogenomics: Genes, evolution and drug targets. *Nature Reviews Drug Discovery* 2: 613-623. http://www.nature.com/nature/view/030731.html
+.. [Sutherland_2002]    Sutherland, William J., 2002. Science, sex and the kakapo. *Nature* 419: 265-266.
+.. [Taylor_et_al_2001]    Taylor, Sean V., Peter Kast, and Donald Hilvert. 2001. Investigating and engineering enzymes by genetic selection. Angewandte Chemie International Edition 40: 3310-3335.
+.. [Vogel_1998]    Vogel, Gretchen. 1998. HIV strain analysis debuts in murder trial. Science 282: 851-852.
+
+/////
+
+Anterior: :doc:`CA212` | Siguiente: :doc:`CA220`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

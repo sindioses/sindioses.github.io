@@ -1,0 +1,53 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA000
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA001_1
+.. link: http://www.talkorigins.org/indexcc/CA/CA001_1.html
+.. date: 2006-12-08 02:00:00+00:00
+.. title: CA001.1: Los índices de crimen, etc., han aumentado desde que empezó a enseñarse evolución
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Los índices de crimen, etc., han aumentado desde que empezó a enseñarse evolución»
+
+Desde que empezó a enseñarse la evolución en las escuelas públicas, los índices de criminalidad y otros males sociales han aumentado.
+
+Fuente:
+========
+
+Living Word Bible Church, n.d. The result of believing evolution. http://www.lwbc.co.uk/Genesis/results%20of%20believing%20evolution.htm
+
+Respuesta:
+=============
+
+Los índices de criminalidad suben y bajan y están asociados principalmente con la edad de la población. No parece haber ninguna correlación entre el delito y la enseñanza de la evolución. Los Estados Unidos eran más violentos en general en los años 1870-1910 antes de que se enseñara evolución. En años recientes, los índices de criminalidad han venido bajando desde 1989.
+
+Las tendencias regionales muestran una correlación negativa entre el crimen y la enseñanza de la evolución. Otras democracias desarrolladas aceptan la evolución en un grado mucho mayor que los Estados Unidos y tienen menores índices de homicidio, de mortalidad juvenil y de adultos jóvenes, de infección por enfermedades de transmisión sexual, embarazo adolescente, y de aborto [Paul_2005]_. En los Estados Unidos, los estados del sur tienden a enfatizar más el creacionismo, pero también tienen índices de criminalidad más altos.
+
+La correlación no implica causación. Desde la enseñanza de la evolución, los índices de mortalidad de la mayoría de los cánceres han disminuido, el viaje aéreo ha aumentado y la temperatura de la tierra ha subido, pero no atribuimos ninguna de esas cosas a la enseñanza de la evolución.
+
+En los Estados Unidos, al menos, la mayoría de la gente no cree en la evolución. Si los males sociales se produjeran por las creencias sobre los orígenes, los creacionistas merecen la mayor parte de la responsabilidad.
+
+"Nunca te preguntes por qué todo tiempo pasado fue mejor, pues ésa no es una pregunta inteligente." ({{% biblia "Eclesiastés 7:10" DHH %}})
+
+Referencias:
+=============
+
+.. [Paul_2005] Paul, Gregory S. 2005. Cross-national correlation of quantifiable societal health with popular religiosity and secularism in the prosperous democracies. Journal of Religion and Society 7: 1-17. http://moses.creighton.edu/JRS/pdf/2005-11.pdf
+
+Otras lecturas:
+===============
+
+* Disaster Center. n.d. United States Crime Rates 1960 - 2000. http://www.disastercenter.com/crime/uscrime.htm
+
+* Social Statistics Briefing Room: Crime, http://www.whitehouse.gov/fsbr/crime.html
+
+/////
+
+Anterior: :doc:`CA001` | Siguiente: :doc:`CA002`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

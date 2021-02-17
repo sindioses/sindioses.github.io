@@ -1,0 +1,50 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CG, CG000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CG001
+.. link: http://talkorigins.org/indexcc/CG/CG001.html
+.. date: 2004-04-21
+.. title: CG001: Darwin renegó de sus ideas en su lecho de muerte
+.. description: Respuesta a la afirmación creacionista «Darwin renegó de sus ideas en su lecho de muerte»
+.. type: afirmacrea
+
+**Fuente:**
+
+Enoch, H., 1916. Darwin's final recantation. *Bombay Guardian*, 25 March 1916, citado en http://www.forerunner.com/forerunner/X0724_Darwins_Final_Recant.html
+
+Respuesta
+===========
+
+1. La historia de Darwin renegando no es cierta. Poco después de la muerte de Darwin, Lady Hope contó en una reunión que ella había visitado a Darwin en su lecho de muerte y que había expresado lamentar sus ideas sobre evolución y había aceptado a Cristo. Sin embargo la hija de Darwin, Henrietta, quien estuvo con él durante sus últimos días, dijo que Lady Hope nunca los visitó durante ninguna de las enfermedades de Darwin, que Darwin probablemente nunca la vio en ningún momento, y que él nunca renegó de ninguna de sus posiciones científicas ([Clark_1984]_, 199; [Yates_1994]_).
+
+2. La historia sería irrelevante aunque fuese cierta. La teoría de la evolución descansa sobre una ingente cantidad de pruebas de muchas fuentes distintas, no en la autoridad de cualquier persona o personas.
+
+Enlaces
+=========
+
+Greig, Russell, 1996. Did Darwin recant? *Creation* 18(1): 36-37. http://www.answersingenesis.org/docs/1315.asp
+
+Yates, Simon, 1994. The Lady Hope story: A widespread falsehood. http://www.talkorigins.org/faqs/hope.html
+
+Referencias
+=============
+
+.. [Clark_1984]    Clark, Ronald W., 1984. The Survival of Charles Darwin: A biography of a man and an idea. New York: Random House.
+.. [Yates_1994]    Yates, Simon, 1994. (v. arriba)
+
+Otras lecturas
+================
+
+Clark, Ronald W., 1984. *The Survival of Charles Darwin: A biography of a man and an idea*. New York: Random House.
+
+
+/////
+
+Anterior: :doc:`CF220` | Siguiente: :doc:`CG010`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

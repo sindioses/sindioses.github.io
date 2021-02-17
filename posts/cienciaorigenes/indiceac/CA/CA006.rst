@@ -1,0 +1,40 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA000
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA006
+.. link: http://www.talkorigins.org/indexcc/CA/CA006.html
+.. date: 2007-10-07 01:00:00+00:00
+.. title: CA006: La evolución promueve la eugenesia
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La evolución promueve la eugenesia»
+
+Fuente
+========
+
+DeWitt, David A. 2002. The dark side of evolution. http://www.answersingenesis.org/docs2002/0510eugenics.asp
+
+Respuesta
+==========
+1. La eugenesia se basa en principios genéticos que son independientes de la evolución. Es igualmente compatible con el creacionismo, y de hecho al menos un creacionista de la tierra joven (Willian J. Tinkle) promovió la eugenesia y la crianza selectiva humana ([Numbers_1992]_, 222-223).
+2. Muchos argumentos eugenésicos, como el efecto esperado de la esterilización selectiva y los resultados del apareamiento interracial, están basados en nociones erróneas de biología. Una mejor educación en biología, incluyendo la enseñanza de la evolución, sólo puede tener como efecto contrarrestar las suposiciones en las que se basa la eugenesia.
+
+Enlaces
+========
+* Wilkins, John. 2000. *Evolutionists against eugenics*; Post of the month: November 2000. http://www.talkorigins.org/origins/postmonth/nov00.html
+
+Referencias
+==============
+.. [Numbers_1992]	Numbers, Ronald L. 1992. *The Creationists*. New York: Knopf.
+
+/////
+
+Anterior: :doc:`CA005_2` | Siguiente: :doc:`CA006_1`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

@@ -1,0 +1,47 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CI010: Hay una ley de conservación de la información
+.. description: Respuesta a la afirmación creacionista «Hay una ley de conservación de la información»
+.. slug: CI010
+.. link: http://www.talkorigins.org/indexcc/CI/CI010.html
+.. tags: CI, CI000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-06-04
+.. modified: 2003-11-08
+
+Ni los procesos naturales ni el azar pueden crear información, de modo que hay una ley de conservación de la información.
+
+Fuente
+======
+
+Dembski, William A., 1999. *Intelligent Design: The bridge between science and theology*. Downers Grove, Ill.: InterVarsity Press.
+
+
+Respuesta
+=========
+
+1. Dembski define su información como incertidumbre de Shannon, que es equivalente a la entropía. Sabemos que la entropía puede incrementarse, y de hecho lo hace. La ley de conservación de la información de Dembski es simplemente errónea.
+
+2. Ninguna teoría reconocida de la información (o sea, la teoría estadística de Shannon *et al* y la teoría algorítmica de Kolmogorov, Chaitin y Solomonoff) tiene una ley de conservación de la información. William Dembski y Werner Gitt han inventado cada uno por su lado sus propias teorías no estándar de la información, pero ninguna de esas teorías se usa en ciencia o en ingeniería, y sus postulados no son respaldados por el vasto cuerpo de investigación en teoría de la información.
+
+3. Aunque hubiera una ley de conservación de la información, no necesariamente invalidaría la evolución. La selección natural y otros procesos transfieren información del entorno a los organismos.
+
+4. Normalmente, las leyes físicas se consideran tales luego de ser comprobadas y verificadas por fuentes independientes en múltiples y diversas condiciones. Que Dembski defina una ley física nueva sin hacer pruebas en absoluto es de una soberbia de la más alta magnitud.
+
+
+Enlaces
+===========
+
+* Elsberry, Wesley, and Jeffrey Shallit, 2003. Information theory, evolutionary computation, and Dembski's "complex specified information". http://www.talkreason.org/articles/eandsdembski.pdf
+
+* Stenger, Victor J., 2000 (Dec.). The emperor's new designer clothes. Skeptical Briefs, http://www.csicop.org/sb/2000-12/reality-check.html
+
+/////
+
+Anterior: :doc:`CI009` | Siguiente: :doc:`CI100`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

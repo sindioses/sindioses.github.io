@@ -1,0 +1,48 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA600
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA651
+.. link: http://www.talkorigins.org/indexcc/CA/CA651.html
+.. date: 2004-02-15 02:00:00+00:00
+.. title: CA651: Dios habría considerado que la muerte y el sufrimiento "eran muy buenos"
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Dios habría considerado que la muerte y el sufrimiento "eran muy buenos"»
+
+Si la evolución es cierta, entonces Dios es directamente responsable por la muerte. Dios declaró que su creación original era "muy buena" ({{% biblia "Genesis 2:1" DHH %}}), lo que implica que Dios es sádico, obtiene placer de observar el sufrimiento y la muerte. Un Dios de gracia y misericordia no usaría el principio de la supervivencia del más apto.
+
+**Fuentes:**
+
+* Morris, Henry M. 2000. The vital importance of believing in recent creation. *Back to Genesis* 138 (June): a-c.
+* Morris, John D. 2001. What could the God of scripture call "very good"? *Back to Genesis* 145 (Jan.): d.
+
+Respuesta
+===========
+
+1. Los seres humanos no deciden lo que Dios hace o no. Tomar una decisión así es ubicarse por encima de Dios.
+
+2. Si un Dios de gracia y misericordia no permite la selección natural, entonces no existe un Dios de gracia y misericordia. Las extinciones y las muertes selectivas individuales continúan hoy. Si existe un dios creador, entonces Dios, como mínimo, es responsable por crear las circunstancias que causan la extinción y la muerte y por permitir que continúen. Esto es cierto incluso si crees que la muerte es resultado de la Caída, la cual fue implementada por Dios en respuesta al pecado.
+
+   Si el creacionismo es cierto, entonces Dios es directamente responsable por la muerte. Culpar a Adán y no a Dios por todo el sufrimiento es usar un chivo expiatorio. Adán era humano, así que no tenía tanto poder. Incluso si fue Adán quien motivó a Dios a causar el sufrimiento, Dios era el responsable por permitir que ocurriera.
+
+3. Habría poco bueno en un mundo sin muerte. O bien no habría reproducción, en cuyo caso ninguno de nosotros existiría, o habría varias capas superpuestas de animales y nada de lugar para moverse. La muerte es una parte necesaria de la vida.
+
+4. La actitud implícita en la afirmación no sólo separa a las personas de Dios sino que alienta la ingratitud con el mundo, diciendo que no podemos considerarlo "muy bueno" tal como es. El sufrimiento es un estado de la mente y está producido en gran medida por la actitud de la persona más que por circunstancias externas. Como dijo Abraham Lincoln: «La gente es tan feliz como decide serlo». Culpar del sufrimiento a otros es buscar chivos expiatorios.
+
+5. Los creacionistas relacionan la muerte y el deterioro con la segunda ley de la termodinámica, con la consecuencia de que la falta de deterioro antes de la Caída significa que la segunda ley de la termodinámica no estaba en efecto antes de la Caída. Sin embargo, la segunda ley de la termodinámica está íntimamente conectada con el flujo del tiempo. Dado que la Biblia dice que el tiempo fue establecido antes de la Caída, la termodinámica y por lo tanto el deterioro también deben haber existido.
+
+6. Los orígenes no están determinados por la decisión personal de qué religión seguir.
+
+Otras lecturas
+=================
+Larson, Gary. 1998. *There's a Hair in My Dirt!: A Worm's Story*. New York: Harpercollins.
+
+/////
+
+Anterior: :doc:`CA650` | Siguiente: :doc:`CA652`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

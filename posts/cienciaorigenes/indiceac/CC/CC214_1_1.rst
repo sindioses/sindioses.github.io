@@ -1,0 +1,76 @@
+﻿.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC210
+.. author: Mark Isaak. traducción de Samuel Martínez de la Iglesia
+.. nocomments: True
+.. slug: CC214_1_1
+.. link: http://www.talkorigins.org/indexcc/CC/CC214_1_1.html
+.. date: 2005-04-18
+.. title: CC214.1.1: Archaeopteryx es solamente un ave
+.. description: Respuesta a la afirmación creacionista «Archaeopteryx es solamente un ave»
+.. type: afirmacrea
+
+*Archaeopteryx* era solo un ave. Tenía plumas y alas completamente formadas.
+
+**Fuente:**
+
+Watchtower Bible and Tract Society. 1985. *Life--How Did It Get Here?* Brooklyn, NY, pp. 79-80. 
+Morris, Henry M. 1985. *Scientific Creationism*. Green Forest, AR: Master Books, p. 85.
+
+Respuesta
+============
+
+1. *Archaeopteryx* es definido como un ave (técnicamente, un avialae). Sin embargo, tiene muchas más características de dinosaurio que de ave. Sus principales características aviares son:
+
+   - Orificios nasales prolongados y externos.
+   - El cuadrado y el quadratojugal (dos huesos de la mandíbula) no están suturados juntos.
+   - Huesos palatinos que tienen tres extensiones.
+   - Ningún diente serrado.
+   - Grandes surcos laterales en la parte superior posterior de las vértebras.
+   
+   Otras características aviares de *Archaeopteryx* también se encuentran en varios dinosaurios no-aviares. Estas características incluyen plumas, una fúrcula fusionada a la mitad y un pubis elongado y dirigido hacia atrás. La semejanza del hallux (dedo del pie) de *Archaeopteryx* al de las aves no se encontró en un espécimen descubierto recientemente y mejor preservado ([Mayr_et_al_2005]_; ver también [Middleton_2002]_).
+   
+   Las características de dinosaurio son las siguientes:
+   
+   - Dientes en los huesos premaxilares y maxilares.
+   - Aberturas nasales hacia delante, separados del ojo por una gran ventana (hueco) preorbital.
+   - Cuello unido al cráneo por la parte posterior.
+   - Centro de vértebras cervicales con simples facetas articulares.
+   - Larga cola ósea; sin pigóstilo.
+   - Finas costillas, sin articulaciones ni procesos unciformes, y no articuladas con el esternón.
+   - Sacro que abarca seis vértebras.
+   - Pequeña faja torácica.
+   - Metacarpianos libres (excepto el tercer metacarpiano), la junta de la muñeca de la mano flexible.
+   - Garras en tres dedos no fusionados.
+   - Faja pélvica y articulación del fémur con la forma de las de los arcosaurios en muchos detalles.
+   - Huesos de la pelvis sin fusionar.
+   
+   y sobre otras 100 diferencias con las aves ([Chiappe_2002]_; [Norell_and_Clarke_2001]_).
+   
+   Además, *Archaeopteryx* fue intermediario entre dinosaurios y aves modernas con respecto a la forma de los huesos coracoides y húmero y con respecto al cerebro ([Elzanowski_2002]_; [Nedin_1999]_).
+
+Enlaces
+=============
+
+Nedin, Chris. 1999. All about Archaeopteryx. http://www.talkorigins.org/faqs/archaeopteryx/info.html
+
+
+Referencias
+==============
+
+.. [Chiappe_2002]    Chiappe, L. M. 2002. Basal bird phylogeny. En: Chiappe and Witmer. *Mesozoic Birds: Above the Heads of Dinosaurs*. Berkeley: Univ. of California Press, pgs. 448-472.
+.. [Elzanowski_2002]    Elzanowski, A. 2002. Archaeopterygidae (Upper Jurassic of Germany). En: Chiappe and Witmer, pgs. 129-159.
+.. [Mayr_et_al_2005]    Mayr, Gerald, Burkhard Pohl, and D. Stefan Peters. 2005. A well-preserved *Archaeopteryx* specimen with theropod features. *Science* 310: 1483-1486.
+.. [Middleton_2002]    Middleton, K. M. 2002. Evolution of the perching foot in theropods. *Journal of Vertebrate Paleontology* 22: 88A.
+.. [Nedin_1999]    Nedin, Chris. 1999 (vide supra)
+.. [Norell_and_Clarke_2001]    Norell, M. A. and J. A. Clarke. 2001. Fossil that fills a critical gap in avian evolution. *Nature* 409: 181-184.
+
+/////
+
+Anterior: :doc:`CC214_1` | Siguiente: :doc:`CC214_2`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

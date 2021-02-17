@@ -1,0 +1,45 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC150
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CC150
+.. link: http://www.talkorigins.org/indexcc/CC/CC150.html
+.. date: 2003-04-27
+.. title: CC150: Si descendemos de los simios, ¿por qué todavía hay simios?
+.. description: Respuesta a la afirmación creacionista «Si descendemos de los simios, ¿por qué todavía hay simios?»
+.. type: afirmacrea
+
+**Fuentes:**
+
+Robinson, B. A, 2003. 17 indicators that evolution didn't happen (with rebuttals). http://www.religioustolerance.org/ev_noway.htm#11
+
+Respuesta
+===========
+
+1. Los humanos y otros simios descienden de un ancestro común cuya población se dividió para convertirse en dos (y más) linajes. La pregunta se asemeja a preguntar: "Si tantos americanos y australianos decienden de europeos, ¿por qué todavía hay europeos?". Los propios creacionistas reconocen la invalidez de esta pregunta ([AIG_nd]_).
+
+Enlaces
+=========
+
+Foley, Jim. 2002. Fossil hominids: Frequently asked questions http://www.talkorigins.org/faqs/homs/faqs.html#apes
+
+Referencias
+==============
+
+.. [AIG_nd] AIG, n.d. Arguments we think creationists should NOT use. http://www.answersingenesis.org/Home/Area/faq/dont_use.asp#apes
+
+Otras lecturas
+===============
+
+Darwin, C., 1872. *The Origin of Species*, London: Senate, cap. 4. http://www.talkorigins.org/faqs/origin/chapter4.html
+
+
+/////
+
+Anterior: :doc:`CC131` | Siguiente: :doc:`CC200`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

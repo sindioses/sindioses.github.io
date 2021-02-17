@@ -1,0 +1,39 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA100
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA100_1
+.. link: http://www.talkorigins.org/indexcc/CA/CA100_1.html
+.. date: 2003-09-02 02:00:00+00:00
+.. title: CA100.1: La evolución deja mucho sin explicar
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La evolución deja mucho sin explicar»
+
+La evolución deja muchas cosas sin explicar, como la gravedad, el origen de la vida, la complejidad biológica y la moral.
+
+Fuente
+========
+
+* Behe, Michael J. 1996. Darwin under the microscope. New York Times, 29 Oct. 1996, Tuesday Final Section A; Page 25; Column 2. http://www.arn.org/docs/behe/mb_dm11496.htm
+* “messenjaH”, 9/9/2003. Things evolutionists can’t (or can???) explain? http://www.evcforum.net/cgi-bin/dm.cgi?action=msg&f=5&t=306&m=1
+
+Respuesta
+=========
+
+1. Ninguna teoría lo explica todo, y la evolución no pretende ser diferente. La evolución ni siquiera se aplica a algunas áreas, como la cosmología y la física. En biología, la evolución se aplica ampliamente y explica muchas cosas [Theobald_2004]_, pero no lo es todo. Algunas explicaciones dependen de otros factores; algunas todavía no las hemos descubierto; y algunas pueden estar más allá de nuestra capacidad de descubrirlas o comprenderlas. Es tonto condenar la evolución, pese a sus fortalezas, por no alcanzar la divinidad.
+2. La evolución explica algunas cosas que la gente afirma que no explica (la moral, por ejemplo), al menos a grandes rasgos. A veces la gente que hace esta afirmación simplemente no ha hecho su tarea.
+
+Referencias
+=============
+.. [Theobald_2004]	Theobald, Douglas. 2004. 29+ Evidences for macroevolution: The scientific case for common descent. http://www.talkorigins.org/faqs/comdesc/
+
+/////
+
+Anterior: :doc:`CA100` | Siguiente: :doc:`CA110`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

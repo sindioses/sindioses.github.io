@@ -1,0 +1,39 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CI, CI100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CI102
+.. link: http://www.talkorigins.org/indexcc/CI/CI102.html
+.. date: 2001-02-18
+.. title: CI102: La complejidad irreducible indica diseño
+.. description: Respuesta a la afirmación creacionista «La complejidad irreducible indica diseño»
+.. type: afirmacrea
+
+Los sistemas son irreduciblemente complejos si retirar cualquier parte destruye la función del sistema. La complejidad irreducible en los organismos indica que fueron diseñados.
+
+**Fuente:**
+
+Behe, Michael J., 1996. *Darwin's Black Box*, New York: The Free Press.
+
+Respuesta
+============
+
+1. Se afirma que la complejidad irreducible indica que ciertos sistemas no pueden haber evolucionado gradualmente (:doc:`aunque no lo hace <CB200>`). Sin embargo, saltar de allí a la conclusión de que esos sistemas fueron diseñados es una :doc:`falacia de incredulidad personal <CA100>`. No hay nada acerca de los sistemas irreduciblemente complejos que sea evidencia definitiva en favor del diseño.
+
+2. La complejidad irreducible sugiere una falta de diseño. Para las aplicaciones críticas, como el mantener vivo a un organismo, no se quieren sistemas que fallarán si falla cualquiera de sus partes. Se necesitan sistemas robustos ([Steele_2000]_).
+
+Referencias
+=============
+
+.. [Steele_2000] Steele, Diana. 2000. Scientists search for secrets of robust systems. *Dallas Morning News*, 18 Sep. 2000, Science section, http://nasw.org/users/dsteele/Stories/Robust.html
+
+
+/////
+
+Anterior: :doc:`CI101` | Siguiente: :doc:`CI110`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

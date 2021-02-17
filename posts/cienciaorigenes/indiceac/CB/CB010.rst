@@ -1,0 +1,56 @@
+.. title: CB010: Las probabilidades de que se forme la vida son increíblemente pequeñas
+.. slug: CB010
+.. date: 2003-04-01 02:00:00+00:00
+.. tags: CB, CB000
+.. category: Afirmaciones de los creacionistas
+.. link: http://www.talkorigins.org/indexcc/CB/CB010.html
+.. description: Respuesta a la afirmación creacionista «Las probabilidades de que se forme la vida son increíblemente pequeñas»
+.. type: afirmacrea
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. has_math: yes
+.. nocomments: True
+
+Las proteínas necesarias para la vida son muy complejas. Las probabilidades de que se forme siquiera una molécula de proteína formándose al azar son de
+
+.. math::
+
+   \frac{1}{10^{113}}
+
+y se necesitan miles de proteínas diferentes se necesitan para formar la vida. (Véase también :doc:`CB010_2`.)
+
+**Fuente:**
+
+Watchtower Bible and Tract Society. 1985. *Life--How Did It Get Here?* Brooklyn, NY, pg. 44.
+
+Respuesta
+============
+
+1. El cálculo de probabilidades asume que la molécula de proteína se formó al azar. Sin embargo, la bioquímica no es azar, lo que hace que las probabilidades carezcan de significado. La bioquímica produce productos complejos, y los productos mismos interactúan en formas complejas. Por ejemplo, se ha observado que se forman moléculas orgánicas complejas en condiciones que existen en el espacio, y es posible que hayan jugado un rol en la formación de la primera vida ([Spotts_2001]_).
+
+2. El cálculo de probabilidades asume que la molécula de proteína debe tomar una forma concreta. Sin embargo, hay innumerables proteínas posibles que prumueven la actividad biológica. Cualquier cálculo de probabilidades debe tener en consideración todas las posibles moléculas (no sólo las proteínas) que podrían funcionar para promover la vida.
+
+3. El cálculo de probabilidades asume la creación de la vida en su forma actual. La primera vida hubiera sido mucho más simple.
+
+4. El cálculo de probabilidades ignora el hecho de que innumerables intentos estarían ocurriendo simultáneamente.
+
+Enlaces
+=========
+
+Musgrave, Ian. 1998. Lies, damned lies, statistics, and probability of abiogenesis calculations. http://www.talkorigins.org/faqs/abioprob/abioprob.html
+
+Stockwell, John. 2002. Borel's Law and the origin of many creationist probability assertions. http://www.talkorigins.org/faqs/abioprob/borelfaq.html
+
+Referencias
+===============
+
+.. [Spotts_2001] Spotts, Peter N. 2001. Raw materials for life may predate Earth's formation. *The Christian Science Monitor*, Enero 30, 2001. http://search.csmonitor.com/durable/2001/01/30/fp2s2-csm.shtml
+
+
+/////
+
+Anterior: :doc:`CB000` | Siguiente: :doc:`CB010_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

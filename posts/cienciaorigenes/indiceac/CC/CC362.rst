@@ -1,0 +1,54 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC360
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2003-06-23
+.. type: afirmacrea
+.. title: CC362: Las grandes colecciones de fósiles indican catastrofismo
+.. description: Respuesta a la afirmación creacionista «Las grandes colecciones de fósiles indican catastrofismo»
+.. slug: CC362
+.. link: http://www.talkorigins.org/indexcc/CC/CC362.html
+
+Hay muchos lugares donde los fósiles aparecen en grandes cantidades. Estos vastos lechos fósiles indican enterramiento rápido catastrófico, no condiciones gradualistas.
+
+**Fuente:**
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, pp. 97-100. 
+
+Respuesta
+=========
+
+1. Una gran cantidad de fósiles en un área indica que una gran cantidad de animales murieron en esa área (o, en algunos casos, sus cuerpos fueron transportados allí). Normalmente, esto es un argumento en contra del enterramiento rápido, porque tantos animales no vivieron juntos al mismo tiempo. Una explicación más simple es que los animales han muerto en el área a lo largo de muchos años. Por ejemplo, un enterramiento masivo se encuentra en los pozos de alquitrán de La Brea, que han estado atrapando animales durante miles de años.
+
+2. De hecho, los lechos fósiles vastos son pruebas en contra del enterramiento rápido catastrófico. Se estima que una formación en particular (la formación Karroo en África) contiene 800.000 millones de fósiles de vertebrados. Si ese es sólo el 1 por ciento de los fósiles del mundo, debe haber 2.100 animales vertebrados por acre, mucho más de lo que vemos hoy ([Schadewald_1982]_). Los restos fósiles de plantas, como el carbón, son casi 100 veces más masivos que la biomasa de plantas vivas ([Poldervaart_1955]_; [Ricklefs_1993]_).
+
+3. Las muertes masivas pueden ocurrir debido a procesos normales. Cada año, cientos de bestias salvajes se ahogan durante cruces de los ríos en sus migraciones anuales. Sus cuerpos aparecen en las riberas. El colapso de la ribera de un arrollo podría enterrar a muchos. Otras catástrofes locales también pueden matar a muchos animales a la vez.
+   
+Referencias
+===========
+
+.. [Poldervaart_1955]    Poldervaart, Arie, 1955. Chemistry of the earth's crust. pp. 119-144 En: Poldervaart, A., ed., *Crust of the Earth*, Geological Society of America Special Paper 62, MD: Waverly Press.
+.. [Ricklefs_1993]    Ricklefs, Robert, 1993. *The Economy of Nature*. New York: W. H. Freeman
+.. [Schadewald_1982]    Schadewald, Robert J., 1982. Six 'Flood' arguments Creationists can't answer. *Creation/Evolution* 9: 12-17. 
+
+		
+/////
+
+Anterior: :doc:`CC361_3` | Siguiente: :strong:`CC363`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+
+
+
+
+
+
+
+
+
+

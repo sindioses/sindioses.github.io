@@ -1,0 +1,77 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA110
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA114
+.. link: http://www.talkorigins.org/indexcc/CA/CA114.html
+.. date: 2005-11-25 02:00:00+00:00
+.. title: CA114: Muchos científicos famosos eran creacionistas
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Muchos científicos famosos eran creacionistas»
+
+Ha habido muchos científicos en el pasado que creyeron en la creación especial. En particular, los siguientes científicos eran creacionistas:
+
+* Louis Agassiz (1807-1873; geología glacial)
+* :doc:`Charles Babbage <CA114_04>` (1792-1871; ciencias de la computación)
+* Francis Bacon (1561-1626; método científico)
+* Robert Boyle (1627-1691; dinámica de los gases)
+* David Brewster (1781-1868; mineralogía óptica)
+* Georges Cuvier (1769-1832; anatomía comparativa)
+* Leonardo da Vinci (1452-1519; hidráulica)
+* Humphrey Davy (1778-1829; termocinética)
+* :doc:`Henri Fabre <CA114_10>` (1823-1915; entomología de insectos vivos)
+* Michael Faraday (1791-1867; electromagnetismo)
+* John Ambrose Fleming (1849-1945; electrónica)
+* Joseph Henry (1797-1878; inventor)
+* William Herschel (1738-1822; astronomía galáctica)
+* James Joule (1818-1889; termodinámica reversible)
+* :doc:`Lord Kelvin <CA114_01>` (1824-1907; energía)
+* Johann Kepler (1571-1630; mecánica celeste)
+* :doc:`Carolus Linnaeus <CA114_02>` (1707-1778; biología sistemática)
+* Joseph Lister (1827-1912; cirugía antiséptica)
+* Matthew Maury (1806-1873; oceanografía)
+* James Clerk Maxwell (1831-1879; electrodinámica)
+* Gregor Mendel (1822-1884; genética)
+* Samuel F. B. Morse (1791-1872; inventor del telégrafo)
+* Isaac Newton (1642-1727; cálculo)
+* Blaise Pascal (1623-1662; hidrostática)
+* :doc:`Louis Pasteur <CA114_22>` (1822-1895; bacteriología)
+* William Ramsay (1852-1916; química isotópica)
+* John Ray (1627-1705; historia natural)
+* Lord Rayleigh (1842-1919; análisis dimensional)
+* Bernhard Riemann (1826- 1866; geometría no Euclidiana)
+* James Simpson (1811-1870; ginecología)
+* :doc:`Nicholas Steno <CA114_28>` (1631-1686; estratigrafía)
+* George Stokes (1819-1903; mecánica de fluidos)
+* Rudolph Virchow (1821-1902; patología)
+* John Woodward (1665-1728; paleontología)
+
+Agassiz, Pasteur, Lord Kelvin, Maxwell, Dawson, Virchow, Fabre, y Fleming se oponían fuertemente a la evolución.
+
+**Fuente:**
+
+Morris, Henry M. 1982. Bible-believing scientists of the past. *Impact* 103 (Jan.), http://www.icr.org/index.php?module=articles&action=view&ID=185
+
+Respuesta
+=============
+
+1. La validez de la evolución reside en lo que dicen las pruebas, no en lo que dicen las personas. Hay abrumadoras pruebas que apoyan la evolución y ningún argumento válido en su contra.
+
+2. Muchos de los científicos en la lista más arriba vivieron antes de que la teoría de la evolución fuera siquiera propuesta. Otros conocían la teoría, pero no conocían todas las pruebas en su favor. La evolución se encuentra fuera del ámbito de estudio de la mayoría de estos científicos.
+
+   Hace un par de siglos, antes de que la teoría de la evolución se desarrollara y se presentaran las pruebas en su favor, prácticamente todos los científicos eran creacionistas, incluyendo los científicos en disciplinas relevantes como biología y geología. Hoy, prácticamente todos los científicos relevantes aceptan la evolución. Tal cambio de opinión sólo puede estar causado por evidencia abrumadora. La alternativa —que casi todos los científicos de hoy son completamente incompetentes— es absurda.
+
+3. Incluso si no creyeran en la evolución, todos esos científicos estaban firmemente comprometidos con el método científico, incluyendo el naturalismo metodológico. Sirven como verdaderos contraejemplos a la habitual afirmación creacionista de que la práctica naturalista de la ciencia es atea.
+
+4. La evolución es completamente consistente con la :doc:`creencia en Dios <CA602>`, incluyendo incluso la "creación especial". La creación especial no requiere referirse a la creación de cada animal; puede referirse simplemente a la creación del universo, o de la primera vida, o del alma humana, por ejemplo. Muchos de los científicos mencionados más arriba no eran creacionistas en el sentido en que Morris usa el término.
+
+/////
+
+Anterior: :doc:`CA113_1` | Siguiente: :doc:`CA114_01`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

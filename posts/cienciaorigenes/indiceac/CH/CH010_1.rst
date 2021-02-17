@@ -1,0 +1,42 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH010_1
+.. link: http://talkorigins.org/indexcc/CH/CH010_1.html
+.. date: 2004-04-21 02:00:00+00:00
+.. title: CH010.1: Aprender creacionismo estimula la salud mental, la alegría y la moral
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Aprender creacionismo estimula la salud mental, la alegría y la moral»
+
+Aprender creacionismo estimula la salud mental, porque es consistente con los pensamientos innatos de la gente; la alegría, por el descubrimiento científico, y la moral, porque promueve conciencia de un creador a quien uno debe rendir cuentas.
+
+**Fuente:**
+
+Morris, Henry M., 1974. *Scientific Creationism*, Green Forest, AR: Master Books, p. 14.
+
+Respuesta
+============
+
+1. Estas afirmaciones no tienen base. Hay gente sana, alegre y moral que acepta evolución del mismo modo que los hay creacionistas. Hay gente enferma, infeliz e inmoral entre los creacionistas.
+
+   Estas afirmaciones tampoco tienen base lógica:
+
+   * La honestidad intelectual exige que se sigan las pruebas ya sea que nos guste la conclusión o no. El creacionismo exige que ciertas conclusiones no sean refutadas por ninguna evidencia. Algunas personas podrían pensar que la deshonestidad intelectual y vivir en negación son incompatibles con la salud mental.
+
+   * La alegría es más probable que surja del descubrimiento científico no creacionista por la simple razón de que el creacionismo desalienta el descubrimiento científico; cualquier cosa incompatible con las preconcepciones de los creacionistas no se investiga.
+
+   * Mucha gente considera más moral hacer bien por el bien mismo que por temor a un castigo. En las etapas de Kohlberg de desarrollo moral, el temor al castigo es la primera etapa.
+
+2. Leer los comentarios en el sitio TalkOrigins.org da la impresión de que aprender sobre creacionismo estimula la ira y ponerse a la defensiva.
+
+
+/////
+
+Anterior: :doc:`CH010` | Siguiente: :doc:`CH030`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

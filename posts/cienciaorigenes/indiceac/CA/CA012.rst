@@ -1,0 +1,42 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA000
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA012
+.. link: http://www.talkorigins.org/indexcc/CA/CA012.html
+.. date: 2003-06-25 02:00:00+00:00
+.. title: CA012: Los evolucionistas son esnobs intelectuales
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Los evolucionistas son esnobs intelectuales»
+
+«Las quejas anticreacionistas son una forma de esnobismo. Hay muchos atributos mucho más importantes para juzgar a la gente que si creen en la evolución o no.»
+
+Fuente
+========
+
+Derbyshire, John, 2003. Pseudoscience vs. snobbery: A Doonesbury lesson. *National Review* Online (Apr. 22), http://www.nationalreview.com/derbyshire/derbyshire042203.asp
+
+Respuesta
+===========
+
+1. La mayoría de los anticreacionistas estarían felices de dejar que los creacionistas creyeran lo que quisieran y no hacer problema por ello. Sin embargo, los creacionistas hacen que el creacionismo sea un atributo importante. Le dan una gran importancia y quieren imponérselo a otros. Si los creacionistas no creyeran que es uno de los atributos más importantes para juzgar a la gente, la disputa “creacionismo vs. evolución” no existiría.
+2. La queja de esnobismo se basa en la actitud de que todas las opiniones son iguales. Aunque esa actitud suena democrática y justa, es indefendible. Las opiniones tienen valor en la medida en que son opiniones informadas. Si uno está sufriendo problemas estomacales serios, ¿le daría igual peso a las opiniones de un gastroenterólogo y a las de un embolsador de supermercado? Cuando alguien que habla sobre la evolución está lamentablemente desinformado sobre temas referentes a ella, es enteramente apropiado indicarlo. Y las afirmaciones de los creacionistas muestran que casi todos son tristemente ignorantes sobre la evolución. Hay excepciones (Kurt Wise, por ejemplo), pero son muy pocas.
+3. La determinación si el creacionismo es una proposición científica que descansa sobre lo que indican los hechos, y los hechos no lo determinan las personalidades de la gente que habla sobre ellos. Los creacionistas son libres de evitar esta cuestión enteramente como un punto de vista religioso completamente no científico, pero han decidido no hacerlo.
+4. Muchos creacionistas tienen una actitud farisaica. Por ejemplo, afirman que quienes creen en la evolución son :doc:`ateos <CA602>` y :doc:`malignos <CA001>`. No se puede ser más esnob o elitista que eso.
+
+Otras lecturas
+==================
+
+Sonnert, Gerhard, 2002. Ivory Bridges: Connecting Science and Society, Cambridge, MA: MIT Press.
+
+/////
+
+Anterior: :doc:`CA009` | Siguiente: :doc:`CA040`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

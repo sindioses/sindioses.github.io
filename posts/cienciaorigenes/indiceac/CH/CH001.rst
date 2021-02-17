@@ -1,0 +1,31 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH001
+.. link: http://talkorigins.org/indexcc/CH/CH001.html
+.. date: 2001-02-07 02:00:00+00:00
+.. title: CH001: El creacionismo tiene capacidad explicativa
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «El creacionismo tiene capacidad explicativa»
+
+El creacionismo es explicativo. Puede ajustarse a todos los resultados de la evolución y mucho más. En particular, también puede explicar los resultados de un diseñador.
+
+**Fuente:**
+
+Dembski, William A., 2001. Is intelligent design testable? http://www.arn.org/docs/dembski/wd_isidtestable.htm
+
+Respuesta
+===========
+
+1. Ajustarse es muy distinto de explicar. Una explicación nos dice por qué algo es de una manera y no de otra. Una teoría que se ajusta a todo no explica nada, porque no excluye ninguna posibilidad. Ajustarse a todas las posibilidades también vuelve a una teoría perfectamente inútil. Dado que el creacionismo se ajusta a todas las posibilidades, no es explicativa.
+
+/////
+
+Anterior: :strong:`CG211` | Siguiente: :doc:`CH010`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

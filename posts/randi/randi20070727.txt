@@ -1,0 +1,368 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. title: Esa tonta rueda que no gira. Candidatos al premio. Noticias calientes. Texas, líder en aporreo de la ciencia. Realeza habla con ángeles y caballos. Las predicciones de Sylvia. Ese temible número otra vez. Y llovió a raudales.... Homero trabajando. Credenciales. La realidad puede ser dura. Problema en el país de la dilución. En conclusión...
+.. type: randi
+.. date: 2007-07-27 00:00:00
+.. category: Traducciones de James Randi
+.. author: James Randi, traducción de Graciela Lorenzo Tillard
+
+.. contents:: Contenido
+   :class: sidebar
+   :local:
+
+Esa tonta rueda que no gira
+...........................
+
+.. image:: http://www.randi.org/images/commentary/200707/wheel.jpg
+   :alt:
+   :align: right
+
+Sí, el juguete de Steorn está todavía con nosotros, amigos. Consulte `la columna del 6 de julio de 2007 <randi20070706.html#siguen-provocando-a-los-inversores>`__ para refrescarles la memoria. Acabo de ver un comentario típicamente ingenuo que repite un rumor falso sobre los requisitos de nuestra oficina de patentes:
+
+    Correcto, y en los EE.UU. nuestra oficina de patentes en realidad exige que las personas envíen muestras físicas funcionando de las supuestas máquinas de movimiento perpetuo porque históricamente han recibido muchos reclamos de patentes para este sistema.
+
+Equivocado. La USPTO no exige nada de eso. Entregarán patentes a cualquier cosa, sin importar qué absurda sea. Para un ejemplo, vean http://www.randi.org/jr/042602.html y hagan una búsqueda de "patent".
+
+Otra discusión sobre las afirmaciones hechas para esta estúpida máquina. Primero, una pregunta que fue planteada al director ejecutivo de Steorn:
+
+    Hablemos un poco más sobre la tecnología que ustedes amigos supuestamente han desarrollado aquí. Las leyes de la termodinámica básicamente dicen que no se puede conseguir un 100% de eficiencia en ningún aparato y que siempre hay transferencias de calor y energía en cualquier sistema. Pero obviamente ustedes están alegando más de un 100% de eficiencia. ¿Tienen una estadística o un número de lo que estiman que es el nivel de eficiencia de energía de su máquina? ¿Es el 110% o el 150%?
+
+La respuesta de Steorn:
+
+    Varía según la configuración. Creo que la mayor eficiencia que habríamos medido físicamente sería de aproximadamente el 485%. Estos números pueden ser engañosos. Por ejemplo podríamos estar obteniendo el 485% por joule, que significa estar produciendo 4,85 J, pero puede haber una configuración que podría estar llegando al 130% de eficiencia aún produciendo 10 joules. Por eso, la misma tecnología es investigada bastante bien en términos de que la eficiencia final sea del 485%, pero no sería el producido óptimo del sistema. Obviamente estamos más enfocados en el producido directo de potencia de un dispositivo que en los números finales. 485 a 1 es 4,85, pero fácilmente podríamos decir que un producido de 10 a 12 joules de un sistema tendrá una eficiencia final más baja. Y la potencia producida es obviamente el factor clave, la energía producida es obviamente el factor clave.
+
+Pienso que la respuesta habla por sí misma. Un lector anónimo de esta columna semanal escribe:
+
+    Después de la fallida demostración de Steorn en el London Kinetica Museum, algunos de los visitantes que habían firmado los NDA [contratos de no divulgación] y eran considerados "miembros" se sintieron frustrados. Pudieron pasar, sólo por invitación, un poco de tiempo jugueteando con algunos equipos de Steorn en el taller del piso superior del museo Kinetica. ¡Alguien tomó un vídeo encubierto de lo que parecía ser el probable artefacto de la demostración y documentó que cuando lo hacían girar con la mano, disminuía la velocidad más rápidamente CON los imanes adentro que sin ellos! También había abundante espacio en el dispositivo para esconder un motor pequeño y baterías... El blog por Steorntracker es también escéptico acerca de Steorn.
+
+    La ubicación del video encubierto: http://energynotfree.blogspot.com/
+
+    El blog de Steorntracker: http://freeenergytracker.blogspot.com/
+
+No esperen ver mucho en estos sitios. Un vídeo malo, peor sonido, y la conclusión todavía es la misma: el dispositivo no funciona.
+
+Sin embargo, respecto al comentario anterior sobre la posible existencia de un motor y fuente de energía ocultos, diré esto: Aunque estoy de acuerdo sobre la posibilidad, porque tales farsas han sido montadas incontables veces, la mayor parte como simples trucos, y con las técnicas de miniaturización de hoy se pueden crear falsificaciones mucho mejores, creo que Steorn no tiene alguna intención de tratar de endilgar tal decepción al público. ¿Por qué lo creo? Porque ellos realmente *creen* -como tantas otras personas auto-engañadas en los últimos siglos- ¡que su dispositivo en realidad funciona! Nunca dejarán de creer, sin importar cuántos intentos fallidos puedan hacer; según mi experiencia, el Verdadero Creyente nunca se desengaña de sus ilusiones con una evidencia. Como ejemplo: las interminables oraciones fervientes a ángeles, santos, y deidades, aparentemente ignoradas, no demuestran nada al Verdadero Creyente...
+
+
+Candidatos al premio
+....................
+
+El lector Lawrence W. Lee (h), de Staten Island, Nueva York, nos dice:
+
+    Una revista a la que estoy suscrito, recientemente puso un artículo sobre la varilla de zahorí que pensé que le podía arrancar una risa. Se llama "Reminisce Extra", y los lectores envían sus recuerdos e historias -verdaderos, no ficticios- de los "buenos viejos días". El número de mayo de 2007 contenía una historia titulada, "El Brujo del Agua". No lo aburriré con el artículo entero, pero aquí está el pasaje donde el autor explica la búsqueda misma:
+
+        Habiendo considerado alguna vez que buscar agua con una varilla de zahorí era nada más que folclore anecdótico, gradualmente me vi forzado a admitir que estaba mal informado. Incapaz de explicar cómo cierta gente de campo ubicaba fuentes de agua subterránea donde ellos no podían, a los geólogos de fines de 1800 les gustaba referirse a los primeros buscadores de agua como "brujos del agua". Hoy los competentes buscadores -incluyendo a mi esposa, y a mí- continuamos desconcertando a los científicos con habilidades poco habituales. Creo que una reacción del zahorí con cualquier tipo de instrumento de búsqueda es una amplificación de lo que el cuerpo está sintiendo. Es, en la mayor parte de los casos, la respuesta neuromuscular a los cambios en la geología, no necesariamente agua subterránea. Trabajamos con perforadores de pozos, agentes inmobiliarios, desarrolladores de propiedad y terratenientes privados. Nuestro trabajo sigue siendo un viaje interesante.
+
+    Para proteger al engañado, he omitido el nombre del autor. Pero tan pronto como le envíe este correo electrónico, estoy enviando una respuesta a los editores de la revista, sugiriendo que él [el escritor] considere el Desafío de Un Millón de Dólares. ¿Reuniría esta publicación su nueva condición de una "presencia en los medios de comunicación"?
+
+    No estoy despertando mis esperanzas, pero tal vez usted debería tener lista su chequera, por las dudas. (¡Sólo bromeo!)
+
+Bien, probablemente reuniría las condiciones necesarias, pero encontrar un apoyo académico sería más difícil. En todo caso, ni los autores de esta afirmación, ni los otros "buscadores competentes", se presentarán. Pero, esperaremos...
+
+Y esperaremos...
+
+
+Noticias calientes
+..................
+
+Un científico amigo en Hungría ha investigado los antecedentes de Uri Geller y descubrió que su nombre original parece haber sido "Gellér György". (Oficialmente, el apellido se pone primero, en Hungría.) "György" es equivalente a George, y la forma diminutiva "Gyuri" -equivalente a "Georgie"- se pronuncia "Uri".
+
+¡Vaya, vaya! ¡Este hombre está *lleno* de sorpresas!
+
+
+Texas, líder en aporreo de la ciencia
+.....................................
+
+.. image:: http://www.randi.org/images/commentary/200707/phil.jpg
+   :alt:
+   :align: right
+
+De nuestro buen amigo Phil Plait - badastronomy.com_ - viene la noticia de que el gobernador de Texas, Rick Perry, ha nombrado a un creacionista para dirigir el Consejo de Educación de Estado de Texas. Sí, lo leyeron correctamente. Como Phil escribe:
+
+.. _badastronomy.com: http://www.badastronomy.com/
+
+    Al principio pensé, "No, ni siquiera un político de Texas *podría* hacer algo tan tonto, tan contrario a la realidad, tan horroroso para sus niños. ¡DefCon Blog debe haberse equivocado!" Y entonces hice algunas búsquedas. DefCon Blog tenía razón. De acuerdo con el Dallas Morning News:
+
+    La presidente de Freedom Network, Kathy Miller... notó que en 2003, el Dr. McLeroy era uno de los cuatro miembros del directorio que votaron en contra de los libros de biología propuestos para la escuela secundaria, porque sentía que su cobertura de la evolución era "demasiado dogmática", y que no incluía las posibles fallas en la teoría de Charles Darwin sobre cómo se desarrolló la vida sobre la Tierra a partir de formas más bajas. Eso viene derecho de la libreta de tácticas creacionistas. En caso de que no estén seguros, el artículo continúa citando a McLeroy:
+
+        Es equivocado enseñar la opinión como hecho.
+
+    ¡Pssst! Alguien tiene que decirle que también es inconstitucional enseñar la religión como ciencia.
+
+    En 2001, McLeroy y la mayoría de la junta rechazaron el único libro para la escuela secundaria de Prácticas Avanzadas para ciencia ambiental, porque sus opiniones sobre el calentamiento global y otros eventos no concordaban con la creencia de la mayoría de la junta. El libro no era objetivo y era anti-norteamericano y anti-cristiano, afirmó la mayoría. Mientras tanto, docenas de colegios y universidades usaban el libro, incluyendo la Baylor University, la universidad bautista más grande de la nación. En 2003, McLeroy votó en contra de aprobar los libros de biología que incluían un relato a gran escala de la teoría evolutiva.
+
+    Aquí hay una carta que McLeroy envió a los colegas miembros del State Board of Education:
+
+        Mi Confesión Personal
+
+        Dado todo el tiempo del mundo, creo que no podría sacar una araña de una roca. Sin embargo, la mayoría de los libros que estamos considerando adoptar, afirman que la Nada sacó una araña de una roca.
+
+        No creo compartir un antepasado común con un árbol. Sin embargo, la mayoría de los libros que estamos considerando adoptar, afirman como un hecho que todos compartimos un antepasado común con un árbol.
+
+    ¡Brillante! Este tipo no comprende los principios más básicos de la biología, y va a presidir la State Board of Education. Y, hey, si no comprende algo, ¿por qué debería ser enseñado entonces? De la sección "Citas Favoritas" del sitio web del propio McLeroy:
+
+        Parece que se extiende la creencia de que los intelectuales no son más sabios como consejeros, o merecedores de ejemplo, que los antiguos hechiceros o sacerdotes. Comparto ese escepticismo.
+
+    Piensen en eso por un momento, amigos. El nuevo director de la State Board of Education del Estado de Texas *es anti-intelectual*. Nota: no lo dijo él mismo, está citando a otra persona; pero evidentemente es una cita con la que está de acuerdo.
+
+    Ustedes pueden despotricar todo lo que quieran y quejarse de que escribo demasiado sobre la anti-ciencia en la forma de fundamentalismo religioso, pero estarían equivocados. *No puedo escribir lo suficiente sobre esto*. Es una enfermedad, un virus, y ahora los cerebros de millones de escolares en Texas están en peligro. Peor, Texas (junto con California) tiene una influencia inusitadamente grande sobre los libros de texto que usa el resto del país, porque son un gran mercado para los editores. Si este hombre anti-ciencia, anti-intelectual y anti-realidad consigue ayudar a escoger qué libros de texto se usan en Texas, entonces ustedes padres ahí, que están leyendo esto en New Hampshire, en Wyoming, en Oregon, en Virginia... sus propios hijos están en peligro también.
+
+¡En el clavo, Phil!
+
+
+Realeza habla con ángeles y caballos
+....................................
+
+La lectora Kristin Carlsson, una estudiante para maestra de astrofísica en Oslo, Noruega, tuvo una conmoción:
+
+    Antes de que empiece mi día en la universidad, siempre echo una mirada a http://www.aftenposten.no/, la edición en línea de uno de los principales periódicos de Noruega. Hoy [24 de julio] me dio la bienvenida un destacado titular que casi hizo caer media taza del café en el teclado:
+
+        Märtha Quiere Enseñar A Las Personas A Hablar Con Ángeles.
+
+    .. figure:: http://www.randi.org/images/commentary/200707/princess.jpg
+       :alt:
+       :figwidth: 204
+
+       ¡En verdad lo creen!
+
+    Ahora, en circunstancias normales, sería una lectura preocupante en muchos sentidos, considerando el hecho de que *Aftenposten* todavía es uno de los periódicos más distinguidos que no ha sucumbido totalmente a la tentación de tabloidismo. La razón importante para que este periódico aun considerara poner tal titular era un poco inquietante para mí: la "Märtha" mencionada aquí no es otra que Su Alteza la Princesa Märtha Louise de Noruega. Citando un poco más del artículo:
+
+        La Princesa Märtha Louise (35) se revela como clarividente, y dice que ha tenido poderes sobrenaturales desde la infancia. Ahora está fundando una escuela de educación alternativa, para enseñar el arte de contactarse con ángeles, de acuerdo con Se og Hør [la destacada revista de basura, siempre deleitándose con los chismes sobre la familia real de Noruega].
+
+    Mientras estoy escribiendo y traduciendo, una versión en inglés del artículo ha sido colocada en www.aftenposten.no/english/local/article1901846.ece. Puede leerlo y citarlo de allí, si lo encuentra interesante y/o divertido. Note especialmente la muy clásica historia de "psíquica cuando niña se encuentra con alguna mujer y se le ponen los pelos de punta".
+
+    Según parece, Su Alteza (HH) y "Astarte Education" ahora técnicamente reúnen las condiciones necesarias para el premio de un millón de dólares, pensé que le haría saber de este entretenido trozo de trivialidad. Mi opinión sobre si la monarquía de Noruega debería ser reemplazada por una república en un futuro próximo -junto con la abolición de la iglesia estatal- tendrá que ser otra historia.
+
+    ¡Siempre espero con ansia la siguiente columna semanal!
+
+El lector Martin A. Lessem también interviene en esta farsa:
+
+    La Princesa siente la necesidad, como dije, de "compartir" esta educación con sus compatriotas noruegos. Por unos "honorarios moderados" (se lo juro -las comillas están añadidas para poner sarcasmo) de $2.088 al tipo de cambio de hoy, usted también puede aprender de la Princesa cómo liberar su identidad psíquica interior y estar en comunión con los ángeles y los espíritus. Sin embargo eso sólo paga la instrucción de medio año. ¡La trampa es que para recibir la experiencia de un curso completo, es un programa de tres años!
+
+    Ofrecen un total de tres cursos. El primero sobre "Lecturas", el segundo sobre "Curación", y el tercero sobre "Contacto", con lo cual -de acuerdo con el sitio web- quieren decir curación de contacto. Como nota al margen, la palabra que usan, "berøring", no aparece en el diccionario noruego-inglés que usé, y tuve que tomar la definición de la palabra sueca similar. También ofrecen dos cursos intensos de tres días cada uno, el primero sobre lo que llaman "Conocimientos", que de acuerdo con su idea trata sobre nuestra conexión a la Tierra, y en el segundo curso -y para éste le daré la traducción completa...
+
+        En este curso usted aprenderá a contactarse con ángeles y crear milagros celestiales en su vida. (På dette kurset kommer du i kontakt med englene og lærer hvordan du kan skape himmelske mirakler i livet ditt.)
+
+    Yo, para empezar, me encantaría verlos tratando de aspirar al millón de la |JREF|. Quiero decir, si están empezando una institución educativa, ¡qué mejor motivo de fama que "Nosotros ganamos el millón de la |JREF| para pagar todo este curanderismo"!
+
+    De todos modos, espero que esto encuentre su camino dentro de su columna semanal ya que pienso que cosas así tienen que ser expuestas, especialmente cuando un miembro de una familia real -y sabemos que la realeza es respetada en Europa- presta su nombre para esta clase de viaje.
+
+Martin, nuestro colega Jeff Wagg de la |JREF| sugiere que quizás la Princesa Märtha Louis de Noruega deba arreglar un encuentro con el Príncipe Carlos de Fantasilandia... discúlpeme, de Windsor. Parecen idealmente adecuados el uno a la otra, y el vínculo psíquico entre ellos debería ser fuerte... Usan el mismo idioma -el fantasiano- como muestra la efusiva declaración de la princesa que mostrará a los noruegos cómo "crear milagros" en sus vidas y aprovechar los poderes de sus ángeles, a los que describe como "fuerzas que nos rodean y que son recursos y ayudas en todos los aspectos de nuestras vidas". ¡Qué alentador!
+
+El lector Håkon M. Monssen nos dice que la Princesa también afirma que puede hablar con los caballos -cosa que también puedo hacer yo, aunque las respuestas son algo vagas- y ofrece su curso como un medio de "entrar en contacto con nuestras verdades" a través de "lecturas, curación, cristales y tratamiento de imposición de manos".
+
+De acuerdo. Tal vez sea la prueba de que la idea de la endogamia no es inteligente...
+
+
+Las predicciones de Sylvia
+..........................
+
+.. figure:: http://www.randi.org/images/commentary/200707/SB.jpg
+   :alt:
+   :figwidth: 150
+
+   Predigo...
+
+De vez en cuando, los lectores revisan las impresionantes profecías lanzadas por Sylvia Browne, y descubren -¡sorpresa!- que habla con lengua bífida. Jon Blumenfeld nos suministra esta selección de sólo diez:
+
+1. El Papa Juan Pablo II no vive más allá de abril de 2005. ¡Un acierto! Pero entonces, estaba tan enfermo que nadie tenía que ser psíquico.
+
+2. En reemplazo de Juan Pablo será elegido un papa negro esta vez o la siguiente. Bien, no esta vez.
+
+3. Después de eso, elegirán un triunvirato de Papas, cada uno asignado a un área geográfica diferente. Todavía pendiente.
+
+4. En febrero de 2004, Seattle tendrá un sismo de magnitud 5,4, pero no causará mucho daño. Error.
+
+5. En julio de 2004, la cantidad de desempleados llegará a un punto máximo, antes de mejorar con el advenimiento de la nueva tecnología de Texas y Nevada. Error.
+
+6. En julio y agosto de 2004, los empleados de dos importantes aerolíneas irán al paro y los viajes de línea aumentarán a un punto máximo, porque las personas se sentirán más seguras con esta forma de viajar. Error.
+
+7. En agosto y septiembre de 2004: Unos huracanes azotarán Florida Keys y México. Otra vez, ¿se necesita ser psíquico?
+
+8. Noviembre de 2004: El presidente Bush no será reelegido. Error.
+
+9. En cualquier momento de 2004: Unos sismos de escala 6,0 azotarán a Alaska y a Japón. Error, creo.
+
+10. Diciembre de 2004: Saddam Hussein morirá. Error, en 2006.
+
+¡Asombroso!
+
+
+Ese temible número otra vez
+...........................
+
+.. image:: http://www.randi.org/images/commentary/200707/666.jpg
+   :alt:
+   :align: right
+
+Jordanna Thigpen es una directora ejecutiva asistente de la San Francisco Taxi Commission. Eso suena serio y con autoridad, ¿cierto? Bien, está alarmada por la terrorífica situación del taxista Michael Byrne, a quien la Comisión le asignó el medallón Nº 666 el pasado agosto. Desde entonces, Byrne ha estado involucrado en al menos un accidente, ¡aunque tenía su taxi bendito en Misión Dolores! Esta misión, fundada en 1776, es propiamente conocida como la Misión San Francisco de Asís, y tales esfuerzos para asegurarse contra la desgracia no son poco comunes entre los creyentes en esa área. Pero seguramente, ésta es la prueba de la fuerte influencia de este temible número.
+
+Invocando realidades tan obvias como Armagedón, San Juan el Divino, Viernes Santo, el Libro de las Revelaciones y la Marca de la Bestia, la Sra. Thigpen señaló -desde su posición ejecutiva- que...
+
+    Los problemas... son de gran gravedad. El número 666 ha sido asociado con el mal y Satanás durante cientos de años. El número aparece por primera vez en la Revelación de San Juan el Divino. Revelaciones describe Armagedón y ofrece el número 666 como un método para reconocer a los seguidores de "la bestia", o mal.
+
+La Sra. Thigpen aparentemente confía en informes de su autoridad. Acepta que hace algunos años, el taxi de propiedad del previo poseedor del medallón 666...
+
+    ... se quemó un Viernes Santo... y lo único que quedó después del fuego fueron los números 666, visibles en los escombros.
+
+Ahora, debo aceptar esto como prueba fehaciente. ¡Imaginen un taxi completamente consumido por el fuego -chasis, motor, la cosa entera- ¡con los dígitos 666 triunfalmente evidentes! A decir verdad, no encontramos ningún informe de medallones con los números 1205 o 751 quemados en el Día de los Inocentes, o en mi cumpleaños. Me pregunto, ¿por qué no? Alucinante... Entonces, en una extraña mezcla de fantasiosidad y desmentido, la Sra. Thigpen asevera:
+
+    ¿Creo en la Marca de la Bestia yo misma? No. Pero hay mucha energía negativa alrededor de ese taxi. Si podemos ayudar a que alguien se salve, ¿por qué no hacerlo? Si algo es una molestia, es nuestro deber librarnos de ello, ¿correcto?
+
+Correcto, mami, pero pienso que aquellas 45 palabras podrían haber sido abreviadas a:
+
+    Si podemos ayudar a que alguien se salve, si algo es una molestia, es nuestro deber librarnos de ello.
+
+.. figure:: http://www.randi.org/images/commentary/200707/CAB.jpg
+   :alt:
+   :figwidth: 104
+
+   ¡Así se hace, George!
+
+Thomas George-Williams, presidente del sindicato United Taxicab Workers, tuvo una actitud muy sensata y pragmática sobre este tema. Dijo que a los taxistas les encantaba contar historias de fantasma sobre los coches 666 entre viajes, pero que la comisión no debería involucrarse en supersticiones. Ahora, ése es mi tipo. También señaló que no hay ninguna 13ª Avenida en San Francisco -la calle entre las avenidas 12ª y 14ª. Hace mucho tiempo le cambiaron el nombre por Funston Avenue, aparentemente para mantener a raya al Armagedón. Bien, parece haber funcionado, debo admitirlo...
+
+Piensen en eso: una importante agencia gubernamental de la ciudad de San Francisco en realidad está dando -aunque de mala gana- algún reconocimiento a la idea infantil de los números mágicos, en lugar de continuar con sus asuntos.
+
+Duh.
+
+
+Y llovió a raudales...
+......................
+
+Increíble. Luego de `mi artículo del 15 de junio <randi20070615.html#rezadores-descontrolados>`__, se inventó el truco del "Día Nacional de la Lluvia" en Australia que demuestra perfectamente la falta de razonamiento sobre causa y efecto por parte de personas prominentes que deberían saber mejor cómo son las cosas. Al director ejecutivo de marketing, John McCallum, de Melbourne, se le ocurrió esta idea ilusoria. El hecho de que la lluvia cayera después de que algunos ciudadanos rogaron que ocurriera, es aparentemente toda la evidencia que McCallum necesita, sin considerar factores tales como los cambios atmosféricos naturales, ya que esta gente no cree que la lluvia viene como resultado del vapor de agua condensado y cayendo como un líquido; para ellos, todo es magia fantasiosa, como ven.
+
+En ningún lugar hablan de las excusas que podrían haber usado -y que deberán usar- si la lluvia no hubiera caído. Ignoran totalmente el hecho de que partes de Australia (Nueva Gales del Sur del norte) pasaron de sequía a inundaciones devastadoras, y que el Primer Ministro John Howard entonces tuvo que pedir "pensamientos y oraciones" para las víctimas de las tormentas e inundaciones que se abatieron sobre NSW, obviamente olvidando que apenas unas semanas antes de eso, ¡había pedido a todos que rogaran para que la lluvia cayera! ¿Es esto un fallo de memoria a  corto plazo?
+
+Pero ustedes tienen que ver qué dijeron exactamente de este evento, y cito:
+
+    Ésta no fue una simple coincidencia. Era un [quejido] co-baile-interno de los corazones de todos los que imaginaron la lluvia y dirigieron amor y gratitud porque la lluvia sería recibida, que, casi literalmente, "rogaron lluvia". Los resultados son aun más satisfactorios cuando reconocemos que nuestra intención estaba centrada en nuestra íntima conexión con la naturaleza, y el decidido enfoque para  invitar a la lluvia en nuestra experiencia, provee alguna comprensión de cómo podemos tener un papel importante como conductos entre el universo y el planeta, para provocar equilibrio y armonía.
+
+    El Día Nacional de la Lluvia está aquí para quedarse y esperamos con ansia su continuado apoyo al hacer del próximo un evento impresionante, mientras tengamos el tiempo de crear una consciencia aun más grande. Muchas gracias por ser uno con el comienzo de un nuevo paradigma en esta tierra que tanto amamos.
+
+Es realmente un acto de comedia. Imaginen a esos miles de personas que trataron de atraer la lluvia, sin zapatos mientras eran llevadas a través de una "visualización" por un indígena australiano. Para promover esta farsa, el director ejecutivo McCallum se inspiró en un libro de Greg Braden, "El Efecto Isaiah", subtitulado "Descifrando la Ciencia Perdida de la Oración y la Profecía", que nos dijeron trata sobre...
+
+    ... nuevos descubrimientos en física cuántica, tanto como una variedad de tradiciones espirituales y documentos religiosos, incluyendo tibetanos, mayas, y profecías Hopi, Nostradamus, y los Rollos del Mar Muerto.
+
+Bien, es toda la prueba que necesitamos, ¿correcto?
+
+También nos dijeron que el Sr. McCallum fue por inspirado durante un "Seminario de Cambio XL de Riqueza" al que asistió. ¿Y qué es eso? Obviamente, es un sistema para cambiar dinero -presumiblemente del bolsillo de otra persona al suyo- y su mantra de advertencia es: "Cuanto más dinero tiene, más oportunidades tiene de perderlo". Sí, supongo que es verdad...
+
+Un rasgo saliente de la ceremonia del Día Nacional de la Lluvia fue...
+
+    ... una imaginativa descripción de lluvia formándose y cayendo, con la tierra recibiéndola con gratitud, apoyada por los místicos sonidos del aerófano tocado por Lewis Langdon. Isira, un embajador de la paz mundial, dijo:
+
+        Es esencial que todos comprendamos nuestra conexión íntima con la naturaleza y que todos nuestros deseos -en los que nos concentramos más- influyen en la naturaleza. Debemos volver nuestros corazones a la conexión sagrada que tenemos con la tierra para honrarla y a sus elementos naturales para que regrese la armonía. Más que pensar en la falta de lluvia, debemos darnos cuenta de nuestra conexión con la lluvia, conocer nuestra unidad con ella en nuestra visión y dar gracias por ella. De este modo, rogamos CON lluvia más que dar una imagen de falta de lluvia a la creación... Entonces retenemos la verdadera visión de la lluvia que nos nutre y nos volvemos parte del ciclo otra vez que trae la lluvia.
+
+Sí, es obvio que esta gente está toda mojada, en más de un sentido. Ahora, si eso no es fantasioso, no conozco lo fantasioso.
+
+
+Homero trabajando
+.................
+
+.. image:: http://www.randi.org/images/commentary/200707/Homer.jpg
+   :alt:
+   :align: right
+
+El lector James Gordon, de Southport, Reino Unido, nos cuenta de otro esfuerzo de rezo o baile pidiendo lluvia dirigido de manera algo diferente:
+
+    Acabo de descubrir `esto <http://news.bbc.co.uk/1/hi/england/dorset/6901543.stm>`__ en el sitio web de BBC News y me hizo reír. Parece que la Pagan Federation se ha disgustado un poco aquí en el Reino Unido por un ardid publicitario creado para la nueva película de los Simpson. Un Homero Simpson gigante que sostiene en lo alto una rosquilla ha sido colocado en pintura biodegradable junto al famoso gigante excitado de Cerne Abbas.
+
+    Aparentemente, "muchos creen que el antiguo perfil de creta del gigante desnudo y sexualmente excitado es un símbolo de la antigua espiritualidad". La mejor parte del artículo entero es esta cita de Ann Bryn-Evans, administradora de la junta del distrito de Wessex para la Pagan Federation:
+
+        Estábamos esperando algo de clima seco, pero creo que he cambiado de idea. Haremos un poco de magia de lluvia para traer la lluvia y que se lave. Me asombra que hayan obtenido el permiso para hacer algo tan ridículo. Es una área de interés científico.
+
+    Extrañamente, la presencia de un dibujo lineal gigantesco de Homero Simpson sobre una colina en Inglaterra no me resulta tan ridículo como un grupo de paganos adoradores de la Madre Tierra bailando por allí sin pantalones, en un equivocado esfuerzo por traer la lluvia y lavar el ofensivo símbolo del capitalismo. ¡Aun peor es la sugerencia de que van a hacer esta jerigonza porque la zona es de interés científico! Obviamente soy sólo un cínico malhumorado que no ha logrado alinear su aura con la de la Gran Madre.
+
+    Me recuerda, sin embargo, esa vieja película de Dan Akroyd [*]_, Dragnet, donde sugieren que PAGAN son las siglas de *People Against Goodness And Normality*, "Personas contra la bondad y la normalidad".
+
+.. [*] *Sic* en el original. El nombre correcto del actor es `Dan Aykroyd <http://www.imdb.com/name/nm0000101/>`__ [N. del E.]
+
+Credenciales
+............
+
+Un lector anónimo escribe:
+
+    Antes que nada, tengo que decir que soy un inmenso admirador suyo. Aunque fui escéptico por años, hasta que no descubrí la página web de la |JREF| y comencé a leer sus comentarios no empecé a sentir pasión por defender y difundir el escepticismo. Me estoy volviendo un prominente blogger de vídeos en YouTube (Mi primera entrevista CNN va a ser esta semana), aunque hasta ahora estuve mayormente hablando de política, planeo empezar a hacer videos que hablen de temas escépticos y de ciencia muy pronto. Pienso que el vídeo blogging, o vlogging si usted lo prefiere, es un medio que tiene mucho potencial y planeo aprovecharlo al máximo.
+
+    De todos modos, vuelvo a lo que realmente quería decirle. Soy empleado de recursos humanos del gobierno federal. Uno de mis trabajos es "evaluar" currículos respecto a si cubren o no los estándares de calificación para cierto puesto. En muchos casos, todo lo que una persona necesita para calificar para un puesto es un título reconocido. Para asegurarnos de que un título esté reconocido, hacemos una búsqueda sobre universidades cuestionables en el sitio web del Department of Education (USDE), http://www.ope.ed.gov/accreditation/Search.asp.
+
+    Recientemente me encontré con un currículo que presentaba un título de la Academy of Oriental Medicine. Pensé con seguridad que no podía ser una universidad reconocida. Desafortunadamente, una búsqueda en el sitio web del USDE descubrió que era una universidad reconocida oficialmente. El tener que escribir "calificado" encima de ese currículo casi me mató. Más búsquedas por "oriental", "alternativa" o "acupuntura" encontraron todo un servidor de otras universidades reconocidas. ¿Cómo es que alguien puede obtener un título en Acupuntura y que tiene el mismo valor que el mío de Licenciado? Me entristece realmente que estas universidades puedan alegar acreditación oficial del gobierno cuando están enseñando cosas que no existen.
+
+    ¡Manténgase en la lucha contra la ignorancia! Y lo veré en TAM 6 aunque me parece tan lejos en este momento.
+
+
+La realidad puede ser dura
+..........................
+
+Otro lector anónimo escribe:
+
+    Tengo 32 años y he creído en alguna forma del Cristianismo fundamental toda mi vida. Siempre me he considerado una persona racional y objetiva, pero durante todos estos años mis creencias en una "vida después de la muerte" fueron más fuertes que nunca y aceptaba simplemente cosas tales como Jonás sobreviviendo a su dudosa experiencia de ser tragado por un pez.
+
+    Sin embargo, después de meses de estudios arduos, objetivos y de erudición, llegué a una conclusión a la que no estaba preparado a llegar. El cristianismo es un bulo anticuado, caprichoso y acabado, y huelga decir que no encaja con la ciencia, el racionalismo y el materialismo... o la simple lógica, en realidad.
+
+    Hasta hace tres meses, mi satisfacción y placer en la vida giraban *literalmente* en torno a mi percibida "relación con Dios / Cristo", a la eficacia de la oración, y a la graciosa recompensa del cielo. Ahora que sé que esta manera de pensar y soñar no es la realidad, estoy experimentando una depresión muy real -y me dicen que "clínica"-, algo que nunca experimenté antes. He tolerado cualquier tribulación anterior a través del razonamiento, "Dios me cuida" y de algún modo está usando esta adversidad para que me "haga más fuerte", y "puedo pasar a través de cualquier cosa en esta vida porque es sólo temporal y al final me aguarda la dicha eterna". Pensaba que, como otros cristianos, ya me había ganado efectivamente "la lotería de la otra vida".
+
+    Ahora sé que mi boleto premiado no vale. Estaba engañado, y peor, la muleta que sostenía mi vida había desaparecido. Nota al margen: verdaderamente creo que si usted pudiera convencer a los cristianos en los EE.UU. que no hay Jesús ni Dios, habría una importante reacción cargada de depresión.
+
+    He buscado tratamiento médico. Irónicamente, los dos psiquiatras y los tres psicólogos a quienes he visto, creen sinceramente que la fe en un "poder más alto" es *esencial* para mi recuperación. Más aún, *todos* me han sugerido, o dicho de plano, que "mi falta de fe" podría ser la *causa* de mi depresión. Y los psiquiatras también me han cargado con una letanía de pastillas... ninguna de las cuales ha surtido efecto. Es como si mi psiquis no "pudiera manejar la verdad", e incluso he tomado una licencia en mi trabajo. Para su información, vivo en un suburbio de Houston donde, en términos generales, si usted no es alguna clase de cristiano, sería mucho mejor tener lepra, y Rick Warren es lo más cerca del mismo Mesías.
+
+    Sé que usted no es profesional de la medicina, y no tomaré ningún consejo bajo esa luz. Sin embargo, respeto su enfoque objetivo de la vida, y su mente clara, y *estoy* pidiendo un poco de consejo.
+
+Sí, a menudo es muy difícil cambiar una filosofía básica de manera radical. En mi propio caso no fue realmente necesario, simplemente porque desde una edad muy temprana dudé de las historias de influencias y seres sobrenaturales, y me preguntaba seriamente cómo era que tantas personas a mi alrededor podían adherir a esas ideas. Nunca hubo un momento en el que tuviera que "cambiar" a un enfoque más objetivo. Esto difiere radicalmente de las experiencias de muchos de mis amigos. Un ejemplo sería Michael Shermer, que en cierto momento de su vida joven fue un convencido aporreador de la Biblia, hasta que empezó a pensar seriamente en su filosofía básica; el resto es historia.
+
+No hay ninguna duda: se necesita cierto grado de valentía para abandonar una filosofía cómoda y adoptar la realidad. Aceptar que a la naturaleza simplemente no le importan los individuos como usted, sino que tiene mucho más interés en la especie, es terrible. Pero puedo decirle esto: la enorme mayoría de las personas que conozco y que han cambiado, lo consideran como uno de los días más grandes en su vida, y recuerdan la gran sensación de alivio y realización que experimentaron cuando se dieron cuenta de que no había un Gran Espíritu en el Cielo mirándolos desde un trono y asegurándose de que las cosas estuvieran bien, siempre y cuando fueran ofrecidos los conjuros y la humillación fuera suficientemente genuina.
+
+El hecho de que usted sea consciente de su situación me indica que podrá superarla adecuadamente. Eso espero, por cierto, y espero con ansia oír de usted que se siente más cómodo y a sus anchas con su decisión.
+
+
+Problema en el país de la dilución
+..................................
+
+.. image:: http://www.randi.org/images/commentary/200707/Zicam.jpg
+   :alt:
+   :align: right
+
+Allá en `la columna del 19 de diciembre de 2003 <randi20031219.html>`__ -hagan una búsqueda de "Zicam"- revelé que este popular "remedio" para síntomas de resfríos *no es homeopático*, como anuncian que es. Tiene una parte en diez del ingrediente activo, gluconato de zinc -C\ :sub:`12`\ H\ :sub:`22`\ O\ :sub:`14`\ Zn, para los meticulosos- y eso está tanto más concentrado que cualquier dilución homeopática, que es absolutamente ridículo. ¡Los preparados homeopáticos tienen típicamente una parte del ingrediente en varios miles de millones de partes de agua o lactosa...! Pero Matrixx Initiatives, una compañía de goma de mascar convertida en fabricante de remedios para resfríos, los fabricantes de Zicam, obviamente descubrió que su producto era mucho más popular con una designación fantasiosa, ¡y que también podían cobrar mucho más por él! De modo que afirmaron que era homeopático, y entró en los botiquines de los ingenuos. Y ese nombre, Matrixx, debe haber sido pensado por un hombre de publicidad de Hollywood -o un niño de 14 años.
+
+Bien, ahora se está afirmando que este spray nasal destruye el sentido del gusto y del olfato de los usuarios, algo que seguramente causó cierto grado de insatisfacción entre los clientes. Los clientes infelices presentaron más de 400 demandas judiciales, y Matrixx ya ha gastado 12 millones para arreglar unas 340. Mi pregunta: ¿por qué no se involucró la FDA, hace mucho tiempo? ¿Deberían haber sido suficientes la publicidad falsa y los serios efectos secundarios posibles para captar su atención? Oh, esperen. Es una agencia federal, ¿verdad? Perdonen mi presunción...
+
+Ahora, en lugar de limitarse a acordar extrajudicialmente las demandas judiciales que quedan, Matrixx está desafiando la pericia de los médicos que alegan la relación entre la pérdida sensorial y el producto. Esto se ha convertido en una lucha de "expertos", con Matrixx buscando médicos que pontificarán a su favor. Y tienen el colosal descaro de señalar la cuestión algo mayor de la vigilancia limitada de la FDA sobre los tratamientos homeopáticos, aunque ya que su producto *no es homeopático*, es difícil ver en qué piso están parados. ¿Arenas movedizas, quizás? También, a diferencia de las medicinas convencionales los remedios "naturales" no están sujetos a ningún proceso de aprobación, ni pasan a través de ensayos clínicos -pero no hay nada "natural" en absoluto en el gluconato de zinc. ¿Quién está cuidando la tienda, aquí?
+
+Como un lector me señaló, ¡Matrixx está claramente armando una operación curandera, y parecen orgullosos de ella!
+
+La FDA afirma que investigarlo les costaría demasiado tiempo y dinero. Y el mundo gira...
+
+
+En conclusión...
+................
+
+Estamos felices de anunciar la inclusión, a comienzos de esta semana, del índice_ de la biblioteca de la |JREF|, orgullosamente denominada "La Biblioteca Isaac Asimov". Está accesible a todos los lectores con un simple clic. Está en formato "Excel", ordenado por título (A), autor (B), y categoría (C). Hay un total de 2.035 títulos allí. Van desde "Abducción" (9 títulos) a "Brujería" [Witchcraft] (36 títulos), con categorías de mucha mayor envergadura como "Parapsicología" (212 títulos) y "Religión" (211 títulos) que pueden ser encontrados. Tenemos quizás la colección más grande sobre el tema más absurdo -Frenología- que cualquier biblioteca, con 39 volúmenes muy gruesos, lentos y pesados que tratan temas de protuberancias-en-la-cabeza. Nuestros 59 libros sobre Astrología -como podrían esperar- dan tantas opiniones diferentes sobre estas tonterías antiguas, que todos son diferentes -y todos igualmente inútiles.
+
+Si ustedes no tienen actualmente el Excel, pueden descargar el visor de Excel de Microsoft directamente desde su sitio siguiendo este enlace: `Visor de Excel <http://www.microsoft.com/downloads/details.aspx?displaylang=es&FamilyID=c8378bf4-996c-4569-b547-75edbd03aaf0>`__
+
+Por otra parte, si no tienen Windows o si prefieren no usar Excel, pueden bajarse el `Open Office <http://download.openoffice.org/index.html%20target=>`__. Es un conjunto gratuito de programas de ofimática que les permitirá ver los archivos de hojas de cálculo.
+
+El índice de la biblioteca será actualizado con regularidad, sin previo aviso.
+
+Hay 65 libros que no están incluidos en este índice simplemente porque son volúmenes separados en colecciones fantasiosas, como la serie de Time / Life "Los Misterios de lo Desconocido", así como "Hombre, Mito, y Magia", y "Misterios de la Mente, el Espacio, y el Tiempo". En estos grupos, cada delgado volumen contiene una gran variedad de temas de modo que no pueden ser categorizados. También tenemos la excelente colección de siete volúmenes de Lynn Thorndike, "Historia de la Magia & Ciencia Experimental", que igualmente desafía la categorización.
+
+Un estante contiene sólo los libros que he escrito -en ediciones en chino, inglés, inglés-braille, japonés, francés, alemán, italiano, coreano, punjabi, noruego, polaco, y español. Debido a que ese estante de 29 pulgadas ahora está completo, y todavía tengo dos próximos libros en-progreso -"¡Wrong!" y "Un Mago en el Laboratorio"- tendremos que ampliar, una vez más...
+
+Además, la |JREF| tiene enciclopedias a montones. Hay un conjunto de 12 volúmenes de la "Encyclopedia Britannica Americanized", de 1896, uno de 24 volúmenes de la "Encyclopedia Britannica", de 1945, y 32 volúmenes de la 15ª edición (1987) de la "Encyclopedia Britannica" -incluyendo la "Propaedia" y las actualizaciones anuales hasta 1992.
+
+Piensen en esto: ¡La Biblioteca Isaac Asimov -la sala principal- ocupa 303 pies de estantes! Y no es sólo de los libros que tenemos en inglés; parte de eso es un sector de 9 pies de largo que contiene libros que tratan sobre nuestra área de interés, pero en otros idiomas. Pero eso no es todo, damas y caballeros. Dando la vuelta la esquina de la sala principal -ya que nos quedamos sin espacio- tenemos treinta pies de estantes con colecciones periódicas que van desde "American Council on Science & Health" hasta "Western New York Skeptics". Adyacente a eso, encontrarán 762 DVDs, la colección de vídeos de la |JREF| ahora reducida desde VHS a un formato mucho más conveniente y permanente. Algunos de esos DVDs tienen algunos programas completos, de modo que la cantidad total de artículos representada aquí es *considerablemente* mayor que 762.
+
+Tan pronto como podamos poner a alguien en el trabajo, ofreceremos estos libros a préstamo por correo. Esto extenderá el alcance de la |JREF| considerablemente, suministrando el acceso a los datos que pueden servir a estudiantes, autores, editores, y al lector simplemente curioso. Estamos orgullosos de la biblioteca de la |JREF|, y completamente conscientes de la mina de oro que podría ser para futuros investigadores, que pueden investigar el pasado para examinar el punto cuando nuestra especie empezó a abandonar la dependencia del fraude y aprendió a enfrentar la realidad.
+
+Debemos dar el crédito completo a nuestros internos muy trabajadores, a cargo del estudiante de leyes Chris Cochran, quien reorganizó casi sin ayuda la biblioteca de libros de la |JREF|. Estamos muy agradecidos a él, por su contribución de muchas, muchas mañanas de los sábados a lo largo de los pasados dos años.
+
+.. _índice: http://www.randi.org/library/JREF_library.xls
+
+
+|firmarandi|
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: Traducido por Graciela Lorenzo Tillard
+    :description: Esa tonta rueda que no gira — Candidatos al premio — Noticias calientes — Texas, líder en aporreo de la ciencia — Realeza habla con ángeles y caballos — Las predicciones de Sylvia — Ese temible número otra vez — Y llovió a raudales... — Homero trabajando — Credenciales — La realidad puede ser dura — Problema en el país de la dilución — En conclusión...

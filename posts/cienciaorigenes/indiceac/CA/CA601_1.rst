@@ -1,0 +1,46 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA600
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA601_1
+.. link: http://www.talkorigins.org/indexcc/CA/CA601_1.html
+.. date: 2004-01-01 02:00:00+00:00
+.. title: CA601.1: El materialismo o el materialismo de la evolución niega el papel de Dios
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «El materialismo o el materialismo de la evolución niega el papel de Dios»
+
+El materialismo o naturalismo metodológico de la evolución niega el papel de Dios. "El naturalismo metodológico nos pide por el bien de la ciencia que finjamos que el mundo material es todo lo que existe" ([Dembski_1996]_).
+
+**Fuente:**
+
+Johnson, Phillip E. 1999. The church of Darwin. *Wall Street Journal*, 16 Aug. 1999, http://www.arn.org/docs/johnson/chofdarwin.htm
+
+Respuesta
+============
+
+1. Esto es mentira, simplemente. Hay numerosos científicos que aceptan tanto la evolución como a Dios. No sólo creen que Dios creó un universo en el que la evolución sucede naturalmente, sino que Dios trabaja constantemente en su vida y las de los otros. La afirmación contraria de Johnson, Dembski y otros es un rechazo deliberado de las creencias religiosas de otros.
+
+2. Esta afirmación no sólo se aplica a la evolución; lógicamente, debería aplicarse a las personas que creen en el materialismo o el naturalismo metodológico en cualquier ciencia o cualquier aspecto de la vida. Toda la gente que cree que Dios no interviene para mantener rotando los planetas, causar los vientos o causar la efervescencia de las bebidas gaseosas, de acuerdo con esta afirmación, deben ser ateos. Es obvio que no lo son. Muchos científicos famosos son devotos cristianos que usan, en su trabajo, exactamente el mismo tipo de naturalismo que usa la ciencia evolutiva.
+
+3. Desde un punto de vista práctico, quienes hacen esa afirmación están negando, más que reclamando, un papel para Dios. Dicen que la evolucón teísta no es diferente de la evolución atea porque no muestra a Dios actuando directamente. Para ellos, un Dios que no actúa de modo sobrenatural es equivalente a ningún dios. Pero en este momento no está pasando nada sobrenatural en torno a mí; de hecho, nunca he visto ocurrir nada sobrenatural. ¿Eso significa que Dios no está aquí? Se acuerdo con Johnson y otros que creen su afirmación, Dios es irrelevante para casi la totalidad de nuestras vidas.
+
+Enlaces
+=========
+
+Isaak, Mark. 2002. A philosophical premise of 'naturalism'? http://www.talkdesign.org/faqs/naturalism.html
+
+Referencias
+===============
+
+.. [Dembski_1996] Dembski, William A. 1996. What every theologian should know about creation, evolution and design. http://www.arn.org/docs/dembski/wd_theologn.htm
+
+
+/////
+
+Anterior: :doc:`CA601` | Siguiente: :doc:`CA602`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

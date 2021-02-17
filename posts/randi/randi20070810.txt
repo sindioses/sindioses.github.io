@@ -1,0 +1,264 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. title: Noticia apabullante. Más cosas bestiales. Gato loco. Sudáfrica, ¿otra vez?. Pregunte a los psíquicos. ¿A Attenborough no le interesa?. Una buena experiencia. Puntos de Shermer. En conclusión
+.. type: randi
+.. date: 2007-08-10 00:00:00
+.. category: Traducciones de James Randi
+.. author: James Randi, traducción de Graciela Lorenzo Tillard
+
+.. contents:: Contenido
+   :class: sidebar
+   :local:
+
+
+Noticia apabullante
+...................
+
+.. figure:: http://www.randi.org/images/commentary/200708/Moon.jpg
+   :alt:
+   :figwidth: 204
+
+   ¿Peligrosa?
+
+¿Alguna vez se han preguntado si hay algún efecto mensurable de las fases de la luna sobre las cuestiones humanas? Bien, el Dr. Robert Seeberger, físico y astrónomo en el ministerio de los asuntos económicos de Austria, según parece se ha preocupado lo suficiente para investigar esta cuestión -aunque es difícil imaginar de dónde vino la financiación, o por qué. Acaba de informar que su equipo de expertos analizó 500.000 accidentes industriales en ese país entre 2000 y 2004, y no encontró ninguna relación con la actividad lunar. Dice:
+
+    La luna llena no afecta de modo desfavorable la probabilidad de un accidente.
+
+Esperen. Esa palabra "modo desfavorable" me preocupa. ¿Y qué nos dice de las influencias "favorables", Dr. Seeberger? ¿No habría sido más informativo investigar si las fases de la luna tienen algún efecto en nuestras actividades, no sólo en los accidentes? Con sólo poner una prueba doble-ciego de partos, accidentes automovilísticos, y otros factores, luego pedir a los "expertos" -astrólogos, por supuesto- que "hagan sus predicciones" -para decirnos con anticipación dónde deberían aparecer efectos de las influencias estelares y/o lunares- sería mucho más útil, creo. Por supuesto, los videntes no aman tales pruebas, pero estoy seguro de que podría persuadirlos a participar... Otro enfoque sería simplemente tratar de comparar -otra vez, doble-ciego- las fases de la luna para cualquiera de estos eventos...
+
+El estudio, hecho para una agencia de seguros, decía que en promedio había 415 accidentes de trabajo diarios registrados, aunque en los días de Luna llena -que se supone una condición crítica- en realidad el promedio bajaba un 7%, hasta 385, aunque esta diferencia no era estadísticamente significativa. Se hicieron muchas otras pruebas similares. En 1984, el British Medical Journal investigó la incidencia de los crímenes informados a policía en tres lugares en India, y encontró un pico de crímenes en días de Luna llena. Ahora, es una prueba "cargada", por supuesto. Los crímenes como los robos con allanamiento de morada y los robos de bicicleta son más fáciles con una enorme Luna llena; la necesidad de una linterna es mucho menor... ¡El crimen es más fácil cuando el sitio está iluminado! ¿Duh?
+
+El Dr. John Hillier, profesor de astronomía en la University of Pittsburgh, se gana el premio de la "observación sensata" en este tema. Dice:
+
+    A menudo es probablemente sólo el caso de personas que recordaban que era Luna llena cuando algo ocurrió. Cuando no ocurre nada especial, no tienden a notar qué está haciendo la Luna, de modo que esta memoria selectiva mantiene viva la leyenda.
+
+
+Más cosas bestiales
+...................
+
+El lector Frank Womble ha enviado estas interesantes variaciones sobre un artículo de `la columna de la semana pasada <randi20070803.html#otro-mito-favorito-estall>`__, mostrando que nos perdimos éstas. Dice Frank:
+
+    | 666 = número de la Bestia
+    | 665 = hermano mayor de la Bestia
+    | 660 = número aproximado de la Bestia
+    | 66600 = código postal de la Bestia
+    | $665,95 = precio al por menor de la Bestia
+    | DCLXVI = número romano de la Bestia
+    | 666,0000 = número de alta precisión de la Bestia
+    | 0,666 = número de la Millibestia
+    | /666 = denominador común de la Bestia
+    | |radic|\ -666 = número imaginario de la Bestia
+    | 6,66 :sup:`e3` = Bestia de punto flotante
+    | 1010011010 = número binario de la Bestia
+    | 6, uh... ¿cuál era ese número otra vez? = número de la Bestia Rubia
+    | 1-666 = clave de área de la Bestia
+    | 666 mph = límite de velocidad de la Bestia
+    | $699,30 = precio de la Bestia más 5% de impuesto sobre las ventas
+    | $769,95 = precio de la Bestia con todos accesorios y alma de repuesto
+    | $656,66 = precio Walmart de la Bestia
+    | $646,66 = mejor precio Walmart de la Bestia de la siguiente semana
+    | Phillips 666 = gasolina de la Bestia
+    | Ruta 666 = camino de la Bestia
+    | 666 F = temperatura de horno para asar Bestia
+    | 352 = temperatura de horno para asar Bestia en Europa
+    | 666(k) = plan de jubilación de la Bestia
+    | 666 mg = mínimo de Bestia diario recomendado
+    | 6,66% = tasa de interés compuesto en el 1º Banco Bestia del Infierno, depósito mínimo, $666
+    | $666/hr = facturación por hora del abogado de la Bestia
+    | Lotus 6-6-6 = hoja de cálculo de la Bestia
+    | Word 6.66 = procesador de textos de la Bestia
+    | i66686 = CPU de la Bestia
+    | 665,9997856 = número de la Bestia en un Pentium
+    | 666i = BMW de la Bestia
+    | DSM-666 (revisado) = manual de diagnóstico y estadística de la Bestia
+    | 1232 Octal, Apt. 29A = dirección hexadecimal de la Bestia
+    | 668 = vecino de la Bestia
+    | 333 = El Semi-Cristo
+
+Nota: algunos de los anteriores son sólo aproximaciones, y no deben ser utilizados en invocaciones religiosas u otras aplicaciones fantasiosas...
+
+
+Gato loco
+.........
+
+.. image:: http://www.randi.org/images/commentary/200708/cat.jpg
+   :alt:
+   :align: right
+
+Las recientes noticias en los medios se han regocijado sobremanera y se aprovecharon de una historia fantasiosa sobre gatos -o al menos de uno llamado "Oscar"- que puede sentir cuando las personas están a punto de morir. Este particular felino vive en una casa de reposo en Providence, Rhode Island, y "despierta de su siesta, abriendo un solo ojo para inspeccionar su reino", de acuerdo con un artículo del Dr. David M. Dosa de la Brown University. El Dr. Dosa informa que Oscar se acurruca con los pacientes en el momento justo antes de que expiren, -un relato sin corroborar que provee afirmaciones algo místicas sobre las capacidades cognitivas de los animales, aunque indudablemente los animales tienen algunos especiales sentidos no-humanos que podrían suministrarles datos que pueden sorprender a un humano, a través de factores tales como olor, ritmo respiratorio, y movimientos particulares. Es bien sabido que algunos animales incluso pueden detectar el campo magnético de la Tierra, y que los elefantes se comunican por medio de señales de infra-sonido que los humanos no pueden oír. Sin embargo, las enfermeras experimentadas -simples seres humanos- son a menudo capaces de tal percepción por simple observación.
+
+Por supuesto, los medios de noticias quedaron muy divertidos por el hecho de que este informe se originara en el prestigioso New England Journal of Medicine, y asumió un ambiente de realidad por esa afiliación. Sin embargo, resulta que la información de la prensa popular sobre Oscar el Gato en realidad proveyó más análisis científico que el artículo de la NEJM, citando a expertos en comportamiento animal que especularon sobre las muchas maneras en que podría lograr su hazaña. Tampoco conocemos el porcentaje de éxitos de Oscar. ¿Se llevaron registros de la cantidad de veces que visitó a personas que no murieron? Creo que no. No son los buscados datos de corroboración, y echen un vistazo a la observación del Dr. John Hillier sobre el tema de la Luna llena, arriba...
+
+
+Sudáfrica, ¿otra vez?
+.....................
+
+Es difícil de creer, pero esta nación parece estar considerando otra vez ideas fantasiosas sobre la realidad, esta vez una invención sudafricana -el sistema de orientación de materia (MOS)- que afirma haber encontrado cuerpos vivos tanto como muertos, y de haber sido utilizado en el misterioso caso, internacionalmente famoso, de la niña pequeña perdida, Madeleine McCann. Un programa de S.A. TV titulado "Carta Blanca" relató cómo esta milagrosa invención había solucionado, también posiblemente, la desaparición de seis niñas que se creían fallecidas a manos de un infame pederasta llamado Gert van Rooyen y su cómplice, Joey Haarhoff, a fines de 1980.
+
+El "inventor", un ex-coronel de la policía llamado Daniel Krugel, director del servicio de seguridad en la Central University of Technology en Bloemfontein, parece remiso a comentar sobre el asunto de Madeleine, pero no fue la única pregunta que le hicieron. Mucho más básicas son las afirmaciones tecnológicas que ofrece de este dispositivo, afirmaciones que hacen parecer sensatas las ideas de Tom Swift. Su invención, dice, usa una pequeña muestra de material "firma" y "similar" -como un único pelo- para "localizar geográficamente y con toda precisión el cuerpo principal del que proviene", como Carta Blanca explicó a sus ansiosos telespectadores. Krugel afirmó haber "localizado con toda precisión" la casa de Van Rooyen en Capital Park, Pretoria, con este trozo de farsa tecnológica, aunque ocurrió que estaba a menos de dos kilómetros del último lugar donde se pensaba que las niñas perdidas fueron vistas... ¡Cómo lo sabía, debemos preguntarnos!
+
+A los telespectadores de Carta Blanca les dijeron:
+
+    La invención está pensada para estar basada en la física cuántica, y un sistema de localización global, o GPS, es usado para definir el área de búsqueda.
+
+¡Bien, con eso me alcanza! Cuando aparece la palabra "cuántico", sabemos que una invención es genuina, ¿correcto? Desafortunadamente para nosotros, pero muy afortunadamente para el Coronel Krugel, los sospechosos Van Rooyen y Haarhoff murieron luego de una persecución policial. ¡Caramba! ¡Pero si hay un GPS contenido en el MOS, puede ser determinado por un simple examen... y todavía *el dispositivo nunca ha sido revisado*! ¿Por qué no,  preguntamos?
+
+Dice Krugel:
+
+    Preveo que el MOS tendrá muchas más aplicaciones, al ser capaz de identificar y ubicar materiales diferentes, ayudar con la detección de material en las investigaciones criminales, forenses y médicas, en geología y minería, tanto como la detección de materia bioquímica.
+
+Y, nos dicen, actualmente se llevan a cabo pruebas del MOS en ambientes controlados. Todo esto nos lleva a ofrecer con entusiasmo al Coronel Daniel Krugel, y a Carta Blanca, el premio de un millón de dólares de la JREF, si el MOS puede operar como se alega. Las pruebas tomarían menos de una hora, y ya tenemos expertos en alerta in situ para entrar en acción tan pronto como Krugel o Carta Blanca nos den la palabra. Ahora, entendemos que una clarividente llamada Marietta Theunissen [vean http://www.randi.org/jr/043004bad.html#2] ha sido convocada, ¡de modo que ésta podría ser una muy importante validación de poderes místicos y/o tecnología avanzada!
+
+Sin embargo, sabiendo qué renuentes son los trabajadores sudafricanos de las maravillas en aceptar nuestro premio de un millón de dólares, en la JREF casi dudamos que debamos correr a prepararnos para la acción, aunque R7.015.250 es una bastante buena cantidad de dinero...
+
+.. figure:: http://www.randi.org/images/commentary/200708/Charles.jpg
+   :alt:
+   :figwidth: 204
+
+   ¡Es maravilloso!
+
+Mientras estábamos publicando la columna, el ministro oficial sudafricano Charles Nqakula ha aparecido en el e.tv "3r Grado" expresando su entusiasmo por el dispositivo y especulando que la policía podría hacer buen uso de él, y algunos de los ex-colegas de Krugel de la policía de Bloemfontein y el pequeño pueblo de Brandfort, Free State, creen que es "un obsequio de Dios".
+
+¿Cómo es posible que hubiéramos dudado...?
+
+Ese silencio atronador que ustedes escuchan es del Coronel Krugel y Carta Blanca...
+
+
+Pregunte a los psíquicos
+........................
+
+El lector Ray Trinidad, de Tauranga, Nueva Zelanda, dice:
+
+    Me gustaría compartir con usted y sus lectores la caída en la superstición y tontería de nuestro periódico local, La Bahía de Plenty Times. Bien, ellos se han prendido a un gran nuevo truco de mercadotecnia tras los talones del dólar fantasioso...
+
+    El sábado 4 de agosto de 2007, el periódico pregonó el arribo de una nueva columna llamada "Pregunte a los psíquicos", con tres (!) protagonistas "clarividentes, médiums, sanadores espirituales, psíquicos y canalizadores espirituales, y tenga toda una vida de experiencia de los mundos espirituales y psíquicos entre ellos". Pidieron a los lectores que escribieran sus problemas urgentes y el trío (parece que no puedo quitar la imagen de las tres brujas de Macbeth de mi mente) harán todo lo posible para proveer las respuestas. Después de todo, como dijo uno de ellos:
+
+        Queremos que las personas enfrenten sus desafíos y encuentren la paz interior.
+
+    La primera columna salió en la misma edición y contenía joyas psíquicas trascendentales como:
+
+        (Respecto a un audífono perdido) Verifique en objetos perdidos donde el propietario ha estado.
+
+        (Respecto a anillos de diamantes perdidos) Trate de relajarse y pensar en la última vez que los vio y podrá encontrarlos más fácilmente. Revise en el lavadero, incluso la canasta y el lavarropas.
+
+    Vaya, ¿las personas necesitaban que unos psíquicos les dijeran eso?
+
+    El resto de las preguntas fueron respondidas con las acostumbradas evasivas: "Sentimos...", "Tenemos la impresión...", y el toque vago pero misterioso de "El... propósito ha sido servido..."
+
+    Desgraciadamente, esto refleja un continuado descenso hacia tierras de chifladura, con un desvío hacia Villa Fantasiosa aquí en Nueva Zelanda. Oh bien, La Bahía de Plenty Times ha perdido un lector que pagaba, ¿pero me pregunto cuántos ganará por la inclusión de este disparate?
+
+
+¿A Attenborough no le interesa?
+...............................
+
+Respecto al `artículo principal de nuestra columna de la semana pasada <randi20070803.html#descarada-supresi-n-de-la-ciencia>`__, el lector Tom Cole, Asistente de Redacción en Radio Times Digital Media,  nos dice:
+
+    Vaya, parece que a la BBC no le interesa que la EO haya hecho las ediciones. Me enviaron esto como parte de un correo electrónico, hoy temprano, al parecer un enfoque sugerido a los empleados de la BBC cuando sean confrontados con preguntas:
+
+        Guía de P&R - "Vida de los Mamíferos"
+
+        P: ¿Conocen ustedes este caso en los Países Bajos? ¿Cuál es su política sobre que las difusoras editen sus programas?
+
+        R: Sí, lo conocemos. No es raro que se realicen leves ediciones. La BBC permite que las difusoras hagan una cantidad mínima de ediciones por razones de programación.
+
+        P: ¿Qué quiere decir con razones de programación?
+
+        R: Cuestiones como diferentes extensiones de pausas comerciales, de acuerdo con reglas locales (p. e. desnudos, palabrotas).
+
+        P: ¿Cuál es la opinión de la BBC sobre estas ediciones hechas por la EO?
+
+        R: Las ediciones por programación son hechas por la difusora, no por la BBC, de modo que cualquier pregunta sobre ellas debe ser dirigida a la EO.
+
+        P: ¿Qué piensa David Attenborough sobre los cambios en su programa?
+
+        R: Attenborough no está involucrado en este asunto. La licencia de la EO para la serie es consistente con la de la BBC.
+
+    Más adelante en este correo electrónico, al parecer se dice que Attenborough no tiene ningún comentario específico que hacer sobre el asunto. Para ser franco, estoy un poco desilusionado por esta reacción pero supongo que esto es la gran empresa. De todos modos, así estamos sobre el asunto de la EO...
+
+¡Qué decepcionante! Es un clásico soslayar el tema, oficial y evasivo. Realmente pienso que cualquier otra autoridad de TV en cualquier lugar del mundo civilizado -con excepción de Venezuela, como hemos aprendido recientemente- quedaría no sólo alarmada sino también seriamente preocupada por tal flagrante expurgación, y todavía me gustaría ver mejores pruebas de que Attenborough está aceptando plácidamente esta edición de su trabajo...
+
+Respecto al asunto de Attenborough, vayan a youtube.com/user/Obdurodon y vean varias versiones de este video que muestran qué tan drásticamente fue cortado el significado y el propósito...
+
+
+Una buena experiencia
+.....................
+
+.. image:: http://www.randi.org/images/commentary/200708/SFMartha.jpg
+   :alt:
+   :align: right
+
+La semana pasada disfruté del privilegio de asistir y hablar en la segunda conferencia anual "Science Foo" en Mountain View, California, patrocinada por Google, Nature Magazine, y O'Reilly Media, Inc., en Googleplex -que en sí mismo es un carnaval. Vean Scienceblogs.com Sci Foo Recap. Nuestra amiga Eugenie Scott estaba ahí, y también Martha Stewart, que sufrió un par de interesantes trucos que le impuse. Fue una experiencia embriagadora, realmente.
+
+.. image:: http://www.randi.org/images/commentary/200708/SFKamen.jpg
+   :alt:
+   :align: right
+
+El inventor Dean Kamen también estaba ahí, y aunque me prometió una prueba completa en un Segway Transporter, todavía tengo que esperar esa emoción... Caray. ¡Quedé más que entusiasmado al escuchar de Dean que su invento de un brazo robótico -del que vi una versión anterior en la conferencia TED en marzo- ha sido perfeccionado hasta el punto de que uno de ellos puede ser atado a la persona, ¡y que puede hacerse la conexión *con el sistema nervioso por medio de simples etiquetas adhesivas*! Me dijo que se necesitan menos de 24 horas para que un usuario domine esta maravilla. De veras confieso que se me llenaron los ojos de lágrimas cuando reconocí que este invento será una bendición para las fuerzas armadas de los EE.UU.; tienen 1.600 sin sus miembros debido a la intervención en Irak... Dean Kamen califica, indudablemente, entre los benefactores humanitarios de nuestra era...
+
+
+Puntos de Shermer
+.................
+
+Vayan a http://www.skeptic.com/eskeptic/07-08-08.html y vean el sitio de Michael Shermer -excelente como de costumbre- y vayan hasta bien abajo, donde encontrarán "Michael Shermer Spoonbending". Hagan clic en "ver el video" y vean una ridícula sesión con personas de otro modo sensatas que tratan de doblar cucharas con la mente, dirigidas por un tipo llamado Houck. Dirijo su atención a algunos puntos importantes. Primero, a 3:52 en el video, un hombre muestra un utensilio doblado, y dice:
+
+    No hay manera en que pudiera haber doblado esto con fuerza física.
+
+Tonterías. Mi pregunta para él sería: "¿Trata con frecuencia de doblar cucharas y tenedores con sus manos *sin* aplicar poderes místicos a la tarea?". Por supuesto que no. Nadie sabe qué tan fácilmente se pueden doblar físicamente tales utensilios, particularmente los baratos y algo chatarra que les proporciona Houck. Luego, a 4:05, una mujer declara:
+
+    ... y éstos empezaron a sentirse como metal después de que llegué a este punto.
+
+Está tratando de decirnos que antes de eso, se sentían como algo menos que metal, luego de repente se pusieron duros otra vez. Ella no sabe algo que todos nosotros los dobladores de utensilios sabemos muy bien: una vez que un utensillo es doblado -como el suyo- es excepcionalmente difícil enderezarlo otra vez. Un poco de conocimiento le habría ayudado a comprender este profundo misterio.
+
+A 4:25 en el video, otra mujer dice:
+
+    ... se doblan bastante fácilmente, pero... umm... no... no puedo enderezarlo tan fácilmente como lo doblé.
+
+Esta víctima del timo tiene el mismo problema que la persona anterior, no saber qué se espera mientras se lleva a cabo una tarea muy rara.
+
+Los imbéciles pagan cientos de dólares para tomar cursos enteros en el arte de doblar cucharas, créase o no. Sólo piensen en eso por un momento: literalmente hay miles de personas ahí afuera que pagarán para escuchar a un agente de publicidad y ser convencidas de que pueden subvertir la naturaleza y desconcertar a la ciencia de la metalurgia, ¡de algún modo doblando cubiertos, simplemente con sus mentes! Y, como apenas necesito señalar, el instructor o cualquiera de sus alumnos, son indudablemente elegibles para solicitar el premio de un millón de dólares de la JREF.
+
+Pero ninguno de ellos lo hace...
+
+.. image:: http://www.randi.org/images/commentary/200708/button.jpg
+   :alt:
+   :align: right
+
+Me enviaron una foto del ridículo distintivo que les otorgan a los que logran destrozar cubiertos en estas sesiones. Y, he adjuntado mi propia versión de esa prestigiosa medalla...
+
+
+En conclusión
+.............
+
+.. image:: http://www.randi.org/images/commentary/200708/RD.jpg
+   :alt:
+   :align: right
+
+Ross Sargent me recuerda que la nueva serie de TV de Richard Dawkins empieza la próxima semana en el Reino Unido. Y escribe:
+
+    Vaya a http://tinyurl.com/2hzdwk. La última parte no tiene precio. Se titula, "El médium que encontró al padre de Dawkins del otro lado":
+
+        Cuando Dawkins consultó a una médium que había aparecido en la televisión diurna y que cobra £50 por instantáneas lecturas telefónicas, ella dijo que podía escuchar o ver a su padre "del otro lado".
+
+        Él hizo todo lo posible para no parecer sorprendido mientras ella continuaba: "Soy consciente de su padre parado detrás de usted. A un nivel espiritual no era el hombre más abierto con sus ideas y sus sentimientos. Ummm, quiero decir algo como lo quiero y me importa... pero ése no habría sido su carácter". (Ni el de muchas figuras paternas de clase media de su generación, podría haber dicho un escéptico.)
+
+        Pero Dawkins la dejó continuar. "Soy consciente de que usted no tiene la fotografía de su papá consigo" -era verdad, no la tenía-, "de modo que estoy un poco preocupada del por qué. Así que voy a preguntarle: ¿por qué no la tiene?" Dawkins tenía una bomba lista: "Bien, podría darse cuenta de que no la tengo porque viene a la casa una vez a la semana". "Oh, todavía está aquí", dijo ella, y añadió después de unos segundos: "Siento que no está funcionando".
+
+        "¿Es porque usted pensaba que mi padre estaba muerto y descubrió que todavía está vivo?"
+
+        "No, nada que ver con eso. No lo sé".
+
+        Ella comentó más tarde: "Como clarividente una es sólo tan buena como el cliente".
+
+La nueva serie, "Enemigos de la Razón", empieza en Channel 4 en el Reino Unido el 13 de agosto.
+
+La James Randi Educational Foundation está orgullosa y feliz de anunciar la selección de nuestros ganadores 2007 de becas académicas. Las personas ganadoras han sido contactadas por correo electrónico, y la columna semanal pronto incluirá los nombres y ubicaciones de los cuatro ganadores, en Texas, Oregon, Nueva Zelanda, y Nueva Escocia. Muchas gracias a todos los que las solicitaron. Esperamos con ansias el programa de becas del próximo año y animamos a todos a mantener vigilado este sitio web para detalles adicionales.
+
+
+|firmarandi|
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+.. include:: <isotech.txt>
+
+.. meta::
+    :author: Traducido por Graciela Lorenzo Tillard
+    :description: Noticia apabullante — Más cosas bestiales — Gato loco — Sudáfrica, ¿otra vez? — Pregunte a los psíquicos — ¿A Attenborough no le interesa? — Una buena experiencia — Puntos de Shermer — En conclusión

@@ -1,0 +1,53 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH500
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH505_2
+.. link: http://talkorigins.org/indexcc/CH/CH505_2.html
+.. date: 2003-5-7 02:00:00+00:00
+.. title: CH505.2: Una expedición turca de 1883 encontró el arca de Noé
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Una expedición turca de 1883 encontró el arca de Noé»
+
+En 1883, una comisión turca que inspeccionaba el Ararat en busca de posibles condiciones para un alud encontró parte del arca saliendo entre 5 y 10 metros del pie de un glaciar, de acuerdo con el periódico británico *Prophetic Messenger*.
+
+**Fuente:**
+
+LaHaye, Tim y John Morris, 1976. *The Ark on Ararat*, Nashville: Thomas Nelson Inc.
+
+Respuesta
+===========
+
+1. La historia tiene varias inconsistencias ([Bailey_1989]_, 85):
+
+   * El informe menciona que la expedición atravesó un denso bosque y vadeó una corriente que les llegaba hasta la cintura, lo que contradice muchas otras descripciones detalladas de la montaña.
+   * Los visitantes reconocieron la madera como "madera de gofer" [*]_, pese al hecho de que la madera era antigua y aparentemente estaba pintada, y pese al hecho de que nadie sabe lo que es la madera de gofer.
+   * La publicación original de la noticia que cita *Prophetic Messenger* nunca se encontró.
+
+   La historia es probablemente ficticia.
+
+Referencias
+==============
+
+.. [Bailey_1989] Bailey, Lloyd, 1989. *Noah: The Person and the Story in History and Tradition*. Columbia, SC: University of South Carolina Press.
+
+
+Notas de Sin Dioses
+====================
+
+.. [*] *Gopherwood* en el artículo original, *gofer* en el manuscrito hebreo. *Gopherwood* es una palabra que en inglés aparece una única vez en la traducción de la `Biblia del Rey Jacobo <https://es.wikipedia.org/wiki/Biblia_del_rey_Jacobo>`_ exclusivamente para describir la madera del Arca de Noé. La Septuaginta griega la traduce como *xylon tetragonon*, "madera cuadrada". La Vulgata latina traduce *lignis levigatis*, "madera pulida". Se ha especulado con muchos tipos de madera a la que podría referirse el texto original. Probablemente por eso, y para que tenga sentido náutico, las biblias en lenguaje moderno lo traducen como "madera resinosa", o lo agregan como nota cuando eligen el ciprés o el cedro.
+
+   (Para más datos véase el artículo correspondiente en la Wikipedia_ en inglés.)
+
+.. _Wikipedia: https://en.wikipedia.org/wiki/Gopher_wood
+
+
+/////
+
+Anterior: :doc:`CH505_1` | Siguiente: :doc:`CH505_3`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

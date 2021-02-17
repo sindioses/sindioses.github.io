@@ -1,0 +1,42 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB902
+.. link: http://talkorigins.org/indexcc/CB/CB902.html
+.. date: 2004-02-26
+.. title: CB902: La microevolución es diferente de la macroevolución
+.. description: Respuesta a la afirmación creacionista «La microevolución es diferente de la macroevolución»
+.. type: afirmacrea
+
+**Fuente:**
+
+Wallace, Timothy, 2002. Five major *evolutionist* misconceptions about evolution. http://www.trueorigins.org/isakrbtl.asp
+
+Respuesta
+============
+
+1. Microevolución y macroevolución son cosas distintas, pero en su mayoría involucran los mismos procesos. Microevolución se define como el cambio de frecuencias en los alelos (es decir, variación genética debido a procesos como selección, mutacón, mutacón, deriva genética o incluso migración) dentro de una población. No hay duda de que la microevolución ocurre (aunque algunos creacionistas, como Wallace, niega que se produzcan mutaciones). La macroevolución se define como cambio evolutivo a nivel de especie o superior, es decir, la formación de nuevas especies, nuevos géneros, y así sucesivamente. :doc:`La especiación <CB910>` se ha producido.
+
+   Los creacionistas han creado otra categoría para la cual usan la palabra "macroevolución". No tienen una definición técnica para ella, pero en la práctica la usan para indicar una evolución en un grado tal que no se ha observado aún. (Algunos creacionistas hablan sobre la macroevolución como el surgimiento de nuevas características, pero no está claro a qué se refieren con eso. Tomándolo literalmente, cambia gradualmente una característica de la aleta de un pez al miembro de un tetrápodo y luego al ala de un ave no sería macroevolución, pero un lunar en la piel que no tienen ninguno de tus padres sí lo sería.) Llamaré a esta categoría "supermacroevolución" para evitar confundirla con la verdadera macroevolución.
+
+   La especiación es distinta de la microevolución en que la especiación normalmente requiere un factor de aislamiento para mantener separadas las nuevas especies. El factor aislante no necesita ser biológico; una nueva cadena montañosa o el curso cambiado de un río pueden constituir uno de esos factores. Aparte de eso, la especiación no requiere procesos adicionales a los de la microevolución. Algunos procesos como la selección disruptiva (la selección natural que separa más dos estados de la misma característica) y la poliploidia (una mutación que crea copias del genoma entero) pueden estar involucrados con más frecuencia en la especiación, pero no son sustancialmente diferentes de la microevolución.
+
+   La supermacroevolución es más difícil de observar directamente. Sin embargo, no hay ni un ápice de evidencia de que requiera algo más que microevolución. Cambios grandes y súbitos probablemente ocurren con poca frecuencia, pero no son la única fuente de cambios importantes. No hay razón para pensar que cambios pequeños a lo largo del tiempo no se acumulen para resultar en cambios grandes, y sí hay muchas razones para pensar que sí se pueden acumular. Los creacionistas afirman que la microevolución y la supermacroevolución son diferentes, pero nunca han proporcionado un ápice de evidencia para respaldar su afirmación.
+
+2. Hay pruebas de la supermacroevolución en forma de cambios progresivos en el registro fósil y en el patrón de similitudes entre los seres vivos que muestran una ausencia de diferentes "tipos". Estas pruebas produjeron que alguna forma de evolución fuera aceptada incluso antes de que Darwin propusiera su teoría.
+
+Otras lecturas
+===================
+Wilkins, John, 1997. Macroevolution. http://www.talkorigins.org/faqs/macroevolution.html
+
+
+/////
+
+Anterior: :doc:`CB901_3` | Siguiente: :doc:`CB902_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

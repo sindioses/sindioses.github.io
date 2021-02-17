@@ -1,0 +1,47 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB381
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB381
+.. link: http://www.talkorigins.org/indexcc/CB/CB381.html
+.. date: 2004-6-26
+.. title: CB381: Los hombres tienen menos costillas que las mujeres
+.. description: Respuesta a la afirmación creacionista «Los hombres tienen menos costillas que las mujeres»
+.. type: afirmacrea
+
+Tal como se relata en Génesis 2, Eva fue creada a partir de una de las costillas de Adán. Como consecuencia, los hombres tienen un par menos de costillas que las mujeres.
+
+**Fuente:**
+
+Informado por Root-Bernstein, 1995. (Ver abajo.)
+
+Respuesta
+============
+
+1. Los hombres y las mujeres tienen el mismo número de costillas.
+
+2. El relato del Génesis puede ser un mito explicativo de la ausencia de un hueso diferente. La mayoría de los mamíferos machos tienen un *báculo*, un hueso para endurecer el pene. Los seres humanos son una de las raras excepciones; en lugar de ello, se basa en la hidráulica. {{% biblia "Génesis 2:21-23" DHH %}} podría referirse a la remoción de este hueso de Adán. Un báculo, a diferencia de una costilla, se asocia con la reproducción. El cierre de la carne que se menciona en {{% biblia "Génesis 2:21" DHH %}} podría referirse al `rafe perineal`_, una "costura" en el pene y el escroto. El hebreo bíblico no tiene una palabra para designar el pene, de modo que se habría usado otra palabra. La palabra hebrea que significa "costilla" tiene otros significados, tales como las columnas de apoyo de los árboles, o las maderas de las puertas; podría haberse referido en general a un apoyo estructural ([Gilbert_y_Zevit_2001]_).
+
+Referencias
+==============
+
+.. [Gilbert_y_Zevit_2001] Gilbert, Scott F. and Ziony Zevit. 2001. Congenital human baculum deficiency: The generative bone of Genesis 2:21-23. *American Journal of Medical Genetics* 101(3): 284-285.
+
+Otras lecturas
+==================
+
+Root-Bernstein, R. S. 1995. Darwin's rib. *Discover* 16(9) (Sept.): 38-41. http://www.msu.edu/~rootbern/evolution/darwinsrib.html
+
+
+.. _rafe perineal: https://es.wikipedia.org/wiki/Rafe_perineal
+
+
+/////
+
+Anterior: :doc:`CB370` | Siguiente: :doc:`CB400`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

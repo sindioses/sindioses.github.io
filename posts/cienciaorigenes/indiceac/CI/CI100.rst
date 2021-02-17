@@ -1,0 +1,94 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CI, CI100
+.. author: Mark Isaac, traducción de Paulina Madariaga
+.. nocomments: True
+.. slug: CI100
+.. link: http://talkorigins.org/indexcc/CI/CI100.html
+.. date: 2004-3-4 02:00:00+00:00
+.. title: CI100: El diseño es detectable
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «El diseño es detectable»
+
+La vida luce inteligentemente diseñada debido a su complejidad y disposición. Del mismo modo que un reloj presupone un relojero, también la vida presupone un diseñador.
+
+**Fuente**
+===========
+
+Cicero, Marcus Tullius. 1896 (45 B.C.). *De Natura Deorum (On the Nature of the Gods)*, transl. Francis Brooks. London: Methuen; Book 2, chap. 34. http://oll.libertyfund.org/Texts/Cicero0070/NatureOfGods/HTMLs/0040_Pt03_Book2.html#hd_lf040.label.159
+
+Paley, William, 1802. *Natural Theology: or, Evidences of the Existence and Attributes of the Deity.* London: J. Faulder.
+
+Davis, Percival and Dean H. Kenyon, 1989. *Of Pandas and People: The Central Question of Biological Origins* (2nd ed.). Dallas, TX: Haughton.
+
+Respuesta
+===========
+
+1. De acuerdo a la definición de diseño, necesitamos determinar algo sobre el proceso de diseño para poder inferir o presuponer diseño. Hacemos esto, ya sea observando el proceso mismo del diseño o comparándolo con el resultado de diseños ya conocidos. El único ejemplo conocido de diseño inteligente es el diseño humano. La vida, sin embargo, no luce como si hubiera sido hecha por seres humanos.
+
+2. Nadie discute que la vida no sea compleja. Sin embargo, complejidad no es lo mismo que diseño. Hay cosas simples que son diseñadas y cosas complejas que se originaron naturalmente. La complejidad no implica diseño; de hecho, la simplicidad es una meta de la mayoría de los diseños.
+
+3. En la mayoría de los casos, la inferencia del diseño se realiza porque las personas no pueden concebir una alternativa. Esto es simplemente un :doc:`argumento de incredulidad <CA100>`. Históricamente, se ha atribuido diseño sobrenatural a muchas cosas que hoy sabemos que se originan naturalmente, tal como los rayos, los arcoiris y las estaciones.
+
+4. La vida, como un todo, luce poco diseñada de acuerdo a los estándares humanos, por una serie de razones:
+
+   - En los diseños que conocemos, las innovaciones que ocurren en un producto, rápidamente se incorporan a otros productos, aun siendo muy diferentes. En la vida eucariótica, las innovaciones generalmente permanecen confinadas a un linaje. Cuando la misma clase de innovación aparece en distintos linajes (tal como las redes de las arañas, las orugas y los embiópteros), el detalle de su implementación difiere en los distintos linajes. Cuando uno rastrea esos linajes, se percata de inmediato de la gran diferencia entre la vida y el diseño. (Eldredge hizo esto: comparó trilobites y cornetas; [Walker_2003]_).
+
+   - En un diseño, una forma es acompañada de una función. Algunos creacionistas tienen esta expectativa ([Morris_1974]_). Sin embargo, la vida nos da muchos ejemplos de diferentes formas que cumplen la misma función (por ejemplo, diferentes estructuras para las alas de las aves, los murciélagos, los insectos y los pterodáctilos; diferentes órganos para hacer redes en las arañas, las orugas y los embiópteros; y por lo menos once diferentes tipos de orejas en los insectos), de la misma forma básica cumpliendo diferentes funciones (por ejemplo, el mismo patrón en los huesos de la mano humana, la aleta de una ballena, la pata de un perro y el ala de un murciélago), y de algunas estructuras y hasta de organismos completos sin una función aparente (por ejemplo, algunos órganos vestigiales, o criaturas viviendo en cuevas muy profundas, solitarias e inaccesibles).
+
+   - Como se dijo antes, la vida es compleja. El diseño busca la simplicidad.
+
+   - En el caso de los objetos diseñados, el proceso de manufactura del objeto es independiente de cualquier función del objeto mismo. Todos los objetos vivientes se reproducen por sí mismos.
+
+   - La vida carece de un plan. No hay especificaciones para estructura vivas o sus procesos. Los genes no describen totalmente el fenotipo de un organismo. Algunas veces, pese a la carencia de genes, las estructuras se forman de todos modos. Los organismos, a diferencia de los sistemas diseñados, se construyen a sí mismos en un contexto ambiental.
+
+   - La vida es derrochadora. Muchos organismos no se reproducen, y la mayoría de los cigotos fertilizados mueren antes de crecer. Se esperaría de un proceso diseñado que minimizara el derroche.
+
+   - La vida incluye muchos ejemplos de sistemas que se improvisaron a partir de partes que se usaban para otro propósito. Esto es lo que esperaríamos de la evolución, no de un diseñador inteligente. Por ejemplo:
+
+     - Los ojos de los vertebrados tienen un punto ciego, porque los nervios de la retina están frente a los fotoreceptores.
+
+     - En el casos de las orquídeas que proveen de una plataforma para que los insectos polinizadores aterricen, el tallo de la flor tiene una torcedura para mover la plataforma al lado inferior de la flor.
+
+   - La vida varía enormemente. En casi todas las especies, hay una variedad de valores para cualquier cosa que podamos medir. La "información" que especifica la vida es de muy poca tolerancia, en términos ingenieriles. Estos son algunos estándares.
+
+5. La vida es desagradable. Si la vida fue diseñada, entonces la muerte, la enfermedad y la putrefacción también debieron ser diseñadas, ya que son parte integral de la vida. Este es un problema estándar en la apología religiosa. Por supuesto, muchas cosas diseñadas también son desagradables (piensa en algunas armas), pero si el diseñador se supone que tiene estándares morales, entonces eso añade argumentos en contra de la hipótesis del diseño.
+
+6. El proceso de la evolución puede considerarse un proceso de diseño, y la complejidad y la disposición que vemos en la vida se acercan mucho más a lo que esperamos de la evolución que a ejemplos conocidos de diseño inteligente. De hecho, los ingenierons ahora utilizan el mismo proceso evolutivo para encontrar soluciones a problemas intrínsecamente complejos.
+
+7. Y la evolución, en sí misma, ¿luce diseñada? Cuando consideras que es necesaria la existencia de alguna clase de mecanismo adaptativo en la tierra cambiante para que la vida sobreviva, entonces si la vida fue diseñada, la evolución o algo parecido tendría que haberla diseñado.
+
+8. Afirmar ser capaz de reconocer diseño en la vida implica que la "no vida" es diferente, es decir, no fue diseñada. Afirmar que la vida se destaca por su diseño es afirmar que el diseñador inteligente no creó el resto del universo.
+
+9. Tal como aparece, la afirmación del diseño no hace ninguna predicción, por lo que no es científica y, por ende, es inútil. No ha generado investigación en lo absoluto.
+
+
+Referencias
+==============
+
+.. [Morris_1974] Morris, Henry M. 1985. *Scientific Creationism*. Green Forest, AR: Master Books, pg. 70.
+
+.. [Walker_2003] Walker, Gabrielle, 2003. The collector. *New Scientist* 179(2405) (26 July): 38-41.
+
+
+Lecturas recomendadas
+=========================
+
+Aulie, Richard P., 1998. A reader's guide to *Of Pandas and People* http://www.nabt.org/sub/evolution/panda1.asp
+
+Isaak, Mark, 2003. What design looks like. *Reports of the National Center for Science Education* 23(5-6): 25-26,31-35.
+
+Miller, Kenneth R., n.d. Of pandas and people: A brief critique. http://www.kcfs.org/pandas.html
+
+Pennock, Robert T., 1999. *Tower of Babel*. Cambridge, MA: MIT Press.
+
+Perakh, Mark, 2003. *Unintelligent Design*. Amherst, NY: Prometheus.
+
+/////
+
+Anterior: :doc:`CI010` | Siguiente: :doc:`CI100_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,37 @@
+﻿.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB300
+.. author: Mark Isaak. traducción de Samuel Martínez de la Iglesia
+.. nocomments: True
+.. slug: CB311
+.. link: http://www.talkorigins.org/indexcc/CB/CB311.html
+.. date: 2000-9-30
+.. type: afirmacrea
+.. title: CB311: La metamorfosis de la mariposa es demasiado compleja para haber evolucionado
+.. description: Respuesta a la afirmación creacionista «La metamorfosis de la mariposa es demasiado compleja para haber evolucionado»
+
+**Fuente:**
+
+Poirier, Jules and Kenneth B. Cumming, 1993. Design features of the monarch butterfly life cycle. *Impact* 237 (Mar.); http://www.icr.org/index.php?module=articles&action=view&ID=366
+
+Respuesta
+============
+
+1. Esa es la :doc:`falacia de la incredulidad personal <CA100>`. Porque uno no entienda cómo evolucionó la metamorfosis de la mariposa no significa que es demasiado compleja para haber evolucionado.
+
+   Ya existen patrones de crecimiento intermedios hasta la metamorfosis completa ya existen, y van desde el crecimiento sin metamorfosis (como con la lepisma) a la metamorfosis parcial (como con los insectos verdaderos y las efímeras), metamorfosis completa con relativamente poco cambio de forma (como los estafilínidos) y la metamorfosis que se ve en las mariposas. Seguramente es posible que etapas intermedias similares se hayan desarrolado con el tiempo para producir la metamorfosis de la mariposa desde un ancestro sin metamorfosis. De hecho, existe una explicación para la evolución de la metamorfosis basada en gran medida en cambios de la endocrinología del desarrollo ([Truman_y_Riddiford_1999]_).
+
+Referencias
+=============
+
+.. [Truman_y_Riddiford_1999] Truman, J. W. and L. M. Riddiford, 1999. The origins of insect metamorphosis. *Nature* 401: 447-452.
+
+
+/////
+
+Anterior: :doc:`CB310` | Siguiente: :doc:`CB311_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,41 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CC111
+.. link: http://www.talkorigins.org/indexcc/CC/CC111.html
+.. date: 2003-04-27
+.. title: CC111: El hombre de Malaquita fue hallado en arenisca cretácica
+.. description: Respuesta a la afirmación creacionista «El hombre de Malaquita fue hallado en arenisca cretácica»
+.. type: afirmacrea
+
+Diez esqueletos humanos modernos fueron excavados de una profundidad de dieciocho metros en la arenisca cretácica inferior de Dakota, que está fechada en 140 millones de años de antigüedad y se conoce por los mismo dinosaurios que el Monumento Nacional de los Dinosaurios.
+
+**Fuente:**
+
+Patton, Don, n.d. Official world site Malachite Man. http://www.bible.ca/tracks/malachite-man.htm
+
+Respuesta
+===========
+
+1. Los esqueletos son los mismos que los huesos desacreditados del :doc:`hombre de Moab <CC110>`, aparentemente con el agregado de los esqueletos de ocho entierros indios cercanos ([Kuban_1998]_).
+
+2. Aparentemente todos los detalles datos en el relato son falsos. Los huesos se hallaron a unos cinco metros de profundidad en arena blanda y sin consolidar. Claramente eran intrusivos (es decir, enterrados mucho después de que se asentaron los sedimentos). La formación de Dakota tiene aproximadamente entre 90 y 115 millones de años de antigüedad, lo que la ubica entre el Cretácico Temprano y el Cretácico Tardío. El Monumento Nacional de los Dinosaurios está en la Formación de Morrison, que es jurásica ([Kuban_1998]_).
+
+3. La gente que hace afirmaciones sobre el hombre de Malaquita no han cooperado en proporcionar información que pudiera usarse para verificar su afirmación. Esto sería sorprendente si creyeran que sus afirmaciones pueden ser realmente verificadas.
+
+Enlaces y referencias
+========================
+
+.. [Kuban_1998] Kuban, Glen J. 1998. The life and death of Malachite Man. http://members.aol.com/gkuban/moab.htm
+
+
+/////
+
+Anterior: :doc:`CC110` | Siguiente: :doc:`CC112`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

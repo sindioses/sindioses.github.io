@@ -1,0 +1,41 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA110
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA114_28
+.. link: http://www.talkorigins.org/indexcc/CA/CA114_28.html
+.. date: 2005-02-18 02:00:00+00:00
+.. title: CA114.28: Steno era creacionista
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Steno era creacionista»
+
+Nicolai Stenonis, también conocido como Nicolaus Steno, hizo importantes avances en anatomía y estratigrafía; se lo acredita con fundar la geología como disciplina científica. Era creacionista.
+
+**Fuente:**
+
+Morris, Henry M. 1982. Bible-believing scientists of the past. *Impact* 103 (Jan.), http://www.icr.org/index.php?module=articles&action=view&ID=185
+
+Respuesta
+==========
+
+1. Steno (1631-1686) vivió mucho antes de que se propusiera la teoría de la evolución, cuando la Biblia era universalmente aceptada como historia. Steno era un hombre de su tiempo. Sin embargo, lo poco que escribió sobre geografía no se expresó sobre la edad de la Tierra.
+
+2. El creacionismo tuvo su parte en evitar que las teorías de Steno —y la geología en general— fueran ampliamente aceptadas durante varias décadas. En particular, la creencia en una Tierra joven excluía episodios repetidos de deposición y montañas que se elevaban lentamente sobre el mar.
+
+3. Las teorías de Steno estaban fundadas en reglas de inferencia enteramente "naturalistas". Explicó el pasado en términos de procesos existentes, por ejemplo sedimentos depositados sobre estratos más antiguos y moldeándose en formas preexistentes ([Cutler_2003], cap. 10).
+
+Otras lecturas
+===============
+
+.. [Cutler_2003] Cutler, Alan. 2003. *The Seashell on the Mountaintop*. New York: Dutton.
+
+/////
+
+Anterior: :doc:`CA114_22` | Siguiente: :doc:`CA115_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

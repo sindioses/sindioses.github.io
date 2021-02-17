@@ -1,0 +1,47 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CG020: Todos los lenguajes y religiones podrían desarrollarse en 3000 años
+.. description: Respuesta a la afirmación creacionista «Todos los lenguajes y religiones podrían desarrollarse en 3000 años»
+.. slug: CG020
+.. link: http://www.talkorigins.org/indexcc/CG/CG020.html
+.. tags: CG, CG000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-5-7
+
+En 3000 años hay tiempo suficiente para que se desarrollen todos los lenguajes y las religiones, lo que es consistente con una tierra joven.
+
+Respuesta
+=========
+
+1. El hecho de que algo puede suceder en menos de 3000 años no es prueba de que la tierra es joven.
+
+2. Las religiones pueden, de hecho, desarrollarse rápidamente. Véase el caso de la Cienciología, que surgió en mucho menos de una generación. Los lenguajes también pueden desarrollarse rápidamente, en unas pocas generaciones. El Lenguaje de Signos Estadounidense (*American Sign Language*) es un ejemplo.
+   
+   Sin embargo, las pruebas muestran que los lenguajes y las religiones son considerablemente más antiguas. Por ejemplo, todas las familias de lenguajes de América del Norte y del Sur salvo las esquimo-aleutianas son distintas de los lenguajes del Viejo Mundo, y América del Norte no fue colonozada hasta al menos 12.000 años atrás. El candidato más temprano de lenguaje escrito tiene unos 8000 años ([Li_et_al_2003]_).
+
+   Las coincidencias entre las pruebas arqueológicas y las lingüísticas llevan a la conclusión de que los austronesios que vivieron en Taiwán hace 6000 años tenían cerdos ([Diamond_1997]_, 342-345).
+
+Referencias
+===========
+
+.. [Diamond_1997]    Diamond, Jared, 1997. *Guns, Germs and Steel*. New York: Norton.
+.. [Li_et_al_2003]    Li, X., G. Harbottle, J. Zhang and C. Wang, 2003. The earliest writing? Sign use in the seventh millennium BC at Jiahu, Henan Province, China. *Antiquity* 77: 31-43. 
+
+Otras lecturas
+=================
+Coulmas, F., 1989. *The Writing Systems of the World*. Malden, MA: B. Blackwell.
+
+Stassen, Chris, 1997. The age of the earth. http://www.talkorigins.org/faqs/faq-age-of-earth.html
+
+		
+/////
+
+Anterior: :doc:`CG010` | Siguiente: :strong:`CG030`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

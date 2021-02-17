@@ -1,0 +1,328 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Traducciones de James Randi
+.. date: 2005-04-29 00:00:00
+.. type: randi
+.. author: James Randi, traducción de Marcelo Huerta San Martín
+.. title: Me parece justo. Corrección. Piden cuentas al curanderismo: continuación. Más monitores para bebés fantasmales. Sitio web informativo. Corea del Norte también está activa. Esto debería funcionar. Más afirmaciones estúpidas sobre Penta. Un buen ejemplo para seguir. Pensamiento mágico en el NIH. Ramtha se entusiasma. Buen artículo sobre OVNIs. Divertido error desde España. En conclusión...
+
+.. contents:: Contenido
+   :class: sidebar
+   :local:
+
+Algo de infrecuente sentido común
+.................................
+
+.. figure:: http://www.randi.org/images/042905-Bible.jpg
+   :alt:
+   :align: center
+   :figwidth: 255
+
+   **¡Impura!**
+
+El lector Shawn Bishop, de Saitana, Japón, escribe:
+
+    En un esfuerzo para controlar de difusión de gérmenes y “superbichos” en los hospitales ambulatorios, la última táctica es retirar la Santa Biblia de las mesas de noche de las habitaciones de los pacientes. Un hospital de la costa este de Canadá se encuentra inmerso en una pequeña controversia sobre el tema, pero a mí me suena a simple sentido común. Si uno imagina que paciente tras paciente leen o usan el libro, cualquier contagio puede haber quedado residente en las superficies del libro, esperando que el próximo paciente o visitante levante el libro y se contagie. Por supuesto, la decisión no complace a la comunidad religiosa, pero como dice el hospital, “los pacientes pueden traer sus propias Biblias si lo desean”.
+
+    Qué ironía. Después de todos esos siglos infructuosos en los que la iglesia intentó {ward off} la pestilencia y la plaga adhiriendo a la “voluntad de Dios”, ¡la práctica médica moderna ahora reconoce que la presencia de la Biblia en las habitaciones de los hospitales puede ser una fuente de “pestilencia y plaga”! Esto demuestra que ni siquiera el libro de Dios está por encima de las leyes de la biología y la naturaleza. Y esto, por supuesto, no es una sorpresa en lo absoluto.
+
+    Artículo en: http://www.cbc.ca/story/canada/national/2005/04/22/hospital-bibles050422.html
+
+Me parece justo
+...............
+
+..
+   image:: http://www.randi.org/images/042905-Stickers.jpg
+   :alt:
+   :align: right
+
+.. compound::
+   :class: pegatinas
+
+   .. admonition:: pegatina1
+
+      Este libro contiene material sobre evolución. La evolución es una teoría, no un hecho, con relación al origen de los seres vivos. Este material debe ser encarado con una mente abierta, estudiado cuidadosamente, y considerado de forma crítica.
+
+   .. admonition:: pegatina2
+
+      Este libro contiene material sobre creacionismo. El creacionismo no es una teoría, ni qué decir un hecho: es una noción religiosa sobre el origen de la vida, que no está apoyada por la evidencia. Este material debe ser encarado con una mente abierta, estudiado cuidadosamente, y considerado de forma crítica.
+
+Estas son dos pegatinas que podrían ponerse en libros de texto escolares de biología. La verde ya fue creada para usarla en Georgia, la cyan la inventé yo. Yo diría que si se usa la verde, habría que acompañarla con la otra...
+
+Corrección
+..........
+El lector y amigo Ian Rowland, del Reino Unido, me corrige sobre la mención de la semana pasada sobre la BBC y su aparente caída en la pseudociencia:
+
+    Su frase "... pero la BBC es un negocio, y lucha por sobrevivir" no es estrictamente exacta, y minimiza el problema mencionado por el corresponsal que cita en relación con basura referida a la homeopatía que apareció en el sitio de la BBC que nosotros, el público británico, debemos pagar.
+
+Gracias, Ian. Como yo ya sabía, pero no recordé, la BBC es una agencia gubenamental cuyos fondos cubre completamente (además de la venta de sus productos) por un impuesto que se cobra a toda persona del Reino Unido que tiene un televisor. Los vehículos espías especialmente equipados de la BBC, circulan por las calles residenciales en todas direcciones buscando constantemente la señal distintiva emitida por los receptores de TV, y controlando esas indicaciones con la lista de licencias, para detectar infractores.. Hay penas serias por usar un televisor sin haberle pagado al gobierno…
+
+La insatisfacción de Ian reside en el hecho de que un servicio por el que paga —y que *debe* pagar por ley— ha decidido promover el curanderismo. Todos podemos entender eso…
+
+Piden cuentas al curanderismo: continuación
+...........................................
+
+En `un artículo previo`_ leyeron sobre una "naturópata" de Quebec llamada Louise Lortie, y su apelación de su condena de homicidio y negligencia criminal que causó la muerte de una niña diabética de 12 años. Refiriéndose a su conducta como a la de una "charlatana", un juez decidió que la ex-naturópata era culpable. Esta curandera usaba un péndulo mágico y consultaba al Arcángel Miguel, quien según ella le informó que la niña no debía recibir más insulina, utilizando en lugar de ello azúcar de caña sin refinar, otros menjunjes herbáceos caseros, masajes especiales y baños en agua salada. Como sería de esperarse, la niña murió sólo tres días luego de comenzar el tratamiento.
+
+Ahora, por segunda vez, Lortie ha sido condenada por su papel en la muerte de la niña. En 1999, se la encontró culpable de negligencia criminal seguida de muerte y se la condenó a tres años en prisión. Ella apeló exitosamente el fallo en 2002, pero la Suprema Corte ahora ha revertido esa decisión y sostenido el veredicto original. Lortie volverá a la corte para su sentencia el 12 de octubre.
+
+Sobre el mismo tema, el lector Jeroen Brouwer me informa que mi amigo neerlandés Jam Willem Nienhuys, un maestro de matemáticas retirado de la Universidad de Tecnología de Einhoven que es miembro de la organización "Skepsis" (http://www.skepsis.nl/english.html) ha informado en detalle desde los Países Bajos sobre la muerte prematura de la actriz Sylvia Millecam que `informamos la semana pasada`_. Millecam había rechazado el tratamiento médico ortodoxo y en lugar de ello apostó su oportunidad de recuperarse a Jomanda, la "sanadora" neerlandesa. El doctor Nienhuys nos cuenta que ella también había intentado una amplia gama de otros procedimientos curanderiles. La describe como:
+
+  [...] una personalidad mediática muy conocida, exuberante y muy atractiva que denunciaba periódicamente a oficiales altaneros y negocios poco fiables en un popular programa para consumidores [...] En la radio podía oírsela desafiando a los supuestos "curanderos" cada semana [...] Hubo gran sorpresa cuando el público neerlandés se enteró de que había pertenecido al uno o dos por ciento de mujeres con cáncer de mama que rechazan el tratamiento regular que tiene una tasa de supervivencia de entre 80 y 90 por ciento.
+
+La señorita Millecam se convirtió al curanderismo:
+
+  Confiaba completamente en el tratamiento alternativo [...] Rechazó el tratamiento ortodoxo, dijo su prometido, porque no aceptaba la quimioterapia [...] A fines de 2000 Millecam fue a una clínica privada en Suiza que parece haber encontrado buscando en Internet. Se informó que allí se la trató con una máquina que decían que producía pulsos magnéticos que se suponía producirían la fisión fría del potasio del cuerpo en sodio y oxígeno, liberando por lo tanto el saludable oxígeno y energía. (Los físicos más convencionales dicen que tal proceso de fisión requeriría tanta energía que sólo existe en el núcleo de una supernova en explosión, a temperaturas de unos cuantos miles de millones de grados y densidades de millones de toneladas por centímetro cúbico.
+
+Randi comenta: la quimioterapia asociada con el tratamiento médico que Millecam hubiera recibido por lo general es sólo una precaución en el seguimiento, no el procedimiento principal. Hubiera sido una aplicación relativamente leve, comparado con un procedimiento completo, así que no debía de haber tenido ese aspecto del tratamiento en particular. La señorita Millecam luego se volcó totalmente en la búsqueda de promesas médicas "alternativas":
+
+  Millecam fue a ver doctores en una clínica homeopática en Amsterdam, donde aparentemente le dieron terapia ozónica y preparaciones homeopáticas en (paradójicamente) grandes cantidades. Luego fue a otro practicante alternativo quien, se afirma, ha intentado tratar cáncer con cápsulas de sal, razonando que esta es una medicina poderosa que "pertenece" al cuerpo porque el sistema inmune no la ataca.
+
+  También parece haber consultado a un médico que se informa que ha cuestionado diagnósticos de cáncer, creyendo que el pacientemente sufre solamente los ataques de una bacteria que amenaza la vida.
+
+.. _un artículo previo: http://www.sindioses.org/randi/randi20041203.html#muerte-por-el-consejo-de-un-ngel
+.. _informamos la semana pasada: http://www.sindioses.org/randi/randi20050422.html#jomanda-finalmente-es-llevada-a-la-corte
+
+Como no tuvo ningún éxito con este empeño, la desventurada mujer recurrió entonces a Jomanda:
+
+  Luego, o al mismo tiempo, Millecam consultó a una médium espiritual [Jomanda], quien de algún modo confirmó su opinión de que no tenía cáncer. Fue más o menos en esta época en la que empezó a apartar a todos los que dieran a entender que su problema no era una infección bacteriana. En entrevistas con la televisión neerlandesa la médium ha afirmado desde entonces que tenía razón, y que Millecam ha confirmado esto desde el Más Allá.
+
+¿Las descaradas ficciones de Jomanda no tienen límite? ¡Confirma sus predicciones inválidas con otra variante de estafa paranormal! El doctor Nienhuys nos lleva a la trágica conclusión:
+
+  Probablemente consultó a mas sanadores de los que se mencionan aquí, y en qué orden los visitó tampoco está claro, pero en los últimos meses que quedó en casa de un doctor en el que confiaba su familia y que opera una clínica donde realiza hidroterapia colónica (o sea enemas), una "terapia sonora" en la cual en análisis de la voz se sigue con la inundación del cuerpo con una frecuencia armónica y complementaria, homeopatía, acupuntura y la electroacupuntura de Voll. [Para obtener detalles sobre las afirmaciones de Voll, vea, en inglés, http://www.quackwatch.org/01QuackeryRelatedTopics/electro.html.]
+
+  Finalmente la paciente se enfermó tanto que no podía estar de pie por el edema en sus piernas, no se podía sentar debido a lo mucho que le dolían sus pechos, no podía acostarse porque no podía respirar, no podía dormir, y sólo podía tragar líquidos.
+
+  [...] la llevaron al Radboud [Centro Médico Universitario Radboud, en Nijmegen, en el centro-sur de los Países Bajos, cerca de la frontera con Alemania]  donde le diagnosticaron (de nuevo) cáncer de mama, y le dieron menos de tres semanas de vida. Resultó que serían menos de tres días. Esos tratamientos le costaron algo así como £100,000, [US$190,000] de los cuales un porcentaje considerable fue para la clínica suiza. Todo lo que le consiguió fue una muerte horrible, prematura e inesperada y una reputación póstuma de estupidez fatal.
+
+He aquí a una celebridad que decidió creer que la ciencia médica ofrece menos que los curanderos. Su forma de cáncer (como señala el doctor Nienhuys) tiene un porcentaje de recuperación muy alto si se detecta tempranamente y lo tratan verdaderos doctores. La señorita Millecam tenía una excelente oportunidad de curarse por medios médicos ortodoxos, pero decidió confiar en la homeopatía, los pulsos magnéticos, los enemas, la terapia "sonora", la acupuntura, el tratamiento con ozono y las cápsulas de sal, todo lo cual falló y permitió que el cáncer empeorara. Finalmente se puso en manos de Jomanda, y murió miserablemente.
+
+El lector Gard Simons, quien presentó el material para el artículo de la semana pasada sobre Jomanda, nos presenta una actualización. Sobre mi pregunta: *"¿por qué tuvo que morir una famosa a manos de estos curanderos para que las autoridades se dignaran entrar en acción?"*, escribe:
+
+  Bueno, nueve de cada diez personas en los Países Bajos se han estado preguntando lo mismo desde hace casi cuatro años. Millecam murió en agosto de 2001 y desde entonces no ha pasado nada. Se habló mucho y hubo mucha exposición en los medios. Se discutió en television y en los diarios sobre el caso, la ley neerlandesa debería cambiarse porque es demasiado insustancial en estos asuntos. Jomanda ha sido ridiculizada sin fin, pero no ha pasado nada. Broeckhuyse se retiró él mismo de la práctica de la medicina, Jomanda permanece lejos de los medios, y la atención del público se atenúa con el tiempo.
+
+  Tengo que corregirme sobre el juicio. Pensé que iba a empezar este fin de año, pero parece que estoy equivocado. Escribí un mensaje al sitio web de la sociedad anticuranderil neerlandesa. Respondieron: "Por lo que sabemos, la oficina del Fiscal General ni siquiera comenzó la acusación. Todo lo que dijeron fue que harían una denuncia. No se ha provisto un cronograma".
+
+  Nadie parece saber nada, pero seguiré el asunto y "repartiré mensajes". Lo mantendré al tanto. Mientras tanto, intentaré traducir grandes porciones del informe de la Inspección de Salud Neerlandesa. Echa una clara luz sobre el caso. No soy un traductor profesional sino un humilde camarógrafo televisivo, pero lo intentaré.
+
+(Gard, no te disculpes por tus talentos como traductor. Nunca deja de sorprenderme cuán gran proporción de ciudadanos europeos —especialmente los neerlandeses— manejan el idioma inglés. Avergüenza a los estadounidenses, porque disfrutamos de nuestra posición de que se nos comprende tan bien cuando entramos en otras culturas. Finlandia es otro país donde el inglés está ampliamente aceptado, y en ese país hay dos lenguas "oficiales": finés y sueco. ¡En los Países bajos, también se habla frisio, turco y árabe!)
+
+Esta mujer Jomanda no debería ser puesta en ridículo, sino *perseguida con la fuerza de la ley* y expuesta públicamente como la farsante que es. Quizá los Países Bajos nos presenten un ejemplo de cómo se puede usar correctamente el sistema legal de esta forma, y si lo hacen prometo exponerlo ante el sistema legal estadounidense como algo que podrían usar para reemplazar la cháchara basada en la fe. Ya hemos tenido nuestras propias pérdidas ante el curanderismo que deberían detenerse...
+
+El doctor Nienhuys ha vuelto a ponernos las cosas en perspectiva. Le damos las gracias.
+
+Más monitores para bebés fantasmales
+....................................
+
+El lector Simon Nicholson —¡que quiere que se sepa que ahora es un miembro de la |jref|!— comenta sobre `el artículo de la semana pasada`__ sobre el disparate llamado EVP que está tan "de moda" actualmente. Dice Simon:
+
+__ http://www.sindioses.org/randi/randi20050422.html#de-d-nde-vienen-esas-voces
+
+  Acabo de leer el comentario de esta semana, y noté con especial interés la teoría de que parte del EVP puede atribuirse a señales perdidas de monitores para bebés y dispositivos similares. Hace años, trabajé como asistente social residente en un hostal para adultos con dificultades de aprendizaje. Entre nuestros usuarios regulares del servicio había un adulto que tenía el potencial para lastimarse a sí mismo. Se decidió utilizar un monitor para bebés comercial normal como forma relativamente no invasiva de permitir que el personal de cuidado nocturno lo controlara. Como gerente a cargo, recib í varios informes de personal nocturno aterrado que dijo haber oído llantos de niños y otros ruidos infantiles por el monitor, sólo para descubrir que nuestro cliente dormía profundamente en su habitación cuando lo verificaban. Por supuesto, lo adivinó usted, y también nosotros, nuestro monitor estaba recibiendo señales de una casa vecina, donde una pareja con un bebé pequeño usaba un monitor de un modelo similar.
+
+  Lo chistoso de la historia es que el cruce de señales era en ambos sentidos. ¡Varias veces esta pareja se asustó de oír los sonidos de un hombre adulto furioso, gritando insultos a toda voz, que salía del monitor de la habitación de su beba! Así descubrimos en verdad desde dónde eran transmitidos exactamente los ruidos de bebés; en una conversación casual me dijeron lo inquietos que estaban con los fenómenos "psíquicos" que ocurrían en su cada.
+
+  Es una anécdota chistosa, pero recuerdo que estas personas estaban asustadas de verdad. Estuvieron a punto de llevar el asunto ante el sacerdote de su parroquia y pedir un exorcismo.
+
+  Concluir una explicación sobrenatural resultó en mucha tensión para esta joven pareja.
+
+¿Puede ser más claro que esto? Esto les molestará mucho a los creyentes en EVP, por supuesto, pero conociendo a la especie, puedo decir con confianza que encontrarán formas de evadir esta posible explicación no sobrenatural. Recuerden, según su forma de pensar, sólo tienen que encontrar un ejemplo donde no se aplica esta solución, y toda la idea puede descartarse enteramente.
+
+.. figure:: http://www.randi.org/images/042905-Theater.jpg
+   :alt:
+   :align: right
+   :figwidth: 310
+
+   **El Asombroso (cerca de 1965) en el Folies Royale Theater con dos increíbles miembros del coro.**
+
+(Agrego esto principalmente como excusa para agregar la foto.) Agregaré, como fuente de posible interés, que me avergonzó en gran medida, hace años, cuando subí al escenario del Folies Royale Theater en Montréal, al saludar a mi audiencia por medio de mi micrófono inalámbrico. Había pasado apenas un minuto del acto cuando escuché una chillona voz femenina surgiendo del sistema de sonido con: "Doctor Judd, llame a su oficina. Doctor Judd, llame a su oficina". Parece que yo estaba en la misma frecuencia (40,68 megaciclos) que el servicio de llamada de un doctor ubicado al lado. Sí, también imaginé lo que el doctor Judd habrá estado pensando cuando escuchó mo voz declarando:
+
+  ¡Buenas noches! Mi nombre es James Randi. Soy un mentiroso, un farsante, un fraude y un charlatán. Pero realizo todo esto con cierto estilo, que incluso puede evocar en ustedes una expresión espontánea de placer y sorpresa... en la forma de un aplauso. Confío en que este será el caso.
+
+Como sugirió Mark Twain en Las Aventuras de Tom Sawyer: "echemos la cortina de la caridad sobre el resto de la escena".
+
+Sitio web informativo
+.....................
+
+.. figure:: http://www.randi.org/images/042905-Gullibottle.jpg
+   :alt:
+   :align: left
+   :figwidth: 210
+
+   **Gulli-Go**
+
+   | 70 cápsulas
+   | remedio contra la credulidad
+   | totalmente natural
+   | super-homeopático
+
+
+El lector Kevin Baker, del Reino Unido, nos envía a http://www.gulligo.com y comenta:
+
+  Por supuesto es una lástima que actualmente no tengan reservas...
+
+Corea del Norte también está activa
+...................................
+
+El lector William F. Taylor se divierte examinando el curanderismo norcoreano, que parece estar a la par con el resto del mundo:
+
+  He sido un fan de su sitio web por mucho tiempo. Me temo que a veces me lleva a perder mucho de mi vida recorriendo las páginas web de chiflados y orates entusiasmado y balbuceantes. Empecé buscando una risa fácil y terminé deprimido sobre lo interminablemente tonto de nuestra condición humana. Una de las muchas situaciones mundiales que me reparten entre la risa y la desesperación es la crisis actual y aparentemente eterna en la península coreana. Por fortuna, la gente de la Agencia Noticiosa Central de Corea, el único servicio de noticias que además es oficial (que por alguna razón se encuentra en Japón en http://www.kcna.co.jp/index-e.htm) mantienen la hoja de balance del lado de la diversión. Entre los previsibles artículos sobre la adulación mundial de nuestro Querido Líder Kim Jong Il, y su incluso Más Querido pero fallecido padre, hay actualizaciones ocasionales sobre las últimas novedades pseudocientíficas de la nación. Pensé que lo siguiente era representativo:
+
+      Se desarrollan hojas de plástico curativas
+
+      Pyongyang, 11 de abril (ANCC) - Las hojas plásticas curativas nº 1 y 2 fueron desarrolladas por científicos en el área textil de la República Democrática Popular de Corea. Son hojas de polipropileno y polietileno tratadas de forma electrónica. Con las hojas uno puede curar varias enfermedades por sí mismo en cualquier lugar sin aparatos médicos ni medicamentos.
+
+      Cuando se las pega en los puntos por tratar, ayudan a recuperar la función de las diminutas corrientes eléctricas anormales, las celdas y tejidos dañados en el cuerpo humano y activan el metabolismo.
+
+      La hoja nº 1 es para heridas externas como cortes profundos, abscesos y quemaduras y la hoja nº 2 para enfermedades internas como contusiones, fracturas óseas, neuralgia, indigestión, calambres de estómago e inflamación.
+
+      Los años de estudios clínicos muestran que pacientes que han sufrido por mucho tiempo de dolor en los dedos y timpanitis recuperaron la salud usando una vez la hoja y los pacientes de necrosis simple recalcitrante usándola seis veces. Y bebés de menos de seis meses se curaron de neumonía con la ayuda de las hojas.
+
+  Me pregunto si hay otros ejemplos de gobiernos en todo el mundo que apoyen el curanderismo en este nivel. Los recientes sitios web estadounidenses sobre la abstinencia, con sus advertencias sobre los peligros del excesivo uso del preservativo, le vienen a uno a la mente.
+
+Esto debería funcionar
+......................
+
+El lector Dominick evidentemente está siendo irónico:
+
+  Trabajo en un sitio web que se burla de varias leyendas urbanas. Uno de nuestros redctores presentó una advertencia falsa sobre traficantes de drogas que usaban métodos homeopáticos para extender su provisión de LSD y otras drogas. Eso me hizo pensar, y le envié e-mails a varias organizaciones homeopáticas para preguntarles si piensan que es posible crear drogas recreativas homeopáticas. Ha pasado una semana, y hasta ahora las únicas respuestas que he recibido son sugerencias de que le pregunte a otro. He enviado mensajes nuevos a las fuentes sugeridas pero empiezo a preguntarme si simplemente ignorarán mis preguntas.
+
+  Lo que me gustaría preguntarle es si sabe usted si la comunidad homeopática se ha ocupado de este tema en el pasado. Asumo que sí, pero no puedo encontrar una fuente en Internet. Cualquier cosa que usted tenga para compartir sobre esta tontería sería bienvenida. Soy muy curioso.
+
+  A propósito, la página que me hizo empezar con todo esto es: http://www.all-lies.com/legends/warnings/lsdwater.shtml
+
+Vayan a esa página y decidan por sí mismo. Es difícil imaginar que alguna idea sea más tonta que la homeopatía misma, pero quizá esta lo es...
+
+Más afirmaciones estúpidas sobre Penta
+......................................
+
+Christian J. Burnhan, en su excelente discusión de la Wikipedia, nos cuenta que el CEO William D. Holloway, quien comercializa Agua Penta para los ingenuos, afirma que proporciona a sus usuarios "piel, cabello y articulaciones más sanas; un sistema inmune más fuerte; recuperación más rápida de cirugía o actividad física, e hipertensión y colesterol reducidos". Christian también lista estas otras increíbles afirmaciones realizadas por Penta:
+
+.. image:: http://www.randi.org/images/042905-Pentduh.jpg
+   :alt:
+   :align: right
+
+| AP [Agua Penta] contiene grupos de agua de menos moléculas que el agua normal.
+| AP tiene una reducción en el tamaño de los grupos de 30%
+| AP entra a las células un 14% más rápido que el agua normal
+| Las células cultivadas en AP sobreviven 266% más que en agua normal
+| Las células cultivadas en AP tienen una disminución de acidez el triple que las células cultivadas en agua destilada
+| AP hierve a una temperatura mayor que el agua normal, y esto no se debe a impurezas disueltas
+| AP es más fácil de beber que el agua normal
+| AP es el agua embotellada más pura del mercado
+| AP ayuda a reducir el riesgo de cálculos renales
+| La mutación del ADN es un 271% mayor en agua destilada que en AP
+| Los cristales de proteínas cultivados en AP tienen una estructura diferente
+| AP puede ayudar en casos de fibromialgia, lupus, artritis, diabetes o síndrome de fatiga crónica
+| AP ha ayudado a combatir el cáncer
+
+Las cuatro que se listan aquí son obviamente ciertas, en ciertas circunstancias:
+
+1. "El desempeño atlético mejora de forma medible luego de consumir AP". Claro, si el atleta está deshidratado, cualquier agua conseguirá eso, ¡necio!
+2. "AP ayuda en la pérdida de peso". Sí, ¡si el que hace dieta no bebe otra cosa que agua!
+3. "AP ayuda a crecer a las plantas hogareñas". Sí, ¡*cualquier* agua que consista en dos partes de hidrógeno y una de oxígeno lo conseguirá!
+4. "AP ha ayudado a los problemas de limpieza de piel". Sí, ¡los que se lavan con frecuencia (incluso con agua común de grupos grandes de moléculas) pueden tener mejoras en su piel!
+
+.. figure:: http://www.randi.org/images/042905-Holloway.jpg
+   :alt:
+   :align: right
+   :figwidth: 200
+
+   **William D. Holloway, inventor de Pentduh**
+
+No creo tener que señalar que si **cualquiera** de estas afirmaciones (sin contar las cuatro obvias que señalamos) se probara verdadera, el señor Holloway ganaría el premio del millón de dólares de la |jref|. Para saber más (si puede soportar más) vaya a http://en.wikipedia.org/wiki/Penta_Water para ver discusiones sobre la confiabilidad de estas afirmaciones absurdas, Penta Water y la ciencia convencional, la respuesta de Penta a las críticas, la reciente conciliación judicial de la Autoridad Británica de Normas de Publicidad en 2005, y las críticas de afirmaciones específicas realizadas por Penta.
+
+Debería decirle que pese a esas tentadoras sugerencias de Penta de que podrían aceptar el desafío de la |jref| que aceptaron de tan buena voluntad hace años (vea `nuestro artículo sobre ello`__), ahora llegó una indicación urgente desde las oficinas centrales de Penta a Mark Fairhead, director del "Equipo Penta del Reino Unido", de pisar el freno y echarse atrás.
+
+Las gallinas todavía reinan en Penta...
+
+__ http://www.sindioses.org/randi/randi20050401.html#el-agua-penta-finalmente-est-lista
+
+Un buen ejemplo para seguir
+...........................
+
+Cómo otras personas hacen un correcto examen de un producto...
+
+Los lectores Ted Vriezen, Nicolai Paulsen y John Nevill nos remitieron a http://www6.tomshardware.com/mobile/20050418/index.html, donde encontramos un relato extenso pero excelente de cómo la "Tom's Hardware Guide" ("Guía de Hardware de Tom") del doctor Thomas Pabst, un recurso de primer nivel para reseñas y noticias de *hardware* de PC, investigó las fabulosas afirmaciones sobre el "Batterylife Activator" ("Activador de vida de baterías"), un trozo de 4cm x 15cm de papel de aluminio fabricado por una compañía alemana, Aquis GmbH, y Mark Korzilius, y distribuido por Batterylife US en Milpitas, California. Se vende a US$15 para el modelo para teléfonos celulares, y US$52 para una variedad para laptops, ¡y se supone que hace que las baterías sean mejores y más rápidas!
+
+A pesar de su convicción inicial de que esta era una farsa obvia, THG siguió un protocolo completo de pruebas y llegaron a su conclusión por métodos científicos correctos. ¡Felicitaciones!
+
+Pensamiento mágico en el NIH
+............................
+
+El lector Nick Blackmer está asombrado de que los Institutos Nacionales de Salud (NIH es su sigla en inglés) realmente permita disparates en sus instalaciones. Nick, este material se suma a la restante cháchara que los NIH han adorado cada vez más en las últimas dos administraciones.
+
+Nick nos remite a esta "pequeña gema": http://videocast.nih.gov/EventDetail.asp?3850. Allí, el Centro de Trabajo/Vida de los NIH, en cooperación con el Programa de Asistencia a Empleados de NIH, ofrece:
+
+  Venga y aprenda los principios del Feng Shui que puede usar para obtener un sentido de balance sn su hogar y su espacio de trabajo. Aprenderá qué es el Feng Shui y cómo funciona. También aprenderá cómo cambiar su entorno físico para apoyar quién quiere ser y cómo seguir el proceso para atraer más rápidamente el futuro que usted desea. Cuando diseña su espacio para apoyarse a sí mismo en los peores días, los mejores días mejoran aún más.
+
+Dice Nick:
+
+  Gracias igual, me gustaría atraer un futuro que no incluya el dinero de mis impuestos ayudando a pagar que empleados federales se sumerjan en semejante palabrería.
+
+¡Ey, yo también contribuí a esta palabrería oficial —involuntariamente— por medio del dinero de mis impuestos, Nick! Y me doy cuenta de que te indignará el hecho de que la mayoría de los eventos listados en el sitio http://videocast.nih.gov/FutureEvents.asp parecen ser sobre ciencia verdadera. Bueno, algo de razón tiene que colarse por el camino...
+
+Ramtha se entusiasma
+....................
+
+El lector Mark Timothy nos envía una cita de J. Z. Knight, que dice que es poseída por algún espíritu de un guerrero o algo tenebroso como eso. Este guerrero necesita algunas indicaciones de cómo escribir pseudociencia. Dice ella/él:
+
+.. figure: http://www.randi.org/images/042905-Ramtha.jpg
+   :alt:
+   :align: center
+   :figwidth: 300
+
+   **¿guerrero? ¿científico? ¿engañado?**
+
+  Si acabamos de discutir la ciencia viable de la levitación, en la cual tú como un pesado objeto tridimensional que vibra según los hercios del planeta te permite tener la misma estabilidad de la masa misma, si de pronto cambiaras tu campo, entonces la masa de la que estás compuesto cambiaría también. Así que vibraría; aún serías tú pero estarías vibrando en otra frecuencia. En otras palabras, podemos verte y aún eres Juan Pérez, pero no estás en el mundo porque ya no estás obedeciendo las leyes de gravedad y la física. Así que en realidad estás levitando cinco metros sobre el piso; podemos verte, pero tú estás comiéndote el tiempo circundante en ese momento. Y aunque aún estás sentado allí, en realidad estás en el futuro. Estás en otra dimensión de tiempo que un día será tu futuro lineal.
+
+Ey, no se rían. Knight es una multimillonaria porque hay una multitud enorme de gente ingenua que la apoyan generosamente, y creen galimatías como el que se lee más arriba, aunque no tienen forma de evaluarlo. Simplemente les suena bien.
+
+Buen artículo sobre OVNIs
+.........................
+
+Vean una buena historia de Aaron Sakulich sobre el famoso caso de Barney y Betty Hill. Lo que me sorprende es el número de errores de tipeo, y que el nombre de nuestro amigo Robert Sheaffer está mal escrito. Está en http://www.thetriangle.org/news/2005/04/15/SciTech/Ufo-couple.Use.Story.To.Spark.Alien.Abduction.Fear-926219.shtml. El amigo Jim Oberg me señaló a este ganador. A propósito, Jim acaba de ganar el Silver Award en la categoría "Revistas, Nota de tapa, 100.000 y más" otorgado por la Sociedad de Publicaciones Asociadas Nacionales estadounidense, por su artículo "Titan Calling" de octubre de 2004. ¡Así se hace, Jim!
+
+Divertido error desde España
+............................
+
+.. figure:: http://www.randi.org/images/042905-hypnotist.jpg
+   :alt:
+   :align: center
+   :figwidth: 250
+
+   **¡Estás haciendo una solicitud!**
+
+El lector Ignacio Fernández Galván nos completa el día con esta nota:
+
+  Hoy encontré un documento en la página web de mi Universidad en Extremadura, España, un llamado a solicitudes para obtener dinero del Gobierno. Al pie encontramos esta frase: "Las solicitudes se harán telepáticamente".
+
+  Esto es obviamente un error. Debería haber sido "telemáticamente", o sea "a través de la red". Me pareció lo bastante gracioso para enviarle un aviso. Me gustaría que todos los temas parecidos también fueran errores.
+
+Nuestro corresponsal me informa que luego de informar a la Universidad de este error, lo corrigieron.
+
+Ignacio, gracias. ¡Qué diferencia hace una letra!
+
+En conclusión...
+................
+
+El lector Øyvind Kaurstad, nos hace llegar estas alentadoras noticias:
+
+  En su artículo http://www.randi.org/jr/102904swing.html#4 [vea su `traducción`__] relató la historia de un programa televisivo noruego que simula resolver casos de homicidio mediante el uso de psíquicos, un programa para ingenuos, como probablemente diría usted. En un programa en particular una mujer inocente fue identificada —indirectamente— por la psíquica, y esta mujer también fue interrogada por la policía, quien descubrió que no tenía nada que ver con el caso.
+
+  Creí que le interesaría saber que ayer "TVNorge"; el canal de televisión que presenta este programa, fue criticado por "ir demasiado lejos" por algo llamado "Pressens Faglige Utvalg", que es un comité establecido por la prensa misma. Ser "condenado" por la PFU no tiene implicaciones legales directas, pero sin embargo es alentador ver que hay algo de justicia interna en la prensa.
+
+  Podría traducir toda la declaración de la PFU, pero no creo que sea necesario. Tanto el programa como el conductor fueron duramente criticados, y todos los medios importantes de Noruega informaron sobre la decisión de la FPU.
+
+Otro paso en la dirección correcta...
+
+__ http://www.sindioses.org/randi/randi20041029.html#falsa-acusaci-n-de-una-ps-quica
+
+|firmarandi|
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: Traducido por Marcelo Huerta San Martín
+    :description: Me parece justo. Corrección. Piden cuentas al curanderismo: continuación. Más monitores para bebés fantasmales. Sitio web informativo. Corea del Norte también está activa. Esto debería funcionar. Más afirmaciones estúpidas sobre Penta. Un buen ejemplo para seguir. Pensamiento mágico en el NIH. Ramtha se entusiasma. Buen artículo sobre OVNIs. Divertido error desde España. En conclusión...
+

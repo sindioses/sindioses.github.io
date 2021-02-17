@@ -1,0 +1,40 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA000
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA008
+.. link: http://www.talkorigins.org/indexcc/CA/CA008.html
+.. date: 2005-08-13 02:00:00+00:00
+.. title: CA008: La evolución alienta la promiscuidad y la lujuria
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La evolución alienta la promiscuidad y la lujuria»
+
+La teoría evolutiva promueve los conceptos de promiscuidad y lujuria, señalando que la búsqueda de producir muchos descendientes es una meta importante de los organismos según el darvinismo.
+
+Fuente
+=========
+
+Morris, Henry M. 2000. Evil-ution. *Back to Genesis* 140 (Aug).: a-c. http://www.icr.org/index.php?module=articles&action=view&ID=877
+
+Respuesta
+===========
+
+1. Describir algo no implica promoverlo. Confundir “es” por “debe ser” es la falacia naturalista. La teoría de la evolución no promueve la promiscuidad y la lujuria, del mismo modo que la teoría de los gérnemes no promueve contagiarse enfermedades infecciosas.
+2. La resolución de un problema funciona mejor si primero se entiende el origen del problema. Los creacionistas, negando orígenes de conducta, probablemente se ocuparán de los problemas de conducta con menos efectividad.
+
+Otras lecturas
+=================
+
+Wright, Robert. 1994. The Moral Animal: The New Science of Evolutionary Psychology. New York: Pantheon.
+
+
+/////
+
+Anterior: :doc:`CA006_2` | Siguiente: :doc:`CA009`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

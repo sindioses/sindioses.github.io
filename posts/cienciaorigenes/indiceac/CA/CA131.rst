@@ -1,0 +1,60 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA130
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA131
+.. link: http://www.talkorigins.org/indexcc/CA/CA131.html
+.. date: 2003-09-01 02:00:00+00:00
+.. title: CA131: Darwin sufría de psiconeurosis
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Darwin sufría de psiconeurosis»
+
+Charles Darwin adquirió una enfermedad crónica poco después de volver de su viaje en el *Beagle*, lo que lo volvió inválido por buena parte de su vida. Sus síntomas —depresión, vómitos, palpitaciones, etc.— no coinciden con ninguna enfermedad orgánica y parecen ser psicogénicos (originarse en su mente). La causa de esta enfermedad podría ser la angustia ante la posibilidad de que su teoría estuviera equivocada, o bien culpa por rechazar a Dios.
+
+**Fuente:**
+
+* Bergman, Jerry. 2004. Was Charles Darwin psychotic? A study of his mental health. *Impact* 367 (Jan.). http://www.icr.org/index.php?module=articles&action=view&ID=112
+* Grigg, Russell. 2001. Darwin’s mystery illness. *Creation* 17(4), http://www.answersingenesis.org/creation/v17/i4/darwins_illness.asp
+
+Respuesta
+===========
+
+1. Se han propuesto muchos diagnósticos para la enfermedad de Darwin, los que generaron mucha controversia ([Smith_et_al_1990]_; [Alder_et_al_1997]_; [Campbell_Matthews_2005]_). Una causa orgánica para la enfermedad de Darwin es perfectamente posible. Tanto el mal de Chagas ([Alder_1959]_; [Pasnau_1990]_) y la intolerancia sistémica a la lactosa ([Campbell_Matthews_2005]_) explican la mayoría de sus síntomas. Algunos han tomado sus síntomas como prueba de un desorden de pánico con agorafobia ([Barloon_Noyes_1997]_), pero los síntomas también pueden ser síntomas directos u otras consecuencias de las enfermedades orgánicas antes mencionadas. Por ejemplo, un estilo de vida relativamente recluido y una depresión ocasional son reacciones normales a una enfermedad crónica. Otros síntomas, por ejemplo la angustia al dejar el hogar en el *Beagle*, pueden ser enteramente normales. El momento de aparición de los síntomas no coincide tan bien con una causa psicosomática pero sí con la intolerancia sistémica a la lactosa ([Campbell_Matthews_2005]_).
+
+   Incluso si la enfermedad de Darwin era un desorden de angustia, tal condición no tiene nada que ver con ser psicótico. Es una enfermedad genética que causa que se disparen más de lo que deberían las sinapsis de la región del cerebro que controla el instinto de lucha o fuga. La condición se asocia típicamente con las inteligencias superiores a la media.
+
+2. La teoría de la evolución se basa en pruebas, no en la autoridad de Darwin. Los aspectos de la vida de Darwin son de interés histórico, pero no son relevantes para la ciencia.
+
+3. Algunas personas pueden lograr grandes cosas incluso sufriendo condiciones aparentemente debilitantes.
+
+   * John Nash sufría de esquizofrenia pero ganó un premio Nóbel en economía por su aplicación de la teoría de juegos.
+   * Stephen Hawking ha producido la mayor parte de su trabajo en física después de haber quedado postrado en una silla de ruebas debido a la ELA (Esclerosis Lateral Amiotrófica).
+   * Florence Nightingale realizó buena parte de la reforma del sistema de salud pública del Reino Unido siendo una inválida.
+
+   Darwin investigó y escribió varios libros importantes sobre temas diversos (incluyendo las orquídeas, los percebes, la expresión de las emociones, las plantas insectívoras y las lombrices) mientras sufría su enfermedad crónica.
+
+Referencias
+=============
+
+.. [Alder_et_al_1997]    Alder, J., R. Colp Jr., G. M. FitzGibbon, A. G. Gordon, T. J. Barloon, and R. Noyes Jr. 1997. The dueling diagnoses of Darwin. *Journal of the American Medical Association* 277: 1275-1277.
+.. [Alder_1959]    Alder, S. 1959. Darwin's illness. *Nature* 184: 1102-1103.
+.. [Barloon_Noyes_1997]    Barloon, T. J. and R. Noyes, Jr. 1997. Charles Darwin and panic disorder. *Journal of the American Medical Association* 277: 138-141.
+.. [Campbell_Matthews_2005]    Campbell, A. K. and S. B. Matthews. 2005. Darwin's illness revealed. *Postgraduate Medical Journal* 81: 248-251.
+.. [Pasnau_1990]    Pasnau, Robert O. 1990. Darwin's illness: A biophychosocial perspective. *Psychosomatics* 31: 121-128.
+.. [Smith_et_al_1990]    Smith, F. et al. 1990. Darwin's illness. *Lancet* 336: 1139-1140.
+
+Otras lecturas
+=================
+
+Campbell, A. K. and S. B. Matthews. 2005. Darwin's illness revealed. *Postgraduate Medical Journal* 81: 248-251.
+
+
+/////
+
+Anterior: :doc:`CA120` | Siguiente: :doc:`CA201`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

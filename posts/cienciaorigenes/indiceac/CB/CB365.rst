@@ -1,0 +1,44 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB365
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB365
+.. link: http://www.talkorigins.org/indexcc/CB/CB365.html
+.. date: 2003-9-1
+.. title: CB365: Los tratamientos espinales basados en la teoría evolutiva fallan
+.. description: Respuesta a la afirmación creacionista «Los tratamientos espinales basados en la teoría evolutiva fallan»
+.. type: afirmacrea
+
+.. _lordosis: https://es.wikipedia.org/wiki/Lordosis
+.. _estenosis espinal: https://es.wikipedia.org/wiki/Estenosis_espinal
+
+Un tratamiento para ciertas condiciones de la espalda, los ejercicios de flexión de Williams, recomendaban disminuir la lordosis_ tanto como sea posible. Se basaba en teoría evolutiva, específicamente en que los humanos evolucionaron a partir de los cuadrúpedos y esos dolores de espalda son el resultado de nuestra nueva postura erguida. Este protocolo de tratamiento con frecuencia impedía la curación y causaba mucho dolor. Los ejercicios de Robin McKenzie, que recomendaban restaurar la lordosis normal (la convexidad anterior de la espina dorsal) son mucho más efectivos.
+
+**Fuente:**
+
+Bergman, Jerry, 2001. Back problems: how Darwinism misled researchers. *TJ* 15(3): 79-84. http://www.answersingenesis.org/home/area/magazines/tj/docs/v15n3_misled.asp
+
+Respuesta
+===========
+
+1. El tratamiento de Williams para el dolor de espalda no estaba basado en la teoría evolutiva. Estaba basado en observaciones de gente normal y gente con dolor de espalda. Parte de su lógica era que la gente de culturas africanas y asiáticas que se sentaban en el suelo tenían menos dolor que los occidentales y sus sillas.
+
+   Lo que es más, Williams no recomendaba disminuir la lordosis todo el tiempo, pero sólo en casos de inflamación de un disco posterior. Ya era bien sabido que cualquier cosa que interfiriera con la curvatura normal de la espina, aumentándola o disminuyéndola, tendía a causar dolor. Como el propio Bergman reconoce, los ejercicios de flexión de Williams son benéficos en caso de `estenosis espinal`_.
+
+2. Los ejercicios de Mackenzie eran más efectivos porque eran simples y no requerían equipo especial, de modo que su cumplimiento por parte de los pacientes era mucho mayor.
+
+Enlaces
+========
+
+Smythe, Vivienne, 2003. Re:"Back problems: how Darwinism misled researchers" Message-ID <6mqehv0k68te6rmbpjoobbandfabh1i5hq@4ax.com>, (17 July), http://www.google.com/groups?as_umsgid=6mqehv0k68te6rmbpjoobbandfabh1i5hq%404ax.com
+
+
+/////
+
+Anterior: :doc:`CB361_1` | Siguiente: :doc:`CB370`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

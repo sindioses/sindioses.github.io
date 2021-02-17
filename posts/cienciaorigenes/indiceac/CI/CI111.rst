@@ -1,0 +1,34 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CI, CI100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CI111
+.. link: http://www.talkorigins.org/indexcc/CI/CI111.html
+.. date: 2005-03-29
+.. title: CI111: El filtro de Dembski puede detectar diseño
+.. description: Respuesta a la afirmación creacionista «El filtro de Dembski puede detectar diseño»
+.. type: afirmacrea
+
+El diseño puede reconocerse por medio del siguiente filtro:
+
+1. Si un evento E tiene alta probabilidad, aceptar como explicación la regularidad, de lo contrario ir al siguiente paso.
+2. Si la hipótesis del azar asigna a E una probabilidad alta o E no está especificado, aceptar como explicación el azar, de lo contrario ir al siguiente paso.
+3. Habiendo eliminado la regularidad y el azar, aceptar como explicación el diseño.
+
+Este filtro es equivalente a detectar información compleja especificada.
+
+Respuesta
+============
+
+1. (Véase :doc:`información compleja especificada <CI110>`, que es la afirmación equivalente.)
+
+
+/////
+
+Anterior: :doc:`CI110` | Siguiente: :doc:`CI111_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,49 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CD011.5: Madera del triásico en Australia fue fechada como de 33.000 años
+.. description: Respuesta a la afirmación creacionista Madera del triásico en Australia fue fechada como de 33.000 años»
+.. slug: CD011_5
+.. link: http://www.talkorigins.org/indexcc/CD/CD011_5.html
+.. tags: CD, CD010
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2001-02-18
+.. modified: 2008-01-04
+
+Un pedazo de madera fue fosilizado en la Arenisca de Hawkesbury, Australia, que según la mayor parte de los geólogos data del Triásico medio, hace entre 225 y 230 millones de años. La madera fue fechada por Geotron (un laboratorio comercial de datación) usando el método del carbono 14. Geocron determinó que su antigüedad era de sólo 33.720 años |plusmn| 430 años antes del presente. La contaminación por microbios recientes u hongos no puede explicar la discrepancia en antigüedad.
+
+**Fuente**
+
+Snelling, Andrew, 1999. Dating Dilemma: Fossil wood in 'ancient' sandstone. *Creation Ex Nihilo* 21(3): 39-41. http://www.answersingenesis.org/home/area/magazines/docs/v21n3_date-dilemma.asp
+
+Respuesta
+=========
+
+1. Es dudoso que la muestra siquiera fuera madera. Snelling mismo no está seguro de qué era la muestra. El personal de Geocron tampoco pudo decir qué era la muestra ([Walker_2000]_). Puede ni siquiera haber retenido nada de su carbono original. Usar datación por carbono carecía de sentido desde el inicio porque inevitablemente daría resultados sin sentido.
+
+2. La muestra era porosa, lo que significaba que probablemente absorbió carbono orgánico de las aguas freáticas. Probablemente fuera este carbono contaminante el que produjo la fecha. Otra posibilidad es que algo del :sup:`14`\ C fuera creado *in situ* por la radiactividad natural de las rocas circundantes ([Hunt_2002]_).
+
+3. Además, 33.720 sigue siendo significativamente más tiempo que la edad que muchos creacionistas, incluyendo a Snelling, le adjudican a la tierra, y no hay fuentes creíbles de error que hagan que la fecha sea inferior a 33.000 años.
+
+Enlaces
+=======
+
+* Meert, Joe, 2003. Andrew Snelling and the iron concretion? http://gondwanaresearch.com/hp/crefaqs.htm#who (Incluye una carta de los laboratorios GeoChron diciendo que la "madera" parecía una solidificación de acero).
+
+Referencias
+===========
+
+.. [Hunt_2002] Hunt, Kathleen, 2002. Carbon-14 in coal deposits. http://www.talkorigins.org/faqs/c14.html
+.. [Walker_2000] Walker, Tas, 2000. Dating dilemma deepens: Moore on ancient radiocarbon. http://www.answersingenesis.org/home/area/feedback/negative6-26-2000.asp
+
+
+/////
+
+Anterior: :strong:`CD011_4` | Siguiente: :doc:`CD011_6`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+.. include:: <isonum.txt>

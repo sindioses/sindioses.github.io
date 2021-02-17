@@ -1,0 +1,43 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB300
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB325
+.. link: http://talkorigins.org/indexcc/CB/CB325.html
+.. date: 2003-8-27
+.. title: CB325: El cuello de la jirafa no puede haber evolucionado sin un sistema circulatorio especial
+.. description: Respuesta a la afirmación creacionista «El cuello de la jirafa no puede haber evolucionado sin un sistema circulatorio especial»
+.. type: afirmacrea
+
+El corazón de una jirafa debe ser bastante grande (pesa más de 11 kg) para bombear sangre hasta la cabeza de la jirafa. Una serie de válvulas especiales de un solo sentido en el cuello regulan el flujo de sangre, y hay una red especial de vasos sanguíneos elásticos en la base del cerebro. Sin esas válvulas y vasos sanguíneos elásticos, la presión sanguínea en la cabeza de la jirafa sería inmensa cuando se inclina, suficiente para causar daño cerebral. Todas esas características (corazón grande, válvulas en la vena yugular y la fantástica red de vasos) deben existir simultáneamente o la jirafa moriría. No podrían haber evolucionado gradualmente.
+
+**Fuente:**
+
+* Davis, Percival and Dean H. Kenyon, 1989. *Of Pandas and People: The Central Question of Biological Origins* (2nd ed.). Dallas, TX: Haughton, pp. 69-72.
+* Setterfield, Barry, 1998. Birds, beetles, and life. http://www.setterfield.org/essays/giraffe.html
+
+Respuesta
+===========
+
+1. Darwin respondió esta afirmación en 1868 ([Darwin_1868]_, 206). La afirmación asume que "gradualmente" debe significar "una por vez". No es así. Las distintas características pueden (y casi con seguridad lo hicieron) evolucionar tanto simultáneamente como gradualmente. Las válvulas parciales hubieran sido útiles para reducir la preción sanguínea hasta cierto punto. Un corazón intermedio hubiera producido presión suficiente  para un cuello más corto. Una red de vasos sanguíneos más pequeña en la cabeza hubiera manejado la menor presión. A medida que se fueron seleccionando cuellos más largos, todos los otros componentes también hubieran sido modificados gradualmente. En otras palabras, por cada centímetro que creció el cuello, la fisiología de la jirafa hubiera evolucioando para respaldar tal crecimiento antes del próximo centímetro de crecimiento del cuello.
+
+Referencias
+============
+
+.. [Darwin_1868]    Darwin, Charles, 1868. *Variation of Animals and Plants Under Domestication*, vol. 2, cap. 20. Londres: John Murray. http://pages.britishlibrary.net/charles.darwin/texts/variation/variation20.html
+
+Otras lecturas
+===============
+
+Gould, Stephen J., 1998. The tallest tale. En: *Leonardo's Mountain of Clams and the Diet of Worms*, New York: Three Rivers Press, 301-318.
+
+
+/////
+
+Anterior: :doc:`CB311_1` | Siguiente: :doc:`CB326`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,45 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CC002
+.. link: http://www.talkorigins.org/indexcc/CC/CC002.html
+.. date: 2004-04-15
+.. title: CC002: El hombre de Nebraska era un fraude
+.. description: Respuesta a la afirmación creacionista «El hombre de Nebraska era un fraude»
+.. type: afirmacrea
+
+El hombre de Nebraska (*Hesperopithecus haroldcookii*) fue descubierto basándose en un solo diente que resultó provenir de un pecarí. El diente se usó para construir una especie entera, incluyendo ilustraciones del hombre primitivo y su familia.
+
+**Fuente:**
+
+Gish, Duane T., 1985. *Evolution: The Challenge of the Fossil Record*. El Cajon, CA: Creation-Life Publishers, pp. 187-188.
+
+Respuesta
+============
+
+1. El diente nunca fue tomado muy en serio por los científicos. Osborn, quien lo describió, no estaba seguro de si venía de un homínido o de algún otro tipo de simio, y otros eran escépticos de que siquiera perteneciera a un primate. La ilustración se realizó para una publicación popular y rotulada claramente como imaginaria en su mayor parte.
+
+   El hombre de Nebraska es un ejemplo de cómo la ciencia funciona bien. Se hizo un descubrimiento intrigante que podría tener implicaciones importantes. El descubridor anunció el descubrimiento y envió moldes del mismo a varios otros expertos. Los científicos inicialmente fueron escépticos. Se recogió más evidencia, la que mostró finalmente que la interpretación inicial estaba equivocada. Finalmente, se publicó una retractación de forma destacada.
+
+Enlaces
+=======
+Foley, Jim, 2001. Creationist arguments: Nebraska Man. http://www.talkorigins.org/faqs/homs/a_nebraska.html
+
+Mellett, James S. and John Wolf, 1985. The role of "Nebraska man" in the creation-evolution debate. *Creation/Evolution* 16: 31-43. http://www.talkorigins.org/faqs/homs/wolfmellett.html
+
+Otras lecturas
+===============
+
+Gould, S. J., 1991. An essay on a pig roast. In Bully for Brontosaurus, pp. 432-47. New York: W.W.Norton.
+
+
+/////
+
+Anterior: :doc:`CC001_1` | Siguiente: :doc:`CC003`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,117 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CI001.4: El diseño inteligente ha sido publicado en revistas arbitradas
+.. description: Respuesta a la afirmación creacionista «El diseño inteligente ha sido publicado en revistas arbitradas»
+.. slug: CI001_4
+.. link: http://www.talkorigins.org/indexcc/CI/CI004_1.html
+.. tags: CI, CI000
+.. author: Mark Isaak, traducción de Marcelo Huerta
+.. date: 2004-03-19
+.. modified: 2005-12-22
+
+El diseño inteligente en biologia ha sido respaldado por varias revistas y libros arbitrados. A diciembre de 2005 los proponentes del diseño inteligente presentan los siguientes artículos respaldando la teoría:
+
+
+.. [Axe_2000] Axe, D. D., 2000. Extreme functional sensitivity to conservative amino acid changes on enzyme exteriors. *Journal of Molecular Biology* 301: 585-595.
+.. [Behe_y_Snoke_2004] Behe, M. J. and D. W. Snoke. 2004. Simulating evolution by gene duplication of protein features that require multiple amino acid residues. *Protein Science* 13: 2651-2664.
+.. [Chiu_y_Lui_2002] Chiu, D. K. Y. and T. H. Lui. 2002. Integrated use of multiple interdependent patterns for biomolecular sequence analysis. *International Journal of Fuzzy Systems* 4(3): 766-775.
+.. [Denton_y_Marshall_2001] Denton, M. J. and J. C. Marshall. 2001. The laws of form revisited. *Nature* 410: 417.
+.. [Denton_et_al_2002] Denton, M. J., J. C. Marshall and M. Legge. 2002. The protein folds as Platonic forms: New support for the pre-Darwinian conception of evolution by natural law. *Journal of Theoretical Biology* 219: 325-342.
+.. [Lönnig_2004] Lönnig, W.-E. 2004. *Dynamic genomes, morphological stasis and the origin of irreducible complexity.* En: V. Parisi, V. de Fonzo y F. Aluffi-Pentini, eds. *Dynamical Genetics*, 101-119. Research Signpost.
+.. [Lönnig_y_Saedler_2002] Lönnig, W.-E. and H. Saedler. 2002. Chromosome rearrangements and transposable elements. *Annual Review of Genetics* 36: 389-410.
+.. [Meyer_2004] Meyer, Stephen. 2004. The origin of biological information and the higher taxonomic categories. *Proceedings of the Biological Society of Washington* 117: 213-239.
+.. [Wells_2005] Wells, Jonathan. 2005. Do centrioles generate a polar ejection force? *Rivista di Biologia/Biology Forum* 98: 37-62.
+
+
+y libros (Discovery Institute 2005):
+
+
+* Behe, Michael. 1996. *Darwin's Black Box: The Biochemical Challenge to Evolution.* New York: The Free Press.
+* Campbell, John Angus and Stephen C. Meyer. 2003. *Darwinism, Design, and Public Education.* Michigan State University Press.
+* Denton, Michael. 1985. *Evolution: A Theory in Crisis.* Adler and Adler.
+
+.. [Dembski_1998] Dembski, W. A. 1998. *The Design Inference: Eliminating chance through small probabilities.* Cambridge: Cambridge University Press.
+
+* Dembski, William. 2002. *No Free Lunch: Why Specified Complexity Cannot be Purchased without Intelligence.* Rowman and Littlefield Publishers.
+* Gonzalez, Guillermo and Jay W. Richards. 2004. *The Privileged Planet: How Our Place in the Cosmos is Designed for Discovery.* Regnery Publishing.
+* Minnich, Scott and Stephen C. Meyer. 2004. Genetic analysis of coordinate flagellar and type III regulatory circuits. *Proceedings of the Second International Conference on Design and Nature*, Rhodes, Greece, ed. M. W. Collins and C. A. Brebbia, WIT Press.
+* Thaxton, Charles B., Walter L. Bradley and Roger L. Olsen. 1984. *The Mystery of Life's Origin: Reassessing Current Theories.* Philosophical Library. (4th ed., Lewis and Stanley, 1992).
+
+La publicación *Progress in Information, Complexity and Design* (PCD) también realiza revisión por pares.
+
+Fuente
+======
+
+* Discovery Institute. 2005. Peer-reviewed and peer-edited publications supporting the theory of intelligent design (annotated). http://www.discovery.org/scripts/viewDB/index.php?command=view&id=2640&program=CSC
+
+* Discovery Institute Top Questions. http://www.discovery.org/csc/topQuestions.php
+
+* Dembski, William A., 2003. Three frequently asked questions about intelligent design. http://www.designinference.com/documents/2003.09.ID_FAQ.pdf
+
+Respuesta
+=========
+
+1. Incluso con el criterio más generoso, la producción científica sometida a revisión de pares por parte del movimiento del diseño inteligente (DI) es muy baja, especialmente considerando la larga historia y el generoso apoyo económico del movimiento. La lista de publicaciones y libros mencionada no es exhaustiva, pero no hay mucho más. Los informes sobre biología evolutiva revisados por pares generados en una semana superan la historia entera de la revisión por pares del DI.
+
+   Prácticamente ninguno de los informes presenta investigaciones originales. El único informe para el que se obtuvieron datos originales fue [Axe_2000]_, al que nos referimos más abajo.
+
+   Lo que desacredita al DI no es que tenga pocos informes examinados por pares, sino **por qué** hay tan pocos. Los proponentes del DI parecen no tener interés en realizar investigación original que sea apropiada para las publicaciones revisadas profesionalmente por pares, y otros investigadores no encuentran nada en el DI que sea digno de atención. Pese a las declaraciones vacías de que el DI es una refutación seria de la evolución, nadie toma seriamente el DI como ciencia, de modo que nadie escribe sobre él en el campo científico profesional.
+
+2. Los informes y libros citados por el Discovery Institute no son muy eficaces para demostrar la revisión por pares del diseño inteligente por una o más razones.
+
+   a. Muchos de los informes no hablan de diseño. Algunos ni siquiera lo intentan. Por ejemplo:
+
+      * [Axe_2000]_ señala que cambiar el 20 por ciento de los aminoácidos externos en un par de proteínas causa que pierdan sus funciones originales, aunque cambios en los aminoácidos originales no hacen lo mismo. No hubo investigación sobre el cambio de función. El informe de Axe ni siquiera es una refutación de la evolución darwininana, mucho menos respaldo para el diseño inteligente. Axe mismo ha dicho que no argumentó en favor del diseño en ninguna de sus publicaciones ([Forrest_y_Gross_2004]_, p. 42)
+
+      * [Behe_y_Snoke_2004]_ discute uno de los mecanismos genéticos comunes de la evolución. No dice nada en absoluto en favor del diseño. Sus suposiciones y conclusión han sido refutadas ([M_Lynch_2005]_).
+
+      * [Lönnig_y_Saedler_2002]_ citan a Behe y Dembsky sólo en una larga lista de referencias que indican una variedad de diferentes opciones. Ninguno de los autores es destacado ni se usa la palabra "diseño".
+
+      * [Denton_y_Marshall_2001]_ y [Denton_et_al_2002]_ se ocupan de procesos evolutivos no darwinianos, no respaldan el diseño inteligente. De hecho, [Denton_et_al_2002]_ específicamente se refiere a la ley **natural**.
+
+      * [Chiu_y_Lui_2002]_ mencionan información de complejidad especificada a la pasada, pero luego desarrollan otro método de análisis de patrones.
+
+   b. La revisión por pares a la que se sometieron los trabajos con frecuencia fue escasa o nula. El tipo de revisión que reciben los libros es muy diferente de la revisión profesional estricta de los artículos en publicaciones profesionales. No hay estándares de revisión formal para las imprentas universitarias ni las convencionales, y con frecuencia las editoriales populares no tienen ninguno. Dembski ha comentado que prefiere escribir libros, en parte, porque consigue editarlos más rápido que presentándolos a publicaciones profesionales ([McMurtrie_2001]_). Las antologías y las transcripciones de conferencias tampoco tienen normas de revisión bien definidas. He aquí algunos otros ejemplos de revisión por pares deficiente:
+
+      * [Dembski_1998]_ fue verificado por filósofos, no por biólogos.
+      * [Meyer_2004]_ aparentemente subvirtió el proceso de revisión por pares con el único propósito de introducir un artículo sobre "diseño inteligente" en una publicación respetable que de otro modo no lo hubiera aceptado. Sin considerar su mala calidad ([Gishlick_et_al_2004]_, [Elsberry_2004a]_), el artículo claramente no es apropiado para el contenido casi exclusivamente taxonómico del *Proceedings of the Biological Society of Washington*, y la Sociedad Biológica de Washington lo repudió ([BSW_n_d]_, [NCSE_2004]_). Para más información, véase [Elsberry_2004b]_.
+      * [Wells_2005]_ fue publicado en *Rivista de Biologia*, una publicación que se dedica a informes que son especulativos y controvertidos al punto de la chifladura ([JM_Lynch_2005]_). Su editor, Giuseppe Sermonti, es un negador de Darwin afín al Discovery Institute.
+
+   c. En algunas de las supuestas verificaciones por pares, en particular [Campbell_y_Meyer_2003] y la publicación electrónica PCID, los revisores mismos son enérgicos proponentes del diseño inteligente. El propósito de la revisión por pares es exponer errores, debilidades y omisiones significativas en los hechos y los argumentos. Este propósito no se cumple si los revisores son acríticos.
+
+      La misma crítica vale para cualquier revisor que sea "creyente verdadero" de cualquier aspecto de la biología. Sin embargo, los científicos convencionales reconocen que la ciencia se fortalece a través de la crítica, no por medio del simple asentimiiento, porque la crítica ayuda a eliminar la mala ciencia. Muchos biólogos evolutivos pueden atestiguar que apoyar la evolución no alcanza para que se acepte un informe; también debe contener ciencia bien practicada.
+
+3. Publicar no es un fin en sí mismo. Las ideas científicas no significan nada a menos que puedan resistir críticas y puedan servir de base para otras ideas. Ninguna de las publicaciones sobre "diseño inteligente" ha resultado en ningún trabajo productivo. En la mayoría de ellos se refutaron sus ideas principales (p. ej. :doc:`Behe 1996 <CB200>`, :doc:`Dembski 1998 <CI110>`, :doc:`Dembski 2002 <CF011_2>`, :doc:`Gonzalez y Richards 2004 <CI302>`).
+
+Enlaces
+=======
+
+* Schafersman, Steven, 2004. Frequently asked questions about the Texas science textbook adoption controversy. http://texscience.org/files/faqs.htm
+
+* Wikipedia, 2004. Talk:Intelligent design. `<http://en.wikipedia.org/wiki/Talk%3AIntelligent_design#scientific_peer_review>`_
+
+Referencias
+===========
+
+.. [BSW_n_d]    BSW. n.d. Statement from the Council of the Biological Society of Washington. http://www.biolsocwash.org/id_statement.html
+.. [Discovery_2005]    Discovery Institute. 2005. (v. "Fuentes" supra)
+.. [Elsberry_2004a]    Elsberry, Wesley R. 2004a. Meyer 2004 and deja vu all over again. http://www.pandasthumb.org/pt-archives/000455.html
+.. [Elsberry_2004b]    Elsberry, Wesley R. 2004b. The "Meyer 2004" medley. http://www.pandasthumb.org/pt-archives/000484.html
+.. [Forrest_y_Gross_2004]    Forrest, Barbara, y Paul R. Gross, 2004. *Creationism's Trojan Horse: The wedge of intelligent design.* Oxford University Press.
+.. [Gishlick_et_al_2004]    Gishlick, Alan, Nick Matzke, y Wesley R. Elsberry, 2004. Meyer's hopeless monster. http://www.pandasthumb.org/pt-archives/000430.html
+.. [JM_Lynch_2005]    Lynch, John M. 2005. Revisiting Rivista. http://darwin.bc.asu.edu/blog/?p=351 (2 de junio).
+.. [M_Lynch_2005]    Lynch, Michael. 2005. Simple evolutionary pathways to complex proteins. *Protein Science* 14: 2217-2225.
+.. [McMurtrie_2001]    McMurtrie, Beth. 2001. Darwinism under attack. *Chronicle of Higher Education*, Dic. 21. http://chronicle.com/free/v48/i17/17a00801.htm
+.. [NCSE_2004]    NCSE. 2004. BSW repudiates Meyer. http://www.ncseweb.org/resources/news/2004/ZZ/608_bsw_repudiates_meyer_9_7_2004.asp
+
+
+/////
+
+Anterior: :doc:`CI001_3` | Siguiente: :doc:`CI002`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

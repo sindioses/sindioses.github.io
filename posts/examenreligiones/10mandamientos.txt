@@ -1,0 +1,142 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. date: 2009-03-08 00:00:00
+.. author: Hernán Toro
+.. description: "Aunque las personas religiosas creen saber los mandamientos por haber memorizado los que les enseñaron sus catequistas, en realidad el decálogo bíblico difiere de su versión descafeinada actual. ¿Cuáles son los verdaderos mandamientos, supuestamente escritos con el dedo de Dios y vueltos a copiar por Moisés, luego de que éste los destruyera en un arranque de ira? Los recuentos más populares están en Éxodo 20 y Deuteronomio 5."
+.. tags: religión, mandamientos, biblia
+.. type: exrel
+.. title: ¿Volver a los diez mandamientos?
+.. category: Examinando las religiones
+.. previewimage: /fotos/hernantoro.jpg
+
+ Este artículo ya ha sido publicado en la página de `Escépticos Colombia`__ , de la cual Hernán Toro forma parte.
+
+__ http://www.escepticoscolombia.org/artiacuteculos/volver-a-los-diez-mandamientos
+
+.. class:: primera
+
+En la cultura estadounidense es frecuente la lucha entre políticos republicanos que pretenden exponer los diez mandamientos en las oficinas y escuelas públicas, y los demócratas, que luchan contra ello por ser una violación de la separación entre la iglesia y el estado. Es que cada que un conservador se queja de la "decadencia moral" de nuestra sociedad occidental, apunta como causa "al alejamiento de Dios y al caso omiso que hacemos a sus Mandamientos". Se consideran estos como el paradigma de corrección moral.
+
+.. image:: 10mandamientos1.jpg
+   :alt:
+   :align: right
+
+Aunque las personas religiosas creen saber los mandamientos por haber memorizado los que les enseñaron sus catequistas, en realidad el decálogo bíblico difiere de su versión descafeinada actual. ¿Cuáles son los verdaderos mandamientos, supuestamente escritos con el dedo de Dios y vueltos a copiar por Moisés, luego de que éste los destruyera en un arranque de ira? Los recuentos más populares están en Éxodo 20 y Deuteronomio 5. Se citan textualmente y se resumen entre paréntesis:
+
+1. "Y habló Dios todas estas palabras, diciendo: Yo soy Jehová tu Dios, que te saqué de la tierra de Egipto, de casa de servidumbre. No tendrás dioses ajenos delante de mí" (No adorar dioses distintos de Yahvé).
+
+2. "No te harás imagen, ni ninguna semejanza de lo que esté arriba en el cielo, ni abajo en la tierra, ni en las aguas debajo de la tierra. No te inclinarás a ellas, ni las honrarás; porque yo soy Jehová tu Dios, fuerte, celoso, que visito la maldad de los padres sobre los hijos hasta la tercera y cuarta generación de los que me aborrecen y hago misericordia a millares, a los que me aman y guardan mis mandamientos" (No hacer imágenes, honrarlas ni inclinarse ante ellas porque Yahvé se venga con nuestros descendientes).
+
+3. "No tomarás el nombre de Jehová tu Dios en vano; porque no dará por inocente Jehová al que tomare su nombre en vano" (No tomar el nombre "Yahvé" en vano).
+
+4. "Acuérdate del día de reposo para santificarlo. Seis días trabajarás, y harás toda tu obra; mas el séptimo día es reposo para Jehová tu Dios; no hagas en él obra alguna, tú, ni tu hijo, ni tu hija, ni tu siervo, ni tu criada, ni tu bestia, ni tu extranjero que está dentro de tus puertas. Porque en seis días hizo Jehová los cielos y la tierra, el mar, y todas las cosas que en ellos hay, y reposó en el séptimo día; por tanto, Jehová bendijo el día de reposo y lo santificó" (Descansar el sábado porque el mundo fue hecho en seis días).
+
+5. "Honra a tu padre y a tu madre, para que tus días se alarguen en la tierra que Jehová tu Dios te da" (Honrar a los padres para vivir mucho tiempo).
+
+6. "No matarás" (No matar).
+
+7. "No cometerás adulterio" (No cometer adulterio).
+
+8. "No hurtarás" (No robar).
+
+9. "No hablarás contra tu prójimo falso testimonio" (No dar falso testimonio contra el prójimo).
+
+10. "No codiciarás la casa de tu prójimo, no codiciarás la mujer de tu prójimo, ni su siervo, ni su criada, ni su buey, ni su asno, ni cosa alguna de tu prójimo" (No codiciar cosas ajenas, como casas, asnos, bueyes, esclavos, esposas, y otros enseres y semovientes).
+
+El resumen de los diez mandamientos difiere bastante de los que proclaman los cristianos modernos:
+
+1. No adorar dioses distintos de Yahvé.
+2. No hacer imágenes, honrarlas ni inclinarse ante ellas porque Yahvé se venga con nuestros descendientes.
+3. No tomar el nombre "Yahvé" en vano.
+4. Descansar el sábado porque el mundo fue hecho en seis días.
+5. Honrar a los padres para vivir mucho tiempo.
+6. No matar.
+7. No cometer adulterio.
+8. No robar.
+9. No dar falso testimonio contra el prójimo.
+10. No codiciar cosas ajenas como casas, asnos, bueyes, esclavos, esposas, y otros enseres y semovientes.
+
+La validez ética de este código moral es bastante cuestionable.
+
+Considere por ejemplo el cuarto mandamiento. Es justo descansar, pero decir que el descanso es obligatorio porque el mundo fue creado en seis días y la divinidad descansó al séptimo es absurdo porque una mítica divinidad todopoderosa que "se canse" es ridícula (des-cansar es quitarse el cansancio). Además, toda persona medianamente culta sabe que el mundo no fue creado en seis días hace unos 6000 años, y que Génesis es una sarta de fábulas. Respaldar el derecho al descanso con un cuento de hadas hace muy poco favor al derecho laboral.
+
+Pero es peor aún cuando se considera la pena por no descansar:
+
+ *"Así que guardaréis el sábado, porque santo es para vosotros; el que lo profane, de cierto morirá. Cualquier persona que haga alguna obra en él, será eliminada de su pueblo. Seis días se trabajará, pero el día séptimo es día de descanso consagrado a Jehová. Cualquiera que trabaje en sábado, ciertamente morirá. Guardarán, pues, el sábado los hijos de Israel, celebrándolo a lo largo de sus generaciones como un pacto perpetuo."* (Éxodo 31,14ss)
+
+.. image:: 10mandamientos2.jpg
+   :alt:
+   :align: right
+
+Se podría decir entonces que la *"ley mosaica ampliada"* del cuarto mandamiento es *"descansa el sábado o muere"*... Lo infame de semejante regla en nuestras sociedades con horarios laborales flexibles es patente.
+
+Otro absurdo se encuentra en el primer mandamiento. Todas las sociedades democráticas modernas tienen la libertad de culto como uno de sus principales derechos: cada quien tiene derecho de alabar al dios de su elección, sea Alá, Krishna, Jesús, o cualquier divinidad del incontable panteón ofrecido por los mitos humanos. En contraste el primer mandamiento prohíbe toda adoración que no esté dirigida al dios semita Yahvé. Y justo como el cuarto mandamiento, la infracción se pagaba con la muerte:
+
+ *"Si te incitare tu hermano, hijo de tu madre, o tu hijo, tu hija, tu mujer o tu amigo íntimo, diciendo en secreto: Vamos y sirvamos a dioses ajenos, que ni tú ni tus padres conocisteis, de los dioses de los pueblos que están en vuestros alrededores, cerca de ti o lejos de ti, desde un extremo de la tierra hasta el otro extremo de ella; no consentirás con él, ni le prestarás oído; ni tu ojo le compadecerá, ni le tendrás misericordia, ni lo encubrirás, sino que lo matarás; tu mano se alzará primero sobre él para matarle, y después la mano de todo el pueblo. Le apedrearás hasta que muera, por cuanto procuró apartarte de Jehová tu Dios, que te sacó de tierra de Egipto, de casa de servidumbre; para que todo Israel oiga, y tema, y no vuelva a hacer en medio de ti cosa semejante a esta."* (Deuteronomio 13, 6ss)
+
+El primer mandamiento ampliado según el resto de la ley mosaica se reduce entonces a: *"adora solamente a Yahvé o muere"*. Ahí está el origen de las torturas, masacres, quema de herejes y cruzadas; es la base clara de la intolerancia religiosa: matar a los propios hijos, hermanos, cónyuges, o amigos, sólo porque no desean adorar a una deidad muy específica: al dios que sacó a los Judíos de Egipto. Cualquier otra idea que se ventilara sería aplastada literalmente bajo decenas de piedras arrojadas por el prójimo que supuestamente tenía prohibido matar…
+
+Y así entramos a uno de los pocos mandamientos con un valor ético evidente: "No matar". La mayoría de los creyentes no pensantes se aferran a éste como una prohibición categórica de la divinidad… y lo recitan en temas tan poco relacionados como lo es la eutanasia o el aborto temprano. Lo que ocurre es que el lector crítico de la Biblia no tiene que avanzar más de una página para ver cómo Yahvé borra con el codo lo que escribe con la mano.
+
+Así, si se toma el decálogo de Deuteronomio 5, en la página siguiente, capítulo 7 (v. 2) se nos narra cómo debería aniquilarse a todos los moradores de la tierra prometida sin dejar ni un alma viviente. En la página siguiente, (v. 16) se nos reitera tal exterminio; En el capítulo 17, se pide asesinar a los astrólogos; en el capítulo 21 se pide asesinar a los hijos desobedientes; en el 22 se pide asesinar a las niñas que no llegan vírgenes al matrimonio y a los adúlteros, entre muchos, muchos más.
+
+Más que una guía ética y moral, la Biblia del "No Matarás" contiene un manual de genocidio. Cómo asesinar pueblos extranjeros cuando sean invadidos (Dt 7, 2. 20, 16-17), como asesinar familiares no correligionarios (13, 6ss), cómo asesinar hijos indisciplinados (21, 20-21), como asesinar mujeres violadas que no griten durante la violación (22, 24), cómo asesinar astrólogos (17,2-6) y videntes (18, 10-11), cómo asesinar homosexuales… Hasta el Nuevo Testamento de "amor" tiene en su mensaje central el cómo matar a un hijo amado para perdonar culpables… En tal contexto, el "No matarás" de la Biblia deviene en un chiste religioso que, si no fuera tan macabro, sería cantinflesco.
+
+Algo semejante ocurre con el mandamiento de "no robar". Aunque aparentemente se ve como otra guía ética perfectamente razonable, no tarda Yahvé en dar indicaciones contradictorias: En Deuteronomio 20,14-15, enseña el genocidio para robar después todo el botín del pueblo masacrado. Incluso las partes donde habla Yahvé acerca de cómo repartirse el botín, recuerda el diálogo de unos delincuentes después de dar un golpe:
+
+ *"Y Jehová habló a Moisés, diciendo: Toma la cuenta del botín que se ha hecho, así de las personas como de las bestias, tú y el sacerdote Eleazar, y los jefes de los padres de la congregación; y partirás por mitades el botín entre los que pelearon, los que salieron a la guerra, y toda la congregación. Y apartarás para Jehová el tributo de los hombres de guerra que salieron a la guerra; de quinientos, uno, así de las personas como de los bueyes, de los asnos y de las ovejas. De la mitad de ellos lo tomarás; y darás al sacerdote Eleazar la ofrenda de Jehová. Y de la mitad perteneciente a los hijos de Israel tomarás uno de cada cincuenta de las personas, de los bueyes, de los asnos, de las ovejas y de todo animal, y los darás a los levitas, que tienen la guarda del tabernáculo de Jehová. E hicieron Moisés y el sacerdote Eleazar como Jehová mandó a Moisés."* (Números 31, 25ss)
+
+Es que da vergüenza ajena el ver cómo algunas personas se basan en estos mandatos de una deidad cuyo criterio moral es análogo al de un gángster genocida, que aunque "de dientes para afuera" comanda no robar, en la primera ocasión que tiene de hacer pillaje, manda a su "pueblo elegido" a robar y repartirse el botín (incluyendo niñas vírgenes) como los más desalmados delincuentes.
+
+.. image:: 10mandamientos3.jpg
+   :alt:
+   :align: right
+
+Una descalificación similar ocurre con el "No cometer adulterio". La norma real sería *"No cometas adulterio, o muere apedreado"* (Dt 22,22). Cualquier persona con el más mínimo atisbo ético entiende que el homicidio y el adulterio están en dos planos morales abismalmente diferentes. Una persona racional, al descubrir un adulterio, reacciona madura y racionalmente dialogando para resolver la situación, o terminando la relación en caso de considerar inaceptable el hecho. La Biblia no… la ley de Dios mandaría a apedrear. Es esta herencia macabra la que justifica los absurdos crímenes pasionales que se dan en nuestros pueblos incultos.
+
+Prácticamente todos los mandamientos están viciados de absurdos éticos. Así, el quinto, de honrar a los padres, tiene detrás una motivación mezquina, un premio: No es por agradecimiento, ni por amor, ni por respeto ganado que se deben honrar sino para alargar los días en la tierra.
+
+El segundo mandamiento es pueril y trivial… ¿qué le puede importar a una verdadera deidad omnisciente, todopoderosa y amorosa, el que se hagan imágenes para representarlo? Los celos de Dios ante estas nimiedades, rayan en una obsesión patológica. Eso es tan claro que la razón dada para tal mandato es que si no se hace, el demonio Yahvé se venga en los hijos, y los hijos de los hijos por numerosas generaciones… ¿Demente? ¿Psicópata? ¿Sádico? ¿Aberrado?... todos esos calificativos se quedan cortos para describir la obsesión enfermiza e infantil de Yahvé ante las esculturas y su sed de venganza transgeneracional.
+
+Vale comentar de pasada una de las manipulaciones más patentes del cristianismo católico y el ortodoxo en contra de las Escrituras. Como las imágenes son la base de la adoración popular y motivan a los fieles más rasos en los ritos semanales, a la vez que sirven para mantener una mentalidad mítica y crédula en las masas, la iglesia no se podía oponer a ellas. Por eso, en la versión descafeinada del decálogo, la Iglesia de Roma eliminó por completo el segundo mandamiento, y para llenar el hueco, tomó el décimo y lo separó en dos: "No desear la mujer del prójimo – no codiciar los bienes ajenos".
+
+El tercer mandamiento también es insulso… Un dios verdaderamente majestuoso, trascendente, y que deseara dar una verdadera guía moral para sus hijos humanos, encontraría secundario lo que hicieran los humanos con su nombre. Ante el panorama de mujeres violadas, personas esclavizadas, niños abusados por sacerdotes, y campesinos descuartizadas, un dios verdaderamente amoroso podría haber usado este espacio para dar una guía moral verdaderamente importante pero salir con "No tomar el nombre Yahvé en vano"… da vergüenza ajena.
+
+Así como las personas maduras ideales no se deberían alterar por nimiedades de los necios, un dios verdaderamente superior al hombre no se irritaría por cualquier tontería que hiciera un vil mortal infinitamente inferior a él. Pero no así la deidad Yahvé. Es neurótica y sádica. Su celo incluso por su nombre muestra a mostrar un dios celoso, inseguro y megalómano.
+
+Incluso un mandato aparentemente tan noble como el de no dar falso testimonio contra el prójimo está viciado éticamente por la palabra "prójimo". Como ya se había explicado en otra columna (*), el término "prójimo" no era sinónimo de "congénere humano", como hoy lo presentan los clérigos, sino que se refería literalmente a los correligionarios. El noveno mandamiento del pentateuco no consiste en "no mentir" a secas en contra de cualquier persona, sino solamente en no dar testimonio falso en contra de otro fiel de la misma religión.
+
+El décimo mandamiento es tal vez el broche de inmundicia con el cual se cierran las supuestas indicaciones más importantes para la humanidad. Este mandato equipara a los asnos, a las mujeres, y a los esclavos… son sólo cosas del hombre. Este solo mandamiento debería dar vergüenza a cualquier persona que se sienta heredera de la tradición humanista y racionalista, ya que en una sola línea se está respaldando la esclavitud, y la degradación de la mujer como una posesión del hombre. Nada más se podría esperar de un código de ética en el cual la mujer no es otra cosa más que una especie de ganado.
+
+.. image:: 10mandamientos4.jpg
+.. image:: 10mandamientos5.jpg
+
+Por supuesto, todas las religiones abrahámicas respaldaron esa idea hasta tiempos muy recientes. El Islam, por ejemplo, mantiene a la mujer en el mismo estado de sumisión y pertenencia personal del macho alfa, mientras que las sociedades cristianas occidentales le reconocieron a la mujer el derecho al voto sólo en la historia más reciente.
+
+Surge entonces la pregunta más importante. ¿Es esto lo mejor que pudo sugerirnos una deidad omnisciente y omnipotente en cuestión de ética? Esos patéticos mandatos primitivos, machistas, esclavistas, y discriminatorios, ¿fue lo más "sabio" que se le pudo ocurrir al supuesto creador del universo?
+
+En un mundo plagado de esclavitud, de trabajo infantil, de turismo sexual con niñas prepúberes, de hombres que golpean a sus esposas, de curas pederastas que abusan impunemente de niños y son protegidos por sus jerarcas, de sociedades en las que un hombre gana más que una mujer igualmente capacitada sólo por la diferencia de sexo, en sociedades violentas porque sus padres crían a golpes a sus hijos y el ciclo se propaga… ¿es el decálogo lo mejor que pudo darnos el Creador?
+
+Es obvio que no. ¿No es mejor un mandato que permita la libertad de culto a uno que la penalice con la muerte por lapidación? ¿No hubiera sido más importante un mandato en contra del abuso infantil, que la irrelevancia de no inclinarse ante un pedazo de piedra, acto realizado por miles de millones de personas alrededor del mundo diariamente, sin ninguna consecuencia? ¿No hubiera sido más importante un mandamiento a favor de la ciencia y la racionalidad, en vez de no irrespetar el nombre de un dios mitológico? ¿No es mejor un mandato que prohíba el sexismo y el esclavismo en lugar de uno que considere a los esclavos y a las mujeres parte del mobiliario del patriarca?
+
+Es que cualquier ciudadano podría haber dado un decálogo mucho mejor. Por ejemplo, una versión entre muchas que se me pudieron ocurrir, pensando sólo unos cuantos minutos:
+
+1. No matarás absolutamente a nadie a menos que estén amenazando tu vida.
+2. No esclavizarás ni abusarás absolutamente de nadie.
+3. Los hombres y mujeres tendrán los mismos derechos y la misma dignidad.
+4. Educarás a tus hijos con amor, sin agredirlos.
+5. Inculcarás a tus semejantes el amor por la ciencia, la racionalidad, el escepticismo y el diálogo.
+6. Debatirás racionalmente las ideas y respetarás las conclusiones lógicas así no te gusten.
+7. Respetarás el derecho ajeno de disentir y de expresar abiertamente sus opiniones.
+8. Protegerás el medio ambiente, te alimentarás sanamente y te ejercitarás con frecuencia.
+9. Los adultos son libres para guiar su vida privada como lo decidan libremente en consenso.
+10. Trabaja por una sociedad con justicia social..
+
+Este ejemplo de decálogo, sólo por el segundo y tercer ítem, es infinitamente superior al patético decálogo esclavista y machista que supuestamente escribió Yahvé con su dedo en unas planchas de roca. Y podría apostar a que la mayoría de las propuestas de los lectores podrían superar la mía. Sugiero que se haga tal ejercicio, y se contraponga la propia respuesta con el decálogo bíblico, para notar la pobreza moral de ese código arcaico.
+
+La realidad es obvia. El decálogo, con todo y sus aspectos positivos, es una sarta de reglas arcaicas e inmorales. Pensar que violar cualquiera de estas estrambóticas reglas de la edad de bronce nos va a llevar a un "pecado mortal" que nos quitará la vida eterna, es sólo una manifestación más de los métodos eclesiásticos de control del individuo a punta de miedo… Es la deshumanización y masificación de la persona.
+
+Un ciudadano verdaderamente culto y democrático debe superar esos tabúes de tribus nómadas, y usar su razón, su intelecto, y su sentido ético para actuar pensando según las circunstancias. Cualquier acto humano consciente, realizado sopesando consecuencias, con la intención de hacer el bien, está muy por encima de la respuesta automática de una oveja que responde crédulamente, sin autonomía, como un rumiante, a los mandatos de su pastor.
+
+A pesar de las estrategias de miedo que usan los clérigos para llenarse los bolsillos, "el camino al infierno no está empedrado de buenas intenciones"… De existir tal lugar, estaría empedrado con las testuces obstinadas de clérigos y borregos crédulos, que apegándose sin pensar a mandatos arcaicos e inhumanos, terminaron esclavizando personas, masacrando pueblos, apedreando mujeres inocentes, quemando herejes y científicos en la hoguera, ahogando brujas, arrasando culturas, haciendo guerras, y quemando libros, todo por seguir el decálogo de "la Palabra de Dios".
+
+.. include:: includes/exrel_pie.inc

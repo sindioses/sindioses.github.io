@@ -1,0 +1,51 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA110
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA115_1
+.. link: http://www.talkorigins.org/indexcc/CA/CA115_1.html
+.. date: 2005-02-18 02:00:00+00:00
+.. title: CA115.1: Los argumentos en favor del diseño convencieron al ateo Antony Flew a volverse teísta
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Los argumentos en favor del diseño convencieron al ateo Antony Flew a volverse teísta»
+
+Los argumentos en favor del diseño causaron que el filósofo Antony Flew renunciara a 66 años de ateísmo y admitiera que el universo fue creado. Específicamente, lo convencieron la :doc:`complejidad <CI101>` de la vida y la :doc:`improbabilidad de la abiogénesis <CB010>`.
+
+**Fuente:**
+
+Yahya, Harun. n.d. The scientific world is turning to God. http://www.harunyahya.com/articles/70scientific_world.html
+
+Respuesta
+===========
+
+1. La conversión de Antony Flew no fue al teísmo, sino a un deísmo débil, una creencia en la que el creador puso el universo en movimiento pero no ha participado de ninguna manera desde entonces ([Carrier_2004]_).
+
+2. La única prueba relevante de Flew para aceptar un dios deista fue la aparente improbabilidad de un origen naturalista de la vida ([Carrier_2004]_). Flew, según admitió el mismo, no se había mantenido al tanto con la ciencia relevante y se la enseñó incorrectamente Geral Schroeder, un físico y teólogo judío (p. ej.: [Schroeder_2001]_). Luego concedió: "Ahora me doy cuenta de que quedé como un tonto al creer que no había teorías presentables del desarrollo de la materia inanimada hasta la primera criatura capaz de reproducirse" ([Carrier_2005]_). Por lo tanto la conversión de Flew, según admite él mismo, carece de base.
+
+   Flew sigue siendo deísta pero dice que su creencia es "una deserción muy modesta de mi anterior descreimiento" ([Carrier_2005]_).
+
+3. El argumento desde la autoridad es débil en principio, y Flew nunca ha sido un vocero del ateísmo, mucho menos respecto al tema de la evolución, que no está relacionado con el ateísmo. Las creencias sin respaldo de nadie, incluyendo las de Flew, constituyen un argumento a favor en contra de la evolución (ni a favor o en contra del ateísmo). Sólo las pruebas y los argumentos lógicos son razones legítimas para aceptar o rechazar cualquier posición objetiva.
+
+Enlaces
+=========
+
+* Carrier, Richard. 2004. Antony Flew considers God--Sort of. *The Secular Web* (Oct. 10), http://www.secweb.org/asset.asp?AssetID=369
+
+* Young, Matt. 2005. Antony Flew's conversion to deism: An update. http://www.pandasthumb.org/pt-archives/000723.html (Jan. 9).
+
+Referencias
+=============
+
+.. [Carrier_2004]    Carrier, Richard. 2004. Antony Flew considers God--Sort of. *The Secular Web* (Oct. 10), http://www.secweb.org/asset.asp?AssetID=369
+.. [Carrier_2005]    Carrier, Richard. 2005. Antony Flew considers God--Sort of; Update (January 2005). *The Secular Web* (Oct. 10), http://www.secweb.org/asset.asp?AssetID=369#January2005-1
+.. [Schroeder_2001]    Schroeder, Gerald. 2001. The Hidden Face of God: How Science Reveals the Ultimate Truth.
+
+/////
+
+Anterior: :doc:`CA114_28` | Siguiente: :doc:`CA118`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

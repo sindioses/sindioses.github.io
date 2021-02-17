@@ -1,0 +1,778 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. date: 2006-04-28 00:00:00
+.. author: James Randi, traducción de Juan Ignacio Rodríguez de León
+.. category: Traducciones de James Randi
+.. title: Boots de nuevo; Volvemos a visitar PEAR; &quot;Avances&quot; médicos en Alberta; Reglas especiales para la pseudociencia; Toda la verdad sobre el sonido de  alta fidelidad; CSI da un paso adelante; Musulmanes en órbita; Gary ha vuelto; El asombroso poder de la oración; Y en conclusión...
+.. type: randi
+
+Boots de nuevo
+..............
+
+.. figure:: http://www.randi.org/images/commentary/200604/28ring.jpg
+   :alt:
+   :figwidth: 300
+
+   **¿CURA EL RONQUIDO? ¡Sí, claro!**
+
+   ¡Vendido con orgullo por Boots!
+
+Rob Smith, lector del reino Unido y director técnico del
+*North East Regional e-Science Centre*, nos habla sobre la
+cadena de farmacias Boots (Véase http://www.randi.org/jr/200509/090905these.html#1
+{vertraduccion;randi20050909.html}
+para más información), que están intentando vender de nuevo
+aceite de serpiente. Esta vez de una forma aun
+más tonta que en su anterior viaje a la tierra de las
+fantasías malignas. Rob nos informa:
+
+    ... Se están emitiendo en el Reino Unido anuncios del
+    anillo del caballero Silencioso - un producto que se supone
+    evita los ronquidos. Hay un poco de pseudociencia ridícula
+    que pretende explicar como es posible esto en su página
+    web: http://www.silentknightring.com/.
+
+    Obsérvese que en dicha página se proclama orgullosamente que
+    el producto está disponible en Boots.
+
+    Esto me llamó la atención, porque en el Reino Unido, Boots es una
+    institución. Es la referencia y el canon de las farmacias. Ha estado
+    en el negocio desde siempre. Mucha gente confía en ellos. Una
+    búsqueda rápida me mostró otros productos "alternativos" en
+    su catálogo, así que les envié un correo electrónico.
+
+    Desgraciadamente, ya sea por mi enfado momentáneo o simplemente
+    por estupidez, cometí el error de contactar con ellos a
+    través de un formulario *web*, de forma que no dispongo
+    del mensaje original. En cualquier caso, he aquí su
+    respuesta:
+
+
+        Gracias por ponerse en contacto con nosotros, con respecto
+        a su decepción por la comercialización del producto "Caballero
+        Silencioso" como solución alternativa para los ronquidos. Me
+        he puesto en contacto con nuestro equipo de cuidado de la salud
+        en su nombre, y a continuación le remito la respuesta que he
+        recibido.
+
+        Boots es la primera empresa de suministros médicos en el Reino
+        Unido, y además de disponer de las licencias requeridas para
+        la prácticas de anunciar y vender tanto medicinas como
+        dispositivos médicos, también nos gusta poder ofrecer un
+        conjunto de productos curativos alternativos. Boots se
+        enorgullece de darle al comprador la libertad
+        de elegir, de forma que no sería apropiado por nuestra
+        parte negar al consumidor el acceso a productos
+        y terapias alternativas, si eso es lo que desean. La clave
+        es verificar que las afirmaciones hechas relativas a
+        estos productos sean apropiadas. Esto significa, o bien
+        asegurarse de que hay estudios disponibles que contrasten
+        los resultados, o asegurarse de que las afirmaciones
+        realizadas son razonables (que estén establecidas y
+        aceptadas en el mercado para productos iguales o similares).
+        Muchos de estos productos hacen afirmaciones muy débiles, o incluso
+        ninguna. Todos los productos que llegan por primera vez a Boots
+        son revisados por expertos técnicos para asegurar
+        tanto nuestros compromisos éticos como legales. Hay muchos
+        productos que nunca llegan a nuestros listados debido a
+        un etiquetado deficiente o a realizar afirmaciones
+        inapropiadas.
+
+        No nos disculpamos por comerciar con productos sanitarios
+        alternativos, y continuaremos haciéndolo en tanto en cuanto
+        nuestros clientes sigan demandándolos.
+
+    Por alguna razón, esta respuesta no parecía satisfacerme,
+    así que respondí:
+
+        Gracias por su respuesta. Me temo que era la que
+        esperaba y me parece, de alguna forma, deshonesta; el
+        mensaje en su conjunto parece ser que que no les
+        importa lo más mínimo la salud de sus pacientes,
+        siempre y cuando les puedan vender algo.
+
+        Del texto de la respuesta parece que se sienten ustedes
+        muy cómodos vendiendo deliberadamente productos ineficaces
+        o inútiles, siempre que las compañías que los producen
+        no hagan afirmaciones muy serias sobre su utilidad. O
+        si, previamente, otras compañías han engañado al público
+        para endosarles productos parecidos. Para alguien que
+        ocupa una posición tan influyente como "la primera
+        empresa de suministros médicos en el Reino Unido" me
+        parece, la verdad, poco honrado.
+
+        En el caso concreto del anillo del Caballero Silencioso, las
+        afirmaciones realizadas me parecen muy fuertes; extraído
+        de la página web de dicho producto:
+
+            "Deje de roncar AHORA con este producto fuera de serie,
+            sencillamente poniéndoselo en su dedo meñique. El anillo
+            del Caballero Silencioso es la solución mas
+            natural y efectiva que se puede usar para prevenir
+            los ronquidos. Las investigaciones realizadas
+            han descubierto que pueden eliminar completamente
+            los ronquidos en un 60 por ciento de los usuarios, y
+            lo reducen considerablemente en el resto. La elevación
+            que se aprecia en la cara interior del anillo actúa, cuando
+            se posiciona adecuadamente, en uno de los meridianos
+            que recorren el dedo meñique del roncador. Utiliza
+            los antiguos principios de la acupresión [*sic*],
+            específicamente el principio de Tuina, que es una
+            variedad de masajes orientales procedente de China.
+            Es una combinación de masaje, acupresión y otras
+            formas de manipulación corporal".
+
+            "Quizás haya oído hablar de la Reflexología, que
+            consiste en aplicar presión en manos, pies e incluso
+            orejas, para tratar un amplio conjunto de dolencias.
+            Tuino es una forma de reflexología cuya historia
+            antecede a la de cualquier medicina convencional
+            occidental en cientos de años".
+
+            "La forma de conseguir que el anillo del Caballero
+            Silencioso funcione es ponérselo aproximadamente
+            una hora antes de ir a acostarse, posicionar
+            correctamente el
+            Estimulador de Acupresión (Se incluyen instrucciones
+            detalladas) y apretar ligeramente para aplicar
+            presión. ¡Esto es todo! ¡Tuino y el anillo trabajan
+            en equipo para eliminar el problema de los
+            ronquidos definitivamente!
+
+        Y luego, por supuesto, esta toda la típica evidencia
+        anecdótica en su sección de "Testimonios". Desde
+        luego que parecen estar haciendo afirmaciones bien
+        fuertes sobre lo efectivo que es el
+        producto. ¿Quizá podría usted indicarme los
+        estudios que indican que dicha afirmación está
+        justificada? ¿O prefiere acogerse a la defensa de que
+        si el producto "está bien establecido y aceptado en el
+        mercado" (Signifique esto lo que signifique - a mi
+        me suena a la típica cláusula evasiva) entonces
+        las pruebas de que de verdad funcione no son
+        necesarias?
+
+Randi comenta: La descripción de los fabricantes del anillo del
+Caballero Silencioso es tan delirante, tan infantil, y tan mal
+sostenida, que tiene que asombrarnos el que alguien pueda
+leerla sin reírse. Pero -y estoy seguro que nuestro
+corresponsal estará de acuerdo- el hecho es que Boots
+ignore esta estafa y continua ofreciendo el producto
+a sus confiados compradores es realmente grave. Tenemos
+que preguntarnos: ¿Quiénes son esos expertos técnicos
+que Boots mantiene en su plantilla con el fin de evaluar
+estos asuntos? ¿son simplemente estúpidos, o realmente
+malvados de corazón?. Rob Smith continua en su
+carta a Boots:
+
+        También me choca que se hable de pedir "datos" que
+        confirmen las afirmaciones hechas y no de "evidencias".
+        La diferencia entre los dos conceptos es grande. En
+        el caso de los remedios, en concreto aquellos se venden
+        como remedios para el público general, la única evidencia
+        aceptable es la que se puede obtener con experimentos
+        controlados por el procedimiento de doble ciego. "Datos"
+        puede ser cualquier cosa - anécdotas, información sesgada -
+        cualquier cosa que alguien decida registrar. Insistir en
+        pedir "datos" para apoyar la venta de estos productos no
+        tiene sentido. Bueno ... el [representante de la compañía
+        que vende el producto] dice que funciona, así que yo
+        declino toda responsabilidad.
+
+        Dice usted "No nos disculpamos por comerciar con productos sanitarios
+        alternativos, y continuaremos haciéndolo en tanto en cuanto
+        nuestros clientes sigan demandándolos".
+
+        La razón de que estos productos sean considerados "alternativos" es
+        que no hay ni la más mínima evidencia de que funcionen. En caso
+        contrario, ya serían de uso general. Como farmacia, Boots
+        debería ser consciente mejor que nadie de las dificultades
+        que afrontan las medicinas convencionales antes de que se permita
+        su venta al público. En particular, deben demostrar tanto
+        ser *efectivas* como *seguras*, en un grado determinado por una
+        normativa bastante rigurosa.
+
+        No puedo creer que ustedes vendieran remedios farmacéuticos
+        que no hubieran pasado estos controles, así que estoy muy interesado
+        en que me expliquen cómo se sienten vendiendo remedios
+        "alternativos", que no es que no hayan pasada los controles, es que ni
+        siquiera lo han intentado. Me reitero en mis sospechas de que
+        ustedes están vendiendo, deliberadamente, "remedios" que ustedes
+        saben inútiles -o, al menos, que ustedes ignoran si son efectivos. Cobran
+        a personas vulnerables una considerable
+        suma de dinero por el privilegio de comprar
+        remedios aparentemente inocuos y que hacen pasar por efectivos. Lo hacen sin
+        ninguna evidencia y usan palabras engañosas para justificarlo.
+
+        Personalmente, me gustaría que adoptaran una actitud menos egoísta, que
+        prestara más atención a la apremiante situación de los consumidores que
+        ustedes pretenden ayudar.
+
+    No me puedo creer que Boots se tomara esto en serio. Es
+    vergonzoso y también produce
+    vergüenza ajena. Utilizar una reputación ganada durante años para
+    aumentar las posibilidades de timar a la gente sigue
+    siendo bastante extraño aquí, en el Reino Unido, a pesar de lo ingenuos que
+    seamos a veces.
+
+    Le haré saber si Boots me responde.
+
+.. image:: http://www.randi.org/images/commentary/200604/28boots.jpg
+    :align: right
+    :width: 230
+    :height: 140
+
+Rob, todo está perfectamente explicado por Boots en su primera
+respuesta: "...continuaremos [vendiendo productos medicinales
+alternativos] en tanto en cuanto
+nuestros clientes sigan demandándolos". Esto nos indica no solo
+que a Boots no le importa ni un comino la salud y el bienestar de sus
+clientes, o la eficacia de los productos que venden, siempre
+que la caja siga sonando; pero que, incluso si se les muestra
+que son simples patrañas - y esta ciertamente lo es - continuarán
+vendiéndolo *porque es rentable*. Hemos de maravillarnos de que
+Boots nunca haya oído hablar del opio, la heroína o las
+metanfetaminas; estoy seguro de que habrá clientes hay fuera
+que "quieran comprarlas", así que si Boots *pudiera venderlas
+legalmente*, no tendría ninguna duda en hacerlo, no. Eso es
+lo que están diciendo.
+
+Y Rob Smith nos hará saber si Boots se toma la molestia de responder
+a sus comentarios. No creo que lo hagan...
+
+Volvemos a visitar PEAR
+.......................
+
+Mark Chu-Carroll, que se describe a si mismo como:
+
+    Un informático que trabaja en investigación en un laboratorio
+    corporativo. Mis intereses profesionales se centran en diseñar y construir
+    lenguajes de programación y herramientas que permitan a grupos de
+    personas trabajar conjuntamente para ensamblar grandes sistemas
+    de *software*.
+
+Ha llamado nuestra atención. En primer lugar, les recuerdo que
+hay muchas referencias archivadas en estas páginas sobre las
+actividades realizadas en el PEAR
+(Princeton Engineering Anomalies Research), como
+por ejemplo en http://www.randi.org/jr/072905beenthere.html
+{vertraduccion;randi20050729.html}.
+Mark nos ofrece una explicación convincente de este tema, que
+ha sido utilizado muchas veces para desafios del estilo: ¿Cómo
+explica esto, señor Randi?
+
+No tengo ningún problema en absoluto para comprender lo que está pasando
+en el PEAR, pero Mark maneja el asunto con la soltura que le
+da el ser un experto en la materia, por lo que me alegra poder
+presentar sus conclusiones. Un extracto de sus comentarios:
+
+    ...Empecé estudiando el artículo del PEAR. Como recordatorio breve,
+    comentar que PEAR es un grupo en la universidad de Princeton
+    que estudia "La interacción entre la conciencia humana y dispositivos
+    físicos, sistemas y procesos de medición comunes a la prácticas
+    de ingeniera actuales". No hay muchos más que decir después de esto, pero
+    aun existen algunos argumentos que merece la pena considerar.
+
+    Considerado en conjunto, el problema con las publicaciones del PEAR
+    es que han generado una cantidad realmente masiva de datos, que
+    *no* contienen ninguna anomalía estadística significativa, de
+    ninguna clase. A pesar de ello, siguen intentado demostrar
+    que determinadas propiedades de los datos sufren anomalías, aun
+    siendo estadísticamente insignificantes. Esto es un completo
+    disparate; *cualquier* conjunto de datos, convenientemente
+    dividido y reordenado, contendrá subconjuntos con características
+    aparentemente anómalas. El propio concepto de significancia estadística gira
+    sobre la idea de medir si una aparente tendencia en un conjunto
+    de datos es, o no, lo suficientemente  fuerte como para ser considerada
+    algo más que simple ruido.
+
+    La sección 3C es típica. He aquí lo que nos dicen en la introducción a esta
+    sección:
+
+        Cualquier detalle estructural de los ensayos de cálculos
+        de distribución que aporte algo a las desviaciones anómalas
+        de las medias puede resultar apropiada para modelar esas
+        correlaciones. Aunque no hay evidencia estadística significativa
+        de variaciones en sesgo, desviación, kurtosis o momentos
+        de los valores muestreados en el conjunto completo de datos,
+        se puede discernir patrones regulares a una escala muy
+        ínfima.
+
+    Esta es una afirmación *extraordinariamente* irrefutable. Traducido
+    al castellano, viene a decir que *no existe* nada estadísticamente
+    significante en los datos que nos permita concluir nada más que
+    el absoluto azar. Pero si seleccionamos adecuadamente un
+    conjunto de muestras,
+    descubrimos patrones interesantes.
+
+    Veamos con un ejemplo exagerado lo que, en la
+    práctica, significa esto.  Si tomamos un conjunto de
+    números generados al azar,
+    y lo seccionamos de forma que sólo contenga múltiplos de
+    2 y 3, encontraremos que el nuevo subconjunto contiene
+    una cantidad extrañamente alta de números pares. ¿Es una anomalía
+    significativa? Sólo en el sentido de que ha seleccionado
+    el subconjunto de datos con la propiedad que me interesaba -yo
+    mismo *creé* la anomalía con mi selección - por lo que la "anomalía"
+    es una propiedad de mi método de selección, y no de los datos
+    subyacentes.
+
+    La sección 3D es más o menos lo mismo:
+
+        Dada la correlación de las intenciones del operador con
+        las desviaciones anómalas de la media, es razonable buscar
+        en los datos por rasgos específicos del operador
+        que puedan establecer algún patrón de contribuciones
+        de operadores individuales al conjunto global de resultados.
+        Desafortunadamente, el cálculo estadísticamente cuantitativo
+        de los operadores resulta muy complicado por la inevitable disparidad
+        en los tamaños de las bases de datos de los operadores, y por
+        la debilidad en la relación señal-ruido de los datos, que hace que las
+        representaciones gráficas y analíticas de la distribución de
+        los efectos de operadores individuales sea sólo marginalmente
+        esclarecedoras.
+
+    Este párrafo es interesante por un par de razones. En primer lugar,
+    es la admisión más directa que se puede encontrar en todo el artículo
+    de cuan *inválidos* son sus datos. Están combinando resultados de
+    protocolos experimentales significativamente distintos: Algunos
+    de los sujetos a prueba han hecho bastantes más experimentos
+    con el equipo que otros; pero los resultados son mezclados
+    como si todos fueran consistentes.
+
+    En segundo lugar, admiten abiertamente que los datos son inválidos, y que
+    cualquier conclusión que se pueda derivar de ellos no tendrá
+    sentido -pero de todas formas van a proceder a extraer
+    conclusiones, aun y cuando,en sus propias palabras, estas sólo
+    podrán ser "marginalmente esclarecedoras". Incluso esta afirmación
+    resulta ridículamente atrevida. El término correcto es "sin sentido".
+
+    La sección cuatro empieza con otra afirmación bastante
+    divertida:
+
+        posibles correlaciones secundarias de los efectos se
+        acumulan con factores técnicos, psicológicos y ambientales, por
+        ejemplo, el tipo de generador aleatorio, la distancia entre
+        el operador y la máquina, el sexo del operador, dos
+        o más operadores colaborando, efectos de la retroalimentación,
+        la tasa de generación de bits, el número de bits muestreados
+        por intento, el numero de intentos comprendidos en una
+        serie de pruebas, las opciones del protocolos voluntarias
+        frente a las obligatorias, la experiencia del operador y
+        muchas otras que han sido estudiados en diferentes grados
+        durante la realización de los experimentos, así como en
+        otros informes relacionados no discutidos aquí. Muy
+        brevemente, una inspección cualitativa de estos datos,
+        junto con un análisis exhaustivo de la varianza, nos indican
+        que la mayoría de estos factores no alteran de manera significativa
+        la naturaleza o la escala de los efectos combinados de los
+        operadores sobre los señalados anteriormente, aunque
+        pueden ser de relativa importancia en los patrones de
+        rendimiento de ciertos operadores individuales.
+
+    Eliminado las complejidades innecesarias, esto se
+    traduce a: "Prácticamente todas las propiedades
+    del experimento varían en mayor o menor medida; los
+    resultados de los experimentos, por otro lado, se muestras
+    estadísticamente insignificantes; y cuando intentamos
+    separar el efecto individual de cada factor para
+    evaluar su influencia en los
+    resultados, no se pudo encontrar nada que fuera
+    estadísticamente significativo."
+
+    .. figure:: http://www.randi.org/images/commentary/200604/28demons.jpg
+       :alt:
+       :figwidth: 203
+
+       **¡Fuera, fuera, demonios de la estupidez!**
+
+    Una última cita, y habré terminado con el tema para siempre.
+    PEAR ha sufrido frecuentes críticas de, entre otros, James Randi (También
+    conocido como El Asombroso Randi) por la falsedad de sus experimentos.
+    Una de las críticas más repetidas es, muy apropiadamente, la posibilidad
+    de replicación de los mismos; es decir, ¿Es posible repetir estos
+    experimentos, y obtener estos resultado presuntamente
+    anómalos, en una entorno de prueba controlado y observado
+    por gente que no pertenezca al PEAR?
+
+    He aquí la respuesta:
+
+        De vez en cuando, nuestros experimentos han sido valorados, tanto
+        formal como informalmente, por un conjunto de observadores
+        críticos, los cuales han estado generalmente de acuerdo
+        en que el equipamiento, los protocolos y el procesado de los datos
+        son sólidos. No obstante, es frecuente la advertencia de que
+        dichos resultados deberían ser "replicados" antes de ser
+        aceptados en su totalidad, variando el criterio de replicación
+        desde una estricta preservación de todos los detalles técnicos
+        y procedurales hasta una mayor flexibilidad, permitiendo
+        equipamiento y protocolos similares. En nuestra opinión, con experimentos
+        de este tipo, en los cuales están implicados claramente
+        aspectos psicológicos substanciales y, por tanto, comportamientos
+        estadísticos tanto individuales como colectivos, es poco
+        razonable exigir que los operadores
+        produzca resultados idénticos en diferentes días, o que
+        un grupo de operadores pueda reproducir cuantitativamente
+        los mismos
+        resultado que cualquier otro. resulta  mucho más apropiado
+        usar esos criterios en experimentos controlados
+        sobre creatividad, percepción, aprendizaje o rendimiento
+        deportivo, donde los margenes estadísticos de rendimientos
+        individuales o colectivos son mucho más tolerantes, los
+        rendimientos colectivos pueden predecirse, y los resultados
+        obtenidos, interpretados de acuerdo a los términos habituales
+        en estadística.
+
+    No podemos reproducir los resultados, porque no sería juego limpio.
+
+    Por supuesto, se han realizado experimentos cuidadosamente controlados
+    sobre percepción, aprendizaje y rendimiento deportivo, con resultados
+    perfectamente reproducibles (No esto seguro sobre la
+    creatividad, porque no conozco ninguna definición de
+    "creatividad" que sea susceptible de ser cuantificada). Pero, ¡que
+    diablos! PEAR no va a dejar que este hecho se interponga en su
+    camino. Simplemente, no es razonable pedir que los resultados
+    sean reproducibles.
+
+He aquí una refutación, por parte una autoridad cualificada en la
+materia, de que las afirmaciones hechas por el PEAR soportan el escrutinio
+crítico. Conseguir que Brenda Dunne responda a esto puede convertirse
+en una tarea ciclópea, amén de estéril, ¿alguien se anima..?
+
+
+"Avances" médicos en alberta
+............................
+
+Un lector de Canadá nos informa de que en un hospital
+de Alberta, el *Stollery
+Children's Hospital*, situado en Edmonton, siempre pendiente de
+poder ofrecer a sus pacientes lo último en pseudo-medicina, ha
+formado un equipo compuesto por un pediatra, un naturópata, un herbalista
+(especializado en hierbas chinas), un acupunturista y
+un masajista, para ofrecer
+consejo a los padres de hijos desmejorados e "informarles
+de terapias alternativas probadas y seguras "
+
+.. image:: http://www.randi.org/images/commentary/200604/28quacks.jpg
+    :align: right
+    :width: 300
+    :height: 271
+
+La Doctora Sunia Vohra es la pediatra del equipo. Nos explica su
+punto de vista: 'Es muy frustrante tener que responder una pregunta
+con "no lo sé" o "no estoy segura"'. Bueno, doctora, aún arriesgándome
+a repetirle lo que ya debería saber, a juzgar por su doctorado, la medicina
+moderna tiene que decir, a veces, justamente eso, y no
+contestar con respuestas definitivas, preestablecidas y resultonas, algo
+que los practicantes de "medicinas" alternativas adoran hacer. Toda
+ciencia es una búsqueda de respuestas, un intento organizado de obtener
+una afirmación que parezca representar una verdad objetiva, y como tal
+intento, debe estar sujeta a desafíos y a posibles falsificaciones.
+Las "vibraciones", el "chi", la "energía orgónica", las "subluxaxiones",
+los "bloques de energía", los "chakras", los "rayos terrestres" y
+demás parafernalia ofrecida por la medicina alternativa son sólo
+conceptos coloristas, mas vacíos de significado. Parecen satisfactorios
+y definitivos, pero sólo sirven para mantener a los pacientes en un estado
+placentero, mientras que las causas reales, a veces no completamente
+entendidas, permanecen ocultas.
+
+Cómo ya saben los lectores habituales, me estoy recuperando de una
+intervención cardiaca, un *bypass* doble. Me morí; fui resucitado
+y operado sin ningún tipo de medicina fraudulenta. Fue auténtica
+ciencia en acción, probada y comprobada muchas veces antes que
+me rindiera al sulfato de morfina que me ahorró
+tanta incomodidad. No existía nada "alternativo" en el procedimiento
+al que me vi sometido; nada de invocaciones, súplica a los dioses,
+imposición de manos, raíces de formas extrañas ni talismanes
+mágicos. Fue sólo ciencia -dura, vigorosa y disciplinada-  haciendo
+su trabajo. Nadie me prometió la vida; las estadísticas estaban
+claramente a mi favor, pero no había ninguna garantía en
+absoluto. Acepté la oportunidad de poner mi vida en el sistema, sabiendo
+que ningún doctor es perfecto, ningún procedimiento a prueba de
+fallos, y que no existía ningún resultado seguro. Escucho
+a los *auténticos* científicos que todos los días me hacen
+ejercitarme en toda clase de máquinas malvadas -y por ahora me va
+muy bien.
+
+Reglas especiales para la pseudociencia
+.......................................
+
+Doug Fraser, profesor de ciencias en Ontario, Canadá, nos
+recuerda que la revista *The Lancet*, editada por
+la Asociación Médica de Gran Bretaña, publicó un
+aplastante reproche a la homeopatía el pasado agosto.
+Véase http://news.bbc.co.uk/2/hi/health/4183916.stm.
+Pero según Doug, la mejor parte de ese artículo -que algunos
+pueden haberse perdido- era la respuesta de un portavoz no identificado
+de la Sociedad de Homeópatas. Afirmaba, en una frase que
+no podría reflejar con más claridad la equivocada naturaleza
+de la pseudociencia:
+
+    Ha sido establecido, más allá de toda duda, y aceptado
+    por muchos investigadores, que las pruebas realizadas
+    contra controles aleatorios del efecto placebo no son
+    apropiadas para la homeopatía.
+
+Ridículo. Nos dice que la misma esencia de los controles, probados
+y establecidos por la ciencia para la evaluación de los experimentos, son
+incorrectos. Esto sorprenderá, sin duda, a cualquier científico sobre
+la faz de la Tierra. El señor Freaser comenta:
+
+    Así que ya sabemos la cruda verdad directamente de la boca
+    de los homeópatas - las
+    matemáticas de los números al azar no funcionan con ellos, las
+    tendencias o prejuicios en investigadores y pacientes
+    deben mantenerse, y si se toma un remedio homeopático, este
+    puede no funcionar si, en algún otro lugar, alguien se ha tomado
+    una pastilla de goma. Es realmente duro vivir en el Universo tipo
+    Shirley MacLaine.
+
+De acuerdo. Pero la homeopatía siempre ha pedido reglas especiales
+por las cuales ser evaluada. Creo que un lema mejor para la Sociedad de
+Homeópatas sería:
+
+    Ha sido establecido, más allá de toda duda, y aceptado
+    por muchos investigadores, que cuando se realizan
+    prueba de doble ciego convenientemente aleatorizadas
+    y controladas, los resultados señalan que la homeopatía
+    es inútil. por lo tanto, se concluye que los mecanismos
+    científicos normales no son adecuados para el estudio
+    de la homeopatía.
+
+¿De acuerdo?
+
+Toda la verdad sobre el sonido de alta fidelidad
+................................................
+
+
+De nuestro lector Aaron Drabbitt, de Victoria (Columbia
+Británica), Canadá, una confesión y algunos consejos...
+
+    Hace poco envié una carta a alguien que me pedía asesoramiento
+    para mejorar su equipo de audio. No creo que se esperase
+    mi respuesta.
+
+    Empezaré advirtiéndoles de que ser un "audiófilo" tiene
+    tanto de fe y psicología como de electrónica y acústica.
+    Personalmente, he ido recorriendo todo el espectro,
+    desde al fundamentalista pirado de
+    la alta fidelidad hasta mi estado actual, de ateo del audio ...
+    más o menos durante 27 años. Estudié ingeniería eléctrica
+    en el BCIT (*British Columbia Institute of Technology*), he incluso
+    estuve al cargo de un pequeño negocio de diseño de sistemas
+    y altavoces "a la carta", para los más adinerados.
+
+    Más o menos el asunto se resume en esto: Oirás lo que quieras oír.
+    Si te gastas 2000 $ en un nuevo amplificador, oirás unas mejoras
+    en el sonido por valor de 2000 $, aunque es muy probable que, en una
+    prueba doble ciego, no fueras capaz de apreciar la diferencia. He
+    oído toda clase de argumentos sobre lo malos que son los test
+    doble ciego... pero la verdad es que lo único que hacen es
+    eliminar el sesgo psicológico. Eliminan la "religión" en la
+    reproducción de audio.
+
+    Lo que me lleva al tema del doble cableado y la doble amplificación.
+    No hay de que preocuparse. En realidad, no producen ninguna diferencia
+    que esté en proporción a su coste.
+
+    Creo que la gente obtendría mejores resultados y estaría mucho
+    más feliz si invirtiera la mitad de dinero que emplea en mejoras
+    de su equipo en acondicionar la acústica de su sala de audio. La
+    acústica es extremadamente importante, comprende
+    un 75% del programa THX. Marcará una diferencia mucho más
+    grande en el sonido de tu sistema que cualquier cambio en el
+    amplificador.
+
+    Hay más magia, pseudociencia y fraude en la industria del audio
+    que en la consulta del quiropráctico homeópata de turno.
+
+    Si no te alcanza el presupuesto, y buscas un buen sonido, yo empezaría
+    por estudiar todo lo que pudiera sobre acústica, y como mejorar
+    la sonoridad de una habitación. Invierte tu dinero en eso. Una vez
+    que hayas eliminado ondas estacionarias y reflejos parásitos, empieza
+    a buscar puntos débiles en tu sistema que puedas eliminar. Probablemente
+    lo primero serán los altavoces. Lo último que yo miraría sería
+    el cableado, ya sea de conexión entre las partes del equipo o con
+    los altavoces (Un Truco: El mejor cable para altavoces es el
+    cable de red categoría 5, enrollando los hilos del mismo color entre si.
+    Puedes añadir más cable si necesitas mas longitud, o trenzarlos entre
+    si para formar un único cable).
+
+    ¡Espero que esto le sirva de ayuda a alguien!
+
+¡Gracias , Aaron! Como nuestros lectoras ya sabrán, he estado batallando
+con la revista *Stereophile Magazine*, que promociona toda clase
+de cacharrería excéntrica y no da muestras de distinguir entre
+clamorosas estafas y afirmaciones dudosas en sus páginas. Los intentos
+de que se involucraran en la realización de pruebas doble ciego -incluso
+con el premio de un millón de dolares de la fundación como aliciente, en
+caso de conseguir resultados positivos- sólo consiguieron que salieran
+corriendo como alma que lleva el diablo.
+
+Analicemos esto por un instante, amigos. Nos comprometemos legalmente
+a entregar un premio de un millón de dolares
+a la revista *Stereophile
+Magazine*, o a cualquier otro promotor o vendedor de estas insensateces,
+simplemente por ponernos de acuerdo y realizar una serie de pruebas
+sencillas y definitivas, que demostrarían más allá de toda duda
+sus creencias y/o afirmaciones. ¡Un millón de dolares! ¿Puede estar más claro?
+Me parece a mí que la única explicación para esa desgana es que
+**saben perfectamente** que no tiene razón, que lo que afirman es insostenible y que
+el producto o servicio que ofrecen es un vulgar fraude -y a pesar de ello,
+siguen ofreciendo estas engañifas a sus clientes, conscientes de su falsedad. No
+se me ocurre ninguna otra alternativa.
+
+Me divirtió bastante leer una crítica en la revista a mi persona y al premio
+del millón de dolares de la Fundación Randi, un artículo que se basa
+principalmente en el hecho de haberme cambiado el nombre legalmente, para
+que se ajustara a las necesidades del mundo del espectáculo. No se me ocurre
+mejor razón para rechazar el premio. Pueden leer la crítica aquí:
+http://www.stereophile.com/artdudleylistening/1104listening/index1.html.
+Busquen la palabra "Randi".
+
+CSI da un paso adelante
+.......................
+
+John Banghart, del Centro para la Seguridad de Internet (*The Center
+for Internet  Security*), nos comenta:
+
+    Acabo de terminar de leer la última columna, concretamente
+    el artículo sobre el programa de televisión Numb3rs. No
+    he visto esa serie, pero la que si suelo seguir es C.S.I.
+    La semana pasada, o quizás la anterior, emitieron un
+    episodio en el cual un psíquico, el cual había tenido visiones
+    de su propia muerte, supuestamente condujo a un
+    investigador a encontrar un cadáver enterrado.
+
+    Uno de los integrantes del equipo de CSI cree en el, y otro no. Al final
+    del capítulo, se hace patente que los fenómenos psíquicos fueron
+    el resultado de una coincidencia junto con el poder de la sugestión, y
+    queda perfectamente claro en la última escena. Me alegró que siguieran
+    esa camino, cuando resultaba tan fácil ir por el otro.
+
+    Dado que C.S.I. es una de los programas televisivos de más éxito
+    en los E.E.U.U. creo que podría ser interesante comentar
+    su compromiso con la realidad en su próximo comentario. La postura
+    del programa parece ser la de nunca retroceder.
+
+Si están interesado, he aquí un enlace a
+una descripción más detallada de la trama del episodio:
+http://www.cbs.com/primetime/csi/episodes/619/
+
+Musulmanes en órbita
+....................
+
+El año que viene, parece ser, Malasia enviará un astronauta musulmán
+al espacio, mediante una colaboración con el programa espacial ruso.
+Esto trae aparejado algunos problemas para los esfuerzos del gobierno de Malasia de
+promover lo que ellos llaman el *Islam Hadhari*, o Islam civilizado. Esta
+variante anima a los musulmanes a adoptar la educación, la ciencia y la
+tecnología. No se dice nada, sin embargo, sobre el asunto de la igualdad
+para las mujeres y otros aspectos básicos.
+
+.. image:: http://www.randi.org/images/commentary/200604/28muslim.jpg
+    :align: right
+    :width: 200
+    :height: 233
+
+Dado que la jornada habitual para un astronauta suele ser muy laboriosa, y
+sabiendo que un musulmán en órbita en la estación espacial puede confundirse
+por experimentar más de una docena de amaneceres y
+atardeceres en 24 horas, cada uno con su correspondiente oración, parece
+que se va a encontrar realmente agobiado. Además, como los musulmanes siempre se
+lavan antes de rezar, y el agua es una sustancia tan valiosa en el espacio, intentar
+estas abluciones no sólo sería extremadamente caro, tampoco sería poco práctico sin
+gravedad, con el agua dispersándose por todas partes.
+
+Incluso después de haber afrontado estas dificultades, será realmente difícil
+para el orador encararse hacia La Meca en gravedad cero. Se pueden producir
+peligrosos movimientos de rotación en el cuerpo del devoto, mientras
+intenta apuntar al fugaz objetivo.
+
+Como nos comenta el lector Andrew Williams, "Parece que los Musulmanes tendrán que
+evolucionar en su visión de la vida en el espacio". Desgraciadamente, la evolución juega
+en contra de los principios de la mayoría de las religiones.
+
+El progreso tiene sus inconvenientes....
+
+Gary ha vuelto
+..............
+
+Dominic, del Reino Unido, nos comenta:
+
+    Gary Schwartz está haciendo sentir su presencia en el Reino Unido de nuevo.
+    En nuestro sistema de transporte público, el metro, se regala una
+    revista (*The Metro*). Han publicado una entrevista al Doctor Schwartz
+    , que se puede consultar en
+    http://www.metro.co.uk/weird/article.html?in_article_id=12145&amp;in_page_id=2
+
+    Lo mejor es el siguiente extracto, donde se explica lo que es la ciencia "buena".
+
+        Schwartz proclama que su investigación le ha llevado a lo que el
+        llama "el secreto de la buena ciencia: replicación y extensión". La
+        teoría viene a decir que primero replicas el experimento anterior, y
+        luego subes otro nivel. Esta técnica ha hecho que el equipo de
+        investigación vaya desde simples interrelaciones de un par de médiums
+        a lo que ahora se conoce como experimentos de "paradigma multicentrado,
+        doble ciego y doble difunto". Cada experimento tiene lugar en dos
+        sitios diferentes, con dos médiums y dos sujetos que nunca se
+        han visto entre si, y para cada difunto que el médium alegue
+        haber contactado, dicho difunto debe traer a otra persona fallecida
+        con el para verificación. Las lecturas son posteriormente
+        contrastadas por exactitud.
+
+    ¿Verificar el experimento usando otro muerto? Es una estupidez tan
+    grande que no sé si reír o llorar.
+
+Este es una nuevo ejemplo, Dominic, de como un científico, incapaz
+de encontrar sentido alguno a sus datos, cambia el
+protocolo -normalmente complicándolo- hasta que los resultados
+parecen indicar algo. Con su cháchara confusa sobre el "paradigma multicentrado,
+doble ciego y doble difunto", Schwartz tiene tantas formas de analizar
+los datos que es seguro que siempre encontrará algo para publicar.
+Cree que así es como funciona la ciencia.
+
+Léase, un poco antes, "Volvemos a visitar PEAR", para un caso similar.
+
+El asombroso poder de la oración
+................................
+
+Una nota de un servicio de prensa nos informó de que
+hace 17 años, ese mismo día de 1989, el presidente de Bangladesh
+pidió a sus conciudadanos que rezaran para pedir el fin
+de una sequía que duraba ya dos meses. Los oradores
+fueron quizás respondidos unos cuarenta minutos más tarde, cuando
+grandes tormentas de lluvia y dos tornados arrasaron varias
+zonas rurales de Bangladesh. Más de 500 personas murieron y millares
+quedaron sin hogar.
+
+Recuerden el antiguo dicho: ten cuidado con lo que deseas; a lo mejor lo
+consigues.
+
+Y en conclusión...
+..................
+
+Tuvimos nuestra habitual jornada de puertas abiertas el último miércoles
+del mes, aquí, en la Fundación, y nos sirvió para marcar el hecho de que
+ya estamos de vuelta y metidos en harina de nuevo. En una sensación realmente
+buena. El doctor Hal Bidlack se unirá al equipo para "Incre!ble
+Aventura: Fuga del triángulo de las Bermudas" (Véase
+http://www.randi.org/amazingmeeting/cruise/cruise.html) y nuestros
+columnistas habituales se están poniendo en forma para el próximo
+encuentro *Amaz!ng Meeting*, el número 5.
+
+La vida es bella...
+
+|firmarandi|
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: James Randi (traducido por Juan Ignacio Rodríguez de León)
+    :description: Boots de nuevo; Volvemos a
+        visitar PEAR; "Avances" médicos en alberta; Reglas
+        especiales para la pseudociencia; Toda la verdad
+        sobre el sonido de  alta fidelidad; CSI da un paso
+        adelante; Musulmanes en órbita; Gary ha vuelto;
+        El asombroso poder de la oración; Y en conclusión...;
+

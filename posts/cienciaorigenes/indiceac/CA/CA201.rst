@@ -1,0 +1,72 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA200
+.. author: Mark Isaak
+.. nocomments: True
+.. date: 2004-11-25
+.. type: afirmacrea
+.. title: CA201: La evolución es sólo una teoría
+.. description: Respuesta a la afirmación creacionista «La evolución es sólo una teoría»
+.. slug: CA201
+.. link: http://www.talkorigins.org/indexcc/CA/CA201.html
+
+
+
+La evolución sólo es una teoría, no un hecho.
+
+**Fuente:**
+
+Estado de Oklahoma. 2003. Proyecto de diputados HB1504: Escuelas; requerimiento de que todos los libros de texto tengan una advertencia sobre evolución; codificación; fecha efectiva; emergencia http://www2.lsb.state.ok.us/2003-04hb/hb1504_int.rtf
+
+Respuesta
+==========
+
+1. La palabra *teoría*, en el contexto de la ciencia, no implica falta de certeza. Significa "un grupo coherente de proposiciones generales usadas como principios de explicación para una clase de fenómenos" ([Barnhart_1948]_). En el caso de la teoría de la evolución, los siguientes son algunos de los fenómenos involucrados. Todos son hechos:
+
+   * La vida apareció en la Tierra hace más de dos mil millones de años.
+   * Las formas de vida han cambiado y se han diversificado a lo largo de la historia de la vida.
+   * Las especies están relacionadas por descender todas ellas de uno o unos pocos ancestros.
+   * La selección natural es un factor significativo que afecta cómo cambian las especies.
+
+   La teoría de la evolución explica también muchos otros hechos.
+
+2. La teoría de la evolución se ha probado en la práctica. Tiene aplicaciones útiles en epidemiología, control de plagas, descubrimiento de drogas y otras áreas ([Bull_y_Wichman_2001]_; [Eisen_y_Wu_2002]_; [Searls_2003]_).
+
+3. Más allá de la teoría, se halla el hecho de la evolución: la observación de que la vida ha cambiado en gran medida a lo largo del tiempo. El hecho de la evolución se reconoció incluso antes de la teoría de Darwin. La teoría de la evolución explica el hecho de la evolución.
+
+4. Si "sólo es una teoría" fuera una auténtica objeción, los creacionistas también tendrían que emitir advertencias quejándose sobre la teoría de la gravedad, la teoría atómica, la teoría germinal de la enfermedad y la teoría de los límites (en la que se basa el cálculo). La teoría de la evolución no es menos válida que ninguna de las otras. Incluso la teoría de la gravedad aún recibe desafíos serios ([Milgrom_2002]_). Aún así el fenómeno de la gravedad, como el de la evolución, sigue siendo un hecho.
+
+5. El creacionismo no es ni teoría ni hecho; como mucho, es sólo una opinión. Dado que no explica nada, es científicamente  inútil.
+
+Enlaces
+========
+
+Moran, Laurence. 1993. Evolution is a fact and a theory, http://www.talkorigins.org/faqs/evolution-fact.html
+
+Isaak, Mark. 1995. Five major misconceptions about evolution, http://www.talkorigins.org/faqs/faq-misconceptions.html
+
+Referencias
+==============
+
+.. [Barnhart_1948] Barnhart, Clarence L., ed. 1948. *The American College Dictionary*, New York: Random House.
+.. [Bull_y_Wichman_2001] Bull, J. J. and H. A. Wichman. 2001. *Applied evolution. Annual Review of Ecology and Systematics* 32: 183-217.
+.. [Eisen_y_Wu_2002] Eisen, J. A. and M. Wu. 2002. Phylogenetic analysis and gene functional predictions: Phylogenomics in action. *Theoretical Population Biology* 61: 481-487.
+.. [Milgrom_2002] Milgrom, Mordehai. 2002. Does dark matter really exist? *Scientific American* 287(2) (Aug.): 42-52.
+.. [Searls_2003] Searls, D. 2003. Pharmacophylogenomics: Genes, evolution and drug targets. *Nature Reviews Drug Discovery* 2: 613-623. http://www.nature.com/nature/view/030731.html
+
+Otras lecturas
+================
+
+AIG. n.d. Arguments we think creationists should NOT use. http://www.answersingenesis.org/home/area/faq/dont_use.asp
+
+Gould, Stephen J. 1983. Evolution as fact and theory. In Hen's Teeth and Horse's Toes, New York: W. W. Norton & Company, pp. 253-262. http://www.stephenjaygould.org/library/gould_fact-and-theory.html
+
+/////
+
+Anterior: :doc:`CA131` | Siguiente: :doc:`CA202`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

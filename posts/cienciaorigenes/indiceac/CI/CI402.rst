@@ -1,0 +1,36 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CI, CI400
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CI402
+.. link: http://www.talkorigins.org/indexcc/CI/CI402.html
+.. date: 2003-6-23
+.. type: afirmacrea
+.. title: CI402: Los evolucionistas se han cegado para ver diseño
+.. description: Respuesta a la afirmación creacionista «Los evolucionistas se han cegado para ver diseño»
+
+Debido a sus preconcepciones y su tendencia al materialismo, los evolucionistas se han cegado para ver diseño.
+
+Respuesta
+=============
+
+1. Esta afirmación no es más que una excusa que los teóricos del diseño usan para intentar justificar su propia falla en probar su posición. Cuando alguien propone una nueva teoría científica, es responsabilidad de esa persona probarla. En el pasado, ha habido teorías científicas que se aceptaron ampleamente pese a la fuerte resistencia cultural y científica. (La propia evolución es un ejemplo.) Si hay algo de cierto en la teoría del DI, sus proponentes deben dejarlo claro.
+
+2. Las personas que estudian evolución vienen de variados transfondos culturales. Muchas de ellas están lejos de estar comprometidas con el materialismo. Algunos estudiantes entran a la disciplina esperando desafiar los dogmas existentes, y detectar objetivamente diseño en la vida ciertamente lo conseguiría. Si la teoría del DI tuviera algún valor, debería haber más que suficientes biólogos para ayudar a los teóricos del diseño a probar su posición.
+
+3. Lo que parece evidente es que los teóricos del diseño se han cegado ellos mismos para ver los fallos en sus teorías. Su motivación religiosa es obvia. Lo que es igual de importante, no siguen el procedimiento científico habitual de verificar sus ideas.
+
+   Una teoría científica se verifica sometiéndola a una probabilidad muy real de falsación. Los científicos hacen predicciones específicas basadas en la teoría, comprueban si las predicciones se cumplen, y consideran que la teoría es falsa si los resultados no coinciden con lo que se esperaba. Los teóricos del diseño inteligente, :doc:`a diferencia de los científicos evolutivos <CA211>`, no someten sus ideas a tales riesgos. Aparentemente, no quieren arriesgar sus ideas.
+
+4. La teoría del diseño es más antigua que la teoría de la evolución de Darwin. La teoría del diseño sólo puede culpar por su fracaso a su falta de valor.
+
+
+/////
+
+Anterior: :doc:`CI401` | Siguiente: :doc:`CI410`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

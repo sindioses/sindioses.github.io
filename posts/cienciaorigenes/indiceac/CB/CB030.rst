@@ -1,0 +1,54 @@
+.. title: CB030: Las moléculas tempranas se hubieran descompuesto
+.. slug: CB030
+.. date: 2003-07-17
+.. tags: CB, CB000
+.. category: Afirmaciones de los creacionistas
+.. link: http://www.talkorigins.org/indexcc/CB/CB030.html
+.. description: Respuesta a la afirmación creacionista «Las moléculas tempranas se hubieran descompuesto»
+.. type: afirmacrea
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. has_math: yes
+.. nocomments: True
+
+Las moléculas orgánicas complejas, como las bases del ARN, son muy frágiles e inestables, excepto a bajas temperaturas. No se mantendrían juntas lo bastante tiempo como para servir como la primera proto-vida autorreplicante.
+
+**Fuente:**
+
+Bergman, Jerry. 2000. Why abiogenesis is impossible. *Creation Research Society Quarterly* 36(4), http://www.creationresearch.org/crsq/articles/36/36_4/abiogenesis.html
+
+Yahya, Harun. 2003. *The secrets of DNA* http://www.harunyahya.com/dna03.php
+
+.. _ribozima: https://es.wikipedia.org/wiki/Ribozima
+
+Respuesta
+=============
+
+1. La fuente que Bergman cita por la fragilidad de las bases del ARN ([Levy_y_Miller_1998]_) contradice la abiogénesis sólo a altas temperaturas, alrededor de 100 grados Celsius. También concluye: "A 0 grados Celsius, C, A, U, G y T parecen ser suficientemente estables (t\ :sub:`1/2` mayor o igual que :math:`10^6` años) para participar en un origen de la vida a baja temperatura". Luego dice que la citosina es tan inestable a 0 grados Celsius (vida media de 17.000 años) que puede no haber estado involucrada en el primer material genético. El descubrimiento de una ribozima_ sin bases C-G muestra que el material genético sin citosina es plausible ([Reader_y_Joyce_2002]_).
+
+2. Si la síntesis de las núcleobases se cataliza y la hidrólisis no, es de esperarse que las núcleobases se acumulen. Se ha descubierto que la formamida, que puede formarse en condiciones prebióticas, cataliza la formación de núcleobases ([Saladino_et_al_2001]_; [Saladino_et_al_2003]_).
+
+   El ARN se degrada rápidamente hoy en día porque hay enzimas (ribonucleasas) que lo consumen. Esas enzimas no habrían evolucionado si el ARN se degradara rápidamente por sí mismo. Si las moléculas orgánicas complejas fueran tan frágiles, la vida misma sería imposible. De hecho, la vida existe incluso a temperaturas hirvientes o con muy alta acidez.
+
+3. La vida no necesita haber empezado con moléculas altamente estables. Eigen y Schuster desarrollaron la noción de hiperciclos químicos, en el cual muchos componentes químicos coexisten; cada componente de la reacción lleva a otros componentes, los que con el tiempo vuelven a formar el original ([Eigen_y_Schuster_1977]_). Los químicos involucrados en ese ciclo no necesitan persistir más que la duración del hiperciclo mismo.
+
+4. Las moléculas orgánicas pueden haber crecido en asociación con plantillas estabilizadoras, como plantillas de arcilla ([Ertem_y_Ferris_1996]_), o partes de los hiperciclos mencionados más arriba.
+
+Referencias
+===============
+
+.. [Eigen_y_Schuster_1977]    Eigen, M. and P. Schuster. 1977. The hypercycle. A principle of natural self-organization. Part A: Emergence of the hypercycle. *Naturwissenschaften* 64(11): 541-565.
+.. [Ertem_y_Ferris_1996]    Ertem, G. and J. P. Ferris. 1996. Synthesis of RNA oligomers on heterogeneous templates. *Nature* 379: 238-240.
+.. [Levy_y_Miller_1998]    Levy, Matthew and Stanley L. Miller. 1998. The stability of the RNA bases: Implications for the origin of life. *Proceedings of the National Academy of Science* USA 95: 7933-7938.
+.. [Reader_y_Joyce_2002]    Reader, J. S. and G. F. Joyce. 2002. A ribozyme composed of only two different nucleotides. *Nature* 420: 841-844.
+.. [Saladino_et_al_2001]    Saladino, R., C. Crestini, G. Costanzo, R. Negri and E. Di Mauro. 2001. A possible prebiotic synthesis of purine, adenine, cytosine, and 4(3H)-pyrimidinone from formamide: Implications for the origin of life. *Bioorganic and Medicinal Chemistry* 9(5): 1249-1253.
+.. [Saladino_et_al_2003]    Saladino, R., U. Ciambecchini, C. Crestini, G. Costanzo, R. Negri and E. Di Mauro. 2003. One-pot TiO\ :sub:`2`-catalyzed synthesis of nucleic bases and acyclonucleosides from formamide: Implications for the origin of life. *ChemBioChem* 4(6): 514-521.
+
+
+/////
+
+Anterior: :doc:`CB026` | Siguiente: :doc:`CB030_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

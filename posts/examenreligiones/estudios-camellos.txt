@@ -1,0 +1,75 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. title: Estudios sobre camellos contradicen relatos bíblicos
+.. category: Examinando las religiones
+.. tags: arqueología, biblia, Israel, Libro de Génesis
+.. slug:
+.. date: 2014-02-05 23:46:00 UTC-03:00
+.. description: Los relatos bíblicos de Abraham, José y Jacob, hablan de camellos domesticados que se utilizaban como animales de carga. Pero, ahora, arqueólogos demostraron que estos animales no fueron domesticados en la Tierra de Israel hasta siglos después de la época de los patriarcas (2.000-1.500 a. C.).
+.. author: Ferney Yesyd Rodríguez (artículo original de BBC Mundo)
+.. previewimage: /quienesFerney.jpg
+
+.. epigraph::
+
+   Los relatos bíblicos de Abraham, José y Jacob, hablan de camellos domesticados que se utilizaban como animales de carga. Pero, ahora, arqueólogos demostraron que estos animales no fueron domesticados en la Tierra de Israel hasta siglos después de la época de los patriarcas (2.000-1.500 a. C.).
+
+Noticia de la `BBC Mundo`__
+
+__ http://www.bbc.co.uk/mundo/noticias/2014/02/140205_cultura_ciencia_camellos_domesticados_israel_ill.shtml
+
+.. class:: primera
+
+Utilizando la datación por radiocarbono, expertos de la Universidad de Tel Aviv deteminaron el momento en el que los camellos domesticados llegaron al Levante sur, adelantando la estimación del siglo XII al IX a. C..
+
+.. image:: dromedarios.jpg
+   :alt:
+   :align: left
+
+..
+
+*"Mediante el análisis de la evidencia arqueológica de los lugares de producción de cobre del valle de Aravá, hemos sido capaces de estimar la fecha de este evento en términos de décadas en lugar de siglos"*, dijo el arqueólogo Erez Ben-Yosef, del Departamento de Arqueología del Cercano Oriente y Culturas de la Universidad de Tel Aviv.
+
+*"La introducción del camello a nuestra región fue un muy importante desarrollo económico y social"*, añadió.
+
+Los resultados, publicados recientemente en la revista Tel Aviv, enfatizan aún más las discrepancias entre los textos bíblicos y la historia verificable.
+
+Pruebas de carbono
+===================
+.. figure:: peninsula-arabiga.jpg
+   :alt:
+   :figclass: align-right
+   :figwidth: 533
+
+   Los arqueólogos creen que los camellos fueron domesticados en la Península Arábiga
+
+..
+
+Los arqueólogos creen que los camellos fueron domesticados en la Península Arábiga para su uso como animales de carga en algún momento hacia el final del segundo milenio a. C..
+
+En el sur de Levante, donde se encuentra Israel, los huesos de camellos domesticados más antiguos conocidos son del Valle de Aravá, que se extiende a lo largo de la frontera entre Israel y Jordania desde el Mar Muerto hasta el Mar Rojo y fue un antiguo centro de producción de cobre.
+
+Para determinar exactamente cuando los camellos domesticados aparecieron en el Levante meridional, los arqueólogos, Sapir- Hen y Ben-Yosef utilizaron la datación por radiocarbono y otras técnicas.
+
+En todas las excavaciones realizadas en el valle, encontraron con que los huesos del camello fueron desenterrados casi exclusivamente de las capas arqueológicas que datan del último tercio del siglo X a. C. o más tarde, siglos después de que los patriarcas vivieron y décadas después del Reino de David, según la Biblia.
+
+Los científicos piensan que los pocos huesos de camellos que se encuentran en las capas arqueológicas anteriores pertenecían probablemente a camellos salvajes que estaban en el Levante meridional desde el Neolítico o incluso antes.
+
+Minería de cobre
+================
+
+La aparición de camellos domesticados en el Valle de Aravá parece coincidir con los cambios dramáticos en las actividades mineras de cobre local.
+
+Muchas de las minas y los sitios de fundición fueron cerrados, y los que se mantuvieron activos comenzaron a utilizar mano de obra más centralizada y una sofisticada tecnología, de acuerdo con la evidencia arqueológica.
+
+Los investigadores dicen que los antiguos egipcios pudieron haber impuesto estos cambios y trajeron camellos domesticados después de la conquista de la zona en una campaña militar mencionada en fuentes bíblicas y egipcias.
+
+La llegada de los camellos domesticados promovió el comercio entre Israel y lugares exóticos inalcanzables hasta entonces.
+
+Según los investigadores, los camellos podían viajar sobre distancias mucho mayores que los burros y las mulas que les precedieron.
+
+En el siglo VII a. C., las rutas comerciales, como la Ruta de Incienso iban desde África a través de Israel a la India.
+
+Los camellos abrieron Israel hasta el mundo más allá de los vastos desiertos, dicen los investigadores, alterando profundamente su historia económica y social.
+
+
+
+.. include:: includes/exrel_pie.inc

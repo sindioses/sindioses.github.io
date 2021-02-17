@@ -1,0 +1,41 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. type: afirmacrea
+.. date: 2005-2-15
+.. type: afirmacrea
+.. title: CH100.1: Todas las observaciones científicas deben interpretarse a la luz de las escrituras
+.. description: Respuesta a la afirmación creacionista «Todas las observaciones científicas deben interpretarse a la luz de las escrituras»
+.. slug: CH100_1
+.. link: http://www.talkorigins.org/indexcc/CH/CH100_1.html
+
+**Fuente:**
+
+Morris, John D. 1996. ICR, for such a time as this. *Back to Genesis* 87a (Mar.). http://www.icr.org/index.php?module=articles&action=view&ID=798
+
+Respuesta
+=========
+1. La evolución ya es compatible con las escrituras, de acuerdo con muchas religiones ([NCSE_nd]_).
+2. Interpretar la ciencia de acuerdo con las escrituras requeriría que todos los científicos e instructores de ciencia tuvieran extensos conocimientos de teología. Requeriría, además, que todos estuvieran de acuerdo en la correcta exégesis bíblica. Los creacionistas pueden considerar esos requisitos no sólo excesivos, sino peligrosos, dado que la interpretación de la escritura que los científicos llegaran a aceptar podría fácilmente diferir con la propia.
+   
+Enlaces / Referencias
+=====================
+
+.. [NCSE_nd] NCSE. n.d. Voices for evolution. http://www.ncseweb.org/article.asp?category=2
+
+Otras lecturas
+==============
+Alters, B. J. and S. M. Alters. 2001. *Defending Evolution*. Boston: Jones and Bartlett, pp. 74-81. 
+
+		
+/////
+
+Anterior: :doc:`CH100` | Siguiente: :doc:`CH101`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

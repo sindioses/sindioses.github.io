@@ -1,0 +1,50 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CI120: Propósito implica diseño
+.. description: Respuesta a la afirmación creacionista «Propósito implica diseño»
+.. slug: CI120
+.. link: http://www.talkorigins.org/indexcc/CI/CI120.html
+.. tags: CI, CI100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-06-23
+.. modified: 2003-10-06
+
+Que un objeto tenga propósito indica que el objeto fue diseñado.
+
+Fuente
+=========
+
+Paley, William, 1802. *Natural Theology: or, Evidences of the Existence and Attributes of the Deity*. London: J. Faulder, p. 2.
+
+Respuesta
+=========
+
+1. Cuando alguien diseña algo, por lo general tiene un propósito para ello, pero el propósito es del diseñador, no del objeto diseñado. Por ejemplo, la gente tiene un propósito para las ventanas y las bolsas de aire en los automóviles, pero el automóvil mismo no tiene esos propósitos. Cuando el argumento del propósito se aplica a la vida, sin embargo, el diseñador, intencionalmente, queda incognoscible, y por lo tanto el propósito del diseñador no es parte del cuadro, sólo sabemos el propósito del objeto para parte del objeto, lo cual no es relevante a menos que se quiera afirmar que el propósito se diseñó a sí mismo.
+
+2. Hasta donde puede considerarse que las características de los seres vivos tienen un propósito, el mismo es, finalmente, el éxito reproductivo de los genes del organismo. Tal propósito es completamente consistente con la evolución.
+
+3. No es inusual que los objetos no diseñados tengan propósito. La Estrella Polar, por ejemplo, tiene un propósito para la navegación, pero se le asignó ese propósito simplemente porque por casualidad estaba en cierto lugar.
+
+   Incluso con los objetos diseñado, es habitual que los propósitos cambien. El mismo objeto puede servir a distintos propósitos en diferentes momentos o incluso para diversos propósitos al mismo tiempo. A medida que las condiciones cambian, servirán para distintas cosas.
+
+4. Algunas formas de vida no parecen tener propósito. Ha habido especies en cavernas aisladas que fueron descubiertas por casualidad ([Decu_et_al_1994]_). Es muy probable que haya habido otras especies igualmente aisladas que jamás fueron descubiertas.
+
+   Algunas partes de las formas de vida parecen no tener propósito: el :doc:`ADN basura <CB130>`, por ejemplo.
+
+   La vida también proporciona distintos propósitos para distintos seres. El propósito de un conejo para un lince es probablemente distinto que el propósito del conejo para sí mismo.
+
+Referencias
+===========
+
+.. [Decu_et_al_1994] Decu, V., M. Gruia, S. L. Keffer and S. M. Sarbu, 1994. Stygobiotic waterscorpion, Nepa anophthalma, n. sp. (Heteroptera: Nepidae), from a sulfurous cave in Romania. Annals of the Entomological Society of America 87: 755-761.
+
+/////
+
+Anterior: :doc:`CI113` | Siguiente: :doc:`CI130`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

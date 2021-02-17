@@ -1,0 +1,46 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA300
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA301_1
+.. link: http://talkorigins.org/indexcc/CA/CA301_1.html
+.. date: 2006-04-07 02:00:00+00:00
+.. title: CA301.1: La ciencia naturalista no descubrirá una explicación sobrenatural
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «La ciencia naturalista no descubrirá una explicación sobrenatural»
+
+Si la explicación correcta para un fenómeno resulta ser sobrenatural, el método naturalista de la ciencia no la descubrirá. "Con las explicaciones creacionistas descalificadas de entrada, la conclusión es que las pruebas siempre apoyarán la alternativa naturalista".
+
+**Fuente:**
+
+Johnson, Phillip E., 1990. Evolution as dogma: The establishment of naturalism. *First Things* (Oct.), 15-22. http://www.arn.org/docs/johnson/pjdogma1.htm
+
+Respuesta
+===========
+
+1. Nadie ha presentado una definición útil de "sobrenatural". Según la mayoría de las definiciones, algo que tiene un efecto en la naturaleza convierte a ese algo en parte de la naturaleza misma. De modo que cualquier explicación por algo que veamos en la naturaleza puede ser considerada natural por definición.
+
+2. No podemos observar lo sobrenatural, de modo que la única forma en la que podemos llegar a la explicación sobrenatural sería eliminar todas las explicaciones naturales. Pero nunca podemos saber que hemos eliminado todas las posibilidades. Incluso si una explicación sobrenatural es correcta, nunca podremos llegar a ella.
+
+3. Supongamos que llegamos a la conclusión de que una explicación sobrenatural es la correcta. Es imposible, incluso en principio, distinguir una explicación sobrenatural de otra. Mucha gente, incluyendo a muchos científicos, están dispuestos a aceptar ciertas explicaciones sobrenaturales por fe. No hay nada malo con eso siempre y cuando no afirmen que su fe tiene privilegios especiales. Algunas personas, sin embargo, no están satisfechas a menos que otros crean lo mismo que ellos; este grupo incluye a todos aquellos que quieren hacer que lo sobrenatural sea una parte de la ciencia. Dado que no pueden demostrar sus ideas usando evidencia naturalista, deben recurrir a otros medios, como la fuerza de las armas. (Esto no es una exageración. Grupos de ese tipo intentan continuamente lograr que su posición sea adoptada por medios políticos.)
+
+4. Si no descubrimos una explicación sobrenatural, ¿cuál es el problema? Las explicaciones sobrenaturales no pueden generalizarse, de modo que la explicación no tiene importancia en ninguna otra parte. La utilidad de la ciencia proviene de la capacidad de aplicar los hallazgos a distintas disciplinas. Cualquier explicación sobrenatural sería inútil.
+
+5. Se evalúan las explicaciones en términos de lo sobrenatural hasta donde es posible hacerlo. Por ejemplo, los científicos han investigado la curación por la fe ([Benson_et_al_2006]_) y las afirmaciones creacionistas sobre un :doc:`diluvio global <CH550>` y :doc:`la edad de la Tierra <CH210>`.
+
+6. Los relatos creacionistas sobre los orígenes no quedan descalificados. La gente tiene la libertad de creer en la religión que quiera. P. E. Johnson y otros como él simplemente objetan que su religión no se enseñe como ciencia excluyendo a todas las otras interpretaciones religiosas (por no mencionar la exclusión de toda la ciencia).
+
+Referencias
+==============
+
+.. [Benson_et_al_2006] Benson, H. et al. 2006. Study of the Therapeutic Effects of Intercessory Prayer (STEP) in cardiac bypass patients: a multicenter randomized trial of uncertainty and certainty of receiving intercessory prayer. *American Heart Journal* 151(4): 934-942.
+
+/////
+
+Anterior: :doc:`CA301` | Siguiente: :doc:`CA310`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

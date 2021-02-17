@@ -1,0 +1,47 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB300
+.. link: http://www.talkorigins.org/indexcc/CB/CB300.html
+.. date: 2006-11-02 02:00:00+00:00
+.. title: CB300: Los órganos complejos no pueden haber evolucionado
+.. description: Respuesta a la afirmación creacionista «Los órganos complejos no pueden haber evolucionado»
+.. type: afirmacrea
+
+Los órganos y funciones biológicas complejos no pueden haber evolucionado.
+
+**Fuente:**
+
+Kofahl, Robert E., 1977. *Handy Dandy Evolution Refuter*. Beta Books, chpt. 5. http://www.parentcompany.com/handy_dandy/hder5.htm
+
+Respuesta
+============
+
+1. Este es un ejemplo de la :doc:`falacia de incredulidad personal <CA100>`. De hecho, varios órganos complejos, que previamente se declaró que era imposible que surgieran por evolución, tienen métodos plausibles de evolucionar, incluyendo el :doc:`ojo <CB301>`, el :doc:`mecanismo de defensa del escarabajo bombardero <CB310>`, la :doc:`lengua del pájaro carpintero <CB326>`, y más.
+
+2. Los mecanismos evolutivos explican la evolución de la complejidad, dado que las mutaciones no letales tienden a agregar más componentes a los sistemas simples de los que remueven ([Soyer_y_Bonhoeffer_2006]_). Vale la pena citar completo el resumen de [Lenski_et_al_2003]_, (p. 139):
+
+    Un desafío de larga data a la teoría evolutiva ha sido si puede explicar el origen de las características complejas de los organismos. Examinamos en este número el uso de organismos digitales: programas de computadora que se autorreplican, mutan, compiten y evolucionan. Las poblaciones de organismos digitales con frecuencia obtuvieron por evolución la capacidad de realizar funciones lógicas complejas que requerían la ejecución coordinada de muchas instrucciones genómicas. Las funciones complejas evolucionaron basándose en funciones más simples que habían evolucionado previamente, siempre que a estas funciones también las favoreciera la selección. Sin embargo, ninguna etapa intermedia en particular fue esencial para desarrollar funciones complejas. Los primeros genotipos capaces de realizar funciones complejas diferían de sus padres que no las realizaban sólo en una o dos mutaciones, pero diferían de su ancestro en muchas mutaciones que también eran cruciales para las funciones nuevas. En algunos casos, mutaciones que eran dañinas cuando aparecieron sirvieron como base para la evolución de funciones complejas. Estos hallazgos muestran cómo pueden originarse funciones complejas a partir de mutaciones al azar y de la selección natural.
+
+Enlaces
+=========
+
+National Science Foundation, 2003. Artificial life experiments show how complex functions can evolve. http://www.sciencedaily.com/releases/2003/05/030508075843.htm
+
+Referencias
+============
+
+.. [Lenski_et_al_2003]    Lenski, Richard E., Charles Ofria, Robert T. Pennock and Christoph Adami. 2003. The evolutionary origin of complex features Nature 423: 139-144. http://myxo.css.msu.edu/papers/nature2003/ (See also NSF, 2003, above.)
+.. [Soyer_y_Bonhoeffer_2006]    Soyer, Orkun S. and Sebastian Bonhoeffer. 2006. Evolution of complexity in signaling pathways. Proceedings of the National Academy of Science USA 103: 16337-16342.
+
+
+/////
+
+Anterior: :doc:`CB211` | Siguiente: :doc:`CB301`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

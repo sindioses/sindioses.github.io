@@ -1,0 +1,46 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CH, CH500
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CH505_1
+.. link: http://talkorigins.org/indexcc/CH/CH505_1.html
+.. date: 2003-5-7 02:00:00+00:00
+.. title: CH505.1: Yearam guió a tres malignos científicos al arca de Noé en 1916
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Yearam guió a tres malignos científicos al arca de Noé en 1916»
+
+En 1952, Harold Williams escribió una historia relatada por Haji Yearam, un adventista del séptimo día armenio, en 1916. De acuerdo con la historia, de niño Yearam ayudó a guiar a tres científicos ingleses hasta el arca en 1856. Al encontrar el arca asomando de un glaciar cerca de la cima, los científicos, "hombres perversos que no creían en la Biblia", se indignaron y trataron inútilmente de destruirla. Luego juraron mantener el descubrimiento en secreto y asesinar a cualquiera que lo revelara. Cerca de 1918, Williams vio un artículo en el periódico que revelaba la confesión de un científico en su lecho de muerte, lo cual corroboraba la historia de Yearam.
+
+**Fuente:**
+
+LaHaye, Tim y John Morris, 1976. *The Ark on Ararat*, Nashville: Thomas Nelson Inc.
+
+Respuesta
+===========
+
+1. La historia tiene varios elementos cuestionables ([Bailey_1989]_, 83-84):
+
+   * ¿Por qué William esperó hasta 1952 para relatar semejante historia?
+   * No hay registro de tal expedición saliendo de Inglaterra. (Una expedición inglesa de cinco hombres exploró el Ararat ese año, pero usaron guías kurdos, y no estaban interesados en el arca.)
+   * ¿Por qué los científicos intentarían encontrar el arca si no creían en su existencia y no querían que se la encontrara?
+   * ¿Por qué amenazarían a sus guías para que no revelaran la ubicación del arca si la ubicación del arca estaba difundida entre los armenios locales?
+   * Yearam murió en 1920 a los 82 años. El científico, que supuestamente era mucho más viejo que Yearam, murió cerca de 1918. Debía haber tenido más de 100 años de edad.
+   * La noticia en el periódico nunca fue encontrada, pese a que se la buscó con esmero.
+
+   De acuerdo con el relato, el padre de Yearam pensó que Dios quería que la gente supiera que el arca aún estaba allí. Este hecho, combinado con la vilificación de los no creyentes, sugiere que la historia fue creada como propaganda religiosa.
+
+Referencias
+==============
+
+.. [Bailey_1989] Bailey, Lloyd, 1989. *Noah: The Person and the Story in History and Tradition*. Columbia, SC: University of South Carolina Press.
+
+
+/////
+
+Anterior: :doc:`CH504_3` | Siguiente: :doc:`CH505_2`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

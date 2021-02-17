@@ -1,0 +1,57 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=98:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA200
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CA230
+.. link: http://talkorigins.org/indexcc/CA/CA230.html
+.. date: 2001-02-18 02:00:00+00:00
+.. title: CA230: Interpretar evidencias no es lo mismo que la observación
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Interpretar evidencias no es lo mismo que la observación»
+
+No se han observado evidencias por evolución. Las afirmaciones de que sí se han observado confunden observación con interpretación. Lo que se observa tiene que interpretarse para que coincida con las hipótesis.
+
+**Fuente:**
+
+Wallace, Timothy. 2002. Five major *evolutionist* misconceptions about evolution. http://www.trueorigins.org/isakrbtl.asp
+
+Respuesta
+============
+
+1. Toda observación requiere interpretación. Incluso algo tan aparentemente simple como ver un objeto delante de uno requiere gran cantidad de interpretación para determinar qué es, qué propiedades posee, cuál lejos está, y así sucesivamente ([Sacks_1995]_). Descartar absolutamente todo lo que sabemos porque es interpretación sería absurdo.
+
+2. La mayor parte de la evidencia en favor de la evolución no es del tipo en que la interpretación está en duda. La evidencia consiste de cosas como las siguientes:
+
+   * ciertas especies de trilobites se encuentran en ciertas formaciones geológicas
+   * se encuentran muchas más especies de marsupiales en Australia que en otros lugares
+   * se ha visto que las bacterias en tubos de ensayo cambian en ciertas formas a lo largo del tiempo
+   * las moscas comparten ciertos atributos que otros insectos no
+
+   y millones de otros hechos parecidos, ningunos de los cuales está en discusión.
+
+   El tipo de interpretación que los creacionistas objetan es cómo todas estas evidencias se combinan. No niegan las evidencias (al menos no la mayoría de ella; lo que niegan es que sean evidencias *a favor de la evolución*.
+
+   Sin embargo, se considera que un hecho es evidencia en favor de una teoría si se ajusta a esa teoría y no se ajusta o no está cubierto por teorías competidoras. (Idealmente, la teoría debería predecir el hecho antes de que el hecho se conozca, pero eso no es esencial para que el hecho sea evidencia.) Los millones de hechos mencionados más arriba cumplen con este criterio, de modo que califican como evidencias en favor de la evolución.
+
+3. La interpretación en la que se basa el creacionismo, en contraste, se basa sóo en ideas altamente cuestionables y subjetivas que no se ajustan en un todo coherente.
+
+Enlaces
+=========
+
+Wilkins, John. 1997. Evolution and philosophy: Is evolution science, and what does 'science' mean? http://www.talkorigins.org/faqs/evolphil/falsify.html
+
+Referencias
+==============
+
+.. [Sacks_1995] Sacks, Oliver. 1995. *An Anthropologist on Mars*. New York: Vintage Books.
+
+
+/////
+
+Anterior: :doc:`CA221` | Siguiente: :doc:`CA230_1`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

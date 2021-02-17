@@ -1,0 +1,41 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB910_1
+.. link: http://talkorigins.org/indexcc/CB/CB910_1.html
+.. date: 2006-9-7
+.. type: afirmacrea
+.. title: CB910.1: Los experimentos con moscas de la fruta sólo producen moscas de la fruta
+.. description: Respuesta a la afirmación creacionista «Los experimentos con moscas de la fruta sólo producen moscas de la fruta»
+
+Las moscas de la fruta han sido mutadas y criadas en laboratorios por generaciones, pero siguen siendo moscas de la fruta.
+
+**Fuente:**
+
+Watchtower Bible and Tract Society, 1985. *Life--How Did It Get Here?* Brooklyn, NY, 104.
+
+Respuesta
+===============
+
+1. La clasificación biológica es jerárquica; cuando una nueva especie evoluciona, se bifurca al nivel más bajo, y sigue siendo parte de todos los grupos en los que ya se encuentra. Cualquier cosa que evoluciona a partir de una mosca de la fruta, sin importar cuánto difiera, seguiría siendo clasificada como una mosca de la fruta, un díptero, un insecto, un artrópodo, y así sucesivamente.
+
+2. Hay cerca de 3.000 especies de moscas de la fruta (familia *Drosophilidae*; [Wheeler_1987]_). "Siguen siendo moscas de la fruta" cubre un amplio espectro.
+
+3. Las moscas de la fruta no siguen siendo la misma especie de mosca de la fruta. Las poblaciones de *Drosophila melanogaster* produjeron evolutivamente aislamiento reproductivo como resultado de microentornos contrastantes dentro de un cañón ([Korol_et_al_2000]_). No esperaríamos ver divergencias mucho mayores en tiempos históricos.
+
+Referencias
+=============
+.. [Korol_et_al_2000]    Korol, A. et al., 2000. Nonrandom mating in *Drosophila melanogaster* laboratory populations derived from closely adjacent ecologically contrasting slopes at "Evolution Canyon." *Proceedings of the National Academy of Science USA* 97: 12637-12642. Cfr. Schneider, C. J., 2000. Natural selection and speciation. *Proceedings of the National Academy of Science USA* 97: 12398-12399.
+.. [Wheeler_1987]    Wheeler, M. R., 1987. Drosophilidae. En: Agriculture Canada, *Manual of Nearctic Diptera*, vol. 2, Hull, Quebec: Canadian Government Publishing Centre. pg. 1011.
+
+
+/////
+
+Anterior: :doc:`CB910` | Siguiente: :doc:`CB910_2`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

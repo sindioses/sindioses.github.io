@@ -1,0 +1,43 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CA, CA110
+.. author: Mark Isaak
+.. nocomments: True
+.. slug: CA118
+.. link: http://www.talkorigins.org/indexcc/CA/CA118.html
+.. date: 2005-02-18 02:00:00+00:00
+.. title: CA118: Tus argumentos no valen porque no estás calificado
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Tus argumentos no valen porque no estás calificado»
+
+Muchos argumentos pueden descartarse porque los reunieron aficionados que no están calificados científicamente.
+
+**Fuente:**
+
+"Socrates", 5 Oct. 2003. TheologyWeb forum: Too many fossils for a global flood. http://theologyweb.com/forum/showthread.php?postid=233947#post233947
+
+Respuesta
+===========
+
+1. Las calificaciones de una persona, aunque importante, no es lo único que hay que considerar. La autoridad final para los argumentos sobre el mundo es el mundo mismo. Si el argumento es lógico y está basado en datos confiables del mundo real (por ejemplo, si contiene datos verificables o tiene referencias fiables), entonces el argumento tiene autoridad independientemente de quién lo expone.
+
+2. Las calificaciones consisten de algo más que un título. Quizá lo más importante es cómo la persona es considerada por otros miembros de su área de estudio. Otra consideración importante es la firmeza del trabajo anterior de la persona.
+
+3. Uno también debe considerar las calificaciones de quienes aprueban o desaprueban el argumento. Cuando un argumento sobrevive al escrutinio de los colegas, la autoridad de quienes hacen la revisión se suma a la del autor original. Resistir a la exposición posterior refuerza aún más la confiabilidad del argumento.
+
+4. Este argumento sobre calificaciones, si se aplicara con uniformidad, hundiría el creacionismo en un segundo. Por cada creacionista que afirma una cosa, hay docenas o más de científicos, todos con mucho mayores calificaciones profesionales, que afirman lo contrario.
+
+Otras lecturas
+================
+
+* Isaak, Mark, 2002. Is that so? The art of evaluating information. http://www.curioustaxonomy.net/home/claims.html
+
+
+/////
+
+Anterior: :doc:`CA115_1` | Siguiente: :doc:`CA120`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

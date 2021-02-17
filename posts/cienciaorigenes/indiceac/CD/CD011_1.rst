@@ -1,0 +1,56 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CD011_1: La variabilidad del cociente C-14/C-12 invalida la datación por C-14
+.. description: Respuesta a la afirmación creacionista «La variabilidad del cociente C-14/C-12 invalida la datación por C-14»
+.. slug: CD011_1
+.. link: http://www.talkorigins.org/indexcc/CD/CD011_1.html
+.. tags: CD, CD010
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2001-02-18
+.. modified: 2006-01-03
+
+La datación por carbono está basada en la proporción atmosférica C-14/C-12, pero esa proporción varía. Por lo tanto el método de datación por carbono no es válido.
+
+**Fuente**
+
+Morris, Henry M. 1985. *Scientific Creationism.* Green Forest, AR: Master Books, pp. 162-166.
+
+Respuesta
+=========
+
+1. La variabilidad de la proporción C-14/C-12, y la necesidad de calibración, han sido reconocidas desde 1969 ([Dickin_1995]_, 364-366). La calibración es posible analizando el contenido de C-14 de los elementos fechados por métodos independientes. Se ha usado la dendrocronología (fechado de edad por medio de la cuenta de anillos en los árboles) para calibrar las proporciones C-14/C-12 de más de 11.000 antes del presente ([Becker_Kromer_1993]_; [Becker_et_al_1991]_). La datación por C-14 ha sido calibrada para hace más de 30.000 años usando la datación de uranio-torio de los corales ([Bard_et_al_1990]_; [Edwards_et_al_1993]_), hasta 45.000 años atrás por medio del uso de fechas U-Th de los sedimentos varvales de lagos glaciales ([Kitagawa_v_d_Plicht_1998]_), y de hasta 50.000 años atrás usando núcleos oceánicos de la Fosa de Cariaco que han sido calibrados con los niveles anuales de la capa de hielo de Groenlandia ([Hughen_et_al_2004]_)
+
+Enlaces
+=======
+
+Matson, Dave E., 1994. How good are those young-earth arguments? http://www.talkorigins.org/faqs/hovind/howgood-c14.html#R1
+
+Referencias
+===========
+
+.. [Bard_et_al_1990] Bard, E., B. Hamelin, R. G. Fairbanks y A. Zindler. 1990. Calibration of the :sup:`14`\ C timescale over the past 30,000 years using mass spectrometric U-Th ages from Barbados corals. *Nature* 345: 405-410.
+.. [Becker_Kromer_1993] Becker, B. y B. Kromer. 1993. The continental tree-ring record -- absolute chronology, :sup:`14`\ C calibration and climate change at 11 ka. *Palaeogeography, Palaeoclimatology, Palaeoecology* 103: 67-71.
+.. [Becker_et_al_1991] Becker, B., B. Kromer y P. Trimborn. 1991. A stable-isotope tree-ring timescale of the Late Glacial/Holocene boundary. *Nature* 353: 647-649.
+.. [Dickin_1995] Dickin, A. P. 1995. Radiogenic Isotope Geology, Cambridge University Press.
+.. [Edwards_et_al_1993] Edwards, R. L. et al. 1993. A large drop in atmospheric :sup:`14`\ C/:sup:`12`\ C and reduced melting in the Younger Dryas, documented with :sup:`230`\ Th ages of corals. *Science* 260: 962-968.
+.. [Hughen_et_al_2004] Hughen, K. et al. 2004. :sup:`14`\ C activity and global carbon cycle changes over the past 50,000 years. Science 303: 202-207. See also Bard, E., F. Rostek and G. Ménot-Combes. 2004. A better radiocarbon clock. *Science* 303: 178-179.
+.. [Kitagawa_v_d_Plicht_1998] Kitagawa, H. y J. van der Plicht. 1998. Atmospheric radiocarbon calibration to 45,000 yr B.P.: Late glacial fluctuations and cosmogenic isotope production. *Science* 279: 1187-1190. Cfr. Kitagawa, H. y J. van der Plicht, 2000. PE-04. A 45.000 year varve chronology from Japan. http://www.cio.phys.rug.nl/HTML-docs/Verslag/97/PE-04.htm
+
+Otras lecturas
+==============
+
+Dalrymple, G. Brent, 1991. The Age of the Earth. Stanford University Press.
+
+Lowe, J. John, ed., 1991. Radiocarbon dating: Recent applications and future potential. *Quaternary Proceedings* Number 1, 1991, Published for the Quaternary Research Association, Wiley.
+
+
+/////
+
+Anterior: :doc:`CD011` | Siguiente: :strong:`CD011_2`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

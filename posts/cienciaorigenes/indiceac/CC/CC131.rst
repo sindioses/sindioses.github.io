@@ -1,0 +1,51 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CC, CC100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. date: 2005-5-4
+.. type: afirmacrea
+.. title: CC131: Una vasija de hierro se halló encerrada en carbón del Carbonífero
+.. description: Respuesta a la afirmación creacionista «Una vasija de hierro se halló encerrada en carbón del Carbonífero»
+.. slug: CC131
+.. link: http://www.talkorigins.org/indexcc/CC/CC131.html
+
+En 1912, Frank Kennard, un trabajador de una planta eléctrica, rompió un gran bloque de carbón, y una vasija de hierro cayó de su centro, dejando un molde de la vasija en el carbón. El carbón vino de las Minas de Carbón de Wilurton y tiene unos 295 millones de años, del Pensilvánico Medio.
+
+**Fuente:**
+
+CEM Online. n.d. The iron cup in coal. http://www.creationevidence.org/museum_tour/ironpot/ironpot.html
+
+1. Las evidencias que apoyan la afirmación son tan débiles que son científicamente inútiles. La única evidencia es una carta de 1948, treinta y seis años después de que se descubrió el artefacto. La carta dice que el carbón no se encontró *in situ* sino que sufrió una cantidad desconocida de procesamiento entre la mina y el descubrimiento de la vasija de hierro antes de que se entregara el carbón.
+   
+2. La vasija parece ser de hierro fundido, y la tecnología de fundición del hierro se inició en el siglo XVIII. Su diseño es similar al de las vasijas usadas para contener metales fundidos y puede haber sido usada por un hojalatero o alguien que estaba fabricando balas. Sin la vasija original para analizar, no podemos decir exactamente cómo se usó.
+
+3. La vasija probablemente fue dejada caer por un trabajador ya sea dentro de una mina de carbón o en la obra superficial de una mina. La mineralización es común en el carbón y el detrito en torno a las minas de carbón porque el agua de lluvia reacciona con los minerales recién expuestos y produce soluciones altamente mineralizadas. El carbón, los sedimentos y las rocas habitualmente se cementan juntos en unos pocos años. Podría parecer fácimente que una vasija cementada en una formación de ese tipo podría parecer superficialmente estar encerrada por el carbón original. O pedazos pequeños de carbón, incluyendo polvo, podrían haber sido recomprimidos en torno a la vasija por el peso.
+   
+		
+/////
+
+Anterior: :doc:`CC130` | Siguiente: :doc:`CC150`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

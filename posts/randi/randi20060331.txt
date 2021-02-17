@@ -1,0 +1,486 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. date: 2006-03-31 00:00:00
+.. author: Hal Bidlack, Mike McRae y James Randi, traducción de Juan Ignacio Rodríguez de León
+.. category: Traducciones de James Randi
+.. title: Enseñando; Hal presenta a Mike Mcrae; Educando a los futuros pensadores críticos; Anunciados los Premios Anuales PIGASUS; Para acabar...
+.. type: randi
+
+Mientras James Randi continua recuperándose de su operación de
+corazón, ha solicitado a Hal Bidlack que reclute a algunos
+escritores estrella para el Swift.
+
+La columna de esta semana está escrita por Hal Bidlack, Mike McRae
+y James Randi.
+
+Enseñando
+.........
+
+.. image:: http://www.randi.org/images/lectures/lecture_photo4.jpg
+    :align: right
+
+
+Esta semana el SWIFT dirige su atención al desafío de la enseñanza. Muchos
+de los integrantes del JREF son, o han sido, profesores. En realidad, uno
+de las grandes aspiraciones mías -Hal Bidlack- es hacer un taller
+TAM (The Amazing Meeting) enfocado específicamente en darle a
+educadores de todos los niveles las recursos necesarios para afrontar
+la batalla del pensamiento crítico. He pasado la mayor parte de mi
+carrera en la milicia como profesor en una academia militar. Encuentro
+que el comentario de Mike que viene a continuación de este coincide mucho
+con mi propia experiencia.
+
+En mi especialidad, ciencias políticas, la historia se enseña
+demasiado a menudo como una lista de nombres y fechas que deben ser
+memorizadas. Creo que esto es un error trágico. Se puede memorizar
+que la batalla de Hastings transcurrió en 1066 y considerase instruido.
+¿Pero no es mucho más rica nuestra comprensión de la historia
+si se incluyera que el uso por parte de Norman del sencillo
+estribo, una pieza de metal diseñada para que el jinete se mantuviera
+afirmado más fuertemente sobre su montura, ayudaría a decidir el
+curso de la historia de la humanidad? Puedes memorizar que la
+batalla de Monmouth se libró el 28 de junio de 1778, y que en
+ella Los Buenos (Los Estado Unidos)
+le dieron la del pulpo a Los Malos (Los Británicos) [*]_. ¿Pero no sería
+más enriquecedor, más divertido, saber que la victoria fue
+en parte debida al mal genio de George Washington? Al ser informado
+por un general incompetente de que las tropas no resistirían el embate
+de las tropas británicas, (los Regulares o Casacas Rojas), Washington
+respondió en voz alta: "Condenado cobarde, ni siquiera lo has
+intentado", tras lo cual saltó sobre su montura y se dirigió hacia
+donde la lucha era más encarnizada, gritando "No retrocedáis,
+muchachos, resistid al enemigo". Las tropas dejaron de huir y
+permanecieron firmes afrontando al ataque. Este aspecto de
+la historia se pierde si consideramos que lo único importante
+es recordar las fechas.
+
+Creo que el señor Randi es, antes que cualquier
+otra cosa, un profesor, ¡y en absoluto cobarde! Ciertamente,
+su trabajo en lo que se refiere al desafío es de una importancia
+crítica, pero en sus escritos y en sus charlas, en sus
+llamadas por teléfono y en sus correos electrónicos, es donde
+comunica y enseña de la forma más eficaz. Le he oído hablar
+multitud de veces, y nunca le he visto leer de un papel
+una larga serie de datos para ser memorizados. La *educación*
+es mucho mejor cuando es *en vivo*. Y esta educación en vivo
+es de lo que trata todo esto de la JREF, en mi opinión.
+
+En el TAM4, tuve la ocasión y el placer de charlar con los inteligentes
+presentadores de la serie Cazadores de mitos
+(`MythBusters <http://dsc.discovery.com/fansites/mythbusters/mythbusters.html>`__).
+Soy un gran admirador suyo, así que me agradó
+enormemente su presencia. Durante un paseo que dimos por el
+casino *Stardust*, le pregunté a Jamie
+Hyneman "¿Cómo llevas eso de ser famoso?" Me explicó que
+era una sensación muy extraña ser invitado, digamos, el
+JPL (`Jet Propulsion Laboratory
+<http://www.jpl.nasa.gov/>`__), y tener una audiencia
+de varios cientos de científicos espaciales, todos volviendose
+locos cuando entras tú. Pero esto pasa, creo, porque Jamie y Adam son
+ahora *profesores* de primera clase. Comunican a su audiencia
+lógica, evidencia y razonamiento de una forma muy brillante y
+entretenida. Además, vuelan por los aires un montón de cosas.
+
+Así que la enseñanza es el tema de esta semana. Es algo que todos
+practicamos, ya sea con nuestros hijos, los de nuestros amigos, o
+con nosotros mismos. Algunos, como el señor Randi, lo hacen para
+todo el público. Otros, como yo, lo hacemos un nuestra aulas. Pero todos lo
+practicamos en mayor o menor medida. Y cuando hablamos sobre el
+mensaje del señor Randi, lo hacemos de una forma verdaderamente
+relevante.
+
+.. [*] Nota: Si eres un ciudadano de la muy noble y grandiosa Gran Bretaña, puedes
+    invertir a tu gusto los sujetos indicados entre paréntesis. Si resides
+    en cualquier otra parte del mundo, puedes modificar quien estaba luchando
+    contra quien, para que se ajuste a tus gustos. Lo importante es, después
+    de todo, que la historia es algo más que una lista de fechas. (En cualquier
+    caso, ganamos nosotros).
+
+Hal presenta a Mike Mcrae
+.........................
+
+Me siento muy contento esta semana por poder presentarles
+las opiniones de Mike McRea. Mike es de *Allá Abajo*, un sitio
+donde, según tengo entiendo por mis años de educación primaria, todo
+está girado de arriba a abajo, y los canguros campan a sus anchas.
+Existe, no obstante, una pequeña posibilidad de que me haya perdido
+algo en mi educación. Mike ha enseñado ciencias en la escuela
+secundaria en su ciudad natal de Brisbane, y durante los
+dos últimos años en el Este de Londres. En la actualidad está
+estudiando ciencias de las comunicación en la Universidad
+Nacional de Australia, en Canberra. Opina que la educación puede
+jugar un papel importante en la creación de una sociedad más
+crítica con la  información que recibe. Con ustedes, Mike Mcrea...
+
+Educando a los futuros pensadores críticos
+..........................................
+
+Mi carrera ha sufrido algún que otro giro. Empecé como
+médico científico, en una empresa australiana de patología,
+con trabajos de poca monta, como realizar analíticas, y teniendo
+que extraer las muestras de sangre yo mismo. Una vez
+extraje una muestra de un niño, que murió poco después. Aunque
+estaba afectado por una infección de sangre perfectamente curable, sus padres
+retrasaron la intervención médica para probar con un tratamiento
+homeopático. Esta experiencia me hizo consciente de los peligros
+de la "medicina alterativa", una práctica que antes me había
+parecido básicamente inofensiva.
+
+Siempre había seguido la filosofía de que todos somos libres
+de tener nuestras propias opiniones, sin caer en la cuenta de que
+eso no nos autoriza a elegir los hechos que nos convengan; algo
+se había estropeado y quería arreglarlo.
+
+Abandoné la patología por la enseñanza. Quería cambiar la forma en que
+la gente ve la ciencia, y animar a  las personas a pensar críticamente
+sobre lo que se les dice. Me hice profesor de ciencias de enseñanza
+secundaria. Fue una travesía que me enseño mucho sobre como educamos
+a los futuros ciudadanos de nuestra sociedad.
+
+¿Cuáles son las responsabilidades de un educador? La pedagogía -la
+ciencia de enseñar- está inundada de filosofías que promulgan
+los méritos de la "enseñanza de toda la vida" y el "pensamiento
+responsable". Pero en la práctica, ¿Cómo se supone que debemos nosotros,
+los educadores, crear estos nuevos pensadores capaces de tomar
+decisiones críticas y meditadas? A menudo se nos anima
+a considerar los resultados finales de nuestros esfuerzos, pero
+normalmente se espera que el educador sea capaz de descubrir
+la manera de conseguir dichos resultados por si mismo.
+
+Lo primero que tuve que hacer fue descubrir qué era un educador. La
+respuesta sencilla sería "Cualquier persona que influye en el
+aprendizaje de otra". En otras palabras, que todos nosotros -criaturas
+sociales, en definitiva- somos educadores. Los profesores
+podemos vernos beneficiados de ciertos conocimientos especializados, pero
+de ahí a decir que tenemos el monopolio de la educación media un
+largo trecho. Es muchos países para ser profesor simplemente
+se necesita actuar de intermediario entre la juventud y las
+habilidades necesarias para la educación superior, reduciendo
+así la educación a un papel más trivial que el que juegan
+las aptitudes técnicas.
+
+Esto es mucho más obvio en las carreras técnicas. En Gran Bretaña, donde
+estuve de profesor, un estudiante podía pasar sus exámenes con apenas
+los conocimientos obtenidos del libro de texto; muchos profesores
+no habían oído hablar siquiera de la navaja de Occan, ni eran
+capaces de distinguir entre el razonamiento inductivo frente al
+deductivo, ni conocían los detalles implicados en una prueba
+de doble ciego.
+
+Es un error habitual pensar que muchos de nuestros sistemas
+educativos nos están fallando en áreas claves de la enseñanza
+de ciencias. La realidad es sorprendente. La mayoría, si no todos
+los sistemas educativos en el mundo son muy conscientes de la
+necesidad de enseñar el concepto de ciencia. El vocabulario
+usado normalmente hace énfasis esa necesidad, aunque los
+términos pueden variar de un estado o país a otro: "Trabajar
+científicamente", "Pensamiento científico", "Pensamiento
+analítico", "Análisis crítico" ... Aunque están disimulados, todos
+indican la necesidad de usar el método científico de forma
+apropiada en el aula.
+
+Así que, ¿Por que tenemos tan baja opinión de la capacidad de
+nuestra sociedad para ejecutar el pensamiento crítico, si nuestras
+leyes dicen, en esencia, que debemos enseñarla? La respuesta
+es complicada, y  está relacionada con una reducción pandémica
+en toda forma de alfabetización. En primer lugar, en los
+últimos años se ha dado mayor prioridad a la educación
+universitaria; la formación se ha centrado en producir
+buenos estudiantes de ciclos superiores, en vez de en
+buenos ciudadanos; han tomado prioridad los datos y las
+evaluaciones necesarias para acceder a la universidad; y
+el gobierno se regodea con los números clausus, ya que le sirven para
+remarcar los éxitos de su política educativa. ¿Cuál es
+el indicador para medir el éxito de un sistema que produzca
+basureros que piensen de forma crítica?
+
+En segundo lugar, son pocos los profesores que posean los
+habilidades necesarias. Aprender de memoria era hasta no hace mucho
+un recurso que estaba disponible para la mayoría de los
+profesores; desde la ortografía hasta las tablas de multiplicar,
+los estudiantes aprendían los conceptos básicos a base de repetirlos.
+Esto ha cambiado en las últimas décadas. Nuevos métodos
+de enseñanza como Nueva Base (*New Basics*) y Aprendizaje
+Mundial (*Whole Word Learning&*) se han puesto de moda, con
+éxitos bastante discutibles. En cualquier caso, la lección es que
+los estilos y métodos de enseñanza cambian rápidamente, y los
+profesores se pueden encontrar con que la forma en que fueron
+educados está ahora pasada de moda. Muchos profesores
+simplemente carecen de los recursos necesarios para poder
+enseñar pensamiento crítico, de aquí que la asignatura
+de "trabajar científicamente" se cubra con la realización
+de unos pocos y desvirtuados experimentos, donde los estudiantes
+difícilmente podrán adquirir el brumoso concepto de como
+realizar una prueba imparcial.
+
+Dudo si culpar a los institutos de enseñanza por este descuido, porque
+el problema empieza con muchas universidades que han formado a los
+profesores de tal manera que son casi tan ignorantes como
+sus futuros alumnos. La sociedad percibe que ser un ignorante "de letras"
+es un problema mayor que ser un ignorante "de ciencias".
+
+La solución pasa por hace que sea inaceptable socialmente el tener
+personas ignorantes en ciencias. Compárense las siguientes situaciones:
+en una fiesta, una persona ríe y proclama "no soy nada bueno en comprender
+nada remotamente relacionado con la ciencia". Compárese con: "Tengo serias
+dificultadas para realiza una suma o una resta, no hablemos ya de
+dividir". Finalmente, Compárense con "No puedo leer o deletrear nada más
+complicado que mi nombre".
+
+¿Cuál de estos comentarios se verá seguido de asentamientos con la cabeza
+y declaraciones de asentimiento?
+
+Me he dado cuento de que uno de los primeros errores que cometemos
+es hacer lo obvio: enseñar. Existe una idea equivocada de que
+para educar debemos dictar la verdad desde nuestro punto de vista.
+Los educadores se ven forzados a hacerlo así a consecuencia de las
+restricciones en el tiempo y en los contenidos de sus programas. La
+pregunta ¿Por qué tenemos que estudiar esto? se responde con demasiada
+frecuencia con "Porque sale en el examen". Recítenlo, escríbanlo,
+recuérdenlo... aunque sea objetivamente incorrecto, se los marcará
+como correcto en el examen.
+
+[Randi comenta: Cuando estaba en secundaria, frente a una pregunta en
+un examen que pedía "Hablar sobre la importancia del descubrimiento
+del telescopio por Galileo", me puntuaron negativamente
+por responder "Galileo no inventó el telescopio". Esa fue la
+decisión de un inspirado profesor...]
+
+La falacia de apelación a la autoridad esta impresa en nuestros
+cerebros desde el primer día en la escuela. El famoso "mapa de
+la lengua" -un diagrama que señala que partes de la lengua son
+sensibles a una variedad de sabores- se sabe falso desde principios
+del siglo XIX, pero aun así, se sigue incluyendo en los libros
+de texto. Afortunadamente, este error puede ser usado para demostrar
+como una apelación a la autoridad puede ser errónea, mediante un
+simple experimento que incluye diferentes mezclas  de sal, azúcar, zumo
+de limón y un cuentagotas. No obstante, en caso de ser
+susceptible de ser preguntado en un examen, el problema de refutar "el dato"
+es obvio. Es probablemente mas fácil simplemente enseñarlo
+sin cuestionarlo...
+
+La falacia no es un error en si misma; en la actualidad
+es imposible aprender mucho sin permitirle a alguien
+que haga los cálculos por nosotros y nos proporcione
+algunas explicaciones. Y los profesores son fuentes
+imprescindibles de información. Pero el cómo elegir
+nuestras "autoridades" y asignarle un valor a esa
+información, es una habilidad que raramente se enseña
+en nuestro sistema educativo. Es poco sorprendente
+que, para la mayoría de la gente, las frases rotundas
+y los bustos parlantes son suficientes para considerar
+a alguien experto.
+
+Así que ¿Dónde me deja todo esto en
+mi papel de educador? Enseñar es reforzar el sentido
+de la apelación a la autoridad, de forma que cualquiera
+que parezca más inteligente que tu, debe tener la
+razón en definitiva.
+
+Al final he concluido una idea sorprendentemente simple -Los
+educadores debemos enseñar el pensamiento crítico mediante
+el ejemplo. Pequeñas acciones pueden desencadenar grandes
+consecuencias. Los profesores deben prepararse para mostrar
+que "evidencias" y "respuestas" son cosas separadas mediante
+el mismo acto de creerlo ellos mismos. No podemos escapar
+de la trampa que supone el sistema de evaluación mediante
+exámenes, pero podemos enseñarles *como* aprender,
+siendo pensadores críticos cuando corresponda, y demostrándoles
+que somos capaces de estar equivocados, tanto alumnos como
+profesores. Puede no ser tan proactivo como nos gustaría, y puede
+no cambiar el sistema a corto plazo, pero considerando que la
+humanidad ha tenido que aprender ciencias usando
+un cerebro apto para cazadores-recolectores, podemos
+permitirnos obtener algo de satisfacción la primera
+vez que un alumno nos diga "Señor, no le creo".
+
+Lamento decir que el sistema finalmente me venció. Me sentía
+como si estuviera intentando limpiar con un pañuelo de papel
+los resultados de una gran tormenta. Finalmente orienté
+mi atención hacia las ciencias de la comunicación -Otro giro
+más en mi carrera- en un esfuerzo por librar la batalla desde otro
+frente. Pero aun me considero a mi mismo un educador; y como tal,
+sigo fomentando el pensamiento crítico mediante el ejemplo.
+
+Anunciados los Premios Anuales PIGASUS
+......................................
+
+.. image:: http://www.randi.org/images/general/pigasus.jpg
+    :align: right
+
+El primero de abril ya está aquí, y es hora de repartir los codiciados
+premios Pigasus. Las categorías cambian ligeramente de un año para
+otro, y en esta ocasión, tenemos un total de cinco. Como saben ya mis
+lectores, estas son anunciadas mediante percepción extrasensorial
+a los ganadores, a los cuales, por supuesto, se les permite predecir
+su propio triunfo y demostrar así sus poderes precognitivos. El
+trofeo del Cerdo Con Alas es enviado a los ganadores por
+psicokinesis. Nosotros los enviamos, si ellos no los reciben, quizá
+sea por una escasez de habilidad psicokinésica por su parte.
+
+Este año, los premios por las representaciones de 2005  van a los
+siguientes afortunados:
+
+**Categoría número 1, al científico que dijo la mayor tontería
+relacionada con el mundo sobrenatural, paranormal u oculto:** Hemos
+seleccionado a Brenda Dunne como la científico que pronunció la mayor
+tontería este año. Brenda es la gerente del laboratorio PEAR, y es
+la encargada de dirigir los estudios realizados en humanos
+sobre la capacidad de mover los objetos usando sólo la mente.
+Aunque para
+nuestras definiciones, esto ya es paranormal de por sí, Brenda
+insiste en que "Nuestro trabajo no es 'demostrar' las
+habilidades paranormales". ¿En serio? ¿Hay alguna explicación
+racional para estas cosas? En la página web de PEAR podemos
+leer "...los resultados experimentales muestran un incremento
+en el contenido de información que sólo pueden ser atribuidos
+a la influencia ejercida por la conciencia de un ser
+humano". ¿Sólo? Para rematar la faena, dice que el premio
+de un millón de dolares es una "estafa", lo que es fácilmente
+refutable, si se tomara la molestia. Así que Brenda podría ganar
+el gran premio del millón pasando la prueba y demostrando sus
+habilidades, pero a fecha de hoy, lo que ha ganado es un premio
+Pigasus. Más información en
+http://www.randi.org/jr/072905beenthere.html#1
+{vertraduccion;randi20050729}
+
+
+
+**Categoría 2, a la organización que haya financiado es estudio
+más inútil de una afirmación sobrenatural, paranormal u oculta:**
+El honor recae en el ayuntamiento de la ciudad de Auckland, en
+Nueva Zelanda, por aportar a la Fundación de Médiums
+Espiritualistas (FSM - *Foundation For Spiritualist Mediums*) un total
+de 2.500 dólares de Nueva Zelanda (Unos 1.800 dólares USA), directamente
+desde los bolsillos
+de los contribuyentes, para enseñar a la gente a comunicarse
+con los muertos. Citando a uno de los concejales, "Hay muchas personas
+que no pueden comunicarse con el mundo espiritual, y que no saben como
+lograrlo". Afortunadamente, otros concejales se opusieron a este
+desembolso y consiguieron reducir la cantidad inicial, que era
+de 4.500 dólares de Nueva Zelanda. Los que defendían la iniciativa
+argumentaban que esto
+contribuiría a "La visión comunitaria de la ciudad de Auckland". Bueno, si
+ya estaban viendo visiones, a lo mejor no les hacia falta la ayuda de la
+FSM. Para más información, visiten
+http://www.randi.org/jr/052705a.html#3
+{vertraduccion;randi20050527}
+.
+
+.. image:: http://www.randi.org/images/general/johnofgod.jpg
+    :align: left
+    :height: 200
+    :width: 140
+
+**Categoría 3, al informe de prensa que presente como verdadero
+la mayor extravagancia sobrenatural, paranormal u oculta:** El
+premio va a parar a la cadena estadounidense de televisión ABC, por
+emitir, en horario de máxima audiencia, un programa especial sobre
+"Juan de Dios" (*John of God*). Este "curador" brasileño
+llamada João Teixeira sigue empeñado en entorpecer el acceso
+a un tratamiento médico eficaz a personas con
+enfermedades severas. En vez de eso, les ofrece servicios como
+"raspado" de ojos, fórceps por la nariz (los asistentes a la
+TAM pudieron ver a Todd Robbins realizar el mismo truco con
+un pincho de metal) y trances espiritistas. ABC tuvo la gentileza
+de entrevistarme para el especial, pero en vez de emitirla,
+prefirieron mostrar sólo un pequeño recorte, donde salía yo citando a
+alguien. El resto del "documental" estaba estrictamente orientado
+a apoyar a este canalla. No se me llamó para el programa que siguió
+a continuación. ABC tuvo la oportunidad de educar al público sobre
+un fraude potencialmente peligroso, pero parece que descartaron
+la idea en pos de mejorar sus índices de audiencia.
+
+Debemos plantearnos si "John" y su séquito entraron en los
+Estados Unidos como actores o como turistas. La primera de
+las formas exige un visado de trabajo oficial; normalmente
+estos "sanadores" no declaran sus intenciones reales cuando
+cruzan la frontera - estafar a los enfermos desesperados con
+su carnaval de trucos y luces - sino que
+se declaran simples turistas.
+
+Este estafador ha intensificado los controles de tal manera que
+sólo los absolutamente crédulos pueden acceder a su espectáculo.
+No se permite el acceso a la prensa, no realizará ninguno de los
+trucos de meterse cosas por la nariz ni milagros con cuchillos, y
+a un costo diario entre 130 y 360 dólares, para los tres días que
+dura el circo, hacen que el acceso esté limitado sólo a los
+más desesperados.
+
+El canal ABC no ha mostrado ninguna muestra de arrepentimiento, ni
+de reconsideración, sobre esta indisimulada y vergonzosa
+promoción de Juan de Dios, ni tampoco ha pedido disculpas a
+los cientos de residentes norteamericanos que, como consecuencia directa
+de este reportaje chapucero, es probable que pierdan el tiempo en un
+viaje a Brasil en busca de una cura inexistente.
+
+ABC-TV permanece en silencio.
+
+Se pueden ampliar los detalles en http://www.randi.org/jr/021805a.html
+{vertraduccion;randi20050218}
+.
+
+**Categoría 4, al "psíquico" que con su actuación haya engañado al
+mayor número de personas, exhibiendo el mínimo de talento**: Este año
+el premio lo ha ganado Allison DuBois, cuyas conversaciones con los
+muertos son representadas en la serie
+televisiva "Médium", de NBC-TV. Allison no tiene nada de particular
+como "psíquica", pero convencer a la NBC para producir un programa
+"inspirada en las investigaciones hechas sobre su propia vida"
+merece un reconocimiento, por llegar a una audiencia millonaria
+sin necesidad de hacer prácticamente nada. Se puede apreciar una
+muestra del "trabajo" de Allison en http://www.randi.org/jr/012105the.html#5%20
+{vertraduccion;randi20050121}
+.
+
+**Categoría 5, a la manifestación más desmesurada de negación de la
+realidad.** El premio de este año es para la revista *Journal of
+Reproductive Medicine*, por negarse a denunciar al infame estudio
+de Cha y Wirth, en el cual "demostraron" que la fertilidad de las
+mujeres coreanas se duplicaba mediante los rezos de terceras
+personas cristianas. El director del estudio, el señor Daniel Wirth, ha
+mudado hace poco su residencia habitual a una cárcel federal. A pesar
+de las protestas de docenas de doctores y científicos, incluido
+el presidente de la Universidad de Columbia, la revista continua
+sin retractarse de este experimento, obviamente amañado. Se puede
+leer más información sobre el tema
+en http://www.randi.org/jr/2006-01/010606netherlands.html#i10
+{vertraduccion;randi20060106}
+y en http://www.randi.org/jr/200510/101405same.html#13
+{vertraduccion;randi20051014}
+. Este
+estudio ya fue mencionado en la edición anterior de los
+Premios Pigasus, esperemos que esta vez *si* haya un dos sin tres.
+
+Para acabar...
+..............
+
+En su tiempo libre, pueden echar un vistazo a la página
+http://www.butterfliesandwheels.com/. Allí se intenta "luchar contra
+los sinsentidos de moda", recopilando artículos y archivos
+que preocupan a aquellos que preferimos la realidad frente
+a la pseudo-ciencia o a las sandeces postmodernas. Los trabajos
+de los doctores Michael Shermer y Richard
+Dawkins aparecen mencionados con frecuencia.
+
+Además, para todos los que estén preocupados por mi salud, pueden
+consultar los resultados de este estudio:
+http://seattlepi.nwsource.com/health/1500AP_Prayer_Study.html, que
+muestra que, si acaso, los rezos podrían *incrementar*
+las complicaciones propias de una cirugía cardiaca. Dado
+que, personalmente, dudo que haya ninguna relación en absoluto,
+espero recuperarme con una pequeña ayuda de amigos como tu. Muchas
+gracias a todos por el apoyo mostrado en mi convalecencia.
+
+|firmarandi|
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: James Randi (traducido por Juan Ignacio Rodríguez de León)
+    :description: Enseñando; Hal presenta a Mike Mcrae;
+        Educando a los futuros pensadores críticos;
+        Anunciados los Premios Anuales PIGASUS;
+        Para acabar...
+
+

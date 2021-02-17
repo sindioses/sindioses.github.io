@@ -1,0 +1,40 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB300
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB302
+.. link: http://www.talkorigins.org/indexcc/CB/CB302.html
+.. date: 2003-06-13
+.. title: CB302: El oído es demasiado complejo para haber evolucionado
+.. description: Respuesta a la afirmación creacionista «El oído es demasiado complejo para haber evolucionado»
+.. type: afirmacrea
+
+**Fuentes:**
+
+Brown, Walt. 1995. *In the Beginning: Compelling evidence for creation and the Flood*. Phoenix, AZ: Center for Scientific Creation, p. 7.
+
+Respuesta
+===========
+
+1. No se necesita demasiada complejidad para un oído funcional. Todo lo que se necesita es un nervio conectado a algo que puede vibrar. En los insectos han evolucionado "oídos" en al menos once partes diferentes de sus cuerpos, desde las antenas hasta las piernas ([Hoy_y_Robert_1996]_).
+
+2. La :doc:`transición de reptil a mamífero <CC215>` muestra algunos de los pasos intermedios en la audición humana. Huesos de la mandíbula, que probablemente ayudaron a la audición de los reptiles terápsidos, fueron cooptados exclusivamente para la audición en el oído medio.
+
+3. Este es un ejemplo de la :doc:`falacia de la incredulidad personal <CA100>`. Que uno no sepa cómo sucedió algo no significa que no puede haber ocurrido.
+
+Referencias
+============
+
+.. [Hoy_y_Robert_1996] Hoy, R. R. and D. Robert. 1996. Tympanal hearing in insects. *Annual Review of Entomology* 41: 433-450.
+
+
+/////
+
+Anterior: :doc:`CB301` | Siguiente: :doc:`CB303`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
+

@@ -1,0 +1,51 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB922
+.. link: http://talkorigins.org/indexcc/CB/CB922.html
+.. date: 2005-7-18 02:00:00+00:00
+.. title: CB922: No existen formas de vida de dos células entre las de una célula y las multicelulares
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «No existen formas de vida de dos células entre las de una célula y las multicelulares»
+
+No hay formas de vida bicelulares intermedias entre la vida unicelular y la multicellar, demostrando que la etapa intermedia no es viable.
+
+**Fuente:**
+
+Brown, Walt. 1995. *In the Beginning: Compelling evidence for creation and the flood*. Phoenix, AZ: Center for Scientific Creation, p. 9. http://www.creationscience.com/
+
+Respuesta
+==========
+
+1. La etapa intermedia entre la vida unicelular y la multicelular no necesariamente fue bicelular. El primer requisito es que haya señales entre las células, lo que es necesario si las células deben cooperar en la división de tareas para digerir una fuente de alimenos. Muchas bacterias utilizan una variedad de señales. La evolución de una señal para el enjambrado cooperativo se ha observado en una bacteria ([Velicer_y_Yu_2003]_).
+
+   La transición a la multicelularidad se ha estudiado en experimentos con *Pseudomonas fluorescens*, los que mostraron que "las transiciones a órdenes más altos de complejidad son fácilmente obtenibles" ([Rainey_y_Rainey_2003]_, 72). Los choanoflagelados, que son organismos unicelulares y coloniales relacionados con los animales multicelulares, expresan varias proteínas similares a las que se usan en interacciones celulares, mostrando que tales proteínas podrían surgir en animales unicelulares y ser cooptadas para el desarrollo multicelular ([King_et_al_2003]_).
+
+2. Desmidoideae es una clase de algas verdes conjugadas, del filo *Gamophyta*. La mayor parte de los désmidos forman pares de células cuyos citoplasmas están unidos por un istmo ([Margulis_y_Schwartz_1982]_, 100). La bacteria *Neisseria* también tiene a formar conjuntos de dos células. Como se señala más arriba, esto puede no ser relevante para la evolución de la multicelularidad.
+
+Referencias
+=============
+
+.. [King_et_al_2003]    King, Nicole, Christopher T. Hittinger and Sean B. Carroll. 2003. Evolution of key cell signaling and adhesion protein families predates animal origins. *Science* 301: 361-363.
+.. [Margulis_y_Schwartz_1982]    Margulis, Lynn and Karlene V. Schwartz. 1982. *Five Kingdoms* San Francisco: W. H. Freeman.
+.. [Rainey_y_Rainey_2003]    Rainey, Paul B. and Katrina Rainey. 2003. Evolution of cooperation and conflict in experimental bacterial populations. *Nature* 425: 72-74.
+.. [Velicer_y_Yu_2003]    Velicer, Gregory J. and Yuen-tsu N. Yu. 2003. Evolution of novel cooperative swarming in the bacterium Myxococcus xanthus. *Nature* 425: 75-78.
+
+Otras lecturas
+=================
+
+Bonner, John Tyler. 2000. *First Signals: The evolution of multicellular development*. Princeton University Press.
+
+Cavalier-Smith, Tom. 2002. The phagotrophic origin of eukaryotes and phylogenetic classification of Protozoa. *International Journal of Systematic and Evolutionary Microbiology* 52: 297-354. (Técnico)
+
+
+/////
+
+Anterior: :doc:`CB921_2` | Siguiente: :doc:`CB925`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,64 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CI130: Integración funcional implica diseño
+.. description: Respuesta a la afirmación creacionista «Integración funcional implica diseño»
+.. slug: CI130
+.. link: http://www.talkorigins.org/indexcc/CI/CI130.html
+.. tags: CI, CI100
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-06-23
+.. modified: 2004-07-09
+
+La integración de funciones (múltiples partes funcionando juntas para producir una función o finalidad particulares) indica diseño.
+
+Fuente
+======
+
+Lumsden, R., quoted by B. J. Alters, 1995. A content analysis of the Institute for Creation Research's Institute on Scientific Creationism. *Creation/Evolution* 15(2): 1-15.
+
+Respuesta
+=========
+
+1. La integración funcional puede producirse naturalmente. Las partes de un todo se unen todo el tiempo y, sumando energía, actuar la una sobre la otra. Es inevitable que a veces esos mecanismos creen un resultado que alguien o algo considera funcional. Un diseño de tal integración funcional que se produjo naturalmente es el clima (que ha llegado a ser propuesto como prueba de diseño inteligente; [Morton_2001]_). El clima se produce por las interacciones del terreno, los vientos alisios, los cuerpos de agua y la latitud. Estas pueden producirse arbitrariamente, pero seguramente producirán algún tipo de clima funcional.
+
+2. La integración funcional es lo que uno esperaría de la evolución. La evolución requiere unidades que se reproducen. "Unidades" implica al menos cierto grado de integración, y la reproducción es una función. (Y la selección natural favorecerá innumerables otras funciones que ayudan a la supervivencia y la reproducción.)
+
+3. Los sistemas biológicos con frecuencia incluyen imperfecciones e improvisaciones que son argumentos en contra de la planificación inteligente de su integración. Por ejemplo:
+
+   * El ADN a veces incluye una secuencia "equivocada" que, si no se corrige inmediatamente luego de transcribir el ADN, sería fatal. Por ejemplo, un gen que participa en las neuronas de los ratones contiene un codón que especifica glutamina. En los ratones normales, una enzima recorta del ADN el ARN que se transcribe, de modo que el codón especificará arginina. Si esta enzima recortadora se inhabilita, los ratones mueren. Pero los ratones que son fabricados por ingeniería genética con ADN con arginina desde el principio, son saludables incluso sin la enzima recortadora ([Keegan_et_al_2000]_).
+   * En los hombres, la uretra atraviesa la próstata. Cuando la próstata se infecta y se inflama, lo que es habitual, eso causa problemas no sólo con la reproducción sino con el sistema excretor ([Colby_et_al_1993]_).
+   * Aunque las ballenas barbadas no tienen dientes en su adultez, a sus fetos les crecen dientes que son reabsorbidos mientras crecen ([Colby_et_al_1993]_).
+
+   Pueden encontrarse muchos ejemplos más ([Behrman_et_al_2004]_; [Colby_et_al_1993]_).
+
+4. La integración funcional no es una parte necesaria del diseño. No existe en diseños simples que no tienen muchas partes, por ejemplo. Dado que la evolución siempre produce interación funcional pero el diseño no, la integración funcional es más una prueba en favor de la evolución que en favor del diseño.
+
+Enlaces
+=======
+
+Colby, Chris et al., 1993. Evidence for jury-rigged design in nature. http://www.talkorigins.org/faqs/jury-rigged.html
+
+Referencias
+===========
+
+.. [Behrman_et_al_2004]    Behrman et al., 2004. (v. infra)
+.. [Colby_et_al_1993]    Colby et al., 1993. (v. supra)
+.. [Keegan_et_al_2000]    Keegan, L. P., A. Gallo and M. A. O'Connell, 2000. Survival is impossible without an editor. *Science* 290: pp. 1707-1709.
+.. [Morton_2001]    Morton, Glenn R., 2001. Nineteenth century design arguments. *Reports of the National Center for Science Education* 21(3-4): pp. 21-22,27. http://home.entouch.net/dmd/design.htm
+
+Otras lecturas
+==============
+
+Behrman, Edward J., George A. Marzluf and Ronald Bentley, 2004. Evidence from biochemical pathways in favor of unfinished evolution rather than intelligent design. *Journal of Chemical Education* 81(7): pp. 1051-1052.
+
+
+/////
+
+Anterior: :doc:`CI120` | Siguiente: :doc:`CI131`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

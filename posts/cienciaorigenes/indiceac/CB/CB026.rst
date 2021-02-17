@@ -1,0 +1,45 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CB026
+.. link: http://www.talkorigins.org/indexcc/CB/CB026.html
+.. date: 2003-11-17 02:00:00+00:00
+.. title: CB026: Los experimentos sobre abiogénesis profucen toxinas como cianuro y formaldehído
+.. type: afirmacrea
+.. description: Respuesta a la afirmación creacionista «Los experimentos sobre abiogénesis profucen toxinas como cianuro y formaldehído»
+
+Los experimentos como el Miller-Urey producen químicos tóxicos, como cianuro y formaldehído, pero no aminoácidos.
+
+**Fuente:**
+
+Discovery Institute. 2003. A preliminary analysis of the treatment of evolution in biology textbooks currently being considered for adoption by the Texas State Board of Education. http://www.discovery.org/articleFiles/PDFs/TexasPrelim.pdf, p. 5.
+
+Respuesta
+==========
+1. Cianuro y formaldehído son bloques constructores necesarios para compuestos bioquímicos importantes, incluyendo aminoácidos ([Abelson_1996]_). En este contexto no son toxinas.
+
+2. Los experimentos Miller-Urey producen aminoácidos entre otros compuestos químicos ([Kawamoto_y_Akaboshi_1982]_; [Schlesinger_y_Miller_1983]_).
+
+Referencias
+==============
+
+.. [Abelson_1996]    Abelson, P. 1996. Chemical events on the primitive earth. *Proceedings of the National Academy of Science* USA 55: 1365-1372.
+.. [Kawamoto_y_Akaboshi_1982]    Kawamoto, K. and M. Akaboshi. 1982. Study on the chemical evolution of low molecular weight compounds in a highly oxidized atmosphere using electric discharges. *Origins of Life* 12(2): 133-141.
+.. [Schlesinger_y_Miller_1983]    Schlesinger, G. and S. L. Miller. 1983. Prebiotic synthesis in atmospheres containing CH4, CO, and CO2. I. Amino acids. *Journal of Molecular Evolution* 19(5): 376-382.
+
+Otras lecturas
+==================
+
+Ellington, Andrew D. and Matthew Levy. 2003. Gas, discharge, and the Discovery Institute. *Reports of the National Center for Science Education* 23(3-4): 39-40.
+
+
+/////
+
+Anterior: :doc:`CB025` | Siguiente: :doc:`CB030`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

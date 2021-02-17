@@ -1,0 +1,41 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. category: Afirmaciones de los creacionistas
+.. tags: CF, CF000
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. slug: CF001_1
+.. link: http://talkorigins.org/indexcc/CF/CF001_1.html
+.. date: 2006-1-13
+.. type: afirmacrea
+.. title: CF001.1: Los sistemas dejados a su suerte invariablemente tienden al desorden
+.. description: Respuesta a la afirmación creacionista «Los sistemas dejados a su suerte invariablemente tienden al desorden»
+
+Los sistemas o procesos dejados a su suerte inveriablemente tienden a ir del orden al desorden.
+
+**Fuente:**
+
+Wallace, Timothy, 2002. Five major evolutionist misconceptions about evolution. http://www.trueorigins.org/isakrbtl.asp
+
+Respuesta
+===========
+1. Este es un intento de afirmar que :doc:`la segunda ley de la termodinámica implica un inevitable aumento en la entropía <CF001>` incluso en sistemas abiertos haciendo uso de la expresión "dejados a su suerte". Lo cierto es que, a menos que "dejados a su suerte" signifique "sin recibir influencia exterior que actúe sobre ellos", el desorden de los sisemas puede disminuir. Y dado que la influencia externa es con frecuencia la regla en los sistemas biológicos, el orden puede (y de hecho lo hace) aumentar en ellos.
+
+2. No es una mera teoría que esta afirmación es falsa. Las excepciones ocurren odo el tiempo. Por ejemplo, las plantas en torno a mi casa son dejadas a su suerte cada primavera, y cada primavera producen orden localmente convirtiendo carbono del aire en tejido vegetal. El barro que se seca, dejado a su suerte, genera rajaduras ordenadas. Los cristales de hielo, dejados a su suerte, producen distribuciones mucho más ordenadas que si yo hubiera intervenido. Los ciclos de congelamiento y descongelamiento ordenan piedras de forma natural en patrones regulares ([Kessler_y_Werner_2003]_). ¿Cómo una tendencia al desorden puede ser invariable cuando hay excepciones en todas partes? ¿Y por qué los creacionistas discuten tanto en favor de afirmaciones que ellos mismos pueden ver claramente que son falsas?
+
+3. El desorden y la entropía no son lo mismo. La segunda ley de la termodinámica se ocupa de la entropía, no del desorden (aunque el desorden definido en su aplicación a los estados microscópicos puede ser relevante para la termodinámica). No hay leyes sobre el desorden en el uso habitual del término ([Styer_2000]_).
+
+Referencias
+=============
+
+.. [Kessler_y_Werner_2003]    Kessler, M. A. and B. T. Werner, 2003. Self-organization of sorted patterned ground. Science 299: 380-383. See also: Mann, D., 2003. On patterend ground. *Science* 299: 354-355.
+.. [Styer_2000]    Styer, Daniel F. 2000. Insight into entropy. *American Journal of Physics* 68(12): 1090-1096.
+
+
+/////
+
+Anterior: :doc:`CF001` | Siguiente: :doc:`CF001_2`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

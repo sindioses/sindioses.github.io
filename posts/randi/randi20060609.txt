@@ -1,0 +1,330 @@
+.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
+.. date: 2006-06-09 00:00:00
+.. author: James Randi, traducción de Graciela Lorenzo Tillard
+.. category: Traducciones de James Randi
+.. title: Dónde está exactamente Lou Gentile? — La discusión del protocolo Perron — Esa idea HHO no es nueva — Matarratas rescatado por la ciencia — Cuando la profecía falla — Protagonista en NBC — Cliché / fábula revisitada — Como sospechábamos — En conclusión...
+.. type: randi
+
+.. contents:: Contenido
+   :class: sidebar
+   :local:
+
+¿Dónde está exactamente Lou Gentile?
+....................................
+
+.. figure:: http://www.randi.org/images/commentary/200606/09gentile.jpg
+   :alt:
+   :figwidth: 124
+
+   **Lou Gentile: PERDIDO**
+
+En http://tinyurl.com/zoel9 encontrarán algunas preguntas que le han hecho a un Lou Gentile -psíquico extraordinario, según su juicio- sobre su persistente evasión a aceptar el desafío de un millón de dólares de la |jref|. Después de recuperarme de mi coyuntura médica reciente, reuní cuidadosamente los materiales requeridos para una prueba de su afirmación de extraño "EVP". (EVP es la sigla en inglés de "Fenómenos Electrónicos de Voz", y un grupo que puede verse en http://www.aaevp.com/ les explicará todo el concepto a los curiosos.) Es muy similar a las afirmaciones hechas por los "rompedores de nubes" que creen que pueden hacer que las nubes se muevan o se disipen a voluntad. Todo es ilusión, pero eso nunca detuvo a ningún Fiel Creyente de aceptar una idea absurda.
+
+Estos pobres ejecutantes de EVP juegan con grabadoras de varios tipos hasta que encuentran una señal de audio de cualquier clase -en un ambiente saturado de teléfonos celulares, transmisiones de radio y TV, varios intercomunicadores y dispositivos de monitoreo, conversaciones por walkie-talkie, y transmisiones de radioperadores aficionados, sobre un completo abanico de frecuencias de FM y AM desde 10 kilociclos a 10.500 megaciclos. Eso incluye seguridad pública, industrial y gubernamental, la radio de los ciudadanos, las furgonetas y los enlaces de la TV, los controles remotos, las conversaciones aeronáuticas aire-tierra, telemetría, canales de navegación, y docenas de otros medios. También están presentes a menudo las audio-imágenes armónicas más débiles de estas transmisiones. Ciertas grabadoras, por mal diseño o con defectos, pueden -y lo hacen- aceptar señales falsas; en Alemania, en los 60, tenía una grabadora de carrete Grundig que tomaba la muy fuerte señal AFN (Red de las Fuerzas Armadas) desde Francfort debido a la pobre protección de una correa interna del Grundig -que entonces hice reparar. Mi problema -que los ejecutantes de EVP considerarían una bendición- desapareció inmediatamente.
+
+.. figure:: http://www.randi.org/images/commentary/200606/09rrqr80.jpg
+   :alt:
+   :figwidth: 183
+
+   **El Panasonic RR-DR60 que produce EVP “sobrenaturales”**
+
+El amplio espectro de radio-frecuencias es una rica fuente de señales donde escoger, especialmente si un "cazador de fantasmas" usa una grabadora digital de Panasonic modelo #RR-DR60, y con referencia en Google bajo "Panasonic RR-DR60 discontinuada", encontrarán una lista de admiradores del EVP que adoran a este modelo en particular, por razones obvias: provee imágenes falsas con las que pueden pasar un buen momento. Una nota particularmente hilarante se encuentra en http://www.alienandspirit.com/seven.htm, y después de leerla, quedarán totalmente convencidos de la entusiasta ingenuidad con la que los fieles creyentes llevan a cabo sus ilusiones.
+
+El desafío de la |jref| de un millón de dólares es un enorme problema para estos tipos. Deberían comprender la ilusión comprometida por esos desesperados creyentes en el EVP, al tratar de subestimar la validez del desafío. Deberían saber que el Sr. Gentile ha insistido en que debe usar una grabadora RR-DR60 -por supuesto. Pero lean algunas de las notas desconcertantes que los admiradores del EVP -en la propia página de Gentile- han inventado para mostrar por qué el desafío |jref| debe ser evitado cuidadosamente. He aquí algunas:
+
+    He visto al "Asombroso" en un programa de la t.v. Para que usted reciba el dinero, ÉL tiene que controlar el ambiente que rodea a la "prueba" que le da para demostrar si usted es un "farsante" o no. Sólo pienso que no quiere dar el dinero.
+
+Esa última frase es muy correcta, pero ya que estoy legalmente obligado a otorgar el premio -si gana- no tengo elección. En cuanto a mi "control [del] ambiente", ya que ni siquiera estaría presente -¡lean las reglas, gente!- y ya que cualquier prueba sería realizada *por terceros independientes acordados por ambos lados del asunto*, eso es simplemente una mentira. ¿Siguiente caso...?
+
+    He leído en más de un sitio en línea que este tipo tiende a "alterar" las reglas a medida que avanza o que simplemente hace prácticamente "imposible" que los individuos "prueben" algo.
+
+Bien, ya que aparentemente sólo lee las diatribas en línea que no le importan mucho a "este tipo", o para un enfoque sensato de estos temas, por supuesto que las leerá, pero no es verdad; estoy obligado por las mismas reglas a las que otros deben adherir, ninguna alteración de las reglas, ni interferencia. No puede hacerse. ¡LEA LAS REGLAS!
+
+    Por ejemplo, alguien dice que puede ver las auras y él insiste en que se use cierta "iluminación". Bien, para que algunas personas perciban las auras tienen que tener cierto tipo de iluminación.
+
+Sí, eso dicen, y en los únicos dos casos argumentos que alguna vez he manejado, uno fue en un gran Especial de TV allá en 1989. Seguimos meticulosamente las instrucciones de la solicitante, y ella estuvo de acuerdo en que todo había sido hecho apropiadamente, incluyendo su demanda de que el área del estudio fuera "lavada" con una luz de color ámbar para limpiar las auras residuales (?) pero aun así falló el 100% de ver cualquier "aura", aunque dijo que estaban presentes -y muy fuertes- cuando hizo la prueba de "punto de partida". Tenía exactamente ese "cierto tipo de iluminación" que pidió, sin embargo falló. El otro caso, aunque no pidió ningún tipo especial de iluminación, también falló...
+
+    Para usted y el EVP él [James Randi] probablemente exigirá alguna forma de limitación estrafalaria como NINGUNA GRABADORA DIGITAL DE VOZ, o algo de ese tipo.
+
+Al contrario, señor. A decir verdad, con entusiasmo estuvimos de acuerdo en que Lou podía y debía usar el dispositivo RR-DR60 preferido que ya tiene. La prueba que hemos propuesto sería decisiva, no importa la clase de dispositivo -incluso dos latas conectadas con un cordel, o banderas de semáforo- que Lou decida usar. De todos modos, ya que ahora Lou se ha quedado callado sobre el tema, podríamos nunca saberlo...
+
+    No creo que pague. Encontrará alguna razón falsa o escapatoria que "olvidó" mencionar al principio del desafío.
+
+¡LEA LAS REGLAS! No tengo ese privilegio, ni tampoco un solicitante. Nos ponemos de acuerdo, con anticipación, en las reglas y el protocolo, y no podemos hacer ningún cambio de ningún tipo. *Estoy por completo obligado legalmente a pagar el premio en efectivo*, cuando haya sido ganado. El solicitante no paga ningún honorario, y no tiene ninguna obligación aparte de adherir a las reglas -como yo, también.
+
+Otra queja en el sitio de Gentile cita del sitio de la |jref|:
+
+    "Y no hay ni un solo ejemplo de descubrimiento científico en el campo de la parapsicología que haya sido reproducido independientemente. Eso hace a la parapsicología absolutamente única en el mundo de la ciencia".
+
+    Esto es una cita de la FAQ personal de James Randi en su sitio web. Para ver qué absoluta [sic] mentira es, les señalaría en dirección al excelente "The Conscious Universe" [el universo consciente] de Dean Radin, que habla precisamente de los datos científicos que James está negando aquí.
+
+¿De veras? Bien, Dean Radin ha estado excepcionalmente callado en los nueve años desde que salió su libro. Es por supuesto elegible para el premio de un millón de dólares si puede reproducir *un* ejemplo -de su libro o de cualquier otro lugar- que pruebe el caso para la parapsicología. ¿Por qué no he escuchado de él, y mucho menos de Lou Gentile...? ¿Qué podrá ser lo que evita que estos fantasiosos soliciten y ganen el premio?
+
+La última palabra sobre el tema vendrá del mismo Lou Gentile. Refiriéndose a mí, dice, en su foro:
+
+    Creo que algo está ocurriendo con él. Lo averiguaremos, exactamente muy pronto.
+
+¿Qué tan pronto es "exactamente muy pronto", Lou?
+
+*Mientras "entramos en prensa", nos enteramos de que Lou Gentile ha estado involucrado en un accidente industrial, y que guarda cama. Esperamos su pronta recuperación, y lamentamos este problema -que es indudablemente la razón de no haber regresado antes a nosotros. Confiamos en que cuando se haya recuperado lo suficiente, volverá a considerar el desafío de la JREF otra vez. Ciertamente no lo molestaremos más sobre el tema hasta que sea capaz de manejarlo. Que se mejore, Sr. Gentile.*
+
+
+La discusión del protocolo Perron
+.................................
+
+La reacción a nuestro pedido de un análisis de la solicitud de Bill Perron fue inmensa. La mayoría de los que respondieron habían comprendido los hechos bastante bien; vieron los defectos obvios en el reclamo, y esbozaron en general unos protocolos apropiados para proporcionar una prueba de la afirmación. Queda, por supuesto, ver si Perron estará de acuerdo con el protocolo simple, directo y definitivo que resulta de lo que sigue. Una copia de esto le fue enviada antes de la aparición en la página del comentario semanal.
+
+Bueno, sé de Bill Perron desde hace muchos años. Cuando me enteré de su existencia, sólo se estaba anunciando como un mago de fiestas de cumpleaños infantiles; ahora parece que ha desarrollado poderes psíquicos. Ha sido mordaz en sus denuncias de mí y de la |jref|, y es en general un campista desdichado. Ésta es su oportunidad dorada de ganarse el premio de la |jref|, y de aceptar la gloria debida, pero espero -basándome en mi inmensa experiencia con estas personas-, que Bill Perron nunca aceptará una prueba apropiadamente diseñada de su afirmación mal establecida.
+
+Antes que nada, no leemos en ningún lugar de la solicitud de Perron si se les pide a los sujetos el lugar geográfico de nacimiento, ni la hora del día en que nacieron, aunque esos elementos -¡nos lo dijeron unos astrólogos!- son de principal importancia para emitir un horóscopo. Esos factores tendrían que ser abordados antes de continuar.
+
+Después, tengo entendido que Perron no afirma ser un astrólogo; hasta donde puedo entender de su descripción incoherente, parece pensar que está haciendo un reclamo sobre *algo que puede hacer*, como una hazaña paranormal o seudocientífica, cuando no es nada más que ser capaz de correr algún programa de computadora e imprimir el resultado para que alguien lo lea y trate de relacionarlo. Sólo está afirmando que un programa de computadora comercialmente disponible -no su propia destreza como astrólogo- puede generar un horóscopo que da detalles sobre un sujeto, y que la esposa del sujeto puede considerar que es precisamente aplicable. Ahora, *si ése es su reclamo*, debemos aceptarlo. Tenemos que diseñar y -con su acuerdo- llevar a cabo una prueba de las habilidades que el solicitante específicamente alega; no podemos inventar nuevas tareas ni requisitos para él, como varios lectores sugirieron. Al mismo tiempo, no podemos admitir un reclamo que obviamente sería cumplido por defecto, y éste lo es. Tenemos un protocolo propuesto y aceptable, sigamos adelante.
+
+Consideren los problemas con el sugerido reclamo de Perron: *no podría evitar conseguir un puntaje muy alto* sobre lo que ingenuamente parece pensar como una prueba apropiada. Ya que los horóscopos son en general halagadores y generales, una esposa posiblemente estaría muy de acuerdo en que un horóscopo *que sabe que se supone aplicable a su marido*, es exacto. Ese procedimiento es totalmente inaceptable, ya que no es perfectamente "ciego", como se requiere. Como hemos demostrado en el pasado, un horóscopo escrito puede incluir muchas declaraciones vagas que serían aplicables a la mayoría de las personas. Ejemplos tomados de uno de los programas de horóscopos disponibles: "Usted tiende a dar a otros el beneficio de la duda", "Hay veces cuando usted cuestiona sus propias decisiones", "Algunas personas lo sacan de quicio, aunque usted trata de comprenderlas". También hay declaraciones que generalmente son positivas o complementarias, que los sujetos a menudo deciden creer que son verdad, incluso si no son completamente exactas. El resultado es que se puede producir un horóscopo estándar, que la mayoría de las personas creerá que las describe con al menos un 90% de exactitud.
+
+No, si tendrá lugar una prueba de la afirmación de Perron, una *real* decisión del evaluador tiene que ser parte del protocolo. Cualquier tipo de *opinión* confusa -dada de un texto no-oculto- no puede ser aceptada. Hemos llegado a la conclusión, teniendo en cuenta la contribución de los lectores y mi experiencia pasada de tales temas, que se requiere una prueba realmente doble-ciega. Para satisfacer los requisitos de Perron, buscaríamos a cinco parejas, obtendríamos las fechas de nacimiento -y posiblemente la hora y ubicación, si Perron las necesita- de los maridos, y luego pondremos al software de Perron a generar los horóscopos. Con las advertencias adicionales en mente -expresadas en el siguiente párrafo-, haríamos cinco fotocopias de cada uno de los horóscopos, y les daríamos un juego de cinco a cada una de las esposas. Se le pedirá a esas personas asignar un puntaje al juego, dando un 5 al horóscopo que más crean aplicable a su marido, un 4 al siguiente mejor "ajustado", etcétera.
+
+Y hay muchas otras razones para ajustar el protocolo de Perron, también. Los maridos seleccionados tendrían que ser más o menos de la misma edad, así su experiencia del mundo sería similar; por ejemplo, si apareciera una afirmación en el horóscopo sobre un político en particular que es desconocido para el marido -o la esposa-, seguramente ese horóscopo no tendría alto puntaje. Cuando se eligen sujetos de una multitud en un centro comercial, como Perron prefiere, se tiene una oportunidad -de ambas partes- de arreglar la baraja introduciendo "parecidos". También sería necesario quitar los "marcadores" en los horóscopos presentados, pistas tales como referencias al signo del zodíaco y/o a los datos geográficos, cualquier conjunción de planetas, o cualquier dato astronómico físico por completo. No será permitido ningún contacto entre Perron y los participantes, hasta que se tomen las decisiones. Incluso ver a los participantes le puede permitir a Perron insertar en un horóscopo ciertas características observadas. No se le permitirá ver ninguna foto de los participantes, por las mismas razones.
+
+Todo lo que podemos probar -y lo haremos-, es la habilidad de las esposas para identificar -en el juego de cinco- el horóscopo correcto, al clasificarlos como se describe arriba. La afirmación de Perron nos da una oportunidad ideal de hacerlo. Recuerden, tenemos que probar **lo que está alegando**, no podemos decirle qué **debería** ser capaz de hacer, sin importar qué tan obvio sea lo que puede hacer. Algunas respuestas inventaron toda clase de tareas para Perron, que no aceptaremos porque estaban fuera de su afirmación básica, hasta donde pudimos comprenderla.
+
+En cuanto al sabor general de los protocolos sugeridos que recibimos, muchos corresponsales opinaron sobre la cantidad de preguntas necesarias, lo que constituiría un impacto, posiblemente insertando fechas falsas y/o horóscopos, cómo evaluar las respuestas, etcétera. Perdieron el bote. Algunos dijeron que debido a la muy vaga naturaleza de la astrología parecía ser imposible medir por anticipado cualquier afirmación; el protocolo esbozado arriba rodea ese problema, ya que la decisión es dada a las esposas, como Perron requiere. De todos modos, ocho páginas de deprimentes discusiones de "aspectos", "casas", y "signos" -de lo que la mayoría de los horóscopos generados por computadora están llenos-, son demasiados datos. Perron tendría que reducirlo a dos páginas, aunque sería automático, tan pronto los adornos y el relleno sean quitados. Se los aseguro, los diagramas, filosofía, incoherencias, y "adornos" en general de tales documentos, deben ser vistos para ser creídos.
+
+Tengo que agradecer a los más de 100 lectores que enviaron sus sugerencias de protocolo -aunque algunos todavía parecen no haber entendido las instrucciones específicas para ese informe. Suspiro. El protocolo de más arriba incorporó varios aspectos sugeridos por los lectores, y me alegra que los lectores estuvieran dispuestos a ocuparse en tal proyecto. Habrá más...
+
+De modo que, ésas son las observaciones de este autor, con suficiente ayuda de los lectores del esta columna, y el protocolo propuesto, Sr. Perron. ¿Aceptará ser evaluado bajo estos términos? Si no, por supuesto es libre de sugerir otras maneras en que sus ideas podrían ser probadas, e invitamos a una discusión adicional.
+
+
+Esa idea HHO no es nueva
+........................
+
+El lector Jules Madey de Hillsdale, NY, vio las declaraciones del "gas HHO" sobre el que escribimos en http://www.randi.org/jr/2006-05/052606action.html#i3, y comentó:
+
+    Fui dirigido a su sitio hace algunos días para mirar el "soplete de agua". No estoy seguro de qué está haciendo estos días la oficina de patentes, pero poseo un viejo Soldador de Agua Henes hecho en los 60 que es un pequeño y eficiente soplete basado en la electrólisis oxígeno-hidrógeno, grandioso para el trabajo de joyería, formando diminutas termocuplas, etcétera. No hay ningún gran misterio allí. Henes solía publicar un aviso, una foto que mostraba una termocupla de cable fino que se fundía dentro del filtro de un cigarrillo sin quemar el papel. La punta del soplete era como una aguja de hipodérmica #30, de modo que el diámetro de la llama era muy pequeño, y con cuidadoso control de la presión del gas y buena puntería se podía concentrar todo el calor en una región muy pequeña.
+
+De modo que lo que parece ser nuevo del "inventor" Denny Klein, ya fue hecho en 1966, por un Dr. William A. Rodas y él recibió la US patente #3.262.872...
+
+Pero, resulta que había un australiano llamado Yull Brown que en 1973 "inventó" lo que llamó "gas de Brown", que es obtenido por la simple electrólisis del agua y mezclando dos partes de hidrógeno y una parte de oxígeno que es el resultado, y no por conducir los dos gases en tanques separados para compresión y almacenamiento, como se hace generalmente. Eso es exactamente lo que Klein está haciendo. No hay ninguna diferencia conocida entre las muchas variedades alegadas de esta mezcla, que es usada en sopletes comunes de 2 tanques de oxígeno-hidrógeno para conseguir temperaturas muy altas. El gas ya mezclado también es conocido por varios nombres comerciales como Aquygen, Di Hydroxy, Green Gas, gas HHO (como hemos visto), Hydroxy, gas Klein (por Dennis Klein), y Watergas.
+
+Cuando investigué este tema del gas de Brown y sus muchas variantes, quedé atrapado en sitios tales como KeelyNet (www.keelynet.com/), donde anda el inventor Dr. Rodas, y allí encontré temas tales como "energía libre", control de gravedad, "salud electrónica", "ciencia alternativa", fuerza etérea de la naturaleza, anti-gravedad, fotografía Kirlian, teorías de que la música puede corregir problemas mentales específicos, y la Maravillosa Máquina Keely  de la que hablé en http://tinyurl.com/puxda y otros lugares en esta columna. ¡Eso tiene que preocuparme, un montón...!
+
+Profundizando nuestra mención del "inventor" Denny Klein, el lector Arthur Maruyama nos envía a otro video de Google -http://tinyurl.com/g9nth- del que dice...
+
+    .. image:: http://www.randi.org/images/commentary/200606/09h20.jpg
+       :alt:
+       :align: right
+
+    ... parece ser un video promocional para el gas HHO. Deberá notar que en el momento 1:30 del video tienen un dibujo de una molécula de agua consistente de dos átomos de oxígeno y un átomo de hidrógeno. Aparentemente interpretan "hache, dos o" como representando a esta configuración. En el momento 5:20 el demostrador afirma que el soplete con gas HHO tiene una temperatura de aproximadamente 260 grados Fahrenheit y sigue con una demostración de esta temperatura relativamente baja pasando su mano a través de la llama, pero antes de continuar -en el momento 5:25- parece ajustar el soplete. Luego de las demostraciones de cortar / quemar / calentar, en el momento 7:07 el demostrador parece hacer otro ajuste al soplete fuera de pantalla antes de mostrar que el producto del soplete es sólo agua, colocando el soplete en un ángulo oblicuo a alguna tabla de modo que las gotas se junten en la superficie. Pregunto por qué esa tabla no es cortada / quemada / calentada de la misma manera que los otros materiales en la demostración. Dejé de mirar en este momento.
+
+Hay mucho más aquí, Arthur. Por ejemplo, la versión artística que "representa" a la molécula de agua, aparte de tener cambiadas las proporciones de los elementos, también da una extraña idea de los tamaños representativos de cada átomo: el oxígeno sería inmenso en contraste con el hidrógeno -el átomo más simple y más pequeño. En el momento 1:07, el comentarista dice que el gas HHO es "evolutivo", cuando estoy seguro de que quiso decir, "revolucionario", ya que el nivel intelectual del artículo impediría cualquier aceptación de la evolución como una imagen viable del mundo. En el momento 5:50, el "inventor" se refiere al tungsteno "subiluminado" a 10.000 grados Fahrenheit -un término sin sentido, a menos que quisiera decir "sublimado", que es lo que hace el tungsteno- insinuando que la llama de soplete sube automáticamente de 259ºF a 10.000 -por alguna magia que no se explica aquí. En todo caso, el tungsteno sublima -pasa directamente de sólido a gaseoso- a 6.170ºF... mucho antes de que ese punto haya sido alcanzado.
+
+Nuestros lectores encontrarán indudablemente aún más fallas en este artículo de "noticias", aparte del hecho de que separar el agua en hidrógeno y oxígeno, y luego recombinar esos dos elementos en agua otra vez por combustión, es un proyecto costoso que simplemente no vale la pena, excepto sobre la base de una pequeña operación que use una mezcla hecha en el lugar que es inmediatamente quemada.
+
+Otra vez, ¿por qué somos atormentados por personas de los medios de comunicación incapaces, ignorantes y presuntuosas, que ofrecen al público promociones sin valor e inservibles, que pueden alentar la inversión en este tipo de proyectos? Hey, ni el lector Arthur Maruyama ni yo somos genios -aunque no estoy seguro sobre Arthur- pero no se necesita ser un ingeniero aeroespacial proverbial para ver que los que apoyan el soplete HHO están mal informados, y resulta que están engañando al público. Lo cuál me recuerda...
+
+Johnny Carson, en una de sus cartas enviadas a mí, 8 de septiembre de 2002, se refería a Larry King y Montel Williams, que estaban sosamente aceptando las afirmaciones ridículas de John Edward y por lo tanto engañando su público al darle una enorme exposición en la TV. Johnny me dio una cita ilustrativa de Bacon que describe lo que King y Williams estaban haciendo: "Un hombre crédulo es un impostor".
+
+.. image:: http://www.randi.org/images/commentary/200606/09bacon.jpg
+   :alt:
+   :align: right
+
+Quizás deberíamos tener la referencia completa, de "El Avance del Aprendizaje", de Sir Francis Bacon, alrededor de 1605:
+
+    Este vicio [la tercera enfermedad del aprendizaje] por lo tanto se ramifica en dos tipos; el deleite en engañar y la aptitud de ser engañado; impostura y credulidad; las cuales, aunque parecen ser de una naturaleza diversa, la una parece proceder de la astucia y la otra de la sencillez, sin embargo indudablemente en su mayor parte están de acuerdo: para, como dice la poesía...
+
+        "Percontatorem fugito, nam garrulus idem est,"
+
+    ... un hombre inquisitivo es un charlatán; por eso sobre una razón probable un hombre crédulo es un estafador: como lo vemos en la fama, que el que fácilmente cree rumores, fácilmente los aumentará y añadirá algo de sí mismo; lo que Tacitus sabiamente nota cuando dice, *Fingunt simul creduntque*: tan grande afinidad tienen ficción y fe.
+
+
+Matarratas rescatado por la ciencia
+...................................
+
+Ben Killerby, cuyo sitio http://www.killerby.com.au/rituals_scams.htm explica bastante bien sus fundamentos en razón y racionalidad, comparte con nosotros esta incomprensible descripción del "MagicFlavor Plug-in Magnetizing Dispenser for Red Wine and Brandy". Gente, no pueden inventar tal porquería...
+
+    Tengo que explicarles un poco cómo trabaja nuestro producto recién inventado. Los vinos están hechos de uvas, cáscaras de uva, semillas y tallos que contienen tanino. El tanino está compuesto de fenol o sazón. El vino envejece por la oxidación de este compuesto que se combinará químicamente uno por uno por oxidación para formar una cadena de moléculas. Cuanto más larga es la cadena, más añejo es el vino. Nuestro producto es sólo un magnetizador. Cuando un fluido conductor (en este caso el vino) pasa a través de un campo magnético, se crea una carga eléctrica. Nuestro dispositivo tiene un bi-polo donde el fluido es cortado por el campo magnético a 90 grados con respecto a la línea del campo. En cuanto es cortado a través del campo, se produce una ionización de las moléculas, por lo tanto cada grupo de fenoles perderá un hidrógeno y tendrá una carga (menor). Este efecto correrá *[sic]* los grupos ionizados de moléculas para formar una cadena virtual que será físicamente similar a la del vino añejo. El efecto sólo durará 15 días pero es suficiente tiempo para beberlo. Usted puede llamar a nuestro producto *[sic]* "envejecimiento instantáneo de vino usando magnetismo". Usted puede tomar una botella de vino barato o brandy joven, inmaduro, ostentoso y tosco, usar nuestro Plug-in Magnetizing Dispenser en él, y el resultado presuntamente *[sic]* será... bien, no Grange, pero claramente mejor de lo que era.
+
+¡Hey, amigos, hay esperanza para Thunderbird! Ben dice, muy correctamente, "La gramática torturada del texto no es nada comparada con la química torturada que "explica" el proceso."
+
+Un breve resumen de los varios timos mayores en mejoradores de vino que se ofrecen a los ingenuos actualmente:
+
+**• El Perfect Sommelier.** Usted reemplaza el corcho con su tapa y pone la botella sobre la base especial. Se vende a $50 ó $60, dependiendo de la variedad de color y estilo de acabado que elija.
+
+**• El Wine Cellar Express** envejece el vino en 30 minutos o menos. Usted pone la botella de vino sobre un posavasos redondo, y un "campo magnético" ablanda o reduce los taninos ásperos del vino. Se vende más o menos a $45.
+
+**• El Wine Clip** es un dispositivo metálico-plástico para sujetar alrededor del cuello de la botella de vino, y se vende al por menor a $35. Con sólo servir el vino de la botella envejece y mejora el vino, en un instante. Sin esperar.
+
+**• El BevWizard** es un clip de cuello más aireador que libera al vino de esos desagradables "taninos más pequeños" que son "partículas cargadas negativamente". El dispositivo "alienta" a los taninos a "combinarse".
+
+**• El Wine Enhancer** se vende a $149. Es un disco de epoxi grande y pesado con coloridos cristales, y una vuelta de cobre embebido. Nada de imanes mortales aquí, sólo gemas semipreciosas y minerales.
+
+Me asombra que ninguno de estos dispositivos haya alcanzado el premio de un millón de dólares de la |jref|. La razón de que tales embustes sean elegibles para el premio, es que si alguna de las afirmaciones fuera verdadera, por definición sería paranormal. O mágica...
+
+Pero ese último artículo en la lista, el Wine Enhancer, aparece aquí sólo un poco más. Recientemente me enviaron un largo grupo de comunicaciones entre los fabricantes / vendedores de algunos de los más importantes dispositivos mágicos mejoradores de vinos, y unos escépticos que cuestionaban sus afirmaciones. Sintiendo que el desafío |jref| debería ser evidente en algún sitio, envié esta nota a todos los interesados:
+
+    Después de leer todo este acalorado intercambio de palabras, pensé que sólo repetiría el desafío de la James Randi Educational Foundation, establecido hace mucho tiempo: pagaremos US$1.000.000 a cualquiera que pueda distinguir la diferencia entre un vino que ha sido tratado con ALGUNO de los supuestos dispositivos "Magnetizadores de Vino", y el mismo vino no así tratado. Debería tomar menos de un día [sic] para llevar a cabo un exhaustivo conjunto de pruebas, y el resultado potencial es un millón de dólares -además de mis disculpas personales y despreciables por haber dudado de los solicitantes. Por favor, ahórrenme el surtido habitual de excusas y coartadas; el premio en efectivo está disponible para el pago inmediato en forma de bonos negociables, aquellos involucrados en la toma de las pruebas serían expertos independientes escogido por los solicitantes, y todos los procedimientos serían cubiertos en detalle por grabaciones.
+
+    Mi expectativa es que ninguno de los que respaldan alguno de los sistemas de "mejoramiento" acepte esta atractiva propuesta, sino que decidirá continuar evitando cualquier prueba apropiada de sus afirmaciones, y por ello sacrificará su oportunidad dorada de ganar este cuantioso premio, y de demostrar que los escépticos son tontos...
+
+Bien, recibimos una hilarante respuesta de Robert V. Catania, presidente de Catania Wine Enhancer Inc., quien afirma que su "colorido" invento funciona sobre la "energía orgonal", que pensé que habíamos dejado atrás con el deceso de Wilhelm Reich en 1957. Catania ha sido una voz muy activa sosteniendo los embustes, mientras al mismo tiempo declinaba enfáticamente tomar el premio de un millón de dólares por unas pocas horas de demostrar qué tan bien funciona su "invento". Cuando recibí su excitado correo electrónico, pensé que podría estar escuchando un cambio, su aceptación del desafío de la |jref|:
+
+    No estoy seguro de cómo tomar este correo electrónico completamente absurdo. ¿Cuál es su real incentivo en esto? Como experimentado hombre de negocios sé que no hay paseos gratuitos en la vida y me pregunto por qué tiene tal tema con todo el concepto del mejorador de vino. ¿Esto lo asusta de alguna manera o le provoca potencial y económicamente? ¡Hummmm!
+
+Bob, el "incentivo" por el que ha preguntado es exponer embustes, ya sea que estén en el negocio del vino o en el timo de hablar con los muertos. En cuanto a que estoy atemorizado, le invito a que me asuste -por valor de un millón de dólares- aceptando el desafío de la |jref|. ¡Vamos, Bob! ¡Asústeme! ¡Hummmm!
+
+.. figure:: http://www.randi.org/images/commentary/200606/09cat1.jpg
+   :alt:
+   :figwidth: 150
+
+   Sólo piedritas lindas en epoxy
+
+Amigos, mi mensaje a Bob es descrito por él como, "completamente absurdo". Quizás sea mejor que inserte aquí su afirmación básica de modo que los lectores puedan determinar quién suena "absurdo". Dice Catania:
+
+    ¡No sólo [el mágico disco de epoxi] ablanda los taninos y abre los vinos jóvenes, sino que elimina los dolores de cabeza del vino tinto! [También] evita el magnetismo y las corrientes eléctricas perjudiciales [como los usados por dispositivos de "magneto"]. Utiliza energía sostenible natural [provocada por] una perfecta combinación de 11 gemas semipreciosas y minerales cuidadosamente seleccionados... una combinación única de tecnologías, alimentados en fuentes naturales de energía que existen *[sic]* dentro de nuestra atmósfera (como las descubiertas y bien investigadas por Nicola Tesla y Wilhelm Reich). El enhancer recoge, amplifica y luego envía estas energías que sustentan la vida en perfecta coherencia.
+
+.. figure:: http://www.randi.org/images/commentary/200606/09cat2.jpg
+   :alt:
+   :figwidth: 304
+
+   ..
+
+   .. csv-table::
+      :delim: ;
+
+      Botella sobre lindas piedritas en epoxy...;Lindas piedritas en epoxy SOBRE botella
+
+¿De modo que su dispositivo no necesita baterías porque usa "fuentes naturales de energía" en la atmósfera? ¿Tenemos que esperar una tormenta eléctrica para crear mejor vino? Les pregunto, amigos, ¿quién suena más absurdo ahora? Pero hay más por venir. Sólo miren estas ilustraciones del disco de Bob en uso. Se apoya la botella de vino sobre la pieza de epoxi que contiene trocitos de piedras de color y una vuelta de cable (¡sin conectarla a nada!), ¡y la influencia mágica lo transforma en un vino añejo y de mejor sabor! Si son aún más ingenuos, consigan una versión más pequeña -también mostrada aquí- ¡equipada con una ventosa de goma de modo que se pegue a la botella! Estoy seguro de que ambas versiones son igualmente eficaces para el propósito anunciado...
+
+Ahora, ¿quién está siendo "absurdo"? Bob continúa:
+
+    Me pregunto si usted ha pensado sobre quién diseñará el sabor y en quién *[sic]* cualquiera de nosotros podría esperar que usted, con una actitud tan obviamente despectiva, confiara en hacerlo correctamente y pagar en realidad. Parece una situación sin salida para la gente del mejorador de vinos. ¿Cuántos desafíos ha pagado hasta ahora?
+
+Oh, tenemos todo eso organizado, Bob, ya que -como usted sabría si leyera nuestras reglas de operación- cualquier prueba sería hecha *usando sus expertos, o usted mismo, si lo desea*. E incluso *su* diseño, siempre y cuando sea doble-ciego, por supuesto. Para aliviar su ansiedad, yo ni siquiera estaría presente durante pruebas, para evitar cualquier "mala vibración" que pudiera emitir... En cuando a pagar, eso también está cubierto en nuestras reglas; estamos firmemente comprometidos a pagar, a una obligación que es *legalmente obligatoria* y final. Bob, ¿dónde está *su* compromiso? Lo he buscado, y no lo encuentro. En cuanto a mi "actitud despectiva", eso puede no tener nada que ver con el proceso de la prueba, otra vez como se establece en nuestras reglas. Por favor, Bob, haga que alguien **lea y le explique las reglas** para que evite parecer tan burro.
+
+En cuanto a la cantidad de desafíos pagados, para usar su término, la respuesta es cero. ¿Por qué? Porque las afirmaciones necias y petulantes de los que solicitan el premio, no tienen valor; pero al menos lo intentan, bajo condiciones acordadas, aunque fallan *siempre*. Le invito a unirse a esa cantidad, Bob. ¿Qué me dice? Obviamente, no lo hará, porque sabe que su "invento" es un timo. Demuestre que me equivoco, y tome un millón. ¿Bob? ¿Bob? ¿Está ahí?
+
+    Ya tengo muchas y bien respetadas recomendaciones de profesionales del vino incluyendo la Wine Spectator Magazine. ¿Es usted un periodista de vinos más calificado que *[sic]* Marvin Shanken y 7 de sus catadores profesionales? Creo que no. Vuelva a perseguir a los psíquicos de la red que le prestarán la apropiada atención de la que parece alimentarse.
+
+¡Ah! ¡Ahora estamos evitando pagar buen dinero! Por la presente invito oficialmente a cualquiera de la Wine Spectator Magazine y/o Marvin y sus siete catadores profesionales de vino a que sean los funcionarios para juzgar la diferencia entre muestras de vino tratado y sin tratar, bajo sus condiciones, usando su vino, tomando tanto tiempo como sea necesario, bajo cualquier circunstancia -humedad, temperatura, tamaño o forma de vaso, presión atmosférica, orientación en la mesa, cantidad de sorbos, clase de música- que requieran. ¿Tendré noticias de Wine Spectator y/o Marvin y sus "expertos"? ¡Por supuesto que no!
+
+Bob, usted arriba expresa la opinión de que me considero un periodista de vinos "más calificado que *[sic]* Marvin Shanken" y estos renombrados conocedores de vinos. Equivocado, Bob. Creo que no podría distinguir la diferencia entre un Thunderbird del pasado octubre y un Chateau Mouton Rothschild -aunque una vez fui privilegiado con el sorbo de una copa de este último entre mis amigos escritores de ciencia ficción en la mansión de Del Rey en Red Bank, Nueva Jersey, en ocasión del aterrizaje lunar en 1969. Admito que mi memoria de esa experiencia se ha borrado... No, Bob, no tengo ninguna calificación en enología, en absoluto. Es por eso que le daría la bienvenida a cualquiera de estos expertos, ¿o usted no lo comprende aún?
+
+    El hecho de que suponga que no se ha realizado ninguna prueba apropiada sólo confirma su arrogancia. La semana pasada acabo de tener a 4 fabricantes de vino probando el vino de mi mejorador en Nantucket y todos reconocieron un tanino más blando. Usted sabe más que *[sic]* los fabricantes de vino aunque estoy seguro y toda información médica [?] también.
+
+Oh, aceptaré que sus "expertos" fueron apropiadamente aduladores, Bob, quizás para mantenerle lejos, pero les invito a que se reúnan con los otros como jueces. ¿Por qué no? ¡Estoy haciendo todo lo posible para darle confianza en su consideración de solicitar el fácil millón de dólares, Bob! Y sólo piense qué tan rápido se curaría mi arrogancia apenas The Wine Enhancer pase la simple prueba, ¡y usted se embolse el millón! ¡Estoy todo estremecido!
+
+    ¿Qué es la James Randi Educational Foundation de todos modos, sino la perspectiva de un escéptico fuera de quicio? Si usted nos encuentra sin equilibrio al expresar lo que considera lo desconocido, entonces por favor mire en el espejo qué exagerado es en el extremo opuesto. [?] ¿Su trabajo es un poco parcial tal vez?
+
+Tal vez, ¡pero ahora usted tiene la oportunidad ideal de demostrar mi obstinación, y avergonzarme, así como de hacerse de un fácil millón, Bob! ¡DEMUESTRE QUE ESTOY EQUIVOCADO y gane un millón de dólares! ¿Bob? ¿Está allí, Bob? ¿Hola...?
+
+    No tengo nada que demostrar y podría preocuparme menos por su ridículo desafío disfrazado y su fundación. Me pregunto cómo lo manejará cuando tenga que mirar hacia atrás algún día cuando su momento haya llegado.
+
+Oh. Rechazado otra vez... Vaya, Bob, desearía poder tomar esta negativa más a pecho, pero he sido rechazado por premiados con el Nobel, muy importantes corporaciones, ricos inventores, y toda clase de académicos; un Pequeño Fabricante De Dispositivos De Vino Añejo de Massachusetts no se compara con ellos. Pero todos ustedes muchachos comparten una característica sobresaliente: no tienen el valor de poner a prueba sus estúpidas afirmaciones.
+
+Bob terminó con:
+
+    ¡Le deseo bien en sus futuros desafíos, James!
+
+No, no lo hace, Bob. Usted me tiene miedo y al desafío de la |jref|, y quiere que nos vayamos. Nos agarraremos a eso con alguna satisfacción...
+
+¡Y, asombrosamente, no hemos escuchado ni pío del Perfect Sommelier, del Wine Cellar Express, del Wine Clip, o del BevWizard, tampoco! Extraño...
+
+
+Cuando la profecía falla
+........................
+
+Nuestro amigo en Dinamarca, Mogens Winther, nos envía una reciente actualización sobre la ominosa profecía que fue ofrecida por el ciudadano francés Eric Julien para el 25 de mayo -una fecha que ustedes notarán pasó sin evento. Julien ahora está, como se esperaba, vacilando por allí, tratando de coger cualquier sustituto posible de países costeros devastados por tsunamis, como profetizó con seguridad. Había dicho, apenas unas horas antes de que la temible fecha y el momento llegaran:
+
+    .. figure:: http://www.randi.org/images/commentary/200606/09julien2.jpg
+       :alt:
+       :figwidth: 156
+
+       Julien el profeta FALLIDO
+
+    De acuerdo con fuentes bien informadas, unos contactos en los servicios de inteligencia estadounidenses confirmaron la existencia de una ventana temporal de 48 horas, centrada en el 25 de mayo a la medianoche GMT, para el impacto [de] un fragmento de cometa al sur de las Azores. Esto corrobora la información de un ejercicio de evacuación en el Congreso norteamericano a ocurrir más tarde el día 25 de mayo, información llegada a nosotros esta mañana. Como medida de precaución, sugiero a las autoridades que hagan el máximo esfuerzo para proteger a las poblaciones del litoral del océano Atlántico.
+
+Aunque hubo un breve ejercicio de evacuación en el Congreso debido al sonido de disparos -no una ola de marea-, no había nada semejante a una "ventana temporal" de ninguna fuente estadounidense. Era todo ficción, y no me sorprende. El último pronunciamiento de Julien, después del 25:
+
+    Muchas personas indudablemente piensan que el evento anunciado ha fracasado y pueden estar reajustando su opinión sobre la vida y devolviendo sus vidas a la normalidad.
+
+Hum, sí, Sr. Julien, eso es exactamente lo que todos están pensando y haciendo -los que fueron bastante ingenuos para prestar alguna atención en absoluto a su idea, en primer lugar. Su disparatada idea estaba equivocada, usted estaba equivocado, y el Fin no llegó... *C'est dommage, n'est-ce-pas?* Pero le aseguro que habrá una cantidad enorme de personas ahí afuera que fácilmente se ajustarán -como usted- a esta manifiesta metida de pata, y continuarán esperando cada palabra suya.
+
+*Mais le monde tourne bien sans toi...*
+
+Otra noticia de último momento: ahora Julien afirma que su seria advertencia en realidad salvó muchas vidas al alertar a las personas -de un desastre que nunca ocurrió- y que las "vibraciones" enviadas por toda esa gente que se escabullía en busca de terrenos altos provocaron una fuerza que mantuvo unido al cometa. ¿Por qué no estamos para nada sorprendidos por esta necia idea...?
+
+
+Protagonista en NBC
+...................
+
+.. image:: http://www.randi.org/images/commentary/200606/09dubois.jpg
+   :alt:
+   :align: right
+
+Allison DuBois prefiere ser conocida como una "médium" y una "perfiladora", ya que la palabra "psíquica" ha sido muy discutida recientemente. Ha publicado un nuevo libro, *"Somos Su Cielo: Por Qué Los Muertos Nunca Nos Dejan"*, en el que cuenta las comunicaciones que dice haber recibido de espíritus inmateriales -fantasmas- a lo largo de los años. Parece que son todas muy buenas noticias. Describe el cielo como "un lugar perfecto", donde los niños corren "a través de perfectas hojas de hierba esmeralda brillante" y los ancianos pescan "con el cachorro que murió cuando eran pequeños". Las parejas de setenta años se ven como eran cuando estaban recién casados, y que "es todo eso y más", dice. ¿Cómo podríamos *resistir* más? ¡Qué parque temático de diversiones más remanido, fatuo y meloso para quedar atorado allí! ¡Y por toda la eternidad, además!
+
+En http://www.allisondubois.com/news.html encontrarán que Allison ha tenido una divergencia con el Dr. Gary Schwartz, el súper ingenuo "investigador" de la University of Arizona. Vea http://www.randi.org/jr/05-04-2001.html, entre muchas otras referencias en esta columna. Creía que ningún "psíquico" jamás sería de ninguna manera criticado por Schwartz, ¡pero parece que esto ha ocurrido...! O quizás el libro de Schwartz no satisface los estrictos requisitos del ego de la Sra. DuBois...
+
+Vayan a http://www.randi.org/jr/121704no.html#5 y desplácense hacia abajo hasta donde *solía estar* la foto de DuBois / Schwartz. Lean el contenido de la caja, luego hagan clic como se indica. ¡Verán que Gary Schwartz ahora ha sido eliminado del imperio de Allison! Es exactamente como una excomunión. Había predicho que eso ocurriría, y ahora predigo que eliminará el tema del desacuerdo de Schwartz, también. (¡Eso quiere decir que no, porque ella no quiere que yo tenga razón otra vez...!)
+
+¡Allison, niña, sobrepóngase!
+
+
+Cliché / fábula revisitada
+..........................
+
+Un programa de radio emitido el 25 de mayo de 2006, por la National Public Radio, "Todas Las Cosas Consideradas", fue titulado, "La Guerra Del Camionero: Sobre Los Caminos En Irak" y mencionaba esa fatigosa y vieja fábula de que "no hay ningún ateo en las trincheras". Esencialmente dice que cuando amenaza el peligro real, todos eligen creer una mitología para asegurarse. Esta clase de pensamiento quizás fue motivada por lo que se conoce como "Apuesta de Pascal", en la que el filósofo Blaise Pascal (1623-1662) argumentaba que era siempre una mejor -más segura- "apuesta" creer en un dios, porque el valor que se espera ganar por creer en un dios es siempre más grande que el valor esperado que resulta de no-creer. Pascal razonaba, asumiendo el Dios habitualmente celoso, vengativo, caprichoso, inseguro e iracundo de los cristianos:
+
+    Si cree en Dios, y si Dios existe, usted va al "cielo": su ganancia es infinita.
+
+    Si cree en Dios, y si Dios no existe, usted no pierde nada.
+
+    Si no cree en Dios, y si Dios no existe, usted no pierde nada.
+
+    Si no cree en Dios, y si Dios existe, usted se va al "infierno": su pérdida es infinita.
+
+De modo que parece que es una mucho mejor apuesta creer en Dios, quien, aunque Pascal no entró en eso, requiere que uno dé dinero, diga oraciones, crea en las historias, acepte las limitaciones a la libre voluntad, se someta a sí mismo, y masculle "¡Aleluya!" en cada oportunidad -entre otras humillaciones. No, Blaise, caminaré derecho, con los ojos abiertos -tal vez derecho al infierno, pero no lo creo.
+
+¡Aunque parezca extraño, el necio comentario del reportero John Burnett de la NPR está ausente de la trascripción colocada en el sitio web de la NPR! American Atheists, Inc., un movimiento a nivel nacional que defiende los derechos civiles de los ateos, trabaja por la total separación de la iglesia y el estado, y aborda asuntos de política pública de la Primera Enmienda, ha pedido a la red que se retracte oficialmente de la declaración, y que aclare por qué misteriosamente no aparece en la trascripción de Internet de la NPR.
+
+El segmento en cuestión reseñaba los riesgos que enfrentan los contratistas privados al transportar suministros a las bases militares de los EE.UU. en la zona de guerra iraquí. Eso incluía breves bytes de sonido por los camioneros. El reportero de la NPR comentó, "Para corregir el viejo refrán sobre las trincheras, no hay ningún ateo conduciendo camiones en Irak". Burnett aparentemente ha bebido de fuentes divinas para determinar que los centenares de camioneros que trabajan en Irak son todos religiosos. Esta información generalmente no está disponible para todos.
+
+Dave Silverman, Director de Comunicaciones de American Atheists, planteó la cuestión esencial para la NPR:
+
+    Imagine si alguien dijera que no hay negros ni judíos ni miembros de ningún otro grupo en las trincheras. Los miembros de muchos y diferentes grupos han respondido con orgullo al llamado en épocas de crisis y han servido en el ejército de nuestra nación o trabajado en situaciones con peligro de muerte.
+
+Podría haber añadido que ha habido una proporción esperada de ateos representada en los cementerios militares y en las listas de bajas.
+
+Los lectores pueden desear ir a un enlace de "alerta" al sitio web de la NPR y escuchar la versión sonora en http://www.atheists.org/action/alert-30-may-2006.html.
+
+
+Como sospechábamos
+..................
+
+El lector Zack Kleinfeld, considerando la mención de la semana pasada `sobre la oficina de patentes <randi20060602.html#una-solicitud-de-patente-de-fantas-a>`__:
+
+    Respecto al rumor de "uno-en-cinco": trabajo como oficinista en una firma legal de propiedad intelectual en los veranos, y le garantizo que el rumor es evidentemente falso. Por lo que he visto, y como tema legal, cada solicitud es examinada. Puede ser que el 20% no sea objetado (no sé si esta estadística es correcta), pero dudo que la razón sea tan atroz. Es más probable que el 20% de las patentes estén bien escritas, originales, y no obvias para satisfacción del examinador cuando son recibidas.
+
+La próxima semana tendré otro artículo sobre la Oficina de Patentes de Estados Unidos -una fuente aparentemente interminable de historias- que puede sostener mis críticas. ¿Sabían que la práctica de poner baterías recargables en un dispositivo portátil como una linterna o una radio, fue patentada apenas el año pasado...?
+
+
+En conclusión...
+................
+
+La próxima semana les contaremos sobre un salto gigante hacia adelante en Australia, más zahoríes "oficiales" en el Reino Unido, y UROs -objetos regulares no identificados.
+
+El persistente Richard Saunders, de Australia, suministró enlaces a dos videos, y los lectores los han estado visitando algo ferozmente. La película "James Randi en Australia", en línea desde el 20 de mayo en http://tinyurl.com/z9nln, ha sido vista aproximadamente 7.700 veces y descargada más de 650 veces. Mi charla en la Australian 2000 Skeptics World Convention, en línea en http://tinyurl.com/gq7s9 desde el 23 de mayo, ¡ha tenido más de 4.100 visitas, y más de 350 descargas!
+
+Eso es MUY satisfactorio, Richard. ¡Gracias! ¡Y gracias a todos los que mostraron interés!
+
+Y ésta es su última oportunidad de anotarse para nuestro próximo crucero: *The Amaz!ng Adventure: Escape del Triángulo de las Bermudas*. Por favor no ese pierda esta oportunidad de reunirse con **Michael Shermer**, **Banachek**, **Hal Bidlack**, y yo mismo cuando busquemos en las aguas del Caribe un rayo de verdad... The Amaz!ng Adventure
+
+
+|firmarandi|
+
+.. include:: includes/randi_pie.inc
+.. include:: includes/randi.inc
+
+.. meta::
+    :author: Traducido por Graciela Lorenzo Tillard
+    :description: Dónde está exactamente Lou Gentile? — La discusión del protocolo Perron — Esa idea HHO no es nueva — Matarratas rescatado por la ciencia — Cuando la profecía falla — Protagonista en NBC — Cliché / fábula revisitada — Como sospechábamos — En conclusión...
