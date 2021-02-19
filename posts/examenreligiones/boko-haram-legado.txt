@@ -38,7 +38,7 @@ Si revisamos los hechos de Estado Islámico y Boko Haram de seguro estos serían
 
 .. figure:: estado-islamico-vende-ninas.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 400
 
    **Niñas yazidíes destrozadas por la acción de Estado Islámico.**
@@ -51,6 +51,8 @@ El EI ha vendido como esclavas a niñas de familias cristianas_ y yazidíes. Los
 El grupo nigeriano Boko Haram tomó en abril de 2014 una escuela y se llevó a 223 niñas. Para ellos había una doble falta: eran mujeres educándose, mientras debían estarse preparando para ser amas de casa, y además estaban educándose de manera occidental. Muchas de las niñas fueron vendidas como esclavas.
 
 "Yo secuestré a vuestras hijas y voy a venderlas en el mercado, en el nombre de Dios". Afirmó Aboubakar Shekau, líder de Boko Haram. Posteriormente fueron vendidas, cada una por doce dólares como esposas.
+
+.. class:: pull-left
 
 .. youtube:: S5_J0EPAxnc
 
@@ -78,7 +80,7 @@ Mohammed Qotb, un escritor musulmán aclara que la mujer no tiene derecho alguno
 
 .. figure:: isis-decapitando.jpg
    :alt:
-   :figclass: align-left
+   :figclass: pull-left
    :figwidth: 400
 
    **Militante de Estado islámico momentos antes de degollar vivo a David Haines, un voluntario humanitario secuestrado en Siria. Para los islamistas no importó el trabajo humanitario de Haines, su condición de infiel fue el principal delito para matarle.**
@@ -103,7 +105,7 @@ Sobre los escépticos o ateos:
 
 .. figure:: iglesia-quemada.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 400
 
    Iglesia destruida tras un atentado terrorista en el norte de Nigeria. "Me contaron que los fieles asesinados en las iglesias atacadas (de Boko Haram) son decenas; hombres, mujeres y niños", dijo por teléfono un habitante de Shibok, según la agencia de noticias Ansa. Fuente: Arg Noticias
@@ -144,7 +146,7 @@ El columnista colombiano comentaba así sobre la barbarie de Estado Islámico:
 
 .. figure:: pilotojordano_horizontal.jpg
    :alt:
-   :figclass: align-left
+   :figclass: pull-left
    :figwidth: 400
 
    Piloto jordano Muad al Kasaesbe quemado vivo por Estado Islámico. Gran parte de la crítica dada por muchos clérigos musulmanes se dio por el tipo de ejecución (quemado vivo) y por el hecho que el torturado también era musulmán. ¿La queja no debería ser simplemente porque era un humano?
@@ -160,7 +162,7 @@ Bien le vendría a muchos posmodernistas que defienden el islam como religión d
 
 .. figure:: ISIS-beheading-gay-man.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 400
 
    Militantes de Estado islámico decapitando a tres hombres culpados de ser homosexuales en el norte de Iraq. Marzo de 2015
@@ -191,7 +193,7 @@ Ariel Segal, internacionalista afirmó en Perú21_ que los bandos sunitas y chii
 
 .. image:: nina-estudia-en-Iraq.jpg
    :alt:
-   :align: left
+   :class: pull-left
 
 ..
 
@@ -209,7 +211,7 @@ En otras palabras no hay leyes de los gases ni de la herencia porque todo es vol
 
 .. figure:: escuela-atacada.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 400
 
    Escuela atacada pro Boko Haram en Maiduguri, Nigeria. Cinco escuelas habían sido atacadas tan solo a marzo de 2014. El nombre de la organización "La educación occidental es pecado" ha tomado como blanco el ataque a la literatura, historia y ciencia, mientras abogan por una enseñanza y política que gire solo en torno del Corán. (Imagen: AFP/Getty Images)
@@ -222,7 +224,7 @@ Los yihadistas consideran completamente adversa la biología evolutiva. El mundo
 
 .. figure:: toros-de-asiria.jpg
    :alt:
-   :figclass: align-left
+   :figclass: pull-left
    :figwidth: 400
 
    Los milicianos del grupo yihadista han arrasado partes de la localidad del norte de Irak, con 3.000 años de antigüedad. Los restos de la cultura asiria fueron arrasados con bulldozers y a martillazos.
