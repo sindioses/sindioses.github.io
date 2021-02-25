@@ -20,7 +20,7 @@ BLOG_AUTHOR = "Sin Dioses"  # (translatable)
 BLOG_TITLE = "Sin Dioses"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://www.sindioses.org/"
+SITE_URL = "http://sindioses.org/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
@@ -162,7 +162,7 @@ NAVIGATION_LINKS = {
          ), 'Secciones'),
         ((
             ('http://blog-sin-dioses.blogspot.com', 'Blog'),
-            ('https://www.facebook.com/SinDioses.org', 'Facebook'),
+            ('https://facebook.com/SinDioses.org', 'Facebook'),
             ('https://twitter.com/sindioses_org', 'Twitter'),
          ), 'Sociales'),
     ),
