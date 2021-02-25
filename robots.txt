@@ -1,4 +1,4 @@
-Sitemap: http://www.sindioses.org/sitemapindex.xml
+Sitemap: http://sindioses.org/sitemapindex.xml
 
 User-Agent: *
-Host: www.sindioses.org
+Host: sindioses.org
