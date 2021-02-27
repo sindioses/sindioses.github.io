@@ -47,7 +47,7 @@ Japón, Reino Unido, Canadá, Corea del Sur, Holanda, República Checa, Estonia,
 
 .. figure:: iglesia+convertida+en+biblioteca+Sevilla.jpg
    :alt:
-   :figclass: align-left
+   :figclass: pull-left
    :figwidth: 400
 
    **Iglesia convertida en biblioteca en Sevilla, España. En muchos países europeos el avance del agnosticismo y el ateísmo están dejando desocupadas las iglesias.**
@@ -65,7 +65,7 @@ Naturaleza y sobrenatural
 
 .. figure:: rezando+tras+terremoto.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 300
 
    Evangélicos chilenos rezando tras terremoto en Tacna. Los desastres naturales han llevado al ser humano a refugiarse en entes sobrenaturales sin importarle la realidad de su existencia.
@@ -95,7 +95,7 @@ El Sistema 1 es intuitivo, instintivo y automático. Estas capacidades se desarr
 
 .. figure:: mormon-children-hinckley.jpg
    :alt:
-   :figclass: align-left
+   :figclass: pull-left
    :figwidth: 400
 
    Niños de padres mormones con el presidente del mormonismo Gordon B. Hinckley. El sistema 1 interno lleva a los seres humanos desde su infancia a ser proclives a creencias irracionales.
@@ -121,7 +121,7 @@ Por todas estas razones, los investigadores creen que la religión es un "produc
 
 .. figure:: creacionismo+-+grulla.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 280
 
    "Hay evidencia de que el pensamiento religioso obedece a la ley del menor esfuerzo; se tendría que cambiar fundamentalmente algo en la humanidad para deshacerse de la religión".
@@ -145,7 +145,7 @@ Además, los no creyentes a menudo dependen de cosas que pueden ser interpretada
 
 .. figure:: ninos+musulmanes.jpg
    :alt:
-   :figclass: align-left
+   :figclass: pull-left
    :figwidth: 400
 
    Muchas personas piensan que con el aumento de la ciencia la religión desaparecerá. Los expertos no están de acuerdo. Una razón es que las personas religiosas suelen tener más descendencia que las personas ateas o agnósticas. En la imagen, un grupo de niños criados en el Islam en Medio Oriente.

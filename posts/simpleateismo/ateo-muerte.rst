@@ -38,7 +38,7 @@ No es claro si hay un arreglo entre las empresas funerarias y las instituciones 
 
 .. figure:: ateo-muerte_sebastianbarreiroataudes.jpg
    :alt:
-   :figclass: align-left
+   :figclass: pull-left
 
    Foto: Sebastián Barreiro
 
@@ -46,7 +46,7 @@ A los que tienen una obra social que les cubre parcial o totalmente estos gastos
 
 .. figure:: ateo-muerte_sebacementerio.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
 
    Foto: Sebastián Barreiro
 

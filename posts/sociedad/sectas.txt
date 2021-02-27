@@ -12,7 +12,7 @@
    :alt:
    :figwidth: 209
    :width: 204
-   :figclass: align-right primera
+   :figclass: pull-right primera
 
    Jonestown, 914 muertos
 

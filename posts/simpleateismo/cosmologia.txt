@@ -16,7 +16,7 @@ Loeb realizó unos cálculos y concluyó que dentro de cincuenta mil millones de
 
 .. thumbnail:: mz3nebula.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
 
    Nebulosa MZ3 (clic para ampliar)
 

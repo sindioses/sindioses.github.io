@@ -160,7 +160,7 @@ Andrew Harter es un empleado de la JREF quien se encarga de manejar las aplicaci
 
     .. figure:: 041202-Andrew.jpg
        :alt:
-       :figclass: align-right
+       :figclass: pull-right
        :figwidth: 200
 
        **Andrew Harter habla en una clase escolar**

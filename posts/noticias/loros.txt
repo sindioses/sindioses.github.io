@@ -10,7 +10,7 @@
 .. figure:: loros.jpg
    :alt:
    :figwidth: image
-   :figclass: align-right
+   :figclass: pull-right
 
    En la imagen, un loro kea usando la canica en la caja.
 

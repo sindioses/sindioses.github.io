@@ -10,7 +10,7 @@
 .. figure:: observar-materia-oscura.jpg
    :alt:
    :figwidth: 267
-   :figclass: align-right
+   :figclass: pull-right
 
    En la imagen, cortesía de CFHTLenS, parte del mapa de la materia oscura obtenido ahora y la imagen integrada muestra el tamaño del mapa anterior.
 

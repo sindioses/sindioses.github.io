@@ -11,7 +11,7 @@
  
 .. figure:: 032902-G1.jpg
    :alt:
-   :figclass: align-left
+   :figclass: pull-left
    :figwidth: 200
    :class: primera
 
@@ -23,7 +23,7 @@ La semana pasada en la JREF, examinamos a Mike G., practicante de radiestesia, q
 
 .. figure:: 032902-G2.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 200
 
    El blanco de Guska
@@ -756,7 +756,7 @@ prometo. El lector Matthew Snoddy escribe:
 
     .. figure:: 032902-Cof.jpg
        :alt:
-       :figclass: align-right
+       :figclass: pull-right
        :figwidth: 200
 
        «¡Hola! ¡Soy una cafetera sobrenatural! En una vida anterior, fui un equipo de radioaficionado, y antes de eso una cortadora de césped...»
@@ -789,7 +789,7 @@ salgan a uno caries...
 
     .. figure:: 032902-Three.jpg
        :alt:
-       :figclass: align-right
+       :figclass: pull-right
        :figwidth: 200
 
        Uri, Michael y Shmuley.
@@ -889,7 +889,7 @@ Sudamérica y Asia. Sagan escribía:
 
 .. figure:: 032902-Book.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 200
 
    Edición china de **La Verdad Sobre

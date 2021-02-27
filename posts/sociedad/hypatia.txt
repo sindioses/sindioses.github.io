@@ -16,7 +16,7 @@ Era investigadora, científica, filósofa, nunca había sido bautizada como cris
 
 .. figure:: bibliotecadealejandria.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 290
 
    **Posible aspecto de la Biblioteca de Alejandría tal como fue presentada por la serie "Cosmos"**
@@ -29,7 +29,7 @@ Cirilo se aprovechó de uno de los mayores males de la cultura helenística y qu
 
 .. figure:: sancirilo.jpg
    :alt:
-   :figclass: align-left
+   :figclass: pull-left
    :figwidth: 238
 
    **San Cirilo, su nombre significa "él que tiene autoridad". Padre de la Iglesia Católica que defendió el título de Madre de Dios para María (ayudando así a la creación del mito católico). Sus sermones contra todo lo que no estuviese deacuerso a la Iglesia alenataron a que una turba para que diese muerte a Hypatia**
@@ -40,7 +40,7 @@ Un día mientras Cirilo seguramente rezaba, sus seguidores interceptaron el carr
 
 .. figure:: hypatia02.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 300
 
    **Hypatia siendo atacada por la turba iracunda**

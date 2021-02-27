@@ -25,7 +25,7 @@ Ejemplo de tales muros se puede ver en religiones como la de los Testigos de Jeh
 
 .. figure:: temblores.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 300
 
    **Pastor evangélico Javier Soto**
@@ -36,7 +36,7 @@ Recientemente hemos presenciado que tras el terremoto de Chile y el incendio en 
 
 .. figure:: Ken-Ham-vs-Pat-Robertson.jpg
    :alt:
-   :figclass: align-left
+   :figclass: pull-left
    :figwidth: 307
 
    **Ken Ham y Pat Robertson difieren en sus creencias creacionistas. Ambos ignoran las evidencias.**
@@ -45,7 +45,7 @@ En días más recientes se ha presentado un enfrentamiento entre dos grandes lí
 
 .. figure:: Maria-Luisa-Piraquive-frase-exacta.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 300
 
    **Pastora María Luisa Piraquive, líder y profeta de la Iglesia de Dios Ministerial de Jesucristo Internacional.**
@@ -54,7 +54,7 @@ El pensamiento único puede llevar a fomentar la discriminación. En meses pasad
 
 .. figure:: desestimulando-la-educacion-superior.jpg
    :alt:
-   :figclass: align-left
+   :figclass: pull-left
    :figwidth: 400
 
    **Los Testigos de Jehová desestimulan la educación superior, los adventistas del séptimo día advierten contra las clases de filosofía, biología y geología en universidades a las que llaman "mundanas" en contraposición a las suyas.**

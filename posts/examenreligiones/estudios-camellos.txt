@@ -36,7 +36,7 @@ Pruebas de carbono
 ===================
 .. figure:: peninsula-arabiga.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 533
 
    Los arqueólogos creen que los camellos fueron domesticados en la Península Arábiga

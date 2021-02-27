@@ -587,7 +587,7 @@ también encontramos, bajo la sección 3:
 
 .. figure:: 031502-Parks.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: image
 
    Violadora de la ley...

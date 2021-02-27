@@ -65,7 +65,7 @@ bien representados en el plan cósmico...
 
 .. figure:: 020802-chicken.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 162
 
    ¿Dónde está mi astrólogo?
@@ -204,7 +204,7 @@ regular el lenguaje sucio en internet.
 
 .. figure:: 020802-pendulum.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 200
 
    ¡Hey, una ganga a sólo USD 400.000!
@@ -300,7 +300,7 @@ Browne, en la Luna....
 
 .. figure:: 020802-Lulova1.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 200
 
    Natalia Lulova a prueba

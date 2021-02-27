@@ -9,7 +9,7 @@
 .. figure:: pajarodino.jpg
    :alt:
    :figwidth: 338
-   :figclass: align-right
+   :figclass: pull-right
 
    **Archaeopterix, un ave-reptil**
 
@@ -22,7 +22,7 @@ Los fósiles son conocidos por la humanidad desde tiempos remotos. El hombre pre
 .. figure:: huella.jpg
    :alt:
    :figwidth: 184
-   :figclass: align-right
+   :figclass: pull-right
 
    **Huella de un dinosaurio en Mongolia**
 
@@ -32,7 +32,7 @@ Es muy probable que los huesos y las huellas de grandes animales prehistóricos 
 .. figure:: ostra.jpg
    :alt:
    :figwidth: 158
-   :figclass: align-left
+   :figclass: pull-left
 
    **Molusco fósil de Grecia**
 
@@ -42,7 +42,7 @@ El estudio de los fósiles ha despertado la curiosidad y la fascinación desde l
 .. figure:: davinci.jpg
    :alt:
    :figwidth: 171
-   :figclass: align-right
+   :figclass: pull-right
 
    **Da Vinci, pionero de la paleontología**
 

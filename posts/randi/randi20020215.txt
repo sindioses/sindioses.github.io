@@ -476,7 +476,7 @@ dólares de la JREF los tiene corriendo del miedo.
 
 .. figure:: 021502-InAnotherLife.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 200
 
    En otra vida...

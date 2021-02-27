@@ -29,7 +29,7 @@ La ilustración y las ciencias naturales
 
 .. figure:: lamarck.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 260
    :align: center
 
@@ -56,7 +56,7 @@ Paley y el diseño inteligente
 
 .. figure:: paley.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 200
 
    **William Paley (1748-1805)**

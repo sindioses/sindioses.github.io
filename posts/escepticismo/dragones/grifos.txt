@@ -8,7 +8,7 @@
 .. figure:: grifo.jpg
    :alt:
    :figwidth: 300
-   :figclass: align-right
+   :figclass: pull-right
 
    Grifo, escultura griega en bronce
 

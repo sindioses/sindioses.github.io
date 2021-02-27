@@ -28,7 +28,7 @@ En 1692, en la ciudad de Salem, Massachusetts, un grupo de niñas comenzaron a c
 
 .. figure:: centeno-con-cornezuelo.jpg
    :alt:
-   :figclass: align-left
+   :figclass: pull-left
    :figwidth: 200
 
    Centeno con cornezuelo

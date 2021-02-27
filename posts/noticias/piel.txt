@@ -11,7 +11,7 @@
 .. figure:: piel.jpg
    :alt:
    :figwidth: 400
-   :figclass: align-right
+   :figclass: pull-right
 
    **En la imagen**, cortesía de Andreas Heddergott en la Universidad Técnica de Muenchen (Technische Universitaet Muenchen), el ingeniero Philip Mittendorfer junto al Robot Bioloide con un sensor de 31 módulos hexagonales distribuidos por todo el cuerpo. Estos sensores hacen de la piel del robot un poco similar a la del humano ya que puede medir la temperatura, el toque y la velocidad.
 

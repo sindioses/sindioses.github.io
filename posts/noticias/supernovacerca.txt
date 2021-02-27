@@ -10,7 +10,7 @@
 .. figure:: supernovacerca.jpg
    :alt:
    :figwidth: 360
-   :figclass: align-right
+   :figclass: pull-right
 
    En la imagen, cortesía de Peter Nugent en Palomar, vemos tres noches de esta explosión. La imagen de la izquierda fue tomada el 22 de agosto de 2011 y muestra el evento antes de que explotara, aproximadamente un millón de veces menos visible al ojo humano. La imagen del centro fue obtenida el 23 y muestra al supernova 10,000 veces menos visible. La imagen de la derecha fue tomada el 24 y muestra el evento seis veces más brillante que el día anterior. En dos semanas será visible con un par de binoculares. (EurekAlert)
 

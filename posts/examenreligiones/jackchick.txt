@@ -24,7 +24,7 @@ Luego de su conversión, Chick quiso dedicarse a evangelizar a otros, pero debid
 .. figure:: jackchick_03.gif
    :alt:
    :figwidth: 460
-   :figclass: align-right
+   :figclass: pull-right
 
    Las falacias típicas de las historietas de Jack Chick
 
@@ -46,7 +46,7 @@ El mundo tal como lo presenta Jack Chick tiene estas características:
 .. figure:: jackchick_02.gif
    :alt:
    :figwidth: 460
-   :figclass: align-right
+   :figclass: pull-right
 
    Las nociones de Chick sobre la evolución de los dinosaurios
 
@@ -59,7 +59,7 @@ Como mecanismo de "difusión", las historietas de Chick tienen los mismos proble
 .. figure:: jackchick_01.gif
    :alt:
    :figwidth: 460
-   :figclass: align-right
+   :figclass: pull-right
 
    Afirmaciones sin base, amenaza de terribles castigos: una muy apropiada literatura infantil
 

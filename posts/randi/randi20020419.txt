@@ -49,7 +49,7 @@ La expresión “un idiota pomposo” me viene a la mente aquí.
 
 .. figure:: 041902-Swingers.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 175
 
    ¡Potenciales infractores de patentes!

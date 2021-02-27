@@ -42,7 +42,7 @@ Reproduzco aquí, de El Escéptico Indio - periódico del Comité Indio para la 
 
 .. figure:: 030802-Baba.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 163
 
    ..
@@ -332,7 +332,7 @@ Vaya a la lista de Bob en
 
 .. figure:: 030802-Coffee.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 123
 
    ¡Mira quién habla!

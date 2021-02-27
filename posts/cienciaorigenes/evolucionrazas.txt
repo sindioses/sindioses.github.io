@@ -8,7 +8,7 @@
 
 .. figure:: evolucionrazas.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 288
 
    **"En blanco y negro", foto de Alfonso Cervantes (12 de octubre de 1999)**

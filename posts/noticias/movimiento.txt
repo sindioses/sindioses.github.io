@@ -10,7 +10,7 @@
 .. figure:: movimiento.jpg
    :alt:
    :figwidth: 272
-   :figclass: align-right
+   :figclass: pull-right
 
    **En la imagen**, cortesía del laboratorio de Maurice Smith en Harvard, el autor principal, Nicolás González Castro, demuestra el uso del brazo robótico para medir el aprendizaje motor.
 

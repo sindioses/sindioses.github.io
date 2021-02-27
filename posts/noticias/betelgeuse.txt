@@ -10,7 +10,7 @@
 .. figure:: betelgeuse.jpg
    :alt:
    :figwidth: 250
-   :figclass: align-right
+   :figclass: pull-right
 
    **En la imagen**, cortesía de ESO, la gigantesca estrella se deshace de toda su materia, convirtiendo millones de kilómetros a su alrededor en esta bella nebulosa.
 

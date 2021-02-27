@@ -13,7 +13,7 @@ Como les prometí, aquí está la segunda parte de la prueba preliminar de la �
 
 .. figure:: 022202-Lulova.jpg
    :alt:
-   :figclass: align-left
+   :figclass: pull-left
    :figwidth: 200
 
    Natalia y Olga con la primera venda...
@@ -40,7 +40,7 @@ Esa demostración de lectura, identificación de colores y ta-te-ti duró por si
 
 .. figure:: 022202-Goggles.jpg
    :alt:
-   :figclass: align-left
+   :figclass: pull-left
    :figwidth: 200
 
    ..
@@ -314,7 +314,7 @@ coronarias:
 
 .. figure:: 022202-Clouds.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 200
 
    Total de correspondencia en favor de recompensar a la astróloga...
@@ -344,7 +344,7 @@ coronarias:
 
 .. figure:: 022202-prayer.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 200
 
    El milagro y la maravilla de la oración: evidencias científicas que rezar ¡de verdad funciona!
@@ -424,7 +424,7 @@ como un país ¡después de este evento! El artículo nos asegura que:
      
     .. figure:: 022202-Nibiru.jpg
        :alt:
-       :figclass: align-right
+       :figclass: pull-right
        :figwidth: 200
 
        Diferentes versiones del planeta "Nibiru"...
@@ -697,7 +697,7 @@ Recibí un número de preguntas respecto a mis comentarios recientes sobre el pe
 
 .. figure:: 022202-CleoHeading.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 200
 
    Los secretos de Miss Cleo

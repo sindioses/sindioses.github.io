@@ -42,10 +42,10 @@ La religión lleva a cabo un proceso similar, aunque uno en el que el acuerdo se
 
 .. figure:: dioses-egipcios.jpg
    :alt:
-   :figclass: align-left
-   :figwidth: 350
+   :figclass: pull-left
+   :figwidth: 315
 
-   Cada modelo de dios se desarrolló a partir de la cultura de la época.
+   **Cada modelo de dios se desarrolló a partir de la cultura de la época.**
 
 Cada uno de estos modelos de dios se desarrolló a partir de la cultura de la época. Si el proceso continuara hasta hoy, todo el mundo debería adorar al centro comercial. De hecho, muchas de las mega-iglesias en los Estados Unidos se encuentran hoy localizadas en centros comerciales.
 
@@ -61,10 +61,10 @@ Permítanme resumir los modelos de dios que son inconsistentes con las observaci
 
 .. figure:: history-of-life-chart.jpg
    :alt:
-   :figclass: align-right
+   :figclass: pull-right
    :figwidth: 350
 
-   Los fósiles podrían haber sido, inexplicablemente, encontrados fuera de la secuencia geológica. esto anularía la evolución. O como diría G.G. Simpson "conejos en el Cámbrico anularían la evolución".
+   **Los fósiles podrían haber sido, inexplicablemente, encontrados fuera de la secuencia geológica. esto anularía la evolución. O como diría G.G. Simpson "conejos en el Cámbrico anularían la evolución".**
 
 Dioses Inconsistentes
 ......................
