@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://sindioses.org/</loc>
-  <lastmod>2020-10-03T18:12:00Z</lastmod>
+  <lastmod>2021-02-27T17:43:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/2000/</loc>
@@ -303,7 +303,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/cartas/cartas20101023.html</loc>
-  <lastmod>2021-02-27T15:44:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/cartas/cartas20110423.html</loc>
@@ -355,7 +355,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/</loc>
-  <lastmod>2021-02-27T16:57:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/abducciones.html</loc>
@@ -395,7 +395,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/adventismo.html</loc>
-  <lastmod>2021-02-27T15:43:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/aeronautica.html</loc>
@@ -519,7 +519,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/ateismo.html</loc>
-  <lastmod>2021-02-27T15:42:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/autismo.html</loc>
@@ -535,7 +535,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/biblia.html</loc>
-  <lastmod>2021-02-27T15:42:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/big-bang.html</loc>
@@ -570,8 +570,12 @@
   <lastmod>2021-02-27T15:43:00Z</lastmod>
  </url>
  <url>
+  <loc>http://sindioses.org/categories/brujas.html</loc>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://sindioses.org/categories/budismo.html</loc>
-  <lastmod>2021-02-27T15:43:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/bulova.html</loc>
@@ -671,7 +675,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/cartas-de-la-edad-media.html</loc>
-  <lastmod>2021-02-27T15:42:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/castidad.html</loc>
@@ -691,11 +695,11 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_afirmaciones-de-los-creacionistas.html</loc>
-  <lastmod>2021-02-27T17:32:00Z</lastmod>
+  <lastmod>2021-02-28T02:06:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_cartas-de-la-edad-media.html</loc>
-  <lastmod>2021-02-27T15:43:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_ciencia-de-los-origenes.html</loc>
@@ -707,7 +711,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_examinando-las-religiones.html</loc>
-  <lastmod>2021-02-27T17:32:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_hidden.html</loc>
@@ -731,11 +735,11 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_simplemente-ateismo.html</loc>
-  <lastmod>2021-02-27T15:43:00Z</lastmod>
+  <lastmod>2021-02-28T02:06:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_sociedad-y-religion.html</loc>
-  <lastmod>2021-02-27T15:43:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_traducciones-de-james-randi.html</loc>
@@ -1019,7 +1023,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/ciencia.html</loc>
-  <lastmod>2021-02-27T15:42:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/cine.html</loc>
@@ -1099,7 +1103,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/contradicciones.html</loc>
-  <lastmod>2021-02-27T15:42:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/convento.html</loc>
@@ -1111,7 +1115,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/coran.html</loc>
-  <lastmod>2021-02-27T15:42:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/cosmologia.html</loc>
@@ -1123,7 +1127,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/creacionismo.html</loc>
-  <lastmod>2021-02-27T17:32:00Z</lastmod>
+  <lastmod>2021-02-28T02:06:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/creencias.html</loc>
@@ -1135,7 +1139,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/cristianismo.html</loc>
-  <lastmod>2021-02-27T17:32:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/critica-a-la-iglesia-catolica.html</loc>
@@ -1151,7 +1155,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/critica.html</loc>
-  <lastmod>2021-02-27T15:42:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/cronologia.html</loc>
@@ -1259,11 +1263,11 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/dios.html</loc>
-  <lastmod>2021-02-27T15:42:00Z</lastmod>
+  <lastmod>2021-02-28T02:06:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/dioses.html</loc>
-  <lastmod>2021-02-27T15:43:00Z</lastmod>
+  <lastmod>2021-02-28T02:06:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/discriminacion.html</loc>
@@ -1335,7 +1339,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/educacion.html</loc>
-  <lastmod>2021-02-27T15:42:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/ejemplo-didactico.html</loc>
@@ -1383,7 +1387,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/escepticismo.html</loc>
-  <lastmod>2021-02-27T15:42:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/escision.html</loc>
@@ -1447,7 +1451,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/evangelizacion.html</loc>
-  <lastmod>2021-02-27T15:42:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/evidencia.html</loc>
@@ -1455,7 +1459,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/evidencias.html</loc>
-  <lastmod>2021-02-27T15:42:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/evolucion-biologica.html</loc>
@@ -1535,7 +1539,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/filosofia.html</loc>
-  <lastmod>2021-02-27T15:42:00Z</lastmod>
+  <lastmod>2021-02-28T02:06:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/fin-del-mundo.html</loc>
@@ -1619,7 +1623,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/halloween.html</loc>
-  <lastmod>2021-02-27T15:42:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/herejia.html</loc>
@@ -1643,11 +1647,11 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/historia.html</loc>
-  <lastmod>2021-02-27T15:42:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/historieta.html</loc>
-  <lastmod>2021-02-27T15:42:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/hitler.html</loc>
@@ -1743,7 +1747,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/inquisicion.html</loc>
-  <lastmod>2021-02-27T15:43:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/instintos-sociales.html</loc>
@@ -1763,7 +1767,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/intolerancia.html</loc>
-  <lastmod>2021-02-27T15:42:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/investigacion.html</loc>
@@ -1787,7 +1791,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/islam.html</loc>
-  <lastmod>2021-02-27T15:43:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/islamismo.html</loc>
@@ -1799,7 +1803,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/jack-chick.html</loc>
-  <lastmod>2021-02-27T15:42:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/jesus.html</loc>
@@ -1883,7 +1887,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/libertad-de-expresion.html</loc>
-  <lastmod>2021-02-27T15:43:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/libertad.html</loc>
@@ -1978,6 +1982,10 @@
   <lastmod>2021-02-27T15:43:00Z</lastmod>
  </url>
  <url>
+  <loc>http://sindioses.org/categories/mateo.html</loc>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://sindioses.org/categories/matrimonio-igualitario.html</loc>
   <lastmod>2021-02-27T15:42:00Z</lastmod>
  </url>
@@ -2067,7 +2075,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/moralidad.html</loc>
-  <lastmod>2021-02-27T15:42:00Z</lastmod>
+  <lastmod>2021-02-28T02:06:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/mormonismo.html</loc>
@@ -2151,7 +2159,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/none.html</loc>
-  <lastmod>2021-02-27T15:42:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/normalidad.html</loc>
@@ -2459,7 +2467,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/religion.html</loc>
-  <lastmod>2021-02-27T15:42:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/religiones.html</loc>
@@ -2498,6 +2506,10 @@
   <lastmod>2021-02-27T15:43:00Z</lastmod>
  </url>
  <url>
+  <loc>http://sindioses.org/categories/salem.html</loc>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://sindioses.org/categories/salomon.html</loc>
   <lastmod>2021-02-27T15:42:00Z</lastmod>
  </url>
@@ -2508,6 +2520,10 @@
  <url>
   <loc>http://sindioses.org/categories/salvacion.html</loc>
   <lastmod>2021-02-27T15:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://sindioses.org/categories/sam-harris.html</loc>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/sanacion.html</loc>
@@ -2523,7 +2539,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/satanas.html</loc>
-  <lastmod>2021-02-27T15:42:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/satira.html</loc>
@@ -2591,7 +2607,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/simplemente-ateismo.html</loc>
-  <lastmod>2021-02-27T15:43:00Z</lastmod>
+  <lastmod>2021-02-28T01:56:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/sincretismo.html</loc>
@@ -2735,7 +2751,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/verdad.html</loc>
-  <lastmod>2021-02-27T15:43:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/victor-j-stenger.html</loc>
@@ -4303,7 +4319,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/cienciaorigenes/indiceac/lista.html</loc>
-  <lastmod>2021-02-27T17:32:00Z</lastmod>
+  <lastmod>2021-02-28T02:06:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/cienciaorigenes/intdesign.html</loc>
@@ -5027,7 +5043,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/combatirfe.html</loc>
-  <lastmod>2021-02-27T15:43:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/conflictodelossiglos.html</loc>
@@ -5035,7 +5051,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/demonios-no-existen.html</loc>
-  <lastmod>2021-02-27T15:44:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/diezpreguntas.html</loc>
@@ -5095,7 +5111,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/esplendorateismoislam.html</loc>
-  <lastmod>2021-02-27T15:44:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/estudios-camellos.html</loc>
@@ -5115,7 +5131,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/funcionmoral.html</loc>
-  <lastmod>2021-02-27T15:43:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/fundamentalista.html</loc>
@@ -5131,7 +5147,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/jackchick.html</loc>
-  <lastmod>2021-02-27T15:45:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/jehova.html</loc>
@@ -5163,7 +5179,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/monologo1.html</loc>
-  <lastmod>2021-02-27T15:44:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/monologo2.html</loc>
@@ -5239,7 +5255,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/samharris_entre.html</loc>
-  <lastmod>2021-02-27T15:43:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/sectamoon.html</loc>
@@ -7067,7 +7083,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/principal.html</loc>
-  <lastmod>2021-02-27T17:32:00Z</lastmod>
+  <lastmod>2021-02-28T02:06:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/quienessomos.html</loc>
@@ -8283,7 +8299,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/simpleateismo/nuevainquisicion.html</loc>
-  <lastmod>2021-02-27T15:43:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/simpleateismo/onfray.html</loc>
@@ -8335,7 +8351,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/simpleateismo/senecesitadeundios.html</loc>
-  <lastmod>2021-02-27T15:43:00Z</lastmod>
+  <lastmod>2021-02-28T02:06:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/simpleateismo/shitala.html</loc>
@@ -8363,7 +8379,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/sociedad/bibliamoral.html</loc>
-  <lastmod>2021-02-27T15:44:00Z</lastmod>
+  <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/sociedad/bolsasamaritano.html</loc>
