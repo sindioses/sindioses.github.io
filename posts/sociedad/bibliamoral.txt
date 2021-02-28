@@ -5,7 +5,7 @@
 .. category: Sociedad y religión
 .. description: "Ni en el Corán ni en la Biblia podemos encontrar una deliberación profunda sobre los valores y la moral. Nada que se parezca remotamente a las reflexiones como las hechas por Kant, por ejemplo. Lo cual hace a estas obras altamente sospechosas de ser la obra de un dios sabio y justo"
 .. date: 2012-10-14 19:46:39
-.. tags: religión, ateísmo, moralidad, contradicciones
+.. tags: religión, ateísmo, moralidad, contradicciones, Corán, biblia, islam, cristianismo
 .. previewimage: /quienesFerney.jpg
 
 .. class:: primera

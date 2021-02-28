@@ -1,7 +1,7 @@
 .. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
 .. title: La función moral de la religión
 .. description: Hay sin duda muchas razones para la persistencia de los sistemas de creencias religiosas. Seguramente de gran significancia es su función moral. Porque incluso aunque la adoración al Dios Padre o lo trascendental invisible no haya sido derrotada por la modernidad, las instituciones religiosas retienen otra función principal. Ellas suministran un sistema de reglas y normas de conducta.
-.. tags: ciencia, religión
+.. tags: ciencia, religión, Corán, filosofía, budismo, islam
 .. type: exrel
 .. author: Paul Kurtz, traducción de M. A. Paz y Miño
 .. category: Examinando las religiones

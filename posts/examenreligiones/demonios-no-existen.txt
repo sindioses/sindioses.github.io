@@ -1,7 +1,7 @@
 .. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
 .. title: Cuando los demonios no existen
 .. category: Examinando las religiones
-.. tags: escepticismo, Halloween, Libro de Mateo, Satanás
+.. tags: escepticismo, Halloween, Mateo, Satanás, biblia, cristianismo, Salem, brujas
 .. slug:
 .. date: 2013-10-31 09:31:00 UTC-03:00
 .. description: Se acerca otro Halloween y entre decoraciones de calabazas, arañas y murciélagos se pueden oír algunas voces que satanizan, literalmente, esta celebración. Muchos fundamentalistas cristianos alegan que detrás de Halloween está el mismo Satanás y han hecho curiosas campañas para que los niños no participen en esta fecha.

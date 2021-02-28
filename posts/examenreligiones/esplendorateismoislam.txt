@@ -1,5 +1,5 @@
 .. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
-.. tags: ateísmo, islam, libertad de expresión
+.. tags: ateísmo, islam, libertad de expresión, Corán
 .. category: Examinando las religiones
 .. description: Es sorprendente leer sobre la libertad de expresión que disfrutaban los musulmanes en el siglo X, en comparación con la actualidad.
 .. author: Amira Nowaira (traducido por Anahí Seri)

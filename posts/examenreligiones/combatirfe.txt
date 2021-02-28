@@ -2,7 +2,7 @@
 .. type: exrel
 .. author: Anahí Seri
 .. date: 2007-05-01 00:00:00
-.. tags: religión
+.. tags: religión, islam, Corán
 .. description: Sam Harris nos abre los ojos sobre las religiones en general y el Islam en particular
 .. title: Combatir la fe, salvar la humanidad
 .. category: Examinando las religiones

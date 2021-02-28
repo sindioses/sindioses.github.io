@@ -2,7 +2,7 @@
 .. author: Blair Golson, traducción de Anahí Seri
 .. category: Examinando las religiones
 .. title: Entrevista con Sam Harris
-.. tags: None
+.. tags: islam, Corán, Sam Harris
 .. description: Habla el ateo más célebre, combatiente y políticamente incorrecto de EEUU
 .. date: 2007-05-01 00:00:00
 .. type: exrel

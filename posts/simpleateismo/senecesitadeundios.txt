@@ -2,7 +2,7 @@
 .. title: ¿Se necesita de un Dios para ser moral? El mito de la moralidad absoluta
 .. description: El artículo examina la idea que existe una moralidad absoluta que deriva de un ser sobrenatural. Una comparación de diferentes religiones, indica que la creencia en un dios no garantiza reglas absolutas. Aun dentro de una sola religión, como el cristianismo, se puede demostrar que no existen reglas absolutas. Además se puede demostrar que todas las leyes morales son determinadas finalmente por los seres humanos aun cuando tales seres humanos crean en un dios.
 .. category: Simplemente ateísmo
-.. tags: Simplemente ateísmo
+.. tags: moralidad, filosofía, dios, dioses
 .. type: ateis
 .. date: 2007-08-26 00:00:00
 .. author: Héctor Ignacio Ávalos
@@ -22,7 +22,7 @@ El gran escritor ruso Fedor Dostoievski (1821-1881), es famoso por afirmar que s
 
  *"Si no hay Dios, no hay tampoco ley divina y por ende toda la ley es ley del hombre"*. [#]_ A la vez, los teólogos cristianos arguyen que nuestro sentido del bien y el mal es prueba que existe una sola ley absoluta que se origina en Dios.
 
- El mismo teólogo, Myer Pearlman, dice:
+El mismo teólogo, Myer Pearlman, dice:
 
  *"¿Qué conclusiones se pueden derivar de esta conciencia o sentido universal del bien y el mal? Que existe un Legislador que ha señalado un nivel de conducta para el hombre y ha hecho la naturaleza del hombre capaz de entender ese nivel".* [#]_
 
@@ -32,7 +32,7 @@ Para verificar si la creencia en un Dios garantiza reglas absolutas, debemos emp
 
  *"Esa ley, que es la Razón Divina misma, no se puede entender fuera de que es invariable y eterna.*
 
-Los cristianos que creen en tales reglas invariables a veces se valen de pasajes bíblicos como Hebreos 13.8 ("Jesucristo es el mismo ayer, y hoy, y por los siglos"), que implica que Dios no cambia su pensamiento moral.
+Los cristianos que creen en tales reglas invariables a veces se valen de pasajes bíblicos como {{% biblia "Hebreos 13:8" RVR1960 %}} ("Jesucristo es el mismo ayer, y hoy, y por los siglos"), que implica que Dios no cambia su pensamiento moral.
 
 En fin, para tales cristianos, la moralidad absoluta se refiere a un sistema de reglas de conducta que se pueden denominar buenas o malas, independiente de las circunstancias o el tiempo. [#]_
 
@@ -44,19 +44,21 @@ Aun dentro del cristianismo hay grupos, como la Iglesia Episcopal, que permiten 
 
 Un examen de la creencia acerca de la tortura de infantes en la historia del cristianismo es suficiente para demostrar los problemas con la idea de que la creencia en Dios garantiza la moralidad absoluta. Muchos cristianos hoy dirían que una ley absoluta divina e invariable sería la de que es malo matar o torturar a infantes, independiente del tiempo o las circunstancias. Si tal ley es invariable, entonces sería malo torturar infantes en el siglo mil antes del cristianismo así como que es considerado malo hoy por tales cristianos.
 
-Tales cristianos no parecen darse cuenta que la Biblia, el documento central del cristianismo, contiene pasajes que aprueban la matanza y tortura de infantes. Por ejemplo, en Números 31.17-18 encontramos:
+Tales cristianos no parecen darse cuenta que la Biblia, el documento central del cristianismo, contiene pasajes que aprueban la matanza y tortura de infantes. Por ejemplo, en {{% biblia "Números 31:17-18" RVR1960 %}} encontramos:
 
  *"Matad, pues, ahora a todos los varones de entre los niños; matad también a toda mujer que haya conocido varón carnalmente. Pero a todas las niñas entre las mujeres, que no hayan conocido varón, las dejaréis con vida".* [#]_
 
-Deuteronomio 2.33-34 dice lo siguiente acerca del tratamiento de los habitantes de Canaán por Moisés y sus ejércitos:
+{{% biblia "Deuteronomio 2:33-34" RVR1960 %}} dice lo siguiente acerca del tratamiento de los habitantes de Canaán por Moisés y sus ejércitos:
 
  *"Mas Jehová nuestro Dios lo entregó delante de nosotros; y lo derrotamos a él y a sus hijos, y a todo su pueblo. Tomamos entonces todas sus ciudades, y destruimos todas las ciudades, hombres, mujeres y niños; no dejamos ninguno".*
 
-En el Salmo 137.8-9 encontramos los siguientes sentimientos acerca de los babilonios:
+En el {{% biblia "Salmo 137:8-9" RVR1960 %}} encontramos los siguientes sentimientos acerca de los babilonios:
 
  *"Hija de Babilonia la desolada, Bienaventurado el que te diere el pago De lo que tú nos hiciste. Dichoso el que tomare y estrellare tus niños contra la peña".*
 
-En Josué 6.21, se nos relata lo que hizo Josué, el jefe militar mandado por el dios bíblico para destruir a los habitantes de Canaán. *"Y destruyeron a filo de espada todo lo que en la ciudad había; hombres y mujeres, jóvenes y viejos, hasta los bueyes, las ovejas, y los asnos.* [#]_
+En {{% biblia "Josué 6:21" RVR1960 %}}, se nos relata lo que hizo Josué, el jefe militar mandado por el dios bíblico para destruir a los habitantes de Canaán.
+
+ *"Y destruyeron a filo de espada todo lo que en la ciudad había; hombres y mujeres, jóvenes y viejos, hasta los bueyes, las ovejas, y los asnos.* [#]_
 
 Si la tortura de infantes no se mantiene como una regla absoluta en todas las religiones, entonces ¿cuál regla se puede mantener como absoluta en cualquier religión?
 
@@ -163,23 +165,23 @@ En fin, cada individuo y sociedad tienen que decidir por si mismos que modo de v
 
 .. [#] Myer Pearlman, Teología bíblica y sistemática, página 32.
 
-.. [#] En realidad, los teólogos cristianos no son consistentes en sus ideas acerca de la invariabilidad de las leyes absolutas. En su famosa obra, Summa Theologica (Parte I-II, Pregunta 106), Tomás de Aquino (1224-1274 ), por ejemplo, intenta defender la idea que el cambio en la ley de Moisés realizado por el cristianismo está justificado.
+.. [#] En realidad, los teólogos cristianos no son consistentes en sus ideas acerca de la invariabilidad de las leyes absolutas. En su famosa obra, Summa Theologica (Parte I-II, Pregunta 106), Tomás de Aquino (1224-1274), por ejemplo, intenta defender la idea que el cambio en la ley de Moisés realizado por el cristianismo está justificado.
 
 .. [#] Una lista de las posiciones, y muchas veces contradictorias, sobre el aborto en 150 denominaciones cristianas se encuentra en T. Bosgra, Abortion, the Bible, and the Church ("El aborto, la Biblia, y la Iglesia"; Honolulu, Hawaii: Hawaii Right to Life Educational Foundation, 1980).
 
 .. [#] Excepto cuando sea indique de otra manera, todas las traducciones bíblica castellanas son tomadas de La Santa Biblia (Versión Reina y Valera; Revisión de 1960; Sociedades Bíblicas Unidas).
 
-.. [#] Uno debe notar que matar a filo de espada automáticamente constituye tortura pues comúnmente es una muerte lenta y dolorosa. La palabra hebrea traducida "jóvenes" puede incluir a niños de 3 meses de edad (por ejemplo, se aplica al infante Moisés en Éxodo 2.6).
+.. [#] Uno debe notar que matar a filo de espada automáticamente constituye tortura pues comúnmente es una muerte lenta y dolorosa. La palabra hebrea traducida "jóvenes" puede incluir a niños de 3 meses de edad (por ejemplo, se aplica al infante Moisés en {{% biblia "Éxodo 2.6" RVR1960 %}}).
 
-.. [#] Éxodo 21.23 dice: "Mas si hubiere muerte, entonces pagarás vida por vida".
+.. [#] {{% biblia "Éxodo 21.23" RVR1960 %}} dice: "Mas si hubiere muerte, entonces pagarás vida por vida".
 
 .. [#] La traducción "criado" no minimiza el hecho que tales personas eran esclavas en el sentido que no tenían la libertad de salir de su situación por su propia voluntad. Tales personas podían ser compradas y vendidas por sus amos.
 
 .. [#] Véase por ejemplo, la discusión de Paul R. Van Gorder, Respuestas a preguntas difíciles de la Biblia (traducción de Samuel Vila; Barcelona: Ediciones Clie, 1977) páginas 10-13.
 
-.. [#] Génesis 16 indica, por ejemplo, que Abraham tuvo a Sara y Hagar como esposas.
+.. [#] {{% biblia "Génesis 16" RVR1960 %}} indica, por ejemplo, que Abraham tuvo a Sara y Hagar como esposas.
 
-.. [#] En la Biblia tales afirmaciones de los judíos son registrados en Juan 5.18 y Hechos 6.14.
+.. [#] En la Biblia tales afirmaciones de los judíos son registrados en {{% biblia "Juan 5.18" RVR1960 %}} y {{% biblia "Hechos 6.14" RVR1960 %}}.
 
 .. [#] Myer Pearlman, Teología bíblica y sistemática, página 55.
 
