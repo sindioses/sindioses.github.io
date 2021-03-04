@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://sindioses.org/</loc>
-  <lastmod>2021-02-27T17:43:00Z</lastmod>
+  <lastmod>2021-02-28T13:25:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/2000/</loc>
@@ -94,6 +94,10 @@
   <lastmod>2020-10-03T18:12:00Z</lastmod>
  </url>
  <url>
+  <loc>http://sindioses.org/2021/</loc>
+  <lastmod>2021-02-28T13:25:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://sindioses.org/anillo/</loc>
   <lastmod>2016-08-30T23:46:00Z</lastmod>
  </url>
@@ -103,7 +107,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/archive.html</loc>
-  <lastmod>2021-02-27T16:57:00Z</lastmod>
+  <lastmod>2021-03-04T22:58:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/cartas/</loc>
@@ -355,7 +359,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/</loc>
-  <lastmod>2021-02-28T01:51:00Z</lastmod>
+  <lastmod>2021-03-04T22:58:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/abducciones.html</loc>
@@ -478,6 +482,10 @@
   <lastmod>2021-02-27T15:42:00Z</lastmod>
  </url>
  <url>
+  <loc>http://sindioses.org/categories/apoyo.html</loc>
+  <lastmod>2021-03-04T23:04:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://sindioses.org/categories/argumentos.html</loc>
   <lastmod>2021-02-27T15:42:00Z</lastmod>
  </url>
@@ -535,7 +543,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/biblia.html</loc>
-  <lastmod>2021-02-28T01:51:00Z</lastmod>
+  <lastmod>2021-02-28T13:46:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/big-bang.html</loc>
@@ -695,7 +703,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_afirmaciones-de-los-creacionistas.html</loc>
-  <lastmod>2021-02-28T02:06:00Z</lastmod>
+  <lastmod>2021-03-04T23:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_cartas-de-la-edad-media.html</loc>
@@ -711,7 +719,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_examinando-las-religiones.html</loc>
-  <lastmod>2021-02-28T01:51:00Z</lastmod>
+  <lastmod>2021-02-28T13:46:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_hidden.html</loc>
@@ -739,7 +747,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_sociedad-y-religion.html</loc>
-  <lastmod>2021-02-28T01:51:00Z</lastmod>
+  <lastmod>2021-03-04T23:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_traducciones-de-james-randi.html</loc>
@@ -751,7 +759,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/catolicismo.html</loc>
-  <lastmod>2021-02-27T15:43:00Z</lastmod>
+  <lastmod>2021-03-04T23:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/cb.html</loc>
@@ -1094,6 +1102,10 @@
   <lastmod>2021-02-27T15:43:00Z</lastmod>
  </url>
  <url>
+  <loc>http://sindioses.org/categories/conspiracion.html</loc>
+  <lastmod>2021-02-28T13:44:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://sindioses.org/categories/constitucion-eeuu.html</loc>
   <lastmod>2021-02-27T15:43:00Z</lastmod>
  </url>
@@ -1127,7 +1139,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/creacionismo.html</loc>
-  <lastmod>2021-02-28T02:06:00Z</lastmod>
+  <lastmod>2021-03-04T23:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/creencias.html</loc>
@@ -1566,6 +1578,10 @@
   <lastmod>2021-02-27T15:42:00Z</lastmod>
  </url>
  <url>
+  <loc>http://sindioses.org/categories/francisco.html</loc>
+  <lastmod>2021-03-04T23:04:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://sindioses.org/categories/fundamentalismo.html</loc>
   <lastmod>2021-02-27T15:43:00Z</lastmod>
  </url>
@@ -1580,6 +1596,10 @@
  <url>
   <loc>http://sindioses.org/categories/ganesha.html</loc>
   <lastmod>2021-02-27T15:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://sindioses.org/categories/gay.html</loc>
+  <lastmod>2021-03-04T23:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/geller.html</loc>
@@ -1626,6 +1646,10 @@
   <lastmod>2021-02-28T01:51:00Z</lastmod>
  </url>
  <url>
+  <loc>http://sindioses.org/categories/hebreo.html</loc>
+  <lastmod>2021-02-28T13:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://sindioses.org/categories/herejia.html</loc>
   <lastmod>2021-02-27T15:43:00Z</lastmod>
  </url>
@@ -1664,6 +1688,10 @@
  <url>
   <loc>http://sindioses.org/categories/homeopatia.html</loc>
   <lastmod>2021-02-27T15:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://sindioses.org/categories/homosexual.html</loc>
+  <lastmod>2021-03-04T23:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/homosexualidad.html</loc>
@@ -1850,6 +1878,10 @@
   <lastmod>2021-02-27T15:43:00Z</lastmod>
  </url>
  <url>
+  <loc>http://sindioses.org/categories/lenguaje.html</loc>
+  <lastmod>2021-02-28T13:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://sindioses.org/categories/lesbianas.html</loc>
   <lastmod>2021-02-27T15:43:00Z</lastmod>
  </url>
@@ -1899,10 +1931,6 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/libro-de-juan.html</loc>
-  <lastmod>2021-02-27T15:42:00Z</lastmod>
- </url>
- <url>
-  <loc>http://sindioses.org/categories/libro-de-mateo.html</loc>
   <lastmod>2021-02-27T15:42:00Z</lastmod>
  </url>
  <url>
@@ -2215,7 +2243,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/papa.html</loc>
-  <lastmod>2021-02-27T15:42:00Z</lastmod>
+  <lastmod>2021-03-04T23:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/papado-retrogrado.html</loc>
@@ -4319,7 +4347,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/cienciaorigenes/indiceac/lista.html</loc>
-  <lastmod>2021-02-28T02:06:00Z</lastmod>
+  <lastmod>2021-03-04T23:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/cienciaorigenes/intdesign.html</loc>
@@ -4995,7 +5023,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/</loc>
-  <lastmod>2021-02-27T17:15:00Z</lastmod>
+  <lastmod>2021-02-28T13:44:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/10mandamientos.html</loc>
@@ -5039,7 +5067,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/ceniza.html</loc>
-  <lastmod>2021-02-27T17:32:00Z</lastmod>
+  <lastmod>2021-02-28T13:44:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/combatirfe.html</loc>
@@ -5048,6 +5076,10 @@
  <url>
   <loc>http://sindioses.org/examenreligiones/conflictodelossiglos.html</loc>
   <lastmod>2021-02-27T15:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://sindioses.org/examenreligiones/creacionismo_conspiracion.html</loc>
+  <lastmod>2021-02-28T13:44:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/demonios-no-existen.html</loc>
@@ -5140,6 +5172,10 @@
  <url>
   <loc>http://sindioses.org/examenreligiones/ideassanagustin.html</loc>
   <lastmod>2021-02-27T15:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://sindioses.org/examenreligiones/idioma_dios.html</loc>
+  <lastmod>2021-02-28T13:46:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/iglesiauniversal.html</loc>
@@ -7083,7 +7119,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/principal.html</loc>
-  <lastmod>2021-02-28T02:06:00Z</lastmod>
+  <lastmod>2021-03-04T23:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/quienessomos.html</loc>
@@ -8359,7 +8395,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/sociedad/</loc>
-  <lastmod>2020-10-03T18:12:00Z</lastmod>
+  <lastmod>2021-03-04T22:58:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/sociedad/3bandos.html</loc>
@@ -8532,6 +8568,10 @@
  <url>
   <loc>http://sindioses.org/sociedad/fr_sepiglesiaestado.html</loc>
   <lastmod>2021-02-27T15:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://sindioses.org/sociedad/francisco_apoyo_gay.html</loc>
+  <lastmod>2021-03-04T23:04:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/sociedad/guerraaborto.html</loc>
@@ -8767,7 +8807,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/sociedad/teologia.html</loc>
-  <lastmod>2021-02-27T15:43:00Z</lastmod>
+  <lastmod>2021-03-04T22:58:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/sociedad/testiculando.html</loc>

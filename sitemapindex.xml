@@ -126,6 +126,10 @@
   <lastmod>2021-02-27T15:45:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://sindioses.org/categories/apoyo.xml</loc>
+  <lastmod>2021-03-04T23:04:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://sindioses.org/categories/argumentos.xml</loc>
   <lastmod>2021-02-27T15:44:00Z</lastmod>
  </sitemap>
@@ -183,7 +187,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/biblia.xml</loc>
-  <lastmod>2021-02-28T01:51:00Z</lastmod>
+  <lastmod>2021-02-28T13:46:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/big-bang.xml</loc>
@@ -343,7 +347,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cat_afirmaciones-de-los-creacionistas.xml</loc>
-  <lastmod>2021-02-28T02:06:00Z</lastmod>
+  <lastmod>2021-03-04T23:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cat_cartas-de-la-edad-media.xml</loc>
@@ -359,7 +363,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cat_examinando-las-religiones.xml</loc>
-  <lastmod>2021-02-28T01:51:00Z</lastmod>
+  <lastmod>2021-02-28T13:46:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cat_hidden.xml</loc>
@@ -387,7 +391,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cat_sociedad-y-religion.xml</loc>
-  <lastmod>2021-02-28T01:51:00Z</lastmod>
+  <lastmod>2021-03-04T23:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cat_traducciones-de-james-randi.xml</loc>
@@ -399,7 +403,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/catolicismo.xml</loc>
-  <lastmod>2021-02-27T15:43:00Z</lastmod>
+  <lastmod>2021-03-04T23:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cb.xml</loc>
@@ -742,6 +746,10 @@
   <lastmod>2021-02-27T15:43:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://sindioses.org/categories/conspiracion.xml</loc>
+  <lastmod>2021-02-28T13:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://sindioses.org/categories/constitucion-eeuu.xml</loc>
   <lastmod>2021-02-27T15:44:00Z</lastmod>
  </sitemap>
@@ -775,7 +783,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/creacionismo.xml</loc>
-  <lastmod>2021-02-28T02:06:00Z</lastmod>
+  <lastmod>2021-03-04T23:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/creencias.xml</loc>
@@ -1214,6 +1222,10 @@
   <lastmod>2021-02-27T15:44:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://sindioses.org/categories/francisco.xml</loc>
+  <lastmod>2021-03-04T23:04:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://sindioses.org/categories/fundamentalismo.xml</loc>
   <lastmod>2021-02-27T15:44:00Z</lastmod>
  </sitemap>
@@ -1228,6 +1240,10 @@
  <sitemap>
   <loc>http://sindioses.org/categories/ganesha.xml</loc>
   <lastmod>2021-02-27T15:43:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://sindioses.org/categories/gay.xml</loc>
+  <lastmod>2021-03-04T23:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/geller.xml</loc>
@@ -1274,6 +1290,10 @@
   <lastmod>2021-02-28T01:51:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://sindioses.org/categories/hebreo.xml</loc>
+  <lastmod>2021-02-28T13:46:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://sindioses.org/categories/herejia.xml</loc>
   <lastmod>2021-02-27T15:44:00Z</lastmod>
  </sitemap>
@@ -1312,6 +1332,10 @@
  <sitemap>
   <loc>http://sindioses.org/categories/homeopatia.xml</loc>
   <lastmod>2021-02-27T15:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://sindioses.org/categories/homosexual.xml</loc>
+  <lastmod>2021-03-04T23:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/homosexualidad.xml</loc>
@@ -1498,6 +1522,10 @@
   <lastmod>2021-02-27T15:45:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://sindioses.org/categories/lenguaje.xml</loc>
+  <lastmod>2021-02-28T13:46:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://sindioses.org/categories/lesbianas.xml</loc>
   <lastmod>2021-02-27T15:44:00Z</lastmod>
  </sitemap>
@@ -1547,10 +1575,6 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/libro-de-juan.xml</loc>
-  <lastmod>2021-02-27T15:44:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>http://sindioses.org/categories/libro-de-mateo.xml</loc>
   <lastmod>2021-02-27T15:44:00Z</lastmod>
  </sitemap>
  <sitemap>
@@ -1863,7 +1887,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/papa.xml</loc>
-  <lastmod>2021-02-27T15:45:00Z</lastmod>
+  <lastmod>2021-03-04T23:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/papado-retrogrado.xml</loc>
@@ -2443,10 +2467,10 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/sindioses.xml</loc>
-  <lastmod>2021-02-28T02:06:00Z</lastmod>
+  <lastmod>2021-03-04T23:04:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/sitemap.xml</loc>
-  <lastmod>2021-02-28T02:06:00Z</lastmod>
+  <lastmod>2021-03-04T23:04:00Z</lastmod>
  </sitemap>
 </sitemapindex>
