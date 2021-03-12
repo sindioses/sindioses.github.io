@@ -2,7 +2,7 @@
 .. category: Sociedad y religión
 .. type: socre
 .. date: 2004-04-05 00:00:00
-.. tags: religión, dogmas, humanismo, letras
+.. tags: religión, dogmas, humanismo, letras, islam, librepensamiento, fundamentalismo
 .. description: Un decreto de muerte pesa sobre la cabeza de Taslima Nasrin, una valiente librepensadora que se ha opuesto civilizadamente, desde las letras, al fundamentalismo islámico.
 .. author: Ferney Yesyd Rodríguez
 .. title: Taslima Nasrin: Una mujer sin dioses

@@ -4,6 +4,7 @@
 .. type: lupa
 .. author: Glenys Álvarez
 .. category: La lupa herética
+.. tags: apuesta, pascal, religión, Lutero, patronicidad, agenticidad, fe, incredulidad
 .. description: «[C]asi la mitad de las guerras ha sido originada por creencias. Ideas abstractas para las que nadie tiene evidencias, seres y monstruos sobrenaturales que no dejan rastros de su presencia por ningún lado, todavía en este siglo, individuos son perseguidos por una promesa de muerte por el sólo hecho de 'ofender' a una de estas deidades invisibles con su arte. En algunos lugares es imposible decir lo que piensas si es distinto a lo que piensa la sociedad, es blasfemia, así llaman al horrendo absurdo... en pleno siglo XXI.»
 
 .. # :maxLineLen=120:folding=explicit:mode=rest:wrap=soft:collapseFolds=1:

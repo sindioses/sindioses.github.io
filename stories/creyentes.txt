@@ -13,18 +13,19 @@ Como creyente, puede que crea que escribirnos es una necesidad ineludible o su d
 * Si nos escribe igualmente, recuerde que **su mensaje pasa a ser propiedad de Sin Dioses y estamos en libertad de hacer lo que nos parezca con él**.
 
   * No crea que tenemos la obligación de responderle en sus propios términos ni cuando a usted le parezca. Tenemos nuestras propias vidas y puede que le respondamos y puede que no. Depende de las ganas que tengamos.
-  * Visite periódicamente esta página y las `Cartas de la Edad Media <cartas/cartas.html>`_; puede que su mensaje nos haya parecido lo bastante ejemplificador como para ilustrar a otros de los horrores que recibimos.
+  * Visite periódicamente esta página y las `Cartas de la Edad Media <cartas/>`_; puede que su mensaje nos haya parecido lo bastante ejemplificador como para ilustrar a otros de los horrores que recibimos.
 
 * Muchos afirman querer debatir con nosotros, pero no se avienen a seguir las reglas del `debate <debate.html>`_. Si usted no responde honestamente las preguntas planteadas en la página que indicamos, o lo hace y llega a uno de los casilleros en los que se indica que la discusión terminó, ni siquiera se moleste en escribirnos.
 
 .. list-table::
    :header-rows: 1
    :widths: 25, 75
+   :class: table table-striped table-condensed table-responsive table-bordered
 
    * - Posible razón
      - Nuestra posición
    * - "Su sitio me ofende"
-     - Ya lo sabemos, y no nos preocupa. De hecho, lo advertimos en la página inicial en http://www.sindioses.org: "El contenido de este sitio puede ocasionarle conflictos irremediables con sus dogmas".
+     - Ya lo sabemos, y no nos preocupa. De hecho, lo advertimos en la página inicial en http://sindioses.org: "El contenido de este sitio puede ocasionarle conflictos irremediables con sus dogmas".
 
        No nos moleste haciéndonos saber lo muy ofendido que está. No estamos aquí para trabajar en pos de la felicidad de usted.
    * - "Su sitio es una falta de respeto para las religiones y debería ser suprimido"
