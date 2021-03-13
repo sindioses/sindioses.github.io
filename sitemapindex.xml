@@ -355,7 +355,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cat_afirmaciones-de-los-creacionistas.xml</loc>
-  <lastmod>2021-03-12T02:55:00Z</lastmod>
+  <lastmod>2021-03-13T15:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cat_cartas-de-la-edad-media.xml</loc>
@@ -399,7 +399,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cat_sociedad-y-religion.xml</loc>
-  <lastmod>2021-03-12T02:50:00Z</lastmod>
+  <lastmod>2021-03-13T15:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cat_traducciones-de-james-randi.xml</loc>
@@ -782,6 +782,10 @@
   <lastmod>2021-02-28T01:51:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://sindioses.org/categories/coronavirus.xml</loc>
+  <lastmod>2021-03-13T15:53:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://sindioses.org/categories/cosmologia.xml</loc>
   <lastmod>2021-02-27T15:44:00Z</lastmod>
  </sitemap>
@@ -791,7 +795,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/creacionismo.xml</loc>
-  <lastmod>2021-03-12T02:55:00Z</lastmod>
+  <lastmod>2021-03-13T15:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/creencias.xml</loc>
@@ -844,6 +848,10 @@
  <sitemap>
   <loc>http://sindioses.org/categories/culto.xml</loc>
   <lastmod>2021-02-27T15:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://sindioses.org/categories/dan-barker.xml</loc>
+  <lastmod>2021-03-13T15:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/daniel-dennett.xml</loc>
@@ -1191,7 +1199,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/fe.xml</loc>
-  <lastmod>2021-03-06T19:20:00Z</lastmod>
+  <lastmod>2021-03-13T15:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/feminismo.xml</loc>
@@ -1200,6 +1208,10 @@
  <sitemap>
   <loc>http://sindioses.org/categories/fenotipo.xml</loc>
   <lastmod>2021-02-27T15:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://sindioses.org/categories/ffrf.xml</loc>
+  <lastmod>2021-03-13T15:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/filosofia.xml</loc>
@@ -1879,7 +1891,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/oracion.xml</loc>
-  <lastmod>2021-02-27T15:43:00Z</lastmod>
+  <lastmod>2021-03-13T15:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/origen.xml</loc>
@@ -2495,10 +2507,10 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/sindioses.xml</loc>
-  <lastmod>2021-03-12T02:55:00Z</lastmod>
+  <lastmod>2021-03-13T15:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/sitemap.xml</loc>
-  <lastmod>2021-03-12T02:55:00Z</lastmod>
+  <lastmod>2021-03-13T15:53:00Z</lastmod>
  </sitemap>
 </sitemapindex>
