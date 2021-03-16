@@ -1,4 +1,3 @@
-.. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
 .. title: "Hay azotes para los que hagan lo malo"
 .. category: Cartas de la Edad Media
 .. tags: Cartas de la Edad Media, infierno, castigo
@@ -37,8 +36,8 @@ Creo que esta carta la realizó por el artículo “El infierno del miedo”. La
 
 Empecemos con su afirmación “si usted no investiga la palabra de dios... jamás comprenderá la verdad, pues la verdad esta en ella”.  Tal declaración es, permítame decirlo, completamente absurda. Si se toma la Biblia literalmente tendremos serios problemas con las evidencias aportadas por la astronomía, la biología, la paleontología, y la historia. La Biblia contiene innumerables contradicciones. ¿Podría decirme cuantos años tenía el rey Ocozías, hijo del rey Omri, cuando empezó a reinar sobre Israel? Sorprendentemente la Biblia contiene dos respuestas contradictorias:
 
-| 22 años según 2 Reyes 8: 26.
-| 42 años según 2 Crónicas 22:2
+| 22 años según {{% biblia "2 Reyes 8: 26" DHH %}}.
+| 42 años según {{% biblia "2 Crónicas 22:2" DHH %}}
 
 Así pues, cómo afirmar que la Biblia es depositaria de la verdad?
 

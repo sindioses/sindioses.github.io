@@ -667,6 +667,26 @@ REDIRECTIONS = [
     ('anillo/index.html', '/principal.html'),
     ('randi/randi.html', '/randi/index.html'),
     ('cartas/cartas.html', '/cartas/index.html'),
+    ('cartas/carta1.html', '/cartas/index.html'),
+    ('cartas/carta2.html', '/cartas/index.html'),
+    ('cartas/carta3.html', '/cartas/index.html'),
+    ('cartas/carta4.html', '/cartas/index.html'),
+    ('cartas/carta5.html', '/cartas/index.html'),
+    ('cartas/carta6.html', '/cartas/index.html'),
+    ('cartas/carta7.html', '/cartas/index.html'),
+    ('cartas/carta8.html', '/cartas/index.html'),
+    ('cartas/cartas9.html', '/cartas/index.html'),
+    ('cartas/cartas10.html', '/cartas/index.html'),
+    ('cartas/cartas11.html', '/cartas/index.html'),
+    ('cartas/cartas12.html', '/cartas/index.html'),
+    ('cartas/cartas13.html', '/cartas/index.html'),
+    ('cartas/cartaaponostra.html', '/cartas/cartas20031126.html'),
+    ('cartas/cartabuscarb.html', '/cartas/cartas20030814.html'),
+    ('cartas/cartacambiar.html', '/cartas/cartas20031128.html'),
+    ('cartas/cartachanchitos.html', '/cartas/cartas20030617.html'),
+    ('cartas/cartadiablo.html', '/cartas/cartas20030525.html'),
+    ('cartas/cartadomingo.html', '/cartas/cartas20030819.html'),
+    ('cartas/cartafemueve.html', '/cartas/cartas20031127.html'),
     ('noticias/noticias.html', '/noticias/index.html'),
     ('noticias/universo2.html', '/noticias/universo_2.html'),
 ]
@@ -1497,4 +1517,4 @@ GLOBAL_CONTEXT_FILLER = []
 ################################
 # Plugin-specific configurations
 
-# Plugins necesarios: book_figure, sphinx_roles
+# Plugins necesarios: book_figure, sphinx_roles, category_prevnext
