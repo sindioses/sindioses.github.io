@@ -335,7 +335,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cartas-de-la-edad-media.xml</loc>
-  <lastmod>2021-02-28T01:51:00Z</lastmod>
+  <lastmod>2021-03-16T22:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/castidad.xml</loc>
@@ -343,7 +343,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/castigo.xml</loc>
-  <lastmod>2021-02-27T15:44:00Z</lastmod>
+  <lastmod>2021-03-16T22:01:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cat_-ciencia-de-los-origenes.xml</loc>
@@ -355,11 +355,11 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cat_afirmaciones-de-los-creacionistas.xml</loc>
-  <lastmod>2021-03-13T15:53:00Z</lastmod>
+  <lastmod>2021-03-16T22:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cat_cartas-de-la-edad-media.xml</loc>
-  <lastmod>2021-02-28T01:51:00Z</lastmod>
+  <lastmod>2021-03-16T22:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cat_ciencia-de-los-origenes.xml</loc>
@@ -650,6 +650,10 @@
   <lastmod>2021-02-27T15:44:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://sindioses.org/categories/chanchitos.xml</loc>
+  <lastmod>2021-03-16T22:08:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://sindioses.org/categories/charlie-y-nick.xml</loc>
   <lastmod>2021-02-27T15:44:00Z</lastmod>
  </sitemap>
@@ -795,7 +799,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/creacionismo.xml</loc>
-  <lastmod>2021-03-13T15:53:00Z</lastmod>
+  <lastmod>2021-03-16T22:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/creencias.xml</loc>
@@ -835,7 +839,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cuento.xml</loc>
-  <lastmod>2021-02-27T15:45:00Z</lastmod>
+  <lastmod>2021-03-16T22:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cuentos-infantiles.xml</loc>
@@ -1143,7 +1147,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/evolucion.xml</loc>
-  <lastmod>2021-02-27T15:43:00Z</lastmod>
+  <lastmod>2021-03-16T22:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/examinando-las-religiones.xml</loc>
@@ -1419,7 +1423,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/infierno.xml</loc>
-  <lastmod>2021-02-27T15:44:00Z</lastmod>
+  <lastmod>2021-03-16T22:01:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/informacion.xml</loc>
@@ -2507,10 +2511,10 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/sindioses.xml</loc>
-  <lastmod>2021-03-13T15:53:00Z</lastmod>
+  <lastmod>2021-03-16T22:07:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/sitemap.xml</loc>
-  <lastmod>2021-03-13T15:53:00Z</lastmod>
+  <lastmod>2021-03-16T22:08:00Z</lastmod>
  </sitemap>
 </sitemapindex>
