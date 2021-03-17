@@ -8,7 +8,7 @@
 .. tags: CD, CD010
 .. author: Mark Isaak, traducción de Marcelo Huerta San Martín
 .. date: 2001-02-18
-.. modified: 2008-01-04
+.. updated: 2008-01-04
 
 Un pedazo de madera fue fosilizado en la Arenisca de Hawkesbury, Australia, que según la mayor parte de los geólogos data del Triásico medio, hace entre 225 y 230 millones de años. La madera fue fechada por Geotron (un laboratorio comercial de datación) usando el método del carbono 14. Geocron determinó que su antigüedad era de sólo 33.720 años |plusmn| 430 años antes del presente. La contaminación por microbios recientes u hongos no puede explicar la discrepancia en antigüedad.
 

@@ -8,7 +8,7 @@
 .. tags: CI, CI100
 .. author: Mark Isaak, traducción de Marcelo Huerta San Martín
 .. date: 2003-06-23
-.. modified: 2004-07-09
+.. updated: 2004-07-09
 
 La integración de funciones (múltiples partes funcionando juntas para producir una función o finalidad particulares) indica diseño.
 

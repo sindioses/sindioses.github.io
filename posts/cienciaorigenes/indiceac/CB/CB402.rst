@@ -1,0 +1,55 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CB402: La evolución no explica cómo evolucionó la capacidad para el lenguaje
+.. description: Respuesta a la afirmación creacionista «La evolución no explica cómo evolucionó la capacidad para el lenguaje»
+.. slug: CB402
+.. link: http://www.talkorigins.org/indexcc/CB/CB402.html
+.. tags: CB, CB400
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-8-6
+.. updated: 2003-9-6
+
+Fuente
+======
+
+* Yahya, Harun, 2004. Errors concerning human intelligence on the BBC's Horizon programme. http://www.harunyahya.net/V2/Lang/en/Pg/WorkDetail/Number/1905
+* Watchtower Bible and Tract Society, 1985. *Life--How Did It Get Here?* Brooklyn, NY, pp. 174-175.
+
+Respuesta
+=========
+
+1. No conocemos la explicación definitiva de cómo surgió la capacidad para el lenguaje, pero hay hipótesis plausibles. Pueden haberse alcanzado por medio de cambios graduales. Por ejemplo:
+
+   * El cerebro más grande de los primates surgió antes del lenguaje; puede haberse producido a partir de la adaptación para funcionar en grupos sociales o para encontrar comida.
+   * El tamaño del cerebro humano ha evolucionado para ser inusualmente largo por medio de la neotenia el crecimiento rápido de la infancia se mantiene durante un período más largo. Puede haber surgido en conjunción con el lenguaje o antes de él.
+   * Antes del lenguaje, ya existía comunicación por medio de gestos (que en sí probablemente surgieron como imitación mimética) y vocalizaciones. El lenguaje hablado puede haberse construido con dichas vocaclizaciones, o puede haberse transferido desde el lenguaje gestual, o ambas cosas.
+   * Una vez que empezó el protolenguaje vocal, el tracto vocal y las conexiones neurales para producir y controlar el lenguaje hubieran empezado a evolucionar. El habla probablemente comenzó en *Homo erectus* hace más de un millón de años.
+   * Ya establecido el lenguaje como una parte central de la conducta humana, la adquisición del lenguaje se vuelve más fácil porque debido al efecto Baldwin, la plasticidad del aprendizaje permite que la selección natural para la capacidad de lenguajes se produzca más rápidamente [Baldwin_1896]_.
+
+2. El lenguaje es obviamente útil, de modo que no es difícil entener cómo podría haber producido ventajas selectivas. De hecho es un problema mayor explicar por qué el lenguaje no evolucionó en los chijmpancés. El lenguaje probablemente fue, en primer lugar, una adaptación a una estructura social que era (y es) mucho más compleja que la de los otros primates.
+
+
+Referencias
+===========
+
+.. [Baldwin_1896] Baldwin, J. M., 1896. A new factor in evolution. *American Naturalist* 30: 441-451,536-553. http://www.santafe.edu/sfi/publications/Bookinforev/baldwin.html
+
+Otras lecturas
+==============
+
+* Deacon, Terence W., 1998. *The Symbolic Species: The co-evolution of language and the brain*. New York: W.W. Norton.
+* Johansson, Sverker, 2002. The evolution of human language capacity. Tesis de máster, Universidad de Lund. http://home.hj.se/~lsj/langevod.pdf (esp. pp. 65ff)
+* Pinker, S., 1994. *The Language Instinct*. Harmondsworth: Penguin.
+* Tattersall, Ian, 2001. How we came to be human. *Scientific American* 285(6) (Dic.): 56-63. Extracto de *The Monkey in the Mirror*, Harcourt, 2002.
+
+
+/////
+
+Anterior: :doc:`CB401` | Siguiente: :strong:`CB403`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

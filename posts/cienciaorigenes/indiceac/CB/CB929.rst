@@ -1,0 +1,32 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CB929: La evolución no explica que usemos el diez por ciento del cerebro
+.. description: Respuesta a la afirmación creacionista «La evolución no explica que usemos el diez por ciento del cerebro»
+.. slug: CB929
+.. link: http://www.talkorigins.org/indexcc/CB/CB929.html
+.. tags: CB, CB900
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-06-14
+
+De acuerdo con la evolución, no evolucionan órganos que no respondan a una adaptación. Por lo tanto, la evolución no explica por qué usamos sólo un décimo de nuestro cerebro.
+
+Respuesta
+=========
+
+1. La creencia de que usamos sólo un diez por ciento del cerebro es una leyenda urbana y es falsa [Radford_2000]_. Lo usamos en su totalidad.
+
+Referencias / Enlaces
+=====================
+
+.. [Radford_2000] Radford, Benjamin, 2000. The Ten-Percent myth. https://www.snopes.com/fact-check/the-ten-percent-myth/
+
+/////
+
+Anterior: :strong:`CB928_2` | Siguiente: :doc:`CB930`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

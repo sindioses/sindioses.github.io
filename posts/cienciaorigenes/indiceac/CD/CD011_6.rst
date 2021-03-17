@@ -8,7 +8,7 @@
 .. tags: CD, CD010
 .. author: Mark Isaak, traducción de Marcelo Huerta San Martín
 .. date: 2003-05-25
-.. modified: 2004-10-25
+.. updated: 2004-10-25
 
 Se supone que el carbón y el petróleo tienen millones de años de antigüedad. Efectivamente todo el carbono 14 de una muestra habría desaparecido en ese tiempo. Pero en el carbón todavía hay carbono 14, lo que implica una edad de sólo unos 50.000 años.
 

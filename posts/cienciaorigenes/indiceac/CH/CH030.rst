@@ -8,7 +8,7 @@
 .. tags: CH, CH030
 .. author: Mark Isaak, traducción de Marcelo Huerta
 .. date: 2003-05-29
-.. modified: 2004-04-05
+.. updated: 2004-04-05
 
 Dios es supremamente bueno. Por lo tanto, todos deberíamos adorarLo y seguirLo.
 

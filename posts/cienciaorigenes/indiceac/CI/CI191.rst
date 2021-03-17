@@ -4,7 +4,7 @@
 .. author: Mark Isaak, traducción de Marcelo Huerta
 .. nocomments: True
 .. date: 2003-09-30
-.. modified: 2003-10-04
+.. updated: 2003-10-04
 .. type: afirmacrea
 .. title: CI191: Los arqueólogos y los científicos forenses pueden detectar el diseño
 .. description: Respuesta a la afirmación creacionista «Los arqueólogos y los científicos forenses pueden detectar el diseño»

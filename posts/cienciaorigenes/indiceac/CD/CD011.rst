@@ -8,7 +8,7 @@
 .. tags: CD, CD010
 .. author: Mark Isaak, traducción de Marcelo Huerta San Martín
 .. date: 2003-08-19
-.. modified: 2004-09-02
+.. updated: 2004-09-02
 
 **Fuente**
 

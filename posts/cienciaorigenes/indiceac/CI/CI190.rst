@@ -8,7 +8,7 @@
 .. tags: CI, CI100
 .. author: Mark Isaak, traducción de Marcelo Huerta
 .. date: 2001-02-18
-.. modified: 2005-12-01
+.. updated: 2005-12-01
 
 Los investigadores de SETI esperan poder reconocer señales artificiales, lo que prueba que hay un criterio objetivo para reconocer diseño inteligente.
 

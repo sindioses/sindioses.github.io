@@ -4,7 +4,7 @@
 .. nocomments: True
 .. link: http://www.talkorigins.org/indexcc/CC/CC201.html
 .. date: 2003-05-24
-.. modified: 2004-03-17
+.. updated: 2004-03-17
 .. title: CC201: Deberíamos ver un cambio gradual a lo largo del registro fósil, no huecos
 .. description: Respuesta a la afirmación creacionista «Deberíamos ver un cambio gradual a lo largo del registro fósil, no huecos»
 .. type: afirmacrea

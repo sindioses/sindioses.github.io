@@ -36,7 +36,7 @@ Referencias
 
 /////
 
-Anterior: :doc:`CB381` | Siguiente: :strong:`CB400_1`
+Anterior: :doc:`CB381` | Siguiente: :doc:`CB400_1`
 
 /////
 

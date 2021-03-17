@@ -4,7 +4,7 @@
 .. nocomments: True
 .. link: http://www.talkorigins.org/indexcc/CC/CC201_1.html
 .. date: 2003-05-24
-.. modified: 2003-06-22
+.. updated: 2003-06-22
 .. title: CC201.1: El equilibrio puntuado se inventó para justificar los huecos
 .. description: Respuesta a la afirmación creacionista «El equilibrio puntuado se inventó para justificar los huecos»
 .. type: afirmacrea

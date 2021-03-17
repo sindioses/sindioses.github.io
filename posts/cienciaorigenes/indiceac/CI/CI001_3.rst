@@ -8,7 +8,7 @@
 .. tags: CI, CI000
 .. author: Mark Isaak, traducción de Marcelo Huerta San Martín
 .. date: 2003-08-22
-.. modified: 2003-09-01
+.. updated: 2003-09-01
 
 
 El diseño inteligente ha sido aceptada como una teoría de la corriente principal de la ciencia. Se discute en los consejos de educación, científicos importantes han publicado artículos sobre ella; incluso sus videos promocionales han sido presentados en la televisión pública [estadounidense].

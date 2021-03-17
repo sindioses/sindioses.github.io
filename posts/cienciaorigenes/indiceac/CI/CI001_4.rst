@@ -8,7 +8,7 @@
 .. tags: CI, CI000
 .. author: Mark Isaak, traducción de Marcelo Huerta
 .. date: 2004-03-19
-.. modified: 2005-12-22
+.. updated: 2005-12-22
 
 El diseño inteligente en biologia ha sido respaldado por varias revistas y libros arbitrados. A diciembre de 2005 los proponentes del diseño inteligente presentan los siguientes artículos respaldando la teoría:
 

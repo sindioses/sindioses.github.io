@@ -25,7 +25,7 @@ Respuesta
 
 /////
 
-Anterior: :strong:`CB929` | Siguiente: :doc:`CB930_1`
+Anterior: :doc:`CB929` | Siguiente: :doc:`CB930_1`
 
 /////
 

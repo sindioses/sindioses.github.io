@@ -1,0 +1,46 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CB401: Los instintos son demasiado complejos para haber evolucionado
+.. description: Respuesta a la afirmación creacionista «Los instintos son demasiado complejos para haber evolucionado»
+.. slug: CB401
+.. link: http://www.talkorigins.org/indexcc/CB/CB401.html
+.. tags: CB, CB4
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2001-02-17
+.. updated: 2003-9-17
+
+Los instintos son demasiado complejos para haber evolucionado. Los científicos no tienen ninguna forma de explicar los instintos complejos, como las migraciones y la construcción de nidos.
+
+Fuente
+======
+
+* Watchtower Bible and Tract Society, 1985. *Life--How Did It Get Here?* Brooklyn, NY, pp. 160-167.
+
+Respuesta
+=========
+
+1. Esta afirmación es una forma de la :doc:`falacia de incredulidad personal <CA100>`. La capacidad de alguien para imaginar las circunstancias que llevaron a instintos complejos no impiden que dichas circunstancias existan.
+2. No todos los instintos son complejos. Algunas fobias, por ejemplo, no son más que una respuesta emocional básica a estímulos simples, como un ruido fuerte repentino. Y nada impide que los instintos complejos surjan gradualmente. Por ejemplo, algunas abejas sólo comunican información sobre especies de flores a las otras abejas del enjambre [Dornhaus_Chittka_1999]_. Los instintos complejos podrían surgir por medio de pasos pequeños como ese.
+
+Referencias
+===========
+
+.. [Dornhaus_Chittka_1999] Dornhaus, A. and L. Chittka, 1999. Evolutionary origins of bee dances. *Nature* 401: 38
+
+Otras lecturas
+==============
+
+* Gould, James L. and Carol G. Gould, 1995. *The Honey Bee*. New York: Scientific American Library.
+* Weiner, Jonathan, 1999. *Time, Love, Memory: A great biologist and his quest for the origins of behavior*. New York: Knopf.
+
+
+/////
+
+Anterior: :doc:`CB400_1` | Siguiente: :doc:`CB402`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -8,7 +8,7 @@
 .. tags: CD, CD010
 .. author: Mark Isaak, traducción de Marcelo Huerta San Martín
 .. date: 2001-02-18
-.. modified: 2006-01-03
+.. updated: 2006-01-03
 
 La datación por carbono está basada en la proporción atmosférica C-14/C-12, pero esa proporción varía. Por lo tanto el método de datación por carbono no es válido.
 

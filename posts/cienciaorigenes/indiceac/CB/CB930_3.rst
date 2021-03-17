@@ -8,7 +8,7 @@
 .. tags: CB, CB900
 .. author: Mark Isaak, traducción de Marcelo Huerta San Martín
 .. date: 2001-02-17
-.. modified: 2004-02-03
+.. updated: 2004-02-03
 
 Un dinosaurio similar al apatosaurio podría estar vivo aún en los pantanos del Congo.
 

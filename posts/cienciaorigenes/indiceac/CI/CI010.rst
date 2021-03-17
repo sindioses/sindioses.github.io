@@ -8,7 +8,7 @@
 .. tags: CI, CI000
 .. author: Mark Isaak, traducción de Marcelo Huerta San Martín
 .. date: 2003-06-04
-.. modified: 2003-11-08
+.. updated: 2003-11-08
 
 Ni los procesos naturales ni el azar pueden crear información, de modo que hay una ley de conservación de la información.
 

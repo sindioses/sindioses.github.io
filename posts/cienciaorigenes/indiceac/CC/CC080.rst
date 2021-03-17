@@ -8,7 +8,7 @@
 .. tags: CC, CC050
 .. author: Mark Isaak, traducción de Marcelo Huerta San Martín
 .. date: 2003-05-10
-.. modified: 2003-10-06
+.. updated: 2003-10-06
 
 **Fuente:**
 

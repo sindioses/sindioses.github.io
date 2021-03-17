@@ -8,7 +8,7 @@
 .. tags: CI, CI100
 .. author: Mark Isaak, traducción de Marcelo Huerta San Martín
 .. date: 2003-06-23
-.. modified: 2003-10-06
+.. updated: 2003-10-06
 
 Que un objeto tenga propósito indica que el objeto fue diseñado.
 

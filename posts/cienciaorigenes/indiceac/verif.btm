@@ -6,8 +6,11 @@ REM :: echo ===================================
 REM :: color whi on bla
 REM :: sfk find -pat :strong: -dir . -file .txt
 REM :: echo.
+*setlocal
+call ba:getopt.btm %*
 color bri yel on bla
 echo Errores surgidos en la generación:
 echo ==================================
 color whi on bla
-py -3 pendientes.py -v
+set param=%@if[defined OPTION_V,-v,]
+py -3 pendientes.py %param

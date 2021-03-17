@@ -1,0 +1,48 @@
+.. category: Afirmaciones de los creacionistas
+.. tags: CB, CB400
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. nocomments: True
+.. link: http://www.talkorigins.org/indexcc/CB/CB400_1.html
+.. date: 2003-8-27
+.. updated: 2004-02-22
+.. title: CB400.1: La evolución no explica cómo se volvieron tan inteligentes los seres humanos
+.. description: Respuesta a la afirmación creacionista «La evolución no explica cómo se volvieron tan inteligentes los seres humanos»
+.. type: afirmacrea
+.. slug: CB400_1
+
+**Fuente:**
+
+Yahya, Harun, 2004. Errors concerning human intelligence on the BBC's Horizon programme. http://www.harunyahya.net/V2/Lang/en/Pg/WorkDetail/Number/1905
+
+Respuesta
+===========
+
+1. La inteligencia presenta obvias ventajas que pueden ayudar a la supervivencia, de modo que es consistente con la teoría evolutiva. Lo que aún falta explicar es por qué los cerebros humanos son significativamente mayores (en relación con el tamaño del cuerpo) que los cerebros de otros animales. Se han propuesto varias hipótesis, incluyendo las siguientes:
+
+   * Una mayor inteligencia permite forrajear con más eficiencia, en particular para aprender y recordar dónde y cuando maduran los frutos [Kaplan_et_al_2000]_.
+   * Una mayor inteligencia permite inventar y usar herramientas de forma más efectiva.
+   * Una mayor inteligencia permite funcionar con más éxito en los grupos sociales complejos que forman los primates. Esto podría estar relacionado con el desarrollo del :doc:`lenguaje <CB402>`.
+
+   La última hipótesis es la más probable, aunque no son mutuamente excluyentes.
+
+   El por qué evolucionaron cerebros más grandes puede explicarse en su mayoría gracias a la *neotenia*, la prolongación de los períodos inmaduros de desarrollo. Que evolucione un cerebro más grande no requiere un cambio genético importante, sólo un cambio relativamente pequeño que haga que el cerebro continúe creciendo más tiempo [Gould_1977]_.
+
+Referencias
+===============
+
+.. [Gould_1977] Gould, Stephen Jay, 1977. The child as man's real father. En: *Ever Since Darwin*, New York: W. W. Norton, pp. 63-69.
+.. [Kaplan_et_al_2000] Kaplan, H., K. Hill, J. Lancaster and A. M. Hurtado, 2000. A theory of human life history evolution: diet, intelligence, and longevity. *Evolutionary Anthropology* 9: 156-185. http://www.soc.upenn.edu/courses/2003/spring/soc621_iliana/readings/kapl00d.pdf
+
+Otras lecturas
+==============
+
+Cosmides, Leda and John Tooby, 1997. Evolutionary psychology: A primer. http://www.psych.ucsb.edu/research/cep/primer.html
+
+/////
+
+Anterior: :doc:`CB400` | Siguiente: :doc:`CB401`
+
+/////
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
