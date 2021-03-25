@@ -2,7 +2,7 @@
 .. title: Lista completa de afirmaciones de los creacionistas (de TalkOrigins.org)
 .. category: Afirmaciones de los creacionistas
 .. tags: creacionismo
-.. date: 2019-01-12
+.. date: 2021-03-01
 .. author: Mark Isaak
 .. link: http://talkorigins.org/indexcc/list.html
 .. nocomments: True

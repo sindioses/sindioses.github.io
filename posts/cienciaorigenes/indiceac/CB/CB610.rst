@@ -36,7 +36,7 @@ Referencias
 
 /////
 
-Anterior: :strong:`CB601_4` | Siguiente: :doc:`CB620`
+Anterior: :doc:`CB601_4` | Siguiente: :doc:`CB620`
 
 /////
 

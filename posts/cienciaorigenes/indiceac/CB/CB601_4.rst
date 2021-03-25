@@ -1,0 +1,42 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CB601.4: Una tasa incrementada de recaptura sugiere fraude en los datos de Kettlewell
+.. description: Respuesta a la afirmación creacionista «Una tasa incrementada de recaptura sugiere fraude en los datos de Kettlewell»
+.. slug: CB601_4
+.. link: http://www.talkorigins.org/indexcc/CB/CB601_4.html
+.. tags: CB, CB600
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2004-1-28
+
+En uno de los estudios de las polillas moteadas de Bernard Kettlewell, su tasa de recaptura de polillas aumentó en gran medida a partir del 1 de julio. Esa fue la fecha en la que E. B. Ford le envió a Kettlewell una carta compadeciéndose de él por sus bajas tasas de recaptura. Esto sugiere que Kettlewell hizo trampa para aumentar su tasa de recaptura.
+
+Fuente
+======
+
+* Hooper, Judith, 2002. *Of Moths and Men: An Evolutionary Tale.* New York: W.W. Norton.
+
+Respuesta
+=========
+
+1. Kettlewell no hubiera recibido la carta de Ford antes de que el incremento en su tasa de recaptura ya hubiera empezado. La recolección del 1 de julio estaba completa por la mañana temprano. Dado que la carta de Ford hubiera llegado más tarde, no hubiera influido.
+2. Kettlewell recapturó más polillas luego del 1 de julio porque en ese momento estaba liberando más polillas. El número de polillas que recolectó no es significativamente de las recolecciones que serían de esperarse basándose en el número de polillas liberadas en los dos días anteriores [Young_2004]_. Probablemente liberó más polillas porque las polillas que estaba criando alcanzaron la adultez en ese momento.
+3. La mayor parte de la variación restante en la tasa de recaptura puede explicarse por la luz de la luna. Las bajas tasas de recaptura ocurrieron con luna llena, y para muchas especies de polillas, la luna llena reduce la cantidad capturada en trampas de luz.
+4. Las conclusiones de Kettlewell no sólo se basaron en su experimento de recaptura sino en otras tres investigaciones. Muchos otros experimentos de otros investigadores llegaron a las mismas conclusiones sobre polillas moteadas y de otros tipos [Grant_1999]_.
+
+Referencias
+===========
+
+.. [Grant_1999] Grant, Bruce S., 1999. Fine tuning the peppered moth paradigm. *Evolution* 53(3): 980-984. http://mason.gmu.edu/~jlawrey/biol471/melanism.pdf
+.. [Young_2004] Young, Matt, 2004. Moonshine: Why the peppered moth remains an icon of evolution. http://www.talkreason.org/articles/moonshine.cfm or http://www.talkdesign.org/faqs/moonshine.htm
+
+
+/////
+
+Anterior: :strong:`CB601_3` | Siguiente: :doc:`CB610`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc
