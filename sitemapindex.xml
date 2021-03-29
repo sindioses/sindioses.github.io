@@ -135,7 +135,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/apuesta.xml</loc>
-  <lastmod>2021-03-06T19:20:00Z</lastmod>
+  <lastmod>2021-03-29T00:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/argumentos.xml</loc>
@@ -179,7 +179,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/ateismo.xml</loc>
-  <lastmod>2021-02-28T01:51:00Z</lastmod>
+  <lastmod>2021-03-29T00:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/autismo.xml</loc>
@@ -355,7 +355,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cat_afirmaciones-de-los-creacionistas.xml</loc>
-  <lastmod>2021-03-25T17:49:00Z</lastmod>
+  <lastmod>2021-03-29T00:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cat_cartas-de-la-edad-media.xml</loc>
@@ -383,7 +383,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cat_la-lupa-heretica.xml</loc>
-  <lastmod>2021-03-06T19:20:00Z</lastmod>
+  <lastmod>2021-03-29T00:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cat_literatura-profana.xml</loc>
@@ -803,7 +803,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/creacionismo.xml</loc>
-  <lastmod>2021-03-25T17:49:00Z</lastmod>
+  <lastmod>2021-03-29T00:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/creencias.xml</loc>
@@ -947,7 +947,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/dioses.xml</loc>
-  <lastmod>2021-02-28T02:06:00Z</lastmod>
+  <lastmod>2021-03-29T00:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/discriminacion.xml</loc>
@@ -972,6 +972,10 @@
  <sitemap>
   <loc>http://sindioses.org/categories/doctrina.xml</loc>
   <lastmod>2021-02-27T15:44:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://sindioses.org/categories/doctrinas.xml</loc>
+  <lastmod>2021-03-29T00:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/dogma.xml</loc>
@@ -1722,6 +1726,10 @@
   <lastmod>2021-02-27T15:45:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://sindioses.org/categories/mentiras.xml</loc>
+  <lastmod>2021-03-29T00:33:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://sindioses.org/categories/mercadotecnia.xml</loc>
   <lastmod>2021-02-27T15:45:00Z</lastmod>
  </sitemap>
@@ -1943,7 +1951,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/pascal.xml</loc>
-  <lastmod>2021-03-06T19:20:00Z</lastmod>
+  <lastmod>2021-03-29T00:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/pastor-javier-soto.xml</loc>
@@ -2187,7 +2195,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/religion.xml</loc>
-  <lastmod>2021-03-12T02:50:00Z</lastmod>
+  <lastmod>2021-03-29T00:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/religiones.xml</loc>
@@ -2515,10 +2523,10 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/sindioses.xml</loc>
-  <lastmod>2021-03-25T17:49:00Z</lastmod>
+  <lastmod>2021-03-29T00:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/sitemap.xml</loc>
-  <lastmod>2021-03-25T17:50:00Z</lastmod>
+  <lastmod>2021-03-29T00:33:00Z</lastmod>
  </sitemap>
 </sitemapindex>
