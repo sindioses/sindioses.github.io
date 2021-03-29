@@ -1,0 +1,8 @@
+@echo off
+: =============================================
+: ==  Subir actualizaciones a SinDioses.org  ==
+: =============================================
+
+IFTP ftp://sindioses
+*copy /UF /G /E /S output\* ftp:
+IFTP /C
