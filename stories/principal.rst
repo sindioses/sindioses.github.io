@@ -101,11 +101,6 @@ __ examenreligiones/
    :template: post_list_noti_notag.tmpl
    :stop: 4
 
-.. post-list::
-   :categories: Noticias de la ciencia
-   :template: post_list_noti_notag.tmpl
-   :stop: 4
-
 .. class:: rubric
 
 `Literatura profana`__
@@ -151,6 +146,11 @@ __ genesis/genesis.html
 `Noticias de la ciencia`__
 
 __ noticias/
+
+.. post-list::
+   :categories: Noticias de la ciencia
+   :template: post_list_noti_notag.tmpl
+   :stop: 4
 
 .. class:: rubric
 
