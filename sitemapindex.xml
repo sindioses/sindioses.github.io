@@ -66,12 +66,20 @@
   <lastmod>2021-02-27T15:45:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://sindioses.org/categories/alex-malarkey.xml</loc>
+  <lastmod>2021-06-11T19:37:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://sindioses.org/categories/alex.xml</loc>
+  <lastmod>2021-06-11T19:37:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://sindioses.org/categories/aliens.xml</loc>
   <lastmod>2021-02-27T15:44:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/alma.xml</loc>
-  <lastmod>2021-02-27T15:44:00Z</lastmod>
+  <lastmod>2021-06-11T19:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/alucinaciones.xml</loc>
@@ -355,7 +363,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cat_afirmaciones-de-los-creacionistas.xml</loc>
-  <lastmod>2021-05-29T20:02:00Z</lastmod>
+  <lastmod>2021-06-11T19:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cat_cartas-de-la-edad-media.xml</loc>
@@ -383,7 +391,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cat_la-lupa-heretica.xml</loc>
-  <lastmod>2021-03-29T00:33:00Z</lastmod>
+  <lastmod>2021-06-11T19:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/cat_literatura-profana.xml</loc>
@@ -730,6 +738,14 @@
   <lastmod>2021-02-27T15:44:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://sindioses.org/categories/colton-burpo.xml</loc>
+  <lastmod>2021-06-11T19:37:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>http://sindioses.org/categories/colton.xml</loc>
+  <lastmod>2021-06-11T19:37:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://sindioses.org/categories/committee-for-skeptical-inquiry.xml</loc>
   <lastmod>2021-02-27T15:43:00Z</lastmod>
  </sitemap>
@@ -803,7 +819,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/creacionismo.xml</loc>
-  <lastmod>2021-05-29T20:03:00Z</lastmod>
+  <lastmod>2021-06-11T19:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/creencias.xml</loc>
@@ -943,7 +959,7 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/dios.xml</loc>
-  <lastmod>2021-02-28T02:06:00Z</lastmod>
+  <lastmod>2021-06-11T19:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/categories/dioses.xml</loc>
@@ -1894,6 +1910,10 @@
   <lastmod>2021-02-27T15:43:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>http://sindioses.org/categories/oliver-sacks.xml</loc>
+  <lastmod>2021-06-11T19:37:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>http://sindioses.org/categories/oncologia.xml</loc>
   <lastmod>2021-02-27T15:44:00Z</lastmod>
  </sitemap>
@@ -2523,10 +2543,10 @@
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/sindioses.xml</loc>
-  <lastmod>2021-05-29T20:02:00Z</lastmod>
+  <lastmod>2021-06-11T19:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>http://sindioses.org/sitemap.xml</loc>
-  <lastmod>2021-05-29T20:04:00Z</lastmod>
+  <lastmod>2021-06-11T19:38:00Z</lastmod>
  </sitemap>
 </sitemapindex>
