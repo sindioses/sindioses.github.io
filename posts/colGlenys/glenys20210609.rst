@@ -4,14 +4,14 @@
 .. author: Glenys Álvarez
 .. date: 2021-06-09 22:12-0300
 .. hyphenate: True
-.. previewimage: /quienesGlenys2.jpg
+.. previewimage: /fotos/GlenysAlvarez_FB.jpg
 
-  .. epigraph::
+.. epigraph::
 
-     **"La mayor dignidad que se puede encontrar en la muerte es la dignidad
-     de la vida que la precedió".**
+   **"La mayor dignidad que se puede encontrar en la muerte es la dignidad
+   de la vida que la precedió".**
 
-     —\ **Sherwin Nuland, cirujano y bioético**
+   —\ **Sherwin Nuland, cirujano y bioético**
 
 .. class:: primera
 
