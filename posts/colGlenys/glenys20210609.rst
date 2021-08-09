@@ -267,7 +267,7 @@ pequeños.
 
 /////
 
- © 2021 Glenys Álvarez
+© 2021 Glenys Álvarez
 
 .. |ghost| image:: glenys20210609_ghost.jpg
    :class: align-right
