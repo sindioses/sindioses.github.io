@@ -22,6 +22,7 @@
 * :doc:`quienessomos`
 * :doc:`antesdeescribir`
 * :doc:`faq`
+* :doc:`reglas`
 * `Libros recomendados </libros/>`_
 
 .. class:: rubric
