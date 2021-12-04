@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://sindioses.org/</loc>
-  <lastmod>2021-02-28T13:25:00Z</lastmod>
+  <lastmod>2021-12-04T17:06:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/2000/</loc>
@@ -723,7 +723,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_afirmaciones-de-los-creacionistas.html</loc>
-  <lastmod>2021-08-09T22:37:00Z</lastmod>
+  <lastmod>2021-12-04T17:23:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_cartas-de-la-edad-media.html</loc>
@@ -1183,7 +1183,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/creacionismo.html</loc>
-  <lastmod>2021-08-09T22:37:00Z</lastmod>
+  <lastmod>2021-12-04T17:23:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/creencias.html</loc>
@@ -4467,7 +4467,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/cienciaorigenes/indiceac/lista.html</loc>
-  <lastmod>2021-08-09T22:37:00Z</lastmod>
+  <lastmod>2021-12-04T17:23:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/cienciaorigenes/intdesign.html</loc>
@@ -7255,7 +7255,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/principal.html</loc>
-  <lastmod>2021-08-09T22:37:00Z</lastmod>
+  <lastmod>2021-12-04T17:23:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/quienessomos.html</loc>
@@ -8352,6 +8352,10 @@
  <url>
   <loc>http://sindioses.org/redifusion.html</loc>
   <lastmod>2021-06-11T20:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://sindioses.org/reglas.html</loc>
+  <lastmod>2021-12-04T17:23:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/simpleateismo/</loc>
