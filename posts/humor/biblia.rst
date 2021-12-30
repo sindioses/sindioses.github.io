@@ -57,7 +57,7 @@ Los filisteos se llevan el Arca de la Alianza, pero no les funciona, así que la
 2 Samuel
 ========
 
-David mata a un montón de gente, lo que es buenísimo, pero después se acuesta con una mujer casada, y ¡cómo se enojó Dios por eso! Lo positivo es que tuvieron un hijo llamado Salomón.
+David mata a un montón de gente, lo que es buenísimo, pero después se acuesta con una mujer casada, y ¡cómo se enoja Dios por eso! Lo positivo es que tienen un hijo llamado Salomón.
 
 1 Reyes
 =======
@@ -82,7 +82,7 @@ El reino del norte la caga y lo conquistan, así que concentrémonos en el reino
 Esdras
 ======
 
-Los israelitas pasan 20 años construyendo un templo, y después celebran comiendo galletas. Más tarde, deciden que algunas de sus esposas e hijos son un poco demasiado paganos, así que los echan y empiezan a buscar algunas agradables chicas judías.
+Los israelitas pasan 20 años construyendo un templo, y después celebran comiendo galletas. Más tarde, deciden que algunos de sus esposas e hijos son un poco demasiado paganos, así que los echan y empiezan a buscar algunas agradables chicas judías.
 
 Nehemías
 ========
@@ -303,7 +303,7 @@ Filipenses
 
 Queridos filipenses:
 
-Gracias por seguir apoyándome. Sólo espero que ustedes también tengan la fortuna que yo tuve de sufrir tanta tortura como yo, al servicio del Señor.
+Gracias por seguir apoyándome. Sólo espero que ustedes también tengan la fortuna que yo tuve de sufrir tanta tortura al servicio del Señor.
 
 | Cristianamente,
 | Pablo
@@ -337,7 +337,7 @@ Teniendo esto presente, a cualquiera que esté de luto se lo considerará falto 
 
 Queridos tesalonicenses:
 
-Ya sé, todos estamos esperando que Jesús vuelva pronto. Pero el hecho es que todavía ni siquiera vimos al anticristo, así que quédense tranquilos, **¿estamos?**
+Ya sé, todos estamos esperando que Jesús vuelva pronto. Pero el hecho es que todavía ni siquiera vimos al anticristo, así que esperen tranquilos, **¿estamos?**
 
 | Muy sinceramente,
 | Pablo
