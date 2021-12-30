@@ -3,14 +3,10 @@
 .. tags: quiénes somos, Marcelo, Glenys, Ferney
 .. slug:
 .. date: 2001-01-01 00:00:00
-.. description: «Este sitio lo llevamos varias personas. Entérese de quiénes somos.»
+.. description: «Este sitio lo llevamos adelante varias personas. Entérese de quiénes somos.»
 .. author: Sin Dioses
 .. title: Quiénes somos
 .. template: story.tmpl
-
-.. contents:: **Henos aquí:**
-   :class: sidebar
-   :local:
 
 Glenys Álvarez
 ..............
@@ -19,7 +15,7 @@ Glenys Álvarez
    :alt: Glenys Álvarez
    :align: left
 
-Soy dominicana. Estudié psicología clínica en el Instituto Tecnológico de Santo Domingo (INTEC). Más tarde obtuve una licenciatura en Literatura Inglesa en la Universidad de Fordham en Manhattan, Nueva York. Y desde hace más de una década he ejercido el periodismo científico en mi país.
+{{% band dom 100 %}} Soy dominicana. Estudié psicología clínica en el Instituto Tecnológico de Santo Domingo (INTEC). Más tarde obtuve una licenciatura en Literatura Inglesa en la Universidad de Fordham en Manhattan, Nueva York. Y desde hace más de una década he ejercido el periodismo científico en mi país.
 
 Fui criada católica, en un país católico dentro de una familia, exacto, católica. Por suerte, mis padres hoy ya no son religiosos, ni yo tampoco. En mi experiencia, la curiosidad, la lectura, las ganas de pensar y de conocer los mecanismos que conforman el Universo, son ingredientes que pueden llevar a cualquier cerebro al ateísmo, sin embargo, durante años he visto, como es usual entre humanos, todo tipo de creyentes y de ateos.
 
@@ -35,14 +31,7 @@ Marcelo Huerta San Martín
    :alt: Marcelo Huerta San Martín
    :align: left
 
-.. # raw:: html
-
-   <script src="http://badge.facebook.com/badge/1360893551.280.1742328115.js"></script>
-   <noscript>
-   <a href="http://www.facebook.com/people/Marcelo-Huerta-San-Martin/1360893551">Perfil de Facebook de Marcelo Huerta San Martín</a>
-   </noscript>
-
-Soy argentino, nacido en José C. Paz, provincia de Buenos Aires, en enero de 1970. Durante mucho tiempo viví en la ciudad de San Miguel, sede de cuanta reunión de la jerarquía católica argentina revista alguna importancia; hoy soy un capitalino transplantado en la Ciudad Autónoma de Buenos Aires.
+{{% band arg 100 %}} Soy argentino, nacido en José C. Paz, provincia de Buenos Aires, en enero de 1970. Durante mucho tiempo viví en la ciudad de San Miguel, sede de cuanta reunión de la jerarquía católica argentina revista alguna importancia; hoy soy un capitalino transplantado en la Ciudad Autónoma de Buenos Aires.
 
 Dudo mucho que los astros hayan tenido algo que ver en que naciese en una familia de creencias religiosas muy leves; contra mi voluntad, fui bautizado, pero no siguió a ése ningún otro rito católico. En mi infancia me vi rodeado de creencias extrañas según fueran llegando al hogar paterno o al menos a las publicaciones de supermercado que allí pululaban: recibí y acepté confiadamente el poder de las pirámides, el espiritismo y los relatos más chapuceros sobre OVNIs, y yo me los creía todos. Eso sí, de la religión dudaba: aunque una abuela rezadora (más por temor que por devoción, creo) pretendiera enseñarme padrenuestros, mi abuelo, no muy instruido aunque inteligente, me instaba a no creer en otra cosa que en las fuerzas de la naturaleza.
 
@@ -58,7 +47,7 @@ Ferney Yesyd Rodríguez
    :alt: Ferney Yesyd Rodríguez
    :align: left
 
-Soy colombiano, nací en Bogotá en 1979. Soy licenciado en biología y en el momento trabajo en docente de biología con jóvenes de educación básica y media. En cuanto a mi ideología debo confesar que no siempre fui racionalista, de hecho fui criado en un hogar que era miembro de la Iglesia Adventista del Séptimo Día y a los 16 años creía que no sería mala idea ser ministro protestante.
+{{% band col 100 %}} Soy colombiano, nací en Bogotá en 1979. Soy licenciado en biología y en el momento trabajo en docente de biología con jóvenes de educación básica y media. En cuanto a mi ideología debo confesar que no siempre fui racionalista, de hecho fui criado en un hogar que era miembro de la Iglesia Adventista del Séptimo Día y a los 16 años creía que no sería mala idea ser ministro protestante.
 
 Llegué al ateísmo de una manera que jamás imaginé. Cuando llevaba el segundo año de universidad decidí revisar concienzudamente las bases teóricas de la evolución biológica, lo hice no pensando en volverme evolucionista, por el contrario quería encontrar defectos en lo que creía una ideología del diablo para apartarnos del creador.
 

@@ -163,7 +163,5 @@ __ randi/
 
 * :doc:`Comuníquese con nosotros <antesdeescribir>` y si cree que puede parecernos interesante, envíenos su texto. (Lamentamos no poder acusar recibo de todo lo que recibimos, es materialmente imposible para nosotros.)
 
-.. <meta name="google-site-verification" content="H-iPswyekGjsVli-A-F7yjJ5CxUpno6BgX227jmH4XA" />
-
 .. meta::
   :google-site-verification: H-iPswyekGjsVli-A-F7yjJ5CxUpno6BgX227jmH4XA
