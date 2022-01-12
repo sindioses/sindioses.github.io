@@ -33,7 +33,7 @@ Referencias
 
 /////
 
-Anterior: :strong:`CB601_3` | Siguiente: :doc:`CB610`
+Anterior: :doc:`CB601_3` | Siguiente: :doc:`CB610`
 
 /////
 

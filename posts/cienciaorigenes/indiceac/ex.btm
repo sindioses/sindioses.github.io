@@ -1,6 +1,6 @@
 @echo off
-::: PLugins required: HTAGS
 *setlocal
+chcp 65001 > nul
 set cant=%@execstr[sqlite3 pendientes.db "select count(*) from paginas where code = upper('%1')"]
 iff %cant GT 0 then
     sqlite3 pendientes.db << SQL > ex.html
@@ -11,7 +11,7 @@ SQL
 select code, desc from paginas where code = upper('%1');
 SQL
 else
-  set msg=%@upper['%1'] no se encontró
+  set msg=%@upper['%1'] no se encontrÃ³
   color bri yel on bla
   echo %msg
   color whi on bla

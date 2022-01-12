@@ -1,0 +1,51 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CB601.3: La mutagénesis directa es una explicación mejor para la variación de las polillas moteadas
+.. description: Respuesta a la afirmación creacionista «La mutagénesis directa es una explicación mejor para la variación de las polillas moteadas»
+.. slug: CB601_3
+.. link: http://www.talkorigins.org/indexcc/CB/CB601_3.html
+.. tags: CB, CB600
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2001-02-17
+
+Las diferencias en la frecuencia de las distintas variedades de color de las polillas moteadas
+se explican mejor con los efectos directos de los contaminantes mutagénicos, ya que la
+explicación habitual de la depredación diferencial por parte de las aves carece de base.
+
+Fuente
+======
+
+Wells, Jonathan, 1999. Second thoughts on peppered moths.
+http://www.arn.org/docs/wells/jw_pepmoth.htm o
+http://www.trueorigin.org/pepmoth1.asp
+
+Respuesta
+=========
+
+1. La explicación de la depredación diferencial por parte de aves afectando las frecuencias de variedad de color no carece de base. Por el contrario, la historia básica tiene abrumador respaldo ([Grant_1999]_, [Majerus_1999]_). Wells y otros simplemente ignoran el grueso de la investigación y eligen los pocos disidentes y los desacuerdos sobre detalles menores.
+2. Explicar el fenómeno en términos del efecto directo de contaminantes no funciona. Los experimentos tempranos (de Helsop Harrison) que afirmaban mostrar un efecto de este tipo carecían de controles apropiados, no pu dieron replicarse, y reportaban niveles de mutagénesis que eran más que suficiente para producir completa esterilidad ([Majerus_1999]_).
+
+Referencias
+===========
+
+
+.. [Grant_1999] Grant, Bruce S., 1999. Fine tuning the peppered moth paradigm. *Evolution* 53(3): 980-984. http://mason.gmu.edu/~jlawrey/biol471/melanism.pdf
+
+.. [Majerus_1999] Majerus, M. E. N. 1999. (carta). Citada por Frack, Don. 1999. Peppered moths, round 2, part 2. http://www.calvin.edu/archive/evolution/199904/0103.html
+
+Otras lecturas
+==============
+
+Majerus, Michael E. N., 1998. *Melanism: Evolution in Action*, Oxford University Press.
+
+
+/////
+
+Anterior: :doc:`CB601_2_5` | Siguiente: :doc:`CB601_4`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

@@ -1,0 +1,48 @@
+.. category: Afirmaciones de los creacionistas
+.. type: afirmacrea
+.. nocomments: True
+.. title: CB601.2.5: Las polillas claras aumentaron antes de que se aclararan los árboles
+.. description: Respuesta a la afirmación creacionista «Las polillas claras aumentaron antes de que se aclararan los árboles»
+.. slug: CB601_2_5
+.. link: http://www.talkorigins.org/indexcc/CB/CB601_2_5.html
+.. tags: CB, CB600
+.. author: Mark Isaak, traducción de Marcelo Huerta San Martín
+.. date: 2003-11-30
+
+El aumento en la proporción de polillas claras en muchas ubicaciones precedió a los cambios significativos en el color de los troncos de los árboles. Esto genera preguntas sobre la exactitud de la teoría clásica de que los cambios en la población de las polillas moteadas se produjeron por selección natural resultante de la depredación por parte de los pájaros.
+
+Fuente
+======
+
+Discovery Institute, 2003. A preliminary analysis of the treatment of evolution in biology textbooks currently being considered for adoption by the Texas State Board of Education. http://www.discovery.org/articleFiles/PDFs/TexasPrelim.pdf, p. 11
+
+Respuesta
+=========
+
+1. No he podido encontrar ni un ápice de evidencia en la literatura científica primaria que apoye esta afirmación. Es una versión más fuerte de la afirmación de que las polillas moteadas claras aumentaron antes que los líquenes (:strong:`<CB601_2_4>`), para la cual el peso de la evidencia ya no resulta convincente (véase la respuesta a dicha afirmación).
+
+   Aunque la fuente cita 12 referencias, no indica cuál de ellas, si es que alguna, ha proporcionado evidencias para la afirmación. Ciertamente en las primeras tres no se proporciona ninguna; en ellas ([Coyne_1998]_, [Sargent_et_al_1998]_, [Wells_1999]_) simplemente se repite la afirmación más débil, CB601.2.4.
+
+
+Referencias
+===========
+
+.. [Coyne_1998]    Coyne, Jerry A., 1998. Not black and white (A review of Melanism: Evolution in Action by Michael E.N. Majeris). *Nature* 396: 35-36.
+.. [Sargent_et_al_1998]    Sargent, Theodore D., Craig D. Millar and David M. Lambert, 1998. The "classical" explanation of industrial melanism--Assessing the evidence. *Evol. Biol.* 30: 299-322.
+.. [Wells_1999]    Wells, Jonathan, 1999. Second thoughts about peppered moths. *The Scientist*, 13(11): 13.
+
+Otras lecturas
+==============
+
+Grant, Bruce S., 1999. Fine tuning the peppered moth paradigm. *Evolution* 53(3): 980-984. http://www.wm.edu/biology/melanism.pdf
+
+
+/////
+
+Anterior: :strong:`CB601_2_4` | Siguiente: :doc:`CB601_3`
+
+/////
+
+
+.. include:: includes/talkorigins.inc
+.. include:: includes/ciori_pie_ac.inc

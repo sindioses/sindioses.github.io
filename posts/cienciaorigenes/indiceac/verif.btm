@@ -1,15 +1,9 @@
 @echo off
-REM :::mode=batch:encoding=CP1252:
-REM :: color bri yel on bla
-REM :: echo Pendientes de enlazar en artículos:
-REM :: echo ===================================
-REM :: color whi on bla
-REM :: sfk find -pat :strong: -dir . -file .txt
-REM :: echo.
 *setlocal
+chcp 65001 > nul
 call ba:getopt.btm %*
 color bri yel on bla
-echo Errores surgidos en la generación:
+echo Errores surgidos en la generaciÃ³n:
 echo ==================================
 color whi on bla
 set param=%@if[defined OPTION_V,-v,]
