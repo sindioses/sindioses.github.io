@@ -5,6 +5,7 @@
 .. author: Sin Dioses
 .. title: Reglas de participación
 .. template: story.tmpl
+.. nocomments: True
 
 .. class:: primera
 
@@ -25,7 +26,7 @@ tenemos la obligación de darle espacio a los creyentes para que difundan su
 fe; disponen de innumerables otros foros para ello.** Si un creyente viene a
 citar su libro "sagrado", a hablar de su dios como si su existencia hubiera
 sido probada, a pedir que le probemos nosotros la inexistencia universal de
-su dios(cuando son los creyentes quienes afirman y por lo tanto quienes
+su dios (cuando son los creyentes quienes afirman y por lo tanto quienes
 tienen que probar), a amenazarnos con sus castigos divinos o a tomarnos
 examen de ciencia, racionalidad o comprensión de sus textos, son acreedores a
 un bloqueo inmediato del acceso a su participación. Depende de las ganas y la
@@ -102,7 +103,8 @@ erróneamente la política de administración del grupo, puede ser bloqueado.
 
 Esto incluye pero no se limita a perseguir a ciertos miembros, enviarles
 mensajes privados, acosarlos en publicaciones o designarlos como blanco de
-ataque o ridículo. No sólo lo denunciaremos a Facebook por esto sino que
+ataque o ridículo. Si esto ocurre en la página de Facebook, no sólo lo
+denunciaremos a los moderadores del sitio por sus acciones, sino que
 cooperaremos plenamente con cualquier proceso legal que se derive de ello.
 
 6. No se admite *spam*
@@ -113,10 +115,10 @@ cooperaremos plenamente con cualquier proceso legal que se derive de ello.
 No nos molesta que los miembros publiquen enlaces o videos que puedan ser de
 interés para otros ateos, sin embargo si se están publicando enlaces que son
 evidentemente enlaces, imágenes o videos de publicidad no solicitada, serán
-retirados, y la reincidencia puede provocar el bloqueo de la página. Si se
-inicia un hilo, por favor, responda a las preguntas subsiguientes en el mismo
-hilo, no inicie hilos nuevos para responder preguntas dado que esto confunde
-a los miembros y abarrota el espacio del muro.
+retirados, y la reincidencia puede provocar el bloqueo de su participación.
+Si se inicia un hilo, por favor, responda a las preguntas subsiguientes en el
+mismo hilo, no inicie hilos nuevos para responder preguntas dado que esto
+confunde a los miembros y abarrota el espacio de comentarios.
 
 
 Nótese que aunque los enlaces sean relevantes para la temática de la página
@@ -140,7 +142,7 @@ incluya sólo a los mismos en la lista de visibilidad para esa publicación.)
 La persistencia en esta conducta luego de una advertencia de un administrador
 podrá llevar al bloqueo del usuario reincidente.
 
-7: Idioma
+7. Idioma
 ===========
 
 El idioma de nuestros espacios es el castellano. Agradeceremos que los
@@ -157,12 +159,12 @@ correctamente, no escriba; espere a llegar a un lugar con un teclado de
 tamaño normal o tómese el trabajo de escribir palabras completas.
 
 Escribir todo el texto en mayúsculas se considera GRITAR. Esto es incómodo de
-leer y viola las reglas de etiqueta en redes sociales. Además, Facebook
-oculta automáticamente los mensajes que se componen exclusivamente de
-mayúsculas. Por todo esto le pedimos que procure escribir utilizando
-correctamente mayúsculas y minúsculas.
+leer y viola las reglas de etiqueta en redes sociales. Además, en particular
+en el caso de Facebook, el sitio oculta automáticamente los mensajes que se
+componen exclusivamente de mayúsculas. Por todo esto le pedimos que procure
+escribir utilizando correctamente mayúsculas y minúsculas.
 
-8: Malas palabras / Improperios
+8. Malas palabras e improperios
 ===============================
 
 Como regla general, no tenemos problema con este uso del lenguaje; sin
@@ -170,7 +172,7 @@ embargo, si el mismo es dirigido a otro usuario, o constituye un ataque
 personal, pueden aplicarse las medidas indicadas en el punto #3.
 
 
-9: No se admiten intentos de socavar la moderación de nuestros espacios
+9. No se admiten intentos de socavar la moderación de nuestros espacios
 =======================================================================
 
 Se actuará severamente sobre lo que consideremos contrario al funcionamiento
@@ -184,7 +186,7 @@ creyentes" se considerará insulto grave y producirá el bloqueo automático y
 sin advertencia previa.**
 
 
-10: Comentarios y sugerencias
+10. Comentarios y sugerencias
 =============================
 
 La temática de nuestros espacios está basada directamente en el contenido del
@@ -212,7 +214,7 @@ otro lector en nuestros espacios es contraproducente.
 Asimismo agradeceríamos que las críticas sean tan constructivas como sea
 posible.
 
-11: Limite la publicación de enlaces a sus páginas, videos o blogs
+11. Limite la publicación de enlaces a sus páginas, videos o blogs
 ==================================================================
 
 Damos la bienvenida a sus aportes en la página de Facebook. Los enlaces a sus
