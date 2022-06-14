@@ -110,7 +110,7 @@ cooperaremos plenamente con cualquier proceso legal que se derive de ello.
 6. No se admite *spam*
 ======================
 
-(Vea `la definición de spam <https://es.wikipedia.org/wiki/Spam>`_)
+(Vea `la definición de spam <https://es.wikipedia.org/wiki/Correo_basura>`_)
 
 No nos molesta que los miembros publiquen enlaces o videos que puedan ser de
 interés para otros ateos, sin embargo si se están publicando enlaces que son
