@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sin Dioses (Publicaciones sobre CC100)</title><link>http://sindioses.org/</link><description></description><atom:link href="http://sindioses.org/categories/cc100.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2001-&lt;script&gt;var hoy=new Date(); document.write(hoy.getFullYear())&lt;/script&gt;&lt;noscript&gt;2100&lt;/noscript&gt; &lt;a href="mailto:pensamiento@sindioses.org"&gt;Sin Dioses&lt;/a&gt; Se permite la reproducción del contenido para fines educacionales y/o científicos siempre y cuando se mencione claramente nuestro sitio web, así como el nombre del autor de cada artículo. Se prohibe su reproducción con fines comerciales.</copyright><lastBuildDate>Wed, 29 Dec 2021 17:56:33 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>CC101: Se encontraron huellas humanas junto a huellas de dinosaurios en Paluxy</title><link>http://sindioses.org/cienciaorigenes/indiceac/CC/CC101.html</link><dc:creator>Mark Isaak, traducción de Marcelo Huerta San Martín</dc:creator><description>&lt;p&gt;Se encontraron juntas huellas humanas y de dinosaurio en rocas cretácicas del lecho del río Paluxy cerca de Glen Rose, Texas.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sin Dioses (Publicaciones sobre CC100)</title><link>http://sindioses.org/</link><description></description><atom:link href="http://sindioses.org/categories/cc100.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2001-&lt;script&gt;var hoy=new Date(); document.write(hoy.getFullYear())&lt;/script&gt;&lt;noscript&gt;2100&lt;/noscript&gt; &lt;a href="mailto:pensamiento@sindioses.org"&gt;Sin Dioses&lt;/a&gt; Se permite la reproducción del contenido para fines educacionales y/o científicos siempre y cuando se mencione claramente nuestro sitio web, así como el nombre del autor de cada artículo. Se prohibe su reproducción con fines comerciales.</copyright><lastBuildDate>Sun, 13 Nov 2022 02:55:50 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>CC101: Se encontraron huellas humanas junto a huellas de dinosaurios en Paluxy</title><link>http://sindioses.org/cienciaorigenes/indiceac/CC/CC101.html</link><dc:creator>Mark Isaak, traducción de Marcelo Huerta San Martín</dc:creator><description>&lt;p&gt;Se encontraron juntas huellas humanas y de dinosaurio en rocas cretácicas del lecho del río Paluxy cerca de Glen Rose, Texas.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Fuente:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Morris, Henry M., 1974. &lt;em&gt;Scientific Creationism&lt;/em&gt;, Green Forest, AR: Master Books, p. 122.&lt;/p&gt;
 &lt;section id="respuesta"&gt;
@@ -159,21 +159,22 @@
 &lt;section id="respuesta"&gt;
 &lt;h2&gt;Respuesta&lt;/h2&gt;
 &lt;ol class="arabic simple"&gt;
-&lt;li&gt;&lt;p&gt;Los huesos se encontraron a cinco metros de profundidad en la arena, no en una matriz rocosa. Sus posturas eran similares a entierros indios conocidos. Los huesos no estaban fosilizados y estaban parcialmente descompuestos, y su datación arrojó una edad de 210 ± 70 años. En resumen, era un entierro bastante reciente (&lt;a class="citation-reference" href="http://sindioses.org/cienciaorigenes/indiceac/CC/CC110.html#kuban-1998" id="id1"&gt;[Kuban_1998]&lt;/a&gt;).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Los huesos se encontraron a cinco metros de profundidad en la arena, no en una matriz rocosa. Sus posturas eran similares a entierros indios conocidos. Los huesos no estaban fosilizados y estaban parcialmente descompuestos, y su datación arrojó una edad de 210 ± 70 años. En resumen, era un entierro bastante reciente (&lt;a class="citation-reference" href="http://sindioses.org/cienciaorigenes/indiceac/CC/CC110.html#kuban-1998" id="citation-reference-1" role="doc-biblioref"&gt;[Kuban_1998]&lt;/a&gt;).&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
 &lt;section id="referencias"&gt;
 &lt;h2&gt;Referencias&lt;/h2&gt;
-&lt;dl class="citation"&gt;
-&lt;dt class="label" id="kuban-1998"&gt;&lt;span class="brackets"&gt;&lt;a class="fn-backref" href="http://sindioses.org/cienciaorigenes/indiceac/CC/CC110.html#id1"&gt;Kuban_1998&lt;/a&gt;&lt;/span&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;p&gt;Kuban, Glen J. 1998. The life and death of Malachite Man. &lt;a class="reference external" href="http://members.aol.com/gkuban/moab.htm"&gt;http://members.aol.com/gkuban/moab.htm&lt;/a&gt;&lt;/p&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
+&lt;div role="list" class="citation-list"&gt;
+&lt;div class="citation" id="kuban-1998" role="doc-biblioentry"&gt;
+&lt;span class="label"&gt;&lt;span class="fn-bracket"&gt;[&lt;/span&gt;&lt;a role="doc-backlink" href="http://sindioses.org/cienciaorigenes/indiceac/CC/CC110.html#citation-reference-1"&gt;Kuban_1998&lt;/a&gt;&lt;span class="fn-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;
+&lt;p&gt;Kuban, Glen J. 1998. The life and death of Malachite Man. &lt;a class="reference external" href="http://members.aol.com/gkuban/moab.htm"&gt;http://members.aol.com/gkuban/moab.htm&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;!-- This data file has been placed in the public domain. --&gt;
 &lt;!-- Derived from the Unicode character mappings available from
 &lt;http://www.w3.org/2003/entities/xml/&gt;.
 Processed by unicode2rstsubs.py, part of Docutils:
-&lt;http://docutils.sourceforge.net&gt;. --&gt;
+&lt;https://docutils.sourceforge.io&gt;. --&gt;
 &lt;hr class="docutils"&gt;
 &lt;p&gt;Anterior: &lt;a class="reference external" href="http://sindioses.org/cienciaorigenes/indiceac/CC/CC102.html"&gt;CC102: Se encontraron huellas de sandalias asociadas con trilobites&lt;/a&gt; | Siguiente: &lt;a class="reference external" href="http://sindioses.org/cienciaorigenes/indiceac/CC/CC111.html"&gt;CC111: El hombre de Malaquita fue hallado en arenisca cretácica&lt;/a&gt;&lt;/p&gt;
 &lt;hr class="docutils"&gt;
