@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sin Dioses (Publicaciones sobre neurociencias)</title><link>http://sindioses.github.io/</link><description></description><atom:link href="http://sindioses.github.io/categories/neurociencias.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2001-&lt;script&gt;var hoy=new Date(); document.write(hoy.getFullYear())&lt;/script&gt;&lt;noscript&gt;2100&lt;/noscript&gt; &lt;a href="mailto:richieadler+pensamiento@gmail.org"&gt;Sin Dioses&lt;/a&gt; Se permite la reproducción del contenido para fines educacionales y/o científicos siempre y cuando se mencione claramente nuestro sitio web, así como el nombre del autor de cada artículo. Se prohibe su reproducción con fines comerciales.</copyright><lastBuildDate>Sat, 06 May 2023 00:31:49 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Dos proteínas son relacionadas con el dolor</title><link>http://sindioses.github.io/noticias/erradicar_dolor.html</link><dc:creator>Glenys Álvarez</dc:creator><description>&lt;figure&gt;&lt;img src="http://sindioses.github.io/noticias/erradicar_dolor.jpg"&gt;&lt;/figure&gt; &lt;blockquote&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sin Dioses (Publicaciones sobre neurociencias)</title><link>http://sindioses.org/</link><description></description><atom:link href="http://sindioses.org/categories/neurociencias.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2001-&lt;script&gt;var hoy=new Date(); document.write(hoy.getFullYear())&lt;/script&gt;&lt;noscript&gt;2100&lt;/noscript&gt; &lt;a href="mailto:pensamiento@sindioses.org"&gt;Sin Dioses&lt;/a&gt; Se permite la reproducción del contenido para fines educacionales y/o científicos siempre y cuando se mencione claramente nuestro sitio web, así como el nombre del autor de cada artículo. Se prohibe su reproducción con fines comerciales.</copyright><lastBuildDate>Thu, 22 Jun 2023 22:33:37 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Dos proteínas son relacionadas con el dolor</title><link>http://sindioses.org/noticias/erradicar_dolor.html</link><dc:creator>Glenys Álvarez</dc:creator><description>&lt;figure&gt;&lt;img src="http://sindioses.org/noticias/erradicar_dolor.jpg"&gt;&lt;/figure&gt; &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Neurociencias.&lt;/strong&gt; Investigadores de la Universidad de Leeds han descubierto dos proteínas que pueden estar vinculadas al proceso de inflamación.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p class="primera"&gt;Una única acción deseamos tomar cuando algo nos duele: erradicarlo. De hecho, muchas personas le temen más a una vida llena de dolor que a la muerte misma y legislaciones en los hospitales y las cortes del mundo se mueven en ese todavía, a medio conocer, mundo del padecimiento; sin embargo, el origen de las señales que producen dolor es poco entendido. Se conoce que el dolor se produce por señales neuronales que son enviadas al sistema nervioso central y luego al cerebro.&lt;/p&gt;
@@ -23,11 +23,11 @@
 &lt;hr class="docutils"&gt;
 &lt;div class="nocalibre docutils container"&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;&lt;p&gt;Volver a &lt;a class="reference external" href="http://sindioses.github.io/noticias/index.html"&gt;Noticias&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://sindioses.github.io/principal.html"&gt;Menú principal&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Volver a &lt;a class="reference external" href="http://sindioses.org/noticias/index.html"&gt;Noticias&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://sindioses.org/principal.html"&gt;Menú principal&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;/section&gt;</description><category>neurociencias</category><guid>http://sindioses.github.io/noticias/erradicar_dolor.html</guid><pubDate>Sun, 28 Mar 2010 03:00:00 GMT</pubDate></item><item><title>Cómo controla el cerebro el gasto energético</title><link>http://sindioses.github.io/noticias/energia.html</link><dc:creator>Glenys Álvarez</dc:creator><description>&lt;blockquote&gt;
+&lt;/section&gt;</description><category>neurociencias</category><guid>http://sindioses.org/noticias/erradicar_dolor.html</guid><pubDate>Sun, 28 Mar 2010 03:00:00 GMT</pubDate></item><item><title>Cómo controla el cerebro el gasto energético</title><link>http://sindioses.org/noticias/energia.html</link><dc:creator>Glenys Álvarez</dc:creator><description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Neurociencias&lt;/strong&gt;. Matemáticos y neurocientíficos han elaborado un complejo modelo matemático que predice y confirma la forma en que el cerebro realiza demandas de sus neuronas y planea los movimientos con estrategias que alcancen el máximo en el ahorro.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p class="primera"&gt;La naturaleza aborrece el despilfarro de energía. De hecho, millones y millones de años de evolución han dado como resultado conexiones neuronales predispuestas al ahorro de gastos y un cerebro que ha organizado su trabajo de forma efectiva y con la meta final de guardar tanta energía como sea necesaria. No debemos olvidar que durante millones de años, los homínidos no sabían cuándo obtendrían el próximo alimento, todo esto cambió con la llegada de los asentamientos agricultores, pero antes, lo principal era ahorrar para los momentos secos en el futuro.&lt;/p&gt;
@@ -45,11 +45,11 @@
 &lt;hr class="docutils"&gt;
 &lt;div class="nocalibre docutils container"&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;&lt;p&gt;Volver a &lt;a class="reference external" href="http://sindioses.github.io/noticias/index.html"&gt;Noticias&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://sindioses.github.io/principal.html"&gt;Menú principal&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Volver a &lt;a class="reference external" href="http://sindioses.org/noticias/index.html"&gt;Noticias&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://sindioses.org/principal.html"&gt;Menú principal&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;/section&gt;</description><category>neurociencias</category><guid>http://sindioses.github.io/noticias/energia.html</guid><pubDate>Sat, 06 Dec 2008 02:00:00 GMT</pubDate></item><item><title>Retrato neuronal del abusador</title><link>http://sindioses.github.io/noticias/bully.html</link><dc:creator>Glenys Álvarez</dc:creator><description>&lt;blockquote&gt;
+&lt;/section&gt;</description><category>neurociencias</category><guid>http://sindioses.org/noticias/energia.html</guid><pubDate>Sat, 06 Dec 2008 02:00:00 GMT</pubDate></item><item><title>Retrato neuronal del abusador</title><link>http://sindioses.org/noticias/bully.html</link><dc:creator>Glenys Álvarez</dc:creator><description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Neurociencias.&lt;/strong&gt; Un equipo de científicos en la Universidad de Chicago ha elaborado un estudio que confirma resultados anteriores sobre el nacimiento de la crueldad y la agresión extremas en el cerebro de personas abusivas.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p class="primera"&gt;Para la mayoría en esta especie nuestra, Homo sapiens, la observación de dolor genera sentimientos de empatía que permiten que nos pongamos en los zapatos de la víctima. Es una respuesta automática que ha adquirido el cerebro durante millones de años de evolución pero que alcanzó su máxima expresión en los primates, específicamente en lois humanos, debido a la extrema importancia que la socialización tiene en nuestras existencias. En estudios anteriores que hemos publicado aquí en El Caribe, investigadores han observado áreas de empatía en el cerebro que suelen activarse cuando personas “normales” miran videos violentos donde individuos infligen dolor en otros.&lt;/p&gt;
@@ -68,8 +68,8 @@
 &lt;hr class="docutils"&gt;
 &lt;div class="nocalibre docutils container"&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;&lt;p&gt;Volver a &lt;a class="reference external" href="http://sindioses.github.io/noticias/index.html"&gt;Noticias&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://sindioses.github.io/principal.html"&gt;Menú principal&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Volver a &lt;a class="reference external" href="http://sindioses.org/noticias/index.html"&gt;Noticias&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://sindioses.org/principal.html"&gt;Menú principal&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;/section&gt;</description><category>neurociencias</category><guid>http://sindioses.github.io/noticias/bully.html</guid><pubDate>Sat, 06 Dec 2008 02:00:00 GMT</pubDate></item></channel></rss>
+&lt;/section&gt;</description><category>neurociencias</category><guid>http://sindioses.org/noticias/bully.html</guid><pubDate>Sat, 06 Dec 2008 02:00:00 GMT</pubDate></item></channel></rss>
