@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sin Dioses (Publicaciones sobre creación)</title><link>http://sindioses.org/</link><description></description><atom:link href="http://sindioses.org/categories/creacion.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2001-&lt;script&gt;var hoy=new Date(); document.write(hoy.getFullYear())&lt;/script&gt;&lt;noscript&gt;2100&lt;/noscript&gt; &lt;a href="mailto:pensamiento@sindioses.org"&gt;Sin Dioses&lt;/a&gt; Se permite la reproducción del contenido para fines educacionales y/o científicos siempre y cuando se mencione claramente nuestro sitio web, así como el nombre del autor de cada artículo. Se prohibe su reproducción con fines comerciales.</copyright><lastBuildDate>Thu, 22 Jun 2023 22:34:12 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>El suicidio de Dios</title><link>http://sindioses.org/poesia/suicidiodios.html</link><dc:creator>Antonio J. Cebrián</dc:creator><description>&lt;p class="primera"&gt;Harto de vagar solo durante una eternidad, Dios decidió quitarse la vida.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sin Dioses (Publicaciones sobre creación)</title><link>http://sindioses.github.io/</link><description></description><atom:link href="http://sindioses.github.io/categories/creacion.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2001-&lt;script&gt;var hoy=new Date(); document.write(hoy.getFullYear())&lt;/script&gt;&lt;noscript&gt;2100&lt;/noscript&gt; &lt;a href="mailto:richieadler+sindioses@gmail.com"&gt;Sin Dioses&lt;/a&gt; Se permite la reproducción del contenido para fines educacionales y/o científicos siempre y cuando se mencione claramente nuestro sitio web, así como el nombre del autor de cada artículo. Se prohibe su reproducción con fines comerciales.</copyright><lastBuildDate>Thu, 31 Aug 2023 02:59:36 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>El suicidio de Dios</title><link>http://sindioses.github.io/poesia/suicidiodios.html</link><dc:creator>Antonio J. Cebrián</dc:creator><description>&lt;p class="primera"&gt;Harto de vagar solo durante una eternidad, Dios decidió quitarse la vida.&lt;/p&gt;
 &lt;p&gt;—¡Hágase la nada absoluta! —gritó.&lt;/p&gt;
 &lt;p&gt;Pero la orden no pudo cumplirse. A medida que menguaba su infinita magnitud camino de la desaparición, el poder de su mandato también lo hacía y el proceso se detuvo en el punto medio.&lt;/p&gt;
 &lt;p&gt;—¡Hágase la nada absoluta! —gritó de nuevo.&lt;/p&gt;
@@ -8,7 +8,7 @@
 &lt;p&gt;Cuando alcanzó un tamaño tan diminuto que rebasó lo tolerable para el propio concepto de “existencia”, un último pensamiento cruzó por su mente en el instante mismo de la desaparición y toda la energía que aún quedaba en su interior quedó abandonada a su suerte en un punto indefinido en medio de la nada.&lt;/p&gt;
 &lt;p&gt;Había comenzado el Big Bang.&lt;/p&gt;
 &lt;hr class="docutils"&gt;
-&lt;img alt="" class="align-right" src="http://sindioses.org/fotos/ajcebrian.jpg"&gt;
+&lt;img alt="" class="align-right" src="http://sindioses.github.io/fotos/ajcebrian.jpg"&gt;
 &lt;p&gt;Antonio J. Cebrián (1964-) es un escritor de ciencia ficción especulativa. Ha recibido los siguientes premios y publicaciones:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;p&gt;Primer Premio Andrómeda de ficción especulativa 2010 (Primer Contacto)&lt;/p&gt;&lt;/li&gt;
@@ -34,10 +34,10 @@
 &lt;hr class="docutils"&gt;
 &lt;div class="nocalibre docutils container"&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;&lt;p&gt;Volver a la sección &lt;a class="reference external" href="http://sindioses.org/poesia/poesia.html"&gt;Literatura profana&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://sindioses.org/principal.html"&gt;Menú principal&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Volver a la sección &lt;a class="reference external" href="http://sindioses.github.io/poesia/poesia.html"&gt;Literatura profana&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://sindioses.github.io/principal.html"&gt;Menú principal&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/div&gt;</description><category>creación</category><guid>http://sindioses.org/poesia/suicidiodios.html</guid><pubDate>Tue, 05 Mar 2013 03:14:55 GMT</pubDate></item><item><title>Génesis</title><link>http://sindioses.org/poesia/regenesis.html</link><dc:creator>Antonio J. Cebrián</dc:creator><description>&lt;p class="primera"&gt;Dijo Dios:&lt;/p&gt;
+&lt;/div&gt;</description><category>creación</category><guid>http://sindioses.github.io/poesia/suicidiodios.html</guid><pubDate>Tue, 05 Mar 2013 03:14:55 GMT</pubDate></item><item><title>Génesis</title><link>http://sindioses.github.io/poesia/regenesis.html</link><dc:creator>Antonio J. Cebrián</dc:creator><description>&lt;p class="primera"&gt;Dijo Dios:&lt;/p&gt;
 &lt;p&gt;—Haya luz.&lt;/p&gt;
 &lt;p&gt;Y hubo luz. Vio Dios que la luz estaba bien, y apartó la luz de la oscuridad llamando “día” a la luz y “noche” a la oscuridad.&lt;/p&gt;
 &lt;p&gt;Dijo Dios:&lt;/p&gt;
@@ -49,7 +49,7 @@
 &lt;p&gt;—O mejor, no.&lt;/p&gt;
 &lt;p&gt;Y volvió a su estado de letargo durante otra eternidad.&lt;/p&gt;
 &lt;hr class="docutils"&gt;
-&lt;img alt="" class="align-right" src="http://sindioses.org/fotos/ajcebrian.jpg"&gt;
+&lt;img alt="" class="align-right" src="http://sindioses.github.io/fotos/ajcebrian.jpg"&gt;
 &lt;p&gt;Antonio J. Cebrián (1964-) es un escritor de ciencia ficción especulativa. Ha recibido los siguientes premios y publicaciones:&lt;/p&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;p&gt;Primer Premio Andrómeda de ficción especulativa 2010 (Primer Contacto)&lt;/p&gt;&lt;/li&gt;
@@ -75,7 +75,7 @@
 &lt;hr class="docutils"&gt;
 &lt;div class="nocalibre docutils container"&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;&lt;p&gt;Volver a la sección &lt;a class="reference external" href="http://sindioses.org/poesia/poesia.html"&gt;Literatura profana&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://sindioses.org/principal.html"&gt;Menú principal&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Volver a la sección &lt;a class="reference external" href="http://sindioses.github.io/poesia/poesia.html"&gt;Literatura profana&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://sindioses.github.io/principal.html"&gt;Menú principal&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/div&gt;</description><category>creación</category><guid>http://sindioses.org/poesia/regenesis.html</guid><pubDate>Mon, 04 Mar 2013 03:15:33 GMT</pubDate></item></channel></rss>
+&lt;/div&gt;</description><category>creación</category><guid>http://sindioses.github.io/poesia/regenesis.html</guid><pubDate>Mon, 04 Mar 2013 03:15:33 GMT</pubDate></item></channel></rss>

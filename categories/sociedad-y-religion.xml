@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sin Dioses (Publicaciones sobre Sociedad y religión)</title><link>http://sindioses.org/</link><description></description><atom:link href="http://sindioses.org/categories/sociedad-y-religion.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2001-&lt;script&gt;var hoy=new Date(); document.write(hoy.getFullYear())&lt;/script&gt;&lt;noscript&gt;2100&lt;/noscript&gt; &lt;a href="mailto:pensamiento@sindioses.org"&gt;Sin Dioses&lt;/a&gt; Se permite la reproducción del contenido para fines educacionales y/o científicos siempre y cuando se mencione claramente nuestro sitio web, así como el nombre del autor de cada artículo. Se prohibe su reproducción con fines comerciales.</copyright><lastBuildDate>Thu, 22 Jun 2023 22:34:00 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Por qué es malo ser un lobo marino</title><link>http://sindioses.org/sociedad/lobomarino.html</link><dc:creator>Tegiminis</dc:creator><description>&lt;div class="line-block"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sin Dioses (Publicaciones sobre Sociedad y religión)</title><link>http://sindioses.github.io/</link><description></description><atom:link href="http://sindioses.github.io/categories/sociedad-y-religion.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2001-&lt;script&gt;var hoy=new Date(); document.write(hoy.getFullYear())&lt;/script&gt;&lt;noscript&gt;2100&lt;/noscript&gt; &lt;a href="mailto:richieadler+sindioses@gmail.com"&gt;Sin Dioses&lt;/a&gt; Se permite la reproducción del contenido para fines educacionales y/o científicos siempre y cuando se mencione claramente nuestro sitio web, así como el nombre del autor de cada artículo. Se prohibe su reproducción con fines comerciales.</copyright><lastBuildDate>Thu, 31 Aug 2023 03:00:40 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Por qué es malo ser un lobo marino</title><link>http://sindioses.github.io/sociedad/lobomarino.html</link><dc:creator>Tegiminis</dc:creator><description>&lt;div class="line-block"&gt;
 &lt;div class="line"&gt;publicado en Simplikation.com, el 20 de noviembre de 2014&lt;/div&gt;
 &lt;div class="line"&gt;traducido por &lt;strong&gt;Marcelo Huerta San Martín&lt;/strong&gt; el 8 de febrero de 2015&lt;/div&gt;
 &lt;div class="line"&gt;Original en inglés en &lt;a class="reference external" href="http://simplikation.com/why-sealioning-is-bad/"&gt;http://simplikation.com/why-sealioning-is-bad/&lt;/a&gt;&lt;/div&gt;
 &lt;/div&gt;
-&lt;p class="primera"&gt;Es probable que hayan visto &lt;a class="reference external" href="http://sindioses.org/sociedad/lobomarino_ilus.html"&gt;este comic de David Malki&lt;/a&gt; si frecuentan Twitter últimamente. Incluso se acuñó un verbo nuevo ("lobomarinar", &lt;em&gt;"sealioning"&lt;/em&gt; en inglés) para describir la acción de meterse en una discusión exigiendo pruebas y respuestas.&lt;/p&gt;
+&lt;p class="primera"&gt;Es probable que hayan visto &lt;a class="reference external" href="http://sindioses.github.io/sociedad/lobomarino_ilus.html"&gt;este comic de David Malki&lt;/a&gt; si frecuentan Twitter últimamente. Incluso se acuñó un verbo nuevo ("lobomarinar", &lt;em&gt;"sealioning"&lt;/em&gt; en inglés) para describir la acción de meterse en una discusión exigiendo pruebas y respuestas.&lt;/p&gt;
 &lt;p&gt;¿Pero por qué es algo tan malo? ¿Por qué la gente reacciona tan negativamente a que se le pidan pruebas? Seguramente una persona razonable y racional aceptará hacer algo así.&lt;/p&gt;
 &lt;p&gt;Bueno, no. He aquí las razones.&lt;/p&gt;
 &lt;section id="tiempo-perdido"&gt;
@@ -29,21 +29,22 @@
 &lt;/section&gt;
 &lt;section id="todos-pierden"&gt;
 &lt;h2&gt;Todos pierden&lt;/h2&gt;
-&lt;p&gt;Ser &lt;em&gt;lobomarinado&lt;/em&gt; es una situación en la que siempre se pierde. Al igual que la &lt;a class="reference external" href="https://www.youtube.com/watch?v=NHWjlCaIrQo"&gt;Guerra Termonuclear Global&lt;/a&gt; &lt;a class="footnote-reference brackets" href="http://sindioses.org/sociedad/lobomarino.html#id2" id="id1"&gt;*&lt;/a&gt;, la única jugada ganadora es no jugar. En este caso, bloquear o ignorar a los &lt;em&gt;lobos marinos&lt;/em&gt; y seguir en lo nuestro, dejándolos descargar sus frustraciones donde uno no pueda verlos. Es mucho más sano para la mente.&lt;/p&gt;
+&lt;p&gt;Ser &lt;em&gt;lobomarinado&lt;/em&gt; es una situación en la que siempre se pierde. Al igual que la &lt;a class="reference external" href="https://www.youtube.com/watch?v=NHWjlCaIrQo"&gt;Guerra Termonuclear Global&lt;/a&gt; &lt;a class="footnote-reference brackets" href="http://sindioses.github.io/sociedad/lobomarino.html#footnote-1" id="footnote-reference-1" role="doc-noteref"&gt;&lt;span class="fn-bracket"&gt;[&lt;/span&gt;*&lt;span class="fn-bracket"&gt;]&lt;/span&gt;&lt;/a&gt;, la única jugada ganadora es no jugar. En este caso, bloquear o ignorar a los &lt;em&gt;lobos marinos&lt;/em&gt; y seguir en lo nuestro, dejándolos descargar sus frustraciones donde uno no pueda verlos. Es mucho más sano para la mente.&lt;/p&gt;
 &lt;p&gt;Es una lástima que debamos sospechar de preguntas supuestamente honestas y neutrales. Hacer preguntas y estar abiertos es clave para establecer un diálogo y entenderse. Sin embargo, cuando uno es el objetivo de una brigada de &lt;em&gt;lobos marinos&lt;/em&gt; el propósito es hacerlo perder a uno el tiempo respondiendo a cada insignificante queja, y hacer preguntas falsamente amigables es la forma más fácil de hacérnoslo perder.&lt;/p&gt;
 &lt;p&gt;Así que no lo haga. Emplee su tiempo en actividades más constructivas, como crear un juego, hablar con otras personas verdaderamente interesadas en dialogar, o cualquier otra forma de cuidar de sí mismo. No le debemos nada (y especialmente no les debemos respuestas) a una turba cuya intención es acosarnos.&lt;/p&gt;
 &lt;/section&gt;
 &lt;hr class="docutils"&gt;
 &lt;section id="notas"&gt;
 &lt;h2&gt;Notas&lt;/h2&gt;
-&lt;dl class="footnote brackets"&gt;
-&lt;dt class="label" id="id2"&gt;&lt;span class="brackets"&gt;&lt;a class="fn-backref" href="http://sindioses.org/sociedad/lobomarino.html#id1"&gt;*&lt;/a&gt;&lt;/span&gt;&lt;/dt&gt;
-&lt;dd&gt;&lt;p&gt;Referencia a la película &lt;a class="reference external" href="http://www.imdb.com/title/tt0086567/"&gt;Juegos de guerra&lt;/a&gt;, el enlace en el texto apunta a un fragmento de la misma en YouTube. [N. del T.]&lt;/p&gt;
-&lt;/dd&gt;
-&lt;/dl&gt;
+&lt;aside class="footnote-list brackets"&gt;
+&lt;aside class="footnote brackets" id="footnote-1" role="doc-footnote"&gt;
+&lt;span class="label"&gt;&lt;span class="fn-bracket"&gt;[&lt;/span&gt;&lt;a role="doc-backlink" href="http://sindioses.github.io/sociedad/lobomarino.html#footnote-reference-1"&gt;*&lt;/a&gt;&lt;span class="fn-bracket"&gt;]&lt;/span&gt;&lt;/span&gt;
+&lt;p&gt;Referencia a la película &lt;a class="reference external" href="http://www.imdb.com/title/tt0086567/"&gt;Juegos de guerra&lt;/a&gt;, el enlace en el texto apunta a un fragmento de la misma en YouTube. [N. del T.]&lt;/p&gt;
+&lt;/aside&gt;
+&lt;/aside&gt;
 &lt;hr class="docutils"&gt;
 &lt;div class="nocalibre docutils container"&gt;
-&lt;p&gt;Volver al &lt;a class="reference external" href="http://sindioses.org/sociedad/index.html"&gt;índice de artículos&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://sindioses.org/principal.html"&gt;Menú principal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Volver al &lt;a class="reference external" href="http://sindioses.github.io/sociedad/index.html"&gt;índice de artículos&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://sindioses.github.io/principal.html"&gt;Menú principal&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;/section&gt;</description><category>lobomarinar</category><category>lobos marinos</category><category>Sociedad y religión</category><guid>http://sindioses.org/sociedad/lobomarino.html</guid><pubDate>Sun, 08 Feb 2015 20:33:00 GMT</pubDate></item></channel></rss>
+&lt;/section&gt;</description><category>lobomarinar</category><category>lobos marinos</category><category>Sociedad y religión</category><guid>http://sindioses.github.io/sociedad/lobomarino.html</guid><pubDate>Sun, 08 Feb 2015 20:33:00 GMT</pubDate></item></channel></rss>
