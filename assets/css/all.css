@@ -1069,7 +1069,6 @@ div.contenidoindice {
 }
 
 .contenidoindice {
-    width: 65.50%;
     font-size: 96%;
 }
 
@@ -1106,13 +1105,13 @@ div.contenidoindice {
 }
 @media (min-width: 1200px) {
  .contenidoindice {
-   width: 65.50%;
-    -webkit-column-count: 2; /* Chrome, Safari, Opera */
-    -moz-column-count: 2; /* Firefox */
-    column-count: 2;
+   width: 99%;
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
  }
  .colfb, #pie2 { display: block; }
- #pie1 { width: 66% }
+ #pie1 { width: 100% }
 }
 
 hr.docutils {
