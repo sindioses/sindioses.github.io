@@ -1,5 +1,6 @@
 .. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
 .. type: ciori
+.. tags: Testigos de Jehová
 .. title: Un ex-testigo de Jehová revisa el libro "La vida ¿Cómo se presentó aquí? ¿Por evolución, o por creación?"
 .. category: Ciencia de los orígenes
 .. author: Corey Carroll

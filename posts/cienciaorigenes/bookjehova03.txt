@@ -2,6 +2,7 @@
 .. date: 2006-01-24 00:00:00
 .. category: Ciencia de los orígenes
 .. type: ciori
+.. tags: Testigos de Jehová
 .. title: La evolución del ojo
 .. description: Con relativa frecuencia los creacionistas se preguntan: ¿Cómo podría formarse gradualmente el ojo humano? ¿Para que serviría el 50% de un ojo?
 .. author: Ferney Yesyd Rodríguez

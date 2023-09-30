@@ -1,5 +1,5 @@
 .. _Peperino Pómoro: http://es.wikipedia.org/wiki/Peperino_P%C3%B3moro
-.. _Cha Cha Cha: http://es.wikipedia.org/wiki/Cha_Cha_Cha
+.. _Cha Cha Cha: https://es.wikipedia.org/wiki/Cha_cha_cha_(programa_de_televisión)
 
 .. _Gloria Carrá: http://www.imdb.com/name/nm0139910/
 .. .. _Gloria Trevi: http://www.imdb.com/name/nm0872381/

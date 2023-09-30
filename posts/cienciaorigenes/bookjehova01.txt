@@ -1,6 +1,7 @@
 .. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
 .. date: 2006-01-23 00:00:00
 .. type: ciori
+.. tags: Testigos de Jehová
 .. title: Análisis al libro antievolucionista de los Testigos de Jehová
 .. category: Ciencia de los orígenes
 .. description: Los Testigos de Jehová devotos, y la mayoría de las personas que de ellos reciben "La Vida: ¿Cómo se presentó aquí?" ignoran que éste libro se encuentra colmado de errores científicos, mentiras descaradas, verdades a medias y citas de científicos sacadas de su contexto original. El propósito de este texto es exponer estos errores al lector interesado en la biología evolutiva y en el análisis racionalista del movimiento creacionista actual.
