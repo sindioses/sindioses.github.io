@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 
 import time
+import json
+from pathlib import Path
 
 # !! This is the configuration of Nikola. !! #
 # !!  You should edit it to your liking.  !! #
@@ -14,17 +16,19 @@ import time
 # ! Option (a) is used when you don't want that setting translated.
 # ! Option (b) is used for settings that are different in different languages.
 
+CONF_DATA_FILE = Path(__file__).with_suffix(".json")
+CONF_DATA = json.loads(CONF_DATA_FILE.read_text(encoding="utf-8"))
 
 # Data about this site
-BLOG_AUTHOR = "Sin Dioses"  # (translatable)
-BLOG_TITLE = "Sin Dioses"  # (translatable)
+BLOG_AUTHOR = CONF_DATA["blog_author"]
+BLOG_TITLE = CONF_DATA["blog_title"]
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://sindioses.github.io/"
+SITE_URL = CONF_DATA["site_url"]
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
-BLOG_EMAIL = "richieadler+sindioses@gmail.com"
+BLOG_EMAIL = CONF_DATA["blog_email"]
 BLOG_DESCRIPTION = "Recursos en castellano para personas sin dioses, demonios ni deidades."
 
 # Nikola is multilingual!
