@@ -20,7 +20,7 @@ Por supuesto Jesús era teísta, pero esto es lo menos interesante que puede dec
 
     *«Oísteis que fue dicho a los antiguos: Ojo por ojo, y diente por diente. Más yo os digo: No resistáis al mal; antes a cualquiera que te hiriere en tu mejilla diestra, vuélvele también la otra; Y al que quisiere ponerte á pleito y tomarte tu ropa, déjale también la capa. Y a cualquiera que te cargare por una milla, ve con él dos. Al que te pidiere, dale; y al que quisiere tomar de ti prestado, no se lo rehúses.»*
 
-    --Mateo 5:38
+    --{{ biblia "Mateo 5:38" RVA }}
 
 Mi segundo ingrediente es otra paradoja que tiene origen en mi campo, el darwinismo. La selección natural es un proceso profundamente molesto, como el propio Darwin se encargó de remarcar.
 
@@ -47,7 +47,7 @@ Esta semana tuve una charla pública en Edinburgo con Richard Holloway, antiguo 
 .. thumbnail:: ateosporjesus2.jpg
    :align: right
    :alt:
-   :scale: 60
+   :width: 30
 
 ..   :target: ateosporjesus2.jpg
 

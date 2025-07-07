@@ -1,0 +1,8 @@
+nikola
+ruamel.yaml
+pygments
+myst-parser
+pillow
+typogrify
+pyphen
+ghp-import

@@ -293,7 +293,7 @@ Palabras muy sabias
 .. image:: http://www.randi.org/images/commentary/200712/arw.jpg
    :alt:
    :align: left
-   :scale: 80
+   :width: 30
 
 Mientras veía una reposición del programa de 1996 en la BBC "Attenborough en el paraíso", un maravilloso documental filmado en las junglas de Papúa-Nueva Guinea acerca de las notables aves del paraíso que se encuentran allí, oí a Sir David leer una cita de Alfred Russel Wallace, el hombre que propuso - en paralelo con Charles Darwin – una teoría de "selección natural". Al tiempo en que Wallace era un completo magufo en lo tocante al espiritismo y ciertos aspectos de las funciones cerebrales, escribió estas perspicaces palabras sobre las aves del paraíso:
 

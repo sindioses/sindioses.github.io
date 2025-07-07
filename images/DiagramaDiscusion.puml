@@ -1,0 +1,48 @@
+@startuml DiagramaDiscusion
+start
+!pragma useVerticalIf on
+
+!$a = "¿Puede imaginar algo\nque lo haga cambiar de idea\nsobre este tema?"
+!$b = "Si se muestra que uno de sus argumentos tiene fallas, \n¿dejará de usarlo? (con todos)"
+!$c = "¿Está preparado para\nregirse por los principios básicos\nde la razón al discutir este tema?"
+
+if ($a) then (sí)
+
+if ($b) then (sí)
+
+if ($c) then (sí)
+
+  :**Esto es un debate.**
+  ....
+  Hablaremos con usted de este tema 
+  siempre y cuando se respeten las
+  reglas mínimas del debate.;
+
+  note left
+    # No presente nuevos argumentos mientras haya otros sin resolver.
+    # No pase a otro argumento si se muestra que un hecho en el que se ha basado es incorrecto.
+    # Presente evidencia para su posición o sus argumentos.
+    # No alegue que **"no necesita"** evidencia.
+  end note
+
+else
+  label todono
+  #red:**Eso no es un debate**.
+  ....
+  No hablaremos de este tema
+  con usted.;
+
+endif
+
+else
+  goto todono
+
+endif
+
+else
+  goto todono
+
+endif
+
+stop
+@enduml

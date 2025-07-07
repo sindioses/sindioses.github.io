@@ -38,7 +38,7 @@ Fray Tomas de Torquemada, fue el primer y más notable gran inquisidor, responsa
    :alt:
    :align: right
    :target: inquisicion3.jpg
-   :scale: 66
+   :width: 50%
 
 
 El gran inquisidor y su tribunal tenían jurisdicción sobre los tribunales locales y en su afán por capturar herejes se establecía por semanas o meses en la plaza pública de los pueblos donde ordenaba que los herejes se entregaran por propia iniciativa. Si el sospechoso no se hacia presente, el tristemente celebre delator que, por aversión personal, motivos dudosos o suspicacias diversas, se encargaba de revelar la identidad del hereje, quien era detenido por la policía inquisitorial para se juzgado. La sentencia del castigo se pronunciaba en una ceremonia pública y estos podían consistir en una peregrinación, un suplicio público, una multa, cargar con una cruz, confiscación de propiedades, encarcelamiento, prisión perpetua o la muerte. El campo de acción de la inquisición se ampliaría con el tiempo a los grupos heterodoxos como hermandades y luego a brujas, hechiceros, adivinos, bígamos, sodomitas y usureros.
@@ -49,7 +49,7 @@ La caza de brujas se llevo a cabo principalmente en España y el norte de Europa
 .. image:: inquisicion4.jpg
    :alt:
    :align: right
-   :scale: 60
+   :width: 30%
    :target: inquisicion4.jpg
 
 ¿Cómo procesaba la Inquisición? [#]_
@@ -69,7 +69,7 @@ Los suplicios más comunes eran: El suplicio del agua y el del fuego. El acusado
 .. image:: inquisicion5.jpg
    :alt:
    :align: left
-   :scale: 60
+   :width: 30%
    :target: inquisicion5.jpg
 
 
@@ -78,7 +78,7 @@ Antes de aplicar el suplicio del fuego, el verdugo frotaba los pies del paciente
 .. image:: inquisicion6.jpg
    :alt:
    :align: right
-   :scale: 50
+   :width: 30%
    :target: inquisicion6.jpg
 
 
@@ -93,7 +93,7 @@ Los herejes, considerados impenitentes, eran conducidos al auto de fe para oír 
 .. image:: inquisicion7.jpg
    :alt:
    :align: left
-   :scale: 70
+   :width: 30%
    :target: inquisicion7.jpg
 
 

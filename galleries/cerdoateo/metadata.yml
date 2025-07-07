@@ -1,145 +1,201 @@
 ---
 name: CerdoAteo_2015-02-09_Inconveniente.jpg
 caption: Inconveniente
+order: 1
 ---
 name: CerdoAteo_2015-07-16_desilusion.jpg
 caption: Desilusion
+order: 2
 ---
 name: CerdoAteo_2015-08-02_convencion-cachorros.jpg
 caption: Convencion cachorros
+order: 3
+---
+name: CerdoAteo_2015-08-15_Un-momento-Hallmark.jpg
+caption: Un momento Hallmark
+order: 4
 ---
 name: CerdoAteo_2015-09-13_creelo-o-no.jpeg
-caption: Créelo o no
+caption: Creelo o no
+order: 5
+---
+name: CerdoAteo_2015-10-09_Arca-de-Noé.jpg
+caption: Arca de Noé
+order: 6
 ---
 name: CerdoAteo_2015-11-07_Queso.jpg
 caption: Queso
+order: 7
 ---
-name: CerdoAteo_2015-11-08_BellezaDios.jpeg
-caption: Belleza de Dios
+name: CerdoAteo_2015-11-08_Belleza-Dios.jpeg
+caption: Belleza Dios
+order: 8
 ---
-name: CerdoAteo_2015-11-23_montana-pelada.jpeg
-caption: Montaña pelada
----
-name: CerdoAteo_2015-11-09_AteosInsoportables.jpg
-caption: Ateos Insoportables
+name: CerdoAteo_2015-11-09_Ateos-insoportables.jpg
+caption: Ateos insoportables
+order: 9
 ---
 name: CerdoAteo_2015-11-12_Matrimonio.jpg
 caption: Matrimonio
+order: 10
 ---
 name: CerdoAteo_2015-11-18_Espiritualidad.jpg
 caption: Espiritualidad
+order: 11
 ---
-name: CerdoAteo_2015-12-20_DiosTeAma.jpg
+name: CerdoAteo_2015-11-23_montana-pelada.jpeg
+caption: Montana pelada
+order: 12
+---
+name: CerdoAteo_2015-12-20_Dios-te-ama.jpg
 caption: Dios te ama
+order: 13
 ---
-name: CerdoAteo_2015-12-21_BibliaBreve.jpg
+name: CerdoAteo_2015-12-21_Biblia-breve.jpg
 caption: Biblia breve
+order: 14
 ---
 name: CerdoAteo_2015-12-25_Lealtad.jpg
 caption: Lealtad
+order: 15
 ---
-name: CerdoAteo_2015-12-28_JesusMancha.jpg
-caption: Jesús mancha
+name: CerdoAteo_2015-12-28_Jesus-mancha.jpg
+caption: Jesus mancha
+order: 16
 ---
 name: CerdoAteo_2015-12-30_Plan.jpg
 caption: Plan
+order: 17
 ---
-name: CerdoAteo_2015-12-31_CualVerdad.jpg
-caption: ¿Cuál verdad?
+name: CerdoAteo_2015-12-31_Cual-verdad.jpg
+caption: Cual verdad
+order: 18
 ---
 name: CerdoAteo_2016-01-06_Doctores.jpg
 caption: Doctores
+order: 19
 ---
 name: CerdoAteo_2016-01-13_Bebes.jpg
-caption: Bebés
+caption: Bebes
+order: 20
 ---
 name: CerdoAteo_2016-01-18_Carrera.jpg
 caption: Carrera
+order: 21
 ---
-name: CerdoAteo_2016-02-03_IdeasRaras.jpg
+name: CerdoAteo_2016-02-03_Ideas-raras.jpg
 caption: Ideas raras
+order: 22
 ---
 name: CerdoAteo_2016-02-08_HDP.jpg
 caption: HDP
+order: 23
 ---
 name: CerdoAteo_2016-02-24_obsesion-opresion.jpg
-caption: Obsesión con la opresión
+caption: Obsesion opresion
+order: 24
 ---
 name: CerdoAteo_2016-03-20_el-diablo-en-los-detalles.jpg
 caption: El diablo en los detalles
+order: 25
 ---
 name: CerdoAteo_2016-03-25_felices-pascuas.jpg
 caption: Felices pascuas
+order: 26
 ---
 name: CerdoAteo_2016-03-28_para-que-lo-sepas.jpg
 caption: Para que lo sepas
+order: 27
 ---
 name: CerdoAteo_2016-05-23_12-años-en-el-infierno.jpg
-caption: Doce años en el infierno
+caption: 12 años en el infierno
+order: 28
 ---
 name: CerdoAteo_2016-05-28_termodinamica.jpg
 caption: Termodinamica
+order: 29
 ---
 name: CerdoAteo_2016-06-13_tostadoras-voladoras.jpg
 caption: Tostadoras voladoras
+order: 30
 ---
 name: CerdoAteo_2016-06-20_su-propia-imagen.jpg
 caption: Su propia imagen
+order: 31
 ---
 name: CerdoAteo_2016-06-27_estudios-biblicos.jpg
 caption: Estudios biblicos
+order: 32
 ---
 name: CerdoAteo_2016-09-14_inbox.jpg
 caption: Inbox
+order: 33
 ---
 name: CerdoAteo_2016-09-19_solo-en-espiritu.jpg
-caption: Sólo en espíritu
+caption: Solo en espiritu
+order: 34
 ---
 name: CerdoAteo_2016-09-26_castores-espaciales.jpg
 caption: Castores espaciales
+order: 35
 ---
 name: CerdoAteo_2016-10-04_fuera-de-contexto.jpg
 caption: Fuera de contexto
+order: 36
 ---
 name: CerdoAteo_2016-10-10_sin-jesus.jpg
 caption: Sin jesus
+order: 37
 ---
 name: CerdoAteo_2016-10-25_tenia-un-plan.jpg
 caption: Tenia un plan
+order: 38
 ---
 name: CerdoAteo_2016-11-28_debe-ser-un-milagro.jpg
 caption: Debe ser un milagro
+order: 39
 ---
 name: CerdoAteo_2016-12-20_asi-es-la-cosa.jpg
 caption: Asi es la cosa
+order: 40
 ---
 name: CerdoAteo_2017-01-09_forma-de-decir.jpg
 caption: Forma de decir
+order: 41
 ---
 name: CerdoAteo_2017-03-30_Johnson.jpg
 caption: Johnson
+order: 42
 ---
 name: CerdoAteo_2017-06-04_paciente-ambulatorio.jpg
 caption: Paciente ambulatorio
+order: 43
 ---
 name: CerdoAteo_2017-07-12_Francisco-sin-alma.jpg
 caption: Francisco sin alma
+order: 44
 ---
 name: CerdoAteo_2017-07-24_Sosten-mi-cerveza.jpg
-caption: Sostén mi cerveza
+caption: Sosten mi cerveza
+order: 45
 ---
 name: CerdoAteo_2017-08-28_noticias-falsas.jpg
 caption: Noticias falsas
+order: 46
 ---
 name: CerdoAteo_2017-10-16_francos.jpg
 caption: Francos
+order: 47
 ---
 name: CerdoAteo_2018-02-05_haz-tu-tarea.jpg
 caption: Haz tu tarea
+order: 48
 ---
 name: CerdoAteo_2018-02-19_Entrada-prohibida.jpg
 caption: Entrada prohibida
+order: 49
 ---
 name: CerdoAteo_2018-10-08_aliento-infantil.jpg
 caption: Aliento infantil
+order: 50
 ---

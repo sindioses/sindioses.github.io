@@ -1,12 +1,15 @@
 @echo off
 *setlocal
 set fn=metadata.yml
-echo --- >> %fn
-do ar in CerdoAteo_*.jpeg
+echo --- > %fn
+set order=1
+do ar in CerdoAteo_*.jp*g
   set fecha=%@word["_",1,%ar]
-  set titulo=%@replace[-, ,%@replace[.jpg,,%@word["_",2,%ar]]]
+  set titulo=%@replace[-, ,%@name[%@word["_",2,%ar]]]
   set titulo=%@upper[%@instr[0,1,%titulo]]%@instr[1,,%titulo]
   echo name: %ar >> %fn
   echo caption: %titulo >> %fn
+  echo order: %order >> %fn
   echo --- >> %fn
+  set order=%@inc[order]
 enddo
