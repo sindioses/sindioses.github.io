@@ -8,5 +8,5 @@
 
 Si se muere de ganas de debatir con nosotros, siga las sencillas reglas indicadas en este diagrama. Sea absolutamente honesto contestando las preguntas que allí aparecen. Si en algún momento las flechas lo llevan a un recuadro rojo, **ni se moleste en ponerse en contacto con nosotros**: no queremos perder nuestro tiempo ni el suyo. Si el resultado es que puede debatir como una persona racional... igual nos reservamos el derecho de contestar sólo si nos interesa, pero al menos es más probable que le hagamos caso.
 
-.. image:: DiagramaDiscusion.png
-   :alt:
+.. image:: DiagramaDiscusion.svg
+   :width: 80%

@@ -1,48 +1,64 @@
-@startuml DiagramaDiscusion
+@startuml
+title ¿Quiere debatir? Hágalo así
 start
-!pragma useVerticalIf on
+floating note right
+Gracias por pedir un debate con nosotros.
+Los debates son diálogos entre personas en los cuales
+los participantes están dispuestos a cambiar su punto
+de vista si es razonable hacerlo. A veces, la gente
+confunde "debate" con "sermón" o "discurso". Esos
+//no-debates// son una pérdida de tiempo pues todos los
+participantes están aferrados a su punto de vista.
+Para no hacernos perder el tiempo, por favor use esta guía
+para establecer si de verdad podemos tener un debate sobre
+un tema de su interés.
+end note
+if (¿Puede imaginar algo que lo haga\ncambiar de opinión sobre el tema?) then (sí)
+  if (Si se muestra que uno de sus argumentos\ntiene fallas, dejará de usarlo? (con cualquier\n interlocutor, en el futuro)) then (sí)
+    if (¿Está preparado para regirse por los principios\nbásicos de la razón al debatir el tema?) then (sí)
+      note left
+      **Ejemplos de principios básicos:**
+      ----
+      * La postura con más evidencia respaldatoria
+        debe aceptarse como verdadera.
+      * La persona que **afirma** algo debe demostrar
+        que es verdad.
+      end note
+      :**Eso es un debate.**
+      ----
+      Hablaremos con usted de este tema siempre y cuando se sigan ciertas reglas.
 
-!$a = "¿Puede imaginar algo\nque lo haga cambiar de idea\nsobre este tema?"
-!$b = "Si se muestra que uno de sus argumentos tiene fallas, \n¿dejará de usarlo? (con todos)"
-!$c = "¿Está preparado para\nregirse por los principios básicos\nde la razón al discutir este tema?"
-
-if ($a) then (sí)
-
-if ($b) then (sí)
-
-if ($c) then (sí)
-
-  :**Esto es un debate.**
-  ....
-  Hablaremos con usted de este tema 
-  siempre y cuando se respeten las
-  reglas mínimas del debate.;
-
-  note left
-    # No presente nuevos argumentos mientras haya otros sin resolver.
-    # No pase a otro argumento si se muestra que un hecho en el que se ha basado es incorrecto.
-    # Presente evidencia para su posición o sus argumentos.
-    # No alegue que **"no necesita"** evidencia.
-  end note
-
-else
-  label todono
-  #red:**Eso no es un debate**.
-  ....
-  No hablaremos de este tema
-  con usted.;
-
+      1. No presente argumentos mientras haya otro argumento sin resolver.
+      2. No pase a otro argumento si se muestra que un hecho en el que ha
+         basado su argumento es incorrecto.
+      3. Proporcione evidencia para su posición o sus argumentos.
+      4. No alegue que "no necesita" evidencia.
+      ;
+      if (¿Violó alguna de las reglas\nen el debate?) then (sí)
+        #red:**Hizo trampa**
+        ----
+        Se terminó el debate.;
+        note right
+        * Se considera que Ud. concedió todos los argumentos
+          hechos hasta el momento.
+        * Ud. renuncia al derecho de quejarse del debate.
+        end note
+      else (no)
+        #lightgreen:**Felicitaciones**
+        ----
+        Así intercambian ideas
+        los seres humanos
+        racionales.;
+      endif
+      stop
+    else (no)
+    endif
+  else (no)
+  endif
+else (no)
 endif
-
-else
-  goto todono
-
-endif
-
-else
-  goto todono
-
-endif
-
+    #red:**Esto no es una discusión**
+    ----
+    No discutiremos el tema con usted.;
 stop
 @enduml
