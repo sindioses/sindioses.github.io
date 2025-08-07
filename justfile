@@ -7,8 +7,8 @@ default:
 
 # Generar sitio
 gen *params:
-    uv run nikola build
+    uv run nikola build {{params}}
 
 # Publicar contenido
-deploy:
-    uv run nikola github_deploy
+deploy *comments:
+    uv run nikola github_deploy -m "{{comments}}"

@@ -64,11 +64,11 @@ R/ ¡No fregués! Despierta, el siglo XXI es un hecho. Ya no estamos en la Edad 
 
 La costa norte de Haití se ubica en el límite de las grandes placas tectónicas del Caribe y de Norteamérica donde vastos bloques de la superficie de la Tierra se desplazan rozándose en un movimiento horizontal. Se cree que la placa del Caribe se está desplazando hacia el este en unos 2 centímetros cada año, por mediciones satelitales muy precisas. Su Biblia nunca se anticipó a nada como esto.
 
-.. image:: ../imagen/placashaiti.jpg
+.. image:: placashaiti.jpg
 
 Cerca a Puerto Príncipe se encuetra la falla de Enriquillo. Falla que estuvo acumulando presión por 250 años y llegó el momento de liberarla.
 
-.. image:: ../imagen/falla_enriquillo.jpg
+.. image:: falla_enriquillo.jpg
 
 Así pues la naturaleza de los terremotos es muy bien conocida, al igual que las causas de la tuberculosis. Adjudicar en esta época a cualqueira de las anteriores una causa sobrenatural, y peor aún hacer de estos una "señal del fin", basados en los escritos de dudosa procedencia y cero verificación de Mateo 24, es una pereza mental sin igual. Más le valdría la pena leer un poco sobre geología y se daría de cuenta que al igual que con la inmoralidad e injusticia del Dios del Antiguo testamento, el Nuevo también es loable en absurdos y sinsentidos.
 
