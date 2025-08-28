@@ -7,3 +7,11 @@ dependencies = [
     "nikola[extras]>=8.3.3",
     "ghp-import>=2.1.0",
 ]
+
+[tool.ruff]
+line-length = 160
+
+[tool.ruff.lint]
+extend-select = [
+    "I",
+]

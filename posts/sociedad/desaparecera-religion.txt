@@ -5,14 +5,14 @@
 .. tags: ateísmo, estadísticas sobre religión y/o ateísmo, sobrenatural
 .. date: 2015-01-26 01:56:00-03:00
 .. author: Rachel Nuwer
-.. description: El aumento del ateísmo en el mundo llevó a Rachel Nuwer a consultar con expertos en sociología y psicología sobre el futuro de las religiones.
+.. description: El aumento del ateísmo en el mundo llevó a Rachel Nuwer a consultar con expertos en sociología y psicología sobre el futuro de las religiones.
 .. type: socre
 
 Inicialmente publicado en `BBC Mundo`__
 
 __ www.bbc.co.uk/mundo/noticias/2015/01/150116_vert_fut_desapareceran_las_religiones_alguna_vez_finde_yv
 
-  El aumento del ateísmo en el mundo llevó a Rachel Nuwer a consultar con expertos en sociología y psicología sobre el futuro de las religiones.
+  El aumento del ateísmo en el mundo llevó a Rachel Nuwer a consultar con expertos en sociología y psicología sobre el futuro de las religiones.
 
 .. |tit| replace:: El ateísmo está en alza en todo el mundo. ¿Significa esto que la espiritualidad pasará pronto a ser algo del pasado?
 
@@ -50,7 +50,7 @@ Japón, Reino Unido, Canadá, Corea del Sur, Holanda, República Checa, Estonia,
    :figclass: pull-left
    :figwidth: 400
 
-   **Iglesia convertida en biblioteca en Sevilla, España. En muchos países europeos el avance del agnosticismo y el ateísmo están dejando desocupadas las iglesias.**
+   **Iglesia convertida en biblioteca en Sevilla, España. En muchos países europeos el avance del agnosticismo y el ateísmo están dejando desocupadas las iglesias.**
 
 En todos estos países hay sistemas educativos y de seguridad social fuertes, baja desigualdad social y sus ciudadanos son relativamente ricos.
 
@@ -98,7 +98,7 @@ El Sistema 1 es intuitivo, instintivo y automático. Estas capacidades se desarr
    :figclass: pull-left
    :figwidth: 400
 
-   Niños de padres mormones con el presidente del mormonismo Gordon B. Hinckley. El sistema 1 interno lleva a los seres humanos desde su infancia a ser proclives a creencias irracionales.
+   Niños de padres mormones con el presidente del mormonismo Gordon B. Hinckley. El sistema 1 interno lleva a los seres humanos desde su infancia a ser proclives a creencias irracionales.
 
 Este sistema nos proporciona, por ejemplo, una repulsión innata a la carne podrida, nos permite hablar nuestra lengua materna sin pensarlo mucho y le da a los bebés la capacidad de reconocer a sus padres y distinguir entre objetos con o sin vida.
 

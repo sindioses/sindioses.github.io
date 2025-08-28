@@ -357,7 +357,7 @@ Leyendo una historia del Daily Mail, el corresponsal John Atkinson del Reino Uni
 Pensamiento crítico en España
 .............................
 
-.. image:: ..\arp-grande.jpg
+.. image:: ../arp-grande.jpg
    :alt:
    :align: right
 
