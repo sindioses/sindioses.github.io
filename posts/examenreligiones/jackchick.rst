@@ -19,7 +19,7 @@ La historia oficial es que Jack Thomas Chick nació en Boyle Heights, California
 
 Luego de su conversión, Chick quiso dedicarse a evangelizar a otros, pero debido a su extrema timidez se sintió incapaz de hablar de religión con la gente. (De hecho, el hombre es tan tímido y reclusivo que dio sólo una entrevista en 1975. Las fotos e imágenes que circulan como supuestamente suyas no han sido verificadas.) Luego de que otro misionero le contara el impacto del Partido Comunista entre los chinos gracias a la difusión de libritos de historietas, concibió la idea de usarlos para su propia campaña de evangelización.
 
-.. _Charles E. Fuller: http://en.wikipedia.org/wiki/Charles_E._Fuller
+.. _Charles E. Fuller: https://en.wikipedia.org/wiki/Charles_E._Fuller_(Baptist_minister)
 
 .. figure:: jackchick_03.gif
    :alt:

@@ -7,8 +7,8 @@
 .. author: Matt Dillahunty
 .. category: Examinando las religiones
 .. previewimage: /fotos/MattDillahunty.jpg
+.. link: http://atheistexperience.blogspot.com/2009/09/leprechauns.html
 
-| Originalmente en http://freethoughtblogs.com/axp/2009/09/08/leprechauns/
 | Traducción de **Marcelo Huerta San Martín**
 
  *(Este es un diálogo que representa el tipo de discusión que solemos tener los ateos y escépticos con los creyentes cuando se discuten sus creencias favoritas, ejemplificando sus respuestas típicas pero aplicándolas a un mito diferente como mecanismo ilustrativo. [N. de E.])*
@@ -37,7 +37,7 @@
 
 **ATEO:** En realidad no, pero ¿puedes presentar alguna eviden...?
 
-**TEÍSTA:** ¡Espera! Me acaba de decir que si no crees que él está allí, ¡te encadenará a un árbol luego de que mueras y te clavará su bastón en el trasero por 10.000 años!
+**TEÍSTA:** ¡Espera! Me acaba de decir que si no crees que él está allí, ¡te encadenará a un árbol luego de que mueras y te clavará su cachiporra en el trasero por 10.000 años!
 
 **ATEO:** ¡Caramba!, pero yo preguntaba si podrías presentar alguna evidencia adicional además de tu afirmación de que lo escuchaste. A propósito, yo no lo escuché decir eso.
 
@@ -127,7 +127,7 @@
 
 **ATEO:** Bueno, así que apelaste a la magia, la telepatía, los leprechauns, los troles y las cajas no vacías... y no has presentado ninguna evidencia. Lo siento, pero no te creo.
 
-**TEÍSTA:** ¡No olvides el bastón!
+**TEÍSTA:** ¡No olvides la cachiporra!
 
 **ATEO:** Claro... y has hecho amenazas sobre cosas que pasarán después de que yo esté muerto, cuando no hay evidencia de que habrá un "yo" que experimente nada después de que esté muerto. No creo en tu afirmación.
 

@@ -25,7 +25,7 @@ Como creyente, puede que crea que escribirnos es una necesidad ineludible o su d
    * - Posible razón
      - Nuestra posición
    * - "Su sitio me ofende"
-     - Ya lo sabemos, y no nos preocupa. De hecho, lo advertimos en la página inicial en http://sindioses.org: "El contenido de este sitio puede ocasionarle conflictos irremediables con sus dogmas".
+     - Ya lo sabemos, y no nos preocupa. De hecho, lo advertimos en `la página inicial </>`_: "El contenido de este sitio puede ocasionarle conflictos irremediables con sus dogmas".
 
        No nos moleste haciéndonos saber lo muy ofendido que está. No estamos aquí para trabajar en pos de la felicidad de usted.
    * - "Su sitio es una falta de respeto para las religiones y debería ser suprimido"
@@ -40,7 +40,7 @@ Como creyente, puede que crea que escribirnos es una necesidad ineludible o su d
    * - "La evolución es una mentira y ustedes no deberían difundirla"
      - La evolución es un hecho, respaldado por evidencia abrumadora. Antes de pretender que dejemos de afirmar esto, deberían ustedes convencer a los científicos que se ocupan del tema y el consenso científico general cambie para reflejar este hecho.
 
-       Antes de hablar sobre la evolución, evite limitarse a las nociones inexactas e incompletas propagadas por los creacionistas. Lea el `Índice de afirmaciones creacionistas <http://www.talkorigins.org/indexcc/index.html>`_ (en inglés) y en caso de encontrar una evidencia contraria, procure que sea presentada a los expertos correspondientes. Si el consenso científico mundial apunta en una determinada dirección, los mensajes insultantes de un creacionista no instruido en biología no nos van a hacer cambiar de opinión.
+       Antes de hablar sobre la evolución, evite limitarse a las nociones inexactas e incompletas propagadas por los creacionistas. Lea el `Índice de afirmaciones creacionistas de TalkOrigins.org <http://www.talkorigins.org/indexcc/index.html>`_ (en inglés), o `nuestra traducción (en progreso) en la sección Ciencia de los orígenes <cienciaorigenes/indiceac>`_ y en caso de encontrar una evidencia contraria, procure que sea presentada a los expertos correspondientes. Si el consenso científico mundial apunta en una determinada dirección, los mensajes insultantes de un creacionista no instruido en biología no nos van a hacer cambiar de opinión.
 
    * - "La Biblia dice..."
      - Leímos la Biblia. En algunos casos, más de una vez. No somos personajes de las historietas de `Jack Chick <examenreligiones/jackchick.html>`_, a los que se convence de la verdad de una religión simplemente mencionando los evangelios y citando algún fragmento presuntamente inspirador.

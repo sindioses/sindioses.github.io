@@ -106,17 +106,13 @@ Muchos artículos que recibimos son elaboraciones voluntariosas y esforzadas que
 
 Lamentamos no poder publicar ese tipo de artículos en el sitio, ya que Sin Dioses no se ocupa primordialmente de testimonios personales. En cambio, preferimos artículos que utilicen un tono neutro e informativo.
 
-Sin embargo, en caso de que se trate de textos *breves* de ficción (para su publicación en la sección `Literatura profana <http://sindioses.org/poesia>`_), por supuesto no se requiere un tono periodístico. En ese caso el requisito es un poco más subjetivo: el texto debe estar bien escrito y gustarle a los editores.
+Sin embargo, en caso de que se trate de textos *breves* de ficción (para su publicación en la sección `Literatura profana <poesia>`_), por supuesto no se requiere un tono periodístico. En ese caso el requisito es un poco más subjetivo: el texto debe estar bien escrito y gustarle a los editores.
 
 
 ¿Consideró todo esto?
 .....................
 
-Siéntase libre entonces de escribirnos a |email|. Disfrute del sitio.
-
-.. |email| image:: imagen/emailsindioses.png
-   :alt:
-   :align: middle
+Siéntase libre entonces de escribirnos a editores-sindioses@googlegroups.com. Disfrute del sitio.
 
 -----
 
