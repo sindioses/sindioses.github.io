@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sin Dioses (Publicaciones sobre robótica)</title><link>http://sindioses.github.io/</link><description></description><atom:link href="http://sindioses.github.io/categories/robotica.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2001-&lt;script&gt;var hoy=new Date(); document.write(hoy.getFullYear())&lt;/script&gt;&lt;noscript&gt;2100&lt;/noscript&gt; &lt;a href="mailto:editores-sindioses@googlegroups.com"&gt;Sin Dioses&lt;/a&gt; Se permite la reproducción del contenido para fines educacionales y/o científicos siempre y cuando se mencione claramente nuestro sitio web, así como el nombre del autor de cada artículo. Se prohibe su reproducción con fines comerciales.</copyright><lastBuildDate>Wed, 17 Sep 2025 00:44:14 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Un robot con piel receptora</title><link>http://sindioses.github.io/noticias/piel.html</link><dc:creator>Glenys Álvarez</dc:creator><description>&lt;figure class="pull-right" style="width: 400px"&gt;
-&lt;img alt="" src="http://sindioses.github.io/noticias/piel.jpg"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sin Dioses (Publicaciones sobre robótica)</title><link>http://sindioses.org/</link><description></description><atom:link href="http://sindioses.org/categories/robotica.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2001-&lt;script&gt;var hoy=new Date(); document.write(hoy.getFullYear())&lt;/script&gt;&lt;noscript&gt;2100&lt;/noscript&gt; &lt;a href="mailto:editores-sindioses@googlegroups.com"&gt;Sin Dioses&lt;/a&gt; Se permite la reproducción del contenido para fines educacionales y/o científicos siempre y cuando se mencione claramente nuestro sitio web, así como el nombre del autor de cada artículo. Se prohibe su reproducción con fines comerciales.</copyright><lastBuildDate>Sun, 16 Nov 2025 22:42:24 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Un robot con piel receptora</title><link>http://sindioses.org/noticias/piel.html</link><dc:creator>Glenys Álvarez</dc:creator><description>&lt;figure class="pull-right" style="width: 400px"&gt;
+&lt;img alt="" src="http://sindioses.org/noticias/piel.jpg"&gt;
 &lt;figcaption&gt;
 &lt;p&gt;&lt;strong&gt;En la imagen&lt;/strong&gt;, cortesía de Andreas Heddergott en la Universidad Técnica de Muenchen (Technische Universitaet Muenchen), el ingeniero Philip Mittendorfer junto al Robot Bioloide con un sensor de 31 módulos hexagonales distribuidos por todo el cuerpo. Estos sensores hacen de la piel del robot un poco similar a la del humano ya que puede medir la temperatura, el toque y la velocidad.&lt;/p&gt;
 &lt;/figcaption&gt;
@@ -24,11 +24,11 @@
 &lt;iframe width="640" height="390" src="http://www.youtube.com/embed/5CILOcxjkQY?rel=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;br&gt;&lt;br&gt;&lt;hr class="docutils"&gt;
 &lt;div class="nocalibre docutils container"&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;&lt;p&gt;Volver a &lt;a class="reference external" href="http://sindioses.github.io/noticias/index.html"&gt;Noticias&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://sindioses.github.io/principal.html"&gt;Menú principal&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Volver a &lt;a class="reference external" href="http://sindioses.org/noticias/index.html"&gt;Noticias&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://sindioses.org/principal.html"&gt;Menú principal&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;/section&gt;</description><category>robótica</category><guid>http://sindioses.github.io/noticias/piel.html</guid><pubDate>Thu, 07 Jul 2011 06:25:02 GMT</pubDate></item><item><title>Cerebro de rata y brazo de metal</title><link>http://sindioses.github.io/noticias/semiviviente.html</link><dc:creator>Glenys Álvarez</dc:creator><description>&lt;blockquote&gt;
+&lt;/section&gt;</description><category>robótica</category><guid>http://sindioses.org/noticias/piel.html</guid><pubDate>Thu, 07 Jul 2011 06:25:02 GMT</pubDate></item><item><title>Cerebro de rata y brazo de metal</title><link>http://sindioses.org/noticias/semiviviente.html</link><dc:creator>Glenys Álvarez</dc:creator><description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Robótica.&lt;/strong&gt; Las neuronas de la entidad se encuentran en una placa petri en Estados Unidos y su cuerpo habita un laboratorio en Australia&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p class="primera"&gt;Hace tres años, un grupo de investigadores logró producir una entidad muy especial. Se trataba de un robot que era gobernado por el cerebro de un pez y que fue exhibido en el Museo de Ciencias en Londres. El robot estaba compuesto por sensores que enviaban señales recogidas del mundo virtual, al cerebro del pescadito. Las neuronas del animal interpretaban las señales y daban órdenes al robot para que se moviera. El objetivo del experimento era estudiar minuciosamente la forma en que las neuronas producen estas órdenes. Los científicos quieren utilizar este conocimiento para desarrollar prótesis más inteligentes y en mejor conexión con el cerebro de la persona discapacitada.&lt;/p&gt;
@@ -44,7 +44,7 @@
 &lt;h2&gt;Cuatro pasos&lt;/h2&gt;
 &lt;section id="tit2"&gt;
 &lt;h3&gt;Origen: el cerebro biológico&lt;/h3&gt;
-&lt;img alt="" src="http://sindioses.github.io/noticias/brain.JPG"&gt;
+&lt;img alt="" src="http://sindioses.org/noticias/brain.JPG"&gt;
 &lt;p&gt;Los impulsos eléctricos se originan en un laboratorio de una universidad estadounidense. Allí, el doctor Steve Potter tiene en una placa de cultivo, 50,000 neuronas de la corteza cerebral de una rata que se han conectado para formar una red neuronal. Estas neuronas, a su vez, están conectadas a 64 electrodos que interpretan y envían los impulsos producidos por ella hasta el módem de una computadora.&lt;/p&gt;
 &lt;/section&gt;
 &lt;section id="tit3"&gt;
@@ -53,12 +53,12 @@
 &lt;/section&gt;
 &lt;section id="tit4"&gt;
 &lt;h3&gt;Destino: el cuerpo metálico&lt;/h3&gt;
-&lt;img alt="" src="http://sindioses.github.io/noticias/robot.JPG"&gt;
+&lt;img alt="" src="http://sindioses.org/noticias/robot.JPG"&gt;
 &lt;p&gt;Los impulsos eléctricos producidos por la red neuronal de la rata son enviados a través de una supercomputadora al laboratorio del doctor Guy Ben-Ary en Australia. El brazo robótico traduce la información y la convierte en movimiento. Su mano lleva tres lápices marcadores de distintos colores que pintan sobre una superficie blanca.&lt;/p&gt;
 &lt;/section&gt;
 &lt;section id="tit5"&gt;
 &lt;h3&gt;Los resultados: menos caos&lt;/h3&gt;
-&lt;img alt="" src="http://sindioses.github.io/noticias/meart.JPG"&gt;
+&lt;img alt="" src="http://sindioses.org/noticias/meart.JPG"&gt;
 &lt;p&gt;El robot pinta lo que la red neuronal de la rata le ordena pintar. Los científicos quieren que a través del tiempo, la pintura cambie, señal de que la red neuronal está aprendiendo. Por el momento, el dibujo de la entidad semiviviente es algo menos caótico que al principio (vea la imagen de abajo hacia arriba).&lt;/p&gt;
 &lt;/section&gt;
 &lt;/section&gt;
@@ -72,8 +72,8 @@
 &lt;hr class="docutils"&gt;
 &lt;div class="nocalibre docutils container"&gt;
 &lt;ul class="simple"&gt;
-&lt;li&gt;&lt;p&gt;Volver a &lt;a class="reference external" href="http://sindioses.github.io/noticias/index.html"&gt;Noticias&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://sindioses.github.io/principal.html"&gt;Menú principal&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Volver a &lt;a class="reference external" href="http://sindioses.org/noticias/index.html"&gt;Noticias&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://sindioses.org/principal.html"&gt;Menú principal&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
-&lt;/section&gt;</description><category>robótica</category><guid>http://sindioses.github.io/noticias/semiviviente.html</guid><pubDate>Sun, 03 Aug 2003 03:00:00 GMT</pubDate></item></channel></rss>
+&lt;/section&gt;</description><category>robótica</category><guid>http://sindioses.org/noticias/semiviviente.html</guid><pubDate>Sun, 03 Aug 2003 03:00:00 GMT</pubDate></item></channel></rss>
