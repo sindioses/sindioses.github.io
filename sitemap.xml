@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://sindioses.org/</loc>
-  <lastmod>2025-07-30T02:01:00Z</lastmod>
+  <lastmod>2026-01-01T16:14:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/2000/</loc>
@@ -94,6 +94,10 @@
   <lastmod>2025-07-06T15:21:00Z</lastmod>
  </url>
  <url>
+  <loc>http://sindioses.org/2026/</loc>
+  <lastmod>2026-01-01T16:14:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://sindioses.org/anillo/</loc>
   <lastmod>2025-07-02T23:28:00Z</lastmod>
  </url>
@@ -103,7 +107,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/archive.html</loc>
-  <lastmod>2025-11-16T22:40:00Z</lastmod>
+  <lastmod>2026-01-06T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/cartas/</loc>
@@ -723,7 +727,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_afirmaciones-de-los-creacionistas.html</loc>
-  <lastmod>2025-11-16T22:41:00Z</lastmod>
+  <lastmod>2026-01-06T01:42:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_cartas-de-la-edad-media.html</loc>
@@ -735,7 +739,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_escepticismo.html</loc>
-  <lastmod>2025-11-16T22:40:00Z</lastmod>
+  <lastmod>2026-01-06T01:42:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_examinando-las-religiones.html</loc>
@@ -1183,7 +1187,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/creacionismo.html</loc>
-  <lastmod>2025-11-16T22:41:00Z</lastmod>
+  <lastmod>2026-01-06T01:42:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/creencias.html</loc>
@@ -4479,7 +4483,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/cienciaorigenes/indiceac/lista.html</loc>
-  <lastmod>2025-11-16T22:42:00Z</lastmod>
+  <lastmod>2026-01-06T01:42:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/cienciaorigenes/intdesign.html</loc>
@@ -5063,7 +5067,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/escepticismo/</loc>
-  <lastmod>2025-07-06T15:27:00Z</lastmod>
+  <lastmod>2026-01-06T01:07:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/escepticismo/actitud.html</loc>
@@ -5146,6 +5150,14 @@
   <lastmod>2025-11-16T22:41:00Z</lastmod>
  </url>
  <url>
+  <loc>http://sindioses.org/escepticismo/pruebas.html</loc>
+  <lastmod>2026-01-06T01:35:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://sindioses.org/escepticismo/pruebasen.html</loc>
+  <lastmod>2026-01-06T01:42:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://sindioses.org/escepticismo/racionalismoenlaindia.html</loc>
   <lastmod>2025-11-16T22:41:00Z</lastmod>
  </url>
@@ -5159,7 +5171,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/escepticismo/shogun-no-sabe-de-ciencia.html</loc>
-  <lastmod>2025-11-16T22:41:00Z</lastmod>
+  <lastmod>2026-01-01T16:14:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/escepticismo/telepatia.html</loc>
@@ -7271,7 +7283,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/principal.html</loc>
-  <lastmod>2025-11-16T22:42:00Z</lastmod>
+  <lastmod>2026-01-06T01:42:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/quienessomos.html</loc>
