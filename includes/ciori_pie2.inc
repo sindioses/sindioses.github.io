@@ -2,10 +2,10 @@
 
 .. class:: nocalibre
 
-* Volver a la sección `Ciencias de los orígenes`_
-* `Menú principal`_
+* Volver a la secciÃ³n `Ciencias de los orÃ­genes`_
+* `MenÃº principal`_
 
-.. _Menú Principal: ../../principal.html
-.. _Ciencias de los orígenes: ../index.html
+.. _MenÃº Principal: ../../principal.html
+.. _Ciencias de los orÃ­genes: ../index.html
 
 

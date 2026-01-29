@@ -3,6 +3,6 @@
 
 .. container:: nocalibre
 
- * Volver a `Simplemente ateísmo <index.html>`__
- * `Menú principal <../principal.html>`__
+ * Volver a `Simplemente ateÃ­smo <index.html>`__
+ * `MenÃº principal <../principal.html>`__
 

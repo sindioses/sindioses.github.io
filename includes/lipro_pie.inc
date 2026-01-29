@@ -2,9 +2,9 @@
 
 .. container:: nocalibre
 
- * Volver a la sección `Literatura profana`_
- * `Menú principal`_
+ * Volver a la secciÃ³n `Literatura profana`_
+ * `MenÃº principal`_
 
 .. _Literatura profana: poesia.html
-.. _Menú Principal: ../principal.html
+.. _MenÃº Principal: ../principal.html
 

@@ -4,9 +4,9 @@
 
 .. container:: nocalibre
 
- * Volver a la sección `Escepticismo`_
- * `Menú principal`_
+ * Volver a la secciÃ³n `Escepticismo`_
+ * `MenÃº principal`_
 
 .. _Escepticismo: index.html
-.. _Menú Principal: ../principal.html
+.. _MenÃº Principal: ../principal.html
 

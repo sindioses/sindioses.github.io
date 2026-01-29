@@ -1,11 +1,11 @@
 -----
 
-Volver a la sección `Humor`_
+Volver a la secciÃ³n `Humor`_
 
 .. _Humor: index.html
 
-`Menú principal`_
+`MenÃº principal`_
 
-.. _Menú Principal: ../principal.html
+.. _MenÃº Principal: ../principal.html
 
 .. |sec| replace:: Humor - Sin Dioses

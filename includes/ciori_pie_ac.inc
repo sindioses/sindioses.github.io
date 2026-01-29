@@ -2,13 +2,13 @@
 
 .. class:: nocalibre
 
-* Volver al `Índice de afirmaciones creacionistas`_
-* Volver a la sección `Ciencias de los orígenes`_
-* `Menú principal`_
+* Volver al `Ãndice de afirmaciones creacionistas`_
+* Volver a la secciÃ³n `Ciencias de los orÃ­genes`_
+* `MenÃº principal`_
 
-.. _Índice de afirmaciones creacionistas: /cienciaorigenes/indiceac/lista.html
-.. _Ciencias de los orígenes: /cienciaorigenes/index.html
-.. _Menú Principal: /principal.html
+.. _Ãndice de afirmaciones creacionistas: /cienciaorigenes/indiceac/lista.html
+.. _Ciencias de los orÃ­genes: /cienciaorigenes/index.html
+.. _MenÃº Principal: /principal.html
 
 
 

@@ -1,5 +1,5 @@
 
 .. admonition:: Advertencia de los editores de Sin Dioses
 
-   La traducciÛn de este material es un trabajo que se encuentra en progreso, por lo que no todas las referencias podrÌan encontrarse disponibles. Gradualmente iremos actualizando los artÌculos correspondientes, y eso se ver· reflejado en el contenido de esta p·gina.
+   La traducci√≥n de este material es un trabajo que se encuentra en progreso, por lo que no todas las referencias podr√≠an encontrarse disponibles. Gradualmente iremos actualizando los art√≠culos correspondientes, y eso se ver√° reflejado en el contenido de esta p√°gina.
 

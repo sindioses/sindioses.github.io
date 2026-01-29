@@ -2,7 +2,7 @@
 
 .. class:: nocalibre
 
-Volver a `Génesis <genesis.html>`__
+Volver a `GÃ©nesis <genesis.html>`__
 
-`Menú principal <../principal.html>`__
+`MenÃº principal <../principal.html>`__
 

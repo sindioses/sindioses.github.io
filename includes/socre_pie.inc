@@ -4,11 +4,11 @@
 
 .. container:: nocalibre
 
- * Volver a la sección `Sociedad y religión`_
+ * Volver a la secciÃ³n `Sociedad y religiÃ³n`_
 
- * `Menú principal`_
+ * `MenÃº principal`_
 
-.. _Sociedad y Religión: index.html
+.. _Sociedad y ReligiÃ³n: index.html
 
-.. _Menú Principal: ../principal.html
+.. _MenÃº Principal: ../principal.html
 

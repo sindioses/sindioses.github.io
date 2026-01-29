@@ -1,11 +1,11 @@
 -----
 
-Volver a la sección `Examinando las religiones`_
+Volver a la secciÃ³n `Examinando las religiones`_
 
 .. _Examinando las religiones: index.html
 
-`Menú principal`_
+`MenÃº principal`_
 
-.. _Menú Principal: ../principal.html
+.. _MenÃº Principal: ../principal.html
 
 

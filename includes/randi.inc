@@ -42,7 +42,7 @@
 
 .. |usd| raw:: html
 
-   <acronym title="dólares estadounidenses">$</acronym>
+   <acronym title="dÃ³lares estadounidenses">$</acronym>
 
 .. |gbp| raw:: html
 
@@ -50,11 +50,11 @@
 
 .. |ftc| raw:: html
 
-   <acronym title="Federal Trade Commission (Comisión Federal de Comercio de EE.UU.)">FTC</acronym>
+   <acronym title="Federal Trade Commission (ComisiÃ³n Federal de Comercio de EE.UU.)">FTC</acronym>
 
 .. |pes| raw:: html
 
-   <acronym title="percepción extrasensorial">PES</acronym>
+   <acronym title="percepciÃ³n extrasensorial">PES</acronym>
 
 .. |tam| raw:: html
 

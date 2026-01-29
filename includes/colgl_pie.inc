@@ -4,16 +4,16 @@
 
 .. container:: nocalibre
 
-   Volver al `Ìndice de la Lupa HerÈtica <index.html>`__
+   Volver al `√≠ndice de la Lupa Her√©tica <index.html>`__
 
-   `Men˙ principal`_
+   `Men√∫ principal`_
 
-   .. _Men˙ Principal: ../principal.html
+   .. _Men√∫ Principal: ../principal.html
 
 .. |anyoglenys| date:: %Y
 
 .. class:: colofon
 
-|copy| 2008-|anyoglenys| Glenys ¡lvarez y Sin Dioses. Prohibida la reproducciÛn con fines comerciales.
+|copy| 2008-|anyoglenys| Glenys √Ålvarez y Sin Dioses. Prohibida la reproducci√≥n con fines comerciales.
 
 .. include:: <isonum.txt>

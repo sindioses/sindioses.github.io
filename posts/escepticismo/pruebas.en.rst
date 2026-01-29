@@ -42,7 +42,7 @@ Before starting
     I suspect that many will agree with many of my requirements, but there's no guarantee that this will be the case.
 
 *   **Does the god you believe in interact with the real world?** This is important because discussing unverifiable
-    constructs bores me. I'm not a philosopher, and I tend to be practical. Without delving into philosophy(which is
+    constructs bores me. I'm not a philosopher, and I tend to be practical. Without delving into philosophy (which is
     not my favorite discipline), we could say that in practice I use `methodological naturalism`_. I don't go beyond
     that, so those who want to accuse me of `scientism`_ can turn back where they came from; at most, I use
     the **moderate** version of it. That is: If your god does *not* interact with the real world, I'll consider it
@@ -85,8 +85,8 @@ Characteristics your evidence should have
     propose. That is, when the conditions under which the phenomenon you consider evidence occurs are repeated, it
     either coincides with the scientific paradigm, or challenges it in a plausible way and upon which a reasonable
     hypothesis can be built. However, the theoretical support for that acceptability must exist beforehand. If your
-    evidence requires discarding an entire discipline of science that has been repeatedly proven and upon which entire
-    notions that are considered valid and successfully predict other related phenomena rest, you're going to have to do
+    evidence requires discarding an entire discipline of science that has been repeatedly proven and which supports entire
+    notions that are considered valid and successfully predict other related phenomena, you're going to have to do
     a lot of work to justify that your evidence is valid.
 
 *   **Your evidence is acceptable as evidence in a criminal court** and allows reaching the conclusion you propose. And

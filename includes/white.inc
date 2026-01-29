@@ -2,7 +2,7 @@
 
 /////
 
-Artículos que puede leer en este sitio sobre la supuesta profetisa Elena G. de White:
+ArtÃ­culos que puede leer en este sitio sobre la supuesta profetisa Elena G. de White:
 
 * :doc:`white`
 * :doc:`epilepsia01`

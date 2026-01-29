@@ -2,12 +2,12 @@
 
    <hr style="clear: all">
 
-Volver a la sección `Escepticismo`_
+Volver a la secciÃ³n `Escepticismo`_
 
 .. _Escepticismo: ../index.html
 
-`Menú principal`_
+`MenÃº principal`_
 
-.. _Menú Principal: ../../principal.html
+.. _MenÃº Principal: ../../principal.html
 
 
