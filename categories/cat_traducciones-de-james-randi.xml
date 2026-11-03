@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sin Dioses (Publicaciones sobre Traducciones de James Randi)</title><link>http://sindioses.org/</link><description></description><atom:link href="http://sindioses.org/categories/cat_traducciones-de-james-randi.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2001-&lt;script&gt;var hoy=new Date(); document.write(hoy.getFullYear())&lt;/script&gt;&lt;noscript&gt;2100&lt;/noscript&gt; &lt;a href="mailto:editores-sindioses@googlegroups.com"&gt;Sin Dioses&lt;/a&gt; Se permite la reproducción del contenido para fines educacionales y/o científicos siempre y cuando se mencione claramente nuestro sitio web, así como el nombre del autor de cada artículo. Se prohibe su reproducción con fines comerciales.</copyright><lastBuildDate>Sun, 16 Nov 2025 22:41:30 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>ABC vuelve a perder la verguenza, por James Randi. La fe y la pizza, por Alison Smith. Crucero por el Atlántico Norte cancelado, por Phil Plait. "OVNIs" avistados en un encuentro escéptico en Nueva Zelanda, por Jeff Wagg. ¡Vosotros tambien podéis!, por Jeff Wagg. Prometedoras noticias desde África, por Jeff Wagg. Poniéndole un bonito lazo al escepticismo, por Brian Dunning. Un recurso escéptico olvidado, por Jeff Wagg. ¿Que será lo siguiente?, por James Randi. Crítica de Religulous, por Scott Hurst. Conclusión final, por Jeff Wagg</title><link>http://sindioses.org/randi/randi20081010.html</link><dc:creator>James Randi, traducción de Lucía Sierra</dc:creator><description>&lt;section id="abc-vuelve-a-perder-la-verguenza-por-james-randi"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sin Dioses (Publicaciones sobre Traducciones de James Randi)</title><link>http://sindioses.org/</link><description></description><atom:link href="http://sindioses.org/categories/cat_traducciones-de-james-randi.xml" rel="self" type="application/rss+xml"></atom:link><language>es</language><copyright>Contents © 2001-&lt;script&gt;var hoy=new Date(); document.write(hoy.getFullYear())&lt;/script&gt;&lt;noscript&gt;2100&lt;/noscript&gt; &lt;a href="mailto:editores-sindioses@googlegroups.com"&gt;Sin Dioses&lt;/a&gt; Se permite la reproducción del contenido para fines educacionales y/o científicos siempre y cuando se mencione claramente nuestro sitio web, así como el nombre del autor de cada artículo. Se prohibe su reproducción con fines comerciales.</copyright><lastBuildDate>Tue, 03 Nov 2026 21:02:51 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>ABC vuelve a perder la verguenza, por James Randi. La fe y la pizza, por Alison Smith. Crucero por el Atlántico Norte cancelado, por Phil Plait. "OVNIs" avistados en un encuentro escéptico en Nueva Zelanda, por Jeff Wagg. ¡Vosotros tambien podéis!, por Jeff Wagg. Prometedoras noticias desde África, por Jeff Wagg. Poniéndole un bonito lazo al escepticismo, por Brian Dunning. Un recurso escéptico olvidado, por Jeff Wagg. ¿Que será lo siguiente?, por James Randi. Crítica de Religulous, por Scott Hurst. Conclusión final, por Jeff Wagg</title><link>http://sindioses.org/randi/randi20081010.html</link><dc:creator>James Randi, traducción de Lucía Sierra</dc:creator><description>&lt;section id="abc-vuelve-a-perder-la-verguenza-por-james-randi"&gt;
 &lt;h2&gt;ABC vuelve a perder la verguenza, por James Randi&lt;/h2&gt;
 &lt;p&gt;La cadena de televisión ABC - USA - se encuentra entre las más populares cadenas televisivas. Los espectadores esperarían que esta compañía supiera presentar noticias y documentales con rigor y desde una perspectiva equilibrada. Tal vez sí sepan hacerlo, pero sus periodistas y editores utilizan generosamente sus poderes para tergiversar y destruir la integridad de la información que procesan, satisfaciendo así el voraz gusto del público por las presentaciones falaces, agradables y glamurosas que les mantienen engañados y desinformados.&lt;/p&gt;
 &lt;figure style="width: 204px"&gt;
@@ -175,7 +175,7 @@
 &lt;section id="conclusion-final-por-jeff-wagg"&gt;
 &lt;h2&gt;Conclusión final, por Jeff Wagg&lt;/h2&gt;
 &lt;p&gt;Este es el último Swift en este formato. A partir de ahora veréis artículos publicados individualmente, esperemos que a diario, en randi.org. ¡Se acabó esperar hasta el Viernes para enteraros de las últimas noticias en el mundo escéptico! Tendréis algo nuevo que leer cada día. Se nos unirán unos cuantos magníficos escritores invitados; a algunos ya los conocéis... y a otros os encantará conocerlos. Estad atentos. Este es el primero de muchos cambios que esperamos hacer.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="(Firma de James Randi)" src="http://sindioses.org/randi/signature.gif" style="width: 165px; height: 84px;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="(Firma de James Randi)" height="84" src="http://sindioses.org/randi/signature.gif" width="165"&gt;&lt;/p&gt;
 &lt;hr class="docutils"&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://sindioses.org/randi/randi.html"&gt;Comentarios Semanales de James Randi&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
@@ -209,7 +209,7 @@
 &lt;/nav&gt;
 &lt;section id="la-prueba-de-derek-olgivie-por-james-randi"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="http://sindioses.org/randi/randi20081003.html#toc-entry-1" role="doc-backlink"&gt;La prueba de Derek Olgivie, por James Randi&lt;/a&gt;&lt;/h2&gt;
-&lt;img alt="Randi y Ogilvie" class="align-right" src="http://www.randi.org/images/commentary/200810/randiogilvie.jpg" style="width: 220px; height: 176px;"&gt;
+&lt;img alt="Randi y Ogilvie" class="align-right" height="176" src="http://www.randi.org/images/commentary/200810/randiogilvie.jpg" width="220"&gt;
 &lt;p&gt;Desde el Reino Unido el lector Troy Donockley nos hace llegar este comentario:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;La pasada noche, el canal 5 del Reino Unido emitió un documental sobre el "Lector de la Mente de Bebés" Derek Ogilvy, y me senté a ver este previsto "golpe a la razón" con emoción. ¡Un psíquico estaba tomando el Desafío del Millón de Dólares! ¡Estupendo! ¡Me hizo querer dar una fiesta en la calle! No fui el único.&lt;/p&gt;
@@ -249,7 +249,7 @@
 &lt;/section&gt;
 &lt;section id="fomentando-las-creencias-por-jeff-wagg"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="http://sindioses.org/randi/randi20081003.html#toc-entry-2" role="doc-backlink"&gt;Fomentando las creencias, por Jeff Wagg&lt;/a&gt;&lt;/h2&gt;
-&lt;img alt="Cartel de la Iglesia" class="align-right" src="http://www.randi.org/images/commentary/200810/churchsign.jpg" style="width: 220px; height: 220px;"&gt;
+&lt;img alt="Cartel de la Iglesia" class="align-right" height="220" src="http://www.randi.org/images/commentary/200810/churchsign.jpg" width="220"&gt;
 &lt;p&gt;Recientemente he asistido a una popular conferencia paranormal. Una de las cosas que llamó mi atención fue la constante afirmación de que los diversos fenómenos que se discutían eran absolutamente reales. Cuando alguien presentaba una experiencia, el grupo asentía y comentaban cómo sabían que era verdad. "Yo te creo, ahora tú me crees". En varias horas de conversación, nunca escuché a nadie cuestionar lo que los demás decían, al menos, en su presencia.&lt;/p&gt;
 &lt;p&gt;Esto me recordó muchas iglesias a las que he asistido, donde el predicador, sacerdote o laico alentaría a los reunidos a creer en lo que estaba diciendo. "Tened fe.. la fe os salvará, no dejéis que la duda entre arrastrándose..". Compara esto con TAM o cualquier otra conferencia escéptica. Nosotros tratamos de seguir el viejo consejo de "mostrar, no decir". Brindar las pruebas y dejar que hablen por sí mismas.&lt;/p&gt;
 &lt;p&gt;¿Podría ser que esta afirmación constante de las creencias es como un dique conteniendo las siempre-invasivas aguas de la duda inherente a nuestra especie? Sólo como alimento para la reflexión: si te están diciendo que creas algo, pregunta por qué la evidencia no es suficiente para fomentar su propia creencia. Tendría curiosidad por saber cuál era la respuesta.&lt;/p&gt;
@@ -271,7 +271,7 @@
 &lt;/section&gt;
 &lt;section id="michael-horn-expuesto-por-jeff-wagg"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="http://sindioses.org/randi/randi20081003.html#toc-entry-4" role="doc-backlink"&gt;Michael Horn expuesto, por Jeff Wagg&lt;/a&gt;&lt;/h2&gt;
-&lt;img alt="Estela" class="align-right" src="http://www.randi.org/images/commentary/200810/ufakeo.jpg" style="width: 300px; height: 200px;"&gt;
+&lt;img alt="Estela" class="align-right" height="200" src="http://www.randi.org/images/commentary/200810/ufakeo.jpg" width="300"&gt;
 &lt;p&gt;Michael Horn es el portavoz de Billy Meier, un hombre que afirma haber sido visitado frecuentemente por alienígenas de las Pléyades. La página web de Horn es &lt;a class="reference external" href="http://www.theyfly.com"&gt;http://www.theyfly.com&lt;/a&gt;, y aunque me resisto a dirigir tráfico allí, la web habla por sí misma. He tenido algunos encuentros sin invitación con Horn, y ha usado mis palabras fuera de contexto para atacar el trabajo de otros escépticos, especialmente el de Derek Bartholomaus del Grupo de Investigaciones Independiente (&lt;a class="reference external" href="http://www.iigwest.org"&gt;http://www.iigwest.org&lt;/a&gt;). Dicho esto, él respetó mi deseo y paró de contactar conmigo, por lo cual estoy agradecido.&lt;/p&gt;
 &lt;p&gt;Derek ha sido crítico con Horn y Meier, y ha realizado investigaciones en las fotos de "nave alienígena" de la web, incluyendo alguna que parece una tarta de boda volando. Recientemente, Horn acusó a Derek de dar información falsa acerca de un testimonio científico, e incluyó estas palabras: "Voy a revelar y ensartar su incompetencia". El problema con el argumento de Horn es que los datos vinieron de su propia web. Cuando se enfrentó con esto, Horn admitió que su web tenía información falsa.&lt;/p&gt;
 &lt;p&gt;Os invito a todos a echar un vistazo a &lt;a class="reference external" href="http://www.iigwest.org/investigations/meier"&gt;http://www.iigwest.org/investigations/meier&lt;/a&gt;, y ver hasta dónde puede llegar gente como Horn para retorcer las palabras para sustituir la realidad con un tapiz de su propia elección. Derek y los demás han hecho un trabajo increíble en la investigación del fenómeno Billy Meier, y sólo por eso vale tu tiempo explorarlo. La foto, por cierto, es una de las reproducciones del IIG. Os desafío a que la distingáis del "genuino" artículo encontrado en la web de Horn.&lt;/p&gt;
@@ -301,7 +301,7 @@
 &lt;section id="tam-abierto-a-la-muerte-por-jeff-wagg"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="http://sindioses.org/randi/randi20081003.html#toc-entry-7" role="doc-backlink"&gt;¿TAM abierto a la muerte?, por Jeff Wagg&lt;/a&gt;&lt;/h2&gt;
 &lt;figure class="align-left" style="width: 184px"&gt;
-&lt;img alt="Bierce" src="http://www.randi.org/images/commentary/200810/bierce.jpg" style="width: 180px; height: 242px;"&gt;
+&lt;img alt="Bierce" height="242" src="http://www.randi.org/images/commentary/200810/bierce.jpg" width="180"&gt;
 &lt;figcaption&gt;
 &lt;p&gt;¿Nuestro próximo orador en TAM?&lt;/p&gt;
 &lt;/figcaption&gt;
@@ -357,7 +357,7 @@
 &lt;p&gt;A partir del 10 de octubre, esta columna cambiará drásticamente de formato. Usaremos una presentación más al estilo de un blog, con actualizaciones más frecuentes y más oradores invitados. Randi aún estará por aquí para ilustrarnos con su sabiduría, pero se sumará a otros dirigentes del escepticismo y la ciencia. Mantente sintonizado al nuevo &lt;em&gt;Swift&lt;/em&gt;... pensamos que te gustará. &lt;a class="brackets" href="http://sindioses.org/randi/randi20081003.html#swift" id="footnote-reference-1" role="doc-noteref"&gt;&lt;span class="fn-bracket"&gt;[&lt;/span&gt;1&lt;span class="fn-bracket"&gt;]&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Randi está viajando de nuevo, primero a California y luego el 10 de octubre a Nueva York donde los Escépticos de la Ciudad de Nueva York serán sus anfitriones en una conferencia libre en la Universidad Rockefeller. Hay más información disponible en &lt;a class="reference external" href="http://www.nycskeptics.org"&gt;http://www.nycskeptics.org&lt;/a&gt;. Los Escépticos de la Ciudad de Nueva York son un grupo bastante nuevo, y ya están de cazapandillas. Si estás pensando en comenzar una organización local, son un magnífico ejemplo de cómo hacerlo bien.&lt;/p&gt;
 &lt;p&gt;He mencionado en el artículo sobre los antibióticos cómo necesitamos celebrar la ciencia, así como señalar la pseudociencia. En ese sentido, me gustaría pegar un grito a Science Daily (Ciencia a Diario). Si alguna vez sientes que estamos perdiendo la batalla, una visita a &lt;a class="reference external" href="http://www.sciencedaily.com"&gt;http://www.sciencedaily.com&lt;/a&gt; puede alegrarte un poco el día. Es una crónica del progreso que la ciencia está haciendo cada día, y muestra que a pesar de lo que los medios de comunicación dominantes puedan describir, hay un montón de gente con talento y dedicación trabajando para ampliar el conocimiento humano. Simplemente no prestes demasiada atención a los anuncios de Google; el contraste que ofrecen proyecta una luz más brillante sobre por qué la ciencia es importante.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="(Firma de James Randi)" src="http://sindioses.org/randi/signature.gif" style="width: 165px; height: 84px;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="(Firma de James Randi)" height="84" src="http://sindioses.org/randi/signature.gif" width="165"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Notas&lt;/strong&gt;&lt;/p&gt;
 &lt;aside class="footnote-list brackets"&gt;
 &lt;aside class="footnote brackets" id="swift" role="doc-footnote"&gt;
@@ -518,7 +518,7 @@
 &lt;p&gt;¿Por que les estoy diciendo esto? Pues porque soy curioso, y me tomé el tiempo de investigarlo. Me pregunto si "curioso" es una parte integral de la definición de escéptico que hemos pasado por alto. Nosotros (los escépticos) nos tomamos el tiempo de investigar en lugar de solo encogernos de hombros. Por otro lado, mi investigación fue breve y a todas luces poco exhaustiva, pero ¿cuantos no escépticos hubieran llegado tan lejos? Esa es una pregunta honesta; yo ni siquiera sé si llegue a algún lado.&lt;/p&gt;
 &lt;p&gt;Las cosas continúan ocupándonos en la JREF. Tenemos próximos desafíos de alto perfil en camino, algunas nuevas noticias y hemos comenzado a invitar a oradores para la TAM 7 (9 al 12 de Julio del 2009 en Las Vegas). Si añaden una alerta de google a James Randi, verán que tan productivo ha sido (recibí 144 artículos en mi última búsqueda).&lt;/p&gt;
 &lt;p&gt;Y tengan en mente que se está acabando el tiempo para la Amaz!ng Adventure 4: persiguiendo al Chupacabras (8 al 15 de Marzo, viaje redondo de Los Angeles). Detalles completos en &lt;a class="reference external" href="http://www.amazingmeeting.com"&gt;http://www.amazingmeeting.com&lt;/a&gt;. Escapen al frio Marzo y únanse a nosotros en un viaje a México!&lt;/p&gt;
-&lt;p&gt;&lt;img alt="(Firma de James Randi)" src="http://sindioses.org/randi/signature.gif" style="width: 165px; height: 84px;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="(Firma de James Randi)" height="84" src="http://sindioses.org/randi/signature.gif" width="165"&gt;&lt;/p&gt;
 &lt;hr class="docutils"&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://sindioses.org/randi/randi.html"&gt;Comentarios Semanales de James Randi&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
@@ -701,7 +701,7 @@
 &lt;p&gt;Nuestro agradecimiento también a Paul Hoffmaster, que pasa su tiempo pintando o construyendo en Fort Lauderdale. Gracias, Paul, por ahorrarnos dinero a la &lt;acronym title="James Randi Educational Foundation"&gt;JREF&lt;/acronym&gt; y mantener el edificio con tan buen aspecto.&lt;/p&gt;
 &lt;p&gt;También tenemos que dar reconocimiento a Amy, que se está trasladando a Oregon para seguir con su educación. Amy fue una voluntaria incansable en la &lt;acronym title="James Randi Educational Foundation"&gt;JREF&lt;/acronym&gt;, y la vamos a echar mucho de menos.&lt;/p&gt;
 &lt;p&gt;De nuevo, sólo son unos pocos de los amigos que mantienen la &lt;acronym title="James Randi Educational Foundation"&gt;JREF&lt;/acronym&gt; en marcha. Una de las cosas que hemos discutido recientemente es la formalización de nuestro programa de voluntarios. Si estás interesado en ayudar a la &lt;acronym title="James Randi Educational Foundation"&gt;JREF&lt;/acronym&gt;, observa este espacio en busca de información sobre cómo te puedes inscribir. Y gracias de antemano.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="(Firma de James Randi)" src="http://sindioses.org/randi/signature.gif" style="width: 165px; height: 84px;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="(Firma de James Randi)" height="84" src="http://sindioses.org/randi/signature.gif" width="165"&gt;&lt;/p&gt;
 &lt;hr class="docutils"&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://sindioses.org/randi/randi.html"&gt;Comentarios Semanales de James Randi&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
@@ -756,7 +756,7 @@
 &lt;/div&gt;
 &lt;/blockquote&gt;
 &lt;figure style="width: 204px"&gt;
-&lt;img alt="" src="http://sindioses.org/randi/blank.jpg" style="width: 200px; height: 200px;"&gt;
+&lt;img alt="" height="200" src="http://sindioses.org/randi/blank.jpg" width="200"&gt;
 &lt;/figure&gt;
 &lt;p&gt;Tal como sospechaba que haría, Myers se ha rajado de su bravuconada. Pero fíjate: no ofrece una fecha alternativa en la que pudiéramos llevar a cabo este experimento, ¡simplemente rechaza seguir adelante con el reto que él propuso, un reto que definitivamente demostraría o refutaría las alegaciones que hizo sobre que fingí mi consumo de las pastillas para dormir homeopáticas Calms Forte! ¡Y ahora trata de distraer la atención hacia si mis creencias son o no válidas! ¡Podemos tener pruebas, fácil y directamente, pero no someterá sus propias creencias al examen!&lt;/p&gt;
 &lt;p&gt;¿A qué "cruzada" se refiere? Mi batalla es contra la desinformación, las mentiras, el engaño, el timo y la tontería promocionados por gente como Jack Myers en los medios. Difícilmente es una cruzada; es mucho más sustancial que eso. Involucra a toda nuestra especie, nuestro progreso, nuestra supervivencia - mientras los aficionados como Myers hacen mucho ruido en los medios y se rajan cuando se les enfrenta a la realidad - como acaba de hacer.&lt;/p&gt;
@@ -826,7 +826,7 @@
 &lt;p&gt;Nuestra columna está un poco diferente esta semana, y notarás otros cambios en el sitio de la &lt;acronym title="James Randi Educational Foundation"&gt;JREF&lt;/acronym&gt; tal como vayamos ajustándolo mejor a nuestras necesidades y a las tuyas. Si tienes sugerencias sobre cómo se puede hacer más usable, por favor envíalas a &lt;a class="reference external" href="mailto:jeff@randi.org"&gt;jeff@randi.org&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;El personal de la &lt;acronym title="James Randi Educational Foundation"&gt;JREF&lt;/acronym&gt; está viajando mucho estos días, dando conferencias, asistiendo a conferencias y echando un poco de caza de fantasmas a la mezcla. Aquí estarás informado de nuestras aventuras.&lt;/p&gt;
 &lt;p&gt;Un último chisme... la cantidad de los nuestros en Facebook (&lt;a class="reference external" href="http://www.facebook.com"&gt;http://www.facebook.com&lt;/a&gt;) están creciendo a pasos agigantados. Si no estás familiarizado con Facebook, es un sitio de redes sociales que te permite mantenerte en contacto con gente de todo el mundo. No es para todos, pero puede ser una bonita manera de seguir la pista de tus amigos escépticos favoritos. Puedes encontrarme bajo el improbable nombre de Jeff Wagg (soy el que se apoya en un fantasma).&lt;/p&gt;
-&lt;p&gt;&lt;img alt="(Firma de James Randi)" src="http://sindioses.org/randi/signature.gif" style="width: 165px; height: 84px;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="(Firma de James Randi)" height="84" src="http://sindioses.org/randi/signature.gif" width="165"&gt;&lt;/p&gt;
 &lt;hr class="docutils"&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://sindioses.org/randi/randi.html"&gt;Comentarios Semanales de James Randi&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
@@ -968,7 +968,7 @@
 &lt;section id="para-terminar"&gt;
 &lt;h2&gt;Para terminar...&lt;/h2&gt;
 &lt;p&gt;Cuando aún me tambaleaba de la gira por las Islas Galápagos, asistí a la Dragon*Con, una asamblea de más de 37.000 juerguistas que invadieron Atlanta. Hablé allí, fui bien recibido, y me vi totalmente sorprendido y complacido por la calidad y carácter de los tipos extraños que asistían. Puedes escuchar mis observaciones sobre este encuentro en &lt;a class="reference external" href="http://www.itricks.com/randishow"&gt;http://www.itricks.com/randishow&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="(Firma de James Randi)" src="http://sindioses.org/randi/signature.gif" style="width: 165px; height: 84px;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="(Firma de James Randi)" height="84" src="http://sindioses.org/randi/signature.gif" width="165"&gt;&lt;/p&gt;
 &lt;hr class="docutils"&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://sindioses.org/randi/randi.html"&gt;Comentarios Semanales de James Randi&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
@@ -1173,7 +1173,7 @@
 &lt;p&gt;Mi buen amigo Chip Denman, nuestro estadista oficial en la JREF, ha aceptado amablemente participar como miembro en el consejo de administración de la James Randi Educational Foundation. Aportará a este cargo su considerable experiencia con los National Capital Area Skeptics, y le estamos muy agradecidos por su participación. Esta incorporación forma parte del reciente cambio de posiciones y deberes en la JREF, y yo ya he empleado mucho tiempo en preparar mis dos nuevos libros - “Wrong!” ["¡Erróneo!"] y “A Magician in the Laboratory” ["Un mago en el laboratorio"] - sin fecha de publicación acordada por el momento.&lt;/p&gt;
 &lt;p&gt;Acabamos de recibir un ejemplar del muy esperado y sensacional nuevo DVD de Robert Neary y Tyson Smith – “Andrus – the Man, the Mind and the Magic” ["Andrus - El Hombre, la Mente y la Magia"] – que trata de la vida de nuestro buen amigo Jerry Andrus, una leyenda en el mundo de la magia, y un desafío para nuestro entendimiento de la percepción y la realidad. La JREF pondrá a la venta este producto para los lectores, bajo advertencia de que el visionado de esta presentación podría causar estupefacción y desconcierto - así como placer, risa y fascinación absoluta. Jerry era único, y yo creo que jamás tendrá igual. Sólo Leonardo Da Vinci se le acercó.&lt;/p&gt;
 &lt;p&gt;Que se sepa que yo tenía un día de muy mala barba &lt;a class="brackets" href="http://sindioses.org/randi/randi20080829.html#barba" id="footnote-reference-2" role="doc-noteref"&gt;&lt;span class="fn-bracket"&gt;[&lt;/span&gt;2&lt;span class="fn-bracket"&gt;]&lt;/span&gt;&lt;/a&gt; cuando fui entrevistado para este DVD.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="(Firma de James Randi)" src="http://sindioses.org/randi/signature.gif" style="width: 165px; height: 84px;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="(Firma de James Randi)" height="84" src="http://sindioses.org/randi/signature.gif" width="165"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Notas:&lt;/strong&gt;&lt;/p&gt;
 &lt;aside class="footnote-list brackets"&gt;
 &lt;aside class="footnote brackets" id="chutzpah" role="doc-footnote"&gt;
@@ -1217,14 +1217,14 @@
 &lt;section id="tio-espeluznante-de-nuevo-en-las-noticias"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="http://sindioses.org/randi/randi20080822.html#toc-entry-1" role="doc-backlink"&gt;Tío espeluznante de nuevo en las noticias&lt;/a&gt;&lt;/h2&gt;
 &lt;figure class="align-center" style="width: 164px"&gt;
-&lt;img alt="Mono" src="http://www.randi.org/images/commentary/200808/monkey.jpg" style="width: 160px; height: 270px;"&gt;
+&lt;img alt="Mono" height="270" src="http://www.randi.org/images/commentary/200808/monkey.jpg" width="160"&gt;
 &lt;figcaption&gt;
 &lt;p&gt;¡Caray! ¡Sí que me engañó!&lt;/p&gt;
 &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;Cuando algunas personas se dejan llevar demasiado rápido por una farsa específica, no pueden parar. Uno de esos desafortunados, un antiguo promotor de Las Vegas llamado Tom Biscardi, se está preguntando actualmente qué les sucedió a sus dos "socios" que aceptaron de él un anticipo de 50.000 dolares sobre ganancias futuras que iban a ser obtenidas de exhibir el cuerpo congelado de un falso Bigfoot. Matthew Whitton y Rick Dyer, los auténticos bípedos de Georgia que afirmaron haber encontrado y refrigerado el cuerpo del Bigfoot, están ahora siendo perseguidos por Biscardi, con cuyo dinero parecen haberse fugado una vez que el "cadáver" congelado se reveló como una farse. ¿De verdad? ¡Caramba!&lt;/p&gt;
 &lt;p&gt;Biscardi contrató a un investigador, Steve Kulls, para estudiar el asunto. Ahora, no puede confirmar dónde está el "cuerpo", pero al parecer fue trasladado de Georgia de Indiana. Examinando la cuestión, Kulls descubrió que las caras pruebas de ADN propuestas no eran necesarias; ya ves, un traje de mono de goma no responde apropiadamente a tan avanzadas técnicas. Para dar una impresión temporal de autenticidad, los bípedos de Georgia habían rellenado el traje con diversas partes de cuerpos que despedían una evidencia olfativa impresionante que podría haber disuadido a un investigador menos entusiasta que el Sr. Kulls.&lt;/p&gt;
-&lt;img alt="Biscardi" class="align-right" src="http://www.randi.org/images/commentary/200808/biscardi.jpg" style="width: 200px; height: 192px;"&gt;
+&lt;img alt="Biscardi" class="align-right" height="192" src="http://www.randi.org/images/commentary/200808/biscardi.jpg" width="200"&gt;
 &lt;p&gt;Cuando se le preguntó al Sr Biscardi cómo podía haber sido engañado por tal patraña, comentó que era difícil de decir, porque la cosa estaba encerrada en un bloque de hielo. Eso disparó unas pocas sinapsis de memoria en mi cabeza, y recordé que en octubre de 1969, cuando yo era un residente de New Jersey, una exposición en el Monmouth Mall en Eatontown había atraído mi atención. Fue lo que parecía ser una figura peluda con forma humana de unos seis pies de altura. Digo "lo que parecía ser" porque la cosa estaba congelada dentro de un enorme bloque de hielo turbio, los visitantes lo veían desde un andamiaje elevado, y estaba mal iluminado - tal vez por una buena razón. Todo lo que realmente podría haber dicho sobre él era que parecía un viejo abrigo de pieles con piernas...&lt;/p&gt;
 &lt;p&gt;Mi amigo Ivan T. Sanderson, un naturalista que estaba muy interesado en asuntos de Bigfoot, habiendo acuñado la palabra "criptozoología", vivía en New Jersey, al noroeste de mi casa, y contacté con él inmediatamente. Llegó al día siguiente, y se tomó un gran interés en esta exposición, a pesar de que lo que encontré era una evidencia muy débil y ninguna validación. Para mi desgracia, he descubierto ahora que unos pocos años antes de esto, él ya había decidido aceptar y promocionar la validez de esta farsa, y también había apoyado a un verdadero "bicho" duro de roer, el Dr. Bernard Heuvelmans, antiguo miembro de la Real Academia de Ciencias en su Bélgica natal. Hasta ese momento, respetaba las opiniones de Ivan, pero nos separamos con esto. Y pensar que había pasado un par de días en su casa en el condado de Warren, donde me había enseñado cómo manejar y disparar una .45 automática...&lt;/p&gt;
 &lt;p&gt;Pero, volvamos a la encarnación actual de esta farsa. Tal y como se presenta, los cargos de fraude podrían ser presentados contra Dyer y Whitton en lo que podría ser un caso criminal o civil. Al parecer Biscardi les dio el dinero libremente, lo que complacerá a los abogados inmensamente, estoy seguro. ¿O era él una parte de la estafa...? Cabe preguntárselo, desde entonces la página web de Dyer y Whitton - &lt;a class="reference external" href="http://BigfootTracker.com"&gt;http://BigfootTracker.com&lt;/a&gt; - tiene categorías para la comercialización de duendes, el monstruo del lago Ness, unicornios, dinosaurios, y avistamientos de Jimmy Hoffa o Elvis Presley...&lt;/p&gt;
@@ -1257,7 +1257,7 @@
 &lt;/section&gt;
 &lt;section id="una-duda-quizas"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="http://sindioses.org/randi/randi20080822.html#toc-entry-4" role="doc-backlink"&gt;¿Una duda quizás?&lt;/a&gt;&lt;/h2&gt;
-&lt;img alt="Colin Ross" class="align-right" src="http://www.randi.org/images/commentary/200808/drrossb.jpg" style="width: 217px; height: 222px;"&gt;
+&lt;img alt="Colin Ross" class="align-right" height="222" src="http://www.randi.org/images/commentary/200808/drrossb.jpg" width="217"&gt;
 &lt;p&gt;Bueno, amigos, pensáis que habéis visto todo tipo de afirmaciones que podrían ser lanzadas a la JREF para retar al premio del millón de dólares. La mayoría han sido absurdas, estúpidas, irracionales, y/o pasmosas. Ahora tenemos una que es todo eso, y viene del Dr. Colin A. Ross, un psiquiatra de Richardson, Texas. Ha publicado 130 artículos en revistas revisadas por pares, la mayoría de ellos tratando con el trauma y la disociación, y es muy activo en la predicación sobre el control mental secreto del gobierno. Dice que ha investigado a la CIA durante veinte años, particularmente respecto a espías que han fallecido:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Tengo en mi poder los archivos de aproximadamente 80 de los 149 sub-proyectos, los cuales he obtenido a través de peticiones con la CIA al archivo de la FOIA [Freedom of Information Act - Ley de Libertad de Información] para cada investigador de interés fallecido... los implantes de electrodos cerebrales fueron realizados por la CIA con fondos de inteligencia y combinados con un gran número de drogas incluyendo alucinógenos... MKULTRA [un proyecto secreto de control mental de la CIA] por sí solo incluía cuatro sub-proyectos sobre niños, uno se llevó a cabo en el Campamento de Verano Internacional de la Infancia en Maine por un investigador inconsciente. El archivo del sub-proyecto MKULTRA que está en mi posesión establece para este proyecto que "el interés de la CIA en esta investigación fue establecer contacto con ciudadanos extranjeros de futuro uso operativo potencial por la CIA. Los niños que sirvieron como sujetos en el proyecto eran tan jóvenes como de once años."&lt;/p&gt;
@@ -1325,7 +1325,7 @@
 &lt;h2&gt;&lt;a class="toc-backref" href="http://sindioses.org/randi/randi20080822.html#toc-entry-8" role="doc-backlink"&gt;Para terminar...&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Sí, las Galápagos fue un encantador lugar en el que estar, pero nuestra descripción y explicación tendrá que esperar a otra columna. Llevamos retraso con nuestros deberes porque nos tomamos una semana libre, así que aunque estamos entusiasmados con la experiencia, sólo puedes anticiparte escuchando sobre ello...&lt;/p&gt;
 &lt;p&gt;Estamos de vuelta en la oficina, me voy a DragonCon, y después a la ciudad de Nueva York...&lt;/p&gt;
-&lt;p&gt;&lt;img alt="(Firma de James Randi)" src="http://sindioses.org/randi/signature.gif" style="width: 165px; height: 84px;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="(Firma de James Randi)" height="84" src="http://sindioses.org/randi/signature.gif" width="165"&gt;&lt;/p&gt;
 &lt;hr class="docutils"&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://sindioses.org/randi/randi.html"&gt;Comentarios Semanales de James Randi&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
@@ -1521,7 +1521,7 @@ Processed by unicode2rstsubs.py, part of Docutils:
 &lt;img alt="" class="align-right" src="http://www.randi.org/images/commentary/200808/seidel.jpg"&gt;
 &lt;p&gt;Denle una vista al sitio de Kathleen Seidel en &lt;a class="reference external" href="http://www.neurodiversity.com/main.html"&gt;http://www.neurodiversity.com/main.html&lt;/a&gt;. Hay un espectro completo de temas, bien arreglados y categorizados, que vale la pena ver.&lt;/p&gt;
 &lt;p&gt;¡Nos vamos a la Amz!ng Adventure en las Galápagos! por eso es posible que no verán una columna la semana que viene, así que tendrán que sobrevivir solos... esa es una de las razones por las que la columna de esta semana es más larga que lo usual. Léanla muy despacio&lt;/p&gt;
-&lt;p&gt;&lt;img alt="(Firma de James Randi)" src="http://sindioses.org/randi/signature.gif" style="width: 165px; height: 84px;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="(Firma de James Randi)" height="84" src="http://sindioses.org/randi/signature.gif" width="165"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Notas&lt;/strong&gt;&lt;/p&gt;
 &lt;aside class="footnote-list brackets"&gt;
 &lt;aside class="footnote brackets" id="footnote-1" role="doc-footnote"&gt;
@@ -1548,7 +1548,7 @@ Processed by unicode2rstsubs.py, part of Docutils:
 &lt;/section&gt;</description><guid>http://sindioses.org/randi/randi20080808.html</guid><pubDate>Fri, 08 Aug 2008 03:00:00 GMT</pubDate></item><item><title>Astronauta lunar todavía "en la luna". El estado de la homeocharlatanería. Seguimos con la homeopatía.... Lo que es bueno para unos.... Petición de ayuda. Otro horror de la superstición. "The One" ["El Elegido"]: Episodio 4. Más Sniffex. Otra vez la USPTO. Para cerrar...</title><link>http://sindioses.org/randi/randi20080731.html</link><dc:creator>James Randi, traducción de Lucía Sierra</dc:creator><description>&lt;section id="astronauta-lunar-todavia-en-la-luna"&gt;
 &lt;h2&gt;Astronauta lunar todavía "en la luna"&lt;/h2&gt;
 &lt;figure style="width: 254px"&gt;
-&lt;img alt="" src="http://www.randi.org/images/commentary/200808/mitchell.jpg" style="width: 250px;"&gt;
+&lt;img alt="" src="http://www.randi.org/images/commentary/200808/mitchell.jpg" width="250"&gt;
 &lt;figcaption&gt;
 &lt;p&gt;—¿Ya ven?&lt;/p&gt;
 &lt;div class="legend"&gt;
@@ -1716,7 +1716,7 @@ Processed by unicode2rstsubs.py, part of Docutils:
 &lt;p&gt;No, yo creo que lo correcto habría sido "the rich", del mismo modo que "the elite" - en lugar de "the elites" - sería correcto.&lt;/p&gt;
 &lt;p&gt;Finalmente, por si la semana no hubiera sido lo suficientemente absurda, el lector de esta columna Steve Steppe nos envía lo siguiente: según el Times Online británico, una compañía japonesa de conservas de pescado está utilizando la acupuntura - sí, habéis leído bien - en atunes y besugos para "calmarlos" en su agonía, y conseguir "purificar su sangre" para "dar a la carne un mejor sabor". En sus planes está ya comenzar a probar este mágico encantamiento en los salmones.&lt;/p&gt;
 &lt;p&gt;Visitad &lt;a class="reference external" href="http://tinyurl.com/65gpf7"&gt;http://tinyurl.com/65gpf7&lt;/a&gt; para leer la historia completa.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="(Firma de James Randi)" src="http://sindioses.org/randi/signature.gif" style="width: 165px; height: 84px;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="(Firma de James Randi)" height="84" src="http://sindioses.org/randi/signature.gif" width="165"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Notas&lt;/strong&gt;&lt;/p&gt;
 &lt;aside class="footnote-list brackets"&gt;
 &lt;aside class="footnote brackets" id="twig" role="doc-footnote"&gt;
@@ -1755,14 +1755,14 @@ Processed by unicode2rstsubs.py, part of Docutils:
 &lt;section id="un-desarrollo-alentador"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="http://sindioses.org/randi/randi20080725.html#toc-entry-1" role="doc-backlink"&gt;Un desarrollo alentador&lt;/a&gt;&lt;/h2&gt;
 &lt;figure class="align-right" style="width: 254px"&gt;
-&lt;img alt="Sniffex" src="http://www.randi.org/images/commentary/200807/sniffexa.jpg" style="width: 250px; height: 164px;"&gt;
+&lt;img alt="Sniffex" height="164" src="http://www.randi.org/images/commentary/200807/sniffexa.jpg" width="250"&gt;
 &lt;figcaption&gt;
 &lt;p&gt;Paul Johnson busca explosivos con su juguete "Sniffex"&lt;/p&gt;
 &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;Nuestros lectores recordarán un tedioso asunto que nos viene ocupando desde hace meses. Se trata de otra absurda “varilla de zahorí”, promovida por un tal Paul B. Johnson, presidente de la compañía “Sniffex”. Johnson demandó ansiosamente al JREF cuando publicamos los hechos acerca del juguete fraudulento que estaba promocionando como detector de bombas, obviamente con la esperanza de sacar beneficio de la creciente preocupación del público por la seguridad. De hecho, en septiembre de 2006 cambió el nombre de su empresa por “Homeland Safety International Inc.”, al hilo de los últimos titulares mediáticos, y quizá con la pretensión de insinuar una relación con las agencias del gobierno federal. Divulgó una serie de 33 notas de prensa que contenían principalmente información falsa acerca del producto y de la situación financiera de la empresa. Esta maniobra elevó la cotización de los valores desde los 80 centavos hasta unos 6 dólares, lo que supuso un total de 32 millones de dólares en beneficios ilegales.&lt;/p&gt;
 &lt;p&gt;Pero una reciente racha de mala suerte ha hecho caer la cotización hasta los 0,001 dólares por acción...&lt;/p&gt;
-&lt;img alt="Graph" class="align-right" src="http://www.randi.org/images/commentary/200807/graph.jpg" style="width: 300px; height: 121px;"&gt;
+&lt;img alt="Graph" class="align-right" height="121" src="http://www.randi.org/images/commentary/200807/graph.jpg" width="300"&gt;
 &lt;p&gt;La empresa ha sido ahora acusada de violar las medidas sobre sistemas de registro y las disposiciones antifraude de la legislación norteamericana. La Comisión de vigilancia y control del mercado de valores de los Estados Unidos [U.S. Securities and Exchange Commission, SEC] ha promovido mandamientos judiciales contra las violaciones de la legislación sobre el mercado de valores, sanciones monetarias civiles y otras penalizaciones. En resumen, la compañía ha sido acusada de emplear técnicas fraudulentas para la manipulación del mercado...&lt;/p&gt;
 &lt;p&gt;Tengan presente la cuestión esencial: los abogados se han enriquecido, y lo siguen haciendo, con este asunto. Johnson y sus cohortes se puede permitir pagar costes y honorarios, no así la JERF. Aunque nuestro interés en esta estafa no ha decaído, ya hemos tenido que desembolsar más de doce mil dólares en costes legales para defendernos. Ahora, años más tarde, Homeland Safety International Inc. sólo tiene que afrontar el inminente final de su fraude, embolsarse sus beneficios en cuentas exteriores y esperar a que mejore el tiempo.&lt;/p&gt;
 &lt;p&gt;Creemos que nuestra denuncia de la estafa ha contribuido a que la SEC emprenda su proceso contra Johnson y compañía, pero debemos seguir preguntándonos porqué la agencia muestra tal inercia. Añadiré que Johnson (como sucede con tantos de estos acosos judiciales) retiró su demanda contra la JREF justo antes de que llegara a los tribunales, pero cuanto tratamos de recuperar los costes que nos había ocasionado su descaradamente frívola acción legal (emprendida sólo para intimidarnos y hacernos perder dinero) el juez rechazó nuestra exigencia.&lt;/p&gt;
@@ -1793,7 +1793,7 @@ Processed by unicode2rstsubs.py, part of Docutils:
 &lt;p&gt;Les diré que si no hubieran escrito ese comentario, o si al menos no figurase entre los primeros resultados de una búsqueda por “sniffex” y “Paul Johnson”, se habrían salvado muchas vidas. Gracias a Dios hay personas y grupos y gobiernos que no creen todo lo que leen en internet y han comprado el aparato. Gracias a Dios hemos salvado vidas de soldados en Tailandia cuando iban a cruzar un puente minado. Gracias a Dios hemos encontrado pruebas materiales (casquillos usados) en un campo de la muerte de ese país. Y, veamos, están Beirut, Irak, Bangladesh, India, Egipto, el ejército americano, etc., etc. que usan el producto con éxito... Puede ser, sólo puede ser, que hayan ido ustedes demasiado lejos y hayan puesto en riesgo la vida de personas al desacreditar un producto que nunca han visto, ni hablado con alguien que lo haya visto, y sobre el que ni siquiera han investigado... No tranquilizará su conciencia saber en la mayoría de situaciones en las que existe un riesgo de ataque terrorista, el Sniffex podría ser una valiosa arma para evitar daños personales.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Esto es una mera invención; pidan a Johnson que proporcione la documentación sobre el episodio de Tailandia, y/o los datos sobre el Líbano, Irak, Bangladesh, India, Egipto o el ejército americano. Vean, la JREF tiene datos directos, auténticos y completos de una de estas fuentes, datos que contradicen sus fatuas afirmaciones.  Y Johnson –tres veces en el párrafo anterior- da las gracias con mojigatería a una deidad por hechos que son ficticios, y que ni él ni la deidad han provocado. El juguete no funciona. Johnson se saco todo esto de su imaginación. Además, habíamos sido informados de buena fuente, por una persona implicada en las pruebas oficiales del ejército americano con el Sniffex en una base extranjera, de que tras fallar la prueba a la que fue sometido, el representante del distribuidor regional del Sniffex fue llamado para su “reciclaje”.&lt;/p&gt;
-&lt;img alt="Sniffex2" class="align-right" src="http://www.randi.org/images/commentary/200807/sniffex2.jpg" style="width: 150px; height: 117px;"&gt;
+&lt;img alt="Sniffex2" class="align-right" height="117" src="http://www.randi.org/images/commentary/200807/sniffex2.jpg" width="150"&gt;
 &lt;p&gt;Los papeles de la patente del Sniffex –leídos por otro funcionario obviamente incompentente de la Oficina de Patentes y Marcas de los Estados Unidos- afirmaban que el aparato emitía algún tipo de “radio frecuencia” y detectaba la “resonancia sobre el gradiente de campo cero”, aparentemente emitiendo y recibiendo a la vez. Esto es una completa mentira: un informe de la armada de los Estados Unidos sobre sus pruebas con el Sniffex confirmaba que no había elementos en el aparato correspondientes a un transmisor o generador de frecuencia, ni una fuente de alimentación. Fue probado oficialmente por la armada norteamericana, y encontraron que no emitía ninguna señal medible. (¡Pese a estos resultados, la armada de los Estados Unidos compró el dispositivo! ¡Y otra rama del ejército compró 8 de ellos por 6.000 dólares cada uno! ¡Sólo podemos esperar que lo hicieran con intención de examinar el Sniffex, no de usarlo!)&lt;/p&gt;
 &lt;p&gt;Había otras cinco personas acusadas por la Comisión del Mercado de Valores: Mark B. Lindberg, Petar D. Mihaylov, Yuri P. Markov, y Nicolas e Ilona Klausgaard. La Comisión dijo en una nota de prensa que su investigación está “aún en marcha”.&lt;/p&gt;
 &lt;p&gt;Irónicamente, la “patente” del Sniffex –número 6.344.818- expiró hace dos años, debido al impago de las tasas de mantenimiento...&lt;/p&gt;
@@ -1830,7 +1830,7 @@ Processed by unicode2rstsubs.py, part of Docutils:
 &lt;p&gt;El lector Juan Rey, desde España, nos informa:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Apenas puedo creerlo. Fue ayer (07/15/08), en el boletín de noticias más visto en España, en TVE, el más importante (y público) canal de televisión. El director de la DGT [Dirección General de Tráfico], señor Pere Navarro, apareció con unos monjes budistas de El Garraf promocionando su nuevo “casco de protección tántrico”. Afirmaba que esta idea estaba “en línea con nuestros esfuerzos por aumentar la seguridad.” El casco se venderá por 150 euros [236 dólares], y parte de los beneficios serán para los propios monjes.&lt;/p&gt;
-&lt;img alt="Buddha" class="align-right" src="http://www.randi.org/images/commentary/200807/buddha.jpg" style="width: 200px; height: 235px;"&gt;
+&lt;img alt="Buddha" class="align-right" height="235" src="http://www.randi.org/images/commentary/200807/buddha.jpg" width="200"&gt;
 &lt;p&gt;Tenía que confirmarlo, de manera que hoy he echado un vistazo a la revista oficial que publica esa institución (pagada con mis impuestos) para enterarme de que este casco proporciona dos “mantras de protección”: Mamjushri, convenientemente ubicado justo encima de la cabeza “donde se encuentra uno de los chakras humanos más sensibles”, y Kalachakra, la rueda del tiempo, ya ve.&lt;/p&gt;
 &lt;p&gt;Por supuesto, estos monjes ofrecen muchos más consejos a los motociclistas: “Ningún casco proporciona seguridad absoluta”, “Comprueba los neumáticos y el aceite”, “Evita el estrés”, “Mantén la concentración” y “No te enfades”. Parece que los mantras necesitan algo de ayuda para ser eficaces. Y seguro que a nadie se le había ocurrido antes.&lt;/p&gt;
 &lt;p&gt;Los monjes budistas hacen lo que se espera de ellos. Están en su derecho, y en el de vender millones de cascos si pueden. Lo que me molesta es la aprobación oficial, y la anunciada cooperación en el futuro para proyectos similares. Lo peor es que ninguna de las noticias sobre esto parecen mostrar ni un ápice de crítica. Espero que este sea mi granito de arena...&lt;/p&gt;
@@ -1839,7 +1839,7 @@ Processed by unicode2rstsubs.py, part of Docutils:
 &lt;section id="siguiente-episodio-en-australia"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="http://sindioses.org/randi/randi20080725.html#toc-entry-5" role="doc-backlink"&gt;Siguiente episodio en Australia&lt;/a&gt;&lt;/h2&gt;
 &lt;figure&gt;
-&lt;img alt="Ghost" src="http://www.randi.org/images/commentary/200807/ghost.jpg" style="width: 200px; height: 185px;"&gt;
+&lt;img alt="Ghost" height="185" src="http://www.randi.org/images/commentary/200807/ghost.jpg" width="200"&gt;
 &lt;figcaption&gt;
 &lt;p&gt;¿Qué ocurrió...?&lt;/p&gt;
 &lt;/figcaption&gt;
@@ -1863,7 +1863,7 @@ Processed by unicode2rstsubs.py, part of Docutils:
 &lt;p&gt;Comentario de los jueces: Richard dijo que pensaba que los psíquicos estaban haciendo un montón de suposiciones, con sólo unos pocos aciertos. La bruja Stacey Demarco negó que los psíquicos se limitaran a hacer suposiciones, y dijo que el elevado número de fallos se debía a la presión que supone restringir a cinco minutos el tiempo de la prueba..&lt;/p&gt;
 &lt;p&gt;Prueba 2: Encontrar los restos de Ned Kelly.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;img alt="Kelly" class="align-right" src="http://www.randi.org/images/commentary/200807/kelly.jpg" style="width: 180px; height: 279px;"&gt;
+&lt;img alt="Kelly" class="align-right" height="279" src="http://www.randi.org/images/commentary/200807/kelly.jpg" width="180"&gt;
 &lt;p&gt;Comentario de Randi: El nombre de Ned Kelly puede que no signifique mucho para el lector medio no australiano. Kelly fue quizá el más famoso bandido en la historia de Australia, un hombre que vestía una especie de armadura cuando cabalgaba su obviamente sobrecargado caballo. Es muy conocido allá abajo. Richard continúa:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Los posibles restos del famoso bandido australiano Ned Kelly fueron recientemente desenterrados en una antigua prisión. Habían sido trasladados en los años 20 desde su antiguo lugar de reposo. El lugar de la excavación donde se hallaron los restos tenía aproximadamente 4.500 metros cuadrados [50.000 pies cuadrados] según Stacey Demarco, y la localización exacta del hallazgo no es ampliamente conocida, aunque el hallazgo en sí recibió una considerable atención mediática, como demuestra una rápida búsqueda en Google. Los psíquicos se trasladaron la vieja cárcel de Melbourne donde Kelly fue ejecutado por sus crímenes, para realizar una “conexión espiritual” antes de viajar al lugar de la excavación para tratar de localizar los restos.&lt;/p&gt;
@@ -1908,7 +1908,7 @@ Processed by unicode2rstsubs.py, part of Docutils:
 &lt;p&gt;Un para-equipo no necesitaría abordar a un objetivo para sacarle sus secretos. Nuestro país dispone de muchos expertos que pueden interpretar fechas de nacimiento. No hay duda de que también están disponibles las capacidades para-psicológicas. Esta organización requeriría una gran integridad y dedicación a la paz de que puede encontrarse en Washington.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;figure style="width: 184px"&gt;
-&lt;img alt="GB" src="http://www.randi.org/images/commentary/200807/gb.jpg" style="width: 180px; height: 304px;"&gt;
+&lt;img alt="GB" height="304" src="http://www.randi.org/images/commentary/200807/gb.jpg" width="180"&gt;
 &lt;figcaption&gt;
 &lt;p&gt;¡Estamos llegando, Henk!&lt;/p&gt;
 &lt;/figcaption&gt;
@@ -1946,7 +1946,7 @@ Processed by unicode2rstsubs.py, part of Docutils:
 &lt;section id="para-terminar"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="http://sindioses.org/randi/randi20080725.html#toc-entry-7" role="doc-backlink"&gt;Para terminar&lt;/a&gt;&lt;/h2&gt;
 &lt;figure style="width: 204px"&gt;
-&lt;img alt="SSP" src="http://www.randi.org/images/commentary/200807/ssp.jpg" style="width: 200px; height: 195px;"&gt;
+&lt;img alt="SSP" height="195" src="http://www.randi.org/images/commentary/200807/ssp.jpg" width="200"&gt;
 &lt;figcaption&gt;
 &lt;p&gt;El Programa de Ciencias de Verano.&lt;/p&gt;
 &lt;div class="legend"&gt;
@@ -1958,7 +1958,7 @@ Processed by unicode2rstsubs.py, part of Docutils:
 &lt;p&gt;Los estudiantes del SSP tiene que calcular las órbitas de asteroides, usando los maravillosos instrumentos astronómicos e instalaciones informáticas que se les facilitan, bajo la guía de los profesores. El astrónomo George Abell y el Nobel de física Richard Feynman son sólo dos de los que he conocido, y que enseñaron en los SSP. Ellos fueron quienes atrajeron mi atención hacia los directores del programa.&lt;/p&gt;
 &lt;p&gt;Encontrarme con estos jóvenes siempre me ha emocionado, y haber sido invitado a la celebración del 50 aniversario de esta organización ha sido un gran privilegio. Se lo agradezco a los directores.&lt;/p&gt;
 &lt;p&gt;La vida es hermosa...&lt;/p&gt;
-&lt;p&gt;&lt;img alt="(Firma de James Randi)" src="http://sindioses.org/randi/signature.gif" style="width: 165px; height: 84px;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="(Firma de James Randi)" height="84" src="http://sindioses.org/randi/signature.gif" width="165"&gt;&lt;/p&gt;
 &lt;hr class="docutils"&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://sindioses.org/randi/randi.html"&gt;Comentarios Semanales de James Randi&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
@@ -1993,7 +1993,7 @@ Processed by unicode2rstsubs.py, part of Docutils:
 &lt;/nav&gt;
 &lt;section id="una-primicia"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="http://sindioses.org/randi/randi20080718.html#toc-entry-1" role="doc-backlink"&gt;Una primicia&lt;/a&gt;&lt;/h2&gt;
-&lt;img alt="Bentley" class="align-left" src="http://www.randi.org/images/commentary/200807/bentley.jpg" style="width: 210px; height: 210px;"&gt;
+&lt;img alt="Bentley" class="align-left" height="210" src="http://www.randi.org/images/commentary/200807/bentley.jpg" width="210"&gt;
 &lt;p&gt;El más popular “sanador” religioso que llena en la actualidad los auditorios de Norteamérica es un canadiense de 32 años, decorado con tatuajes y piercings en la ceja y la barbilla. Y por si no fuera lo bastante feo, comparece cada noche ante su crédulo público vistiendo una camiseta para que sus ilustraciones puedan apreciarse más fácilmente (un poco como las pintadas en los muros de un colegio, pero con menos sentido.)&lt;/p&gt;
 &lt;p&gt;En su actual “Lakeland Revival”, Todd Bentley predica que algún que otro díos cura por su mediación el cáncer, devuelve el oído a los sordos y resucita a los muertos. ¿De verdad? Bueno, el Hombre Ilustrado puede llevarse el millón de dólares disponible aquí en la JREF [James Randi Educational Foundation] –como si no lo supiera ya– tan pronto como ofrezca pruebas de alguna de las curaciones que anuncia en sus monsergas. Ahora, Bentley proclama que tiene pruebas médicas de muchas de las curaciones que ha llevado a cabo (la misma historia que solemos oír de estos mentirosos), ¡pero por alguna razón no puede ofrecerlas! Cuando lo entrevistó la Associated Press, su “ministro” presentó una lista de quince personas que habían sido curadas. La gente de Bentley aseguró que todas las historias, salvo tres, habían sido “médicamente verificadas”. Esto sonaba bien, aunque fuera una cantidad bastante escasa, dados los miles y miles de curas de las que afirmaban tener pruebas). Sin embargo, dos de los números de teléfono que habían aportado eran incorrectos, seis de aquellas personas no respondieron a los mensajes telefónicos, y sólo dos de los siete restantes, cuando al fin fueron localizados, dijeron poseer informes médicos que demostraban sus milagros. Pero uno de ellos rehusó presentar a su médico para que confirmase la validación, y el doctor del otro no devolvió las llamadas pese a haber recibido la autorización del paciente para hablar de curación.
 ¿No es extraño cómo tales pruebas abundantes y concluyentes parecen volverse evasivas cuando se persiguen? ¿Podría ser que Satán es más poderoso que la “deidad del momento”?&lt;/p&gt;
@@ -2016,7 +2016,7 @@ Processed by unicode2rstsubs.py, part of Docutils:
 &lt;blockquote&gt;
 &lt;p&gt;La gente no puede entender que Dios me dijera algo como: “Golpea a esa mujer en la cara”, aunque no resultara herida y muchos otros fueran curados. O el incidente en que pegué a un tipo tan fuerte que cayó al suelo y se saltó un diente. Pero lo que la gente no sabe es que él era dentista. Y todo un milagro tuvo lugar en su cuerpo: se curó de un cáncer y se convirtió en donante tras el episodio del diente, porque supo que había sido obra de Dios. Y asegura que no sintió nada.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;img alt="money" class="align-right" src="http://www.randi.org/images/commentary/200807/money.jpg" style="width: 200px; height: 256px;"&gt;
+&lt;img alt="money" class="align-right" height="256" src="http://www.randi.org/images/commentary/200807/money.jpg" width="200"&gt;
 &lt;p&gt;¡Ah, aquí tenemos la prueba que estamos buscando, señor Bentley! ¡Una prueba de un millón de dólares, caballero! Sólo tiene que proporcionarnos la identidad de la mujer golpeada en la cara, o la del dentista, y le ingresaremos el dinero en el acto. Pero deje que le ahorre tiempo, para que pueda seguir “curando” a los imbéciles: ni la mujer ni el dentista desean ser identificados, ¿verdad? ¿Que cómo lo sé? Y su elevada ética no le permite identificarlos sin su autorización por escrito, ¿verdad? ¡Eso es! ¿A que le he ahorrado tiempo? Así que vuelva a estafar a ese público que espera ansioso sus gritos y sus aleluyas. ¡Dese prisa, o podrían tener tiempo de volverse inteligentes!&lt;/p&gt;
 &lt;p&gt;¡Menuda oportunidad!&lt;/p&gt;
 &lt;p&gt;Todd Bentley seguirá su marcha hasta que se retire, rico y satisfecho, y algún otro haya aparecido para reemplazarlo, porque todavía vivimos en el mundo de hace un siglo y nos negamos a crecer...&lt;/p&gt;
@@ -2025,7 +2025,7 @@ Processed by unicode2rstsubs.py, part of Docutils:
 &lt;/section&gt;
 &lt;section id="un-informe"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="http://sindioses.org/randi/randi20080718.html#toc-entry-2" role="doc-backlink"&gt;Un informe&lt;/a&gt;&lt;/h2&gt;
-&lt;img alt="Richard Saunders" class="align-right" src="http://www.randi.org/images/commentary/200807/crystalrichard.jpg" style="width: 200px; height: 280px;"&gt;
+&lt;img alt="Richard Saunders" class="align-right" height="280" src="http://www.randi.org/images/commentary/200807/crystalrichard.jpg" width="200"&gt;
 &lt;p&gt;La serie de televisión australiana en la que participa nuestro amigo y colega Richard Saunders parece ser de esa clase de cosas que deberían verse más a menudo en todos los países, por lo que le estamos prestando mucha atención y cobertura. El lector Robert Matic (véase el primer artículo de la semana pasada en &lt;a class="reference external" href="http://tinyurl.com/6ljk4c"&gt;http://tinyurl.com/6ljk4c&lt;/a&gt;, traducción en &lt;a class="reference external" href="http://sindioses.org/randi/randi20080711.html"&gt;randi20080711.html&lt;/a&gt;) nos ha proporcionado otro perspicaz análisis:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Anoche (jueves, 15 de julio de 2008) se emitió en la televisión australiana el segundo episodio de “The One”, en horario de máxima audiencia. Esta es mi reseña de ese capítulo:&lt;/p&gt;
@@ -2098,7 +2098,7 @@ Por supuesto, como hemos comprobado tan a menudo, el SEC pretende asegurarse de 
 &lt;section id="podria-levantarse-el-delegado-de-sirio-por-favor"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="http://sindioses.org/randi/randi20080718.html#toc-entry-4" role="doc-backlink"&gt;¿Podría levantarse el delegado de Sirio, por favor?&lt;/a&gt;&lt;/h2&gt;
 &lt;figure class="align-left" style="width: 204px"&gt;
-&lt;img alt="alien" src="http://www.randi.org/images/commentary/200807/alien.jpg" style="width: 200px; height: 298px;"&gt;
+&lt;img alt="alien" height="298" src="http://www.randi.org/images/commentary/200807/alien.jpg" width="200"&gt;
 &lt;figcaption&gt;
 &lt;p&gt;Eh... ¿Colorado?
 ¿Eso dónde queda?&lt;/p&gt;
@@ -2122,7 +2122,7 @@ Por supuesto, como hemos comprobado tan a menudo, el SEC pretende asegurarse de 
 &lt;section id="recuerdan-a-takahashi"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="http://sindioses.org/randi/randi20080718.html#toc-entry-6" role="doc-backlink"&gt;¿Recuerdan a Takahashi?&lt;/a&gt;&lt;/h2&gt;
 &lt;figure class="align-center" style="width: 254px"&gt;
-&lt;img alt="Takahashi" src="http://www.randi.org/images/commentary/200807/takahashi.jpg" style="width: 250px; height: 210px;"&gt;
+&lt;img alt="Takahashi" height="210" src="http://www.randi.org/images/commentary/200807/takahashi.jpg" width="250"&gt;
 &lt;figcaption&gt;
 &lt;p&gt;10 de julio de 1998: Mai Takahashi puesta a prueba por Randi en un estudio de TV de Tokio&lt;/p&gt;
 &lt;/figcaption&gt;
@@ -2179,14 +2179,14 @@ Menciono el caso Takahashi porque estamos preparando un video de la sesión en l
 &lt;section id="para-terminar"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="http://sindioses.org/randi/randi20080718.html#toc-entry-11" role="doc-backlink"&gt;Para terminar&lt;/a&gt;&lt;/h2&gt;
 &lt;figure class="align-left" style="width: 204px"&gt;
-&lt;img alt="sniffex" src="http://www.randi.org/images/commentary/200807/sniffex.jpg" style="width: 200px; height: 277px;"&gt;
+&lt;img alt="sniffex" height="277" src="http://www.randi.org/images/commentary/200807/sniffex.jpg" width="200"&gt;
 &lt;figcaption&gt;
 &lt;p&gt;Chaqueta elegante, dispositivo estúpido&lt;/p&gt;
 &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;Y la próxima semana tendremos algunas noticias más o menos satisfactorias sobre el timo del “Sniffex”, que hemos estado combatiendo desde hace años aquí en nuestra columna. Consulten cualquiera de las referencias que se encuentran en nuestros archivos de la columna en este sitio, el sitio original en &lt;a class="reference external" href="http://www.randi.org"&gt;http://www.randi.org&lt;/a&gt;, o la dirección &lt;a class="reference external" href="http://sniffextest.blogspot.com"&gt;http://sniffextest.blogspot.com&lt;/a&gt; para anticipar algunos detalles interesantes.&lt;/p&gt;
 &lt;p&gt;Podrán escucharme en una entrevista de una hora el sábado, de 10 a 11 pm hora central. Consulten &lt;a class="reference external" href="http://www.darknessradio.com/"&gt;http://www.darknessradio.com/&lt;/a&gt; para más detalles…&lt;/p&gt;
-&lt;p&gt;&lt;img alt="(Firma de James Randi)" src="http://sindioses.org/randi/signature.gif" style="width: 165px; height: 84px;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="(Firma de James Randi)" height="84" src="http://sindioses.org/randi/signature.gif" width="165"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Notas&lt;/strong&gt;&lt;/p&gt;
 &lt;aside class="footnote-list brackets"&gt;
 &lt;aside class="footnote brackets" id="footnote-1" role="doc-footnote"&gt;
@@ -2315,7 +2315,7 @@ Menciono el caso Takahashi porque estamos preparando un video de la sesión en l
 &lt;p&gt;Nuestro buen amigo Todd Robbins – ver &lt;a class="reference external" href="http://www.toddrobbins.com"&gt;http://www.toddrobbins.com&lt;/a&gt; – presentará un nuevo espectáculo en el festival "Just For Laughs" de Montreal entre el 13 y el 17 de julio. El espectáculo se llama "Hoodwinked" e incluye a Todd – en su personaje de operador secundario, al tahúr Richard Turner, al carterista Bob Arno y a nuestro propio artista vidente, el inimitable Banachek. Si estás en la zona, ve. Cualquier cosa que presente Todd es canela en rama...&lt;/p&gt;
 &lt;img alt="" class="align-right" src="http://www.randi.org/images/commentary/200807/spoonscience.jpg"&gt;
 &lt;p&gt;Para aquellos de vosotros que no acudisteis al TAM 6 quisiéramos compartir un video que hizo nuestro buen amigo el profesor Richard Wiseman en el que todos los asistentes al TAM participaron en la mayor demostración masiva de doblado de cucharas de todos los tiempos, que quizás haya establecido un récord. Puedes leer acerca de esto y ver el video en &lt;a class="reference external" href="http://www.spoonscience.com"&gt;http://www.spoonscience.com&lt;/a&gt;. Estamos encantados de que el profe Wiseman eligiera el TAM para este evento de establecimiento de un récord.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="(Firma de James Randi)" src="http://sindioses.org/randi/signature.gif" style="width: 165px; height: 84px;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="(Firma de James Randi)" height="84" src="http://sindioses.org/randi/signature.gif" width="165"&gt;&lt;/p&gt;
 &lt;hr class="docutils"&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://sindioses.org/randi/randi.html"&gt;Comentarios Semanales de James Randi&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
@@ -2345,7 +2345,7 @@ Menciono el caso Takahashi porque estamos preparando un video de la sesión en l
 &lt;/nav&gt;
 &lt;section id="cuan-ridiculo-se-puede-llegar-a-ser"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="http://sindioses.org/randi/randi20080704.html#toc-entry-1" role="doc-backlink"&gt;¿Cuán ridículo se puede llegar a ser?&lt;/a&gt;&lt;/h2&gt;
-&lt;img alt="RCKC" class="align-right" src="http://www.randi.org/images/commentary/200807/rckc.jpg" style="width: 225px; height: 170px;"&gt;
+&lt;img alt="RCKC" class="align-right" height="170" src="http://www.randi.org/images/commentary/200807/rckc.jpg" width="225"&gt;
 &lt;p&gt;Quizá tengamos una respuesta a esta sencilla y básica pregunta, tomada directamente del interesantísimo sitio de SkepticWiki en &lt;a class="reference external" href="http://www.skepticwiki.org/index.php/Main_Page"&gt;http://www.skepticwiki.org/index.php/Main_Page&lt;/a&gt;, el cual le recomiendo que visite a menudo, especialmente desde que se encuentra destacado uno de los hilarantes y muy efectistas vídeos de Richard Wiseman. Por favor, como será convulsionado por la risa debido a la verdaderamente increíble ingenuidad del equipo de Comfort/Cameron, lea esto en privado. SkepicWiki nos dice:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;"Plátanos: La Peor Pesadilla Del Ateo" es una particular variante de un argumento de diseño que describe la forma en que las características del plátano revelan su verdadero origen cósmico. El argumento se remonta al [creacionista] Ray Comfort y al programa de televisión cristiano evangélico del ex actor "Los Problemas Crecen" Kirk Cameron, y que se resume como sigue:&lt;/p&gt;
@@ -2387,7 +2387,7 @@ Es curvo hacia la cara para facilitar el proceso de comer&lt;/p&gt;
 &lt;/section&gt;
 &lt;section id="mas-agujas-en-tu-cara"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="http://sindioses.org/randi/randi20080704.html#toc-entry-2" role="doc-backlink"&gt;Más agujas en tu cara&lt;/a&gt;&lt;/h2&gt;
-&lt;img alt="RCKC" class="align-right" src="http://www.randi.org/images/commentary/200807/acupuncture.jpg" style="width: 180px; height: 300px;"&gt;
+&lt;img alt="RCKC" class="align-right" height="300" src="http://www.randi.org/images/commentary/200807/acupuncture.jpg" width="180"&gt;
 &lt;p&gt;El lector Richard Hillier nos avisa:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Mientras navegaba por las noticias, encontré este artículo, el enlace directo es: &lt;a class="reference external" href="http://tinyurl.com/4zlz8t"&gt;http://tinyurl.com/4zlz8t&lt;/a&gt;.&lt;/p&gt;
@@ -2404,7 +2404,7 @@ Es curvo hacia la cara para facilitar el proceso de comer&lt;/p&gt;
 &lt;section id="saunders-en-accion"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="http://sindioses.org/randi/randi20080704.html#toc-entry-3" role="doc-backlink"&gt;¡Saunders en acción!&lt;/a&gt;&lt;/h2&gt;
 &lt;figure class="align-center" style="width: 183px"&gt;
-&lt;img alt="Richard" src="http://www.randi.org/images/commentary/200807/richard.jpg" style="width: 179px; height: 174px;"&gt;
+&lt;img alt="Richard" height="174" src="http://www.randi.org/images/commentary/200807/richard.jpg" width="179"&gt;
 &lt;figcaption&gt;
 &lt;p&gt;Richard con 2 trofeos de TAM6&lt;/p&gt;
 &lt;/figcaption&gt;
@@ -2432,11 +2432,11 @@ Es curvo hacia la cara para facilitar el proceso de comer&lt;/p&gt;
 &lt;p&gt;Por ejemplo, esta persona está utilizando la psicometría precisamente como científico.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Eso es como decir, "Este médico está utilizando verdadera homeopatía, que sustituye a los antibióticos, por supuesto." ¡Mucha suerte, Richard! Estese preparado, a lo largo de unos seis episodios - si alguna fuerza psíquica todavía no consigue manifestarse - para escuchar ruidos acerca de que este enfoque científico es inaplicable a las fuerzas misteriosas que están siendo buscadas, y la opinión de que las cosas deben relajarse un poco para que las habilidades espirituales sean más propensas a mostrarse. Mi experiencia ha demostrado que existe una relación inversa entre el "control" y los "resultados positivos" - nunca mejor ilustrado que por el contador de Resultados Parapsicológicos de mi amigo Piero Angela:&lt;/p&gt;
-&lt;img alt="Medidor" class="align-right" src="http://sindioses.org/randi/randi20080704meter.jpg" style="width: 300px; height: 358px;"&gt;
+&lt;img alt="Medidor" class="align-right" height="358" src="http://sindioses.org/randi/randi20080704meter.jpg" width="300"&gt;
 &lt;/section&gt;
 &lt;section id="anticipo-de-tam6"&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="http://sindioses.org/randi/randi20080704.html#toc-entry-4" role="doc-backlink"&gt;Anticipo de TAM6&lt;/a&gt;&lt;/h2&gt;
-&lt;img alt="Tyson" class="align-right" src="http://www.randi.org/images/commentary/200807/tyson.jpg" style="width: 225px; height: 169px;"&gt;
+&lt;img alt="Tyson" class="align-right" height="169" src="http://www.randi.org/images/commentary/200807/tyson.jpg" width="225"&gt;
 &lt;p&gt;Vaya a &lt;a class="reference external" href="http://www.skeptic.com/eskeptic/08-07-02.html"&gt;http://www.skeptic.com/eskeptic/08-07-02.html&lt;/a&gt; para encontrar un informe de Derek &amp;amp; Swoopy sobre las sensacionales contribuciones hechas por la presentación del Dr. Neil DeGrasse Tyson y el Cazador de Mitos Adam Savage al impresionante éxito de TAM6 - recién concluido. En su presentación, Tyson desterró la idea de que la ciencia es un asunto aburrido y tedioso; simplemente nos hizo brincar de forma estrafalaria con su discurso humorístico e informativo. Todos tendremos ganas de escucharle de nuevo. En cuanto a Adam, fue - como siempre - el hombre muy accesible y genial que siempre hemos conocido, y su presentación fue recibida con entusiasmo. Gracias, a ambos.&lt;/p&gt;
 &lt;p&gt;Sólo una nota para el Dr. Tyson: El Canal de Historia está actualmente emitiendo una amplia cobertura sobre ciertos desordenes que se encuentran en nuestro universo - y sus comentarios se han pasado de vez en cuando. Realmente me gustaría saber qué estudiante de segundo curso de la escuela superior escribió el texto pronunciado por el narrador. Se refieren al "calor" como el "catalizador" que da lugar a los vientos - es la causa, no un catalizador; se hace una referencia al "aire alrededor de Júpiter," y nos dice que "Venus trata de refrescarse"; si nos referimos a la diosa, es mucho más probable...&lt;/p&gt;
 &lt;p&gt;Cielos...&lt;/p&gt;
@@ -2449,7 +2449,7 @@ Es curvo hacia la cara para facilitar el proceso de comer&lt;/p&gt;
 &lt;h2&gt;&lt;a class="toc-backref" href="http://sindioses.org/randi/randi20080704.html#toc-entry-6" role="doc-backlink"&gt;Para terminar...&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Tengo que salir corriendo, recién llegado de Boston/MIT, Los Angeles y Las Vegas... Ocupado, ocupado, ocupado. Un montón de comentarios sobre la foto de Geller de la semana pasada - simplemente no podía creer que él iba a publicar realmente ese ridículo artículo, pero esto demuestra una vez más el limitado - y soso - repertorio que tiene.&lt;/p&gt;
 &lt;p&gt;Estoy negociando en la actualidad serias propuestas de TV desde Turquía, Países Bajos, Reino Unido y Hungría, diseñadas para responder al reciente "Sucesor" absurdo. Les mantendré informando...&lt;/p&gt;
-&lt;p&gt;&lt;img alt="(Firma de James Randi)" src="http://sindioses.org/randi/signature.gif" style="width: 165px; height: 84px;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="(Firma de James Randi)" height="84" src="http://sindioses.org/randi/signature.gif" width="165"&gt;&lt;/p&gt;
 &lt;hr class="docutils"&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://sindioses.org/randi/randi.html"&gt;Comentarios Semanales de James Randi&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
@@ -2468,7 +2468,7 @@ Es curvo hacia la cara para facilitar el proceso de comer&lt;/p&gt;
 &lt;!-- # Siglas --&gt;
 &lt;/section&gt;</description><guid>http://sindioses.org/randi/randi20080704.html</guid><pubDate>Fri, 04 Jul 2008 03:00:00 GMT</pubDate></item><item><title>Excavando la evidencia - Weil, el insumergible - Corrección - Sin comentarios - Cerrando... - ¿El Amaz!ng Meeting encantado? (Por Jeff Wagg) - Como marcar la diferencia (Por Jeff wagg) - La comunidad TAM (Por Alison Smith)</title><link>http://sindioses.org/randi/randi20080627.html</link><dc:creator>James Randi, traducción de Juan Ignacio Rodríguez de León</dc:creator><description>&lt;section id="excavando-la-evidencia"&gt;
 &lt;h2&gt;Excavando la evidencia&lt;/h2&gt;
-&lt;img alt="http://www.randi.org/images/commentary/200806/pio.jpg" class="align-right" src="http://www.randi.org/images/commentary/200806/pio.jpg" style="width: 150px; height: 219px;"&gt;
+&lt;img alt="http://www.randi.org/images/commentary/200806/pio.jpg" class="align-right" height="219" src="http://www.randi.org/images/commentary/200806/pio.jpg" width="150"&gt;
 &lt;p&gt;El cadáver del santo más carismático de la historia moderna de la iglesia
 católica, el popular Padre Pío, fue exhibido, a finales del pasado abril, ante
 sus devotos por primera vez desde su muerte, ocurrida hace algo más de 40 años.
@@ -2536,7 +2536,7 @@ que suelen ser las revelaciones...&lt;/p&gt;
 &lt;h2&gt;Weil, el insumergible&lt;/h2&gt;
 &lt;p&gt;De nuestra lectora Linda Rosa:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;img alt="http://www.randi.org/images/commentary/200806/weil.jpg" class="align-right" src="http://www.randi.org/images/commentary/200806/weil.jpg" style="width: 150px; height: 150px;"&gt;
+&lt;img alt="http://www.randi.org/images/commentary/200806/weil.jpg" class="align-right" height="150" src="http://www.randi.org/images/commentary/200806/weil.jpg" width="150"&gt;
 &lt;p&gt;El infausto programa CAM (Medicina Alternativa Contemporánea) de Andrew Weil,
 en la Universidad de Arizona, ha sido autodenominado "Centro de excelencia"
 por sus gestores. Presumen de haber introducido su programa como parte troncal
@@ -2606,7 +2606,7 @@ más de 10 años en activo.&lt;/p&gt;
 &lt;/section&gt;
 &lt;section id="sin-comentarios"&gt;
 &lt;h2&gt;Sin comentarios&lt;/h2&gt;
-&lt;img alt="http://www.randi.org/images/commentary/200806/geller.jpg" class="align-center" src="http://www.randi.org/images/commentary/200806/geller.jpg" style="width: 262px; height: 409px;"&gt;
+&lt;img alt="http://www.randi.org/images/commentary/200806/geller.jpg" class="align-center" height="409" src="http://www.randi.org/images/commentary/200806/geller.jpg" width="262"&gt;
 &lt;/section&gt;
 &lt;section id="cerrando"&gt;
 &lt;h2&gt;Cerrando...&lt;/h2&gt;
@@ -2622,7 +2622,7 @@ compren el DVD que saldrá sobre el TAM6, para que puedan deleitarse con todos n
 maravillosos conferenciantes, aun cuando no hayan podido ser parte de las más de 900 personas
 que asistieron.&lt;/p&gt;
 &lt;p&gt;Ahora bien, ¿Qué vamos a hacer para mejorar esto el año que viene...?&lt;/p&gt;
-&lt;p&gt;&lt;img alt="(Firma de James Randi)" src="http://sindioses.org/randi/signature.gif" style="width: 165px; height: 84px;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="(Firma de James Randi)" height="84" src="http://sindioses.org/randi/signature.gif" width="165"&gt;&lt;/p&gt;
 &lt;/section&gt;
 &lt;section id="el-amaz-ng-meeting-encantado-por-jeff-wagg"&gt;
 &lt;h2&gt;¿El Amaz!ng Meeting encantado? (Por Jeff Wagg)&lt;/h2&gt;
@@ -2664,7 +2664,7 @@ contra nuestra (factor que, admitámoslo, debimos haber previsto) es que
 muchos fantasmas están vinculados a un lugar particular -Una iglesia,
 una casa-, lo que les imposibilita viajar hasta Las Vegas.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;img alt="http://www.randi.org/images/commentary/200806/saps.jpg" class="align-right" src="http://www.randi.org/images/commentary/200806/saps.jpg" style="width: 200px; height: 212px;"&gt;
+&lt;img alt="http://www.randi.org/images/commentary/200806/saps.jpg" class="align-right" height="212" src="http://www.randi.org/images/commentary/200806/saps.jpg" width="200"&gt;
 &lt;p&gt;Uno no puede sino maravillarse de como se realizó el recuento. Es agradable
 pensar que, mientras nosotros superábamos nuestras propias expectativas de
 asistencia, los fantasmas no tuvieron el rendimiento esperado. La explicación
@@ -2740,7 +2740,7 @@ brechas como esta pueden hacer caer un muro.&lt;/p&gt;
 &lt;/section&gt;
 &lt;section id="la-comunidad-tam-por-alison-smith"&gt;
 &lt;h2&gt;La comunidad TAM (Por Alison Smith)&lt;/h2&gt;
-&lt;img alt="http://www.randi.org/images/commentary/200806/tamcommunity.jpg" class="align-right" src="http://www.randi.org/images/commentary/200806/tamcommunity.jpg" style="width: 250px; height: 233px;"&gt;
+&lt;img alt="http://www.randi.org/images/commentary/200806/tamcommunity.jpg" class="align-right" height="233" src="http://www.randi.org/images/commentary/200806/tamcommunity.jpg" width="250"&gt;
 &lt;p&gt;Resulta imposible explicar el TAM a quien nunca haya estado allí. Dependiendo de a quien estés intentando explicárselo, puede convertirse en el equivalente a una convención de &lt;em&gt;fans&lt;/em&gt; de Star Trek, la reunión de una junta de profesores, o un gigantesco grupo de Dragonmasters, armados con 19 puntos de carisma, 97 de impacto y un Cetro de la Desintegración.&lt;/p&gt;
 &lt;p&gt;En otras palabras, la típica reunión de &lt;a class="reference external" href="http://es.wikipedia.org/wiki/Nerd"&gt;nerds&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Lo que a veces la gente no entiende es lo increíblemente difícil que resulta para algunos de nosotros reunirnos con un grupo tan afín como son los asistentes del TAM.&lt;/p&gt;
@@ -2863,7 +2863,7 @@ brechas como esta pueden hacer caer un muro.&lt;/p&gt;
 &lt;section id="en-conclusion"&gt;
 &lt;h2&gt;En conclusión...&lt;/h2&gt;
 &lt;p&gt;Como dije arriba, en este momento estoy en Las Vegas y muy ocupado con TAM6. Esta columna es un poco corta, pero lo compensaremos muy pronto. Me lo estoy pasando estupendamente. ¡Ojalá estuvierais aquí, si es que no estáis!&lt;/p&gt;
-&lt;p&gt;&lt;img alt="(Firma de James Randi)" src="http://sindioses.org/randi/signature.gif" style="width: 165px; height: 84px;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="(Firma de James Randi)" height="84" src="http://sindioses.org/randi/signature.gif" width="165"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Notas&lt;/strong&gt;&lt;/p&gt;
 &lt;aside class="footnote-list brackets"&gt;
 &lt;aside class="footnote brackets" id="feno" role="doc-footnote"&gt;
@@ -3013,7 +3013,7 @@ brechas como esta pueden hacer caer un muro.&lt;/p&gt;
 &lt;p&gt;Cada pequeña ayuda sirve... (la palabra es Uri, ¿que pensaban?)&lt;/p&gt;
 &lt;p&gt;Brian Dunning nos envía a  herebedragonsmovie.com, la cual recomiendo ampliamente... Y después vayan a cnn.com/2008/CRIME/06/11/crime.club y vean que tan retrograda, impositiva y falta de cualquier estándar académico puede ser una escuela cuando no hay adultos a cargo...&lt;/p&gt;
 &lt;p&gt;Nos vamos a la TAM6 con un registro record de más de 840 personas y a la espera de más a la puerta. ¡Va a ser una conferencia muy cargada!&lt;/p&gt;
-&lt;p&gt;&lt;img alt="(Firma de James Randi)" src="http://sindioses.org/randi/signature.gif" style="width: 165px; height: 84px;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="(Firma de James Randi)" height="84" src="http://sindioses.org/randi/signature.gif" width="165"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Notas&lt;/strong&gt;&lt;/p&gt;
 &lt;aside class="footnote-list brackets"&gt;
 &lt;aside class="footnote brackets" id="footnote-1" role="doc-footnote"&gt;
@@ -3311,7 +3311,7 @@ Por favor, incluye dos fotos recientes como adjunto. Lugar: Los Angeles.&lt;/p&g
 &lt;section id="para-terminar"&gt;
 &lt;h2&gt;Para terminar...&lt;/h2&gt;
 &lt;p&gt;Hay cosas demasiado desternillantes como para comentarles. Ve a &lt;a class="reference external" href="http://tinyurl.com/3enejr"&gt;http://tinyurl.com/3enejr&lt;/a&gt;. ¡Antes de 13 de junio o te lo perderás...!&lt;/p&gt;
-&lt;p&gt;&lt;img alt="(Firma de James Randi)" src="http://sindioses.org/randi/signature.gif" style="width: 165px; height: 84px;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="(Firma de James Randi)" height="84" src="http://sindioses.org/randi/signature.gif" width="165"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Notas&lt;/strong&gt;&lt;/p&gt;
 &lt;aside class="footnote-list brackets"&gt;
 &lt;aside class="footnote brackets" id="bs" role="doc-footnote"&gt;
@@ -3552,7 +3552,7 @@ Por favor, incluye dos fotos recientes como adjunto. Lugar: Los Angeles.&lt;/p&g
 &lt;section id="en-conclusion"&gt;
 &lt;h2&gt;En conclusión...&lt;/h2&gt;
 &lt;p&gt;Para dejar atrás el universo magufo &lt;a class="brackets" href="http://sindioses.org/randi/randi20080530.html#magufo" id="footnote-reference-4" role="doc-noteref"&gt;&lt;span class="fn-bracket"&gt;[&lt;/span&gt;3&lt;span class="fn-bracket"&gt;]&lt;/span&gt;&lt;/a&gt; imaginario de Geller y volver al mundo real, vayan a &lt;a class="reference external" href="http://www.youtube.com/watch?v=GuYMOWyawe8"&gt;http://www.youtube.com/watch?v=GuYMOWyawe8&lt;/a&gt; y vean el video en el que Phil Plait cuenta un suceso realmente sorprendente que describe. El entusiasmo de Phil se transmite claramente y estoy seguro de estarán de acuerdo con él…&lt;/p&gt;
-&lt;p&gt;&lt;img alt="(Firma de James Randi)" src="http://sindioses.org/randi/signature.gif" style="width: 165px; height: 84px;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="(Firma de James Randi)" height="84" src="http://sindioses.org/randi/signature.gif" width="165"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Notas&lt;/strong&gt;&lt;/p&gt;
 &lt;aside class="footnote-list brackets"&gt;
 &lt;aside class="footnote brackets" id="forense" role="doc-footnote"&gt;
@@ -3758,7 +3758,7 @@ Por favor, incluye dos fotos recientes como adjunto. Lugar: Los Angeles.&lt;/p&g
 &lt;p&gt;El nuevo libro de Simon Singh y Edzard Ernst trata de la medicina "alternativa" - "¿Truco o tratamiento? Juicio a la medicina alternativa" - aparece comentado en &lt;a class="reference external" href="http://tinyurl.com/3o282h"&gt;http://tinyurl.com/3o282h&lt;/a&gt;. Dedicado a HRH el Príncipe Carlos (?), el libro informa de que más o menos un 5% de las muy recomendadas panaceas "MAC" (Medicinas Alternativas y Complementarias) son de verdad efectivas, y en esos casos sólo moderadamente. La homeopatía, en particular, entra en escena para recibir una buena paliza por parte de los dos autores, un escritor de ciencia y un médico respectivamente.&lt;/p&gt;
 &lt;p&gt;Para el Amazing Meeting del 19 al 22 de junio de este año en Las Vegas nos estamos aproximando rápidamente a nuestro récord de asistencia de casi 800 personas del encuentro del año pasado, y sólo quedan tres semanas para inscribirse. Si quieres estar allí con nosotros, ve a &lt;a class="reference external" href="http://randi.org/joom/amazing-meeting.html"&gt;http://randi.org/joom/amazing-meeting.html&lt;/a&gt; y apúntate.&lt;/p&gt;
 &lt;p&gt;Lo sentimos, los pasajes para el crucero a las Galápagos de agosto ya están todos vendidos. Este será un evento de verdad excitante para mí, porque nunca he estado allí antes, y estoy ansioso por caminar por donde lo hzo Darwin hace un siglo y medio...&lt;/p&gt;
-&lt;p&gt;&lt;img alt="(Firma de James Randi)" src="http://sindioses.org/randi/signature.gif" style="width: 165px; height: 84px;"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="(Firma de James Randi)" height="84" src="http://sindioses.org/randi/signature.gif" width="165"&gt;&lt;/p&gt;
 &lt;hr class="docutils"&gt;
 &lt;ul class="simple"&gt;
 &lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="http://sindioses.org/randi/randi.html"&gt;Comentarios Semanales de James Randi&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
