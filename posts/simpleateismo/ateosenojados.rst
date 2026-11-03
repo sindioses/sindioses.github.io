@@ -7,9 +7,8 @@
 .. type: ateis
 .. date: 2013-09-22 12:18:55.861209
 .. previewimage: ../fotos/gretachristina.jpg
+.. link: https://the-orbit.net/greta/2007/10/15/atheists-and-an/
 
-| originalmente en http://gretachristina.typepad.com/greta_christinas_weblog/2007/10/atheists-and-an.html
-| Su blog actualmente se encuentra en http://freethoughtblogs.com/greta/
 
 .. class:: primera
 
