@@ -1,32 +1,66 @@
 schema: spec-driven
 
-# Project context (optional)
-# Add only constraints that should guide OpenSpec artifacts and workflows.
-# Include constraints an agent cannot infer by reading the code.
-# Keep general project documentation and discoverable codebase facts out.
-# Example:
-#   context: |
-#     Designs and tasks must cover Windows, macOS, and Linux
-#     Write all artifacts in Spanish
+rules:
+  proposal:
+    - Write the entire proposal in English. Preserve proper names, identifiers, and literal content-matching expressions in their original form.
+    - Keep proposals under 500 words
+    - Always state what is out of scope
+  tasks:
+    - Break tasks into chunks of max 2 hours
 
-# Per-artifact rules (optional)
-# Add custom rules for specific artifacts.
-# Example:
-#   rules:
-#     proposal:
-#       - Keep proposals under 500 words
-#       - Always state what is out of scope
-#     tasks:
-#       - Break tasks into chunks of max 2 hours
+context: |
+  Sin Dioses is a Spanish-language static website generated with Nikola, not a
+  server application. Plan changes around source content, local plugins, themes,
+  and standalone maintenance scripts rather than introducing an application stack.
+
+  Keep editorial content in Spanish unless working on an existing translation.
+  Preserve UTF-8 accents, attribution, source links, publication metadata, and
+  license notices. This editorial requirement is separate from the English-only
+  proposal rule. Preserve published URLs and filename case, and retain inbound
+  links through redirects when moving pages. Keep the static entrance page and
+  its link to principal.html; do not replace it with an automatic blog index.
+  Preserve category spelling, document references, shared includes, and metadata
+  that controls templates, article types, or comments. Avoid unrelated migrations.
+
+  Prefer site-specific theme changes under themes/sindioses/. Change its parent,
+  themes/bootstrap3/, only for shared parent behavior. Preserve template inheritance
+  and context contracts, public asset paths, and bundled licenses. Account for
+  collisions between files/ and images/, which both publish to the output root.
+
+  Use uv for Python tooling and dependency changes; update pyproject.toml and
+  uv.lock together when changing project dependencies. Standalone scripts with
+  PEP 723 metadata must run with uv run --script to resolve their own dependencies.
+  Do not assume legacy utilities have all dependencies installed or are read-only:
+  several rewrite content or update databases. Metadata migrations require an
+  explicit migration scope and are not validation commands.
+
+  Edit sources, not generated output or caches, and preserve unrelated working-tree
+  changes. Exclude local environments, IDE state, caches, and temporary data from
+  changes and published assets.
+
+  For website content, configuration, plugin, or template changes, build from the
+  repository root and inspect affected generated pages. For shared theme changes,
+  inspect principal.html, a section index, an article, and the gallery at desktop
+  and narrow widths. Check image paths after asset changes. The image checker is
+  a manual report, not a failing CI gate, and a successful build does not validate
+  links or external services. There is no repository-wide application test suite;
+  bundled Reveal tests do not validate the site. Run Ruff on changed Python files
+  if available without reformatting unrelated legacy code.
+
+  Deploy only when publication is explicitly requested. Review the working tree
+  first: Nikola's GitHub deployment can commit source changes as well as push the
+  generated site. Keep OpenSpec proposals, designs, tasks, and specifications
+  consistent; ordinary maintenance does not require a new OpenSpec change.
+
 
 # Per-operation guidance (optional)
 # Add advisory guidance for how apply and archive work should be conducted.
 # This is separate from artifact rules above.
 # Example:
-#   operations:
-#     apply:
-#       guidance:
-#         - Keep test summaries concise
-#     archive:
-#       guidance:
-#         - Summarize the archive outcome before finishing
+operations:
+ apply:
+   guidance:
+     - Keep test summaries concise
+ archive:
+   guidance:
+     - Summarize the archive outcome before finishing
