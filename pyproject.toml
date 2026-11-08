@@ -6,6 +6,12 @@ requires-python = ">=3.13"
 dependencies = [
     "nikola[extras]>=8.3.3",
     "ghp-import>=2.1.0",
+    "cyclopts>=5.3.3",
+    "keyring>=25.7.0",
+    "tzdata>=2026.6 ; sys_platform == 'win32'",
+    "loguru>=0.7.3",
+    "rich>=15.0.0",
+    "httpx2[http2]>=2.16.0",
 ]
 
 [tool.ruff]

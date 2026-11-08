@@ -1,7 +1,7 @@
 .. title: Mentiras de los creacionistas sobre Lucy (Australopithecus afarensis)
 .. date: 2004-01-24 00:00:02
 .. tags: creacionismo, evolución
-.. category: -Ciencia de los orígenes
+.. category: Ciencia de los orígenes
 .. type: ciori
 .. author: Ferney Yesyd Rodríguez
 .. status: private

@@ -34,7 +34,7 @@ __ cienciaorigenes/
 .. post-list::
    :categories: Ciencia de los Orígenes
    :template: post_list_noti_notag.tmpl
-   :stop: 4
+   :stop: 6
 
 .. class:: rubric
 
@@ -45,7 +45,7 @@ __ sociedad/
 .. post-list::
    :categories: Sociedad y religión
    :template: post_list_noti_notag.tmpl
-   :stop: 4
+   :stop: 6
 
 .. class:: rubric
 
@@ -56,7 +56,7 @@ __ simpleateismo/
 .. post-list::
    :categories: Simplemente ateísmo
    :template: post_list_noti_notag.tmpl
-   :stop: 4
+   :stop: 6
 
 .. class:: rubric
 
@@ -67,7 +67,7 @@ __ escepticismo/
 .. post-list::
    :categories: Escepticismo
    :template: post_list_noti_notag.tmpl
-   :stop: 4
+   :stop: 6
 
 .. class:: rubric
 
@@ -78,7 +78,7 @@ __ colGlenys/
 .. post-list::
    :categories: La lupa herética
    :template: post_list_noti_notag.tmpl
-   :stop: 4
+   :stop: 6
 
 .. class:: rubric
 
@@ -89,7 +89,7 @@ __ cartas/
 .. post-list::
    :categories: Cartas de la Edad Media
    :template: post_list_noti_notag.tmpl
-   :stop: 4
+   :stop: 6
 
 .. class:: rubric
 
@@ -100,7 +100,7 @@ __ examenreligiones/
 .. post-list::
    :categories: Examinando las religiones
    :template: post_list_noti_notag.tmpl
-   :stop: 4
+   :stop: 6
 
 .. class:: rubric
 
@@ -111,7 +111,7 @@ __ poesia
 .. post-list::
    :categories: Literatura profana
    :template: post_list_noti_notag.tmpl
-   :stop: 4
+   :stop: 6
 
 .. class:: rubric
 
@@ -122,7 +122,7 @@ __ humor/
 .. post-list::
    :categories: Humor
    :template: post_list_noti_notag.tmpl
-   :stop: 4
+   :stop: 6
 
 .. class:: rubric
 
@@ -133,14 +133,9 @@ __ genesis/genesis.html
 .. post-list::
    :categories: Genesis
    :template: post_list_noti_notag.tmpl
-   :stop: 4
+   :stop: 6
 
 .. |rss| image:: /rss.gif
-
-..
-    .. rubric:: Redifusión y novedades
-
-    * |rss| Suscríbase al :doc:`canal de novedades <redifusion>` de Sin Dioses para recibir las últimas actualizaciones.
 
 .. class:: rubric
 
@@ -151,13 +146,17 @@ __ noticias/
 .. post-list::
    :categories: Noticias de la ciencia
    :template: post_list_noti_notag.tmpl
-   :stop: 4
+   :stop: 6
 
 .. class:: rubric
 
 `Traducciones de James Randi`__
 
 __ randi/
+
+.. rubric:: Redifusión y novedades
+
+* |rss| Suscríbase al :doc:`canal de novedades <redifusion>` de Sin Dioses para recibir las últimas actualizaciones.
 
 .. rubric:: ¿Desea publicar algo?
 

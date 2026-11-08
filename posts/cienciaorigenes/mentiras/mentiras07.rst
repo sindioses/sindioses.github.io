@@ -2,7 +2,7 @@
 .. category: Ciencia de los orígenes
 .. title: Mentiras de los creacionistas sobre el Hombre de Pekín
 .. type: ciori
-.. category: -Ciencia de los orígenes
+.. category: Ciencia de los orígenes
 .. author: Ferney Yesyd Rodríguez
 .. date: 2004-01-24 00:00:07
 

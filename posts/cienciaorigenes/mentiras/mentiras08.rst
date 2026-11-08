@@ -1,8 +1,8 @@
 .. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
-.. category: -Ciencia de los orígenes
+.. category: Ciencia de los orígenes
 .. title: Medias verdades de los creacionistas sobre el Hombre de Neandertal
 .. type: ciori
-.. category: -Ciencia de los orígenes
+.. category: Ciencia de los orígenes
 .. author: Ferney Yesyd Rodríguez
 .. date: 2004-01-24 00:00:08
 

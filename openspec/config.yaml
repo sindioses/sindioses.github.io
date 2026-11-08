@@ -2,13 +2,24 @@ schema: spec-driven
 
 rules:
   proposal:
-    - Write the entire proposal in English. Preserve proper names, identifiers, and literal content-matching expressions in their original form.
+    - Write the entire proposal and all subsequent updates in English. Preserve proper names, identifiers, and literal content-matching expressions in their original form.
     - Keep proposals under 500 words
     - Always state what is out of scope
   tasks:
+    - Write the entire task list and all subsequent updates in English. Preserve proper names, identifiers, and literal content-matching expressions in their original form.
     - Break tasks into chunks of max 2 hours
+  design:
+    - Write the entire design and all subsequent updates in English. Preserve proper names, identifiers, and literal content-matching expressions in their original form.
+  specs:
+    - Write all specifications, scenarios, and subsequent updates in English. Preserve proper names, identifiers, and literal content-matching expressions in their original form.
 
 context: |
+  Write all OpenSpec artifacts and all future additions or updates to them in
+  English, including proposals, designs, specifications, scenarios, and task lists.
+  Preserve proper names, identifiers, and literal content-matching expressions in
+  their original form. This language rule does not change the language of site
+  content or the tool's user-facing help and usage documentation.
+
   Sin Dioses is a Spanish-language static website generated with Nikola, not a
   server application. Plan changes around source content, local plugins, themes,
   and standalone maintenance scripts rather than introducing an application stack.
@@ -16,7 +27,7 @@ context: |
   Keep editorial content in Spanish unless working on an existing translation.
   Preserve UTF-8 accents, attribution, source links, publication metadata, and
   license notices. This editorial requirement is separate from the English-only
-  proposal rule. Preserve published URLs and filename case, and retain inbound
+  OpenSpec artifact rule. Preserve published URLs and filename case, and retain inbound
   links through redirects when moving pages. Keep the static entrance page and
   its link to principal.html; do not replace it with an automatic blog index.
   Preserve category spelling, document references, shared includes, and metadata

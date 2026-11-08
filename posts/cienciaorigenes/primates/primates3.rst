@@ -2,7 +2,7 @@
 .. author: Ferney Yesyd Rodríguez
 .. title: Los humanos en el grupo de los primates (3)
 .. type: ciori
-.. category: -Ciencia de los orígenes
+.. category: Ciencia de los orígenes
 .. date: 2004-04-25 00:03:00
 
 .. |tit6| replace:: \6. ¿Qué ramificaciones presenta el grupo de los catarrinos, y a cual de ellas pertenecemos los seres humanos?

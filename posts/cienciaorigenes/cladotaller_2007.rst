@@ -1,6 +1,6 @@
 .. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
 .. type: ciori
-.. category: -Ciencia de los orígenes
+.. category: Ciencia de los orígenes
 .. title: Cladogramas: ¡Interpretemos cladogramas!
 .. author: Ferney Yesyd Rodríguez
 .. date: 2007-06-04

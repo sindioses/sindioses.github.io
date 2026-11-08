@@ -1,0 +1,70 @@
+"""Fallback Post fields for v26.0; prefer per-node metadata when available.
+
+Field names checked against Meta's official Post model:
+https://github.com/facebook/facebook-python-business-sdk/blob/main/facebook_business/adobjects/post.py
+No SDK code is vendored; only API field identifiers are listed here.
+Fields rejected in the user's v26.0 queries are omitted from this fallback only;
+per-node metadata may still request them when available.
+"""
+
+POST_FIELDS_V26 = (
+    "actions",
+    "admin_creator",
+    "application",
+    "backdated_time",
+    "call_to_action",
+    "can_reply_privately",
+    "child_attachments",
+    "coordinates",
+    "created_time",
+    "event",
+    "expanded_height",
+    "expanded_width",
+    "feed_targeting",
+    "from",
+    "full_picture",
+    "height",
+    "icon",
+    "id",
+    "instagram_eligibility",
+    "is_eligible_for_dark_post",
+    "is_eligible_for_promotion",
+    "is_expired",
+    "is_fb_live_videos",
+    "is_hidden",
+    "is_inline_created",
+    "is_instagram_eligible",
+    "is_live_clip",
+    "is_popular",
+    "is_published",
+    "is_spherical",
+    "message",
+    "message_tags",
+    "multi_share_end_card",
+    "multi_share_optimized",
+    "parent_id",
+    "permalink_url",
+    "picture",
+    "place",
+    "privacy",
+    "promotable_id",
+    "promotion_status",
+    "properties",
+    "scheduled_publish_time",
+    "shares",
+    "status_type",
+    "story",
+    "story_tags",
+    "subscribed",
+    "target",
+    "targeting",
+    "timeline_visibility",
+    "updated_time",
+    "via",
+    "video_buying_eligibility",
+    "was_fb_live_videos",
+    "width",
+    "attachments",
+)
+CORE_FIELDS = ("id", "message", "created_time", "permalink_url")
+EXCLUDED_EDGES = {"comments", "likes", "reactions", "insights"}

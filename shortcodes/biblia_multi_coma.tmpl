@@ -1,0 +1,7 @@
+<%
+        refs = _args[0].split(", ")
+        out = ", ".join(
+            f'<a href="https://www.biblegateway.com/passage/?search={ref}&version={_args[1]}&interface=print">{ref}</a>'
+            for ref in refs
+        )
+%>${out}\

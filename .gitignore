@@ -3,3 +3,15 @@ cache
 __pycache__
 output
 *.bak
+
+# From ../.fossil-settings/ignore-glob, relative to this repository.
+*.db
+*.htm*
+*.sublime-*
+*.zip
+*.ZIP
+*.epub
+*.pdb
+*.pyc
+*.7z
+/plugins/

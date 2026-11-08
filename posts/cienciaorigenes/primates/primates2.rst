@@ -2,7 +2,7 @@
 .. author: Ferney Yesyd Rodríguez
 .. title: Los humanos en el grupo de los primates (2)
 .. type: ciori
-.. category: -Ciencia de los orígenes
+.. category: Ciencia de los orígenes
 .. date: 2004-04-25 00:02:00
 
 .. |tit3| replace:: \3. ¿En que grupos se divide el orden de los primates?
