@@ -53,6 +53,7 @@ WHERE
     AND category || slug || author IS NOT NULL
     AND length(message) > 2000
     AND (:cut_date is NULL or created_time > :cut_date)
+    AND (:slug is NULL or slug like '%' || :slug || '%')
 ORDER BY created_time;
 """
 

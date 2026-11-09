@@ -155,6 +155,7 @@ def gen(
     article_force: Annotated[bool, Parameter(alias="-F")] = False,
     image_force: Annotated[bool, Parameter(alias="-f")] = False,
     cut_date: Annotated[datetime | None, Parameter(alias="-C")] = None,
+    partial_slug: Annotated[str | None, Parameter(alias="-S")] = None,
     log_level: Annotated[LogLevelName, Parameter(alias="-L")] = LogLevelName.INFO,
 ):
     """Generar artículos a partir de los posts que están clasificados.
@@ -167,6 +168,8 @@ def gen(
         Sobreescribir una imagen existente
     cut_date
         Fecha a partir de la cual se deben generar artículos
+    partial_slug
+        Slug total y parcial que debe coincidir
     log_level
         Nivel de logging
 
@@ -177,7 +180,7 @@ def gen(
         with open_database(database_path(None)) as db:
             cats = get_section_mappings(db)
             logger.debug("cats: {}", cats)
-            cur = db.execute(SQL_POST_QUERY, {"cut_date": cut_date})
+            cur = db.execute(SQL_POST_QUERY, {"cut_date": cut_date, "slug": partial_slug})
             for post in cur:
                 categ = post["category"]
                 outfile = (POST_ROOT / cats[categ]["dir"] / post["slug"]).with_suffix(".rst")
