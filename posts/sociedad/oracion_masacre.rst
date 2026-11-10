@@ -4,12 +4,10 @@
 .. category: Sociedad y religión
 .. type: socre
 .. link: https://www.facebook.com/1581235977384472/posts/1295102319331174
-.. description: ..  epigraph::
+.. description:     Reflexiones de fin de año, esperando que nada parecido vuelva a ocurrir
 
 
 .. class:: primera
-
-..  epigraph::
 
     Reflexiones de fin de año, esperando que nada parecido vuelva a ocurrir
 

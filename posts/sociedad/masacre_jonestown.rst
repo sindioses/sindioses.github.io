@@ -4,12 +4,10 @@
 .. category: Sociedad y religión
 .. type: socre
 .. link: https://www.facebook.com/1581235977384472/posts/1266068958901177
-.. description: ..  epigraph::
+.. description:     A 47 años de la tragedia que mostró hasta dónde puede llegar la locura colectiva cuando se disfraza de fe.
 
 
 .. class:: primera
-
-..  epigraph::
 
     A 47 años de la tragedia que mostró hasta dónde puede llegar la locura colectiva cuando se disfraza de fe.
 

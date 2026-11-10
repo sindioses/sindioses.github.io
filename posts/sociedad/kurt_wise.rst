@@ -4,14 +4,14 @@
 .. category: Sociedad y religión
 .. type: socre
 .. link: https://www.facebook.com/1581235977384472/posts/1305760618265344
-.. description: ..
+.. description:   El extraordinario caso de Kurt Wise
 
 
 .. class:: primera
 
-..
+  El extraordinario caso de Kurt Wise
 
-**El extraordinario caso de Kurt Wise**
+.. class:: primera
 
 Todo pensador crítico y estudioso del comportamiento humano llega a la conclusión de que nuestra mente es una obra fascinante de la evolución biológica. Pero si profundizamos en el tema, nos damos cuenta de que es también muy capaz de sabotearse a sí misma.
 

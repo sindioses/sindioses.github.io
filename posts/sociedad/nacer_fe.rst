@@ -4,14 +4,12 @@
 .. category: Sociedad y religión
 .. type: socre
 .. link: https://www.facebook.com/1581235977384472/posts/1302699738571432
-.. description: ..  epigraph::
+.. description:   Cuando se divulga información falsa que resulta de distorsionar el conocimiento científico.
 
 
 .. class:: primera
 
-..  epigraph::
-
-    Cuando se divulga información falsa que resulta de distorsionar el conocimiento científico.
+  Cuando se divulga información falsa que resulta de distorsionar el conocimiento científico.
 
 .. class:: primera
 
