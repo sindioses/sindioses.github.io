@@ -3,6 +3,7 @@
 .. title: What evidence would convince me that God exists?
 .. author: Marcelo Huerta San Martín
 .. date: 2026-01-01 13:00:00
+.. status: private
 .. description: Years of dealing with believers who use bad arguments prompted the author to compile a list of characteristics of evidence that, if existant, would convince him of the existence of God. Whether that god deserves worship, on the other hand, is a very different matter...
 
 (Spanish original: :doc:`pruebas`)
