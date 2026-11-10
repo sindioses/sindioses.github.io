@@ -111,7 +111,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/archive.html</loc>
-  <lastmod>2026-11-10T12:30:00Z</lastmod>
+  <lastmod>2026-11-10T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/cartas/</loc>
@@ -727,7 +727,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_afirmaciones-de-los-creacionistas.html</loc>
-  <lastmod>2026-11-10T13:12:00Z</lastmod>
+  <lastmod>2026-11-10T21:01:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_cartas-de-la-edad-media.html</loc>
@@ -743,7 +743,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_examinando-las-religiones.html</loc>
-  <lastmod>2026-11-10T13:12:00Z</lastmod>
+  <lastmod>2026-11-10T21:01:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_hidden.html</loc>
@@ -771,7 +771,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_sociedad-y-religion.html</loc>
-  <lastmod>2026-11-10T12:34:00Z</lastmod>
+  <lastmod>2026-11-10T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/cat_traducciones-de-james-randi.html</loc>
@@ -1187,7 +1187,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/categories/creacionismo.html</loc>
-  <lastmod>2026-11-10T13:12:00Z</lastmod>
+  <lastmod>2026-11-10T21:01:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/categories/creencias.html</loc>
@@ -4491,7 +4491,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/cienciaorigenes/indiceac/lista.html</loc>
-  <lastmod>2026-11-10T13:12:00Z</lastmod>
+  <lastmod>2026-11-10T21:01:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/cienciaorigenes/intdesign.html</loc>
@@ -5203,7 +5203,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/</loc>
-  <lastmod>2026-11-10T12:39:00Z</lastmod>
+  <lastmod>2026-11-10T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/10mandamientos.html</loc>
@@ -5235,7 +5235,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/arcoiris_noe.html</loc>
-  <lastmod>2026-11-10T13:12:00Z</lastmod>
+  <lastmod>2026-11-10T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/arqueobiblica.html</loc>
@@ -5312,6 +5312,10 @@
  <url>
   <loc>http://sindioses.org/examenreligiones/dios_contra_cerdos.html</loc>
   <lastmod>2026-11-09T13:25:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://sindioses.org/examenreligiones/dios_diablo_job.html</loc>
+  <lastmod>2026-11-10T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/diosnosanaamputados.html</loc>
@@ -5446,8 +5450,16 @@
   <lastmod>2026-11-03T21:02:00Z</lastmod>
  </url>
  <url>
+  <loc>http://sindioses.org/examenreligiones/jesus_amoroso.html</loc>
+  <lastmod>2026-11-10T20:51:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://sindioses.org/examenreligiones/jesus_caminando_agua.html</loc>
   <lastmod>2026-11-09T13:40:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://sindioses.org/examenreligiones/jesus_extremo.html</loc>
+  <lastmod>2026-11-10T21:01:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/jesus_omnisciente.html</loc>
@@ -5612,6 +5624,10 @@
  <url>
   <loc>http://sindioses.org/examenreligiones/transtornos.html</loc>
   <lastmod>2026-11-03T21:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://sindioses.org/examenreligiones/uzias_castigo.html</loc>
+  <lastmod>2026-11-10T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/examenreligiones/venida.html</loc>
@@ -7407,7 +7423,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/principal.html</loc>
-  <lastmod>2026-11-10T13:12:00Z</lastmod>
+  <lastmod>2026-11-10T21:01:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/quienessomos.html</loc>
@@ -8691,11 +8707,15 @@
  </url>
  <url>
   <loc>http://sindioses.org/sociedad/</loc>
-  <lastmod>2026-11-10T12:30:00Z</lastmod>
+  <lastmod>2026-11-10T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/sociedad/3bandos.html</loc>
   <lastmod>2026-11-03T21:02:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://sindioses.org/sociedad/3cristos_ypsilanti.html</loc>
+  <lastmod>2026-11-10T20:34:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/sociedad/aborto.html</loc>
@@ -8810,6 +8830,10 @@
   <lastmod>2026-11-08T17:48:00Z</lastmod>
  </url>
  <url>
+  <loc>http://sindioses.org/sociedad/dia_reyes.html</loc>
+  <lastmod>2026-11-10T20:37:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://sindioses.org/sociedad/diabeticos_viven.html</loc>
   <lastmod>2026-11-08T18:14:00Z</lastmod>
  </url>
@@ -8891,7 +8915,7 @@
  </url>
  <url>
   <loc>http://sindioses.org/sociedad/feliz_ano_nuevo.html</loc>
-  <lastmod>2026-11-10T12:34:00Z</lastmod>
+  <lastmod>2026-11-10T20:34:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/sociedad/fin_mundo.html</loc>
@@ -8974,6 +8998,10 @@
   <lastmod>2026-11-03T21:03:00Z</lastmod>
  </url>
  <url>
+  <loc>http://sindioses.org/sociedad/kurt_wise.html</loc>
+  <lastmod>2026-11-10T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://sindioses.org/sociedad/labuenamuerte.html</loc>
   <lastmod>2026-11-03T21:02:00Z</lastmod>
  </url>
@@ -9026,6 +9054,10 @@
   <lastmod>2026-11-08T21:08:00Z</lastmod>
  </url>
  <url>
+  <loc>http://sindioses.org/sociedad/nacer_fe.html</loc>
+  <lastmod>2026-11-10T20:34:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://sindioses.org/sociedad/natucuaresma.html</loc>
   <lastmod>2026-11-03T21:03:00Z</lastmod>
  </url>
@@ -9044,6 +9076,10 @@
  <url>
   <loc>http://sindioses.org/sociedad/no_juzgar.html</loc>
   <lastmod>2026-11-09T01:14:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://sindioses.org/sociedad/no_trabajes.html</loc>
+  <lastmod>2026-11-10T20:38:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/sociedad/noe_ghana.html</loc>
@@ -9156,6 +9192,10 @@
  <url>
   <loc>http://sindioses.org/sociedad/religion-colegios.html</loc>
   <lastmod>2026-11-03T21:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://sindioses.org/sociedad/religion_psicosis.html</loc>
+  <lastmod>2026-11-10T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>http://sindioses.org/sociedad/religionusa.html</loc>
