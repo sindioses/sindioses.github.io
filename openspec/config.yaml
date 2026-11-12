@@ -25,6 +25,13 @@ context: |
   server application. Plan changes around source content, local plugins, themes,
   and standalone maintenance scripts rather than introducing an application stack.
 
+  Launch nu.exe directly for shell commands, using nu -c "<Nushell command>".
+  Nushell is on PATH. Replace the execution shell itself; do not launch Nushell
+  through PowerShell or cmd.exe, and do not send Nushell syntax to either shell.
+  Do not substitute PyCharm terminal MCP calls for the standard command runner.
+  If the available runner cannot launch Nushell directly, report that limitation
+  rather than silently using a wrapper or claiming the preference was followed.
+
   Keep editorial content in Spanish unless working on an existing translation.
   Preserve UTF-8 accents, attribution, source links, publication metadata, and
   license notices. This editorial requirement is separate from the English-only

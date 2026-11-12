@@ -38,6 +38,13 @@ This repository generates the Spanish-language Sin Dioses website with Nikola. I
 
 ## Commands and validation
 
+Launch `nu.exe` directly for shell commands, using `nu -c "<Nushell command>"`.
+Nushell is on PATH. Replace the execution shell itself: do not launch Nushell
+through PowerShell or `cmd.exe`, and do not send Nushell syntax to either shell.
+Do not substitute PyCharm terminal MCP calls for the standard command runner.
+If the available runner cannot launch Nushell directly, report that limitation
+instead of silently using a wrapper or claiming this preference was followed.
+
 ```powershell
 # Install the versions recorded in the lockfile
 uv sync --locked
