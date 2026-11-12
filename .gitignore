@@ -1,6 +1,8 @@
 cache
 .doit.db*
 __pycache__
+.pytest_cache/
+.coverage*
 output
 *.bak
 

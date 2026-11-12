@@ -1,0 +1,521 @@
+{
+  "test_fb_posts_collection.py": [
+    {
+      "original": "test_interrupt_preserves_stored_posts_in_current_page",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_collection.py"
+    },
+    {
+      "original": "test_failed_post_preserves_stored_posts_in_current_page",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_collection.py"
+    },
+    {
+      "original": "test_batch_boundary_and_final_commit",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_collection.py"
+    },
+    {
+      "original": "test_progress_includes_aware_publication_date",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_collection.py"
+    },
+    {
+      "original": "test_partial_failure_retains_committed_page",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_collection.py"
+    },
+    {
+      "original": "test_repeat_skips_without_full_retrieval_and_continues",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_collection.py"
+    },
+    {
+      "original": "test_forced_refresh_counts",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_collection.py"
+    },
+    {
+      "original": "test_forced_collection_overwrites_message_when_requested",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_collection.py"
+    },
+    {
+      "original": "test_overwrite_message_defaults_to_false",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_collection.py"
+    },
+    {
+      "original": "test_overwrite_message_long_option",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_collection.py"
+    },
+    {
+      "original": "test_overwrite_message_short_option",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_collection.py"
+    },
+    {
+      "original": "test_cyclopts_converts_dates_without_custom_parser",
+      "disposition": "replaced",
+      "destination": "Replaced by project CLI argument/alias contracts and invalid invocation before side effects."
+    },
+    {
+      "original": "test_cyclopts_accepts_latest_literal",
+      "disposition": "replaced",
+      "destination": "Replaced by existing project latest-date rules and CLI contracts."
+    },
+    {
+      "original": "test_invalid_cli_date_has_no_database_effect",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_collection.py"
+    },
+    {
+      "original": "test_help_works_outside_repository",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_collection.py"
+    }
+  ],
+  "test_fb_posts_graph.py": [
+    {
+      "original": "test_generic_unsupported_field_skipped_only_after_node_probe",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_graph.py"
+    },
+    {
+      "original": "test_missing_node_is_not_silently_skipped",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_graph.py"
+    },
+    {
+      "original": "test_optional_permission_error_requires_core_access_probe",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_graph.py"
+    },
+    {
+      "original": "test_general_permission_failure_is_not_skipped",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_graph.py"
+    },
+    {
+      "original": "test_wrong_page_identity",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_graph.py"
+    },
+    {
+      "original": "test_full_post_beyond_columns_and_publisher",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_graph.py"
+    },
+    {
+      "original": "test_rejected_field_isolated",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_graph.py"
+    },
+    {
+      "original": "test_missing_publisher_direct_lookup",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_graph.py"
+    },
+    {
+      "original": "test_general_failure_is_not_optional",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_graph.py"
+    },
+    {
+      "original": "test_fallback_inventory_logs_diagnostic",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_graph.py"
+    },
+    {
+      "original": "test_metadata_can_include_fields_omitted_from_fallback",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_graph.py"
+    },
+    {
+      "original": "test_unknown_version_without_metadata_fails",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_graph.py"
+    },
+    {
+      "original": "test_pagination_retains_fixed_bounds",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_graph.py"
+    },
+    {
+      "original": "test_repeated_cursor_fails",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_graph.py"
+    },
+    {
+      "original": "test_invalid_post_id_fails",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_graph.py"
+    }
+  ],
+  "test_fb_posts_http.py": [
+    {
+      "original": "test_incomplete_response_is_safe",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_http.py"
+    },
+    {
+      "original": "test_bearer_header_and_timeout",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_http.py"
+    },
+    {
+      "original": "test_network_exception_does_not_expose_secrets",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_http.py"
+    },
+    {
+      "original": "test_http_graph_error",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_http.py"
+    },
+    {
+      "original": "test_rate_limit_remains_fatal",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_http.py"
+    },
+    {
+      "original": "test_host_injection_rejected",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_http.py"
+    }
+  ],
+  "test_fb_posts_logging.py": [
+    {
+      "original": "test_log_level_uses_environment_with_info_fallback",
+      "disposition": "replaced",
+      "destination": "tests/test_logging_options.py: shared command configuration and resolved-level application; import-only and library-filter expectations removed per operator direction."
+    },
+    {
+      "original": "test_expected_error_uses_loguru_without_traceback",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_logging.py"
+    },
+    {
+      "original": "test_unexpected_exception_preserves_stack_without_leaking_secrets",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_logging.py"
+    },
+    {
+      "original": "test_rich_output_preserves_json_markup_and_long_strings",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_logging.py"
+    }
+  ],
+  "test_fb_posts_storage.py": [
+    {
+      "original": "test_schema_accepts_timestamp_column",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_storage.py"
+    },
+    {
+      "original": "test_schema_rejects_other_column_types",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_storage.py"
+    },
+    {
+      "original": "test_force_inserts_new_ids_with_null_metadata",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_storage.py"
+    },
+    {
+      "original": "test_table_triggers_are_incompatible",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_storage.py"
+    },
+    {
+      "original": "test_initial_null_metadata_and_complete_json",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_storage.py"
+    },
+    {
+      "original": "test_existing_row_completely_unchanged_without_force",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_storage.py"
+    },
+    {
+      "original": "test_forced_refresh_preserves_local_metadata",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_storage.py"
+    },
+    {
+      "original": "test_forced_refresh_preserves_editorial_message_and_updates_photo",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_storage.py"
+    },
+    {
+      "original": "test_overwrite_message_without_force_does_not_update",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_storage.py"
+    },
+    {
+      "original": "test_missing_message_is_null",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_storage.py"
+    },
+    {
+      "original": "test_empty_message_preserved",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_storage.py"
+    },
+    {
+      "original": "test_legacy_objects_and_existing_backup_preserved",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_storage.py"
+    },
+    {
+      "original": "test_incompatible_schema_rejected_without_mutation",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_storage.py"
+    },
+    {
+      "original": "test_json_constraint_rejects_invalid_json",
+      "disposition": "replaced",
+      "destination": "Removed direct SQLite CHECK conformance test; project schema validator and persistence remain tested."
+    },
+    {
+      "original": "test_latest_ignores_other_page_and_null",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_storage.py"
+    },
+    {
+      "original": "test_latest_missing_table_does_not_create_it",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_storage.py"
+    },
+    {
+      "original": "test_latest_missing_file_not_created",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_storage.py"
+    },
+    {
+      "original": "test_default_path_is_repository_sibling",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_storage.py"
+    }
+  ],
+  "test_fb_posts_token_status.py": [
+    {
+      "original": "test_no_scheduled_expiration_with_separate_data_deadline",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_token_status.py"
+    },
+    {
+      "original": "test_user_token_is_rejected",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_token_status.py"
+    },
+    {
+      "original": "test_wrong_app_is_rejected",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_token_status.py"
+    },
+    {
+      "original": "test_short_lived_page_token_is_rejected",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_token_status.py"
+    },
+    {
+      "original": "test_missing_expiry_is_not_treated_as_never",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_token_status.py"
+    },
+    {
+      "original": "test_missing_data_expiry_is_not_treated_as_unlimited",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_token_status.py"
+    },
+    {
+      "original": "test_expired_data_access_is_rejected_even_with_never_expiring_token",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_token_status.py"
+    },
+    {
+      "original": "test_invalid_token_is_rejected",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_token_status.py"
+    },
+    {
+      "original": "test_unscheduled_data_access_deadline_is_distinct",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_token_status.py"
+    },
+    {
+      "original": "test_wrong_identity_does_not_overwrite_keyring",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_token_status.py"
+    },
+    {
+      "original": "test_validated_page_token_is_registered",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_token_status.py"
+    },
+    {
+      "original": "test_near_data_access_deadline_warns",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_token_status.py"
+    },
+    {
+      "original": "test_malformed_debug_response_is_rejected",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_token_status.py"
+    }
+  ],
+  "test_fb_posts_unit.py": [
+    {
+      "original": "test_explicit_end_day_is_inclusive",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_unit.py"
+    },
+    {
+      "original": "test_default_end_is_exact_supplied_instant",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_unit.py"
+    },
+    {
+      "original": "test_reversed_dates_rejected",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_unit.py"
+    },
+    {
+      "original": "test_future_initial_default_end_rejected",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_unit.py"
+    },
+    {
+      "original": "test_latest_converts_to_previous_local_day",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_unit.py"
+    },
+    {
+      "original": "test_latest_compares_instants_not_strings",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_unit.py"
+    },
+    {
+      "original": "test_latest_empty_rejected",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_unit.py"
+    },
+    {
+      "original": "test_latest_naive_rejected",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_unit.py"
+    },
+    {
+      "original": "test_latest_malformed_rejected",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_unit.py"
+    },
+    {
+      "original": "test_canonical_timezone",
+      "disposition": "replaced",
+      "destination": "Replaced by application-visible period and local-date assertions."
+    },
+    {
+      "original": "test_parses_aware_date_without_changing_post",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_unit.py"
+    },
+    {
+      "original": "test_missing_date_preserves_null",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_unit.py"
+    },
+    {
+      "original": "test_invalid_id_rejected",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_unit.py"
+    },
+    {
+      "original": "test_invalid_or_naive_date_rejected",
+      "disposition": "migrated",
+      "destination": "tests/test_fb_posts_unit.py"
+    },
+    {
+      "original": "test_read_failure_is_safe",
+      "disposition": "migrated",
+      "destination": "tests/test_credentials.py"
+    },
+    {
+      "original": "test_save_failure_is_safe",
+      "disposition": "migrated",
+      "destination": "tests/test_credentials.py"
+    },
+    {
+      "original": "test_insecure_backend_rejected",
+      "disposition": "migrated",
+      "destination": "tests/test_credentials.py"
+    },
+    {
+      "original": "test_registration_and_replacement",
+      "disposition": "migrated",
+      "destination": "tests/test_credentials.py"
+    },
+    {
+      "original": "test_missing_credential",
+      "disposition": "migrated",
+      "destination": "tests/test_credentials.py"
+    },
+    {
+      "original": "test_empty_token_not_saved",
+      "disposition": "migrated",
+      "destination": "tests/test_credentials.py"
+    },
+    {
+      "original": "test_deprecated_field_identified",
+      "disposition": "migrated",
+      "destination": "tests/test_response_validation.py"
+    },
+    {
+      "original": "test_invalid_json",
+      "disposition": "migrated",
+      "destination": "tests/test_response_validation.py"
+    },
+    {
+      "original": "test_non_object_json",
+      "disposition": "migrated",
+      "destination": "tests/test_response_validation.py"
+    },
+    {
+      "original": "test_nonfinite_json",
+      "disposition": "migrated",
+      "destination": "tests/test_response_validation.py"
+    },
+    {
+      "original": "test_expired_token_error_safe",
+      "disposition": "migrated",
+      "destination": "tests/test_response_validation.py"
+    },
+    {
+      "original": "test_expired_session_subcode_has_safe_actionable_diagnostic",
+      "disposition": "migrated",
+      "destination": "tests/test_response_validation.py"
+    },
+    {
+      "original": "test_optional_field_identified",
+      "disposition": "migrated",
+      "destination": "tests/test_response_validation.py"
+    },
+    {
+      "original": "test_general_permission_error_is_fatal",
+      "disposition": "migrated",
+      "destination": "tests/test_response_validation.py"
+    },
+    {
+      "original": "test_pagination_secrets_removed_media_unchanged",
+      "disposition": "migrated",
+      "destination": "tests/test_response_validation.py"
+    },
+    {
+      "original": "test_redirect_does_not_forward_authorization",
+      "disposition": "migrated",
+      "destination": "tests/test_response_validation.py"
+    }
+  ]
+}

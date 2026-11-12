@@ -21,3 +21,30 @@ line-length = 160
 extend-select = [
     "I",
 ]
+
+[tool.pytest]
+minversion = "9.0"
+testpaths = ["tests"]
+strict_markers = true
+addopts = ["--cov", "--cov-config=pyproject.toml", "--cov-report=term-missing"]
+markers = [
+    "unit: pure computation without runtime I/O",
+    "boundary: application contracts with injected in-memory doubles",
+    "integration: application integration with temporary local infrastructure",
+]
+
+[tool.coverage.run]
+source = ["fb_posts", "fb_posts_lib"]
+patch = ["subprocess"]
+
+[tool.coverage.report]
+fail_under = 85
+precision = 2
+show_missing = true
+exclude_lines = []
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0",
+    "pytest-cov>=7.1.0",
+]

@@ -1,4 +1,3 @@
-import os
 import sys
 
 from loguru import logger
@@ -21,7 +20,7 @@ class LogLevelName(StrEnum):
 
     def reset_logger(self):
         logger.remove()
-        logger.add(sys.stderr, level=os.getenv("LOGURU_LEVEL", self.value))
+        logger.add(sys.stderr, level=self.value)
 
 
 IMAGE_ROOT = Path(__file__).parents[1] / "images"

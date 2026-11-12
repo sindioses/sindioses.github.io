@@ -8,6 +8,7 @@ rules:
   tasks:
     - Write the entire task list and all subsequent updates in English. Preserve proper names, identifiers, and literal content-matching expressions in their original form.
     - Break tasks into chunks of max 2 hours
+    - Every proposal must include tasks for 1) `ruff check` and deal with the problems found; 2) `ruff format`; 3) run the full test suite, which should fix errors even if they are not from this change (but the operator needs to confirm the non-change related fixes).
   design:
     - Write the entire design and all subsequent updates in English. Preserve proper names, identifiers, and literal content-matching expressions in their original form.
   specs:
@@ -45,6 +46,26 @@ context: |
   several rewrite content or update databases. Metadata migrations require an
   explicit migration scope and are not validation commands.
 
+  For Python design, implementation, refactoring, and tests, read and follow
+  the python-implementation-expert skill.
+  Use python-prototyping-expert instead only when the user explicitly requests
+  a prototype, spike, demo, or throwaway experiment. Do not apply both.
+
+  Test methodology requires a mandatory minimum of 85% aggregate line coverage,
+  with a desired goal of at least 90%. Reach these levels through meaningful
+  tests of project-owned behavior, not tests of standard-library or third-party
+  functionality. Apply python-implementation-expert to the entire Python test
+  suite, including fixtures and doubles.
+  Do not artificially inflate coverage by excluding code or narrowing the measured
+  source scope. Exclusions are permitted only when testing the code is completely
+  impractical. Every exclusion requires explicit operator confirmation before it
+  is applied; record its exact scope, justification, and operator decision.
+  Test-suite maintenance must not change production code, including formatting,
+  refactoring, or adding test seams. If an indispensable production defect is
+  demonstrated, obtain express operator authorization for the specific correction
+  before editing source code. Existing failures or coverage goals do not authorize
+  application changes, weakened assertions, or concealed failures.
+
   Edit sources, not generated output or caches, and preserve unrelated working-tree
   changes. Exclude local environments, IDE state, caches, and temporary data from
   changes and published assets.
@@ -54,14 +75,16 @@ context: |
   inspect principal.html, a section index, an article, and the gallery at desktop
   and narrow widths. Check image paths after asset changes. The image checker is
   a manual report, not a failing CI gate, and a successful build does not validate
-  links or external services. There is no repository-wide application test suite;
-  bundled Reveal tests do not validate the site. Run Ruff on changed Python files
-  if available without reformatting unrelated legacy code.
+  links or external services. Run the owned Python suite with just test or
+  uv run pytest. Bundled Reveal tests do not validate the site. Run Ruff on test
+  files during test-suite maintenance; do not format or change production code
+  without express operator authorization.
 
   Deploy only when publication is explicitly requested. Review the working tree
   first: Nikola's GitHub deployment can commit source changes as well as push the
   generated site. Keep OpenSpec proposals, designs, tasks, and specifications
   consistent; ordinary maintenance does not require a new OpenSpec change.
+
 
 
 # Per-operation guidance (optional)
@@ -75,3 +98,4 @@ operations:
  archive:
    guidance:
      - Summarize the archive outcome before finishing
+     - Save all new specs, and merge all updated specs, without asking for confirmation but summarizing the operations.

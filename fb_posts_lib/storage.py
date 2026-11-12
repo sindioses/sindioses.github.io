@@ -94,7 +94,9 @@ def exists(connection: sqlite3.Connection, identifier: str) -> bool:
     return connection.execute("SELECT 1 FROM posts WHERE id = ?", (identifier,)).fetchone() is not None
 
 
-def save_post(connection: sqlite3.Connection, post: Post, force: bool) -> Literal["inserted", "skipped", "updated"]:
+def save_post(
+    connection: sqlite3.Connection, post: Post, force: bool, *, overwrite_message: bool = False
+) -> Literal["inserted", "skipped", "updated"]:
     identifier = post_info(post).id
     present = exists(connection, identifier)
     if present and not force:
@@ -105,7 +107,9 @@ def save_post(connection: sqlite3.Connection, post: Post, force: bool) -> Litera
         "VALUES (?, ?, ?, ?, ?, NULL, NULL, NULL)"
     )
     statement += (
-        " ON CONFLICT(id) DO UPDATE SET message=excluded.message, created_time=excluded.created_time, "
+        " ON CONFLICT(id) DO UPDATE SET "
+        + ("message=excluded.message, " if overwrite_message else "")
+        + "created_time=excluded.created_time, "
         "permalink_url=excluded.permalink_url, raw_json=excluded.raw_json"
         if force
         else " ON CONFLICT(id) DO NOTHING"

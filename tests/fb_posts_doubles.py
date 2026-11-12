@@ -1,21 +1,14 @@
+import sqlite3
+
 """In-memory substitutes; these never contact Facebook or a real keyring."""
 
 from collections.abc import Iterator
 from io import BytesIO
-from unittest import TestCase
 from urllib.request import Request
 
 from keyring.errors import KeyringError
-from loguru import logger
 
 from fb_posts_lib.models import CollectionError, GraphError, Period, Post
-
-
-class LoggedTestCase(TestCase):
-    def setUp(self) -> None:
-        self.messages: list[str] = []
-        handler = logger.add(lambda message: self.messages.append(message.record["message"]), level="DEBUG", diagnose=False, backtrace=False)
-        self.addCleanup(logger.remove, handler)
 
 
 class MemoryHttp:
@@ -103,7 +96,7 @@ class PageSource:
 
     def pages(self, period: Period) -> Iterator[list[Post]]:
         for post in self.posts:
-            yield [{"id": post["id"]}]
+            yield [{key: post[key] for key in ("id", "created_time") if key in post}]
         if self.fail_after_page:
             raise CollectionError("Fallo simulado.")
 
@@ -121,3 +114,21 @@ class FailingPageSource:
         if identifier == "123_3":
             raise CollectionError("Fallo simulado.")
         return {"id": identifier}
+
+
+class InterruptedSource(FailingPageSource):
+    def full_post(self, identifier: str) -> Post:
+        if identifier == "123_3":
+            raise KeyboardInterrupt
+        return super().full_post(identifier)
+
+
+class ObservedSource(PageSource):
+    def __init__(self, posts: list[Post], observer: sqlite3.Connection, snapshots: list[int]):
+        super().__init__(posts)
+        self.observer = observer
+        self.snapshots = snapshots
+
+    def full_post(self, identifier: str) -> Post:
+        self.snapshots.append(self.observer.execute("SELECT count(*) FROM posts").fetchone()[0])
+        return super().full_post(identifier)

@@ -1,0 +1,25 @@
+--- a/fb_posts.py
++++ b/fb_posts.py
+@@ -6,6 +6,7 @@
+ from datetime import date, datetime
+ from itertools import takewhile
+ from pathlib import Path
++from traceback import extract_tb
+ from typing import Annotated, Literal
+ from urllib.parse import urlsplit
+ 
+@@ -248,6 +249,14 @@
+     except KeyboardInterrupt:
+         logger.warning("Operación interrumpida; repita el intervalo explícito para completar la recopilación.")
+         raise SystemExit(130) from None
++    except Exception as error:  # noqa: BLE001 - CLI boundary sanitizes unexpected diagnostics.
++        frames = "\n".join(
++            f'  File "{frame.filename}", line {frame.lineno}, in {frame.name}'
++            for frame in extract_tb(error.__traceback__)
++        )
++        logger.error("Traceback (sin datos privados):\n{}\nError interno de tipo {}", frames, type(error).__name__)
++        raise SystemExit(1) from None
++
+ 
+ 
+ if __name__ == "__main__":

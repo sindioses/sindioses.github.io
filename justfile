@@ -9,6 +9,10 @@ default:
 gen *params:
     uv run nikola build {{params}}
 
+# Ejecutar la suite de pruebas
+test:
+    uv run pytest
+
 # Publicar contenido
 deploy *comments:
     uv run nikola github_deploy -m "{{comments}}"
@@ -30,3 +34,7 @@ posts *params:
 gen-post *params:
     just posts {{params}}
     just gen
+
+# Verificar credenciales
+cred:
+    uv run fb_posts.py credential check

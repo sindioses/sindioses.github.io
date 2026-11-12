@@ -18,7 +18,9 @@ class PostSource(Protocol):
     def full_post(self, identifier: str) -> Post: ...
 
 
-def collect_posts(source: PostSource, connection: sqlite3.Connection, period: Period, force: bool, counts: Counts) -> None:
+def collect_posts(
+    source: PostSource, connection: sqlite3.Connection, period: Period, force: bool, counts: Counts, *, overwrite_message: bool = False
+) -> None:
     pending = 0
     try:
         for page in source.pages(period):
@@ -31,7 +33,7 @@ def collect_posts(source: PostSource, connection: sqlite3.Connection, period: Pe
                     logger.debug("Omitido post {} - {}", info.id, info.created_time)
                     continue
                 post = source.full_post(identifier)
-                outcome = save_post(connection, post, force)
+                outcome = save_post(connection, post, force, overwrite_message=overwrite_message)
                 counts.add(outcome)
                 if outcome != "skipped":
                     pending += 1

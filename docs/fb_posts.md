@@ -255,9 +255,12 @@ día. Las fechas NULL no participan; las fechas guardadas inválidas producen un
 error. Sin historial utilizable debes indicar una fecha explícita.
 
 Por defecto, los IDs existentes se omiten **sin modificar ningún campo**. Con
-`--force` se actualizan el mensaje, fecha, enlace y JSON de Facebook; se conservan
-siempre `author`, `category` y `slug`. Las publicaciones nuevas se insertan en
-ambos casos. El resumen informa leídas, nuevas, omitidas y actualizadas.
+`--force` se actualizan la fecha, el enlace y el JSON de Facebook; se conservan
+el `message` guardado y los campos `author`, `category` y `slug`. Para reemplazar
+también `message` por el texto de Facebook, combina `--force` con
+`--overwrite-message` o `-M`. Esta última opción sola no actualiza filas existentes.
+Las publicaciones nuevas se insertan con el mensaje de Facebook en ambos casos.
+El resumen informa leídas, nuevas, omitidas y actualizadas.
 
 La recopilación confirma las escrituras cada `BATCH_COMMIT_ITEMS` publicaciones
 insertadas o actualizadas, con un valor predeterminado de 10. También confirma
@@ -278,7 +281,8 @@ Opciones no secretas de `collect`:
 | `--api-version` | `v26.0`, versión usada en las consultas verificadas por el usuario |
 | `--database` | `../sindioses.db`, respecto de la ubicación del repositorio |
 | `--force` | Desactivado; actualizar campos de Facebook de IDs existentes |
-| `--log-level`, `-L` | `info`; selección de nivel, salvo que exista `LOGURU_LEVEL` |
+| `--overwrite-message`, `-M` | Desactivado; con `--force`, reemplazar también `message` |
+| `--log-level`, `-L` | Opción explícita, luego `LOGURU_LEVEL`, luego `info` |
 
 La ruta predeterminada no depende del directorio de ejecución y debe existir.
 Una ruta alternativa se resuelve respecto del directorio actual y también debe
@@ -336,7 +340,7 @@ uv run fb_posts.py gen -S ateismo -F -f -L debug
 | `--image-force`, `-f` | Volver a descargar imágenes existentes; desactivado por defecto |
 | `--cut-date`, `-C` | Seleccionar `created_time > fecha`, límite exclusivo; sin filtro por defecto |
 | `--partial-slug`, `-S` | Buscar coincidencias parciales, sin filtro por defecto |
-| `--log-level`, `-L` | Nivel de Loguru, `info` por defecto, sujeto a `LOGURU_LEVEL` |
+| `--log-level`, `-L` | Opción explícita, luego `LOGURU_LEVEL`, luego `info` |
 
 `-F` y `-f` distinguen mayúsculas y minúsculas. La búsqueda de slug usa
 `LIKE '%valor%'`: no exige coincidencia exacta y conserva los comodines SQL `%` y `_`.
@@ -360,6 +364,33 @@ No hay modo de previsualización ni transacción conjunta para los archivos gene
 Un error puede dejar artículos o imágenes ya escritos. Comprueba las rutas,
 revisa los `.rst` y las imágenes, y valida el sitio antes de una publicación
 solicitada por separado. `gen` no compila ni despliega el sitio.
+
+### Error 403 al descargar una imagen
+
+Si la descarga responde `403 Forbidden` y el cuerpo indica `URL signature expired`,
+caducó la URL de imagen guardada en `raw_json`. `gen` reutiliza esa URL y no la
+renueva; `--image-force` tampoco obtiene una URL nueva.
+
+Vuelve a recopilar el día de publicación con `--force` y ejecuta `gen` enseguida.
+Por ejemplo, `castigos_eden` corresponde al 16 de enero de 2026:
+
+```powershell
+uv run fb_posts.py collect 2026-01-16 2026-01-16 --force
+uv run fb_posts.py gen -S castigos_eden
+```
+
+La recopilación requiere un token válido y actualiza los campos de Facebook de
+todas las publicaciones accesibles de ese día, conservando `author`, `category`
+y `slug`, además del `message` editado localmente. El JSON incluye el mensaje
+actual de Facebook, pero solo se copia a la columna `message` si agregas `-M`.
+Sin `--force`, las filas existentes se omiten y la URL no cambia.
+Usa el día de publicación en la zona `America/Buenos_Aires`, no `latest`, para
+refrescar una publicación antigua.
+
+Si el artículo ya existe y quieres regenerarlo, agrega `-F`; agrega también `-f`
+si necesitas reemplazar una imagen local existente. Un 403 por sí solo no prueba
+que la URL haya caducado ni que el token de página sea inválido. Si una URL recién
+obtenida sigue fallando, revisa el acceso a la imagen y la respuesta del servidor.
 
 ## Alcance del JSON y publicador durante la recopilación
 
@@ -456,11 +487,14 @@ etiquetas de formato ni partir las cadenas largas, para conservar JSON válido.
 Los diagnósticos van a stderr mediante Loguru: advertencias con `logger.warning`,
 errores previstos con `logger.error` y fallos internos con el decorador `logger.catch`
 de `main()`, conservando la salida de error y un código de terminación distinto de cero.
-`collect` y `gen` configuran el logger al comenzar, con el formato predeterminado.
+Todos los comandos (`collect`, `gen`, `sample`, `credential set` y
+`credential check`) configuran el logger como primera instrucción, con el formato predeterminado.
 `--log-level`/`-L` acepta `trace`, `debug`, `info`, `success`, `warning`, `error` y
-`critical`; el valor predeterminado es `info`. Si existe `LOGURU_LEVEL`, esa
-variable prevalece sobre la opción. Para los demás comandos no hay una opción
-`-L`; usan la configuración inicial de Loguru.
+`critical`. La opción explícita prevalece sobre `LOGURU_LEVEL`; si no se proporciona
+ninguna de las dos, se utiliza `info`. Cyclopts resuelve esta precedencia mediante
+`env_var="LOGURU_LEVEL"`; `reset_logger()` aplica el nivel resuelto sin volver a
+consultar la variable. Las llamadas Python directas usan su argumento o el valor
+predeterminado; la variable se resuelve al procesar la CLI.
 
 ```powershell
 $env:LOGURU_LEVEL = "DEBUG"
@@ -468,21 +502,57 @@ uv run fb_posts.py collect 2026-01-01 -L info
 Remove-Item Env:LOGURU_LEVEL
 ```
 
-En ese ejemplo el nivel efectivo es DEBUG; al retirar la variable, vuelve a
-aplicarse el nivel elegido por CLI. `Guardado post ID (FECHA)` es salida de
+En ese ejemplo el nivel efectivo es INFO por la opción explícita. Si se omite
+`-L info`, se utiliza DEBUG por la variable. `Guardado post ID (FECHA)` es salida de
 consola y no se oculta al cambiar el nivel de Loguru.
 Los diagnósticos de metadatos ausentes y campos
 no disponibles usan `logger.debug` e incluyen el ID de publicación.
-Las validaciones previstas usan diagnósticos controlados. La configuración actual
-de Loguru no desactiva globalmente la información de variables en las trazas de
-errores inesperados: no compartas una traza sin revisar y ocultar posibles secretos
-o datos privados. No se crean archivos de registro automáticamente.
+Las validaciones previstas usan diagnósticos controlados. Para los fallos
+inesperados que llegan a `main()`, el diagnóstico conserva archivo, línea,
+función y tipo de excepción, omitiendo variables locales, mensajes de excepción
+y errores encadenados. El comando termina con código 1. No se crean archivos
+de registro automáticamente.
 
 ## Verificación local
 
+Ejecuta la suite completa desde la raíz del repositorio:
+
 ```powershell
-uv run -m unittest discover -s tests -p 'test_fb_posts*.py'
+just test
 ```
+
+Equivale a `uv run pytest`. Instala las dependencias de desarrollo con
+`uv sync --locked`; pytest y pytest-cov pertenecen al grupo `dev`, no a las
+dependencias de ejecución. La configuración utiliza TOML nativo en `[tool.pytest]`
+y requiere pytest 9.0 o posterior.
+
+La ejecución completa mide la cobertura de `fb_posts.py` y todos los módulos de
+`fb_posts_lib/`, incluidos los procesos Python secundarios. Exige un mínimo del
+85% de cobertura de líneas y tiene como objetivo el 90%. Muestra las líneas sin
+cubrir; menos del 85% produce un código de salida distinto de cero, aunque todas
+las pruebas pasen. Los fallos de pruebas también producen una salida de error.
+
+Para ejecutar cada nivel por separado, sin aplicar el umbral global a una
+selección parcial:
+
+```powershell
+uv run pytest --no-cov -m unit
+uv run pytest --no-cov -m boundary
+uv run pytest --no-cov -m integration
+```
+
+`unit` comprueba cálculos y validaciones sin E/S; `boundary` usa dobles inyectados
+en los límites existentes; `integration` comprueba nuestra persistencia y CLI con
+recursos locales temporales. Las pruebas verifican comportamiento propio, sin
+repetir las pruebas de bibliotecas. Se aplica `python-implementation-expert` a
+pruebas, fixtures y dobles.
+
+No se deben excluir líneas, archivos o módulos para elevar la cobertura. Cada
+exclusión requiere demostrar que probar ese código es completamente impracticable
+y obtener confirmación explícita del operador antes de aplicarla. No hay
+exclusiones aprobadas. La falta de cobertura no autoriza cambios en producción:
+cualquier corrección indispensable del código exige autorización expresa del
+operador. Los defectos reales deben permanecer visibles en los resultados.
 
 Las pruebas no acceden a Facebook ni al keyring del usuario. Usan credenciales y
 respuestas simuladas y bases SQLite temporales. Las pruebas reales requieren

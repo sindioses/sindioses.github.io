@@ -6,6 +6,7 @@ import sys
 from datetime import date, datetime
 from itertools import takewhile
 from pathlib import Path
+from traceback import extract_tb
 from typing import Annotated, Literal
 from urllib.parse import urlsplit
 
@@ -24,6 +25,8 @@ from fb_posts_lib.storage import database_path, get_section_mappings, open_datab
 from fb_posts_lib.token_status import inspect_token
 from fb_posts_lib.transport import GraphTransport
 
+LogLevelOption = Annotated[LogLevelName, Parameter(alias="-L", env_var="LOGURU_LEVEL")]
+
 
 app = App(
     help="Recopilar publicaciones de Facebook sin descargar imágenes ni archivos.",
@@ -41,7 +44,7 @@ def facebook(page_id: str, api_version: str) -> FacebookPosts:
 
 
 @credential.command(name="set")
-def credential_set(*, page_id: str = "115097879246", api_version: str = "v26.0") -> None:
+def credential_set(*, page_id: str = "115097879246", api_version: str = "v26.0", log_level: LogLevelOption = LogLevelName.INFO) -> None:
     """Registrar o reemplazar el token mediante entrada oculta.
 
     Parameters
@@ -50,7 +53,10 @@ def credential_set(*, page_id: str = "115097879246", api_version: str = "v26.0")
         ID numérico de la página autorizada.
     api_version
         Versión explícita de Graph API para validar la credencial.
+    log_level
+        Nivel de logging; la opción explícita prevalece sobre LOGURU_LEVEL.
     """
+    log_level.reset_logger()
     if not page_id.isdecimal():
         raise CollectionError("El ID de página debe ser numérico.")
     store = native_store()
@@ -61,7 +67,7 @@ def credential_set(*, page_id: str = "115097879246", api_version: str = "v26.0")
 
 
 @credential.command(name="check")
-def credential_check(*, page_id: str = "115097879246", api_version: str = "v26.0") -> None:
+def credential_check(*, page_id: str = "115097879246", api_version: str = "v26.0", log_level: LogLevelOption = LogLevelName.INFO) -> None:
     """Verificar página, aplicación y caducidades sin cambiar la credencial.
 
     Parameters
@@ -70,14 +76,17 @@ def credential_check(*, page_id: str = "115097879246", api_version: str = "v26.0
         ID de la página autorizada.
     api_version
         Versión explícita de Graph API.
+    log_level
+        Nivel de logging; la opción explícita prevalece sobre LOGURU_LEVEL.
     """
+    log_level.reset_logger()
     token = read_token(native_store(), page_id)
     status = inspect_token(GraphTransport(token, api_version), token, page_id, datetime.now(SITE_ZONE))
     print(status.summary())
 
 
 @app.command
-def sample(*, post_id: str, page_id: str = "115097879246", api_version: str = "v26.0") -> None:
+def sample(*, post_id: str, page_id: str = "115097879246", api_version: str = "v26.0", log_level: LogLevelOption = LogLevelName.INFO) -> None:
     """Consultar una publicación completa sin escribir en SQLite.
 
     Parameters
@@ -88,7 +97,10 @@ def sample(*, post_id: str, page_id: str = "115097879246", api_version: str = "v
         ID de la página autorizada.
     api_version
         Versión explícita de Graph API.
+    log_level
+        Nivel de logging; la opción explícita prevalece sobre LOGURU_LEVEL.
     """
+    log_level.reset_logger()
     post = facebook(page_id, api_version).full_post(post_id)
     display_post(post)
 
@@ -105,10 +117,11 @@ def collect(
     /,
     *,
     force: bool = False,
+    overwrite_message: Annotated[bool, Parameter(alias="-M")] = False,
     page_id: str = "115097879246",
     api_version: str = "v26.0",
     database: Path | None = None,
-    log_level: Annotated[LogLevelName, Parameter(alias="-L")] = LogLevelName.INFO,
+    log_level: LogLevelOption = LogLevelName.INFO,
 ) -> None:
     """Recopilar todas las publicaciones accesibles de un período.
 
@@ -120,6 +133,8 @@ def collect(
         Último día incluido YYYY-MM-DD. Omitir para usar el instante actual.
     force
         Actualizar campos de Facebook de IDs existentes; preservar metadatos locales.
+    overwrite_message
+        Con --force, reemplazar también el mensaje guardado por el de Facebook.
     page_id
         ID de la página autorizada.
     api_version
@@ -142,7 +157,7 @@ def collect(
     counts = Counts()
     try:
         with open_database(path) as connection:
-            collect_posts(source, connection, period, force, counts)
+            collect_posts(source, connection, period, force, counts, overwrite_message=overwrite_message)
     except (CollectionError, sqlite3.Error, OSError):
         logger.error("Recopilación incompleta. {} Repita el intervalo explícito.", counts.summary())
         raise
@@ -156,7 +171,7 @@ def gen(
     image_force: Annotated[bool, Parameter(alias="-f")] = False,
     cut_date: Annotated[datetime | None, Parameter(alias="-C")] = None,
     partial_slug: Annotated[str | None, Parameter(alias="-S")] = None,
-    log_level: Annotated[LogLevelName, Parameter(alias="-L")] = LogLevelName.INFO,
+    log_level: LogLevelOption = LogLevelName.INFO,
 ):
     """Generar artículos a partir de los posts que están clasificados.
 
@@ -196,7 +211,9 @@ def gen(
                     image_name = image_fn.name
                     if not image_fn.exists() or image_force:
                         r = httpx.get(post["image"])
-                        r.raise_for_status()
+                        if r.status_code != 200:
+                            logger.error("No se pudo descargar la imagen para {}", post["slug"])
+                            r.raise_for_status()
                         image_fn.parent.mkdir(parents=True, exist_ok=True)
                         image_fn.write_bytes(r.content)
                         logger.debug("Grabada imagen {}", image_fn)
@@ -232,6 +249,13 @@ def main() -> None:
     except KeyboardInterrupt:
         logger.warning("Operación interrumpida; repita el intervalo explícito para completar la recopilación.")
         raise SystemExit(130) from None
+    except Exception as error:  # noqa: BLE001 - CLI boundary sanitizes unexpected diagnostics.
+        frames = "\n".join(
+            f'  File "{frame.filename}", line {frame.lineno}, in {frame.name}'
+            for frame in extract_tb(error.__traceback__)
+        )
+        logger.error("Traceback (sin datos privados):\n{}\nError interno de tipo {}", frames, type(error).__name__)
+        raise SystemExit(1) from None
 
 
 if __name__ == "__main__":

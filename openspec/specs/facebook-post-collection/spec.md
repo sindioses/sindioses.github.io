@@ -7,7 +7,7 @@ Ingest all API-accessible Facebook Page posts within a requested date range and 
 ## Requirements
 
 ### Requirement: Structured diagnostics and literal console output
-Loguru MUST be configured outside commands with its default format. Warnings MUST use `logger.warning()`, expected failures MUST use `logger.error()`, and `main()` MUST use `logger.catch` for unexpected failures with nonzero exit status. Logs MUST omit sensitive locals, original exception messages, and chained errors. Console output MUST use Rich while preserving literal, valid sample JSON including long strings. Dependencies MUST be declared in the project.
+Each command MUST initialize Loguru before other command work, using its default format. Warnings MUST use `logger.warning()`, expected failures MUST use `logger.error()`, and `main()` MUST use `logger.catch` for unexpected failures with nonzero exit status. Logs MUST omit sensitive locals, original exception messages, and chained errors. Console output MUST use Rich while preserving literal, valid sample JSON including long strings. Dependencies MUST be declared in the project.
 
 #### Scenario: Stored post progress
 - **WHEN** a post is inserted or updated
@@ -27,7 +27,7 @@ Loguru MUST be configured outside commands with its default format. Warnings MUS
 #### Scenario: Field diagnostics do not clutter operator output
 - **WHEN** field metadata is missing or an optional field is unavailable
 - **THEN** the collector logs the diagnostic through `logger.debug()` with the post ID
-- **AND** the stderr sink uses `LOGURU_LEVEL` when set, otherwise INFO, hiding those diagnostics by default
+- **AND** the stderr sink uses the explicit command-line level when supplied, otherwise `LOGURU_LEVEL` when set, otherwise INFO, hiding those diagnostics by default
 
 #### Scenario: Expected operational error
 - **WHEN** an API or credential failure produces a safe diagnostic
@@ -40,6 +40,23 @@ Loguru MUST be configured outside commands with its default format. Warnings MUS
 #### Scenario: Sample contains markup-like text
 - **WHEN** a sample contains literal Rich-like markup or a long message string
 - **THEN** console output remains valid JSON with the original string content
+
+#### Scenario: Shared logging options across commands
+- **WHEN** the operator invokes `collect`, `gen`, `sample`, `credential set`, or `credential check`
+- **THEN** the command accepts `--log-level` and `-L`, and initializes logging before validation or external access
+- **AND** importing the module alone does not need to configure logging
+
+#### Scenario: Explicit level overrides environment
+- **WHEN** `LOGURU_LEVEL` is WARNING and the command explicitly receives `-L DEBUG`
+- **THEN** the command uses DEBUG
+
+#### Scenario: Environment supplies omitted option
+- **WHEN** no level option is supplied and `LOGURU_LEVEL` is WARNING
+- **THEN** the command uses WARNING
+
+#### Scenario: Default level without either override
+- **WHEN** neither a level option nor `LOGURU_LEVEL` is supplied
+- **THEN** the command uses INFO
 
 ### Requirement: Validate long-lived Page credentials
 Registration MUST validate credentials before replacing a stored token. Registration and API use MUST verify the selected Page identity, PAGE token type/profile, Sin Dioses App ID, validity, and explicit zero scheduled expiry. User tokens, missing expiry metadata, and tokens with scheduled expiration MUST be rejected without exposing secrets. A read-only `credential check` command MUST report token and data-access expiration independently.
