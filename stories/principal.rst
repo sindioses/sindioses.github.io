@@ -71,28 +71,6 @@ __ escepticismo/
 
 .. class:: rubric
 
-`La lupa herética`__
-
-__ colGlenys/
-
-.. post-list::
-   :categories: La lupa herética
-   :template: post_list_noti_notag.tmpl
-   :stop: 5
-
-.. class:: rubric
-
-`Cartas de la Edad Media`__
-
-__ cartas/
-
-.. post-list::
-   :categories: Cartas de la Edad Media
-   :template: post_list_noti_notag.tmpl
-   :stop: 5
-
-.. class:: rubric
-
 `Examinando las religiones`__
 
 __ examenreligiones/
@@ -104,12 +82,34 @@ __ examenreligiones/
 
 .. class:: rubric
 
+`La lupa herética`__
+
+__ colGlenys/
+
+.. post-list::
+   :categories: La lupa herética
+   :template: post_list_noti_notag.tmpl
+   :stop: 5
+
+.. class:: rubric
+
 `Literatura profana`__
 
 __ poesia
 
 .. post-list::
    :categories: Literatura profana
+   :template: post_list_noti_notag.tmpl
+   :stop: 5
+
+.. class:: rubric
+
+`Cartas de la Edad Media`__
+
+__ cartas/
+
+.. post-list::
+   :categories: Cartas de la Edad Media
    :template: post_list_noti_notag.tmpl
    :stop: 5
 
