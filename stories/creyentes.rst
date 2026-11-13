@@ -53,6 +53,8 @@ Como creyente, puede que crea que escribirnos es una necesidad ineludible o su d
    * - (Un rebuscado argumento filosófico)
      - La filosofía puede ser de interés para muchos, pero nosotros somos eminentemente prácticos. Si el dios de usted existe, debería tener efectos verificables en el universo real, donde usted y nosotros residimos. Si es así, su existencia debería poder ser verificada fácilmente, sin recurrir a enrevesadas consideraciones teóricas. Si no puede ser verificado fácilmente, cabe considerar que no existe, lo que en ausencia de evidencia es la *hipótesis nula*. No hay necesidad de postular la existencia de aquello para lo que no hay evidencia más allá de una alambicada elaboración teórica.
 
+       Si tiene un argumento convincente, vea si puede convencer al editor cuyo artículo :doc:`pruebas` es bastante claro al respecto. Y de paso, procure entender por qué pedimos ese tipo de pruebas.
+
 .. meta::
    :robots: noindex, nofollow
 

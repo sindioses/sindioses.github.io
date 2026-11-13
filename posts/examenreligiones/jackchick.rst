@@ -24,9 +24,9 @@ Luego de su conversión, Chick quiso dedicarse a evangelizar a otros, pero debid
 .. figure:: jackchick_03.gif
    :alt:
    :figwidth: 460
-   :figclass: pull-right
+   :figclass: align-right
 
-   Las falacias típicas de las historietas de Jack Chick
+   **Las falacias típicas de las historietas de Jack Chick**
 
 El material de Chick produce una sensación extraña al leerlo con ojos adultos. En principio, definitivamente apela al terror como herramienta de convicción. El mundo está lleno de peligros, las actividades diarias más inofensivas esconden siniestras conspiraciones con los responsables más diversos, detrás de los cuales siempre se halla la influencia del demonio. Las posiciones de Chick son extremas, generadoras de odio y manifiestamente absurdas.
 
@@ -46,9 +46,9 @@ El mundo tal como lo presenta Jack Chick tiene estas características:
 .. figure:: jackchick_02.gif
    :alt:
    :figwidth: 460
-   :figclass: pull-right
+   :figclass: align-right
 
-   Las nociones de Chick sobre la evolución de los dinosaurios
+   **Las nociones de Chick sobre la evolución de los dinosaurios**
 
 Chick es un decidido antievolucionista. Muchas congregaciones religiosas utilizan como "refutación" de la evolución el libro "¿Abuelito?", de Chick Publications, que se considera el panfleto antievolucionista más difundido de la historia. La mayoría de los argumentos allí contenidos citan a Kent Hovind, pese a que Hovind carece de credenciales apropiadas sobre el tema de que se trata, su tesis es de pésima calidad y sus afirmaciones contradicen las declaraciones de expertos auténticos en el tema. (Sin Dioses `ha publicado una extensa refutación de "Abuelito" en sus páginas <../cienciaorigenes/mentiras/mentiras01.html>`_, por lo que recomendamos a los lectores interesados remitirse a ella.)
 
@@ -59,9 +59,9 @@ Como mecanismo de "difusión", las historietas de Chick tienen los mismos proble
 .. figure:: jackchick_01.gif
    :alt:
    :figwidth: 460
-   :figclass: pull-right
+   :figclass: align-right
 
-   Afirmaciones sin base, amenaza de terribles castigos: una muy apropiada literatura infantil
+   **Afirmaciones sin base, amenaza de terribles castigos: una muy apropiada literatura infantil**
 
 Desde luego, en los países con mayoría católica, estas publicaciones no son difundidas con amplitud, pero aún así, en círculos relacionados con adventistas o testigos de Jehová, en ocasiones pueden verse libros y panfletos publicados por Chick Publications, en especial los que "refutan" de forma simplificada los argumentos de los ateos y los racionalistas. Esto se usa como "entrenamiento" para responder a las preguntas más habituales de la gente que los atiende en sus casas.
 
