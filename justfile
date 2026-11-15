@@ -17,6 +17,12 @@ test:
 deploy *comments:
     uv run nikola github_deploy -m "{{comments}}"
 
+# Agregar posts+imágenes y deployar
+add-deploy *comments:
+    fossil add posts images
+    fossil ci -m "{{comments}}"
+    uv run nikola github_deploy -m "{{comments}}"
+
 # Obtener posts de Facebook
 [group("FB")]
 download-posts inicio *params:
@@ -36,5 +42,6 @@ gen-post *params:
     just gen
 
 # Verificar credenciales
+[group("FB")]
 cred:
     uv run fb_posts.py credential check
