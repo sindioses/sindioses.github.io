@@ -261,7 +261,7 @@ PAGES = (
 # (e.g. 'Europe/Zurich')
 # Also, if you want to use a different time zone in some of your posts,
 # you can use the ISO 8601/RFC 3339 format (ex. 2012-03-30T23:00:00+02:00)
-TIMEZONE = "America/Buenos_Aires"
+TIMEZONE = "America/Argentina/Buenos_Aires"
 
 # If you want to use ISO 8601 (also valid RFC 3339) throughout Nikola
 # (especially in new_post), set this to True.
@@ -277,7 +277,7 @@ DATE_FORMAT = 'dd-MM-YYYY'
 # Used by moment.js: https://momentjs.com/docs/#/displaying/format/
 # JS_DATE_FORMAT = 'YYYY-MM-DD HH:mm'
 
-LUXON_DATE_FORMAT = {'es': {'preset': False, 'format': 'yyyy-MM-dd'}}
+LUXON_DATE_FORMAT = {'es': {'preset': False, 'format': 'yyyy-MM-dd HH:mm'}}
 
 # Date fanciness.
 #
@@ -1194,7 +1194,6 @@ SOCIAL_BUTTONS_CODE = """\
 var a2a_config = a2a_config || {};
 a2a_config.locale = "es-AR";
 </script>
-<script type="text/javascript" src="//static.addtoany.com/menu/page.js"></script>
 """
 
 ADDTHIS_SOCIAL_BUTTONS_CODE = """
@@ -1244,7 +1243,7 @@ FEED_TEASERS = True
 # FEED_PLAIN = False
 
 # Number of posts in Atom and RSS feeds.
-FEED_LENGTH = 20
+FEED_LENGTH = 100
 
 # RSS_LINK is a HTML fragment to link the RSS or Atom feeds. If set to None,
 # the base.tmpl will use the feed Nikola generates. However, you may want to
@@ -1352,6 +1351,9 @@ BODY_END = """
     </div>
     </noscript>
     <!-- End of StatCounter Code -->
+    
+    
+<script defer src="https://static.addtoany.com/menu/page.js"></script>    
 """
 
 # The possibility to extract metadata from the filename by using a
