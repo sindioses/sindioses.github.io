@@ -56,7 +56,7 @@ def _reemplazar_citas_biblicas(post: str) -> str:
 
     # Reemplazar múltiples posibles citas bíblicas en paréntesis marcados a tal efecto (!Cita1, Cita2)
     multicita = re.compile(r"\(!([^()]*)\)")
-    post = multicita.sub(r'({{% biblia_multi_coma "\1" DHH %}})', post)
+    post = multicita.sub(r'({{% biblia "\1" DHH %}})', post)
 
     return post
 

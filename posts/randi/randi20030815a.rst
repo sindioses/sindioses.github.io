@@ -1,5 +1,5 @@
 .. :wrap=soft:noTabs=true:collapseFolds=0:maxLineLen=120:mode=rest:tabSize=4:indentSize=4:encoding=UTF8:
-.. category: -Traducciones de James Randi
+.. category: Ilustraciones de páginas de James Randi
 .. tags:
 .. type: randi
 .. title: La historia de Adolf, teología sin fondos, las maravillas de Simanek, un brete en Tennessee, aceptación selectiva de la ciencia, dos lectores alarmados, Twain sobre la locura, sitios de la NCAHF, feng shui peligroso, la pirámide mágica, y una aventura en el Reino Unido...

@@ -1,0 +1,44 @@
+.. author: Iván González Mairena
+.. title: La infidelidad en la Biblia: un concepto humano, desigual y profundamente contradictorio
+.. date: 2026-04-20 12:01:04+00:00
+.. category: Examinando las religiones
+.. type: exrel
+.. link: https://www.facebook.com/1581235977384472/posts/1391981972976541
+.. description: Desde una perspectiva antropológica, uno de los aspectos más reveladores de la Biblia es su manera de regular —con notable obsesión— la vida íntima de las personas. Así, entre los mandamientos atribuidos a Yahvé y supuestamente entregados a Moisés, aparece la conocida prohibición: "No cometerás adulterio" ({{% biblia "Éxodo 20:14; Deuteronomio 5:18" DHH %}}), que suele interpretarse como "No fornicar", porque en el lenguaje moderno "fornicación" es sinónimo de infidelidad conyugal o adulterio, entendido esto como conducta sexual fuera del vínculo conyugal.
+
+
+.. class:: primera
+
+Desde una perspectiva antropológica, uno de los aspectos más reveladores de la Biblia es su manera de regular —con notable obsesión— la vida íntima de las personas. Así, entre los mandamientos atribuidos a Yahvé y supuestamente entregados a Moisés, aparece la conocida prohibición: "No cometerás adulterio" ({{% biblia "Éxodo 20:14; Deuteronomio 5:18" DHH %}}), que suele interpretarse como "No fornicar", porque en el lenguaje moderno "fornicación" es sinónimo de infidelidad conyugal o adulterio, entendido esto como conducta sexual fuera del vínculo conyugal.
+
+..  thumbnail:: infidelidad_biblia.jpg
+    :class: align-right
+
+
+Sin embargo, lo primero que salta a la vista es que este mandato no tiene nada de "espiritual", sino que es una norma social que invade directamente la vida privada, particularmente la sexualidad, y que responde más a necesidades culturales y estructurales, que a principios divinos universales. Porque resulta que la sexualidad humana —como la de la mayoría de las especies— no es naturalmente monógama, ni la llamada "infidelidad" es una anomalía biológica, sino una conducta frecuente en el reino animal, incluida nuestra especie. Y más bien, desde el punto de vista evolutivo, la diversidad genética favorecida por múltiples parejas, puede incluso considerarse una ventaja adaptativa.
+
+Pero a pesar de esta realidad biológica, los redactores bíblicos convierten la infidelidad en un delito extremadamente grave. Según {{% biblia "Levítico 20:10" DHH %}} y {{% biblia "Deuteronomio 22:22" DHH %}}, el adulterio debe castigarse con la muerte, específicamente mediante lapidación, por lo que no estamos ante una simple norma moral, sino ante una legislación penal extrema, que ve a la infidelidad como un crimen capital.
+
+Sin embargo, esa severidad no se distribuye de forma equitativa, porque las exigencias recaen con mucho mayor peso sobre las mujeres. Y es que en sociedades antiguas, sin pruebas de ADN, la fidelidad femenina garantizaba la certeza de la paternidad, lo cual tenía implicaciones económicas, hereditarias y sociales. Así, la moral sexual bíblica no es más que una extensión del control patriarcal sobre el cuerpo femenino.
+
+La contradicción se hace más evidente cuando observamos que la Biblia permite —y hasta normaliza— la poligamia masculina. {{% biblia "Deuteronomio 21:15-17" DHH %}} regula la convivencia de un hombre con varias esposas, y figuras centrales del judaísmo, como David ({{% biblia "2 Samuel 5:13-16" DHH %}}) y Salomón ({{% biblia "1 Reyes 11:3" DHH %}}), tenían múltiples esposas y concubinas, sin que esto se considere adulterio. De Salomón dice la Biblia, sin ningún rubor, que tuvo 700 mujeres reinas, es decir, esposas, y 300 concubinas. E incluso Jesús estaba de acuerdo con que un hombre tuviera en su casa varias mujeres, tal como se observa su el ejemplo de las diez muchachas vírgenes que esperaban a su esposo, quien se tardaba en llegar ({{% biblia "Mateo 25:1-13" DHH %}}).
+
+La mujer en cambio, estaba obligada a una fidelidad absoluta. Incluso {{% biblia "Números 5:11-31" DHH %}} describe un ritual llamado "el agua de los celos", una especie de juicio mágico mediante el cual un sacerdote determinaba si una mujer había sido infiel. Pero no existía un equivalente para los hombres. O sea, es difícil no ver aquí una mezcla de superstición, control social y paranoia masculina institucionalizada.
+
+Y el Nuevo Testamento, lejos de corregir estas inconsistencias, las profundiza. Jesús introduce una idea todavía más radical, el "adulterio mental", porque para Jesús, el adulterio no sólo se comete con actos, sino hasta con pensamientos. En {{% biblia "Mateo 5:27-30" DHH %}} afirma que cualquiera que mire a una mujer con deseo ya adulteró "en su corazón". Y la solución que propone es radical: si el ojo o la mano inducen a este "pecado", deben ser arrancados o cortados. Claro, hay aquí una contradicción evidente, si nos fijamos en el ejemplo de las diez muchachas vírgenes ({{% biblia "Mateo 25:1-13" DHH %}}).
+
+Pero aparece también un concepto inquietante: el delito de pensamiento, donde el deseo, una función natural del cerebro humano, es criminalizado. Obviamente, si los creyentes fueran honestos y tomaran en serio esa instrucción de Jesús, la sociedad cristiana estaría llena de hombres mutilados. La ironía es evidente: el mismo "Dios" que habría creado los impulsos sexuales, exige su supresión mediante la violencia contra el propio cuerpo. Pero curiosamente, este rigor se dirige exclusivamente a los hombres. No hay instrucciones equivalentes para mujeres que deseen a hombres. Lo cual refleja, nuevamente, un sesgo cultural más que una moral universal.
+
+Paradójicamente, Jesús aparece también como protector de mujeres acusadas de infidelidad conyugal, tal como se observa en el episodio de la mujer adúltera ({{% biblia "Juan 8:1-11" DHH %}}), a la que evita su lapidación. Un gesto que parece humanitario, pero que contrasta con la dureza de sus propias enseñanzas sobre el instinto sexual masculino. Y aún más llamativo es el relato del origen mismo de Jesús: según los evangelios, fue concebido cuando María, estando comprometida o casada con José, quedó embarazada por "la sombra del poder de Yahvé", mientras el espíritu de este dios "llegaba" sobre ella ({{% biblia "Lucas 1:35" DHH %}}). Como sea, desde una lectura estricta de la ley mosaica, esto encaja en un caso de infidelidad.
+
+Incluso José, al descubrir que su mujer estaba embarazada, sabiendo que ese hijo no era suyo, se sintió engañado ({{% biblia "Mateo 1:18" DHH %}}). Pero por ser un hombre bueno, no quiso "infamarla", es decir, rechazarla, aunque consideró secretamente la idea de abandonarla ({{% biblia "Mateo 1:18-20" DHH %}}). Esto evitó que María fuera muerta a pedradas como estaba prescrito por Yahvé ({{% biblia "Deuteronomio 22:20-21" DHH %}}). José, sin embargo, decidió no hacerlo, desobedeciendo implícitamente la "ley de Dios", para guiarse por la ética humana, gracias a lo cual, Jesús pudo nacer. Una contradicción difícil de ignorar: el mismo sistema moral que condena la infidelidad, es el que, aplicado coherentemente, habría impedido el evento central del cristianismo… Pero uno no puede evitar preguntarse: ¿será por eso que Jesús protegía a las mujeres infieles?
+
+Ahora, en cuanto al divorcio, se observa un doble rasero: Jesús permite la separación de la pareja sólo en casos de adulterio ({{% biblia "Mateo 5:31" DHH %}}), pero el enfoque sigue siendo desigual. La preocupación principal es la conducta de la mujer. En {{% biblia "Marcos 10:11-12" DHH %}} se menciona que tanto el hombre como la mujer cometen adulterio al volver a casarse, pero el contexto cultural hace evidente que la iniciativa del divorcio estaba en manos masculinas, porque la idea de que una mujer pudiera repudiar a su marido era prácticamente impensable. Así, incluso cuando parece haber cierta simetría en el discurso, la estructura social sigue siendo profundamente desigual.
+
+En fin, desde una mirada antropológica, el concepto bíblico de infidelidad no es más que un constructo cultural propio de sociedades patriarcales antiguas. Su función principal no es espiritual, sino social: controlar la sexualidad, garantizar la herencia y mantener estructuras de poder.
+
+En otras palabras: eso que la Biblia presenta como "mandato divino", es en realidad un conjunto de normas humanas, llenas de contradicciones, dobles estándares y elementos mágicos. Pero la supuesta moral absoluta de la Biblia se desmorona, cuando se analiza con herramientas históricas, biológicas y antropológicas.
+
+[Godless Freeman]
+
+
