@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Que "Dios" tiene un "plan perfecto"? ¿En serio?
 .. date: 2026-02-10 11:49:07+00:00
 .. category: Examinando las religiones
@@ -32,5 +32,3 @@ Así que, como vemos, desde una perspectiva histórica y crítica, la idea del "
 En última instancia, el concepto de un "plan perfecto" choca tanto con la experiencia del mundo, como con la lógica interna de la propia Biblia. Un "Dios" que se arrepiente, que se equivoca, que destruye lo que él mismo diseñó, que crea el bien y el mal, la paz y la calamidad, y que castiga fallas que conocía desde antes de la creación, no se ve como el arquitecto de un proyecto intachable. Más recuerda a una construcción mítica humana: un intento de explicar el caos del universo atribuyéndolo a una voluntad suprema, aunque esa voluntad resulte tan contradictoria y falible, como la de los hombres que la imaginaron.
 
 [Godless Freeman]
-
-

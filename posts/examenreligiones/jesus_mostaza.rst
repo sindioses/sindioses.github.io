@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Jesús, la mostaza y la pobre higuera: el cocreador del Universo que reprobó Botánica
 .. date: 2026-03-13 11:52:27+00:00
 .. category: Examinando las religiones
@@ -46,5 +46,3 @@ Y con respecto a la pobre higuera, simplemente, estaba haciendo lo que las higue
 .. [1] https://es.wikipedia.org/wiki/Granos_de_mostaza
 
 .. [2] https://plantaytallo.com/cual-es-la-semilla-mas-pequena-del-mundo/
-
-

@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: La trampa divina de la felicidad prometida (y siempre pospuesta)
 .. date: 2025-11-26 12:14:30+00:00
 .. category: Examinando las religiones
@@ -44,4 +44,3 @@ Terminemos con estas palabras:
 [Palabras finales e imagen compartidos de la publicación de ‘Universo Sorprendente’, del 28 de octubre de 2025] [1]_
 
 .. [1] https://www.facebook.com/universorprendente/posts/pfbid09JWdrauT7udze8CTqzUUy7VQLtHZZVd1DVt1QMfoEGiz63BzMSxx33VW1gRU6txtl
-

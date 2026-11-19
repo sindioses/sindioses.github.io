@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Ser, estar y existir: otro problema filosófico de "Dios"
 .. date: 2026-05-07 12:26:39+00:00
 .. category: Escepticismo
@@ -56,5 +56,3 @@ Cuando "ser", "estar" y "existir" dejan de encajar, lo que se resquebraja no es 
 .. [2] https://dle.rae.es/ser?m=form
 
 .. [3] https://dle.rae.es/estar?m=form
-
-

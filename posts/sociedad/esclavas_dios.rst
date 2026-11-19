@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: "Las esclavas de Dios": una explotación sexual cubierta por un manto de fe
 .. date: 2025-11-07 14:31:09+00:00
 .. category: Sociedad y religión
@@ -54,5 +54,3 @@ Las religiones han sido, una y otra vez, hábiles para revestir de espiritualida
 [Crédito de imagen: BBC NEWS Mundo]
 
 .. [1] https://www.bbc.com/mundo/articles/clyk30vkqklo
-
-

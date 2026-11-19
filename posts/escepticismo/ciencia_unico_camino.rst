@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Decir que la ciencia es el único camino al conocimiento es algo contradictorio?
 .. date: 2026-01-26 11:30:44+00:00
 .. category: Escepticismo
@@ -36,4 +36,3 @@ En conclusión, la ciencia no es una religión ni una cosmovisión total, pero s
 [Godless Freeman]
 
 [Crédito de imagen: Sociedad De Filosofía Aplicada]
-

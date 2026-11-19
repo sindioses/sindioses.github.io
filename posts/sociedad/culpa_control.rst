@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: La culpa: una herramienta de control psicológico de las religiones abrahámicas
 .. date: 2026-01-22 11:47:15+00:00
 .. category: Sociedad y religión
@@ -83,5 +83,3 @@ Digamos en conclusión que la culpa impuesta —esa que no nace de nuestros valo
 https://elpais.com/elpais/2019/01/07/eps/1546863563_564035.html
 
 https://ibipa.org/predicaciones/estudio-biblico-la-culpa-del-pecado/
-
-

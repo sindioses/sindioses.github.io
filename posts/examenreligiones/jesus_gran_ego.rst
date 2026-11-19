@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Jesús no era un personaje humilde, sino alguien con un ego sobredimensionado
 .. date: 2026-04-12 11:46:47+00:00
 .. category: Examinando las religiones
@@ -66,5 +66,3 @@ La discrepancia entre el Jesús "real" de los textos y el Jesús idealizado por 
 .. [2] https://www.ivanesalud.com/delirios-de-grandeza/
 
 .. [3] https://www.feuso.es/106-salud-laboral/3727-el-sindrome-de-hubris-el-ego-sobredimensionado
-
-

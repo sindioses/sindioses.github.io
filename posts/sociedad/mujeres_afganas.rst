@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Afganistán: donde las mujeres viven secuestradas en su propio país
 .. date: 2026-02-22 11:32:22+00:00
 .. category: Sociedad y religión
@@ -35,7 +35,7 @@ Pero en los últimos años ha sido peor, a partir de 2023 se prohibió a las muj
 
 Paradójicamente, en un sistema ultrarreligioso como éste, la mujer es convertida en una "tentación", mientras que la responsabilidad masculina desaparece. Y como resultado, se controla a la mujer para evitar confrontar la fragilidad moral masculina. Por supuesto, esto no es espiritualidad, es una estructura de defensa psicológica colectiva.
 
-Pero sin duda, permitir el castigo físico doméstico siempre que no haya huesos rotos, envía un mensaje aterrador: significa que el dolor es aceptable, con tal de que no deje marcas visibles. Pero se trata de una violencia doméstica que genera en las víctimas trastornos depresivos graves, que pueden llevar hasta a intentos de suicidio. Sin duda, una religión que termina legalizando los golpes "moderados", ha cruzado la frontera entre norma moral y abuso estructural. 
+Pero sin duda, permitir el castigo físico doméstico siempre que no haya huesos rotos, envía un mensaje aterrador: significa que el dolor es aceptable, con tal de que no deje marcas visibles. Pero se trata de una violencia doméstica que genera en las víctimas trastornos depresivos graves, que pueden llevar hasta a intentos de suicidio. Sin duda, una religión que termina legalizando los golpes "moderados", ha cruzado la frontera entre norma moral y abuso estructural.
 
 ¿Pero por qué hace todo esto el régimen talibán? —Según ellos, se trata de un proyecto que busca crear lo que conciben como una sociedad "pura" y ordenada, conforme a su lectura del derecho religioso— aunque esto se traduce en severos casos de discriminación por género. Pero por otra parte, se trata de un sistema que cierra los ojos ante prácticas como "Bacha bazi", en que adolescentes varones son explotados sexualmente por hombres adultos poderosos. Y aunque no es política oficial talibán, ha sido un fenómeno social persistente.
 
@@ -52,4 +52,3 @@ La historia y los hechos actuales nos demuestran que cuando la religión toma el
 .. [1] https://www.elcomercio.com/actualidad/mundo/nuevo-codigo-penal-afganistan-permite-pegar-mujeres/
 
 .. [2] https://heraldodemexico.com.mx/mundo/2026/2/17/afganistan-legaliza-la-violencia-domestica-hombres-podran-golpear-sus-esposas-mientras-no-haya-heridas-visibles-770159.html
-

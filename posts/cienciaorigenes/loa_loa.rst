@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: El "Diseño Inteligente" del sufrimiento: el caso del Loa loa
 .. date: 2026-04-22 12:07:19+00:00
 .. category: Ciencia de los orígenes
@@ -50,4 +50,3 @@ Ambas son incompatibles cuando se examinan casos como éste. Pero desde una post
 .. [1] https://www.theguardian.com/world/2009/jan/27/david-attenborough-science
 
 .. [2] https://www.goodreads.com/quotes/494183-i-don-t-know-why-we-re-here-people-sometimes-say-to
-

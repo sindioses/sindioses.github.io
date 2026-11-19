@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: La prodigiosa carrera acuática de Jesús: cuando los dogmas religiosos desafían las leyes de la física
 .. date: 2025-12-09 14:39:46+00:00
 .. category: Examinando las religiones
@@ -48,5 +48,3 @@ Así que, digamos que poner a un ser humano a caminar sobre el agua puede ser un
 En el caso de los insectos zapateros y los basiliscos, se puede explicar su comportamiento mediante leyes naturales comprensibles. La anécdota sobre Jesús en cambio, requeriría contravenir varias leyes naturales simultáneamente. Y si un relato necesita romper la física del universo para sostenerse, es sencillamente porque pertenece al campo de los mitos, no de los hechos.
 
 [Godless Freeman]
-
-

@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Los tres Cristos de Ypsilanti: cuando los delirios mentales y la fe religiosa se vuelven indistinguibles
 .. date: 2026-01-04 14:25:30+00:00
 .. category: Sociedad y religión
@@ -59,5 +59,3 @@ Aquellos tres hombres nunca aceptaron que otro fuera "el verdadero Cristo". Así
 Referencia:
 
 .. [1] https://www.penguinrandomhouse.com/books/206651/the-three-christs-of-ypsilanti-by-milton-rokeach-introduction-by-rick-moody/
-
-

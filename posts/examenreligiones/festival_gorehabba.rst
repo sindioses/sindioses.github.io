@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: El Festival de Gorehabba: cuando la fe se hunde en el estiércol
 .. date: 2025-10-28 14:13:16+00:00
 .. category: Examinando las religiones
@@ -41,4 +41,3 @@ Referencias
 * https://www.marca.com/tiramillas/sociedad/2025/10/24/impactante-video-youtuber-acude-diwali-festival-india-lanzan-excrementos-vaca.html
 
 * https://www.elimparcial.com/mundo/2025/10/26/gorehabba-la-tradicion-india-que-cierra-el-final-del-festival-de-las-luces-lanzandose-unos-a-otros-estiercol-de-vaca-bendecido/?outputType=amp-type
-

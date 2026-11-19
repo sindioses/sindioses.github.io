@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Mariam Soulakiotis: la monja psicópata con permiso para cometer ultrajes
 .. date: 2026-01-30 11:34:52+00:00
 .. category: Sociedad y religión
@@ -58,5 +58,3 @@ En sociedades verdaderamente modernas y laicas, ninguna creencia debería estar 
 [Crédito de imagen: El Escocés gamer]
 
 .. [1] https://es.wikipedia.org/wiki/Mariam_Soulakiotis
-
-

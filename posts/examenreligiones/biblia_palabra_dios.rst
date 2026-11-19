@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Que la Biblia es "palabra de Dios"? ¿Quién lo dice?
 .. date: 2026-03-27 11:53:11+00:00
 .. category: Examinando las religiones
@@ -46,5 +46,3 @@ Surge entonces la pregunta clave: ¿Cuántas de las creencias actuales de los cr
 En fin, cuando la "palabra de Dios" necesita tantas correcciones humanas, tal vez lo más honesto sea admitir que nunca dejó de ser, solamente, palabra de hombres.
 
 [Godless Freeman]
-
-

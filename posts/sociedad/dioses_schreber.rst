@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Cuando la psicosis fabrica dioses: el caso Schreber
 .. date: 2026-02-05 11:51:53+00:00
 .. category: Sociedad y religión
@@ -57,5 +57,3 @@ Lo cierto es que el caso Schreber es una advertencia poderosa: la frontera entre
 Desde una mirada racional el mensaje es claro y profundamente inquietante para la fe: si un cerebro enfermo puede generar dioses y cosmologías con tal riqueza, ¿cuántas "revelaciones" del pasado no habrán sido, en esencia, casos Schreber pero sin diagnóstico?
 
 [Godless Freeman]
-
-

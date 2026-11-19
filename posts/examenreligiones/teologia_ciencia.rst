@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Que la teología es una ciencia?
 .. date: 2025-11-30 15:09:48+00:00
 .. category: Examinando las religiones
@@ -46,5 +46,3 @@ En suma, la teología es una construcción especulativa que estudia a un sujeto 
 .. [4] https://dle.rae.es/dios
 
 .. [5] https://es.wikipedia.org/wiki/Pseudociencia
-
-

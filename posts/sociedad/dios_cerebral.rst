@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: "Dios" es un producto cerebral: una idea sin referente en la realidad
 .. date: 2026-02-01 11:39:58+00:00
 .. category: Sociedad y religión
@@ -45,4 +45,3 @@ En suma: la neurociencia no elimina a "Dios"; simplemente lo devuelve a su lugar
 [Godless Freeman]
 
 .. [1] https://www.amazon.com/-/es/dios-cada-uno-neurociencia-existencia/dp/8420683213
-

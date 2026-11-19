@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Si crees que en todas partes la Navidad es en diciembre, estás equivocado... y si crees que en todas partes Jesús es blanco, también lo estás
 .. date: 2025-12-25 11:16:22+00:00
 .. category: Sociedad y religión
@@ -57,5 +57,3 @@ https://www.laprensagrafica.com/tendencias/El-pueblo-de-Colombia-que-celebra-la-
 https://www.eluniversal.com.co/colombia/2018/02/19/quinamayo-el-pueblo-colombiano-que-celebra-la-navidad-en-febrero/
 
 https://www.mincultura.gov.co/noticias/Paginas/el-nino-dios-negro-una-festividad-que-perdura-como-simbolo-emancipatorio-en-quinamayo-valle-del-cauca.aspx
-
-

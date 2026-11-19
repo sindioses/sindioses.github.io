@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¡Llegó el Martes de Carnaval o Mardi Gras!
 .. date: 2026-02-17 11:44:10+00:00
 .. category: Sociedad y religión
@@ -48,5 +48,3 @@ Por hoy no te preocupes, mañana miércoles, una cruz de ceniza en tu frente lo 
 [Godless Freeman]
 
 [Crédito de imagen: Wikipedia]
-
-

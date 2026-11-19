@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: La resurrección de Jesús: el pilar tambaleante del cristianismo
 .. date: 2026-04-06 11:56:37+00:00
 .. category: Examinando las religiones
@@ -53,5 +53,3 @@ Pero aun así, miles de millones lo aceptan como un hecho histórico. No por evi
 Al final, la resurrección de Jesús no es un hecho comprobado: es sólo una narrativa construida, editada, adornada y defendida durante siglos. Y como toda narrativa extraordinaria sin evidencia sólida, se sostiene no por su veracidad, sino por la voluntad de creer en ella.
 
 [Godless Freeman]
-
-

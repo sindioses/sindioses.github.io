@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Por qué los ateos hablamos tanto de "Dios"?
 .. date: 2025-10-30 11:44:33+00:00
 .. category: Simplemente ateísmo
@@ -65,4 +65,3 @@ Mientras tanto, seguiremos hablando de "Dios" todo lo que haga falta. Pero no po
 .. [3] https://elcultural.com/el-sonido-de-la-eternidad-segun-c-s-lewis
 
 .. [4] http://megafrases.com/autor/anthony-burgess/
-

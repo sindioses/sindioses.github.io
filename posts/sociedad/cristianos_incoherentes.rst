@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Por qué los cristianos no actúan coherentemente con sus dogmas?
 .. date: 2026-03-08 11:45:15+00:00
 .. category: Sociedad y religión
@@ -44,5 +44,3 @@ Al final, esa falta de disposición de los cristianos para cumplir con los manda
 Podemos decir por tanto, que el cristianismo contemporáneo exhibe en la práctica una hipocresía estructural: promueve el sacrificio cuando es "metafórico" o histórico, pero rehúye a su práctica real. Predica valentía en abstracto, pero se decide por la seguridad cuando se trata de hechos concretos. Predica la pobreza como virtud, pero no está dispuesto a vivirla personalmente. En la realidad, el cristianismo no es una religión de fieles totalmente entregados a su doctrina, sino de conversos de sofá, armados con versículos elegidos a conveniencia, sin la valentía de obedecer sus propios mandatos en el mundo real. Y el resultado no es heroísmo religioso: es una pastoral de privilegios, comodidad y obediencia parcial, que nunca se atreve a marchar hacia los países donde ser cristiano es verdaderamente peligroso, ni se atreve a sacrificar sus beneficios personales conforme a los mandatos de su religión. Eso, para un observador crítico, es la mayor ironía de todas.
 
 [Godless Freeman]
-
-

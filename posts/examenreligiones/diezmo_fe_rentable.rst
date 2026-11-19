@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: El diezmo: lo que hace que la fe religiosa sea rentable
 .. date: 2025-12-19 14:25:34+00:00
 .. category: Examinando las religiones
@@ -38,5 +38,3 @@ La Biblia incluso afirma que "la raíz de todos los males es el amor al dinero" 
 Al final lo que queda claro es que el dinero del diezmo y las ofrendas jamás ha sido para "Dios"; siempre ha sido para quienes hablan en su nombre. ¿Quién les dio ese derecho? —Ellos mismos. Y si algo revela el diezmo, es que ninguna institución religiosa ha renunciado a su origen: una estructura de poder sostenida por la ignorancia, el miedo y el dinero ajeno. Y mientras la fe sea rentable, seguirán haciéndote creer que el diez por ciento de tus ingresos es para "Dios"… aunque todos sabemos quién lo termina usando.
 
 [Godless Freeman]
-
-

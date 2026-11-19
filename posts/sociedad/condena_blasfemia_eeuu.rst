@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Charles Lee Smith: el último condenado por blasfemia en los Estados Unidos
 .. date: 2026-02-25 14:58:48+00:00
 .. category: Sociedad y religión
@@ -46,4 +46,3 @@ https://en.wikipedia.org/wiki/Blasphemy_law_in_the_United_States
 https://en.wikipedia.org/wiki/Charles_Lee_Smith
 
 https://www.facebook.com/thewittyhistorian/posts/that-year-an-outspoken-atheist-and-free-thought-activist-named-charles-lee-smith/809944765413346/
-

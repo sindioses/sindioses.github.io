@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Saulo de Tarso: el arquitecto invisible del cristianismo. ¿Un caso psiquiátrico?
 .. date: 2025-11-19 13:41:36+00:00
 .. category: Examinando las religiones
@@ -15,7 +15,7 @@ Saulo de Tarso, mejor conocido como el "apóstol san Pablo", es sin duda una de 
     :class: align-right
 
 
-A este personaje se le atribuye una parte sorprendentemente grande del Nuevo Testamento: entre el 23% y el 25% de su extensión total, o bien entre el 38% y el 50% de los libros (13 o 14 de los 27, según el criterio que se use). Esta desproporción se debe a que las cartas paulinas son textos breves comparados con los Evangelios o los Hechos de los Apóstoles. Pero su influencia no radica en la cantidad, sino en el contenido: todo lo que escribió, o que se dice que escribió, es considerado por los creyentes como la misma "palabra de Dios", lo que convierte a Pablo —si existió— en el verdadero cerebro doctrinal del cristianismo. Su papel fue crucial para que esta religión se propagara más allá de sus orígenes judíos, y llegara a tener un alcance mundial. Fue una figura fundamental para la expansión del cristianismo, principalmente por su trabajo de adoctrinamiento de los no judíos (gentiles) en la ideología definida por él mismo, estableciendo muchos de los conceptos teológicos clave que ahora determinan esta religión. 
+A este personaje se le atribuye una parte sorprendentemente grande del Nuevo Testamento: entre el 23% y el 25% de su extensión total, o bien entre el 38% y el 50% de los libros (13 o 14 de los 27, según el criterio que se use). Esta desproporción se debe a que las cartas paulinas son textos breves comparados con los Evangelios o los Hechos de los Apóstoles. Pero su influencia no radica en la cantidad, sino en el contenido: todo lo que escribió, o que se dice que escribió, es considerado por los creyentes como la misma "palabra de Dios", lo que convierte a Pablo —si existió— en el verdadero cerebro doctrinal del cristianismo. Su papel fue crucial para que esta religión se propagara más allá de sus orígenes judíos, y llegara a tener un alcance mundial. Fue una figura fundamental para la expansión del cristianismo, principalmente por su trabajo de adoctrinamiento de los no judíos (gentiles) en la ideología definida por él mismo, estableciendo muchos de los conceptos teológicos clave que ahora determinan esta religión.
 
 Pero el hecho más curioso de Pablo es que nunca conoció personalmente a Jesús de Nazaret, a pesar de que fue él quien lo transformó en una figura divina: un "Cristo" celestial, abstracto, híbrido entre lo humano y lo divino. "Cristo" (del griego Christós, "ungido") era un término común en la época, pero Pablo lo convirtió en un concepto teológico. De la mano de este fariseo convertido en misionero itinerante, Jesús dejó de ser un supuesto predicador galileo, para convertirse en un ente místico que da su vida y resucita "por los pecados del mundo". En otras palabras, Pablo creó la teología del "Cristo redentor" que hoy sostiene el cristianismo.
 
@@ -42,4 +42,3 @@ En última instancia, pues, el cristianismo no es tanto la religión de Jesús, 
 [Godless Freeman]
 
 [Crédito de imagen: Ecos de la Palabra]
-

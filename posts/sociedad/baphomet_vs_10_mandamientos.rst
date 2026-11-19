@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Baphomet contra los Diez Mandamientos: una batalla ganada por el laicismo, pero la lucha puede continuar
 .. date: 2026-04-07 11:35:00+00:00
 .. category: Sociedad y religión
@@ -42,5 +42,3 @@ Pero al final la pregunta no es si Baphomet merece un lugar junto a los Diez Man
 [Godless Freeman]
 
 https://thesatanictemple.com/blogs/news/the-satanic-temple-wins-historic-baphomet-v-10-commandments-monument-case-in-arkansas
-
-

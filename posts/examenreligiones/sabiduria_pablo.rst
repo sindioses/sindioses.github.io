@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: "Las perlas de sabiduría del apóstol san Pablo"
 .. date: 2026-02-11 11:52:21+00:00
 .. category: Examinando las religiones
@@ -73,5 +73,3 @@ En fin, Pablo fue solamente un hombre de su tiempo, con los prejuicios de su tie
 El "apóstol inspirado" queda entonces al descubierto como lo que fue: un predicador antiguo, atrapado en una visión patriarcal del mundo, cuyos textos sobreviven hoy no por su profundidad universal, sino porque una institución los declaró sagrados. Aunque cuando resultan incómodos… se los ignora convenientemente. "Palabra de Dios"… sí, pero con tijeras.
 
 [Godless Freeman]
-
-

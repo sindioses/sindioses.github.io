@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Un paraíso que se convierte en jaula: Calhoun, la etología y el "Cielo" cristiano
 .. date: 2026-02-03 11:42:56+00:00
 .. category: Sociedad y religión
@@ -48,5 +48,3 @@ Es decir, el experimento de Calhoun mostró que la vida no se sostiene sólo con
 Y visto así, el Cielo cristiano podría ser, paradójicamente, una versión metafísica del "Universo 25": un lugar sin dolor, sí, pero también sin propósito. Sin muerte, sí, pero también sin verdadera vida. Y la pregunta que queda flotando es inquietante: ¿Esa idea cristiana de un paraíso eterno, en lugar de representar la culminación de la experiencia humana, no sería su disolución psicológica final?
 
 [Godless Freeman]
-
-

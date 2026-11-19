@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Divorcio, culpa y exclusión: la herida psicológica que la Iglesia católica se niega a reconocer
 .. date: 2026-03-24 11:52:36+00:00
 .. category: Sociedad y religión
@@ -64,5 +64,3 @@ Porque no hay nada moralmente superior en sostener una norma que genera sufrimie
 .. [1] https://www.infobae.com/america/mundo/2026/03/20/leon-xiv-respaldo-un-texto-del-papa-francisco-sobre-los-divorciados-que-vuelven-a-casarse-un-mensaje-luminoso-de-esperanza/
 
 .. [2] https://dle.rae.es/adulterio?m=form
-
-

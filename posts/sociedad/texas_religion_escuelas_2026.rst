@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Los cristianos de Texas vuelven al ataque: nuevo intento de introducir contenido bíblico en las escuelas públicas
 .. date: 2026-04-10 11:39:06+00:00
 .. category: Sociedad y religión
@@ -50,4 +50,3 @@ https://timesofindia.indiatimes.com/education/news/texas-proposes-bible-stories-
 https://apnews.com/article/bible-stories-reading-list-6c25559a83a7975dfb09a9a2f68e279b
 
 https://www.washingtonpost.com/nation/2026/04/09/texas-muslims-terrorism-education/
-

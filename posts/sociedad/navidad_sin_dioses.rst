@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Celebrando la Navidad Sin Dioses? ¿Por qué no? Si es una festividad cultural que también nos pertenece
 .. date: 2025-12-24 12:49:59+00:00
 .. category: Sociedad y religión
@@ -50,5 +50,3 @@ Así que, llámese Navidad, Saturnalia, solsticio o simplemente fiestas de fin d
 Rodeados de ese calor familiar que se manifiesta de forma tan especial en esta temporada del año, y que el nuevo ciclo venga acompañado de más razón, más humanidad, más libertad de pensamiento, y más libertad para ser felices a nuestro estilo sin perjudicar a otros.
 
 [Godless Freeman]
-
-

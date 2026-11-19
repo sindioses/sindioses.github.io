@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: El Monstruo del Espagueti Volador: una sátira que se volvió religión
 .. date: 2025-12-16 15:14:23+00:00
 .. category: Sociedad y religión
@@ -72,5 +72,3 @@ https://es.wikipedia.org/wiki/Pastafarismo
 https://laicismo.org/el-pastafarismo-cumple-15-anos-los-creyentes-del-monstruo-espagueti-volador-reclaman-su-identidad-religiosa
 
 https://pastafari.at/pastafaris-bringen-beschwerde-beim-egmr-ein/
-
-

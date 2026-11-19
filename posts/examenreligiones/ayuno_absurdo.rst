@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Ayunar para agradar a los dioses? Una práctica antigua y absurda
 .. date: 2026-04-16 11:45:33+00:00
 .. category: Examinando las religiones
@@ -44,5 +44,3 @@ Pero si existe alguna ética que realmente valga la pena defender hoy, no es la 
 .. [1] https://www.milenio.com/virales/mozambique-muere-pastor-evangelico-intenta-hacer-ayuno-40-dias-jesus
 
 .. [2] https://es.wfp.org/noticias/hay-122-millones-de-personas-mas-que-en-2019-afectadas-por-el-hambre-debido-multiples-crisis
-
-

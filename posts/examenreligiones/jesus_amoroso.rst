@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Qué tan amoroso era Jesús? (en caso de haber existido)
 .. date: 2026-01-14 16:06:29+00:00
 .. category: Examinando las religiones
@@ -40,5 +40,3 @@ Por tanto, la conclusión es incómoda, pero clara: el Jesús de los evangelios 
 ¿No me lo crees? Revisa tu Biblia. Léela sin filtros.
 
 [Godless Freeman]
-
-

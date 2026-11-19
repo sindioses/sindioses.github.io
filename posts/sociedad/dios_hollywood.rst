@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Religión, poder y espectáculo: cuando la política invoca a "Dios" (y también a Hollywood)
 .. date: 2026-04-19 11:48:12+00:00
 .. category: Sociedad y religión
@@ -44,5 +44,3 @@ Por tanto, el problema no es tanto que un político tenga creencias religiosas; 
 [Godless Freeman]
 
 .. [1] https://diario.elmundo.sv/el-mundo/el-secretario-de-guerra-de-eeuu-cita-falso-versiculo-biblico-de-pulp-fiction-y-desata-polemica
-
-

@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: El fin del mundo (otra vez): la eterna industria del apocalipsis
 .. date: 2025-12-31 14:31:07+00:00
 .. category: Sociedad y religión
@@ -51,5 +51,3 @@ Así que, ¿cuál es la conclusión para este 31 de diciembre? —Pues, para emp
 [Godless Freeman]
 
 [Crédito de imagen: YouTube Dios Con Nosotros]
-
-

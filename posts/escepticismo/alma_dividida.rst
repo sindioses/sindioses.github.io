@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Y qué pasa si una persona tiene dos "almas"? La neurociencia del "yo dividido"
 .. date: 2026-05-05 12:25:44+00:00
 .. category: Escepticismo
@@ -53,5 +53,3 @@ Puede que no sea una idea reconfortante. Pero tiene una ventaja sobre las demás
 https://en.wikipedia.org/wiki/V._S._Ramachandran
 
 https://www.youtube.com/watch?v=DUQ90DB6j28
-
-

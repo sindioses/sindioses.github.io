@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Deepak Chopra y los archivos Epstein: espiritualidad rentable, ciencia ausente y un cinismo revelador
 .. date: 2026-02-08 11:46:45+00:00
 .. category: Sociedad y religión
@@ -44,4 +44,3 @@ En fin, la historia de Deepak Chopra recuerda una lección básica del pensamien
 .. [1] https://www.thedailybeast.com/self-help-guru-sorry-he-got-busted-for-vile-epstein-emails/
 
 .. [2] https://www.livemint.com/news/us-news/deepak-chopra-in-epstein-files-spiritual-guru-regrets-cute-girls-make-noises-comment-bollywood-actress-reacts-11770284110797.html
-

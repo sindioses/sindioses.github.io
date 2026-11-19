@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: El "Día de los Inocentes": Cuando "Dios" decidió salvar sólo a su hijo de un exterminio
 .. date: 2025-12-28 16:12:42+00:00
 .. category: Examinando las religiones
@@ -48,5 +48,3 @@ Y si esto es "sabiduría divina", uno no puede sino preguntarse si la humanidad 
 [Godless Freeman]
 
 .. [1] https://es.wikipedia.org/wiki/Nemrod
-
-

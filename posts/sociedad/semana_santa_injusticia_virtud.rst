@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Semana Santa: cuando la injusticia se celebra como virtud
 .. date: 2026-03-31 11:46:02+00:00
 .. category: Sociedad y religión
@@ -54,5 +54,3 @@ Así que, en esta Semana Santa, mientras se multiplican las procesiones, los ser
 Porque si un sistema permite —o peor aún, glorifica— el castigo de inocentes, entonces no estamos ante un sistema moral elevado, sino ante una reliquia de pensamiento arcaico que, bajo el barniz de lo sagrado, sigue desafiando los principios más básicos de la justicia humana.
 
 [Godless Freeman]
-
-

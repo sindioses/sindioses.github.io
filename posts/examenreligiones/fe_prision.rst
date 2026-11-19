@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: La fe: una prisión invisible y engañosa
 .. date: 2026-03-16 11:53:12+00:00
 .. category: Examinando las religiones
@@ -56,5 +56,3 @@ Referencias y lecturas adicionales
 - Inzlicht, M., et al. (2009). "Neural Markers of Religious Conviction." Psychological Science.
 - Tajfel, H., & Turner, J. C. (1979). "An Integrative Theory of Intergroup Conflict." The Social Psychology of Intergroup Relations.
 - Dawkins, R. (2006). The God Delusion. Bantam Press.
-
-

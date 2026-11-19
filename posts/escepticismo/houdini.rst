@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: 31 de octubre: Día para recordar a Harry Houdini, un "mago" que no creía en fantasmas ni en la comunicación con el "más allá"
 .. date: 2025-10-31 11:52:35+00:00
 .. category: Escepticismo
@@ -40,4 +40,3 @@ Hoy, a 99 años de su muerte, ningún espíritu ha regresado para contarnos cóm
 Así que este Halloween, más que temer a fantasmas, deberíamos temer a algo mucho más real: la credulidad humana manipulada. Y recordar, como lo hizo Houdini, que la libertad más importante es la libertad de pensar.
 
 [Godless Freeman]
-

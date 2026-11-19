@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Disonancia cognitiva: cuando la mente protege la creencia antes que la verdad
 .. date: 2026-03-19 12:05:10+00:00
 .. category: Escepticismo
@@ -67,5 +67,3 @@ Por eso es que no debemos interesarnos tanto en quién hace una afirmación, sin
 .. [5] https://psicologiaymente.net/psicologia/disonancia-cognitiva-teoria-autoengano
 
 .. [6] https://www.youtube.com/watch?v=tYjU1g81nto
-
-

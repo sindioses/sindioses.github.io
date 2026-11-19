@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Después de casi cinco siglos, los jefes de las iglesias católica y anglicana participan juntos por primera vez en una ceremonia religiosa
 .. date: 2025-10-26 14:25:55+00:00
 .. category: Examinando las religiones
@@ -25,7 +25,7 @@ Es decir, todo fue preparado como una gran producción simbólica de reconciliac
 
 Veamos cada caso:
 
-1) El monarca, la corona británica y la moral 
+1) El monarca, la corona británica y la moral
 - ----------------------------------------------------
 
 El papel del rey Carlos III como cabeza de la iglesia anglicana —y por tanto como máxima autoridad de una institución religiosa— no lo exime de su propia historia personal y de la de su círculo inmediato. Si bien él no está directamente implicado en el escándalo que afecta a su hermano, es inevitable que éste lo salpique. Hablamos del príncipe Andrés, duque de York, cuya asociación con Jeffrey Epstein, el financiero convicto por delitos s3xuales, ha sido objeto de escrutinio.
@@ -90,4 +90,3 @@ Referencias
 * https://apnews.com/article/prince-andrew-titles-duke-york-151c42ac608d864d94dfa233abfa04a8
 
 * https://britbrief.co.uk/politics/scandals/epstein-victims-demand-prince-andrew-document-release.html
-

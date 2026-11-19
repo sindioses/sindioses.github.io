@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: En el "Día de Todos los Santos": A 270 años del gran terremoto de Lisboa, cuando la realidad sepultó la fe
 .. date: 2025-11-01 13:29:25+00:00
 .. category: Sociedad y religión
@@ -28,4 +28,3 @@ Al final el terremoto de Lisboa dejó una lección ineludible: el universo no es
 [Crédito de imagen: Getty Images]
 
 https://www.bbc.com/portuguese/articles/ckgw92x5493o
-

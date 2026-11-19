@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: La superstición y la religión como determinantes del comportamiento humano
 .. date: 2026-03-03 11:57:29+00:00
 .. category: Sociedad y religión
@@ -64,5 +64,3 @@ Skinner fue claro, y por eso, incómodo: no somos tan libres como creemos. Nuest
 https://es.wikipedia.org/wiki/Burrhus_Frederic_Skinner
 
 https://www.psicoactiva.com/blog/la-caja-de-skinner/
-
-

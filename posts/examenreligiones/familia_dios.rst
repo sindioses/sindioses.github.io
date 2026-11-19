@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Sobre la peculiar familia de Jesús… o cómo "Dios" terminó con abuelos, tíos y primos
 .. date: 2026-04-14 11:55:23+00:00
 .. category: Examinando las religiones
@@ -44,5 +44,3 @@ Aclaremos: todo este entramado no es un ataque gratuito, sino una simple consecu
 Y todo esto sustentado en textos que ni siquiera logran ponerse de acuerdo en el nombre del abuelo adoptivo. Por eso a veces, más que refutar estas creencias, basta con observarlas detenidamente. La ironía hace el resto.
 
 [Godless Freeman]
-
-

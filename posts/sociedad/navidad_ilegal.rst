@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Cuando la Navidad llegó a ser ilegal: superstición y poder detrás de las celebraciones tradicionales
 .. date: 2025-12-23 14:42:31+00:00
 .. category: Sociedad y religión
@@ -92,5 +92,3 @@ Con todo esto la Navidad, con su mezcla de elementos paganos, comerciales, relig
 .. [6] https://theweek.com/104773/which-countries-do-not-celebrate-christmas
 
 .. [7] https://chinaaid.org/news/several-schools-and-businesses-in-china-called-for-a-boycott-of-christmas/
-
-

@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Las beguinas: autonomía femenina en un mundo sin alternativas (y por qué no debemos idealizarlas hoy)
 .. date: 2026-01-29 11:45:06+00:00
 .. category: Sociedad y religión
@@ -68,5 +68,3 @@ Comprenderlas exige respeto histórico. Idealizarlas, en cambio, exige olvidar t
 En otras palabras, las beguinas no nos muestran un modelo a recuperar. Nos muestran, más bien lo lejos que hemos llegado, cuando la vida dejó de organizarse alrededor de "Dios". Y eso, desde una perspectiva laica, no es un reproche al pasado, sino una advertencia para el presente.
 
 [Godless Freeman]
-
-

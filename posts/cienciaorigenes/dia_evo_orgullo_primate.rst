@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: En el Día Mundial de la Evolución y del Orgullo Primate
 .. date: 2025-11-24 14:38:42+00:00
 .. category: Ciencia de los orígenes
@@ -57,5 +57,3 @@ Referencias
 * https://es.wikipedia.org/wiki/Primates
 * https://es.wikipedia.org/wiki/Evoluci%C3%B3n_de_los_mam%C3%ADferos
 * https://cordis.europa.eu/article/id/24369-genetic-sequencing-reveals-chimps-and-humans-so-near-and-yet-so-far/es
-
-

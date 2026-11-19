@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: En el Día Mundial de la Diabetes: ¿por qué hasta hace sólo un siglo "Dios" quiso que los diabéticos dejaran de fallecer?
 .. date: 2025-11-14 13:19:19+00:00
 .. category: Sociedad y religión
@@ -16,7 +16,7 @@ Hoy 14 de noviembre, el mundo conmemora el Día Mundial de la Diabetes, en honor
 
 
 Así, en 1922, gracias al pensamiento crítico y al método científico, la humanidad logró lo que ninguna divinidad, en milenios de súplicas, plegarias y sacrificios había conseguido: devolverle la vida a niños en coma diabético. La impresionante escena, descrita como uno de los momentos más increíbles de la medicina, aún emociona:
- 
+
 Los científicos llegaron a una sala de hospital de Toronto con niños diabéticos, la mayoría de ellos en coma y falleciendo de cetoacidosis diabética (CAD), una condición que se presenta en pacientes con diabetes mellitus tipo I, cuando su cuerpo se descompensa y produce el coma hipoglucémico —y la pérdida de la vida si no se hace algo al respecto. Pero hasta entonces, nada podía hacerse. La habitación estaba llena de padres sentados junto a las camas, esperando la inevitable pérdida de sus hijos. Pero los científicos pasaron de cama en cama inyectando a los niños el nuevo extracto purificado —la insulina. Y mientras inyectaban al último niño comatoso, el primer niño inyectado comenzó a despertar. Entonces uno por uno, todos los niños recuperaron la conciencia. Y aquel cuarto lleno de tristeza y frustración, de pronto se convirtió en un lugar lleno de alegría y esperanza.
 
 El descubrimiento hizo que se otorgara a Banting y Macleod el Premio Nobel de Fisiología o Medicina en 1923, una decisión que generó controversia, porque sólo se reconoció a ellos dos, por lo que Banting compartió su parte con Charles Best, y Macleod compartió la suya con James Collip.
@@ -36,4 +36,3 @@ Hoy, más de cien años después de aquel descubrimiento, millones de personas c
 Así que en este 134 aniversario del nacimiento de Frederick Banting, rendimos homenaje no a los "designios misteriosos de Dios", sino a la mente humana, libre, crítica y empática, que se atrevió a desafiar el misterio, no con fe dogmática, sino con ciencia. Y mientras algunos continúan doblando rodillas, otros —siguiendo el ejemplo de Banting— usan tubos de ensayo. Porque la ciencia no promete milagros: los hace realidad.
 
 [Godless Freeman]
-

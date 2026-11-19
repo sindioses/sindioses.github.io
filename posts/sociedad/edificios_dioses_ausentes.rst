@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Para qué construir edificios para dioses ausentes?
 .. date: 2026-01-15 12:25:06+00:00
 .. category: Sociedad y religión
@@ -38,5 +38,3 @@ Sin embargo, no podemos dejar de pensar que ese mismo ingenio, aplicado a fines 
 [Godless Freeman]
 
 [Crédito de imagen: César Ochoa]
-
-

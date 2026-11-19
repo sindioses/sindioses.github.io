@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Reflexiones sobre el pensamiento de Robert Ingersoll y el mito del "Diseño Inteligente"
 .. date: 2026-04-29 11:45:07+00:00
 .. category: Examinando las religiones
@@ -50,5 +50,3 @@ Como vemos, Ingersoll no destruye la idea de "Dios" con insultos, sino con pregu
 .. [1] Robert G. Ingersoll, "Sobre los Dioses", traducción por Sergio R. Docal, pág. 45.
 
 https://www.academia.edu/16518409/Robert_Ingersoll_sobre_los_dioses
-
-

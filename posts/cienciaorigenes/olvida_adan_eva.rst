@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Olvídate ya de Adán y Eva: Nuestro origen como especie es circunstancial y asombroso, pero no milagroso.
 .. date: 2025-11-12 14:41:18+00:00
 .. category: Ciencia de los orígenes
@@ -45,5 +45,3 @@ En última instancia, reconocer que somos el producto de millones de años de ev
 [Godless Freeman]
 
 **Fuente: Smithsonian Institution / Nature**
-
-

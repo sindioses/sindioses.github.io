@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Asia: Un continente con una gran población sin "Dios". Cuando el ateísmo no es rebeldía, sino tradición
 .. date: 2026-02-24 11:58:31+00:00
 .. category: Sociedad y religión
@@ -42,4 +42,3 @@ Más bien todo esto nos obliga a invertir la pregunta habitual. En lugar de preg
 Referencia:
 
 https://theconversation.com/atheism-has-been-part-of-many-asian-traditions-for-millennia-113535
-

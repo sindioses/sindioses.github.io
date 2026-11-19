@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Me dices que el alma pesa 21 gramos?
 .. date: 2026-05-03 11:51:12+00:00
 .. category: Escepticismo
@@ -39,7 +39,7 @@ Por tanto, el experimento no demostraría la existencia de un alma "espiritual".
 
 Ahora bien, de más está decir que los problemas metodológicos del experimento de MacDougall son numerosos: el tamaño de la muestra era diminuto, no podía determinar con precisión el instante exacto de la muerte, no existían controles adecuados, e ignoró los resultados que no coincidían con su hipótesis.
 
-Además, existen explicaciones mucho más plausibles para pequeñas variaciones de peso durante la muerte, como la pérdida de sudor, la evaporación de los fluidos corporales, la expulsión del aire de los pulmones, o los cambios de temperatura corporal. Ninguna de estas explicaciones requiere invocar una entidad sobrenatural, y en ciencia, por el principio de parsimonia, la explicación más simple suele ser la correcta. 
+Además, existen explicaciones mucho más plausibles para pequeñas variaciones de peso durante la muerte, como la pérdida de sudor, la evaporación de los fluidos corporales, la expulsión del aire de los pulmones, o los cambios de temperatura corporal. Ninguna de estas explicaciones requiere invocar una entidad sobrenatural, y en ciencia, por el principio de parsimonia, la explicación más simple suele ser la correcta.
 
 Veamos ahora lo que la neurociencia dice hoy sobre el "alma". Desde la perspectiva de la neurociencia moderna, el concepto de alma probablemente surgió como una forma primitiva de explicar la conciencia humana. Los seres humanos experimentamos pensamientos, emociones, sueños, una sensación de identidad personal. Y antes de comprender el funcionamiento del cerebro, parecía lógico imaginar que dentro de nosotros existía una entidad invisible que pensaba y sentía.
 
@@ -58,4 +58,3 @@ Digamos en conclusión que la simpática historia de los 21 gramos, es un ejempl
 Pero hoy la neurociencia ofrece una explicación mucho más sólida: la mente, la conciencia y la identidad personal emergen de la actividad cerebral. Y aunque la idea de un alma que pesa 21 gramos tiene cierto encanto literario, sigue teniendo un pequeño inconveniente científico: si algo pesa, entonces no es inmaterial, y si no es inmaterial, entonces ya no es el alma que imaginaban las religiones.
 
 [Godless Freeman]
-

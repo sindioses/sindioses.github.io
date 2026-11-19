@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Que "el temor de Dios es el principio de la sabiduría"?
 .. date: 2026-04-24 11:46:41+00:00
 .. category: Examinando las religiones
@@ -48,5 +48,3 @@ En resumen, el miedo fue una herramienta evolutiva esencial; nos permitió sobre
 Por tanto, llamar "sabiduría" al miedo, no es sólo un error conceptual, es una inversión peligrosa de valores psicológicos básicos: sustituye el entendimiento por la sumisión, la reflexión por la obediencia, y la autonomía por el temor. Desde la psicología eso no es iluminación, es condicionamiento.
 
 [Godless Freeman]
-
-

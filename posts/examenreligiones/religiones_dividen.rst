@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Religiones: la maquinaria más eficiente para dividir a la humanidad
 .. date: 2025-12-18 14:20:17+00:00
 .. category: Examinando las religiones
@@ -67,5 +67,3 @@ Pero mientras tanto, seguimos viviendo en un planeta donde:
 ¡Qué lástima! Pero sobre todo, qué oportunidad desperdiciada para construir una humanidad basada en la razón, la empatía y el pensamiento crítico, en vez de en libros sagrados contradictorios y dioses que ni siquiera se ponen de acuerdo entre ellos.
 
 [Godless Freeman]
-
-

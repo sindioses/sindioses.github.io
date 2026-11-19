@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Es una actitud sensata evitar que la IA participe en los púlpitos? Una reflexión crítica sobre la postura del Papa León XIV
 .. date: 2026-03-01 11:49:47+00:00
 .. category: Sociedad y religión
@@ -67,5 +67,3 @@ https://www.infobae.com/tecno/2026/02/26/sermones-escritos-por-chatgpt-el-papa-p
 https://tribune.com.pk/story/2594863/pope-leo-xiv-asks-priests-to-stop-using-ai-tools-like-chatgpt-to-write-sermons
 
 https://aldialogo.mx/mundo/2026/02/26/papa-leon-xiv-pide-a-sacerdotes-no-hacer-homilias-con-chat-gpt-y-advierte-sobre-uso-de-ia
-
-

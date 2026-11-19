@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: La oración de agradecimiento al "Dios" que permitió una masacre monstruosa.
 .. date: 2025-12-26 14:51:43+00:00
 .. category: Sociedad y religión
@@ -46,5 +46,3 @@ Ojalá este fin de año sea también un punto de inflexión: un despertar lúcid
 .. [1] https://www.americanrhetoric.com/speeches/harrystrumanpotsdamconference.htm
 
 .. [2] https://es.wikipedia.org/wiki/Harry_S._Truman#Bomba_at%C3%B3mica
-
-

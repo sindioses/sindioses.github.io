@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: La creación de los Corn Flakes
 .. date: 2026-02-06 11:58:44+00:00
 .. category: Sociedad y religión
@@ -50,5 +50,3 @@ Lo curioso es que, en este contexto sorprendentemente oscuro, surgió el Corn Fl
 [Godless Freeman]
 
 [Crédito de imagen: Roberto Cavada]
-
-

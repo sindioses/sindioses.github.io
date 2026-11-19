@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: A 491 años del nacimiento de la Iglesia Anglicana: una religión al servicio del poder político
 .. date: 2025-11-03 13:52:35+00:00
 .. category: Sociedad y religión
@@ -44,4 +44,3 @@ Casi cinco siglos después, esta iglesia sigue siendo un brazo de la élite brit
 [Godless Freeman]
 
 https://es.wikipedia.org/wiki/Acta_de_Supremac%C3%ADa
-

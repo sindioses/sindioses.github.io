@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Religión: ¿Una psicosis que deja de ser considerada como tal cuando es compartida por muchos?
 .. date: 2026-01-08 14:34:10+00:00
 .. category: Sociedad y religión
@@ -48,4 +48,3 @@ Lamentablemente, mientras la sociedad siga premiando la fe ciega y estigmatizand
 https://es.wikipedia.org/wiki/S%C3%ADndrome_de_Jerusal%C3%A9n
 
 https://elpais.com/internacional/2018/01/19/mundo_global/1516390915_543642.html
-

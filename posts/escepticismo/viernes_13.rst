@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Viernes 13: el día en que la razón vuelve a pedir licencia
 .. date: 2026-02-13 11:51:53+00:00
 .. category: Escepticismo
@@ -50,4 +50,3 @@ La verdadera mala suerte no es que caiga un Viernes 13. La verdadera mala suerte
 .. [3] https://es.wikipedia.org/wiki/Superstici%C3%B3n
 
 .. [4] https://www.newscientist.com/article/2079630-what-do-chimp-temples-tell-us-about-the-evolution-of-religion/
-

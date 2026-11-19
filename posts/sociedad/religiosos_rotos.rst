@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Son los religiosos más hipócritas que los no creyentes? ¿Son las iglesias un "depósito de personas rotas"?
 .. date: 2026-03-06 11:43:11+00:00
 .. category: Sociedad y religión
@@ -44,5 +44,3 @@ Lo cierto es que la religión puede funcionar tanto como recurso protector, o co
 Por tanto, en resumen, analizado desde el punto de vista de la psicología, la religión puede generar autenticidad o una máscara, puede ofrecer sanación o producir culpa, y puede liberar o puede reprimir. Pero ahora yo te pregunto: según tus propias observaciones, ¿te dejan satisfecho estas respuestas, o también te da la impresión de que los religiosos son más hipócritas que los no creyentes, y que las iglesias son un refugio de personas maltrechas emocional y psicológicamente?
 
 [Godless Freeman]
-
-

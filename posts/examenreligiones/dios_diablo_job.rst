@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: El día en que "Dios" apostó con el Diablo la tragedia de una familia
 .. date: 2026-01-12 12:17:37+00:00
 .. category: Examinando las religiones
@@ -15,7 +15,7 @@ Pocas historias bíblicas son tan reveladoras —y tan incómodas— como el con
     :class: align-right
 
 
-Según el relato bíblico, había en el reino de Edom, al sur del Mar Muerto, un lugar llamado Uz, donde vivía un hombre llamado Job, que no sólo le tenía miedo a "Dios" (lo que al parecer era un mérito), sino que era un "hombre perfecto y recto… y apartado del mal." ({{% biblia "Job 1:1" DHH %}}). Era además un hombre muy próspero, padre de siete hijos y tres hijas ({{% biblia "Job 1:2-5" DHH %}}). Sin embargo, un día ocurre una escena sorprendente: "vinieron a presentarse delante de Jehová los hijos de Dios, entre los cuales vino también Satanás" ({{% biblia "Job 1:6" DHH %}}). 
+Según el relato bíblico, había en el reino de Edom, al sur del Mar Muerto, un lugar llamado Uz, donde vivía un hombre llamado Job, que no sólo le tenía miedo a "Dios" (lo que al parecer era un mérito), sino que era un "hombre perfecto y recto… y apartado del mal." ({{% biblia "Job 1:1" DHH %}}). Era además un hombre muy próspero, padre de siete hijos y tres hijas ({{% biblia "Job 1:2-5" DHH %}}). Sin embargo, un día ocurre una escena sorprendente: "vinieron a presentarse delante de Jehová los hijos de Dios, entre los cuales vino también Satanás" ({{% biblia "Job 1:6" DHH %}}).
 
 Sí, como lo lees, el mismísimo Satanás es hijo de "Dios", junto a otros que desconocemos. Y esto resulta incómodo para la teología cristiana posterior, obsesionada con la idea de que Jesús es el "Hijo único" del Creador. Pero es que en el contexto hebreo antiguo, los "hijos de Dios" (bene elohim) eran seres celestiales subordinados, una especie de corte divina. Y Satanás no era todavía un enemigo externo, sino un miembro del séquito, un funcionario celestial con permiso para actuar. No es un rebelde autónomo ni una fuerza opuesta al poder divino, sino que hace exactamente lo que "Dios" le permite hacer. En otras palabras, para los hebreos de la antigüedad, Satanás no actúa contra "Dios", sino que actúa para "Dios", dentro de los límites que Él mismo establece.
 
@@ -40,4 +40,3 @@ Pero al final, gracias a esta absurda historia, Job es hoy un santo que tiene ha
 Todavía hoy el caso de Job es enseñado en las iglesias como un ejemplo de virtud: un hombre aplastado por una apuesta divina, que se convierte en ejemplo moral para millones. Y no olvidemos que todo su relato es "Palabra de Dios". Sin embargo, uno no puede evitar pensar: si esta es la bondad, la justicia y la sabiduría divinas… quizás el problema no sea nuestra falta de fe, sino nuestra excesiva capacidad para normalizar lo absurdo y la crueldad, cuando vienen envueltas en lenguaje sagrado. Porque sí, el relato de Job puede ser visto como una linda historia, pero sólo si se lee con los ojos cerrados.
 
 [Godless Freeman]
-

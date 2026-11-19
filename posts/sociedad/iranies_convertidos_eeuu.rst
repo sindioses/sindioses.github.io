@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: El peligro que corren los iraníes convertidos al cristianismo que viven en Estados Unidos y que están siendo deportados
 .. date: 2025-11-25 14:42:53+00:00
 .. category: Sociedad y religión
@@ -77,5 +77,3 @@ Referencias
 * https://www.thecable.ng/report-how-us-deports-iranian-christians-back-to-their-home-country/
 * https://iranhumanrights.org/2025/04/imprisonment-of-christians-jumps-six-fold-in-iran-as-persecution-intensifies/
 * https://www.hrw.org/news/2011/09/30/iran-christian-pastor-faces-execution-apostasy
-
-

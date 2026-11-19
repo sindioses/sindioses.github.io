@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Therians, teriantropía, religión y cultura: entre el mito antiguo y la moderna subcultura de identidad animal
 .. date: 2026-02-23 11:48:30+00:00
 .. category: Sociedad y religión
@@ -62,5 +62,3 @@ Y en este contexto, la pregunta no es si existen dioses teriántropos o jóvenes
 [Godless Freeman]
 
 .. [1] https://es.wikipedia.org/wiki/Teriantrop%C3%ADa
-
-

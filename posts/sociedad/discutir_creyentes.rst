@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Vale la pena discutir con un creyente para demostrarle lo equivocado que está?
 .. date: 2026-01-28 11:35:31+00:00
 .. category: Sociedad y religión
@@ -58,5 +58,3 @@ En fin, es por todo esto que algunos pensamos que discutir con creyentes por lo 
 .. [2] https://www.harpercollins.com/9780061452659/the-science-of-superstition
 
 .. [3] https://blog.smaldone.com.ar/2015/09/24/los-cuatro-jinetes-del-ateismo-con-transcripcion/
-
-

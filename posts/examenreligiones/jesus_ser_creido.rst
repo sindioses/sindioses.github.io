@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Jesús y su constante preocupación de ser creído
 .. date: 2026-05-10 11:49:01+00:00
 .. category: Examinando las religiones
@@ -75,5 +75,3 @@ Y quizás lo más revelador es que esta dinámica no ha desaparecido. Dos mil a�
 .. [1] https://www.christianity.com/wiki/christian-life/how-many-christians-are-there-in-the-world.html
 
 .. [2] https://lausanne.org/es/report/que-es-el-cristianismo-policentrico/denominaciones-cristianas
-
-

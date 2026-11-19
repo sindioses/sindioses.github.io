@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: La Biblia como manual de ética: una receta para el desastre moral
 .. date: 2026-04-08 11:42:45+00:00
 .. category: Sociedad y religión
@@ -40,5 +40,3 @@ La conclusión es incómoda pero difícil de evitar: si la Biblia se tomara como
 El progreso moral de la humanidad ha sido, en gran medida, una historia de desobediencia ilustrada. Y quizás esa sea la mayor ironía de todas: que para ser verdaderamente humanos —en el sentido ético más noble— hemos tenido que dejar de ser, en buena medida, bíblicos.
 
 [Godless Freeman]
-
-

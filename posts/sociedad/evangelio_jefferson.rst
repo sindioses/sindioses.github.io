@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: El evangelio editado de Thomas Jefferson: un experimento que aún incomoda
 .. date: 2026-01-19 12:30:48+00:00
 .. category: Sociedad y religión
@@ -44,5 +44,3 @@ La llamada "Biblia de Jefferson", conservada hoy en el Instituto Smithsoniano, n
 [Godless Freeman]
 
 .. [1] "La Locura de Jesús", Binet-Sangle, Editorial Herbasa, México D.F., México. Edición original de Ediciones Jasón, 1 Barcelona, España, 1931.
-
-

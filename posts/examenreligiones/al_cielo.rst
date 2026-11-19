@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿En serio quieres irte para el Cielo y vivir allá eternamente?
 .. date: 2025-12-14 14:46:03+00:00
 .. category: Examinando las religiones
@@ -99,5 +99,3 @@ Así que, el supuesto "gran premio" de "Dios" no sólo no existe: tampoco es un 
 Hay una frase que algunos atribuyen a Mark Twain y otros a George Bernard Shaw: "Prefiero el cielo por el clima, y el infierno por la compañía". Es una frase que refleja un deseo de compañía y buen ambiente, por encima de una aburrida y monótona recompensa espiritual. ¿No es interesante?
 
 [Godless Freeman]
-
-

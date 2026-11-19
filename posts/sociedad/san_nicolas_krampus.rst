@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: San Nicolás y Krampus: el mito que dio origen a Santa Claus
 .. date: 2025-12-06 15:21:11+00:00
 .. category: Sociedad y religión
@@ -32,4 +32,3 @@ En tal sentido, el mito de San Nicolás y Krampus no difiere demasiado de los re
 Así que el 6 de diciembre no sólo conmemora a un santo medieval, sino también una antigua estrategia cultural para moldear conductas mediante la fe, el miedo y la fantasía. Una tradición que, aunque hoy se revista de luces y regalos, sigue recordándonos cómo las religiones y los mitos se entrelazaron para domesticar la mente humana desde la infancia.
 
 [Godless Freeman]
-

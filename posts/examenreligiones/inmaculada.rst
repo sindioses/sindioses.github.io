@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: La "Fecundación Pulcra": el curioso mito de la "Inmaculada Concepción"
 .. date: 2025-12-08 14:27:29+00:00
 .. category: Examinando las religiones
@@ -40,5 +40,3 @@ Y como toque final, miles de personas en todo el mundo llevan también el nombre
 Así que este 8 de diciembre, mientras se celebran procesiones, misas solemnes y fiestas patronales en honor a aquella "Fecundación Limpia" que ocurrió en el lecho conyugal de Joaquín y de Ana, quizás sea buen momento para recordar que los mitos, por hermosos o venerables que sean, no dejan de ser mitos (y sobre todo absurdos). Y que, si uno los examina con la lupa del raciocinio, terminan pareciendo menos revelaciones divinas y más un curioso intento humano por explicar la condición moral con metáforas de lavandería.
 
 [Godless Freeman]
-
-

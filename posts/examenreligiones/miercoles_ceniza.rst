@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Miércoles de Ceniza: un ritual público de culpa, que hace a algunos sentirse orgullosos
 .. date: 2026-02-18 11:48:35+00:00
 .. category: Examinando las religiones
@@ -44,5 +44,3 @@ Resumamos diciendo que el Miércoles de Ceniza no nació de ningún mandato divi
 Pero en definitiva, la ceniza no conecta al creyente con lo eterno. Lo conecta con algo mucho más comprobable: la tradición.
 
 [Godless Freeman]
-
-

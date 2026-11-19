@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: La estafa de "la vida eterna"
 .. date: 2026-03-09 11:30:07+00:00
 .. category: Examinando las religiones
@@ -48,5 +48,3 @@ Lo que sí es cierto es que, a los ojos de los líderes religiosos judíos, Jes�
 El problema surge cuando dos mil años después, los líderes cristianos continúan ofreciendo "la vida eterna", el mismo producto inexistente, diferido hasta que la persona haya fallecido, exigiendo mientras tanto lealtad doctrinal y el pago de una cuota vitalicia. Y esto tiende a confirmar la idea de Stenger: vender eternidad es el negocio perfecto, pero es también, sin duda, la estafa perfecta, que nadie considera un delito. Un negocio donde el cliente nunca se queja de haber sido engañado, porque ya no puede hacerlo, y donde las autoridades civiles y judiciales prefieren ignorarlo.
 
 [Godless Freeman]
-
-

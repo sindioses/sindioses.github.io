@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: "Pedid, y se os dará"… ¿En serio? ¿Así de fácil?
 .. date: 2026-04-17 11:50:58+00:00
 .. category: Sociedad y religión
@@ -70,5 +70,3 @@ Claro, es más atractivo creer en una lámpara mágica invisible que concede nue
   "Si algo es verdad, es verdad, y si no, no debes creerlo […] Me parece fundamentalmente deshonesto y dañino para la integridad intelectual creer en algo sólo porque te beneficia, y no porque pienses que es verdad."
 
 [Godless Freeman]
-
-

@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: La religión bajo la mirada de la psicología y la psiquiatría: de Freud a los críticos contemporáneos
 .. date: 2026-02-02 11:37:21+00:00
 .. category: Sociedad y religión
@@ -36,5 +36,3 @@ En conjunto, esta tradición muestra algo fundamental: la religión ha sido, y s
 Desde una perspectiva clínica, "Dios" no desciende del cielo: emerge del sistema nervioso. Y la fe no prueba la existencia de lo divino, sino la potencia de la mente humana para crear figuras protectoras, narrativas de salvación y universos simbólicos capaces de calmar la angustia… o, en ciertos casos, de estructurar el delirio.
 
 [Godless Freeman]
-
-

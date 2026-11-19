@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: "Dios": un concepto autocontradictorio
 .. date: 2026-01-21 12:39:49+00:00
 .. category: Examinando las religiones
@@ -55,5 +55,3 @@ Es por ello que el ateísmo filosófico no necesita refutar a "Dios" experimenta
 https://www.nytimes.com/2019/03/25/opinion/-philosophy-god-omniscience.html
 
 https://es.wikipedia.org/wiki/Principio_de_no_contradicci%C3%B3n
-
-

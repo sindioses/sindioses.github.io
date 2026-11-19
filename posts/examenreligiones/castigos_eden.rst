@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Los absurdos castigos de "Dios" en el Jardín del Edén: la ciencia destruyendo un mito fundamental judeocristiano
 .. date: 2026-01-16 12:26:30+00:00
 .. category: Examinando las religiones
@@ -80,5 +80,3 @@ O sea que toda la arquitectura teológica del cristianismo depende de un relato 
 En resumen, digamos que Génesis 3 definitivamente no explica el mundo, lo caricaturiza. Los "castigos" de "Dios" que describe no son más que intentos primitivos de justificar fenómenos naturales que hoy comprendemos perfectamente. Pero la biología no necesita pecados, serpientes parlantes ni dioses castigadores. La vida es compleja, imperfecta, finita… y precisamente por eso es real. Y si la ciencia puede anular los castigos divinos con anestesia, tecnología y conocimiento, quizás el verdadero pecado no fue comer de un fruto, sino seguir creyendo en este mito.
 
 [Godless Freeman]
-
-

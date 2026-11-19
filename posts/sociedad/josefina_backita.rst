@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Josefina Bakhita: cuando el trauma se convierte en virtud
 .. date: 2026-02-26 11:55:37+00:00
 .. category: Sociedad y religión
@@ -78,5 +78,3 @@ Desde la psicología crítica, no estamos ante una "santa", sino ante una mujer 
 Porque cuando una ideología logra que una víctima agradezca a sus verdugos, no estamos ante un milagro espiritual, sino ante una derrota ética de la razón y de la empatía humana.
 
 [Godless Freeman]
-
-

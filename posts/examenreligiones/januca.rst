@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: En el último día de Janucá: una festividad judaica que Jesús celebraba (cerca de lo que hoy es su cumpleaños)
 .. date: 2025-12-22 13:10:10+00:00
 .. category: Examinando las religiones
@@ -46,5 +46,3 @@ Las religiones cambian, se mezclan, olvidan sus raíces y reescriben sus propios
 [Godless Freeman]
 
 [Crédito de imagen: El Universal]
-
-

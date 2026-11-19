@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Un "milagro" sin dioses: la historia de Hope y la mujer que verdaderamente lo salvó
 .. date: 2026-04-09 11:41:40+00:00
 .. category: Sociedad y religión
@@ -56,4 +56,3 @@ https://www.youtube.com/watch?v=UT_-ybMXgGU&t=15
 https://www.arte.tv/es/videos/103828-000-A/arte-reportaje/
 
 https://www.independent.co.uk/news/people/world-s-most-inspiring-person-2016-ooom-anja-ringgren-loven-nigeria-witch-child-a7460976.html
-

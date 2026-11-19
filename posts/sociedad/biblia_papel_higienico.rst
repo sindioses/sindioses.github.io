@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿En una necesidad está bien utilizar la Biblia como papel higiénico?
 .. date: 2026-03-05 12:12:13+00:00
 .. category: Sociedad y religión
@@ -40,4 +40,3 @@ La Guerra Fría produjo misiles nucleares, muros, espionaje y propaganda masiva.
 https://www.bbc.com/mundo/38105701
 
 https://es.wikipedia.org/wiki/Persecuci%C3%B3n_religiosa_en_el_Bloque_del_Este
-

@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: De rabino galileo a pantocrátor: la evolución histórica de Jesús hacia Dios
 .. date: 2026-04-23 11:44:16+00:00
 .. category: Examinando las religiones
@@ -134,5 +134,3 @@ En la iconografía cristiana, Cristo Pantocrátor (en griego antiguo: Χριστ
 [Godless Freeman]
 
 https://www.facebook.com/Religiontg/posts/pfbid0m16stpnXXCm98adbD2H13DtpiPQjDTeC7iE94v28djjSdAQ1QWXwJvTTjZZrEGw9l
-
-

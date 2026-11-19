@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Amar a "Dios" sobre todas las cosas y al prójimo como a ti mismo? ¿En serio crees que eso es posible?
 .. date: 2025-12-11 14:39:41+00:00
 .. category: Examinando las religiones
@@ -75,5 +75,3 @@ Pretender que la moralidad humana depende de amar a un "Dios" imaginario o a cua
 [Godless Freeman]
 
 [Crédito de imagen: Curiosity World]
-
-

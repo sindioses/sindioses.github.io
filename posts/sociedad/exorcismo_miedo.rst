@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Exorcistas, Vaticano y miedo: entre hechos reales y superstición institucionalizada
 .. date: 2026-03-26 11:49:03+00:00
 .. category: Sociedad y religión
@@ -48,5 +48,3 @@ El exorcismo no es una solución a problemas reales; es, en el mejor de los caso
 .. [2] https://notifalcon.com/2026/03/exorcistas-profesionales-visitan-al-papa-leon-xiv-y-hacen-advertencia-demoniaca/
 
 .. [3] https://www.zocalo.com.mx/exorcistas-profesionales-visitan-al-papa-leon-xiv-y-hacen-advertencia-demoniaca/
-
-

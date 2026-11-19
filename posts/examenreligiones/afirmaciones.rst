@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: La religión, las afirmaciones gratuitas y el amor por la verdad
 .. date: 2026-03-02 11:44:41+00:00
 .. category: Examinando las religiones
@@ -47,5 +47,3 @@ Es evidente que las religiones se sostienen fundamentalmente sobre afirmaciones 
 Frente a ello, el pensamiento crítico no es arrogancia, es coherencia. No es rebeldía gratuita, es responsabilidad intelectual. No es resentimiento, es amor por la verdad. Y quien ama la verdad —aunque no prometa consuelo eterno— difícilmente se conformará con un "porque sí".
 
 [Godless Freeman]
-
-

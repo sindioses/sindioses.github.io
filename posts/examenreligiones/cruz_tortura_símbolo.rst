@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: La cruz: cómo un vergonzoso instrumento de tortura y muerte llegó a convertirse en el símbolo universal del cristianismo
 .. date: 2026-04-03 11:41:23+00:00
 .. category: Examinando las religiones
@@ -49,5 +49,3 @@ Referencias
 
 * https://www.tiempo.com/noticias/actualidad/la-cruz-de-constantino.html
 * https://www.primeroscristianos.com/31899/
-
-

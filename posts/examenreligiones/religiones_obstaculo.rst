@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Han sido las religiones un obstáculo para el progreso de la humanidad?: Una evaluación histórica sin mitos ni absoluciones
 .. date: 2026-02-12 11:41:22+00:00
 .. category: Examinando las religiones
@@ -30,4 +30,3 @@ Pero el patrón se repite en otras épocas: cruzadas, yihad, guerras de religió
 Digamos entonces en conclusión, que el daño histórico real de las religiones no fue la destrucción total del conocimiento —eso es un mito inverso al mito piadoso—, sino algo más verificable y más grave: haber subordinado durante siglos la razón a la fe, el debate a la autoridad, la evidencia a la revelación. Ese sometimiento sí retrasó el desarrollo de una cultura verdaderamente crítica y científica. No anuló el progreso humano, pero lo hizo más lento, más doloroso y más mortífero de lo que habría sido en una civilización basada, desde mucho antes, en el libre examen y la autonomía del pensamiento.
 
 [Godless Freeman]
-

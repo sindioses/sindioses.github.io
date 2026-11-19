@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: "Piloto cristiano clama a Dios cuando el motor se detuvo en pleno vuelo y logra aterrizar con éxito"
 .. date: 2026-02-20 11:47:15+00:00
 .. category: Sociedad y religión
@@ -65,5 +65,3 @@ Sin embargo, al final la religión no necesita que verdaderamente ocurran milagr
 .. [1] https://www.facebook.com/photo/?fbid=1347900857382186&set=a.615087370663542
 
 .. [2] https://www.noticiasprofeticas.com/2018/09/15/video-viral-piloto-cristiano-clama-a-dios-en-medio-de-peligrosa-turbulencia-y-ocurre-milagro/
-
-

@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Somos la obra cumbre de la creación, o un ensayo fallido? Por qué el cuerpo humano refuta el Diseño Inteligente
 .. date: 2025-12-02 15:09:50+00:00
 .. category: Ciencia de los orígenes
@@ -56,5 +56,3 @@ https://www.bbc.com/mundo/noticias-46922542
 https://www.telemadrid.es/programas/telenoticias-2/atragantamiento-anualmente-Espana-fallecidos-carretera-2-2082411812--20190103091442.html
 
 https://deserpientes.net/anatomia-del-sistema-respiratorio-de-la-serpiente/
-
-

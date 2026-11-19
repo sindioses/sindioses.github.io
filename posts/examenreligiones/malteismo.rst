@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: El malteísmo: ¿Por qué "Dios" tiene que ser bueno para poder existir?
 .. date: 2026-04-27 11:36:34+00:00
 .. category: Examinando las religiones
@@ -61,5 +61,3 @@ Después de todo, tal vez la idea de un "Dios" bondadoso no sea una verdad descu
 Y el malteísmo se instala precisamente en la tercera posibilidad, desafiando no sólo la fe, sino también la comodidad intelectual de quienes nunca se han atrevido a cuestionar la bondad de su propio "Dios".
 
 [Godless Freeman]
-
-

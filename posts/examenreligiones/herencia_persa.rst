@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: La herencia persa y mesopotámica en el pensamiento judeocristiano
 .. date: 2025-12-17 12:23:56+00:00
 .. category: Examinando las religiones
@@ -46,5 +46,3 @@ Así, los mitos de Babilonia y las visiones de Zaratustra se reencarnaron en los
 [Godless Freeman]
 
 [Crédito de imagen: Teonexus: Fe con raíces. Pensamiento con rumbo.]
-
-

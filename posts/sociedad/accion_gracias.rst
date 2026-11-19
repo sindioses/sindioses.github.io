@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Día de Acción de Gracias: una oportunidad de gratitud sin dioses
 .. date: 2025-11-27 12:29:55+00:00
 .. category: Sociedad y religión
@@ -38,4 +38,3 @@ Así que, —sea como sea— ¡Feliz Día de Acción de Gracias!
 [Godless Freeman]
 
 [Crédito de imagen: NOTIMUNDO]
-

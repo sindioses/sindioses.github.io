@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Que los niños nacen con fe?
 .. date: 2026-01-05 16:01:37+00:00
 .. category: Sociedad y religión
@@ -52,5 +52,3 @@ Pero desde la psicología y las neurociencias la evidencia es clara: los niños 
 .. [1] https://www.facebook.com/familiacristianaweb/posts/pfbid03VCKBMhgZ2cJ4srj4caFrZhX7cpBBmMbee9GivgW7P2eDaZWybADgfg17gZUutuzl
 
 .. [2] https://en.wikipedia.org/wiki/Justin_L._Barrett
-
-

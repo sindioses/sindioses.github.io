@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Pío II: el Papa que escribió una novela erótica
 .. date: 2025-12-05 15:35:46+00:00
 .. category: Sociedad y religión
@@ -44,5 +44,3 @@ Al final, lo de Pío II no es un simple episodio pintoresco del Renacimiento, si
 https://es.wikipedia.org/wiki/P%C3%ADo_II
 
 https://es.wikipedia.org/wiki/Historia_de_dos_amantes
-
-

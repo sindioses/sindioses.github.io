@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: La infidelidad en la Biblia: un concepto humano, desigual y profundamente contradictorio
 .. date: 2026-04-20 12:01:04+00:00
 .. category: Examinando las religiones
@@ -40,5 +40,3 @@ En fin, desde una mirada antropológica, el concepto bíblico de infidelidad no 
 En otras palabras: eso que la Biblia presenta como "mandato divino", es en realidad un conjunto de normas humanas, llenas de contradicciones, dobles estándares y elementos mágicos. Pero la supuesta moral absoluta de la Biblia se desmorona, cuando se analiza con herramientas históricas, biológicas y antropológicas.
 
 [Godless Freeman]
-
-

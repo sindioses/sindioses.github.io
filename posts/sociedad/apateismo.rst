@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: El apateísmo: ¿Es posible ser indiferente ante la idea de "Dios"?
 .. date: 2026-03-23 11:47:16+00:00
 .. category: Sociedad y religión
@@ -56,5 +56,3 @@ Entonces, ¿debería importarnos a los ateos si existe o no algún "Dios"? —De
 Al final, el verdadero desafío quizás no sea elegir entre creer o no creer, sino decidir si queremos vivir con preguntas incómodas… o sin preguntas en absoluto.
 
 [Godless Freeman]
-
-

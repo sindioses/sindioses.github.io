@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: "No juzguéis, para que no seáis juzgados"
 .. date: 2025-12-01 15:05:54+00:00
 .. category: Sociedad y religión
@@ -66,5 +66,3 @@ Quizá la lección útil sea esta: No podemos vivir sin juzgar, pero podemos viv
 [Godless Freeman]
 
 [Crédito de imagen: Iglesia Universal]
-
-

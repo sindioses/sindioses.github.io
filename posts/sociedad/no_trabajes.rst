@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¡No, amigo cristiano!, ¡ya no trabajes! ¿Acaso desconfías del amor de tu Padre Celestial?
 .. date: 2026-01-07 12:39:27+00:00
 .. category: Sociedad y religión
@@ -59,5 +59,3 @@ La realidad demuestra que el hambre infantil no se debe a falta de fe, sino a fa
 Date cuenta de que si Jesús tuviera razón en sus enseñanzas, el mundo sería un paraíso automático. Pero como no lo es, tenemos que seguir trabajando. Y los que no pueden producir para ganarse sus alimentos… siguen falleciendo, sin que el "Padre celestial" aparezca por ningún lado.
 
 [Godless Freeman]
-
-

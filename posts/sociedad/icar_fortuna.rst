@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: "La Iglesia Católica tiene una fortuna capaz de alimentar cinco veces a todos los niños hambrientos del mundo"
 .. date: 2026-05-04 11:37:21+00:00
 .. category: Sociedad y religión
@@ -90,5 +90,3 @@ Incluso dejando de lado la fe, hay una cuestión de coherencia humana básica. S
 No se trata, pues, de exigir milagros económicos, sino de reclamar algo mucho más sencillo y, a la vez, más exigente: empatía real traducida en decisiones concretas.
 
 [Godless Freeman]
-
-

@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Eres cristiano y crees que tus dogmas, rituales y preceptos morales fueron transmitidos directamente por Jesús? Pues estás completamente equivocado.
 .. date: 2026-03-22 11:43:44+00:00
 .. category: Examinando las religiones
@@ -52,5 +52,3 @@ Por tanto, a la luz de la historia resulta vano sostener con seriedad que alguie
 Y si a esto se suma el hecho de que hoy existen decenas de miles de denominaciones cristianas y miles de versiones de la Biblia, cada una afirmando poseer la interpretación correcta, la idea de un cristianismo único, puro y original se vuelve insostenible. Históricamente nunca existió un solo cristianismo inmutable; lo que hubo fue una tradición religiosa en constante transformación, moldeada por debates, influencias culturales y decisiones humanas. Por ello, cualquier afirmación de poseer el cristianismo "verdadero", no es más que una convicción doctrinal interna, pero no una conclusión que pueda sostenerse desde el estudio crítico de la historia.
 
 [Godless Freeman]
-
-

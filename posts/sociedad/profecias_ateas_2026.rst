@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Profecías ateas para 2026: Predicciones infalibles que sí se cumplen…
 .. date: 2025-12-30 13:19:13+00:00
 .. category: Sociedad y religión
@@ -97,5 +97,3 @@ En fin, termina así el 2025: entre profecías fallidas, promesas aplazadas y un
 Así que, ¡FELIZ FIN DE AÑO!, y que el 2026 nos encuentre con más pensamiento crítico que con fe en esas ideas supersticiosas divulgadas en las redes sociales.
 
 [Godless Freeman]
-
-

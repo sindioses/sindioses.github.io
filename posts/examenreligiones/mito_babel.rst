@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: La Torre de Babel: el mito religioso contra la evidencia arqueológica
 .. date: 2026-04-15 12:00:13+00:00
 .. category: Examinando las religiones
@@ -38,6 +38,3 @@ Aceptar el mito como una explicación literal del mundo, implica ignorar siglos 
 En última instancia, la Torre de Babel no nos habla del origen de los idiomas, sino de algo mucho más humano: la tendencia a crear relatos para explicar lo que en su momento no se comprendía.
 
 [Godless Freeman]
-
-
-

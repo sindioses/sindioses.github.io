@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: La burra que hablaba y podía contar… pero no se burlen, es un hecho real relatado en la Biblia
 .. date: 2026-04-26 11:45:21+00:00
 .. category: Examinando las religiones
@@ -54,5 +54,3 @@ En fin, el relato de Balaam tiene un final digno de comedia bien construida: el 
 Pero, por supuesto, tú no la llames así… no vaya a ser que los cristianos se ofendan.
 
 [Godless Freeman]
-
-

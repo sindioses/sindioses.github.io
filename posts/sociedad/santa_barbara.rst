@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: "El día de Santa Bárbara… y del ácido barbitúrico"
 .. date: 2025-12-04 15:07:20+00:00
 .. category: Sociedad y religión
@@ -30,5 +30,3 @@ Seguramente Baeyer, él nunca pensó en "Santa Bárbara" más allá de un guiño
 Y así, cada 4 de diciembre, la ciencia y la fe se cruzan de nuevo en el calendario. Unos recordarán a una "mártir" del siglo IV, mientras que otros a un químico del siglo XIX. Pero en todo caso ambos nombres —Bárbara y barbitúrico— seguirán unidos quiérase o no, y no por milagros ni oraciones, sino por aquella curiosa decisión que dio a la ciencia —voluntariamente o no— un toque de santidad.
 
 [Godless Freeman]
-
-

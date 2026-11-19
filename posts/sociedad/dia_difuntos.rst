@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: En el "Día de Difuntos" 💀: una cita anual con un recuerdo amado… pero a la vez con una consoladora ilusión, y con un mito
 .. date: 2025-11-02 14:10:17+00:00
 .. category: Sociedad y religión
@@ -50,4 +50,3 @@ Y cuando eso ocurra, incluso el recuerdo de ti se irá desvaneciendo. Piensa en 
 https://es.wikipedia.org/wiki/D%C3%ADa_de_los_Fieles_Difuntos
 
 https://es.wikipedia.org/wiki/Purgatorio
-

@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: La penetración del cristianismo protestante en Angola, cuando todavía se está a tiempo de reaccionar
 .. date: 2025-11-13 12:23:20+00:00
 .. category: Sociedad y religión
@@ -35,7 +35,7 @@ Esta expansión protestante es interpretada por la población angoleña de diver
 
 Pues bien, no es de extrañarse que el lector latinoamericano se sienta familiarizado con este escenario: en varios de nuestros países el auge evangélico-pentecostal se consolidó antes que en Angola y con mayor intensidad, transformando la política, la cultura y el mercado religioso. Hoy, más de una quinta parte de los latinoamericanos se identifica con denominaciones cristianas no católicas, y en la mayoría de los países centroamericanos, las cifras alcanzan el 40%.
 
-Y el creciente número de evangélicos se ha traducido en una formidable influencia política en varias partes de la región. Un caso muy afín al de Angola es el de Brasil, dado que es otro país colonizado por Portugal. En el período previo a las elecciones a la Asamblea Constituyente de 1986, varias denominaciones evangélicas se movilizaron para elegir a sus propios representantes, y la Iglesia Asamblea de Dios, una de las denominaciones evangélicas más grandes, tomó la decisión de incursionar en la política electoral. Ahora esta iglesia, que también ha incursionado en Angola, tiene en Brasil un poder significativo en la política, debido a su gran número de fieles y su capacidad para movilizar el voto. 
+Y el creciente número de evangélicos se ha traducido en una formidable influencia política en varias partes de la región. Un caso muy afín al de Angola es el de Brasil, dado que es otro país colonizado por Portugal. En el período previo a las elecciones a la Asamblea Constituyente de 1986, varias denominaciones evangélicas se movilizaron para elegir a sus propios representantes, y la Iglesia Asamblea de Dios, una de las denominaciones evangélicas más grandes, tomó la decisión de incursionar en la política electoral. Ahora esta iglesia, que también ha incursionado en Angola, tiene en Brasil un poder significativo en la política, debido a su gran número de fieles y su capacidad para movilizar el voto.
 
 Con su considerable tamaño y organización, la Iglesia Asamblea de Dios se ha convertido en un actor político de gran peso en Brasil, influyendo en las elecciones, la política legislativa y la vida pública. Su influencia se manifiesta en el apoyo a candidatos políticos conservadores, en la creación del "Frente Parlamentario Evangélico", y en la presión para influir en leyes sobre ciertos temas relacionados con su doctrina religiosa.
 
@@ -50,4 +50,3 @@ Angoleños, todavía están a tiempo.
 [Créditos de imágenes y cierta información: Eduardo Francisco] [1]_
 
 .. [1] https://www.facebook.com/story.php?story_fbid=122569621370000158&id=61550004751979&rdid=tgGqJB4rnex0UBat
-

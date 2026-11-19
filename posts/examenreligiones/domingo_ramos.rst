@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: El Domingo de Ramos: la provocación final de un aspirante a Mesías
 .. date: 2026-03-29 11:46:50+00:00
 .. category: Examinando las religiones
@@ -50,5 +50,3 @@ Por tanto, lo que ocurrió aquel primer Domingo de Ramos, lejos de ser una escen
 La historia posterior la escribieron sus seguidores. Pero el episodio original, leído con frialdad histórica, revela algo muy distinto: el momento en que un predicador galileo decidió actuar públicamente como el Mesías que estaba seguro de ser.
 
 [Godless Freeman]
-
-

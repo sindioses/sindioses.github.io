@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿A quién se le ocurrió la idea de los fines de semana?
 .. date: 2025-11-28 14:23:31+00:00
 .. category: Sociedad y religión
@@ -66,5 +66,3 @@ Así que a disfrutar del descanso que viene, eso sí, con cordura.
 .. [3] https://es.wikipedia.org/wiki/Semana
 
 .. [4] https://es.wikipedia.org/wiki/Semana_laboral
-
-

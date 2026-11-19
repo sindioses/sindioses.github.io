@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Existe la "suerte"? Entre el mito reconfortante y el incómodo azar
 .. date: 2026-05-08 11:48:46+00:00
 .. category: Escepticismo
@@ -42,5 +42,3 @@ Pero la "suerte" no es una fuerza que actúa sobre nosotros. Ni mucho menos es u
 https://es.wikipedia.org/wiki/Frane_Selak
 
 https://es.wikipedia.org/wiki/Richard_Wiseman
-
-

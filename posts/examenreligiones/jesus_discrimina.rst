@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: La mujer que fue discriminada y humillada por Jesús por no ser judía como él
 .. date: 2026-01-18 12:47:25+00:00
 .. category: Examinando las religiones
@@ -38,6 +38,3 @@ Este episodio en todo caso muestra a un Jesús que llama "perros" a los no judí
 [Godless Freeman]
 
 [Crédito de imagen: Diego Andrés]
-
-
-

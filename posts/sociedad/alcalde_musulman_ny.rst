@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Zohran Mamdani, el primer alcalde musulmán de Nueva York: ¿Mantendrá el delicado equilibrio entre identidad cultural y secularismo?
 .. date: 2025-11-09 14:34:01+00:00
 .. category: Sociedad y religión
@@ -62,5 +62,3 @@ Referencias
 * https://elpais.com/internacional/2025-11-05/el-joven-socialista-zohran-mamdani-conquista-nueva-york-con-su-promesa-de-cambio-frente-a-trump.html
 * https://cnnespanol.cnn.com/eeuu/live-news/resultados-eleccionesee-uu-en-vivo-mamdani-gobernadores-trax
 * https://www.lasexta.com/noticias/internacional/mamdani-reta-trump-historica-victoria-nueva-york-que-estas-escuchando-sube-volumen_20251105690b03325d5dad37ab7cc03c.html
-
-

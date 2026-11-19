@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Y tú ya te diste cuenta de que has estado adorando a un dios ajeno?
 .. date: 2026-03-04 11:45:01+00:00
 .. category: Examinando las religiones
@@ -44,5 +44,3 @@ O sea, desde la antropología cultural, el fenómeno es claro: las religiones na
 Al final lo extraño no es que cada pueblo haya creado sus propios dioses, lo verdaderamente curioso es que hoy medio planeta rece mirando hacia otro lado; hacia un lejano país que no tiene nada que ver con su cultura original.
 
 [Godless Freeman]
-
-

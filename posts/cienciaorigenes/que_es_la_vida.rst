@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Qué es la vida?: ¿Un misterio metafísico o filosófico? ¿Un soplo divino?
 .. date: 2025-11-04 14:10:36+00:00
 .. category: Ciencia de los orígenes
@@ -91,4 +91,3 @@ Lo que sí existe es materia organizada, energía y evolución. Y eso es suficie
 [Crédito de imagen: Biblioteca de Investigaciones/Wordpress]
 
 .. [1] https://noblecoran.com/index.php/coran-traducido/traduccion-de-abdel-ghani-melara/188-38-sura-de-sad
-

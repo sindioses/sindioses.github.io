@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: El absurdo dogma de la "Santísima Trinidad": cuando 3=1
 .. date: 2026-03-11 11:51:40+00:00
 .. category: Examinando las religiones
@@ -48,5 +48,3 @@ De cualquier forma, se trata probablemente del dogma más absurdo del cristianis
 En fin, en una época en que cualquiera puede consultar la historia del cristianismo en minutos, sigue siendo sorprendente que una doctrina tan absurda, confusa y contradictoria continúe siendo considerada la piedra angular de la fe. Quizá la explicación sea simple: las creencias religiosas, una vez institucionalizadas, sobreviven mejor por tradición que por coherencia.
 
 [Godless Freeman]
-
-

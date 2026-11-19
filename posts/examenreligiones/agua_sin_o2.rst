@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿El creador del Universo no sabía que el agua no podía existir antes del oxígeno?
 .. date: 2025-11-16 15:03:06+00:00
 .. category: Examinando las religiones
@@ -57,4 +57,3 @@ Y en todo caso, si algo se movía, era el universo mismo… expandiéndose, pero
 [Godless Freeman]
 
 [Crédito de imagen: Deshen Ministries]
-

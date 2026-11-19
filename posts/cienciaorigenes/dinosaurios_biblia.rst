@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Los dinosaurios y la Biblia: un conflicto insalvable entre la evidencia y el mito
 .. date: 2026-03-12 11:49:24+00:00
 .. category: Ciencia de los orígenes
@@ -52,4 +52,3 @@ La antropología nos enseña que los mitos fundacionales cumplen funciones simb�
 .. [1] https://es.wikipedia.org/wiki/Dinosauria
 
 .. [2] https://henryvigil.wordpress.com/los-dinosaurios/
-

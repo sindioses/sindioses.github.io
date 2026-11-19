@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Que no puede haber moralidad sin dioses?
 .. date: 2026-01-25 11:36:22+00:00
 .. category: Sociedad y religión
@@ -44,5 +44,3 @@ Pero entonces, si la moral no está escrita en las estrellas, ¿cómo establecer
 En fin, la moral es un tema que seguirá siendo objeto de debate, conflicto y revisión. Pero eso no es una debilidad, sino una fortaleza. Lo verdaderamente inquietante no es que haya una moral sin dioses, sino una moral que se niega a revisarse porque cree haber sido dictada por una voz invisible. Sin embargo, la ética humana no necesita mandamientos grabados en piedra ni amenazas eternas. Necesita reflexión, empatía, conocimiento y responsabilidad. Y, sobre todo, necesita liberarse de la idea —tan defendida por las religiones— de que sin obediencia a un "Dios", el ser humano queda moralmente a la deriva. Nada más lejos de la realidad.
 
 [Godless Freeman]
-
-

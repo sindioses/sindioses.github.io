@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: En el día de la Virgen de Guadalupe: La historia de un mito ventajoso, un sincretismo brillante y una canonización controvertida
 .. date: 2025-12-12 12:37:27+00:00
 .. category: Examinando las religiones
@@ -38,4 +38,3 @@ Pero también es real —históricamente— que esta devoción nació de una há
 Y sin embargo aun así, la Virgen de Guadalupe sigue ahí, más viva, más mexicana y más influyente que nunca. Tal vez en eso radique su verdadero milagro: en sobrevivir a su propia historia, una historia fabricada con engaños, manipulaciones e hipocresías, que dieron y siguen dando resultado.
 
 [Godless Freeman]
-

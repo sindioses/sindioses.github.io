@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Oración, dopamina y azar: Por qué el cerebro del creyente funciona como una máquina tragamonedas
 .. date: 2026-02-15 11:47:31+00:00
 .. category: Escepticismo
@@ -73,5 +73,3 @@ Fuentes y lecturas adicionales
 - Dawkins, R. (2006). The God Delusion. Bantam Press.
 - Skinner, B.F. (1948). "Superstition in the Pigeon." Journal of Experimental Psychology.
 - Shermer, M. (2011). The Believing Brain.
-
-

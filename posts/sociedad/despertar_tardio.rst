@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Caroline Vee: la represión, el despertar tardío y el costo psicológico de la moral sexual religiosa
 .. date: 2026-02-04 11:44:39+00:00
 .. category: Sociedad y religión
@@ -55,5 +55,3 @@ Desde una mirada psicológica el caso de Caroline Vee no habla de "decadencia", 
 [Crédito de imagen: UPSOMEDIA]
 
 .. [1] https://www.facebook.com/photo/?fbid=1443446817150994&set=a.813717076790641
-
-

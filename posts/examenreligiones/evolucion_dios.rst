@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: La evolución de "Dios"
 .. date: 2026-03-18 11:53:38+00:00
 .. category: Examinando las religiones
@@ -94,5 +94,3 @@ Esto, a pesar de que el dios de la biblia afirma ser inmutable, que "no cambia":
 En realidad no cambió "Dios", cambiaron los humanos que lo reinventaron para que fuera compatible con nuevas cosmologías, filosofías y estructuras de poder. Nadie hoy adoraría al dios iracundo, corporal, ignorante y derrotado por carros de hierro del Génesis. Igual que los seres vivos estudiados por Darwin, también "Dios" tuvo que evolucionar para sobrevivir. De un primitivo dios tribal antropomórfico, evolucionó hasta convertirse en lo que es hoy: un hipotético ser perfecto, absoluto metafísico y trinitario. Pero al final, la historia de "Dios" es, realmente, la historia del pensamiento humano, proyectándose a sí mismo al infinito.
 
 [Godless Freeman]
-
-

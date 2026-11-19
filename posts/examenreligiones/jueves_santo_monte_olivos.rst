@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: La noche del Jueves Santo en el Monte de los Olivos: cuando el "Cordero de Dios" tuvo miedo y sudó sangre
 .. date: 2026-04-02 12:00:38+00:00
 .. category: Examinando las religiones
@@ -38,5 +38,3 @@ Se entiende claramente que, en aquel apartado lugar Jesús había decidido reuni
 Como vemos, al final de todo este relato lo que prevalece es la imagen de un Jesús atrapado entre sus propias ideas, que duda en el último momento si seguir con sus planes; abandonado por sus discípulos cuando más apoyo necesitaba, unos discípulos armados que no eran pacifistas. Un Jesús que experimentó tanto miedo, que sudó sangre. Esto, aunado a un denigrado discípulo que sí fue fiel a sus planes, y que no era ningún traidor, más otro anónimo que en aquel momento de tensión, decidió por algún motivo inexplicable desnudarse.
 
 [Godless Freeman]
-
-

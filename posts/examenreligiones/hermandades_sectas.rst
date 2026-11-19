@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Esas "hermandades espirituales" … Sin dioses, pero siempre sectas
 .. date: 2026-04-30 11:50:48+00:00
 .. category: Examinando las religiones
@@ -66,5 +66,3 @@ Al final el problema no es tanto que existan creencias "espirituales". El proble
 .. [4] https://esoterismo-guia.blogspot.com/2021/08/samael-fue-alcoholico-borracho.html
 
 .. [5] https://www.youtube.com/watch?v=3bATW-EyCU0
-
-

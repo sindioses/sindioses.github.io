@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Las sectas: cómo funciona un sistema dogmático y cuáles son sus víctimas favoritas
 .. date: 2026-01-23 11:40:01+00:00
 .. category: Sociedad y religión
@@ -130,5 +130,3 @@ En resumen, una secta no es sólo un grupo raro o una religión minoritaria; es 
 [Godless Freeman]
 
 [Crédito de imagen: El Jaume Parla]
-
-

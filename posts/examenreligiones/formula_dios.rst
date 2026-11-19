@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Ahora los creyentes buscan fórmulas matemáticas para "demostrar la existencia de Dios"?
 .. date: 2025-10-27 13:51:31+00:00
 .. category: Examinando las religiones
@@ -60,4 +60,3 @@ Referencias:
 * https://www.thecrimson.com/article/2015/2/25/willie-soon-harvard-name/
 
 * https://insideclimatenews.org/news/04032015/weak-link-harvard-smithsonian-gave-star-power-climate-contrarian-willie-soon/
-

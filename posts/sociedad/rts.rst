@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: El Síndrome de Trauma Religioso (RTS): cuando la fe deja cicatrices invisibles, pero profundas
 .. date: 2026-04-28 11:39:19+00:00
 .. category: Sociedad y religión
@@ -60,5 +60,3 @@ Y reconocer esto no es un ataque gratuito a la religión. Es, más bien, un acto
 [Godless Freeman]
 
 https://www.geledes.org.br/fundamentalismo-religioso-e-causa-de-graves-transtornos-mentais/
-
-

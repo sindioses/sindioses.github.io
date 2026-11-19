@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Tiene algún sentido razonar con quien ha renunciado a la razón?
 .. date: 2026-01-09 14:31:32+00:00
 .. category: Sociedad y religión
@@ -82,5 +82,3 @@ Porque, creer contra la evidencia no es fe admirable. Es, simple y llanamente, o
 .. [2] https://quotepark.com/quotes/826605-richard-dawkins-if-all-the-evidence-in-the-universe-turned-in-favo/
 
 .. [3] http://www.librosmaravillosos.com/elespejismodedios/pdf/El%20espejismo%20de%20Dios%20-%20Richard%20Dawkins.pdf
-
-

@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Existía Nazaret en tiempos de Jesús?
 .. date: 2025-10-29 14:11:12+00:00
 .. category: Examinando las religiones
@@ -72,4 +72,3 @@ En suma, "Jesús de Nazaret" combina hechos históricos dudosos con invenciones 
 .. [3] http://etimologias.dechile.net/?Jesu.s
 
 .. [4] https://es.wikipedia.org/wiki/Jes%C3%BAs_(nombre)
-

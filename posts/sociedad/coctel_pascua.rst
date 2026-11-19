@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Equinoccio, dioses que resucitan, corderos sacrificados y conejos que ponen huevos: el extraño coctel de la primavera
 .. date: 2026-03-20 11:45:50+00:00
 .. category: Sociedad y religión
@@ -44,5 +44,3 @@ Y entonces, mientras el equinoccio de primavera ocurre este 20 de marzo, la maqu
 De esta forma, cada primavera, la humanidad repite uno de los espectáculos culturales más curiosos de su historia: celebrar simultáneamente un equinoccio astronómico, una antigua matanza bíblica (que afortunadamente no existió), y la supuesta resurrección de un dios… todo junto con la generosidad de un conejo que reparte huevos… ahora de chocolate.
 
 [Godless Freeman]
-
-

@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿La religión afecta la capacidad de pensar de los niños?
 .. date: 2025-12-15 12:09:23+00:00
 .. category: Examinando las religiones
@@ -49,5 +49,3 @@ Pero más allá de eso, la psicología del desarrollo infantil nos recuerda que 
 [Godless Freeman]
 
 [Crédito de imagen: Ivelisse Serpa]
-
-

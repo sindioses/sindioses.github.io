@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Por qué "Dios" se comunicó con la humanidad al estilo Picapiedra, en tiempos que ya existía el papiro?
 .. date: 2025-12-29 12:10:10+00:00
 .. category: Examinando las religiones
@@ -32,5 +32,3 @@ Lo cierto es que este episodio no revela tanto la grandeza de un dios eterno, co
 Más que un milagro, el Sinaí parece un capítulo perdido de Los Picapiedra: solemne, sí, pero tecnológicamente anacrónico. Y a la vez profundamente humano.
 
 [Godless Freeman]
-
-

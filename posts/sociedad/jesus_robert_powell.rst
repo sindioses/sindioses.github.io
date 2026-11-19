@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Robert Powell: el "Jesús" que no pidió ser adorado, pero nunca no pudo evitarlo
 .. date: 2026-03-30 11:48:57+00:00
 .. category: Sociedad y religión
@@ -44,4 +44,3 @@ Y mientras quizás alguien le enciende una vela en esta Semana Santa, su legado 
 .. [1] https://es.wikipedia.org/wiki/Robert_Powell
 
 .. [2] https://www.bbc.com/mundo/noticias-46593230
-

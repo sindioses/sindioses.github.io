@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Recordando a Carl Sagan a 29 años de su fallecimiento
 .. date: 2025-12-20 13:03:27+00:00
 .. category: Escepticismo
@@ -36,5 +36,3 @@ Ann Druyan no sólo compartió con Carl Sagan parte importante de su vida, sino 
 Referencia:
 
 https://culturacolectiva.com/tecnologia/ann-druyan-carta-de-despedida-carl-sagan
-
-

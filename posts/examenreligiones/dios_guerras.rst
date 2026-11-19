@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Por qué "Dios" permite las guerras?
 .. date: 2026-03-15 11:30:47+00:00
 .. category: Examinando las religiones
@@ -64,5 +64,3 @@ En este caso tenemos, pues, dos hipótesis:
 Así que la explicación más sencilla y racional es que "Dios" es sólo una creación humana, y que la guerra —como la religión misma— es una construcción histórica de nuestra especie. Y entonces, la pregunta queda abierta: Si "Dios" permite las guerras porque son parte de sus "planes misteriosos", ¿no será más honesto admitir que ese misterio no es divino, sino humano?
 
 [Godless Freeman]
-
-

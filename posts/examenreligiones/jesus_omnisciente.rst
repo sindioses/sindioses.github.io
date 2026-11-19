@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Jesús: Un dios omnisciente que ignoraba casi todo
 .. date: 2025-11-05 12:41:29+00:00
 .. category: Examinando las religiones
@@ -58,4 +58,3 @@ En definitiva, la imagen que los evangelios nos dejan de Jesús, es la de un hom
 Así que todo indica que Jesús, de haber existido, fue sólo un judío más de su época, encerrado en las fronteras mentales de su cultura, y tan ignorante del cosmos como cualquier otro hijo del siglo I. Si Jesús fuera "Dios", sería un dios sorprendentemente desinformado. Pero como no lo fue, todo encaja perfectamente.
 
 [Godless Freeman]
-

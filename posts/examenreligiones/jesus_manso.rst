@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Era realmente Jesús "manso y humilde de corazón"?
 .. date: 2026-01-20 12:45:40+00:00
 .. category: Examinando las religiones
@@ -51,5 +51,3 @@ Pero además, la mansedumbre es incompatible con algunos comportamientos de Jes�
 Por tanto, la imagen de un Jesús "manso y humilde de corazón" no surge de una lectura completa y crítica de los evangelios, sino de una selección interesada de ciertos textos, amplificada por siglos de catequesis y devoción acrítica. Leído sin filtros teológicos, Jesús aparece menos como un liberador y más como un líder apocalíptico que reemplaza un sistema de dominación por otro, ofreciendo consuelo emocional a cambio de obediencia total. Pero un yugo no deja de ser yugo por llamarse "fácil" y de "carga ligera", así como la imposición de una figura autoritaria no se vuelve virtud por adornarse con la palabra "mansedumbre".
 
 [Godless Freeman]
-
-

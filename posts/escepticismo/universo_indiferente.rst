@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: No, el universo no es un refugio de paz; es un campo de batalla indiferente al sufrimiento
 .. date: 2026-03-10 15:13:28+00:00
 .. category: Escepticismo
@@ -40,4 +40,3 @@ Al final los humanos somos hasta ahora, como decía Carl Sagan, la única forma 
 [Godless Freeman]
 
 [Crédito de imagen: CNN]
-

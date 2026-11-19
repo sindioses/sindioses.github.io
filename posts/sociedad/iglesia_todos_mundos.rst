@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Cuando una novela se convierte en religión: el curioso caso de la "Iglesia de Todos los Mundos"
 .. date: 2026-04-21 11:41:09+00:00
 .. category: Sociedad y religión
@@ -62,5 +62,3 @@ https://es.wikipedia.org/wiki/Forastero_en_tierra_extra%C3%B1a
 /////
 
 .. [*] Para ser justos, *grok* se usa en otras comunidades. Entre los programadores y desarrolladores, por ejemplo, *grokking* incluye un conocimiento pleno y cabal en el sentido marciano original, sin connotación religiosa. [N. de E.]
-
-

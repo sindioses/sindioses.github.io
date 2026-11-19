@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: El temor al pensamiento: los libros prohibidos por la Iglesia católica y el precio del atraso
 .. date: 2026-03-17 11:36:15+00:00
 .. category: Sociedad y religión
@@ -36,4 +36,3 @@ Si el conocimiento fue prohibido, no fue para proteger la fe. Fue para proteger 
 [Godless Freeman]
 
 [Crédito de imagen: Relatos de media noche]
-

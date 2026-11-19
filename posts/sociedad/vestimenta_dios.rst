@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Cuando te vistes para agradar a "Dios"
 .. date: 2026-02-09 11:49:06+00:00
 .. category: Sociedad y religión
@@ -67,5 +67,3 @@ Por supuesto, desde una visión antropológica la obsesión bíblica con la ropa
 [Godless Freeman]
 
 [Crédito de imagen: JesusFLix]
-
-

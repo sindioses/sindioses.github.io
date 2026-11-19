@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿"Agua bendita"? Cuando la ciencia desenmascara una superstición
 .. date: 2025-11-06 13:58:31+00:00
 .. category: Escepticismo
@@ -67,4 +67,3 @@ Pero aclaremos de una vez por todas, que el agua bendita no existe como fenómen
 [Godless Freeman]
 
 https://es.wikipedia.org/wiki/Agua_bendita
-

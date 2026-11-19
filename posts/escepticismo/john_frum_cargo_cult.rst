@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: John Frum y los cultos cargo: cuando la tecnología se convierte en dios
 .. date: 2026-02-19 11:47:18+00:00
 .. category: Escepticismo
@@ -33,7 +33,7 @@ Los creyentes del culto sostienen que John Frum regresará un día, trayendo abu
 
 Se afirma que el naturalista David Attenborough, durante una visita a Melanesia, preguntó a un seguidor de aquel culto por qué seguían creyendo en John Frum tras décadas de espera. La respuesta que se le atribuye es demoledora: "¿Acaso ustedes no llevan dos mil años esperando a su Mesías? ¿Por qué íbamos nosotros a cansarnos después de unas pocas décadas?" —Sea o no literal, la anécdota es profundamente reveladora.
 
-El culto a John Frum suele presentarse en documentales y libros como una curiosidad exótica. Sin embargo, desde una postura crítica, funciona más bien como un espejo. La única diferencia sustancial entre estos cultos y las grandes religiones institucionalizadas es el tiempo transcurrido y el grado de sofisticación del relato. Donde hoy vemos aviones de barro, ayer se veneraban zarzas ardientes, carros de fuego o una virgen fecundada por un espíritu invisible que solía adoptar la forma de una paloma. 
+El culto a John Frum suele presentarse en documentales y libros como una curiosidad exótica. Sin embargo, desde una postura crítica, funciona más bien como un espejo. La única diferencia sustancial entre estos cultos y las grandes religiones institucionalizadas es el tiempo transcurrido y el grado de sofisticación del relato. Donde hoy vemos aviones de barro, ayer se veneraban zarzas ardientes, carros de fuego o una virgen fecundada por un espíritu invisible que solía adoptar la forma de una paloma.
 
 En todo caso, los cultos cargo desmontan la idea de que las religiones nacen de revelaciones profundas o verdades trascendentes. Muestran, sin adornos, que los dioses pueden surgir del malentendido, la desigualdad tecnológica y la necesidad humana de sentido. Lo que en Tanna ocurrió en pocas décadas, en otras culturas tardó siglos en cristalizar.
 
@@ -44,4 +44,3 @@ Cada 15 de febrero, mientras en Tanna se espera el regreso de John Frum, en much
 [Godless Freeman]
 
 https://www.xatakaciencia.com/no-te-lo-creas/el-dios-frumm-y-otras-religiones-y-mitos-delirantes-ii
-

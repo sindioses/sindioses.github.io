@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Jonestown: el fanatismo religioso que llevó a 918 personas a quitarse la vida
 .. date: 2025-11-18 14:19:09+00:00
 .. category: Sociedad y religión
@@ -41,5 +41,3 @@ Referencias
 * https://es.wikipedia.org/wiki/Jonestown
 * https://es.wikipedia.org/wiki/Jim_Jones_(pastor)
 * https://historycollection.com/25-unpleasant-facts-about-the-jonestown-massacre/
-
-

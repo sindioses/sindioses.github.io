@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: En el Día de los Derechos Humanos: ¿Libertad de religión o licencia para manipular?
 .. date: 2025-12-10 12:51:03+00:00
 .. category: Sociedad y religión
@@ -63,5 +63,3 @@ El artículo 18, en particular, requiere una reflexión madura: ¿Defiende la li
 Nosotros pensamos que ya es tiempo de replantear la ambigua "libertad de religión", y volver al principio más sólido, más racional y más universal: "la libertad de pensamiento y de conciencia", sin apellidos, sin privilegios, y sin excepciones disfrazadas de espiritualidad.
 
 [Godless Freeman]
-
-

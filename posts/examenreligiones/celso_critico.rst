@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Celso: el primer gran crítico filosófico del cristianismo
 .. date: 2025-11-11 15:02:37+00:00
 .. category: Examinando las religiones
@@ -54,5 +54,3 @@ En otras palabras, Celso puede considerarse un precursor de la crítica racional
 Celso fue un filósofo que, desde la razón y la tradición cultural grecorromana, denunció el cristianismo como una superstición peligrosa y divisiva. Su rechazo a la encarnación, a los milagros y al exclusivismo religioso, resuena hoy con las críticas que muchos ateos modernos seguimos planteando, aunque Celso mismo nunca abandonó el terreno de la religiosidad.
 
 [Godless Freeman]
-
-

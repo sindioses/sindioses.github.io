@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Uzías: el rey que se atrevió a adorar de más a "Dios"… y recibió por ese exceso un cruel castigo
 .. date: 2026-01-13 12:09:59+00:00
 .. category: Examinando las religiones
@@ -42,4 +42,3 @@ En fin, esta historia de Uzías, vista a la luz de la ciencia y el análisis cr�
 .. [2] https://www.mspbs.gov.py/portal/14063/lepra-no-se-transmite-con-un-abrazo-o-apreton-de-manos-ni-por-compartir-cubiertos-o-el-bantildeo.html
 
 .. [3] https://www.health.ny.gov/es/diseases/communicable/leprosy/fact_sheet.htm
-

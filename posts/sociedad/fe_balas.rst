@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Fe, balas y altares: la religiosidad del crimen organizado en el caso de El Mencho
 .. date: 2026-02-27 11:42:05+00:00
 .. category: Sociedad y religión
@@ -60,5 +60,3 @@ https://www.bbc.com/mundo/articles/cq5vervp894o
 https://es.wikipedia.org/wiki/Jes%C3%BAs_Malverde
 
 https://es.wikipedia.org/wiki/Claudio_Lomnitz
-
-

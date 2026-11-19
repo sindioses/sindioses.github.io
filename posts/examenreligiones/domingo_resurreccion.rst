@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Domingo de Resurrección: entre la biología, la literatura y la fantasía
 .. date: 2026-04-05 11:34:47+00:00
 .. category: Examinando las religiones
@@ -92,5 +92,3 @@ Ahora, desde una perspectiva científica, la resurrección no es un milagro inex
 .. [2] https://www.univision.com/explora/que-es-la-velocidad-de-escape
 
 .. [3] https://www.facebook.com/watch/?ref=saved&v=515746852105012
-
-

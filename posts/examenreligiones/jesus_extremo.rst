@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: El pensamiento dicotómico de Jesús
 .. date: 2026-01-11 14:00:20+00:00
 .. category: Examinando las religiones
@@ -60,5 +60,3 @@ Y es que la inconsistencia no es un detalle menor: revela que el falso dilema no
 En fin, la psicología lo dice sin rodeos: el "conmigo o contra mí" es una herramienta de coacción cognitiva. Reduce la libertad de conciencia, castiga la duda, y transforma en traición el desacuerdo. Y el hecho de que una figura religiosa la haya popularizado no la vuelve virtuosa; la vuelve peligrosa. Que siglos después la repitan líderes políticos, lo único que demuestra es que no estamos ante una verdad profunda, sino ante un atajo autoritario para controlar mentes. Pero la realidad humana no es binaria. Quien insiste en que lo sea, no busca diálogo: lo único que busca es obediencia.
 
 [Godless Freeman]
-
-

@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Científico cristiano confirma que Dios detuvo el universo cuando Josué oró, como lo dice la Biblia
 .. date: 2026-02-16 12:08:46+00:00
 .. category: Escepticismo
@@ -73,5 +73,3 @@ Lo cierto es que cuando la religión trata de apoyarse en la ciencia sin respeta
 .. [1] https://www.facebook.com/familiacristianaweb/posts/pfbid02SEawjjaRmVs1CdJdK3w6yPEghbsWENhtmjswYY18pQuA7FeJWjT9u8vwTyrFh3Nrl
 
 .. [2] https://www.noticiasprofeticas.com/2024/06/21/cientifico-reconoce-la-biblia-cuando-josue-oro-dios-hizo-detener-el-universo/
-
-

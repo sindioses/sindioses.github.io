@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: El salvaje episodio del levita y su concubina (no apto para menores de edad)
 .. date: 2025-11-23 15:16:33+00:00
 .. category: Examinando las religiones
@@ -60,5 +60,3 @@ Pero el problema no es que existan estos relatos —toda civilización antigua t
 Al final, tal vez la verdadera enseñanza de la historia del levita y su concubina no esté en su supuesto valor espiritual, sino en recordarnos hasta qué punto puede degradarse la moral humana cuando se somete al dogma religioso.
 
 [Godless Freeman]
-
-

@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Pero, qué es lo que se tiene "Dios" en contra de los cerdos?
 .. date: 2025-12-07 14:21:13+00:00
 .. category: Examinando las religiones
@@ -66,5 +66,3 @@ http://www.recitequran.com/es/2:173
 http://www.recitequran.com/es/6:145
 
 https://www.abc.es/internacional/abci-prohibe-islam-carne-cerdo-201611140202_noticia.html
-
-

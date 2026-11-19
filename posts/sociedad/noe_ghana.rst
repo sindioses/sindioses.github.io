@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: El Noé de Ghana y el eterno disparate
 .. date: 2025-12-27 12:28:57+00:00
 .. category: Sociedad y religión
@@ -42,5 +42,3 @@ https://www.facebook.com/noticiasdelfin/posts/pfbid0NPsxxCMUqz34uyae3cxPP4o5DenU
 https://timesofindia.indiatimes.com/etimes/trending/biblical-covenant-broken-ghanaian-man-builds-modern-day-noahs-ark-warns-of-2025-christmas-flood/articleshow/125820156.cms
 
 https://www.arabtimesonline.com/news/world-ending-on-december-25-ghanaian-man-builds-arks-ahead-of-christmas-flood-prophecy/
-
-

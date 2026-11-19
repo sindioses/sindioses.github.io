@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Ahora resulta que las mujeres iraníes tienen la culpa de la sequía de su país, por no usar "correctamente" el velo islámico
 .. date: 2025-11-21 14:32:43+00:00
 .. category: Sociedad y religión
@@ -50,4 +50,3 @@ En realidad, lo que se está extinguiendo en Irán no es sólo un río, ni sólo
 .. [2] https://english.alarabiya.net/.../Iran-imam-blames-lack...
 
 .. [3] https://iranfocus.com/.../55938-state-cleric-blames.../
-

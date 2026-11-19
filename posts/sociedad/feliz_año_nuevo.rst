@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¡Feliz año nuevo! (¿Año Nuevo?... ¿por qué año nuevo?)
 .. date: 2026-01-01 12:18:05+00:00
 .. category: Sociedad y religión
@@ -96,5 +96,3 @@ Sin embargo, como cualquier otra ocasión en que nos pongamos de acuerdo, es un 
 **¡Feliz año nuevo 2026!** (o lo que tu calendario prefiera)
 
 [Godless Freeman]
-
-

@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Que una hormiga reconozca su imagen en un espejo demuestra que tiene consciencia de sí misma? ¿Qué tienen que ver en esto las neuronas espejo?
 .. date: 2026-01-27 11:40:44+00:00
 .. category: Sociedad y religión
@@ -54,5 +54,3 @@ https://www.instagram.com/apizacoyalrededores/p/DSyRFHOiKFL/?hl=bg
 .. [1] Diego Golombek, "Las neuronas de Dios". https://www.academia.edu/32303707/Diego_Golombek_Las_neuronas_de_Dios
 
 .. [2] https://www.facebook.com/watch/?ref=saved&v=1858073037587573
-
-

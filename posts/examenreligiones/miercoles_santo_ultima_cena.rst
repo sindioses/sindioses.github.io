@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: El Miércoles Santo y la Última Cena: entre un extraño simbolismo y escenas desconcertantes
 .. date: 2026-04-01 11:56:04+00:00
 .. category: Examinando las religiones
@@ -48,5 +48,3 @@ Digamos pues, en conclusión, que el episodio de la Última Cena, lejos de ser s
 .. [1] https://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/jesus-historical-jesus/the-last-days-of-jesus-a-final-messianic-meal/
 
 .. [2] "El hombre que se convirtió en Dios", Gérald Messadié, Colección Enigmas del Cristianismo, Ediciones Martínez Roca, S. A., Barcelona, España, 1988.
-
-

@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Eres cristiano y tienes alguna discapacidad? Lamento decirte que eres rechazado por el Dios de la Biblia
 .. date: 2025-12-03 12:21:38+00:00
 .. category: Sociedad y religión
@@ -46,5 +46,3 @@ Así que este 3 de diciembre, mientras el mundo celebra la diversidad humana, co
 [Godless Freeman]
 
 [Crédito de imagen: Energía para el Futuro]
-
-

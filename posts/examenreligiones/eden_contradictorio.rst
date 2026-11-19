@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: El Edén: un jardín lleno de contradicciones
 .. date: 2026-05-01 12:10:06+00:00
 .. category: Examinando las religiones
@@ -44,5 +44,3 @@ Y con ello, todo el edificio teológico que se construye sobre esa base —el "p
 En resumen, el Edén no es el Paraíso perdido de la humanidad, sino un ejemplo interesante de cómo las culturas antiguas intentaban explicar el mundo con los pobres recursos narrativos que tenían. El problema surge cuando esos relatos, cargados de simbolismo y contradicción, se siguen defendiendo como verdades literales en pleno siglo XXI. Ahí es donde el mito deja de ser poesía… y empieza a convertirse en obstáculo para el pensamiento crítico.
 
 [Godless Freeman]
-
-

@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: El arcoíris de Noé: cuando la razón y la meteorología desmienten un "pacto divino"
 .. date: 2026-01-02 12:36:25+00:00
 .. category: Examinando las religiones
@@ -42,5 +42,3 @@ Pero hoy sabemos además que nunca existió un Diluvio Universal que destruyera 
 Así que en conclusión podemos decir que el relato del arcoíris en el Génesis no es una revelación divina sobre la naturaleza, sobre la realidad, sino un testimonio de la limitada comprensión humana de su tiempo. Leído hoy no demuestra la sabiduría de ningún "Dios" creador del universo, sino sólo la tendencia humana de atribuir significado sobrenatural a fenómenos naturales todavía incomprensibles. La meteorología moderna, sin embargo, no sólo explica el arcoíris, lo desmitifica y lo devuelve a su lugar legítimo, como un hermoso, pero completamente natural juego de luz y agua. Y en ese proceso, deja en evidencia que los "pactos divinos" sólo pertenecen al ámbito de la mitología, no al de la ciencia, ni de la realidad.
 
 [Godless Freeman]
-
-

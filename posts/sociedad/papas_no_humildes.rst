@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: ¿Que los papas son personas humildes?
 .. date: 2026-04-13 11:42:37+00:00
 .. category: Sociedad y religión
@@ -64,5 +64,3 @@ Entonces, vienen ahora las preguntas: ¿Creen ustedes que el papa tiene un nivel
 Sinceramente, ¿creen ustedes que los papas son humildes?
 
 [Godless Freeman]
-
-

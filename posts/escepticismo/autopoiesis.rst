@@ -1,4 +1,4 @@
-.. author: Iván González Mairena
+.. author: Iván Gonzáles Mairena
 .. title: Recordando a Humberto Maturana, y su biología que dejó sin trabajo a los dioses
 .. date: 2026-05-06 11:48:54+00:00
 .. category: Escepticismo
@@ -42,5 +42,3 @@ Humberto Maturana no fue un predicador del ateísmo, fue algo más peligroso par
 https://www.dw.com/es/fallece-el-destacado-bi%C3%B3logo-y-fil%C3%B3sofo-chileno-humberto-maturana/a-57454895
 
 https://www.eltiempo.com/vida/ciencia/que-es-la-autopoiesis-del-biologo-humberto-maturana-317942
-
-
