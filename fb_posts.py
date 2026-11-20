@@ -112,11 +112,11 @@ def display_post(post: Post) -> None:
 
 @app.command
 def collect(
-    initial_date: date | Literal["latest"],
-    final_date: date | None = None,
+    initial_date: datetime | Literal["latest"],
+    final_date: datetime | None = None,
     /,
     *,
-    force: bool = False,
+    force: Annotated[bool, Parameter(alias='-F')] = False,
     overwrite_message: Annotated[bool, Parameter(alias="-M")] = False,
     page_id: str = "115097879246",
     api_version: str = "v26.0",

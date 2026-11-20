@@ -20,5 +20,9 @@ WHERE 1=1
 --    AND created_time between '2026-01-15' and '2026-01-21'
 ORDER BY created_time;
 
-update posts set author = 'Iván González Mairena'
-where message like '%[Godless Freeman]%' and author is null
+update posts set author = 'Iván Gonzáles Mairena'
+where 1=1
+    and (
+        message like '%[Godless Freeman]%' and author is null
+        or author = 'Iván González Mairena'
+    )
