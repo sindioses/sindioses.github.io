@@ -9,7 +9,7 @@ def test_editorial_markup_is_preserved_and_adapted() -> None:
     assert result.title == "Título"
     assert result.description == 'Descripción "citada".'
     assert result.body == (
-        'Descripción "citada".\n\nTexto ({{% biblia "Juan 3:16" DHH %}}) y ({{% biblia_multi_coma "Juan 3:16, Génesis 1:1" DHH %}}).\n\nNota [1]_\n\n.. [1] Referencia.\n\n- Elemento'
+        'Descripción "citada".\n\nTexto ({{% biblia "Juan 3:16" DHH %}}) y ({{% biblia "Juan 3:16, Génesis 1:1" DHH %}}).\n\nNota [1]_\n\n.. [1] Referencia.\n\n- Elemento'
     )
 
 
