@@ -14,8 +14,8 @@ FROM posts
 WHERE 1=1
     AND message is not null
     AND length(message) > 2000
-    AND (author is null or category is null or slug is null)
---    AND author || category || slug is not null
+--    AND (author is null or category is null or slug is null)
+    AND author || category || slug is not null
 --    AND slug like 'kurt_wise'
 --    AND created_time between '2026-01-15' and '2026-01-21'
 ORDER BY created_time;

@@ -17,7 +17,7 @@ Si alguien quisiera escribir una comedia fantástica con tormentas sobrenaturale
 
 Paradójicamente, este relato sigue siendo considerado historia sagrada por millones de judíos, cristianos y musulmanes, aunque leído con ojos modernos parece más cercano a una sátira fantástica que a una crónica histórica.
 
-El protagonista es Jonás, cuyo nombre hebreo Yōnā significa "paloma"[1]_, un animal con que suele relacionarse al Espíritu Santo, porque según la Biblia, esta deidad acostumbraba transformarse en paloma para presentarse ante los humanos (Mateo 3:16, Marcos 1:10, Lucas 3:22, Juan 1:32). Pero ésta es sólo una de las curiosidades del personaje.
+El protagonista es Jonás, cuyo nombre hebreo Yōnā significa "paloma"[1]_, un animal con que suele relacionarse al Espíritu Santo, porque según la Biblia, esta deidad acostumbraba transformarse en paloma para presentarse ante los humanos ({{% biblia "Mateo 3:16, Marcos 1:10, Lucas 3:22, Juan 1:32" DHH %}}). Pero ésta es sólo una de las curiosidades del personaje.
 
 Según el relato bíblico, un día Jonás escucha la voz de Yahvé ordenándole: "Levántate y ve a Nínive, aquella gran ciudad", para advertir a sus habitantes por su mal comportamiento ({{% biblia "Jonás 1:1-2" DHH %}}). Hasta aquí, todo parece "normal" para un profeta bíblico. El problema surge cuando Jonás decide hacer exactamente lo contrario: huir "de la presencia de Jehová" ({{% biblia "Jonás 1:3" DHH %}}).
 
@@ -52,4 +52,5 @@ A pesar de todo, durante siglos, millones de creyentes han aceptado el relato si
 .. [1] https://es.wikipedia.org/wiki/Jon%C3%A1s_(profeta)
 
 .. [2] https://www.monografias.com/docs/Proceso-digestivo-de-los-peces-aves-anfibios-PKCUQ9LJMZ
+
 
