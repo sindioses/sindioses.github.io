@@ -212,7 +212,7 @@ def gen(
                     if not image_fn.exists() or image_force:
                         r = httpx.get(post["image"])
                         if r.status_code != 200:
-                            logger.error("No se pudo descargar la imagen para {}", post["slug"])
+                            logger.error("No se pudo descargar la imagen para {} ({})", post["slug"], post["created_time"])
                             r.raise_for_status()
                         image_fn.parent.mkdir(parents=True, exist_ok=True)
                         image_fn.write_bytes(r.content)
@@ -243,7 +243,7 @@ def gen(
 def main() -> None:
     try:
         app()
-    except CollectionError as error:
+    except (CollectionError, AttributeError, TypeError) as error:
         logger.error("{}", error)
         raise SystemExit(1) from None
     except KeyboardInterrupt:
